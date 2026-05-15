@@ -10,8 +10,12 @@ env:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -20,14 +24,15 @@ jobs:
       - name: Fetch fresh data from Feed America + OpenStreetMap
         run: node scripts/fetch-data.mjs
 
-      - name: Sync with latest remote commits
+      - name: Commit and push changes
         run: |
           git config user.name "Aid Finder Bot"
           git config user.email "bot@homeless-aid-finder.app"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Daily data refresh – updated city resources"
           git pull --rebase origin main
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Daily data refresh – updated city resources"
-          commit_user_name: "Aid Finder Bot"
-          commit_user_email: "bot@homeless-aid-finder.app"
+          git push origin main

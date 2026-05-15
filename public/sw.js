@@ -1,15 +1,26 @@
-const CACHE = "aid-finder-v1";
-const URLS = ["/"];
+const CACHE = "aid-finder-v2";
 
-self.addEventListener("install", (event) => {
+self.addEventListener("install", () => self.skipWaiting());
+
+self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches.open(CACHE).then((cache) => cache.addAll(URLS))
+    caches.keys().then((keys) =>
+      Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k)))
+    )
   );
 });
 
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
+  if (!event.request.url.startsWith(self.location.origin)) return;
+
   event.respondWith(
-    caches.match(event.request).then((hit) => hit || fetch(event.request))
+    fetch(event.request)
+      .then((res) => {
+        const copy = res.clone();
+        caches.open(CACHE).then((c) => c.put(event.request, copy));
+        return res;
+      })
+      .catch(() => caches.match(event.request))
   );
 });

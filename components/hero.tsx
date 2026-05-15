@@ -19,6 +19,12 @@ export function Hero({
         <p className="mt-4 max-w-2xl text-base leading-7 text-slate-300 md:text-lg">
           Built for low bandwidth, mobile use, and privacy. No login. No tracking. Just nearby help.
         </p>
+        <a
+          href="/submit"
+          className="mt-5 inline-flex items-center gap-2 rounded-xl bg-white/10 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-white/20"
+        >
+          + Submit a resource
+        </a>
       </div>
       <RegionPicker value={region} onChange={onRegionChange} />
     </header>

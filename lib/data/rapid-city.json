@@ -228,130 +228,16 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-12450670264",
-    "name": "Piedmont Valley Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South 2nd Street 111",
-    "city": "Piedmont",
-    "state": "SD",
-    "zip": "57769",
-    "phone": "",
-    "hours": "",
-    "lat": 44.2308406,
-    "lng": -103.3887259,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12996611284",
-    "name": "Keystone Town Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Madill Street 1101",
-    "city": "Keystone",
-    "state": "SD",
-    "zip": "57751",
-    "phone": "",
-    "hours": "",
-    "lat": 43.9015052,
-    "lng": -103.4111362,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-228442205",
-    "name": "Devereaux Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Saint Joseph Street 465",
-    "city": "Rapid City",
-    "state": "SD",
-    "zip": "57701",
-    "phone": "",
-    "hours": "Fr 07:30-17:00; Mo-Th 07:30-22:00; Su 14:00-22:00",
-    "lat": 44.0755034,
-    "lng": -103.2057907,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-294861601",
-    "name": "Rapid City Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Quincy Street 610",
-    "city": "Rapid City",
-    "state": "SD",
-    "zip": "57701",
-    "phone": "",
-    "hours": "Mo-Th 09:00-19:00; Fr-Su 10:00-18:00",
-    "lat": 44.0783637,
-    "lng": -103.2288541,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-296967322",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Lindbergh Avenue 611",
-    "city": "Rapid City",
-    "state": "SD",
-    "zip": "57701",
-    "phone": "(605) 737-3955",
-    "hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00; PH off",
-    "lat": 44.0996829,
-    "lng": -103.2243552,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1291049748",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Rapid City",
-    "state": "SD",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 44.0779513,
-    "lng": -103.1501172,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-rapid-city-shelter",
     "name": "Rapid City Homeless Services Hotline",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Rapid City",
     "state": "SD",
     "zip": "",
     "phone": "(800) 273-8255",
-    "hours": "24/7",
+    "hours": "24 hours, 7 days a week",
     "lat": 44.0805,
     "lng": -103.231,
     "tags": [
@@ -363,20 +249,40 @@
   },
   {
     "id": "fallback-rapid-city-hygiene",
-    "name": "Piedmont Valley Library - Restroom Access",
+    "name": "Rapid City Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
-    "address": "South 2nd Street 111",
-    "city": "Piedmont",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Rapid City",
     "state": "SD",
-    "zip": "57769",
+    "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 44.2308406,
-    "lng": -103.3887259,
+    "hours": "Varies",
+    "lat": 44.0805,
+    "lng": -103.231,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-rapid-city-library",
+    "name": "Rapid City Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 44.0805,
+    "lng": -103.231,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

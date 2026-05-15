@@ -228,584 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-3188840449",
-    "name": "The Dwelling Place",
+    "id": "fallback-norfolk-shelter",
+    "name": "Norfolk Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "West 37th Street 545",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "23508",
-    "phone": "(757) 624-9879",
-    "hours": "",
-    "lat": 36.88007,
-    "lng": -76.2901671,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3188840451",
-    "name": "Union Mission",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "East Virginia Beach Boulevard 5100",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "23502",
-    "phone": "(757) 627-8686",
-    "hours": "",
-    "lat": 36.8576492,
-    "lng": -76.2249252,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3188840452",
-    "name": "Our House Families",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "D Street 405",
-    "city": "Chesapeake",
-    "state": "VA",
-    "zip": "23324",
-    "phone": "(757) 545-4075",
-    "hours": "",
-    "lat": 36.8213948,
-    "lng": -76.2771942,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3188840453",
-    "name": "Portsmouth Volunteers for the Homeless",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "Williamsburg Avenue 800",
-    "city": "Portsmouth",
-    "state": "VA",
-    "zip": "23704",
-    "phone": "(757) 399-0200",
-    "hours": "",
-    "lat": 36.8340202,
-    "lng": -76.3205207,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3188922282",
-    "name": "Southeastern Tidewater Opportunity Project Inc.",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "Kingsley Lane 150",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "23505",
-    "phone": "(757) 788-9585",
-    "hours": "",
-    "lat": 36.8985218,
-    "lng": -76.2809182,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3188922283",
-    "name": "Tidewater Arts Outreach",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "Brandon Avenue 809",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "23517",
-    "phone": "(757) 796-5515",
-    "hours": "",
-    "lat": 36.8692672,
-    "lng": -76.298257,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3188922284",
-    "name": "Salvation Army",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "West 19th Street 203",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "23517",
-    "phone": "(757) 754-3810",
-    "hours": "",
-    "lat": 36.8666085,
-    "lng": -76.2871162,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3188922285",
-    "name": "Oasis Social Ministry",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "Chestnut Street 1420",
-    "city": "Portsmouth",
-    "state": "VA",
-    "zip": "23704",
-    "phone": "(757) 739-8197",
-    "hours": "",
-    "lat": 36.8279179,
-    "lng": -76.3085349,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4637812567",
-    "name": "Marlwood Shelter",
-    "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Norfolk",
     "state": "VA",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8275257,
-    "lng": -76.1502174,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 36.8508,
+    "lng": -76.2859,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12476310687",
-    "name": "Brickell Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8613366,
-    "lng": -76.3009749,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12556643688",
-    "name": "Northampton Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Big Bethel Road 936",
-    "city": "Hampton",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.0455435,
-    "lng": -76.4280321,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-312171802",
-    "name": "Russel Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Taylor Road 2808",
-    "city": "Chesapeake",
-    "state": "VA",
-    "zip": "23321",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8335285,
-    "lng": -76.4182614,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-312261036",
-    "name": "Major Hillard Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Old George Washington Highway North 824",
-    "city": "Chesapeake",
-    "state": "VA",
-    "zip": "23323",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7681352,
-    "lng": -76.3455904,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-312440801",
-    "name": "Chesapeake Central Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Cedar Road 298",
-    "city": "Chesapeake",
-    "state": "VA",
-    "zip": "23322",
-    "phone": "(757) 382-8301",
-    "hours": "Mo-Th 0900-1900; Fr-Sa 0900-1700; Su 1300-1700",
-    "lat": 36.7148589,
-    "lng": -76.2477167,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-312461775",
-    "name": "South Norfolk Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Poindexter Street 801",
-    "city": "Chesapeake",
-    "state": "VA",
-    "zip": "23324",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8163703,
-    "lng": -76.2784297,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-312468439",
-    "name": "Dr. Clarence V. Cuffee Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Border Road 2726",
-    "city": "Chesapeake",
-    "state": "VA",
-    "zip": "23324",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8152708,
-    "lng": -76.2516744,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-312598080",
-    "name": "Indian River Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Old Greenbrier Road 2320",
-    "city": "Chesapeake",
-    "state": "VA",
-    "zip": "23325",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8032222,
-    "lng": -76.2353767,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-312667571",
-    "name": "Greenbrier Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Volvo Parkway 1200",
-    "city": "Chesapeake",
-    "state": "VA",
-    "zip": "23320",
-    "phone": "",
-    "hours": "Mo-Th 09:00-19:00; Fr-Sa 09:00-17:00; Su 13:00-17:00",
-    "lat": 36.769099,
-    "lng": -76.2181791,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-333181762",
-    "name": "Main Street Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Main Street 110",
-    "city": "Newport News",
-    "state": "VA",
-    "zip": "23601",
-    "phone": "",
-    "hours": "",
-    "lat": 37.0332629,
-    "lng": -76.4593758,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9173291217",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Tidewater Drive 900",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "23504",
-    "phone": "(757) 640-0590",
-    "hours": "Tu-Sa 09:00-17:00",
-    "lat": 36.8536951,
-    "lng": -76.2741173,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13137273341",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East Virginia Beach Boulevard 5900",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "23502",
-    "phone": "(757) 609-2770",
-    "hours": "Mo-Sa 09:00-20:00",
-    "lat": 36.8612607,
-    "lng": -76.2071283,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-312409883",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Cedar Road 1101",
-    "city": "Chesapeake",
-    "state": "VA",
-    "zip": "23322",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7126291,
-    "lng": -76.2799095,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-312645863",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Sherrington Drive 121",
-    "city": "Chesapeake",
-    "state": "VA",
-    "zip": "23320",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7460492,
-    "lng": -76.2433652,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-383975565",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Bridge Road 3201",
-    "city": "Suffolk",
-    "state": "VA",
-    "zip": "23435",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8636015,
-    "lng": -76.4852296,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-388598286",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Saville Row 1911",
-    "city": "Hampton",
-    "state": "VA",
-    "zip": "23666",
-    "phone": "",
-    "hours": "",
-    "lat": 37.03887,
-    "lng": -76.3830818,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-407422627",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Virginia Beach Boulevard 5524",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23462",
-    "phone": "(757) 499-0032",
-    "hours": "Mo-Sa 09:00-19:00",
-    "lat": 36.8531505,
-    "lng": -76.1726613,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-696050230",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.0462886,
-    "lng": -76.4742537,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-725398452",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "College Park Square 6563",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23464",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8092381,
-    "lng": -76.2168967,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-837281660",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8125346,
-    "lng": -76.1693246,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-norfolk-hygiene",
-    "name": "Brickell Library - Restroom Access",
+    "name": "Norfolk Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Norfolk",
     "state": "VA",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 36.8613366,
-    "lng": -76.3009749,
+    "hours": "Varies",
+    "lat": 36.8508,
+    "lng": -76.2859,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-norfolk-library",
+    "name": "Norfolk Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 36.8508,
+    "lng": -76.2859,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

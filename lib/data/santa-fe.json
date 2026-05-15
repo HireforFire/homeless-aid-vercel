@@ -228,382 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-6634768705",
-    "name": "Teepee",
+    "id": "fallback-santa-fe-shelter",
+    "name": "Santa Fe Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Santa Fe",
     "state": "NM",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.6934679,
-    "lng": -105.9904129,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 35.687,
+    "lng": -105.9378,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9551917531",
-    "name": "Agape House",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "Cerrillos Road 2801",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87507",
-    "phone": "",
-    "hours": "",
-    "lat": 35.6580758,
-    "lng": -105.9876744,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4701761933",
-    "name": "Laboratory of Anthropology Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Camino Lejo 710",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87505",
-    "phone": "",
-    "hours": "",
-    "lat": 35.6643928,
-    "lng": -105.9251799,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4701761934",
-    "name": "New Mexico Museum of Art Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Palace Avenue 107",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87501",
-    "phone": "(505) 476-5061",
-    "hours": "Tu-Fr 10:00-16:30",
-    "lat": 35.688189,
-    "lng": -105.9389818,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4701836643",
-    "name": "Bartlett Library and Archives",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Camino Lejo 706",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87505",
-    "phone": "(505) 476-1210",
-    "hours": "",
-    "lat": 35.664106,
-    "lng": -105.926431,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4701836644",
-    "name": "New Mexico Department of Education Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Don Gaspar Avenue 300",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87501",
-    "phone": "",
-    "hours": "",
-    "lat": 35.6841149,
-    "lng": -105.9409339,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4701836645",
-    "name": "New Mexico State Engineer Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.6837476,
-    "lng": -105.9430369,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4701836650",
-    "name": "Learning Resource Center Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Richards Avenue",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87508",
-    "phone": "",
-    "hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00",
-    "lat": 35.6054891,
-    "lng": -105.9972224,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4701870898",
-    "name": "Supreme Court Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Don Gaspar Avenue 237",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87501",
-    "phone": "(505) 827-4800",
-    "hours": "",
-    "lat": 35.6844526,
-    "lng": -105.9397812,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4701870899",
-    "name": "US Department of Interior Bureau of Land Management Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Dinosaur Trail 301",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87508",
-    "phone": "",
-    "hours": "",
-    "lat": 35.5985669,
-    "lng": -106.038032,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9094641215",
-    "name": "Tesuque",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.8152631,
-    "lng": -105.974674,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13181501402",
-    "name": "Video Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Paseo de Peralta 839",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87501",
-    "phone": "",
-    "hours": "",
-    "lat": 35.6851385,
-    "lng": -105.9333713,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10741676509",
-    "name": "The Cat",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.6404472,
-    "lng": -106.0132135,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-259696931",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Camino Entrada 2520",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87507",
-    "phone": "",
-    "hours": "Mo-Su 09:00-17:00",
-    "lat": 35.6370063,
-    "lng": -106.0210943,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-259860741",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Cerrillos Road 3060",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.653396,
-    "lng": -105.9937953,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-318069393",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Early Street 1088",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87505",
-    "phone": "",
-    "hours": "",
-    "lat": 35.675352,
-    "lng": -105.9525067,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-474261956",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Camino Carlos Rey 1202",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87505",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-17:00",
-    "lat": 35.6561524,
-    "lng": -105.9856445,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-479634032",
-    "name": "Big Brothers Big Sisters",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Llano Street 1710",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87505",
-    "phone": "",
-    "hours": "",
-    "lat": 35.6581639,
-    "lng": -105.9730857,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-653884309",
-    "name": "PMS Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Cerrillos Road 1305",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.6721913,
-    "lng": -105.9626957,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-santa-fe-hygiene",
-    "name": "Laboratory of Anthropology Library - Restroom Access",
+    "name": "Santa Fe Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
-    "address": "Camino Lejo 710",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Santa Fe",
     "state": "NM",
-    "zip": "87505",
+    "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 35.6643928,
-    "lng": -105.9251799,
+    "hours": "Varies",
+    "lat": 35.687,
+    "lng": -105.9378,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-santa-fe-library",
+    "name": "Santa Fe Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 35.687,
+    "lng": -105.9378,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

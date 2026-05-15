@@ -212,7 +212,7 @@
     "id": "fa-220951",
     "name": "The Salvation Army",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1905 Henderson",
     "city": "Helena",
     "state": "MT",
@@ -228,287 +228,61 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-10082839683",
-    "name": "Our Place",
+    "id": "fallback-helena-shelter",
+    "name": "Helena Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Helena",
     "state": "MT",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.593835,
-    "lng": -112.0345748,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 46.5891,
+    "lng": -112.0391,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-96772223",
-    "name": "God's Love",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.5922542,
-    "lng": -112.036354,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366093370",
-    "name": "Montana Historical Society Library and Archives",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.5861158,
-    "lng": -112.0160512,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366093375",
-    "name": "Saint Peters Community Hospital Medical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.582712,
-    "lng": -111.9974954,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9208122672",
-    "name": "Montana City Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.5404247,
-    "lng": -111.948944,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9884406197",
-    "name": "Helena College University of Montana Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.5957946,
-    "lng": -112.0159284,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-96716544",
-    "name": "Montana State Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.586271,
-    "lng": -112.0138961,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-96740460",
-    "name": "Lewis and Clark Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.5852237,
-    "lng": -112.0417603,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-96960486",
-    "name": "Jack and Sallie Corette Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Th 07:45-22:00; Sa 12:00-16:00; Su 12:00-20:00; Fr 07:45-16:30",
-    "lat": 46.6019093,
-    "lng": -112.0380978,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-627472341",
-    "name": "Lewis & Clark Library East Helena Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Main Street 16",
-    "city": "East Helena",
-    "state": "MT",
-    "zip": "59635",
-    "phone": "(406) 227-5750",
-    "hours": "Mo-We 10:00-18:00; Th-Fr 10:00-17:00; Sa 10:00-13:00",
-    "lat": 46.5897321,
-    "lng": -111.9206356,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12634778014",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.6197771,
-    "lng": -112.0161761,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-687878919",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.600825,
-    "lng": -112.0228347,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-720781555",
-    "name": "Good Samaritan Ministries Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "59601",
-    "phone": "(406) 442-0780",
-    "hours": "",
-    "lat": 46.6143707,
-    "lng": -112.0190062,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-740047683",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Ptarmigan Lane 3575",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "59601",
-    "phone": "",
-    "hours": "",
-    "lat": 46.6229704,
-    "lng": -112.0221758,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-helena-hygiene",
-    "name": "Montana Historical Society Library and Archives - Restroom Access",
+    "name": "Helena Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Helena",
     "state": "MT",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 46.5861158,
-    "lng": -112.0160512,
+    "hours": "Varies",
+    "lat": 46.5891,
+    "lng": -112.0391,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-helena-library",
+    "name": "Helena Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 46.5891,
+    "lng": -112.0391,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

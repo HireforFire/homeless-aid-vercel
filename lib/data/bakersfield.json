@@ -60,7 +60,7 @@
     "id": "fa-218697",
     "name": "The Salvation Army - 19Th Street",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "200 19th Street",
     "city": "Bakersfield",
     "state": "CA",
@@ -79,7 +79,7 @@
     "id": "fa-224956",
     "name": "First Presbyterian Church Food pantry",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1705 17th Street",
     "city": "Bakersfield",
     "state": "CA",
@@ -228,287 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-way-230491573",
-    "name": "Flying J",
+    "id": "fallback-bakersfield-shelter",
+    "name": "Bakersfield Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Bakersfield",
     "state": "CA",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.5318013,
-    "lng": -119.1877059,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 35.3733,
+    "lng": -119.0187,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-230491574",
-    "name": "Flying J",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.5312359,
-    "lng": -119.1874739,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-251120745",
-    "name": "Westdale Park Picnic Sheltered Patio",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3707279,
-    "lng": -119.1615174,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-319020220",
-    "name": "Richardson Child Development Center",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3499861,
-    "lng": -118.9800434,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170154",
-    "name": "Rathbun Branch Kern County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.4263464,
-    "lng": -119.0239897,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170155",
-    "name": "Baker Street Branch Kern County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3832916,
-    "lng": -118.9906558,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170158",
-    "name": "Eleanor N Wilson Branch Kern County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3319042,
-    "lng": -119.023991,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170159",
-    "name": "Kern County Hall of Records Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3741254,
-    "lng": -119.0173235,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170228",
-    "name": "Arvin Branch Kern County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.2096845,
-    "lng": -118.8289866,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170229",
-    "name": "Mercy Hospital Medical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3727366,
-    "lng": -119.0273239,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170230",
-    "name": "Kern County Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3724588,
-    "lng": -119.0181569,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170231",
-    "name": "Holloway-Gonzale Branch Kern County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3541257,
-    "lng": -118.9987121,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170232",
-    "name": "Lamont Branch Kern County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.2566279,
-    "lng": -118.9117666,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13337804254",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3406893,
-    "lng": -119.0490546,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-bakersfield-hygiene",
-    "name": "Rathbun Branch Kern County Library - Restroom Access",
+    "name": "Bakersfield Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Bakersfield",
     "state": "CA",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 35.4263464,
-    "lng": -119.0239897,
+    "hours": "Varies",
+    "lat": 35.3733,
+    "lng": -119.0187,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-bakersfield-library",
+    "name": "Bakersfield Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 35.3733,
+    "lng": -119.0187,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

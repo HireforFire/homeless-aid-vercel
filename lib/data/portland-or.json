@@ -117,7 +117,7 @@
     "id": "fa-222732",
     "name": "NW Portland Ministies, Inc.",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1808 NW Irving",
     "city": "Portland",
     "state": "OR",
@@ -136,7 +136,7 @@
     "id": "fa-222945",
     "name": "Lift UP - Prestons Pantry at First United Methodist Church",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1838 SW Jefferson Street",
     "city": "Portland",
     "state": "OR",
@@ -155,7 +155,7 @@
     "id": "fa-223452",
     "name": "REACH Community Food Closet",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "631 South East Taylor Street",
     "city": "Portland",
     "state": "OR",
@@ -174,7 +174,7 @@
     "id": "fa-223477",
     "name": "The Rose Apartments Food Closet",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "31 South East Taylor Street",
     "city": "Portland",
     "state": "OR",
@@ -193,7 +193,7 @@
     "id": "fa-223858",
     "name": "Outside In",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1132 Southwest 13th Avenue",
     "city": "Portland",
     "state": "OR",
@@ -212,7 +212,7 @@
     "id": "fa-224204",
     "name": "Station Place Tower Pantry",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1020 NW 9th Ave",
     "city": "Portland",
     "state": "OR",
@@ -228,438 +228,61 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-790638906",
-    "name": "Stevens Pavilion",
+    "id": "fallback-portland-or-shelter",
+    "name": "Portland Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Portland",
     "state": "OR",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.5156512,
-    "lng": -122.7167719,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 45.5152,
+    "lng": -122.6784,
     "tags": [
       "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-2292578936",
-    "name": "Nature Study Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.5287456,
-    "lng": -122.7303046,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-372268679",
-    "name": "Clothes for Kids",
-    "category": "Clothing & Supplies",
-    "description": "social_facility",
-    "address": "Southwest Merlo Road 16550",
-    "city": "Beaverton",
-    "state": "OR",
-    "zip": "97006",
-    "phone": "",
-    "hours": "",
-    "lat": 45.5039381,
-    "lng": -122.8488772,
-    "tags": [
-      "clothing",
-      "free"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1326969876",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Southwest Millikan Way 13475",
-    "city": "Beaverton",
-    "state": "OR",
-    "zip": "97005",
-    "phone": "(503) 906-3823",
-    "hours": "Mo-Sa 10:00-17:00",
-    "lat": 45.4921892,
-    "lng": -122.815264,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1809346224",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.4779402,
-    "lng": -122.6091116,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5134680710",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Southeast 82nd Avenue 9999",
-    "city": "Happy Valley",
-    "state": "OR",
-    "zip": "97086",
-    "phone": "(503) 786-1807",
-    "hours": "",
-    "lat": 45.4507909,
-    "lng": -122.580504,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6385062852",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Southwest 10th Avenue 739",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97205",
-    "phone": "",
-    "hours": "",
-    "lat": 45.5195143,
-    "lng": -122.682613,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6388706888",
-    "name": "Goodwill Bins Outlet",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Southeast Ochoco Street 1740",
-    "city": "Milwaukie",
-    "state": "OR",
-    "zip": "97222",
-    "phone": "",
-    "hours": "08:00-19:00",
-    "lat": 45.4574885,
-    "lng": -122.6458655,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6874904931",
-    "name": "The Arc Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Southeast Stark Street 8304",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97216",
-    "phone": "",
-    "hours": "We-Sa 10:00-17:00",
-    "lat": 45.519019,
-    "lng": -122.5778631,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9851665875",
-    "name": "William Temple House Thrift Shop",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Northwest Glisan Street 2230",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 10:00-18:00; Su 11:00-18:00",
-    "lat": 45.526119,
-    "lng": -122.6971504,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11184920909",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Boones Ferry Road 17150",
-    "city": "Lake Oswego",
-    "state": "OR",
-    "zip": "97035",
-    "phone": "(971) 317-7664",
-    "hours": "Mo-Su 10:00-17:00",
-    "lat": 45.401614,
-    "lng": -122.7338485,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12828822062",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.4254355,
-    "lng": -122.4851564,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13074790848",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Southeast Cherry Blossom Drive 10445",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97216",
-    "phone": "",
-    "hours": "Mo-Su 10:00-06:00",
-    "lat": 45.5164862,
-    "lng": -122.5554301,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-361215845",
-    "name": "Garden Home Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Southwest Oleson Road 7475",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97223",
-    "phone": "(503) 245-9932",
-    "hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00",
-    "lat": 45.4662143,
-    "lng": -122.753788,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-364169953",
-    "name": "Hollywood Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Northeast Tillamook Street 4040",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97212",
-    "phone": "(503) 988-5123",
-    "hours": "Mo-Sa 10:00-18:00; Tu 10:00-20:00; We,Th 12:00-20:00; Su 10:00-17:00; 2025 Aug 01-2026 Feb 28 \"Renovations\"",
-    "lat": 45.537627,
-    "lng": -122.6211734,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-364170016",
-    "name": "Sellwood Moreland Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Southeast 13th Avenue 7860",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97202",
-    "phone": "",
-    "hours": "Mo 10:00-18:00; Tu,We 12:00-20:00; Th-Sa 10:00-18:00; Su 12:00-18:00",
-    "lat": 45.4677335,
-    "lng": -122.6527888,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-365790589",
-    "name": "Davies Family Research Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Southwest Park Avenue 1200",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97205",
-    "phone": "",
-    "hours": "Tu 13:00-17:00; We-Sa 10:00-17:00",
-    "lat": 45.5157211,
-    "lng": -122.6824461,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-370457272",
-    "name": "Vancouver Mall Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Northeast Vancouver Mall Drive 8700",
-    "city": "Vancouver",
-    "state": "WA",
-    "zip": "98662",
-    "phone": "(360) 906-5000",
-    "hours": "Mo-Th 11:00-19:00; Fr,Su 11:00-18:00; Sa 10:00-18:00",
-    "lat": 45.6583784,
-    "lng": -122.581715,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-370457295",
-    "name": "Southwest Washington Medical Center Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "NE Mother Joseph Place 400",
-    "city": "Vancouver",
-    "state": "WA",
-    "zip": "98664",
-    "phone": "",
-    "hours": "",
-    "lat": 45.6239493,
-    "lng": -122.5801199,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2233417294",
-    "name": "Cascade Park Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Northeast 136th Avenue 600",
-    "city": "Vancouver",
-    "state": "WA",
-    "zip": "98684",
-    "phone": "(360) 906-5000",
-    "hours": "Mo-Th 09:00-20:00; Fr, Sa 09:00-18:00",
-    "lat": 45.6251546,
-    "lng": -122.5355843,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3608240592",
-    "name": "Tin House Books",
-    "category": "Public Resources",
-    "description": "lending library",
-    "address": "",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.535525,
-    "lng": -122.7050948,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10578421108",
-    "name": "Aloha High School Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.4848049,
-    "lng": -122.8693976,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-480969136",
-    "name": "Steam PDX",
+    "id": "fallback-portland-or-hygiene",
+    "name": "Portland Public Restroom Information",
     "category": "Hygiene",
-    "description": "public_bath",
-    "address": "Northeast Sandy Boulevard 2885",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Portland",
     "state": "OR",
-    "zip": "97232",
+    "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 45.5300243,
-    "lng": -122.6357292,
+    "hours": "Varies",
+    "lat": 45.5152,
+    "lng": -122.6784,
     "tags": [
-      "showers"
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-portland-or-library",
+    "name": "Portland Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

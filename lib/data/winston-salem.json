@@ -228,263 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-way-31273727",
-    "name": "Z. Smith Reynolds Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "",
-    "phone": "(336) 758-4931",
-    "hours": "",
-    "lat": 36.1319198,
-    "lng": -80.2779223,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-31294763",
-    "name": "Reynolda Manor Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Fairlawn Dr 2839",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "27106-3805",
-    "phone": "(336) 703-2960",
-    "hours": "",
-    "lat": 36.1414174,
-    "lng": -80.2995486,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-168186788",
-    "name": "Gramley Library",
-    "category": "Public Resources",
-    "description": "Library for Salem Academy and College",
-    "address": "South Church Street 801",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "27101",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0862586,
-    "lng": -80.2413161,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-556550034",
-    "name": "Lewisville Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Shallowford Road 6490",
-    "city": "Lewisville",
-    "state": "NC",
-    "zip": "27023;27023-7610",
-    "phone": "(336) 703-2940",
-    "hours": "",
-    "lat": 36.0965285,
-    "lng": -80.420113,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-674349367",
-    "name": "Forsyth County Central Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West 5th Street 720;660",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "27101;27101-2755",
-    "phone": "(336) 703-3011",
-    "hours": "",
-    "lat": 36.0985773,
-    "lng": -80.2524013,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1000719867",
-    "name": "Clemmons Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "James Street 6365;3554",
-    "city": "Clemmons",
-    "state": "NC",
-    "zip": "27012;27012-8726",
-    "phone": "(336) 703-2920",
-    "hours": "Mo-We 09:00-20:00; Th,Fr 09:00-18:00; Sa 10:00-17:00",
-    "lat": 36.0291578,
-    "lng": -80.3779182,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1029177333",
-    "name": "Malloy / Jordan East Winston Heritage Center",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East 7th Street 1110",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "27101-4215",
-    "phone": "(336) 703-2950",
-    "hours": "",
-    "lat": 36.102131,
-    "lng": -80.2314996,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1123246601",
-    "name": "Carver School Road Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Lansing Drive 4915",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "27105-3023",
-    "phone": "(336) 703-2910",
-    "hours": "",
-    "lat": 36.1503542,
-    "lng": -80.2123107,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1123752004",
-    "name": "Paddison Memorial Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Harmon Lane 248",
-    "city": "Kernersville",
-    "state": "NC",
-    "zip": "27284-2937",
-    "phone": "(336) 703-2930",
-    "hours": "",
-    "lat": 36.1152749,
-    "lng": -80.0695501,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1124154763",
-    "name": "Rural Hall Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Broad St 7125",
-    "city": "Rural Hall",
-    "state": "NC",
-    "zip": "27045-9261",
-    "phone": "(336) 703-2970",
-    "hours": "",
-    "lat": 36.2261303,
-    "lng": -80.2863818,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9674336068",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Coliseum Drive Northwest 608",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "27106",
-    "phone": "(336) 893-8495",
-    "hours": "Mo-Sa 10:00-18:00",
-    "lat": 36.1235916,
-    "lng": -80.259747,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9860945303",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "University Parkway 2701",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "27105",
-    "phone": "(336) 499-8964",
-    "hours": "",
-    "lat": 36.1251102,
-    "lng": -80.2582057,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12610082602",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Peters Creek Parkway 2551",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "27127",
-    "phone": "(336) 914-1456",
-    "hours": "Tu-Sa 09:00-17:00",
-    "lat": 36.063212,
-    "lng": -80.2579692,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-winston-salem-shelter",
     "name": "Winston-Salem Homeless Services Hotline",
     "category": "Shelter",
@@ -506,22 +249,40 @@
   },
   {
     "id": "fallback-winston-salem-hygiene",
-    "name": "Z. Smith Reynolds Library - Restroom Access",
+    "name": "Winston-Salem Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Winston-Salem",
     "state": "NC",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 36.1319198,
-    "lng": -80.2779223,
+    "hours": "Varies",
+    "lat": 36.0999,
+    "lng": -80.2442,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-winston-salem-library",
+    "name": "Winston-Salem Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 36.0999,
+    "lng": -80.2442,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

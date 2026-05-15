@@ -41,7 +41,7 @@
     "id": "fa-223343",
     "name": "The Salvation Army Food Pantry",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "2019 22nd Street",
     "city": "Gulfport",
     "state": "MS",
@@ -117,7 +117,7 @@
     "id": "fa-217671",
     "name": "The Salvation Army - Highway 49",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "8405 Highway 49",
     "city": "Gulfport",
     "state": "MS",
@@ -228,211 +228,101 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "osm-way-165982384",
-    "name": "Hiller Park Pavillion",
+    "id": "fallback-gulfport-shelter",
+    "name": "Gulfport Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
-    "city": "Biloxi",
+    "city": "Gulfport",
     "state": "MS",
-    "zip": "39531",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4139305,
-    "lng": -88.9526688,
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 30.3674,
+    "lng": -89.0928,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-321724325",
-    "name": "Harper McCaughan Town Green Pavilion",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.3482743,
-    "lng": -89.149453,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-556302291",
-    "name": "West Side Gazebo",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.3591402,
-    "lng": -89.1093973,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367134525",
-    "name": "Margaret S Sherry Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4361958,
-    "lng": -88.9664584,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367134561",
-    "name": "Pass Christian Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.3146415,
-    "lng": -89.2472651,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367134562",
-    "name": "West Biloxi Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4021425,
-    "lng": -88.9630886,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367134573",
-    "name": "Gulfport-Harrison County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.3682366,
-    "lng": -89.0869865,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-165900881",
-    "name": "D'Iberville Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Auto Mall Parkway",
-    "city": "D'Iberville",
-    "state": "MS",
-    "zip": "39532",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4365204,
-    "lng": -88.9004489,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-166340112",
-    "name": "Long Beach Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Jeff Davis Avenue 209",
-    "city": "Long Beach",
-    "state": "MS",
-    "zip": "39560",
-    "phone": "",
-    "hours": "",
-    "lat": 30.3489463,
-    "lng": -89.1500816,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-403868092",
-    "name": "Orange Grove Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4611418,
-    "lng": -89.1051042,
-    "tags": [
-      "library",
-      "wifi"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-gulfport-hygiene",
-    "name": "Margaret S Sherry Memorial Library - Restroom Access",
+    "name": "Gulfport Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Gulfport",
     "state": "MS",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 30.4361958,
-    "lng": -88.9664584,
+    "hours": "Varies",
+    "lat": 30.3674,
+    "lng": -89.0928,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-gulfport-library",
+    "name": "Gulfport Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 30.3674,
+    "lng": -89.0928,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-gpt-salvation-army",
+    "name": "The Salvation Army Center of Hope",
+    "category": "Clothing & Supplies",
+    "description": "Clothing assistance, food pantry, and emergency shelter services.",
+    "address": "2019 22nd St",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39501",
+    "phone": "(228) 374-8301",
+    "hours": "Mon-Fri 8:30am-12pm, 1pm-3:30pm",
+    "lat": 30.3763,
+    "lng": -89.0871,
+    "tags": [
+      "clothing",
+      "free",
+      "thrift"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-gpt-svdp",
+    "name": "St. Vincent de Paul St. John Conference",
+    "category": "Clothing & Supplies",
+    "description": "Clothing vouchers and material assistance.",
+    "address": "2414 17th St",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39501",
+    "phone": "(228) 863-3354",
+    "hours": "Tue & Thu by appointment",
+    "lat": 30.3726,
+    "lng": -89.0912,
+    "tags": [
+      "clothing",
+      "free",
+      "thrift"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -98,7 +98,7 @@
     "id": "fa-224669",
     "name": "Needs, Inc.",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "900 Central Avenue",
     "city": "Cheyenne",
     "state": "WY",
@@ -228,111 +228,16 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-way-231120012",
-    "name": "Laramie County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Pioneer Avenue 2000",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "(307) 634-3561",
-    "hours": "Mo-Th 09:00-20:00; Fr-Su 10:00-17:00; ",
-    "lat": 41.1374304,
-    "lng": -104.8217978,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-236023526",
-    "name": "LCCC Ludden Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East College Drive 1400",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82007",
-    "phone": "",
-    "hours": "Mo-Th 08:00-20:00; Fr 08:00-16:00; Su 12:00-16:00",
-    "lat": 41.1042775,
-    "lng": -104.7787035,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-548429022",
-    "name": "Wyoming State Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Central Avenue 2800",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "(307) 777-6333",
-    "hours": "Mo-Fr 08:00-17:00",
-    "lat": 41.1441278,
-    "lng": -104.8220181,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-537350444",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Nationway 3301",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "",
-    "hours": "",
-    "lat": 41.1354941,
-    "lng": -104.7700565,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-878473818",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Mason Way 2131",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "(307) 459-6464",
-    "hours": "",
-    "lat": 41.1615808,
-    "lng": -104.7877849,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-cheyenne-shelter",
     "name": "Cheyenne Homeless Services Hotline",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Cheyenne",
     "state": "WY",
     "zip": "",
     "phone": "(800) 273-8255",
-    "hours": "24/7",
+    "hours": "24 hours, 7 days a week",
     "lat": 41.14,
     "lng": -104.8202,
     "tags": [
@@ -344,20 +249,40 @@
   },
   {
     "id": "fallback-cheyenne-hygiene",
-    "name": "Laramie County Library - Restroom Access",
+    "name": "Cheyenne Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
-    "address": "Pioneer Avenue 2000",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Cheyenne",
     "state": "WY",
-    "zip": "82001",
+    "zip": "",
     "phone": "",
-    "hours": "Mo-Th 09:00-20:00; Fr-Su 10:00-17:00; ",
-    "lat": 41.1374304,
-    "lng": -104.8217978,
+    "hours": "Varies",
+    "lat": 41.14,
+    "lng": -104.8202,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-cheyenne-library",
+    "name": "Cheyenne Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 41.14,
+    "lng": -104.8202,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

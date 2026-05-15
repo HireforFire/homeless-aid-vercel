@@ -228,6 +228,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-5337723570",
+    "name": "Burkewood Inn",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "West Main Street 3216",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "",
+    "phone": "(517) 487-9119",
+    "hours": "",
+    "lat": 42.7215289,
+    "lng": -84.5925432,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5563322490",
+    "name": "City Rescue Mission of Lansing",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "East Michigan Avenue 607",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "",
+    "phone": "(517) 485-0145",
+    "hours": "",
+    "lat": 42.733763,
+    "lng": -84.544132,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "osm-node-772846326",
     "name": "MSU Law Library",
     "category": "Public Resources",
@@ -481,26 +519,6 @@
     "tags": [
       "thrift",
       "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-lansing-shelter",
-    "name": "Lansing Homeless Services Hotline",
-    "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 42.7325,
-    "lng": -84.5555,
-    "tags": [
-      "shelter",
-      "hotline",
-      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

@@ -228,318 +228,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-368161802",
-    "name": "Jackson County Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.0556754,
-    "lng": -96.6480498,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5298397672",
-    "name": "George W. Bush Presidential Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8412443,
-    "lng": -96.7781963,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6147832298",
-    "name": "Rowlett Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Main Street 3900",
-    "city": "Rowlett",
-    "state": "TX",
-    "zip": "75088",
-    "phone": "",
-    "hours": "Mo-Th 09:30-20:30, Fr-Sa 09:30-17:30",
-    "lat": 32.9027956,
-    "lng": -96.5644908,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13741750379",
-    "name": "Bookmarks",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8685822,
-    "lng": -96.7737062,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-158591352",
-    "name": "Carrollton Public Library - Hebron & Josey",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Josey Lane 4220",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "75010",
-    "phone": "(972) 466-4800",
-    "hours": "Mo-Th 10:00-20:00; Sa 10:00-17:00; Su 13:00-17:00",
-    "lat": 33.0260684,
-    "lng": -96.8834008,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-221317443",
-    "name": "Eugene McDermott Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Campbell Road 800",
-    "city": "Richardson",
-    "state": "TX",
-    "zip": "75080",
-    "phone": "",
-    "hours": "Mo-Th 07:00-02:00, Fr 07:00-20:00, Sa,Su 11:00-20:00",
-    "lat": 32.986925,
-    "lng": -96.747632,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-267161906",
-    "name": "South Garland Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Broadway Boulevard 4845",
-    "city": "Garland",
-    "state": "TX",
-    "zip": "75043",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8552113,
-    "lng": -96.6024968,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-280234056",
-    "name": "Frisco Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Dallas Parkway 8000",
-    "city": "Frisco",
-    "state": "TX",
-    "zip": "75034",
-    "phone": "",
-    "hours": "Mo-Th 09:00-21:00; Fr-Su 09:00-18:00",
-    "lat": 33.1445006,
-    "lng": -96.8350065,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9008537454",
-    "name": "Life Message Thrift",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Rowlett Road 4501",
-    "city": "Rowlett",
-    "state": "TX",
-    "zip": "75088",
-    "phone": "(972) 412-4092",
-    "hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
-    "lat": 32.901507,
-    "lng": -96.5699561,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9811730308",
-    "name": "Family Place Resale Shop",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Marsh Lane 11722",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "(214) 358-0381",
-    "hours": "Mo-Sa 10:00-17:30; Su 12:00-17:00",
-    "lat": 32.908489,
-    "lng": -96.8520738,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10684935341",
-    "name": "Hope's Door",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Parker Road 2129",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "75023",
-    "phone": "(972) 769-0610",
-    "hours": "Mo-Sa 11:00-18:00; Su 12:00-18:00",
-    "lat": 33.042884,
-    "lng": -96.7342218,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11304375580",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Forest Lane 3546",
-    "city": "Dallas",
-    "state": "TX",
-    "zip": "75234",
-    "phone": "(972) 685-7585",
-    "hours": "",
-    "lat": 32.9086694,
-    "lng": -96.859623,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11782072990",
-    "name": "White Rock Center of Hope",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Garland Road 10021",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8395721,
-    "lng": -96.6959665,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12033610260",
-    "name": "Simply Grace Thrift",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Arapaho Road 580",
-    "city": "Richardson",
-    "state": "TX",
-    "zip": "75080",
-    "phone": "",
-    "hours": "Mo-Sa 11:00-18:00",
-    "lat": 32.9645469,
-    "lng": -96.7370945,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13402003969",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Custer Road 605",
-    "city": "Allen",
-    "state": "TX",
-    "zip": "75013",
-    "phone": "(214) 638-2800",
-    "hours": "Su 10:00-19:00; Mo-Sa 09:00-19:00",
-    "lat": 33.0886315,
-    "lng": -96.7351018,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-411171233",
-    "name": "ACO Treasure Chest",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Boyd Drive 301",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.1040455,
-    "lng": -96.6722236,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-plano-shelter",
     "name": "Plano Homeless Services Hotline",
     "category": "Shelter",
@@ -561,22 +249,40 @@
   },
   {
     "id": "fallback-plano-hygiene",
-    "name": "Jackson County Memorial Library - Restroom Access",
+    "name": "Plano Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Plano",
     "state": "TX",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 33.0556754,
-    "lng": -96.6480498,
+    "hours": "Varies",
+    "lat": 33.0198,
+    "lng": -96.6989,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-plano-library",
+    "name": "Plano Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 33.0198,
+    "lng": -96.6989,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

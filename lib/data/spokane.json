@@ -22,7 +22,7 @@
     "id": "fa-223521",
     "name": "The Campus Kitchen at Gonzaga University",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "508 E. Boone MSC 2472",
     "city": "Spokane",
     "state": "WA",
@@ -41,7 +41,7 @@
     "id": "fa-131309",
     "name": "Spokane School District",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "200 NORTH BERNARD ST",
     "city": "SPOKANE",
     "state": "WA",
@@ -174,7 +174,7 @@
     "id": "fa-217856",
     "name": "The Salvation Army - N Division St",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "2020 N. Division St.",
     "city": "Spokane",
     "state": "WA",
@@ -193,7 +193,7 @@
     "id": "fa-218625",
     "name": "The Salvation Army - E Nora",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "127 E. Nora",
     "city": "Spokane",
     "state": "WA",
@@ -212,7 +212,7 @@
     "id": "fa-219222",
     "name": "Fourth Memorial Gleaners Pantry",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "2000 N. Standard",
     "city": "Spokane",
     "state": "WA",
@@ -228,382 +228,61 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-way-244113177",
-    "name": "Coeur d'Alene Park Gazebo",
+    "id": "fallback-spokane-shelter",
+    "name": "Spokane Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Spokane",
     "state": "WA",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6536183,
-    "lng": -117.4446755,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 47.6588,
+    "lng": -117.426,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11388891138",
-    "name": "Hillyard Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Cook Street 4110",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99207",
-    "phone": "(509) 444-5308",
-    "hours": "Mo-Th 09:00-19:00; Fr,Sa 10:00-17:00; Su 12:00-16:00",
-    "lat": 47.6952587,
-    "lng": -117.3730095,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12396829814",
-    "name": "MSHS Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.7889885,
-    "lng": -117.3218796,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12462415052",
-    "name": "Five Mile Library Kiosk",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Five Mile Road 1762",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "24/7",
-    "lat": 47.7176328,
-    "lng": -117.4366189,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12462415057",
-    "name": "Latah Library Kiosk",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Cheney-Spokane Road 4235",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "24/7",
-    "lat": 47.6152599,
-    "lng": -117.4288053,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12462415058",
-    "name": "Logan Library Kiosk",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Nevada Street 2828",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "24/7",
-    "lat": 47.6836093,
-    "lng": -117.3960799,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13736101557",
-    "name": "Lakeside Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "WA 291 5919",
-    "city": "Nine Mile Falls",
-    "state": "WA",
-    "zip": "99026",
-    "phone": "",
-    "hours": "Mo-Fr 10:00-17:00",
-    "lat": 47.8107946,
-    "lng": -117.5627977,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-40008650",
-    "name": "Foley Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6665948,
-    "lng": -117.4007614,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-41588017",
-    "name": "Central Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Main Avenue 906",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99201",
-    "phone": "(509) 444-5300",
-    "hours": "Mo-Th 09:00-19:00; Fr-Sa 10:00-17:00; Su 12:00-16:00",
-    "lat": 47.6594245,
-    "lng": -117.4255171,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-44642940",
-    "name": "South Hill Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Perry Street 3324",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99203",
-    "phone": "(509) 444-5385",
-    "hours": "",
-    "lat": 47.6243207,
-    "lng": -117.3906656,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4735704214",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6782651,
-    "lng": -117.4360612,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9634747833",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6306268,
-    "lng": -117.3680742,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-373535874",
-    "name": "UGM Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6675745,
-    "lng": -117.4163722,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-408756203",
-    "name": "Veterans Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6563359,
-    "lng": -117.3478207,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-859919763",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6768446,
-    "lng": -117.4103286,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-901815208",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6746445,
-    "lng": -117.4071031,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-939110635",
-    "name": "Victors Vendor Mall",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East Francis Avenue 1325",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "Tu-Sa 10:00-18:00",
-    "lat": 47.7153111,
-    "lng": -117.3904787,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-997978859",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Nevada Street 9832",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99218",
-    "phone": "",
-    "hours": "",
-    "lat": 47.7472231,
-    "lng": -117.393713,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1121499271",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Flight Drive 9837",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99224",
-    "phone": "(509) 279-2916",
-    "hours": "",
-    "lat": 47.6400678,
-    "lng": -117.5493999,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-spokane-hygiene",
-    "name": "Hillyard Library - Restroom Access",
+    "name": "Spokane Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
-    "address": "North Cook Street 4110",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Spokane",
     "state": "WA",
-    "zip": "99207",
+    "zip": "",
     "phone": "",
-    "hours": "Mo-Th 09:00-19:00; Fr,Sa 10:00-17:00; Su 12:00-16:00",
-    "lat": 47.6952587,
-    "lng": -117.3730095,
+    "hours": "Varies",
+    "lat": 47.6588,
+    "lng": -117.426,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-spokane-library",
+    "name": "Spokane Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 47.6588,
+    "lng": -117.426,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

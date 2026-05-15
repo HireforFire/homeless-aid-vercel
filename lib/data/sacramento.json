@@ -60,7 +60,7 @@
     "id": "fa-218582",
     "name": "The Salvation Army - North B Street",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1200 North B Street",
     "city": "Sacramento",
     "state": "CA",
@@ -79,7 +79,7 @@
     "id": "fa-218618",
     "name": "The Salvation Army - D Street",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1615 \"D\" Street",
     "city": "Sacramento",
     "state": "CA",
@@ -193,7 +193,7 @@
     "id": "fa-226228",
     "name": "Sacramento Food Bank & Family Services",
     "category": "Food",
-    "description": "Free diaper bank providing food assistance.",
+    "description": "Free diaper bank providing food assistance. Open to all.",
     "address": "Sacramento, CA",
     "city": "Sacramento",
     "state": "CA",
@@ -228,420 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-368170395",
-    "name": "California Division of Mines and Geology Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5793496,
-    "lng": -121.4941219,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170396",
-    "name": "California Department of Pesticide Regulation Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 08:00-05:00",
-    "lat": 38.5745911,
-    "lng": -121.4924171,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170397",
-    "name": "California State Department of Transportation Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5748826,
-    "lng": -121.4932351,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170399",
-    "name": "California State Department of Alcohol and Drug Programs Resource Center Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5762942,
-    "lng": -121.4841217,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170400",
-    "name": "Rancho Cordova Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5765158,
-    "lng": -121.3292579,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170402",
-    "name": "California Air Resources Board Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5746276,
-    "lng": -121.4805104,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170411",
-    "name": "Ella K McClatchy Neighborhood Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "22nd Street 2112",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95818",
-    "phone": "(916) 264-2920",
-    "hours": "Tu-Sa 10:00-18:00",
-    "lat": 38.5635168,
-    "lng": -121.4830104,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170421",
-    "name": "Sacramento Area Council of Governments Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5629613,
-    "lng": -121.4705101,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170429",
-    "name": "Kaiser Permanente Medical Center Health Sciences Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.6021272,
-    "lng": -121.3930081,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170430",
-    "name": "California Taxpayers Association Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5807133,
-    "lng": -121.4913025,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-610123108",
-    "name": "Asha Urban Baths",
-    "category": "Hygiene",
-    "description": "public_bath",
-    "address": "27th Street 2417",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95818",
-    "phone": "(916) 837-3290",
-    "hours": "Tu-Su 10:00-22:00",
-    "lat": 38.5581083,
-    "lng": -121.4772624,
-    "tags": [
-      "showers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1021929666",
-    "name": "Goodwill Donation Express",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7691763,
-    "lng": -121.332022,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1131906312",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Watt Avenue 8031",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7150773,
-    "lng": -121.3942227,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3136073345",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Fulton Avenue 1312",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95825",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5897872,
-    "lng": -121.3996269,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3833593399",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "L Street 1621",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95814",
-    "phone": "(916) 441-4407",
-    "hours": "10:00-19:00",
-    "lat": 38.5758348,
-    "lng": -121.485259,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5072621769",
-    "name": "Upscale Thrift",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "21st Street 2590",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5585558,
-    "lng": -121.4864335,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5710010393",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.4937649,
-    "lng": -121.459204,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6434569182",
-    "name": "Goodwill Express Drop Off",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.4268945,
-    "lng": -121.417425,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6709264705",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "09:00-21:00",
-    "lat": 38.6391704,
-    "lng": -121.3273239,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6791904298",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5975229,
-    "lng": -121.4180964,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7262328858",
-    "name": "Goodwill Furniture",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Capitol Avenue 3065",
-    "city": "West Sacramento",
-    "state": "CA",
-    "zip": "95691",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5786662,
-    "lng": -121.5502089,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-sacramento-shelter",
     "name": "Sacramento Homeless Services Hotline",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Sacramento",
     "state": "CA",
     "zip": "",
     "phone": "(800) 273-8255",
-    "hours": "24/7",
+    "hours": "24 hours, 7 days a week",
     "lat": 38.5816,
     "lng": -121.4944,
     "tags": [
       "shelter",
       "hotline",
       "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-sacramento-hygiene",
+    "name": "Sacramento Public Restroom Information",
+    "category": "Hygiene",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Varies",
+    "lat": 38.5816,
+    "lng": -121.4944,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-sacramento-library",
+    "name": "Sacramento Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 38.5816,
+    "lng": -121.4944,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

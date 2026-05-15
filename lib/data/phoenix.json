@@ -60,7 +60,7 @@
     "id": "fa-218641",
     "name": "The Salvation Army - N 4Th Avenue",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all. No appointment needed.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "613 N. 4th Avenue",
     "city": "Phoenix",
     "state": "AZ",
@@ -79,7 +79,7 @@
     "id": "fa-218704",
     "name": "The Salvation Army - S Central Avenue",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all. No appointment needed.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1625 S. Central Avenue",
     "city": "Phoenix",
     "state": "AZ",
@@ -98,7 +98,7 @@
     "id": "fa-220694",
     "name": "Andre House",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all. No appointment needed.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "213 S. 11th Ave.",
     "city": "Phoenix",
     "state": "AZ",
@@ -117,7 +117,7 @@
     "id": "fa-223965",
     "name": "NourishPhx",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all. No appointment needed.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "501 South 9th Avenue",
     "city": "Phoenix",
     "state": "AZ",
@@ -190,470 +190,99 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-10838700359",
-    "name": "Cypress Ridge HOA",
+    "id": "fa-187228",
+    "name": "Salvation Army (Laura Danieli Sr Activity Center)",
+    "category": "Food",
+    "description": "Salvation Army food distribution and meal service center with air conditioning, offering indoor service.",
+    "address": "613 N 4th Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85003",
+    "phone": "",
+    "hours": "",
+    "lat": 33.45542,
+    "lng": -112.07807,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189209",
+    "name": "Friendly House Inc",
+    "category": "Food",
+    "description": "Main office location for Friendly House Inc",
+    "address": "723 S 1st Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85003",
+    "phone": "",
+    "hours": "",
+    "lat": 33.44038,
+    "lng": -112.0748,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fallback-phoenix-shelter",
+    "name": "Phoenix Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Phoenix",
     "state": "AZ",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.414769,
-    "lng": -112.1826649,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 33.4484,
+    "lng": -112.074,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10886833482",
-    "name": "Central Arizona Shelter Services (CASS)",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "(602) 256-6945",
-    "hours": "",
-    "lat": 33.4450441,
-    "lng": -112.088578,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-32506775",
-    "name": "Maricopa Area 3",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5856562,
-    "lng": -112.0663162,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366219828",
-    "name": "Phoenix Library for the Blind and Physically Handicapped",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4597333,
-    "lng": -112.0133239,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366219866",
-    "name": "Phoenix Talking Book Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4597292,
-    "lng": -112.0131891,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366219937",
-    "name": "Maricopa County Medical Society Medical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4679943,
-    "lng": -112.0681189,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4950087307",
-    "name": "Superior Court Law Library Resource Center",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 08:00-17:00; PH off",
-    "lat": 33.4467441,
-    "lng": -112.0755351,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9688403747",
-    "name": "Grand Canyon University Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5135548,
-    "lng": -112.1299032,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11273283742",
-    "name": "Chandler Sunset Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Ray Road 4930",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85226",
-    "phone": "",
-    "hours": "",
-    "lat": 33.3212371,
-    "lng": -111.9251434,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-28715852",
-    "name": "Chandler Sunset Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Ray Road 4930",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85226",
-    "phone": "",
-    "hours": "",
-    "lat": 33.3214199,
-    "lng": -111.9251572,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-28822655",
-    "name": "Hayden Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Orange Street 300",
-    "city": "Tempe",
-    "state": "AZ",
-    "zip": "85281",
-    "phone": "",
-    "hours": "Mo-Fr 07:00-21:00; Sa 09:00-21:00; Su 10:00-21:00",
-    "lat": 33.4190232,
-    "lng": -111.9345787,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-28822657",
-    "name": "Hayden Library Concourse",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 07:00-21:00; Sa 09:00-21:00; Su 10:00-21:00",
-    "lat": 33.4190336,
-    "lng": -111.9352321,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-28878390",
-    "name": "Ross-Blakley Hall",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South McAllister Avenue 1102",
-    "city": "Tempe",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4171274,
-    "lng": -111.9296521,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1592989346",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4744805,
-    "lng": -111.9256799,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3699990180",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Indian School Road 725",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85013",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4945141,
-    "lng": -112.084291,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4029277611",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North 67th Avenue;West Peoria Avenue 6750",
-    "city": "Peoria",
-    "state": "AZ",
-    "zip": "85345",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5824748,
-    "lng": -112.204178,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4131713576",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85015",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5083169,
-    "lng": -112.09468,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4452508552",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4815229,
-    "lng": -112.015303,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4606588425",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East Guadalupe Road 805",
-    "city": "Tempe",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-21:00, Su 10:00-18:00",
-    "lat": 33.3624776,
-    "lng": -111.9298501,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8070423689",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.3797383,
-    "lng": -111.9769215,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8353528364",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.318161,
-    "lng": -111.9266368,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8502740405",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North 16th Street 4005",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "",
-    "phone": "(602) 698-1924",
-    "hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
-    "lat": 33.4933452,
-    "lng": -112.046429,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8778145445",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Camelback Road 5836",
-    "city": "Glendale",
-    "state": "AZ",
-    "zip": "85301",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5108136,
-    "lng": -112.185407,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-phoenix-hygiene",
-    "name": "Phoenix Library for the Blind and Physically Handicapped — Restroom Access",
+    "name": "Phoenix Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access at the public library. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Phoenix",
     "state": "AZ",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 33.4597333,
-    "lng": -112.0133239,
+    "hours": "Varies",
+    "lat": 33.4484,
+    "lng": -112.074,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-phoenix-library",
+    "name": "Phoenix Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

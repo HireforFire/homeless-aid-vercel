@@ -98,7 +98,7 @@
     "id": "fa-224896",
     "name": "Catholic Social Services - Food Market",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "2241 O Street",
     "city": "Lincoln",
     "state": "NE",
@@ -174,7 +174,7 @@
     "id": "fa-129832",
     "name": "Lincoln Public Schools",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "5905 O ST",
     "city": "LINCOLN",
     "state": "NE",
@@ -228,306 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-11921090499",
-    "name": "“O” & 68th Street - Northwest Side",
+    "id": "fallback-lincoln-shelter",
+    "name": "Lincoln Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Lincoln",
     "state": "NE",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.8135547,
-    "lng": -96.628349,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 40.8136,
+    "lng": -96.7026,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491307",
-    "name": "South Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Street 2675",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68502",
-    "phone": "(402) 441-8570",
-    "hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-20:00",
-    "lat": 40.7914491,
-    "lng": -96.6827613,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491349",
-    "name": "Ella Johnson Crandall Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7740824,
-    "lng": -96.6510781,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491350",
-    "name": "Love Memorial Library (South)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "",
-    "phone": "(402) 472-9568",
-    "hours": "Su-Th 07:30-22:00; Fr-Sa 07:30-20:00",
-    "lat": 40.8178585,
-    "lng": -96.7026255,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2084035772",
-    "name": "Dan A Williams Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Mike Scholl Street 5000",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68524",
-    "phone": "",
-    "hours": "",
-    "lat": 40.8621475,
-    "lng": -96.7892149,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2290419733",
-    "name": "Engineering Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.8229475,
-    "lng": -96.6976906,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2290419735",
-    "name": "Love North & Adele Learning Commons",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "R Street 1300",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68588",
-    "phone": "",
-    "hours": "Su-Th 07:30-01:00, Fr,Sa 07:30-20:00",
-    "lat": 40.818569,
-    "lng": -96.7025881,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2290421353",
-    "name": "Music Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "R Street 1104",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68588",
-    "phone": "",
-    "hours": "",
-    "lat": 40.8164986,
-    "lng": -96.7060267,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2290435784",
-    "name": "Geology Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "U Street 1215",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68588",
-    "phone": "",
-    "hours": "Mo-Fr 08:00-17:00",
-    "lat": 40.8199678,
-    "lng": -96.7030622,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2290436133",
-    "name": "Mathematics Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "T Street 1144",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68588",
-    "phone": "",
-    "hours": "",
-    "lat": 40.8193101,
-    "lng": -96.7043711,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-70870925",
-    "name": "Don Love Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "R Street 1300",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68588",
-    "phone": "",
-    "hours": "Su-Th 07:30-22:00; Fr,Sa 07:30-20:00",
-    "lat": 40.8182359,
-    "lng": -96.7025949,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11001736757",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Apples Way 6300",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68516",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7491948,
-    "lng": -96.6369266,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-731196894",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North 27th Street 3910",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68521",
-    "phone": "(402) 465-4663",
-    "hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
-    "lat": 40.8515315,
-    "lng": -96.6814215,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1135534611",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South 17th Street 1700",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68502",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7955254,
-    "lng": -96.6962765,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1313826359",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Vine Street 4555",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68503",
-    "phone": "(402) 466-3223",
-    "hours": "Mo-Fr 10:00-19:00; Sa 11:00-18:00",
-    "lat": 40.819406,
-    "lng": -96.6563546,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-lincoln-hygiene",
-    "name": "South Branch Library - Restroom Access",
+    "name": "Lincoln Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
-    "address": "South Street 2675",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Lincoln",
     "state": "NE",
-    "zip": "68502",
+    "zip": "",
     "phone": "",
-    "hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-20:00",
-    "lat": 40.7914491,
-    "lng": -96.6827613,
+    "hours": "Varies",
+    "lat": 40.8136,
+    "lng": -96.7026,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-lincoln-library",
+    "name": "Lincoln Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 40.8136,
+    "lng": -96.7026,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

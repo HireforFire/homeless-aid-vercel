@@ -79,7 +79,7 @@
     "id": "fa-223580",
     "name": "Thurston County Food Bank",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "220 Thurston Ave. NE",
     "city": "Olympia",
     "state": "WA",
@@ -98,7 +98,7 @@
     "id": "fa-131278",
     "name": "Olympia School District",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1113 LEGION WAY SE",
     "city": "OLYMPIA",
     "state": "WA",
@@ -228,301 +228,16 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-2340892228",
-    "name": "Tenino Timberland Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Central Avenue West 172",
-    "city": "Tenino",
-    "state": "WA",
-    "zip": "98589",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8568863,
-    "lng": -122.8518572,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5287893173",
-    "name": "O'Grady Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "",
-    "phone": "(360) 688-2260",
-    "hours": "Mo-Th 08:00-20:00; Fr 08:00-16:00; Su 13:00-17:00",
-    "lat": 47.0410827,
-    "lng": -122.8164766,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5907689551",
-    "name": "Daniel J. Evans Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.073313,
-    "lng": -122.9782969,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6506804971",
-    "name": "Hawks Prairie Timberland Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "",
-    "phone": "(360) 252-9658",
-    "hours": "Mo-Su 10:00-18:00",
-    "lat": 47.0558324,
-    "lng": -122.7662153,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13396564439",
-    "name": "Hawks Prairie Timberland Regional Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Su 10:00-18:00",
-    "lat": 47.0558794,
-    "lng": -122.7662682,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-132451746",
-    "name": "Lacey Timberland Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "College Street Southeast 500",
-    "city": "Lacey",
-    "state": "WA",
-    "zip": "98503",
-    "phone": "",
-    "hours": "Mo-Sa 10:00-18:00",
-    "lat": 47.0438503,
-    "lng": -122.8225276,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-185301290",
-    "name": "Olympia Timberland Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "8th Avenue Southeast 313",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "98501",
-    "phone": "",
-    "hours": "",
-    "lat": 47.0412428,
-    "lng": -122.8980581,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-199387577",
-    "name": "Timberland Regional Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "New Market Street Southwest 7023",
-    "city": "Tumwater",
-    "state": "WA",
-    "zip": "98501",
-    "phone": "",
-    "hours": "",
-    "lat": 46.9849347,
-    "lng": -122.913466,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-200374727",
-    "name": "Washington State Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Capitol Boulevard South 6880",
-    "city": "Tumwater",
-    "state": "WA",
-    "zip": "98501",
-    "phone": "",
-    "hours": "",
-    "lat": 46.9861946,
-    "lng": -122.9067759,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-240338561",
-    "name": "#28 - Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.0217255,
-    "lng": -122.930815,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2343843805",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Yelm Highway SE 4800",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "98513",
-    "phone": "",
-    "hours": "",
-    "lat": 46.9978407,
-    "lng": -122.8208205,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2351733190",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.0462127,
-    "lng": -122.9395981,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2358054608",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Galaxy Drive Northeast 1145",
-    "city": "Lacey",
-    "state": "WA",
-    "zip": "98516",
-    "phone": "",
-    "hours": "",
-    "lat": 47.0572056,
-    "lng": -122.769794,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2488664938",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 47.0451452,
-    "lng": -122.939733,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8936677182",
-    "name": "Goodwill - Olympia Outlet",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Martin Way East 4014",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "98506",
-    "phone": "(360) 456-2484",
-    "hours": "Mo-Su 09:00-17:00",
-    "lat": 47.0484485,
-    "lng": -122.8357083,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-olympia-shelter",
     "name": "Olympia Homeless Services Hotline",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Olympia",
     "state": "WA",
     "zip": "",
     "phone": "(800) 273-8255",
-    "hours": "24/7",
+    "hours": "24 hours, 7 days a week",
     "lat": 47.0379,
     "lng": -122.9007,
     "tags": [
@@ -534,20 +249,40 @@
   },
   {
     "id": "fallback-olympia-hygiene",
-    "name": "Tenino Timberland Library - Restroom Access",
+    "name": "Olympia Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
-    "address": "Central Avenue West 172",
-    "city": "Tenino",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Olympia",
     "state": "WA",
-    "zip": "98589",
+    "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 46.8568863,
-    "lng": -122.8518572,
+    "hours": "Varies",
+    "lat": 47.0379,
+    "lng": -122.9007,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-olympia-library",
+    "name": "Olympia Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 47.0379,
+    "lng": -122.9007,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

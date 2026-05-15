@@ -117,7 +117,7 @@
     "id": "fa-219523",
     "name": "Eugene Salvation Army",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "640 W 7th Avenue",
     "city": "Eugene",
     "state": "OR",
@@ -228,439 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-8504944354",
-    "name": "Hendricks Park",
+    "id": "fallback-eugene-shelter",
+    "name": "Eugene Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Eugene",
     "state": "OR",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 44.0383906,
-    "lng": -123.0565043,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 44.0521,
+    "lng": -123.0868,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13743816689",
-    "name": "Wildlife Viewing Point",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.9983273,
-    "lng": -122.9805028,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-203534462",
-    "name": "Lot 9 Safe Spot",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 44.0554463,
-    "lng": -123.0636001,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4409078494",
-    "name": "Springfield Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo,Th 12:00-19:00; Tu 10:00-19:00; We 10:00-18:00; Fr 10:00-17:00; Sa 10:00-15:00",
-    "lat": 44.0469809,
-    "lng": -123.0190087,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4856705088",
-    "name": "Eugene Public Library - Sheldon",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Coburg Road 1566",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97401",
-    "phone": "",
-    "hours": "",
-    "lat": 44.0793922,
-    "lng": -123.069385,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6308699486",
-    "name": "Junction City Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Greenwood Street 726",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97448",
-    "phone": "(541) 998-8942",
-    "hours": "Mo-Tu 12:00-19:00; We-Th 12:00-18:00; Sa 10:00-15:00",
-    "lat": 44.2203142,
-    "lng": -123.2023983,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7273467952",
-    "name": "River Road / Santa Clara Volunteer Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Oakleigh Lane 105",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "",
-    "phone": "(541) 607-1882",
-    "hours": "Tu,Fr 10:00-16:00; Sa 10:00-13:00",
-    "lat": 44.0783867,
-    "lng": -123.1197264,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-155170317",
-    "name": "Knight Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Kincaid Street 1501",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97403",
-    "phone": "",
-    "hours": "Mo-Fr 07:00-24:00",
-    "lat": 44.0431821,
-    "lng": -123.0777566,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-199248180",
-    "name": "Creswell Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Oregon Avenue 64",
-    "city": "Creswell",
-    "state": "OR",
-    "zip": "97426",
-    "phone": "(541) 895-3053",
-    "hours": "Mo,Fr 12:00-18:00; Tu-Th 10:00-19:00; Sa 10:00-16:00",
-    "lat": 43.9182302,
-    "lng": -123.0196477,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-277755607",
-    "name": "Edward P. Kellenberger Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Kincaid Street;East 11th Avenue 1188;828",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97401",
-    "phone": "",
-    "hours": "",
-    "lat": 44.0470933,
-    "lng": -123.0790204,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-283891483",
-    "name": "Eugene Public Library - Downtown",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West 10th Avenue 100",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97401",
-    "phone": "",
-    "hours": "Mo-Th 10:00-20:00; Fr-Su 10:00-18:00",
-    "lat": 44.0485247,
-    "lng": -123.0949521,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-794483713",
-    "name": "Eugene Public Library - Bethel",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Echo Hollow Road 1990",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97402",
-    "phone": "",
-    "hours": "",
-    "lat": 44.084193,
-    "lng": -123.1696487,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7729392885",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 44.0851702,
-    "lng": -123.1833693,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7865927425",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Division Ave 75",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97404",
-    "phone": "",
-    "hours": "Mo-Su 10:00-19:00",
-    "lat": 44.0998899,
-    "lng": -123.1271849,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10969861789",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Ivy Street 1495",
-    "city": "Junction City",
-    "state": "OR",
-    "zip": "97448",
-    "phone": "(541) 998-6521",
-    "hours": "",
-    "lat": 44.2266577,
-    "lng": -123.2053817,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10974256380",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West 6th Avenue 177",
-    "city": "Junction City",
-    "state": "OR",
-    "zip": "97448",
-    "phone": "",
-    "hours": "",
-    "lat": 44.2190601,
-    "lng": -123.202138,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-215483572",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 44.093384,
-    "lng": -123.0973676,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-216999637",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Division Avenue 201",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97404",
-    "phone": "(541) 762-7837",
-    "hours": "Mo-Su 10:00-19:00",
-    "lat": 44.0995849,
-    "lng": -123.1241887,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-233917984",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Chad Drive 2890",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97408",
-    "phone": "(541) 743-7117",
-    "hours": "Mo-Su 10:00-18:00",
-    "lat": 44.0884601,
-    "lng": -123.061612,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-345134104",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Garfield Street 888",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97402",
-    "phone": "(541) 313-4888",
-    "hours": "10:00-18:00",
-    "lat": 44.0505791,
-    "lng": -123.1237502,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-364588923",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "30th Street 102",
-    "city": "Springfield",
-    "state": "OR",
-    "zip": "97478",
-    "phone": "",
-    "hours": "",
-    "lat": 44.0464574,
-    "lng": -122.9836833,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-424910007",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West 11th Avenue 1870",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97402",
-    "phone": "(541) 844-1945",
-    "hours": "Mo-Su 10:00-18:00",
-    "lat": 44.048758,
-    "lng": -123.1257266,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-eugene-hygiene",
-    "name": "Springfield Public Library - Restroom Access",
+    "name": "Eugene Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Eugene",
     "state": "OR",
     "zip": "",
     "phone": "",
-    "hours": "Mo,Th 12:00-19:00; Tu 10:00-19:00; We 10:00-18:00; Fr 10:00-17:00; Sa 10:00-15:00",
-    "lat": 44.0469809,
-    "lng": -123.0190087,
+    "hours": "Varies",
+    "lat": 44.0521,
+    "lng": -123.0868,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-eugene-library",
+    "name": "Eugene Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 44.0521,
+    "lng": -123.0868,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

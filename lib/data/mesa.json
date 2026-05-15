@@ -60,7 +60,7 @@
     "id": "fa-221319",
     "name": "A New Leaf: Autumn House",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "Confidential - please call to schedule delivery",
     "city": "Mesa",
     "state": "AZ",
@@ -79,7 +79,7 @@
     "id": "fa-222670",
     "name": "without walls christian center/ manna food bank",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "756 w. main st.",
     "city": "Mesa",
     "state": "AZ",
@@ -98,7 +98,7 @@
     "id": "fa-224861",
     "name": "Saint Vincent de Paul-QOP",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "30 W 1st st",
     "city": "Mesa",
     "state": "AZ",
@@ -117,7 +117,7 @@
     "id": "fa-225481",
     "name": "Lutheran Social Services of the Southwest",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "142 North Date Street",
     "city": "Mesa",
     "state": "AZ",
@@ -155,7 +155,7 @@
     "id": "fa-128301",
     "name": "Concordia Charter School, Inc.",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "142 NORTH DATE",
     "city": "MESA",
     "state": "AZ",
@@ -174,7 +174,7 @@
     "id": "fa-128334",
     "name": "Mesa Unified District",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "63 EAST MAIN ST",
     "city": "MESA",
     "state": "AZ",
@@ -228,420 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-4630475112",
-    "name": "Ramada",
+    "id": "fallback-mesa-shelter",
+    "name": "Mesa Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Mesa",
     "state": "AZ",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.3614687,
-    "lng": -111.6765544,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 33.4152,
+    "lng": -111.8315,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366219828",
-    "name": "Phoenix Library for the Blind and Physically Handicapped",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4597333,
-    "lng": -112.0133239,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366219866",
-    "name": "Phoenix Talking Book Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4597292,
-    "lng": -112.0131891,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1775759445",
-    "name": "Chandler Public Library-Hamilton Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.2532434,
-    "lng": -111.8425492,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4438369511",
-    "name": "Fountain Hills Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.6028269,
-    "lng": -111.7218346,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7296216893",
-    "name": "Library Media Center",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4308049,
-    "lng": -111.7415248,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11273283742",
-    "name": "Chandler Sunset Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Ray Road 4930",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85226",
-    "phone": "",
-    "hours": "",
-    "lat": 33.3212371,
-    "lng": -111.9251434,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12988629072",
-    "name": "Mesa Express Library - Monterey Park",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Monterey Avenue 7045",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85209",
-    "phone": "",
-    "hours": "Mo-Sa 07:00-20:00",
-    "lat": 33.3671305,
-    "lng": -111.6839148,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-28715852",
-    "name": "Chandler Sunset Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Ray Road 4930",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85226",
-    "phone": "",
-    "hours": "",
-    "lat": 33.3214199,
-    "lng": -111.9251572,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-28822655",
-    "name": "Hayden Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Orange Street 300",
-    "city": "Tempe",
-    "state": "AZ",
-    "zip": "85281",
-    "phone": "",
-    "hours": "Mo-Fr 07:00-21:00; Sa 09:00-21:00; Su 10:00-21:00",
-    "lat": 33.4190232,
-    "lng": -111.9345787,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-28822657",
-    "name": "Hayden Library Concourse",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 07:00-21:00; Sa 09:00-21:00; Su 10:00-21:00",
-    "lat": 33.4190336,
-    "lng": -111.9352321,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1592989346",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4744805,
-    "lng": -111.9256799,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3718056040",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4152999,
-    "lng": -111.8827938,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4452508552",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4815229,
-    "lng": -112.015303,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4606588425",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East Guadalupe Road 805",
-    "city": "Tempe",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-21:00, Su 10:00-18:00",
-    "lat": 33.3624776,
-    "lng": -111.9298501,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5341865997",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.2464719,
-    "lng": -111.7931449,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5355696715",
-    "name": "My Sister's Closet",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Alma School Road 2915",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85286",
-    "phone": "",
-    "hours": "",
-    "lat": 33.2640739,
-    "lng": -111.8562292,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8070423689",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.3797383,
-    "lng": -111.9769215,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8353528364",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.318161,
-    "lng": -111.9266368,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8433312567",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East Via Linda 8912",
-    "city": "Scottsdale",
-    "state": "AZ",
-    "zip": "85258",
-    "phone": "(480) 661-1282",
-    "hours": "Mo-Su 10:00-18:00",
-    "lat": 33.569246,
-    "lng": -111.8888495,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13148569801",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North 32nd Street 12010",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85032",
-    "phone": "(602) 493-4705",
-    "hours": "Mo-Su 09:00-21:00",
-    "lat": 33.5953579,
-    "lng": -112.0148139,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-mesa-hygiene",
-    "name": "Phoenix Library for the Blind and Physically Handicapped - Restroom Access",
+    "name": "Mesa Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Mesa",
     "state": "AZ",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 33.4597333,
-    "lng": -112.0133239,
+    "hours": "Varies",
+    "lat": 33.4152,
+    "lng": -111.8315,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-mesa-library",
+    "name": "Mesa Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 33.4152,
+    "lng": -111.8315,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

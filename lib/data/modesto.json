@@ -41,7 +41,7 @@
     "id": "fa-223900",
     "name": "MoPride's People's Pantry",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "400 12th Street suite 2",
     "city": "Modesto",
     "state": "CA",
@@ -98,7 +98,7 @@
     "id": "fa-128609",
     "name": "Modesto City Elementary School District",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "426 LOCUST ST",
     "city": "MODESTO",
     "state": "CA",
@@ -228,306 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-5521495816",
-    "name": "Ceres High School Gazebo",
+    "id": "fallback-modesto-shelter",
+    "name": "Modesto Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Modesto",
     "state": "CA",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.5949442,
-    "lng": -120.956394,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 37.6391,
+    "lng": -120.9969,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-553647534",
-    "name": "Shade",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.4688176,
-    "lng": -121.1496959,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170347",
-    "name": "Modesto Junior College Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6517688,
-    "lng": -121.0099423,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170350",
-    "name": "Salida Branch Stanislaus County Free Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7084206,
-    "lng": -121.078313,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170351",
-    "name": "Keyes Branch Stanislaus County Free Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.5520738,
-    "lng": -120.9096469,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170352",
-    "name": "Ceres Branch Stanislaus County Free Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.5929696,
-    "lng": -120.955007,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170355",
-    "name": "Patterson Branch Stanislaus County Free Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.4717777,
-    "lng": -121.1316033,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170356",
-    "name": "Oakdale Branch Stanislaus County Free Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7646502,
-    "lng": -120.8488212,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170393",
-    "name": "Emanuel Medical Center Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.5113232,
-    "lng": -120.8388164,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170394",
-    "name": "Hughson Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "3rd Street 2412",
-    "city": "Hughson",
-    "state": "CA",
-    "zip": "95326",
-    "phone": "(209) 883-2293",
-    "hours": "Tu-Th 10:00-18:00; Fr-Sa 10:00-17:00",
-    "lat": 37.5961992,
-    "lng": -120.8664635,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170461",
-    "name": "Ripon Branch Stockton-San Joaquin County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7396131,
-    "lng": -121.1264324,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6042956059",
-    "name": "Rose Avenue Elementary School Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6582889,
-    "lng": -120.965978,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3524713025",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6763592,
-    "lng": -120.9952562,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-281221372",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Tegner Road 3000",
-    "city": "Turlock",
-    "state": "CA",
-    "zip": "95380",
-    "phone": "(209) 507-8930",
-    "hours": "11:00-20:00",
-    "lat": 37.5198429,
-    "lng": -120.8856947,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1146755878",
-    "name": "Sacred Heart Thrift Shop",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East Avenue 1388",
-    "city": "Turlock",
-    "state": "CA",
-    "zip": "95380",
-    "phone": "(209) 634-8780",
-    "hours": "Tu-Sa 09:00-16:00",
-    "lat": 37.492104,
-    "lng": -120.8355943,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-modesto-hygiene",
-    "name": "Modesto Junior College Library - Restroom Access",
+    "name": "Modesto Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Modesto",
     "state": "CA",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 37.6517688,
-    "lng": -121.0099423,
+    "hours": "Varies",
+    "lat": 37.6391,
+    "lng": -120.9969,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-modesto-library",
+    "name": "Modesto Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 37.6391,
+    "lng": -120.9969,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

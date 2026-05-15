@@ -60,7 +60,7 @@
     "id": "fa-219267",
     "name": "Bay Area Christian Connection",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "810 Clay Street",
     "city": "Oakland",
     "state": "CA",
@@ -228,494 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-2179081977",
-    "name": "CouchSurfing - Keisar",
+    "id": "fallback-oakland-shelter",
+    "name": "Oakland Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Oakland",
     "state": "CA",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.719568,
-    "lng": -122.3951797,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 37.8044,
+    "lng": -122.2712,
     "tags": [
       "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-3009189224",
-    "name": "Women's Drop-In Center",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "13th Street 211",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94103",
-    "phone": "",
-    "hours": "24/7",
-    "lat": 37.7698358,
-    "lng": -122.4193302,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4003389390",
-    "name": "Normandie Hotel",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "9th Street 251",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94103",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7744267,
-    "lng": -122.4122526,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6603438363",
-    "name": "El Camino Real & East Market Street",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6890085,
-    "lng": -122.4658845,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-317124778",
-    "name": "Mission Bay Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "4th Street 960",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94158",
-    "phone": "(415) 355-2838",
-    "hours": "Mo-Tu,Th,Sa 10:00-18:00; We 11:00-20:00; Fr 13:00-18:00; Su 13:00-17:00",
-    "lat": 37.7753882,
-    "lng": -122.3932,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368168766",
-    "name": "Far West Library for Educational Research and Development",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7671519,
-    "lng": -122.414971,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368168767",
-    "name": "Anne Bremer Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.8035397,
-    "lng": -122.4169157,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368168856",
-    "name": "William E Colby Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7838181,
-    "lng": -122.4191378,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169019",
-    "name": "San Lorenzo Branch Alameda County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6788803,
-    "lng": -122.1258631,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169020",
-    "name": "South Branch San Leandro Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.708819,
-    "lng": -122.1341316,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169027",
-    "name": "San Pablo Branch Contra Costa County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "San Pablo Avenue 13751",
-    "city": "San Pablo",
-    "state": "CA",
-    "zip": "94806",
-    "phone": "",
-    "hours": "Mo-Tu 10:00-20:00; We-Th 10:00-18:00; Fr-Sa 09:00-17:00",
-    "lat": 37.9579056,
-    "lng": -122.3399034,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169064",
-    "name": "Elmhurst Branch Oakland Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo 10:00-17:30; Tu-We 10:00-20:00; Th 10:00-17:30; Fr 12:00-17:30; Sa 10:00-17:30",
-    "lat": 37.7515442,
-    "lng": -122.1749085,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169068",
-    "name": "Mulford-Marina Branch San Leandro Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Aurora Drive 13699",
-    "city": "San Leandro",
-    "state": "CA",
-    "zip": "94577",
-    "phone": "(510) 577-7976",
-    "hours": "Tu-Th 13:00-17:00; PH off",
-    "lat": 37.6978646,
-    "lng": -122.1823061,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169069",
-    "name": "Manor Branch San Leandro Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Manor Boulevard 1241",
-    "city": "San Leandro",
-    "state": "CA",
-    "zip": "94577",
-    "phone": "(510) 577-7971",
-    "hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-17:00; Su 13:00-17:00; PH off",
-    "lat": 37.6913197,
-    "lng": -122.1530209,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1575668183",
-    "name": "Archimedes Banya",
+    "id": "fallback-oakland-hygiene",
+    "name": "Oakland Public Restroom Information",
     "category": "Hygiene",
-    "description": "public_bath",
-    "address": "Innes Avenue 748",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94124",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7305543,
-    "lng": -122.3727303,
-    "tags": [
-      "showers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6546393013",
-    "name": "Kabuki Springs & Spa",
-    "category": "Hygiene",
-    "description": "public_bath",
-    "address": "Geary Boulevard 1750",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94115",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7846994,
-    "lng": -122.4326243,
-    "tags": [
-      "showers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-430531319",
-    "name": "East Bay Depot For Creative Reuse",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Telegraph Avenue 4695",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "95476",
-    "phone": "(510) 547-6470",
-    "hours": "Th-Su 12:00-18:00",
-    "lat": 37.8342622,
-    "lng": -122.263279,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2326547326",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "University Avenue 2058",
-    "city": "Berkeley",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-20:00, Su 10:00-19:00",
-    "lat": 37.8718695,
-    "lng": -122.2693145,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2390948591",
-    "name": "Redux Studios & Gallery Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Lincoln Avenue 2315",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7670511,
-    "lng": -122.2418345,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4103856290",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Oakland",
     "state": "CA",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 37.7360656,
-    "lng": -122.390495,
+    "hours": "Varies",
+    "lat": 37.8044,
+    "lng": -122.2712,
     "tags": [
-      "thrift",
-      "charity"
+      "restroom",
+      "hygiene"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-5778812154",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
+    "id": "fallback-oakland-library",
+    "name": "Oakland Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
     "address": "",
     "city": "Oakland",
     "state": "CA",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 37.7930832,
-    "lng": -122.200303,
+    "hours": "Hours vary by branch",
+    "lat": 37.8044,
+    "lng": -122.2712,
     "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7415968033",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Su 10:00-18:00",
-    "lat": 37.724062,
-    "lng": -122.4350725,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8309238884",
-    "name": "The Plant Exchange",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.8088315,
-    "lng": -122.2013453,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8421856499",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Fillmore Street 1669",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "(415) 354-8570",
-    "hours": "09:00-21:00",
-    "lat": 37.7849963,
-    "lng": -122.433275,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8873006301",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6895842,
-    "lng": -122.4662389,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11173169939",
-    "name": "The Salvation Army Family Store",
-    "category": "Clothing & Supplies",
-    "description": "social_facility",
-    "address": "Mission Road 1170",
-    "city": "South San Francisco",
-    "state": "CA",
-    "zip": "94080",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6619543,
-    "lng": -122.4391645,
-    "tags": [
-      "thrift",
-      "charity"
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

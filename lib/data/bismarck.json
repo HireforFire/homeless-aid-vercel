@@ -41,7 +41,7 @@
     "id": "fa-219110",
     "name": "Ruth Meiers Hospitality House",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1800 E Broadway Ave",
     "city": "Bismarck",
     "state": "ND",
@@ -60,7 +60,7 @@
     "id": "fa-224548",
     "name": "The Salvation Army",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "601 S. Washington",
     "city": "Bismarck",
     "state": "ND",
@@ -228,111 +228,16 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-605170925",
-    "name": "Morton Mandan Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Main Street 609",
-    "city": "Mandan",
-    "state": "ND",
-    "zip": "58554",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8252286,
-    "lng": -100.897531,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-50266499",
-    "name": "North Dakota State Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Boulevard Avenue 604",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "58505",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8192892,
-    "lng": -100.7812741,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-544782214",
-    "name": "Bismarck Veterans Memorial Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North 5th Street 515",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "58501",
-    "phone": "(701) 355-1480",
-    "hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-18:00; Su 13:00-18:00",
-    "lat": 46.8100447,
-    "lng": -100.7836461,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-444211337",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South 3rd Street 421",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "58501",
-    "phone": "(701) 222-7210",
-    "hours": "Mo-Sa 09:00-18:00; Su 12:00-17:00 open \"Store\" || Mo-Fr 09:00-16:00 open \"Donation\"",
-    "lat": 46.8013268,
-    "lng": -100.7872802,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-882342256",
-    "name": "Dakota Boys and Girls Ranch",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East Interstate Ave 1335",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "",
-    "phone": "(701) 223-7979",
-    "hours": "Mo-Sa 10:00-18:00",
-    "lat": 46.8341135,
-    "lng": -100.7709895,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-bismarck-shelter",
     "name": "Bismarck Homeless Services Hotline",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Bismarck",
     "state": "ND",
     "zip": "",
     "phone": "(800) 273-8255",
-    "hours": "24/7",
+    "hours": "24 hours, 7 days a week",
     "lat": 46.8083,
     "lng": -100.7837,
     "tags": [
@@ -344,20 +249,40 @@
   },
   {
     "id": "fallback-bismarck-hygiene",
-    "name": "Morton Mandan Public Library - Restroom Access",
+    "name": "Bismarck Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
-    "address": "West Main Street 609",
-    "city": "Mandan",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Bismarck",
     "state": "ND",
-    "zip": "58554",
+    "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 46.8252286,
-    "lng": -100.897531,
+    "hours": "Varies",
+    "lat": 46.8083,
+    "lng": -100.7837,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-bismarck-library",
+    "name": "Bismarck Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 46.8083,
+    "lng": -100.7837,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

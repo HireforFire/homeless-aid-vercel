@@ -228,243 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-367931580",
-    "name": "Harwell G Davis Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4656623,
-    "lng": -86.7922114,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367931595",
-    "name": "Lucille Stewart Beeson Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4667238,
-    "lng": -86.7913475,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12590626628",
-    "name": "Clarence B. Hanson, Jr. Library & Archives",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "Tu-Fr 10:00-16:00",
-    "lat": 33.5223913,
-    "lng": -86.8095577,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-54778075",
-    "name": "Birmingham Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Park Place 2100",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35203",
-    "phone": "(205) 226-3600",
-    "hours": "Mo 09:00-18:00; Tu 09:00-20:00; We-Sa 09:00-18:00",
-    "lat": 33.5210121,
-    "lng": -86.8077584,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-54778076",
-    "name": "Linn Hinley Research Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.520604,
-    "lng": -86.8084842,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-55652997",
-    "name": "Hoover Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Municipal Lane 200",
-    "city": "Hoover",
-    "state": "AL",
-    "zip": "35216;35216-5510",
-    "phone": "(205) 444-7800",
-    "hours": "",
-    "lat": 33.3879843,
-    "lng": -86.8046375,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-259692783",
-    "name": "Mervyn H. Sterne Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "13th Street South 917",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35294",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4981806,
-    "lng": -86.8067606,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-491849487",
-    "name": "Harwell G. Davis University Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4658177,
-    "lng": -86.7921034,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-583363219",
-    "name": "Avondale Regional Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "40th Street South 509",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35222",
-    "phone": "(205) 226-4000",
-    "hours": "",
-    "lat": 33.5207924,
-    "lng": -86.7737201,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4839324602",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4618497,
-    "lng": -86.8174618,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5554667964",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Crestwood Boulevard 7952",
-    "city": "Irondale",
-    "state": "AL",
-    "zip": "35210",
-    "phone": "(205) 951-1234",
-    "hours": "Mo-Fr 08:00-19:00, Sa 08:00-17:00",
-    "lat": 33.5324243,
-    "lng": -86.7112783,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7293300713",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Green Springs Highway South 2530",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35205",
-    "phone": "(205) 323-6331",
-    "hours": "Mo-Sa 08:00-18:00; Su 11:00-16:00",
-    "lat": 33.4788474,
-    "lng": -86.8257145,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-birmingham-shelter",
     "name": "Birmingham Homeless Services Hotline",
     "category": "Shelter",
@@ -486,22 +249,40 @@
   },
   {
     "id": "fallback-birmingham-hygiene",
-    "name": "Harwell G Davis Library - Restroom Access",
+    "name": "Birmingham Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Birmingham",
     "state": "AL",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 33.4656623,
-    "lng": -86.7922114,
+    "hours": "Varies",
+    "lat": 33.5186,
+    "lng": -86.8104,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-birmingham-library",
+    "name": "Birmingham Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 33.5186,
+    "lng": -86.8104,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

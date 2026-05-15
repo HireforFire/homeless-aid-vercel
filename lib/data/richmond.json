@@ -228,376 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-5695245518",
-    "name": "Margaret R. and Robert M. Freeman Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "",
-    "phone": "(804) 340-1495",
-    "hours": "Mo-Fr 10:00-17:00; PH off",
-    "lat": 37.5563175,
-    "lng": -77.47458,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7093722586",
-    "name": "Helen Wapole Brewer Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.5573065,
-    "lng": -77.4738343,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13358214546",
-    "name": "Watt Library and Technology Building",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.5770877,
-    "lng": -77.5867254,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13460941957",
-    "name": "Library of Virginia",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Broad Street 800",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23219",
-    "phone": "",
-    "hours": "Mo-Sa 08:30-17:00",
-    "lat": 37.5415411,
-    "lng": -77.4338944,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13596932140",
-    "name": "Virginia Baptist Historical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Richmond Way 261",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23173",
-    "phone": "",
-    "hours": "Mon-Fri 9:30am-12pm 1-4:30pm",
-    "lat": 37.5771179,
-    "lng": -77.537931,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-60826456",
-    "name": "James Branch Cabell Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Park Avenue 901",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23284",
-    "phone": "",
-    "hours": "",
-    "lat": 37.5477933,
-    "lng": -77.4535609,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-224510147",
-    "name": "Tompkins-McCaw Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North 12th Street 509",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23219",
-    "phone": "(804) 828-0636",
-    "hours": "",
-    "lat": 37.5412494,
-    "lng": -77.4289177,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-233896233",
-    "name": "Chesterfield County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Lori Road 9901",
-    "city": "Chesterfield",
-    "state": "VA",
-    "zip": "23832",
-    "phone": "",
-    "hours": "",
-    "lat": 37.3821521,
-    "lng": -77.5129244,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-235996972",
-    "name": "LaPrade Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Hull Street Road 9000",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23236",
-    "phone": "",
-    "hours": "",
-    "lat": 37.4534063,
-    "lng": -77.5599967,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2755211114",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.5955501,
-    "lng": -77.5099556,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3110375361",
-    "name": "Hope Church Thrift",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.598827,
-    "lng": -77.6214598,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6520164799",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Forest Hill Avenue 7101",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00 open \"Donations Only\"",
-    "lat": 37.5344923,
-    "lng": -77.5253597,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6541345372",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Midlothian Turnpike 8535",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23235",
-    "phone": "",
-    "hours": "",
-    "lat": 37.4946582,
-    "lng": -77.5544847,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7876141288",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Roane Street 1901",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23222",
-    "phone": "",
-    "hours": "Mo-Sa 10:00-17:00",
-    "lat": 37.5605299,
-    "lng": -77.4404088,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11460979692",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Stonewall Parkway 7199",
-    "city": "Mechanicsville",
-    "state": "VA",
-    "zip": "23111",
-    "phone": "(804) 569-6226",
-    "hours": "Mo-Sa 09:00-17:00",
-    "lat": 37.5992982,
-    "lng": -77.3705885,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11630400762",
-    "name": "ReStore Donation Drop-Off",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "",
-    "phone": "(804) 569-6226",
-    "hours": "Mo-Sa 09:00-16:00",
-    "lat": 37.5995517,
-    "lng": -77.3708671,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12650891584",
-    "name": "Furbish Thrift",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "We-Su 10:00-18:00; Mo-Tu off",
-    "lat": 37.5388368,
-    "lng": -77.5183963,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12717727052",
-    "name": "Nifty Thrifty",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Forest Hill Avenue 6780",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Tu off; We-Su 10:00-18:00",
-    "lat": 37.5391852,
-    "lng": -77.5187115,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-234353790",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Tom Leonard Drive 4200",
-    "city": "Glen Allen",
-    "state": "VA",
-    "zip": "23060",
-    "phone": "(804) 823-8215",
-    "hours": "Mo-Sa 09:00-20:00",
-    "lat": 37.6520756,
-    "lng": -77.6002206,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-richmond-shelter",
     "name": "Richmond Homeless Services Hotline",
     "category": "Shelter",
@@ -619,22 +249,40 @@
   },
   {
     "id": "fallback-richmond-hygiene",
-    "name": "Margaret R. and Robert M. Freeman Library - Restroom Access",
+    "name": "Richmond Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Richmond",
     "state": "VA",
     "zip": "",
     "phone": "",
-    "hours": "Mo-Fr 10:00-17:00; PH off",
-    "lat": 37.5563175,
-    "lng": -77.47458,
+    "hours": "Varies",
+    "lat": 37.5407,
+    "lng": -77.436,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-richmond-library",
+    "name": "Richmond Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 37.5407,
+    "lng": -77.436,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

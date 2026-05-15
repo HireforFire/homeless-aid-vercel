@@ -79,7 +79,7 @@
     "id": "fa-222998",
     "name": "McCarty Food Pantry",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "630 7th Ave N",
     "city": "Fargo",
     "state": "ND",
@@ -212,7 +212,7 @@
     "id": "fa-221786",
     "name": "Madison Resource Center/FHRA",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "719 29th St. NW",
     "city": "Fargo",
     "state": "ND",
@@ -228,268 +228,61 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-6697943907",
-    "name": "M | State 28th Avenue",
+    "id": "fallback-fargo-shelter",
+    "name": "Fargo Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Fargo",
     "state": "ND",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8477505,
-    "lng": -96.749788,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 46.8772,
+    "lng": -96.7898,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1424099586",
-    "name": "Northport Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Broadway 2714",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "58102",
-    "phone": "(701) 476-4026",
-    "hours": "",
-    "lat": 46.9116971,
-    "lng": -96.7885253,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12529150286",
-    "name": "West Fargo Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "3rd Street East 215",
-    "city": "West Fargo",
-    "state": "ND",
-    "zip": "58078",
-    "phone": "(701) 515-5200",
-    "hours": "",
-    "lat": 46.8745611,
-    "lng": -96.89554,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-52245697",
-    "name": "Livingston Lord Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "13th Street South 700",
-    "city": "Moorhead",
-    "state": "MN",
-    "zip": "56563",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8671722,
-    "lng": -96.7594317,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-84834246",
-    "name": "Main Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Albrecht Boulevard 1201",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "58105",
-    "phone": "(701) 231-8888",
-    "hours": "",
-    "lat": 46.8908672,
-    "lng": -96.8013084,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-118423400",
-    "name": "Moorhead Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "5th Street South 118",
-    "city": "Moorhead",
-    "state": "MN",
-    "zip": "56560",
-    "phone": "(218) 233-7594",
-    "hours": "",
-    "lat": 46.8730916,
-    "lng": -96.7714773,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-134161477",
-    "name": "Dr. James Carlson Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "32nd Avenue South 2801",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "58103",
-    "phone": "(701) 476-4040",
-    "hours": "Mo-Th 10:00-20:00; Fr 11:00-18:00; Sa 09:00-18:00",
-    "lat": 46.8330754,
-    "lng": -96.8268729,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-186238504",
-    "name": "Carl B Ylvisaker Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Fargo",
-    "state": "MN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8646535,
-    "lng": -96.7701146,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-226940441",
-    "name": "Fargo Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "4th Street North 101",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "58102",
-    "phone": "(701) 241-1472",
-    "hours": "",
-    "lat": 46.8773061,
-    "lng": -96.7837852,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1442693748",
-    "name": "Moorhead Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8753793,
-    "lng": -96.7731616,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8712824503",
-    "name": "Center For Avian Adoption Rescue And Education",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8736787,
-    "lng": -96.862628,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-132426491",
-    "name": "New Life Center Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8786532,
-    "lng": -96.8110343,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-191756582",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8775937,
-    "lng": -96.7621297,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-fargo-hygiene",
-    "name": "Northport Library - Restroom Access",
+    "name": "Fargo Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
-    "address": "North Broadway 2714",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Fargo",
     "state": "ND",
-    "zip": "58102",
+    "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 46.9116971,
-    "lng": -96.7885253,
+    "hours": "Varies",
+    "lat": 46.8772,
+    "lng": -96.7898,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-fargo-library",
+    "name": "Fargo Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 46.8772,
+    "lng": -96.7898,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

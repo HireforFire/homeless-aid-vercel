@@ -22,7 +22,7 @@
     "id": "fa-216220",
     "name": "More Than a Meal",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "502 N Walnut St",
     "city": "Colorado Springs",
     "state": "CO",
@@ -41,7 +41,7 @@
     "id": "fa-220075",
     "name": "Care and Share Food Bank, Inc",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "2605 Preamble Point",
     "city": "Colorado Springs",
     "state": "CO",
@@ -60,7 +60,7 @@
     "id": "fa-225196",
     "name": "linda west",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "6212 Roundbutte St.",
     "city": "Colorado Springs",
     "state": "CO",
@@ -193,7 +193,7 @@
     "id": "fa-216200",
     "name": "Trinity United Methodist Church",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "701 N 20th St",
     "city": "Colorado Springs",
     "state": "CO",
@@ -212,7 +212,7 @@
     "id": "fa-216219",
     "name": "Pike’s Peak Biker’s Church",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1505 E Monument St",
     "city": "Colorado Springs",
     "state": "CO",
@@ -228,396 +228,16 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "osm-node-12451509779",
-    "name": "Chinook Trail Middle School",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.9745689,
-    "lng": -104.7326748,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-37124940",
-    "name": "Manitou Springs Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Manitou Avenue 701",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80829",
-    "phone": "(719) 685-5206",
-    "hours": "",
-    "lat": 38.8565664,
-    "lng": -104.9147641,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-183686841",
-    "name": "Library 21C",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Chapel Hills Drive 1175",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80820",
-    "phone": "(719) 884-9800",
-    "hours": "",
-    "lat": 38.9533768,
-    "lng": -104.793023,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-186586945",
-    "name": "Penrose Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Cascade Avenue 20",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(719) 531-6333",
-    "hours": "Mo-Th 09:00-19:00; Fr-Sa 09:00-17:00",
-    "lat": 38.8353359,
-    "lng": -104.8260581,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-186705346",
-    "name": "Old Colorado City Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Pikes Peak Avenue 2418",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80904",
-    "phone": "(719) 634-1698",
-    "hours": "",
-    "lat": 38.8476225,
-    "lng": -104.8610747,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-189536556",
-    "name": "Kramer Family Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Austin Bluffs Parkway 1420",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80918",
-    "phone": "",
-    "hours": "Mo-Th 07:30-23:00; Fr 07:30-20:00; Sa 10:00-20:00; Su 11:00-23:00",
-    "lat": 38.892746,
-    "lng": -104.8004019,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-192838779",
-    "name": "East Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Union Boulevard 5550",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80918",
-    "phone": "(719) 531-6333",
-    "hours": "Mo-Th 09:00-21:00; Fr-Sa 10:00-18:00; Su 13:00-17:00",
-    "lat": 38.9126286,
-    "lng": -104.778297,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-200395216",
-    "name": "Rockrimmon Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Village Center Drive 832",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80919",
-    "phone": "(719) 593-8000",
-    "hours": "",
-    "lat": 38.9229407,
-    "lng": -104.8445977,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-208663056",
-    "name": "Ruth Holley Library",
-    "category": "Public Resources",
-    "description": "Along Bus Route 22",
-    "address": "North Murray Boulevard 685",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80915",
-    "phone": "(719) 531-6333",
-    "hours": "Mo-Th 09:00-19:00; Fr-Sa 09:00-17:00",
-    "lat": 38.8430132,
-    "lng": -104.7461763,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-231528264",
-    "name": "Tutt Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Cascade Avenue 1021",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(719) 389-6184",
-    "hours": "",
-    "lat": 38.8489468,
-    "lng": -104.8238793,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2434501316",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Colorado Avenue 2304",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Su 09:00-18:00",
-    "lat": 38.8457415,
-    "lng": -104.859823,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4906461128",
-    "name": "arc Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Uintah Street 1830",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80904",
-    "phone": "(719) 473-0502",
-    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
-    "lat": 38.8496997,
-    "lng": -104.849167,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7159676751",
-    "name": "arc Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Austin Bluffs Parkway 4402",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
-    "lat": 38.8972361,
-    "lng": -104.750622,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8117816943",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "Donations only, no retail.",
-    "address": "West Colorado Avenue 2307",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Su 09:00-18:00",
-    "lat": 38.8455842,
-    "lng": -104.860883,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8397841877",
-    "name": "arc Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Academy Boulevard 2780",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "",
-    "phone": "(719) 391-7717",
-    "hours": "",
-    "lat": 38.7920017,
-    "lng": -104.75922,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12586030141",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Tutt Boulevard 6250",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80923",
-    "phone": "(719) 667-0840",
-    "hours": "Mo-Sa 10:00-18:00",
-    "lat": 38.9231799,
-    "lng": -104.7173938,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13484939901",
-    "name": "Goodwill dropoff location",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.8989451,
-    "lng": -104.8533488,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-183687169",
-    "name": "arc Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Academy Boulevard 7165",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80920",
-    "phone": "",
-    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
-    "lat": 38.9362988,
-    "lng": -104.7961279,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-193425790",
-    "name": "Goodwill Outlet Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Academy Boulevard 2855",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 08:00-20:00; Su 09:00-18:00",
-    "lat": 38.7908846,
-    "lng": -104.7550155,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-194585575",
-    "name": "arc Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.8937431,
-    "lng": -104.8510806,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-colorado-springs-shelter",
     "name": "Colorado Springs Homeless Services Hotline",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Colorado Springs",
     "state": "CO",
     "zip": "",
     "phone": "(800) 273-8255",
-    "hours": "24/7",
+    "hours": "24 hours, 7 days a week",
     "lat": 38.8339,
     "lng": -104.8214,
     "tags": [
@@ -629,20 +249,40 @@
   },
   {
     "id": "fallback-colorado-springs-hygiene",
-    "name": "Chinook Trail Middle School - Restroom Access",
+    "name": "Colorado Springs Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Colorado Springs",
     "state": "CO",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 38.9745689,
-    "lng": -104.7326748,
+    "hours": "Varies",
+    "lat": 38.8339,
+    "lng": -104.8214,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-colorado-springs-library",
+    "name": "Colorado Springs Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 38.8339,
+    "lng": -104.8214,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

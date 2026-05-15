@@ -41,7 +41,7 @@
     "id": "fa-224113",
     "name": "FISH Food Bank",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "138 E. Long St",
     "city": "Carson City",
     "state": "NV",
@@ -60,7 +60,7 @@
     "id": "fa-130163",
     "name": "Carson City SD",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1402 WEST KING",
     "city": "CARSON CITY",
     "state": "NV",
@@ -228,229 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-way-711538709",
-    "name": "Valley Vista Park Picnic Shelter",
+    "id": "fallback-carson-city-shelter",
+    "name": "Carson City Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Carson City",
     "state": "NV",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.0966495,
-    "lng": -119.7782749,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 39.1638,
+    "lng": -119.7674,
     "tags": [
       "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-711886750",
-    "name": "Blackwell's Pond Park Picnic Area",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Carson City",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1817035,
-    "lng": -119.747426,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-711886756",
-    "name": "Fuji Park Picnic Gazebo",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Carson City",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1151981,
-    "lng": -119.7772523,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-723026898",
-    "name": "North Sunridge Park Picnic Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Carson City",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.0926738,
-    "lng": -119.7695706,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-723300597",
-    "name": "John Mankins Park Pinic Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Carson City",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1868769,
-    "lng": -119.7773403,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7189266320",
-    "name": "Carson City Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Roop Street 900",
-    "city": "Carson City",
-    "state": "NV",
-    "zip": "89701",
-    "phone": "(775) 887-2244",
-    "hours": "",
-    "lat": 39.1692443,
-    "lng": -119.7617322,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12793797603",
-    "name": "Nevada State Library & Archives",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Carson City",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1641036,
-    "lng": -119.7648233,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-623887465",
-    "name": "Incline Village Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Alder Avenue 845",
-    "city": "Incline Village",
-    "state": "NV",
-    "zip": "89451",
-    "phone": "",
-    "hours": "",
-    "lat": 39.2503414,
-    "lng": -119.9574855,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-706827718",
-    "name": "Dayton Valley Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Dayton Valley Road 321",
-    "city": "Dayton",
-    "state": "NV",
-    "zip": "89403",
-    "phone": "",
-    "hours": "",
-    "lat": 39.240806,
-    "lng": -119.5754625,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1144561419",
-    "name": "Douglas County Public Library Lake Tahoe Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Warrior Way 233",
-    "city": "Zephyr Cove",
-    "state": "NV",
-    "zip": "89448",
-    "phone": "",
-    "hours": "",
-    "lat": 39.010592,
-    "lng": -119.9442273,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-785449446",
-    "name": "Carson Hot Springs",
+    "id": "fallback-carson-city-hygiene",
+    "name": "Carson City Public Restroom Information",
     "category": "Hygiene",
-    "description": "public_bath",
-    "address": "Old Hot Springs Road 1500",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Carson City",
     "state": "NV",
-    "zip": "89706",
-    "phone": "(775) 885-8844",
-    "hours": "Mo-Su 08:00-21:00",
-    "lat": 39.193379,
-    "lng": -119.7519518,
+    "zip": "",
+    "phone": "",
+    "hours": "Varies",
+    "lat": 39.1638,
+    "lng": -119.7674,
     "tags": [
-      "showers"
+      "restroom",
+      "hygiene"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-932265283",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "US 50 3520",
+    "id": "fallback-carson-city-library",
+    "name": "Carson City Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
     "city": "Carson City",
     "state": "NV",
-    "zip": "89701",
-    "phone": "(775) 841-1006",
-    "hours": "",
-    "lat": 39.1797514,
-    "lng": -119.7280226,
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 39.1638,
+    "lng": -119.7674,
     "tags": [
-      "thrift",
-      "charity"
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

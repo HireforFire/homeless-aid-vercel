@@ -41,7 +41,7 @@
     "id": "fa-219051",
     "name": "Guild of St George",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "127 7th Street",
     "city": "Oklahoma City",
     "state": "OK",
@@ -228,320 +228,16 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-1559870096",
-    "name": "Midwest City Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.465891,
-    "lng": -97.3848847,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2098749645",
-    "name": "Southwest Oklahoma City Public Library",
-    "category": "Public Resources",
-    "description": "SOKC Public Library",
-    "address": "SW 134th Street 2201",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73170",
-    "phone": "(405) 979-2200",
-    "hours": "Mo-Th 09:00-21:00, Fr 09:00-20:00, Sa 09:00-17:00, Su 13:00-18:00",
-    "lat": 35.334729,
-    "lng": -97.54988,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-90091816",
-    "name": "Robert M. Bird Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Stonewall Avenue 1000",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.4795715,
-    "lng": -97.4942542,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-187552252",
-    "name": "Belle Isle Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.5256066,
-    "lng": -97.5570287,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-236764880",
-    "name": "Keith Leftwich Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South May Avenue 7777",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73159",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3889829,
-    "lng": -97.5691719,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-273636150",
-    "name": "Ronald J. Norick DowntownLibrary",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Park Avenue 300",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "",
-    "phone": "(405) 231-8650",
-    "hours": "Mo-Th 09:00-21:00; Fr,Su 09:00-18:00; Sa 09:00-17:00",
-    "lat": 35.4685457,
-    "lng": -97.5186921,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-323890011",
-    "name": "Warr Acres",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.5372571,
-    "lng": -97.6216069,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-324886864",
-    "name": "Patience S. Latting Northwest Library (Metropolitan Library System)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Northwest 122nd Street 5600",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73142",
-    "phone": "(405) 606-3580",
-    "hours": "Mo-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-17:00; Su 13:00-18:00",
-    "lat": 35.5940749,
-    "lng": -97.6180178,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5643026254",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.6543034,
-    "lng": -97.5131623,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9386745044",
-    "name": "Goodwill Thift Store & Donation Center",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Western Avenue 9118",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73139",
-    "phone": "(405) 703-7211",
-    "hours": "",
-    "lat": 35.3754543,
-    "lng": -97.5282708,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12177360901",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Broadway Avenue 1800",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73103",
-    "phone": "(405) 232-5592",
-    "hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00",
-    "lat": 35.4872864,
-    "lng": -97.5126711,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-139894308",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.4934631,
-    "lng": -97.5697426,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-160842833",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.4929813,
-    "lng": -97.5208788,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-271367723",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North May Avenue",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73116",
-    "phone": "",
-    "hours": "",
-    "lat": 35.5458764,
-    "lng": -97.5653923,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-619594180",
-    "name": "Goodwill Thrift Store & Donation Center",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Southwest 19th Street 741",
-    "city": "Moore",
-    "state": "OK",
-    "zip": "73160",
-    "phone": "(405) 735-6204",
-    "hours": "",
-    "lat": 35.3225334,
-    "lng": -97.4998267,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-973364679",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3315763,
-    "lng": -97.4775285,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-oklahoma-city-shelter",
     "name": "Oklahoma City Homeless Services Hotline",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Oklahoma City",
     "state": "OK",
     "zip": "",
     "phone": "(800) 273-8255",
-    "hours": "24/7",
+    "hours": "24 hours, 7 days a week",
     "lat": 35.4676,
     "lng": -97.5164,
     "tags": [
@@ -553,20 +249,40 @@
   },
   {
     "id": "fallback-oklahoma-city-hygiene",
-    "name": "Midwest City Library - Restroom Access",
+    "name": "Oklahoma City Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Oklahoma City",
     "state": "OK",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 35.465891,
-    "lng": -97.3848847,
+    "hours": "Varies",
+    "lat": 35.4676,
+    "lng": -97.5164,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-oklahoma-city-library",
+    "name": "Oklahoma City Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

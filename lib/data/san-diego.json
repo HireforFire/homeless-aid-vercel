@@ -22,7 +22,7 @@
     "id": "fa-218915",
     "name": "Ladle Fellowship",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "320 Date St",
     "city": "San Diego",
     "state": "CA",
@@ -41,7 +41,7 @@
     "id": "fa-219689",
     "name": "Centre City Family Services",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "730 F St",
     "city": "San Diego",
     "state": "CA",
@@ -60,7 +60,7 @@
     "id": "fa-224383",
     "name": "City Food Pantry",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1313 Park Blvd #L121",
     "city": "San Diego",
     "state": "CA",
@@ -79,7 +79,7 @@
     "id": "fa-224969",
     "name": "YWCA of San Diego",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "1012 C Street",
     "city": "San Diego",
     "state": "CA",
@@ -228,438 +228,61 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "osm-node-368170942",
-    "name": "Salk Institute Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.886991,
-    "lng": -117.246147,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170945",
-    "name": "Athenaeum Music and Arts Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "1008",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8469917,
-    "lng": -117.274204,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170946",
-    "name": "Helen Palmer Geisel Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8456029,
-    "lng": -117.2778153,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170962",
-    "name": "Balboa Branch San Diego Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Mount Abernathy Avenue 4255",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92117",
-    "phone": "",
-    "hours": "Mo, Th, Fr 9:30-18:00; Tu, We 11:30-20:00; Sa 9:30-15:00",
-    "lat": 32.8223204,
-    "lng": -117.1749653,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170965",
-    "name": "Benjamin Branch San Diego Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Zion Avenue 5188",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92120",
-    "phone": "",
-    "hours": "Mo, Th, Fr 9:30-18:00; Tu, We 11:30-20:00; Sa 9:30-15:00",
-    "lat": 32.7930662,
-    "lng": -117.0814929,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170966",
-    "name": "Tierrasanta Branch San Diego Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "La Cuenta Drive 4985",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92124",
-    "phone": "",
-    "hours": "Mo, Th, Fr 9:30-18:00; Tu, We 11:30-20:00; Sa 9:30-15:00",
-    "lat": 32.8208823,
-    "lng": -117.0980871,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170967",
-    "name": "Institute for World Understanding of Peoples, Cultures and Languages Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8464362,
-    "lng": -117.2778153,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170968",
-    "name": "Jean Farb Memorial Medical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7514393,
-    "lng": -117.1597557,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170969",
-    "name": "University Community Branch San Diego Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Governor Drive 4155",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92122",
-    "phone": "",
-    "hours": "Mo, Th, Fr 9:30-18:00; Tu, We 11:30-20:00; Sa 9:30-15:00",
-    "lat": 32.853995,
-    "lng": -117.200979,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170970",
-    "name": "North Clairemont Branch San Diego Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Clairemont Drive 4616",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92117",
-    "phone": "",
-    "hours": "Tu 11:30-20:00; We-Sa 09:30-18:00",
-    "lat": 32.8283728,
-    "lng": -117.206457,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13736572702",
-    "name": "baño",
-    "category": "Hygiene",
-    "description": "public_bath",
-    "address": "",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.532006,
-    "lng": -116.9624394,
-    "tags": [
-      "showers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13736573903",
-    "name": "baños",
-    "category": "Hygiene",
-    "description": "public_bath",
-    "address": "",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.5321329,
-    "lng": -116.9625293,
-    "tags": [
-      "showers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-596337233",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Mira Mesa Boulevard 8145",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92126",
-    "phone": "(858) 831-9040",
-    "hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00",
-    "lat": 32.9112064,
-    "lng": -117.1477913,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-596401826",
-    "name": "Goodwill Pacific Beach Retail Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Garnet Avenue 1430",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92109",
-    "phone": "(858) 274-4960",
-    "hours": "Mo-Sa 09:00-20:00; Su 09:00-18:00",
-    "lat": 32.799406,
-    "lng": -117.243933,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-596463083",
-    "name": "Mission Outreach Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Adams Avenue 3186",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92116",
-    "phone": "",
-    "hours": "",
-    "lat": 32.763615,
-    "lng": -117.125312,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-596946523",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Home Avenue 4359",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92105",
-    "phone": "(619) 262-6596",
-    "hours": "",
-    "lat": 32.7278741,
-    "lng": -117.100298,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-596978971",
-    "name": "Goodwill Retail, Employment & Donation Center",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Rosecrans Street 3663",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92110",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7506138,
-    "lng": -117.2046429,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2620552027",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Balboa Avenue 4220",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92117",
-    "phone": "(858) 836-7949",
-    "hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00",
-    "lat": 32.8125549,
-    "lng": -117.200277,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4680932293",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "La Jolla Retail Store",
-    "address": "Girard Avenue 7631",
-    "city": "La Jolla",
-    "state": "CA",
-    "zip": "92307",
-    "phone": "(858) 752-6181",
-    "hours": "Mo-Sa 10:00-19:00; Su 10:00-18:00",
-    "lat": 32.8428004,
-    "lng": -117.273021,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5733123575",
-    "name": "Father Joe's Villages Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "University Avenue 1457",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92103",
-    "phone": "(619) 255-1255",
-    "hours": "",
-    "lat": 32.7482803,
-    "lng": -117.1499226,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8395184225",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "University Avenue 1219",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92103",
-    "phone": "(619) 795-6630",
-    "hours": "",
-    "lat": 32.7482493,
-    "lng": -117.153012,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8490176850",
-    "name": "Assistance League Greater San Diego",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7483703,
-    "lng": -117.1636659,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-san-diego-shelter",
     "name": "San Diego Homeless Services Hotline",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "San Diego",
     "state": "CA",
     "zip": "",
     "phone": "(800) 273-8255",
-    "hours": "24/7",
+    "hours": "24 hours, 7 days a week",
     "lat": 32.7157,
     "lng": -117.1611,
     "tags": [
       "shelter",
       "hotline",
       "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-san-diego-hygiene",
+    "name": "San Diego Public Restroom Information",
+    "category": "Hygiene",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Varies",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-san-diego-library",
+    "name": "San Diego Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

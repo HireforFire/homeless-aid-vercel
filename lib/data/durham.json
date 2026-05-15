@@ -228,320 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-319195120",
-    "name": "Medical Center Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0057757,
-    "lng": -78.9377841,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6937660034",
-    "name": "Information & Library Science Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 09:00-17:00",
-    "lat": 35.9112917,
-    "lng": -79.0492467,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11969159315",
-    "name": "Garden Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.8995272,
-    "lng": -79.0325731,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12736910265",
-    "name": "Carrboro Elementary Little Free Library",
-    "category": "Public Resources",
-    "description": "Little Free Library at Carrboro Elementary School",
-    "address": "",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9141502,
-    "lng": -79.0779296,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-27435263",
-    "name": "Lilly Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Campus Drive 1348",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27705",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0076033,
-    "lng": -78.9153485,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-30677763",
-    "name": "House Undergraduate Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Road 203",
-    "city": "Chapel Hill",
-    "state": "NC",
-    "zip": "27514",
-    "phone": "(919) 962-1355",
-    "hours": "Mo-Th 08:00-22:00; Fr 08:00-20:00; Sa 10:00-20:00; Su 11:00-22:00",
-    "lat": 35.9097767,
-    "lng": -79.0490498,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-30677827",
-    "name": "Louis Round Wilson Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Road 201",
-    "city": "Chapel Hill",
-    "state": "NC",
-    "zip": "27514",
-    "phone": "",
-    "hours": "Mo,We,Fr 09:00-17:00; Th 09:00-19:00",
-    "lat": 35.9094337,
-    "lng": -79.0497532,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-32348044",
-    "name": "Durham County Library - Main Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Roxboro Street 300",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "+1 919-560-0100;+1 919-560-0155",
-    "hours": "Mo-We 09:30-20:00; Th-Sa 09:30-18:00; Su 13:00-18:00",
-    "lat": 35.994909,
-    "lng": -78.8966397,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-44055991",
-    "name": "Rubenstein Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Chapel Drive 409",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27705",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0017747,
-    "lng": -78.938631,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-44055992",
-    "name": "Bostock Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.002964,
-    "lng": -78.938293,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5785612690",
-    "name": "Chatham PTA Thrift Shop",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "US 15-501 North 11470",
-    "city": "Chapel Hill",
-    "state": "NC",
-    "zip": "27517",
-    "phone": "",
-    "hours": "",
-    "lat": 35.8466196,
-    "lng": -79.0894446,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5967938428",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "T W Alexander Drive 2121",
-    "city": "Morrisville",
-    "state": "NC",
-    "zip": "27560",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9203177,
-    "lng": -78.8119148,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7402135209",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Hampton Point Boulevard",
-    "city": "Hillsborough",
-    "state": "NC",
-    "zip": "27278",
-    "phone": "",
-    "hours": "",
-    "lat": 36.057409,
-    "lng": -79.083909,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10778488195",
-    "name": "Book Harvest",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "University Drive 2510",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "",
-    "phone": "(252) 497-2665",
-    "hours": "Tu, Th 09:00-19:00; We, Fr, Sa 09:00-17:00",
-    "lat": 35.9744104,
-    "lng": -78.9235936,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-172835751",
-    "name": "Goodwill Industries",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Garrett Road 4318",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27707",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9577923,
-    "lng": -78.9749978,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-211377543",
-    "name": "Scrap Exchange Thrift",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Chapel Hill Road 2020",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27707",
-    "phone": "",
-    "hours": "We-Su 11:00-18:00",
-    "lat": 35.9896572,
-    "lng": -78.9280656,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-durham-shelter",
     "name": "Durham Homeless Services Hotline",
     "category": "Shelter",
@@ -563,22 +249,40 @@
   },
   {
     "id": "fallback-durham-hygiene",
-    "name": "Medical Center Library - Restroom Access",
+    "name": "Durham Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Durham",
     "state": "NC",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 36.0057757,
-    "lng": -78.9377841,
+    "hours": "Varies",
+    "lat": 35.994,
+    "lng": -78.8986,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-durham-library",
+    "name": "Durham Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 35.994,
+    "lng": -78.8986,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

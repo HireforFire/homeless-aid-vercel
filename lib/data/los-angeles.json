@@ -117,7 +117,7 @@
     "id": "fa-219607",
     "name": "Fred Jordan Missions",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all. No appointment needed.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "445 Towne Ave",
     "city": "Los Angeles",
     "state": "CA",
@@ -136,7 +136,7 @@
     "id": "fa-219894",
     "name": "5 breads and 2 fish",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all. No appointment needed.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "520 e 5th st.",
     "city": "Los Angeles",
     "state": "CA",
@@ -155,7 +155,7 @@
     "id": "fa-223358",
     "name": "US Vets Food Pantry",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all. No appointment needed.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "512 South Main Sreet",
     "city": "Los Angles",
     "state": "CA",
@@ -174,7 +174,7 @@
     "id": "fa-225957",
     "name": "Los Angeles Catholic Worker",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all. No appointment needed.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "821 E 6th St",
     "city": "Los Angeles",
     "state": "CA",
@@ -190,451 +190,99 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-1902218405",
-    "name": "The Four Ladies of Hollywood",
+    "id": "fa-169813",
+    "name": "Journey of Love",
+    "category": "Food",
+    "description": "2nd Tuesday 6 pm - 7 pm",
+    "address": "423 S San Pedro",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "(562) 547-9821",
+    "hours": "",
+    "lat": 34.045303,
+    "lng": -118.243532,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-169939",
+    "name": "Open Door Skidrow Ministries",
+    "category": "Food",
+    "description": "Sunday 11 am - 12 pm",
+    "address": "419 E. 6th Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90014",
+    "phone": "(661) 208-2143",
+    "hours": "",
+    "lat": 34.042545,
+    "lng": -118.245461,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fallback-los-angeles-shelter",
+    "name": "Los Angeles Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Los Angeles",
     "state": "CA",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.1014213,
-    "lng": -118.3450134,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 34.0522,
+    "lng": -118.2437,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2507944080",
-    "name": "St. Vincent's Cardinal Manning Center",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0460094,
-    "lng": -118.2461804,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169012",
-    "name": "Margaret Herrick Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0605657,
-    "lng": -118.3767443,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169014",
-    "name": "Robertson Branch Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0483437,
-    "lng": -118.3859111,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169466",
-    "name": "Arroyo Seco Regional Branch Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Figueroa Street 6145",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90042",
-    "phone": "",
-    "hours": "Mo-Th 10:00-20:00; Fr-Sa 09:30-17:30; Su 13:00-17:00",
-    "lat": 34.1136199,
-    "lng": -118.1864612,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169469",
-    "name": "El Sereno Branch Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0875099,
-    "lng": -118.1739606,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169471",
-    "name": "Benjamin Franklin Branch Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0441788,
-    "lng": -118.2122949,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169472",
-    "name": "Cypress Park Branch Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.094517,
-    "lng": -118.2274092,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169475",
-    "name": "R L Stevenson Branch Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0275127,
-    "lng": -118.1981276,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169478",
-    "name": "Graham Branch County of Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Firestone Boulevard 1900",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90001",
-    "phone": "",
-    "hours": "",
-    "lat": 33.9598869,
-    "lng": -118.238338,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169483",
-    "name": "Huntington Park Branch County of Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Miles Avenue 6518",
-    "city": "Huntington Park",
-    "state": "CA",
-    "zip": "90255",
-    "phone": "(323) 583-1461",
-    "hours": "",
-    "lat": 33.9802923,
-    "lng": -118.2186834,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169497",
-    "name": "Commerce Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0005691,
-    "lng": -118.1561817,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-940358526",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South La Brea Avenue 817",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90036",
-    "phone": "(323) 931-5239",
-    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
-    "lat": 34.059895,
-    "lng": -118.345165,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2856383547",
-    "name": "Sole Folks",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Degnan Boulevard 4317",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90008",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0054069,
-    "lng": -118.331694,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5695396193",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Western Avenue 1535",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90006",
-    "phone": "(323) 732-1416",
-    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
-    "lat": 34.0445033,
-    "lng": -118.309753,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5714349575",
-    "name": "Out of the Closet - Glassell Park Superstore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "San Fernando Road 2425",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90065",
-    "phone": "(323) 223-0838",
-    "hours": "Mo-Sa 10:00-19:00; Su 10:00-18:00",
-    "lat": 34.1066364,
-    "lng": -118.2396585,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5919808625",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East Colorado Street 1600",
-    "city": "Glendale",
-    "state": "CA",
-    "zip": "91205",
-    "phone": "(818) 543-0166",
-    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
-    "lat": 34.1425533,
-    "lng": -118.229185,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5919814852",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "San Fernando Road 6343",
-    "city": "Glendale",
-    "state": "CA",
-    "zip": "91201",
-    "phone": "(818) 844-8420",
-    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
-    "lat": 34.1656144,
-    "lng": -118.288277,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7073917463",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Fair Oaks Avenue 340",
-    "city": "Pasadena",
-    "state": "CA",
-    "zip": "91105",
-    "phone": "(626) 204-3576",
-    "hours": "10:00-21:00",
-    "lat": 34.1399128,
-    "lng": -118.1499989,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8373496392",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0294068,
-    "lng": -118.3892508,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9777973300",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Lake Avenue 703",
-    "city": "Pasadena",
-    "state": "CA",
-    "zip": "91101",
-    "phone": "",
-    "hours": "",
-    "lat": 34.1579703,
-    "lng": -118.1326754,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11785214740",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Imperial Highway 9125",
-    "city": "Downey",
-    "state": "CA",
-    "zip": "90242",
-    "phone": "(562) 803-5392",
-    "hours": "Mo-Su 10:00-21:00",
-    "lat": 33.9178966,
-    "lng": -118.1337205,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-los-angeles-hygiene",
-    "name": "Margaret Herrick Library — Restroom Access",
+    "name": "Los Angeles Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access at the public library. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Los Angeles",
     "state": "CA",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 34.0605657,
-    "lng": -118.3767443,
+    "hours": "Varies",
+    "lat": 34.0522,
+    "lng": -118.2437,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-los-angeles-library",
+    "name": "Los Angeles Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

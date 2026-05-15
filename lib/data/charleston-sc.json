@@ -22,7 +22,7 @@
     "id": "fa-226203",
     "name": "Junior League of Charleston Charleston Area Diaper Bank",
     "category": "Food",
-    "description": "Free diaper bank providing food assistance.",
+    "description": "Free diaper bank providing food assistance. Open to all.",
     "address": "Charleston, SC",
     "city": "Charleston",
     "state": "SC",
@@ -228,415 +228,16 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-13016272287",
-    "name": "Abraham's Closet",
-    "category": "Clothing & Supplies",
-    "description": "social_facility",
-    "address": "Alexander Street 136",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29403",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7918841,
-    "lng": -79.9332106,
-    "tags": [
-      "clothing",
-      "free"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1383381289",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8219552,
-    "lng": -80.0706542,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8255602483",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Rivers Avenue 6607",
-    "city": "North Charleston",
-    "state": "SC",
-    "zip": "29406",
-    "phone": "(843) 574-9009",
-    "hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
-    "lat": 32.9176697,
-    "lng": -80.0289631,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8255602484",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Rivers Avenue 6813",
-    "city": "North Charleston",
-    "state": "SC",
-    "zip": "29406",
-    "phone": "",
-    "hours": "",
-    "lat": 32.9179646,
-    "lng": -80.0291079,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12106800224",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.9348157,
-    "lng": -79.9982482,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13335024862",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Ben Sawyer Boulevard 1220",
-    "city": "Mount Pleasant",
-    "state": "SC",
-    "zip": "29464",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7947392,
-    "lng": -79.8592467,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-110451219",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.9175716,
-    "lng": -80.0291689,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-188255151",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8406194,
-    "lng": -79.8163502,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-389247657",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.9178646,
-    "lng": -80.0293777,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-473370925",
-    "name": "Sea Island Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7297548,
-    "lng": -80.0656161,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1065665603",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.9194775,
-    "lng": -80.10208,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12849715300",
-    "name": "Rivers Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7864961,
-    "lng": -79.9447973,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12994939713",
-    "name": "Sol Blatt Jr. Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Meeting Street 385",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29403",
-    "phone": "(843) 377-2143",
-    "hours": "Mo-Fr 07:00-22:00; Sa-Su 10:00-22:00",
-    "lat": 32.7910006,
-    "lng": -79.937338,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13119872407",
-    "name": "Charleston Library Society",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "King Street 164",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29401",
-    "phone": "(843) 723-9912",
-    "hours": "Mo-Th 09:30-17:00; Fr 09:30-13:30",
-    "lat": 32.7784457,
-    "lng": -79.9327022,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13396381735",
-    "name": "Palmer Campus Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Columbus Street 66",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29403",
-    "phone": "(843) 722-5540",
-    "hours": "Mo-Th 08:00-13:00",
-    "lat": 32.7979846,
-    "lng": -79.9359153,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13402120398",
-    "name": "Front Porch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "America Street 79",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29403",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7969696,
-    "lng": -79.9367785,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-38089422",
-    "name": "Marlene & Nathan Addlestone Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Calhoun Street 205",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29401",
-    "phone": "(843) 953-8000",
-    "hours": "Mo-Fr 7:30-00:00",
-    "lat": 32.784155,
-    "lng": -79.9397776,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-38721873",
-    "name": "Daniel Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7971741,
-    "lng": -79.9587442,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-74098796",
-    "name": "James W. Colbert Education Center and Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Ashley Avenue 171",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29425",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7851294,
-    "lng": -79.947874,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-166858857",
-    "name": "Charleston County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Calhoun Street 68",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29403",
-    "phone": "(843) 805-6930",
-    "hours": "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su 14:00-17:00",
-    "lat": 32.7885478,
-    "lng": -79.9311034,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-246318402",
-    "name": "Charleston County Library - West Ashley Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Windermere Boulevard 45",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29407",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7769979,
-    "lng": -79.9760759,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-charleston-sc-shelter",
     "name": "Charleston Homeless Services Hotline",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Charleston",
     "state": "SC",
     "zip": "",
     "phone": "(800) 273-8255",
-    "hours": "24/7",
+    "hours": "24 hours, 7 days a week",
     "lat": 32.7765,
     "lng": -79.9311,
     "tags": [
@@ -648,20 +249,40 @@
   },
   {
     "id": "fallback-charleston-sc-hygiene",
-    "name": "Rivers Library - Restroom Access",
+    "name": "Charleston Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Charleston",
     "state": "SC",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 32.7864961,
-    "lng": -79.9447973,
+    "hours": "Varies",
+    "lat": 32.7765,
+    "lng": -79.9311,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-charleston-sc-library",
+    "name": "Charleston Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 32.7765,
+    "lng": -79.9311,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -212,7 +212,7 @@
     "id": "fa-150535",
     "name": "Salvation Army - Sioux Falls",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "800 N Cliff Ave",
     "city": "Sioux Falls",
     "state": "SD",
@@ -228,230 +228,101 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "osm-node-2469525784",
-    "name": "Brandon Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Splitrock Boulevard 305",
-    "city": "Brandon",
-    "state": "SD",
-    "zip": "57005",
-    "phone": "",
-    "hours": "",
-    "lat": 43.5915728,
-    "lng": -96.5731223,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13005445003",
-    "name": "Harrisburg Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Willow Street 200",
-    "city": "Harrisburg",
-    "state": "SD",
-    "zip": "57032",
-    "phone": "",
-    "hours": "",
-    "lat": 43.4319078,
-    "lng": -96.699617,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13005464126",
-    "name": "Lennox Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West 5th Avenue 208",
-    "city": "Lennox",
-    "state": "SD",
-    "zip": "57039",
-    "phone": "",
-    "hours": "",
-    "lat": 43.350803,
-    "lng": -96.8937062,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13005479518",
-    "name": "Tea Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Brian Street 500",
-    "city": "Tea",
-    "state": "SD",
-    "zip": "57064",
-    "phone": "",
-    "hours": "",
-    "lat": 43.4552921,
-    "lng": -96.8430132,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-302321662",
-    "name": "Mikkelsen Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Summit Avenue 2001",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57197",
-    "phone": "",
-    "hours": "",
-    "lat": 43.5250284,
-    "lng": -96.7369734,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-302347900",
-    "name": "Norman B. Mears Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West 22nd Street 1001",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57105",
-    "phone": "",
-    "hours": "",
-    "lat": 43.5327036,
-    "lng": -96.7379705,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-403985936",
-    "name": "Caille Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Carnegie Circle 4100",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57106",
-    "phone": "",
-    "hours": "",
-    "lat": 43.5079678,
-    "lng": -96.7643648,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-403993499",
-    "name": "Downtown Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Dakota Avenue 200",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57104",
-    "phone": "",
-    "hours": "",
-    "lat": 43.5492112,
-    "lng": -96.728946,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-433201808",
-    "name": "Oak View Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East 3rd Street 3700",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57103",
-    "phone": "",
-    "hours": "",
-    "lat": 43.5558476,
-    "lng": -96.6803571,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-488040380",
-    "name": "Ronning Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East 49th Street 3100",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57103",
-    "phone": "",
-    "hours": "",
-    "lat": 43.507868,
-    "lng": -96.6878312,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-432989223",
-    "name": "Terrace Park Bath House",
-    "category": "Hygiene",
-    "description": "public_bath",
-    "address": "",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.5581118,
-    "lng": -96.7405509,
-    "tags": [
-      "showers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-sioux-falls-shelter",
     "name": "Sioux Falls Homeless Services Hotline",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Sioux Falls",
     "state": "SD",
     "zip": "",
     "phone": "(800) 273-8255",
-    "hours": "24/7",
+    "hours": "24 hours, 7 days a week",
     "lat": 43.5446,
     "lng": -96.7311,
     "tags": [
       "shelter",
       "hotline",
       "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-sioux-falls-hygiene",
+    "name": "Sioux Falls Public Restroom Information",
+    "category": "Hygiene",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "",
+    "phone": "",
+    "hours": "Varies",
+    "lat": 43.5446,
+    "lng": -96.7311,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-sioux-falls-library",
+    "name": "Sioux Falls Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 43.5446,
+    "lng": -96.7311,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-sfx-goodwill",
+    "name": "Goodwill of the Great Plains Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "Affordable clothing, furniture, and household goods; proceeds fund job training.",
+    "address": "120 N Kiwanis Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "(605) 334-2028",
+    "hours": "Mon-Sat 9am-8pm, Sun 12pm-6pm",
+    "lat": 43.547,
+    "lng": -96.712,
+    "tags": [
+      "clothing",
+      "free",
+      "thrift"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-sfx-salvation-army",
+    "name": "The Salvation Army Corps Community Center",
+    "category": "Clothing & Supplies",
+    "description": "Family services with clothing assistance, food pantry, and rental/utility aid.",
+    "address": "900 N Cliff Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "(605) 332-2331",
+    "hours": "Mon-Fri 1pm-4pm (appointment)",
+    "lat": 43.5538,
+    "lng": -96.7125,
+    "tags": [
+      "clothing",
+      "free",
+      "thrift"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -228,230 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-12583436738",
-    "name": "Casa Village",
+    "id": "fallback-billings-shelter",
+    "name": "Billings Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Billings",
     "state": "MT",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.7608719,
-    "lng": -108.5799965,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 45.7833,
+    "lng": -108.5007,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12719904240",
-    "name": "MET Transit",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.7677014,
-    "lng": -108.5820085,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12719912425",
-    "name": "MET Transit",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.7679704,
-    "lng": -108.5819967,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7874564604",
-    "name": "Billings Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.7857533,
-    "lng": -108.5106577,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-543133828",
-    "name": "Billings Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Broadway 510",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "59101",
-    "phone": "",
-    "hours": "",
-    "lat": 45.7858779,
-    "lng": -108.5103779,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-736370136",
-    "name": "University Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "University Drive 1500",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "59101",
-    "phone": "",
-    "hours": "Mo-Th 07:30-22:00; Fr 07:30-17:00; Su 02:00-22:00",
-    "lat": 45.7968975,
-    "lng": -108.5230956,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-842944694",
-    "name": "Paul M. Adams Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.7965076,
-    "lng": -108.5541313,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1276580310",
-    "name": "Shepherd School Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.942081,
-    "lng": -108.3442476,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-562900897",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.7818477,
-    "lng": -108.5031562,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-844093748",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.7525753,
-    "lng": -108.5863394,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-851664648",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.8294721,
-    "lng": -108.4720374,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-billings-hygiene",
-    "name": "Billings Public Library - Restroom Access",
+    "name": "Billings Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Billings",
     "state": "MT",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 45.7857533,
-    "lng": -108.5106577,
+    "hours": "Varies",
+    "lat": 45.7833,
+    "lng": -108.5007,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-billings-library",
+    "name": "Billings Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 45.7833,
+    "lng": -108.5007,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -3,7 +3,7 @@
     "id": "fa-218669",
     "name": "The Salvation Army - Ave Fernandez Juncos Puerto De Tierra",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "Ave Fernandez Juncos Puerto de Tierra",
     "city": "San Juan",
     "state": "PR",
@@ -228,230 +228,61 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "osm-node-2057195306",
-    "name": "Colegio de la Inmaculada",
+    "id": "fallback-san-juan-shelter",
+    "name": "San Juan Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "San Juan",
     "state": "PR",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 18.4415617,
-    "lng": -66.062452,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 18.4663,
+    "lng": -66.1057,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367769275",
-    "name": "Biblioteca Municipal",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Juan",
-    "state": "PR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 18.3997468,
-    "lng": -66.1587718,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367769508",
-    "name": "Presbyterian Community Hospital Learning Resources Center",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Juan",
-    "state": "PR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 18.4555929,
-    "lng": -66.0651201,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367769838",
-    "name": "Biblioteca Legislativa Tomás Bonilla Feliciano",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Juan",
-    "state": "PR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 18.4671423,
-    "lng": -66.1041939,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367769843",
-    "name": "Department of Veteran Affairs Hospital Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Juan",
-    "state": "PR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 18.3903555,
-    "lng": -66.079317,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367769859",
-    "name": "Metropolitan Campus Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Juan",
-    "state": "PR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 18.4210956,
-    "lng": -66.0565417,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367769862",
-    "name": "Biblioteca HURRA",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Juan",
-    "state": "PR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 18.3680054,
-    "lng": -66.1543336,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367769865",
-    "name": "Biblioteca UCC",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Juan",
-    "state": "PR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 18.3662006,
-    "lng": -66.1536156,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2983728483",
-    "name": "Biblioteca Escuela de Derecho",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Juan",
-    "state": "PR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 18.4065425,
-    "lng": -66.0477295,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8025915587",
-    "name": "Biblioteca Prof. Rafael Picó Santiago",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Avenida Juan Ponce de León",
-    "city": "San Juan",
-    "state": "PR",
-    "zip": "00925",
-    "phone": "",
-    "hours": "",
-    "lat": 18.4035938,
-    "lng": -66.0522814,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-425372864",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "San Juan",
-    "state": "PR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 18.3948568,
-    "lng": -65.9920878,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-san-juan-hygiene",
-    "name": "Biblioteca Municipal - Restroom Access",
+    "name": "San Juan Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "San Juan",
     "state": "PR",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 18.3997468,
-    "lng": -66.1587718,
+    "hours": "Varies",
+    "lat": 18.4663,
+    "lng": -66.1057,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-san-juan-library",
+    "name": "San Juan Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 18.4663,
+    "lng": -66.1057,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -136,7 +136,7 @@
     "id": "fa-219755",
     "name": "Safe Harbors of Nevada",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "469 E 9th Street",
     "city": "Reno",
     "state": "NV",
@@ -155,7 +155,7 @@
     "id": "fa-221524",
     "name": "Destiny Christian Community Center of Reno",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "255 Bell St.",
     "city": "Reno",
     "state": "NV",
@@ -212,7 +212,7 @@
     "id": "fa-130171",
     "name": "Washoe County SD",
     "category": "Food",
-    "description": "Free food pantry providing food assistance.",
+    "description": "Free food pantry providing food assistance. Open to all.",
     "address": "425 EAST NINTH",
     "city": "RENO",
     "state": "NV",
@@ -228,301 +228,16 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "osm-node-2014737580",
-    "name": "Washoe County Library ",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.4859467,
-    "lng": -119.7957236,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3601369330",
-    "name": "Basque Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.5438065,
-    "lng": -119.8157539,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4835939391",
-    "name": "Savitt Medical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.548685,
-    "lng": -119.8159945,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4879613833",
-    "name": "Nell J Redfield Learning and Resource Center",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.5419174,
-    "lng": -119.8150563,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4945000517",
-    "name": "Guerra Bert Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West 1st Street 355",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89503",
-    "phone": "",
-    "hours": "",
-    "lat": 39.5248935,
-    "lng": -119.8176648,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6978708754",
-    "name": "Reno Family History Center",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.4811347,
-    "lng": -119.7831607,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9276472673",
-    "name": "Reno Sparks Hungry Valley Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Eagle Canyon Drive 9055",
-    "city": "Sparks",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7078421,
-    "lng": -119.7488538,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11535049177",
-    "name": "North Valleys Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Hills Boulevard 1075",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89506",
-    "phone": "",
-    "hours": "Mo-Tu,Th-Fr 10:00-18:00; We 10:00-19:00; Sa 10:00-16:00; Su off",
-    "lat": 39.6055932,
-    "lng": -119.8394107,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-80476803",
-    "name": "Northwest Reno Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Robb Drive 2325",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89523",
-    "phone": "",
-    "hours": "",
-    "lat": 39.5381341,
-    "lng": -119.8854325,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-230462142",
-    "name": "Washoe County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.5225267,
-    "lng": -119.8103943,
-    "tags": [
-      "library",
-      "wifi"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11112929781",
-    "name": "The Rock Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 10:00-17:00; Su off",
-    "lat": 39.5401129,
-    "lng": -119.7351372,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11117876754",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00",
-    "lat": 39.5470841,
-    "lng": -119.7811688,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11535049176",
-    "name": "Thrift Depot",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Hills Boulevard 1075",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89506",
-    "phone": "",
-    "hours": "Mo-Sa 09:30-17:30; Su off",
-    "lat": 39.6056436,
-    "lng": -119.8392671,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11784750317",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.4784726,
-    "lng": -119.7881605,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12205944766",
-    "name": "St. Vincent's Donation Center",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Mae Anne Avenue 6300",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89523",
-    "phone": "",
-    "hours": "",
-    "lat": 39.527611,
-    "lng": -119.885598,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-reno-shelter",
     "name": "Reno Homeless Services Hotline",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Reno",
     "state": "NV",
     "zip": "",
     "phone": "(800) 273-8255",
-    "hours": "24/7",
+    "hours": "24 hours, 7 days a week",
     "lat": 39.5296,
     "lng": -119.8138,
     "tags": [
@@ -534,20 +249,40 @@
   },
   {
     "id": "fallback-reno-hygiene",
-    "name": "Washoe County Library  - Restroom Access",
+    "name": "Reno Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms and water fountain.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Reno",
     "state": "NV",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 39.4859467,
-    "lng": -119.7957236,
+    "hours": "Varies",
+    "lat": 39.5296,
+    "lng": -119.8138,
     "tags": [
       "restroom",
       "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-reno-library",
+    "name": "Reno Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 39.5296,
+    "lng": -119.8138,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -190,487 +190,99 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-1533098536",
-    "name": "San Francisco Municipal Railway",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7607702,
-    "lng": -122.4960244,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2179081977",
-    "name": "CouchSurfing - Keisar",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.719568,
-    "lng": -122.3951797,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3009189224",
-    "name": "Women's Drop-In Center",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "13th Street 211",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94103",
-    "phone": "",
-    "hours": "24/7",
-    "lat": 37.7698358,
-    "lng": -122.4193302,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4003389390",
-    "name": "Normandie Hotel",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "9th Street 251",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94103",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7744267,
-    "lng": -122.4122526,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6603438363",
-    "name": "El Camino Real & East Market Street",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6890085,
-    "lng": -122.4658845,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-317124778",
-    "name": "Mission Bay Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "4th Street 960",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94158",
-    "phone": "(415) 355-2838",
-    "hours": "Mo-Tu,Th,Sa 10:00-18:00; We 11:00-20:00; Fr 13:00-18:00; Su 13:00-17:00",
-    "lat": 37.7753882,
-    "lng": -122.3932,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-358763373",
-    "name": "Civic Center and Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Litho Street 420",
-    "city": "Sausalito",
-    "state": "CA",
-    "zip": "94965",
-    "phone": "",
-    "hours": "",
-    "lat": 37.8596493,
-    "lng": -122.4888618,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368168766",
-    "name": "Far West Library for Educational Research and Development",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7671519,
-    "lng": -122.414971,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368168767",
-    "name": "Anne Bremer Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.8035397,
-    "lng": -122.4169157,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368168856",
-    "name": "William E Colby Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7838181,
-    "lng": -122.4191378,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169274",
-    "name": "Albany Branch Alameda County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "(510) 526-3720",
-    "hours": "Su 13:00-17:00; Mo 12:00-18:00; Tu, We 12:00-20:00; Th 10:00-18:00; Sa 10:00-17:00",
-    "lat": 37.8879164,
-    "lng": -122.2934073,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169433",
-    "name": "Asian Branch Oakland Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo 10:00-17:30; Tu-We 10:00-20:00; Th 10:00-17:30; Fr 12:00-17:30; Sa 10:00-17:30",
-    "lat": 37.8008995,
-    "lng": -122.2710864,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170015",
-    "name": "John D Daly Branch Daly City Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7018971,
-    "lng": -122.4627813,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170019",
-    "name": "Westlake Branch Daly City Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6971381,
-    "lng": -122.485219,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170046",
-    "name": "Pacifica Sharp Park Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Hilton Way 104",
-    "city": "Pacifica",
-    "state": "CA",
-    "zip": "94044",
-    "phone": "(650) 355-5196",
-    "hours": "",
-    "lat": 37.632176,
-    "lng": -122.4919492,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1575668183",
-    "name": "Archimedes Banya",
-    "category": "Hygiene",
-    "description": "public_bath",
-    "address": "Innes Avenue 748",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94124",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7305543,
-    "lng": -122.3727303,
-    "tags": [
-      "showers",
-      "bath"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6546393013",
-    "name": "Kabuki Springs & Spa",
-    "category": "Hygiene",
-    "description": "public_bath",
-    "address": "Geary Boulevard 1750",
+    "id": "fa-206615",
+    "name": "Western Addition FRC Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Western Addition FRC. Distribution Day: Friday | Distribution Time: 10:30 am - 11:30 am | Enrollment Time: 11:30 am",
+    "address": "1530 Buchanan St",
     "city": "San Francisco",
     "state": "CA",
     "zip": "94115",
     "phone": "",
     "hours": "",
-    "lat": 37.7846994,
-    "lng": -122.4326243,
+    "lat": 37.78419,
+    "lng": -122.42916,
     "tags": [
-      "showers",
-      "bath"
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208650",
+    "name": "Church Street",
+    "category": "Food",
+    "description": "Food distribution location at Church Street in San Francisco.",
+    "address": "152 Church St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94114",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7686016,
+    "lng": -122.4294051,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fallback-san-francisco-shelter",
+    "name": "San Francisco Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-4103856290",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
+    "id": "fallback-san-francisco-hygiene",
+    "name": "San Francisco Public Restroom Information",
+    "category": "Hygiene",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "San Francisco",
     "state": "CA",
     "zip": "",
     "phone": "",
-    "hours": "",
-    "lat": 37.7360656,
-    "lng": -122.390495,
+    "hours": "Varies",
+    "lat": 37.7749,
+    "lng": -122.4194,
     "tags": [
-      "thrift",
-      "charity"
+      "restroom",
+      "hygiene"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-7415968033",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
+    "id": "fallback-san-francisco-library",
+    "name": "San Francisco Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
     "address": "",
     "city": "San Francisco",
     "state": "CA",
     "zip": "",
     "phone": "",
-    "hours": "Mo-Su 10:00-18:00",
-    "lat": 37.724062,
-    "lng": -122.4350725,
+    "hours": "Hours vary by branch",
+    "lat": 37.7749,
+    "lng": -122.4194,
     "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8421856499",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Fillmore Street 1669",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "(415) 354-8570",
-    "hours": "09:00-21:00",
-    "lat": 37.7849963,
-    "lng": -122.433275,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8873006301",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6895842,
-    "lng": -122.4662389,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11173169939",
-    "name": "The Salvation Army Family Store",
-    "category": "Clothing & Supplies",
-    "description": "social_facility",
-    "address": "Mission Road 1170",
-    "city": "South San Francisco",
-    "state": "CA",
-    "zip": "94080",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6619543,
-    "lng": -122.4391645,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13719621769",
-    "name": "The Salvation Army Family Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Valencia Street 1501",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "(415) 401-0698",
-    "hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
-    "lat": 37.7486848,
-    "lng": -122.4201846,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13822192190",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "",
-    "phone": "(415) 641-4470",
-    "hours": "",
-    "lat": 37.7417217,
-    "lng": -122.3873121,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-227282058",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "San Pablo Avenue 505",
-    "city": "Albany",
-    "state": "CA",
-    "zip": "94706",
-    "phone": "(510) 525-2680",
-    "hours": "Mo-Sa 09:00-21:00; Su 11:00-18:00",
-    "lat": 37.8965639,
-    "lng": -122.3006848,
-    "tags": [
-      "thrift",
-      "charity"
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

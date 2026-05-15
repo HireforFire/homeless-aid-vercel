@@ -228,82 +228,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-4146625208",
-    "name": "Trail Info",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.1586076,
-    "lng": -96.61489,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5411600372",
-    "name": "Phase 2 Gazebo",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.0024126,
-    "lng": -96.7154429,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6037357622",
-    "name": "Timber Preserve Gazebo",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.0060661,
-    "lng": -96.6042089,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7932862429",
-    "name": "Flag Pole Hill Pavillion",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8617675,
-    "lng": -96.7243932,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-368161802",
     "name": "Jackson County Memorial Library",
     "category": "Public Resources",
@@ -483,25 +407,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-9062347374",
-    "name": "Plaid Door",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8959095,
-    "lng": -96.8062851,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-9811730308",
     "name": "Family Place Resale Shop",
     "category": "Clothing & Supplies",
@@ -597,25 +502,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-12337915590",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.0211569,
-    "lng": -96.7494581,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-13402003969",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -650,6 +536,26 @@
     "tags": [
       "thrift",
       "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-plano-shelter",
+    "name": "Plano Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 33.0198,
+    "lng": -96.6989,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

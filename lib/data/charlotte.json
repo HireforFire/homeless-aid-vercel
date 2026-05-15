@@ -428,25 +428,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-3304925587",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.0917944,
-    "lng": -80.857816,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-8491855469",
     "name": "Habitat for Humanity ReStore",
     "category": "Clothing & Supplies",
@@ -523,25 +504,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-13248104296",
-    "name": "Second Editions",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.2317889,
-    "lng": -80.926419,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-13446131801",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -573,25 +535,6 @@
     "hours": "Mo-Fr 09:00-18:00; Sa 10:00-17:00",
     "lat": 35.2879345,
     "lng": -80.7611778,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-256262262",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.105833,
-    "lng": -80.9859232,
     "tags": [
       "thrift",
       "charity"

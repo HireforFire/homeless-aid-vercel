@@ -228,25 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-2174376268",
-    "name": "Shady Nook",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Newark",
-    "state": "NJ",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7555103,
-    "lng": -74.2933621,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-367691855",
     "name": "East Rutherford Memorial Library",
     "category": "Public Resources",
@@ -618,25 +599,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-5617797688",
-    "name": "Peace by Piece Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Newark",
-    "state": "NJ",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 11:00-19:00; Sa-Su 10:00-20:00||Jun-Aug Mo-Fr 11:00-20:00; Jun-Aug Sa-Su 10:00-20:00 \"extended summer hours\"",
-    "lat": 40.6349202,
-    "lng": -74.0262087,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-5715656871",
     "name": "Housing Works Thrift Shop",
     "category": "Clothing & Supplies",
@@ -709,6 +671,26 @@
     "tags": [
       "thrift",
       "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-newark-shelter",
+    "name": "Newark Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   }

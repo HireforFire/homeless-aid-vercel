@@ -228,120 +228,6 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "osm-node-2141868527",
-    "name": "Lost Meadows Reserved Picnic Area",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.3789449,
-    "lng": -81.5515218,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2141917789",
-    "name": "Hemlock Creek Picnic Area",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.3752099,
-    "lng": -81.5740419,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2148542121",
-    "name": "Hermit's Hollow Picnic Area",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.3739342,
-    "lng": -81.5716035,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2504524991",
-    "name": "Rear Quarry Picnic Area",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.539413,
-    "lng": -81.5224787,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2505390690",
-    "name": "Upper Highland Picnic Area",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.5599366,
-    "lng": -81.531653,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2505390701",
-    "name": "Highland Picnic Area",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.5622526,
-    "lng": -81.5312507,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-368152709",
     "name": "Baldwin Library",
     "category": "Public Resources",
@@ -580,25 +466,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-7945340232",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4479701,
-    "lng": -81.5645601,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-8554986880",
     "name": "The Salvation Army",
     "category": "Clothing & Supplies",
@@ -611,25 +478,6 @@
     "hours": "",
     "lat": 41.4990383,
     "lng": -81.6785703,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8755810215",
-    "name": "Common Threads",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4411279,
-    "lng": -81.8645864,
     "tags": [
       "thrift",
       "charity"
@@ -728,6 +576,26 @@
     "tags": [
       "thrift",
       "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-cleveland-shelter",
+    "name": "Cleveland Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 41.4993,
+    "lng": -81.6944,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

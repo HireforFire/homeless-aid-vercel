@@ -247,44 +247,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-336303580",
-    "name": "Orchard Shores East",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.5532901,
-    "lng": -86.3579483,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-336303592",
-    "name": "Orchard Shores West",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.5530162,
-    "lng": -86.3594437,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-358679554",
     "name": "Greene Township",
     "category": "Public Resources",
@@ -497,63 +459,6 @@
     "hours": "",
     "lat": 41.6493331,
     "lng": -86.2518696,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-421145220",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7234119,
-    "lng": -86.2881101,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-479042135",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.691854,
-    "lng": -86.1857111,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-752139998",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7513039,
-    "lng": -86.1224181,
     "tags": [
       "thrift",
       "charity"

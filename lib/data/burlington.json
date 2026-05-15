@@ -228,25 +228,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-204593163",
-    "name": "GMT",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Burlington",
-    "state": "VT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 44.4441698,
-    "lng": -73.2094579,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-4787359526",
     "name": "Spectrum Drop-In Center",
     "category": "Shelter",

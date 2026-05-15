@@ -561,25 +561,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-278805856",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 25.6729719,
-    "lng": -80.3202659,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-miami-shelter",
     "name": "Miami Homeless Services Hotline",
     "category": "Shelter",
@@ -596,6 +577,46 @@
       "shelter",
       "hotline",
       "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-mia-camillus",
+    "name": "Camillus House",
+    "category": "Shelter",
+    "description": "Full-service center for homeless men, women, and children. Emergency shelter, hot meals, showers, clothing, health care, and job placement.",
+    "address": "1603 NW 7th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33136",
+    "phone": "(305) 374-1065",
+    "hours": "Mon-Fri 8:00am-5:00pm; Shelter intake via Homeless Helpline 1-877-994-4357",
+    "lat": 25.7849,
+    "lng": -80.2076,
+    "tags": [
+      "emergency shelter",
+      "case management",
+      "hot meals"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-mia-chapman",
+    "name": "Chapman Partnership Homeless Assistance Center",
+    "category": "Shelter",
+    "description": "500-bed homeless assistance center with meals, case management, on-site medical clinic, child care, and job training.",
+    "address": "1550 North Miami Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33136",
+    "phone": "(305) 329-3000",
+    "hours": "Administrative Mon-Fri 8:00am-5:00pm; Shelter 24/7",
+    "lat": 25.7885,
+    "lng": -80.1937,
+    "tags": [
+      "emergency shelter",
+      "health clinic",
+      "job training"
     ],
     "lastUpdated": "2026-05-14"
   },
@@ -617,6 +638,26 @@
       "hygiene",
       "public",
       "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-mia-camillus-hygiene",
+    "name": "Camillus House Day Center — Hygiene Services",
+    "category": "Hygiene",
+    "description": "Free showers, hygiene kits, restrooms, towels, soap, shampoo, and personal care items. Mail and phone access available.",
+    "address": "1603 NW 7th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33136",
+    "phone": "(305) 374-1065",
+    "hours": "Mon-Fri 6:30am (showers); Mail room Mon-Fri 11:00am-12:00pm",
+    "lat": 25.7849,
+    "lng": -80.2076,
+    "tags": [
+      "showers",
+      "hygiene kits",
+      "mail services"
     ],
     "lastUpdated": "2026-05-14"
   }

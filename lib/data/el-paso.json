@@ -228,63 +228,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "osm-node-3998433061",
-    "name": "Smoke Pit",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 31.8014986,
-    "lng": -106.4307342,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3998435754",
-    "name": "Smoke Pit",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 31.8040634,
-    "lng": -106.4355152,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9136446734",
-    "name": "Pan De Vida, Buen Pastor",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 31.7664312,
-    "lng": -106.5518514,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-255632101",
     "name": "Casa del Migrante",
     "category": "Shelter",
@@ -500,25 +443,6 @@
       "library",
       "wifi",
       "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5879253485",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 31.8287928,
-    "lng": -106.5299217,
-    "tags": [
-      "thrift",
-      "charity"
     ],
     "lastUpdated": "2026-05-14"
   },

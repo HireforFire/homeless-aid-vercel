@@ -228,25 +228,6 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "osm-node-5498035467",
-    "name": "Remembrance Park Gazebo",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.8833046,
-    "lng": -87.8094141,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-368067602",
     "name": "Northwestern University Law Library",
     "category": "Public Resources",
@@ -446,25 +427,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-2029406918",
-    "name": "Resale - Second Hand etc",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.9958242,
-    "lng": -87.6601522,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-2633077115",
     "name": "The Salvation Army",
     "category": "Clothing & Supplies",
@@ -632,6 +594,26 @@
     "tags": [
       "thrift",
       "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-chicago-shelter",
+    "name": "Chicago Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   }

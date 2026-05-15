@@ -275,25 +275,21 @@ async function fetchOverpass(lat, lng, regionName, state) {
           } else if (t.amenity === "library") {
             category = "Public Resources"; tags = ["library", "wifi", "computers"];
           }
-          // Skip low-quality OSM entries (no address, no phone, generic name)
           const addr = [t["addr:street"], t["addr:housenumber"]].filter(Boolean).join(" ");
           if (category !== "Public Resources" && !addr && !t.phone && !t.name?.match(/(shelter|mission|salvation|rescue|center|clinic|library|hope|home)/i)) {
             continue;
           }
           const osmId = `${el.type}-${el.id}`;
           all.push({
-            id: `osm-${tagId(osmId)}`,
-            name,
-            category,
+            id: `osm-${tagId(osmId)}`, name, category,
             description: t.description || t.amenity || t.social_facility || "",
-            address: [t["addr:street"], t["addr:housenumber"]].filter(Boolean).join(" ") || "",
+            address: addr,
             city: t["addr:city"] || regionName,
             state: t["addr:state"] || state,
             zip: t["addr:postcode"] || "",
             phone: t.phone ? formatPhone(t.phone) : "",
             hours: t.opening_hours || "",
-            lat: elLat,
-            lng: elLng,
+            lat: elLat, lng: elLng,
             tags: [...new Set(tags)],
             lastUpdated: "2026-05-14",
           });
@@ -410,49 +406,62 @@ function makeFallback(region, cat, existing) {
   }
 }
 
-async function main() {
-  console.log(`Fetching data for ${REGIONS.length} regions...\n`);
+let successes = 0, failures = 0;
 
-  for (const region of REGIONS) {
-    const resources = await fetchCity(region);
-    const cats = {};
-    for (const r of resources) {
-      if (!cats[r.category]) cats[r.category] = [];
-      cats[r.category].push(r);
+async function processOne(region) {
+  const resources = await fetchCity(region);
+  const cats = {};
+  for (const r of resources) {
+    if (!cats[r.category]) cats[r.category] = [];
+    cats[r.category].push(r);
+  }
+  for (const [cat, items] of Object.entries(cats)) {
+    if (items.length > 12) cats[cat] = items.slice(0, 12);
+  }
+  for (const cat of ALL_CATS) {
+    if (!cats[cat] || cats[cat].length === 0) {
+      const f = makeFallback(region, cat, cats);
+      if (f) cats[cat] = [f];
     }
-    for (const [cat, items] of Object.entries(cats)) {
-      if (items.length > 12) cats[cat] = items.slice(0, 12);
-    }
-    for (const cat of ALL_CATS) {
-      if (!cats[cat] || cats[cat].length === 0) {
-        const f = makeFallback(region, cat, cats);
-        if (f) cats[cat] = [f];
-      }
-    }
-
-    // Merge supplements
-    try {
-      const supps = JSON.parse(readFileSync(join(__dirname, "..", "lib", "data", "supplements.json"), "utf-8"));
-      const regionSupps = supps[region.slug];
-      if (regionSupps) {
-        const existingIds = new Set(Object.values(cats).flat().map((r) => r.id));
-        for (const s of regionSupps) {
-          if (!existingIds.has(s.id)) {
-            if (!cats[s.category]) cats[s.category] = [];
-            cats[s.category].push(s);
-            existingIds.add(s.id);
-          }
+  }
+  try {
+    const supps = JSON.parse(readFileSync(join(__dirname, "..", "lib", "data", "supplements.json"), "utf-8"));
+    const regionSupps = supps[region.slug];
+    if (regionSupps) {
+      const existingIds = new Set(Object.values(cats).flat().map((r) => r.id));
+      for (const s of regionSupps) {
+        if (!existingIds.has(s.id)) {
+          if (!cats[s.category]) cats[s.category] = [];
+          cats[s.category].push(s);
+          existingIds.add(s.id);
         }
       }
-    } catch {}
+    }
+  } catch {}
+  const pruned = Object.values(cats).flat();
+  const filePath = join(__dirname, "..", "lib", "data", `${region.slug}.json`);
+  writeFileSync(filePath, JSON.stringify(pruned, null, 2) + "\n");
+  successes++;
+  const pct = ((successes / REGIONS.length) * 100).toFixed(1);
+  process.stdout.write(`  [${pct}%] ${region.name.padEnd(20)} ${pruned.length} resources\n`);
+}
 
-    const pruned = Object.values(cats).flat();
-    const filePath = join(__dirname, "..", "lib", "data", `${region.slug}.json`);
-    writeFileSync(filePath, JSON.stringify(pruned, null, 2) + "\n");
-    console.log(`  -> ${pruned.length} resources written\n`);
+async function main() {
+  console.log(`Fetching data for ${REGIONS.length} regions in batches of 6...\n`);
+
+  const batchSize = 6;
+  for (let i = 0; i < REGIONS.length; i += batchSize) {
+    const batch = REGIONS.slice(i, i + batchSize);
+    const results = await Promise.allSettled(batch.map((r) => processOne(r)));
+    for (const result of results) {
+      if (result.status === "rejected") {
+        failures++;
+        console.error(`  FAILED: ${result.reason?.message || result.reason}`);
+      }
+    }
   }
 
-  console.log(`\nDone! ${REGIONS.length} regions processed.`);
+  console.log(`\nDone! ${successes} succeeded, ${failures} failed out of ${REGIONS.length} regions.`);
 }
 
 main().catch(console.error);

@@ -247,25 +247,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-367144261",
-    "name": "Phyllis Wheatley YWCA",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.9117349,
-    "lng": -77.0242502,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-367142107",
     "name": "Riggs Library",
     "category": "Public Resources",
@@ -523,25 +504,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-5600761729",
-    "name": "Saint Alban’s Opportunity Thrift Shop",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.9292375,
-    "lng": -77.0727986,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-6162249707",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -630,25 +592,6 @@
     "hours": "Tu-Sa 10:00-17:00; Su 11:00-17:00",
     "lat": 39.0986242,
     "lng": -77.1384718,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10718003366",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7657722,
-    "lng": -76.8870596,
     "tags": [
       "thrift",
       "charity"

@@ -466,25 +466,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-6916850536",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Columbus",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.97269,
-    "lng": -82.8949224,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-7968410933",
     "name": "Dress for Success",
     "category": "Clothing & Supplies",
@@ -523,44 +504,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-9787010127",
-    "name": "HEART Mid-Ohio Food Bank",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Columbus",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.9540236,
-    "lng": -82.824283,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9812853769",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Columbus",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.0102913,
-    "lng": -82.8653066,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-233544569",
     "name": "Habitat for Humanity ReStore",
     "category": "Clothing & Supplies",
@@ -592,63 +535,6 @@
     "hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
     "lat": 40.1002784,
     "lng": -83.0933653,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-477191125",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Columbus",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.1564435,
-    "lng": -83.0948176,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-546696899",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Columbus",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.0142551,
-    "lng": -83.0102073,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-607970601",
-    "name": "Volunteers of America",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Columbus",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.952612,
-    "lng": -83.1500212,
     "tags": [
       "thrift",
       "charity"

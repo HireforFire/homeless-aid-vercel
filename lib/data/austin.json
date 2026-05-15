@@ -504,25 +504,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-6125550591",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Su 10:00-20:00",
-    "lat": 30.2353445,
-    "lng": -97.7913827,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-8282184612",
     "name": "Goodwill",
     "category": "Clothing & Supplies",

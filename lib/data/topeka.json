@@ -228,101 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-way-194761260",
-    "name": "Lake Shawnee Park Shelter 3",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "Southeast Memory Point 3916",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66609",
-    "phone": "",
-    "hours": "",
-    "lat": 38.9965257,
-    "lng": -95.632815,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-194761262",
-    "name": "Lake Shawnee Park Gazebo 2",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.9980164,
-    "lng": -95.6316341,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-200759710",
-    "name": "Lake Shawnee Park Shelter 5",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.008595,
-    "lng": -95.622836,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-200759715",
-    "name": "Lake Shawnee Park Shelter 6",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "Southeast East Edge Road 3521",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66605",
-    "phone": "",
-    "hours": "",
-    "lat": 39.0015026,
-    "lng": -95.6243554,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-200759717",
-    "name": "Lake Shawnee Park Shelter 4",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.0100267,
-    "lng": -95.6227248,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-366764177",
     "name": "Meriden Community Library",
     "category": "Public Resources",
@@ -535,6 +440,26 @@
     "tags": [
       "thrift",
       "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-topeka-shelter",
+    "name": "Topeka Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 39.0473,
+    "lng": -95.6752,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

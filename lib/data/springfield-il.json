@@ -228,25 +228,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-4072575060",
-    "name": "Martin Pavilion",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7514028,
-    "lng": -89.6509784,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-368068015",
     "name": "Illinois State Historical Library",
     "category": "Public Resources",
@@ -499,6 +480,26 @@
     "tags": [
       "thrift",
       "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-springfield-il-shelter",
+    "name": "Springfield Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 39.7817,
+    "lng": -89.6501,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

@@ -228,63 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-7949375604",
-    "name": "Franklin Transit Authority",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9636256,
-    "lng": -86.8826988,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11458510912",
-    "name": "Route 55 - DONELSON/DELL STATION OUTBOUND",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1056112,
-    "lng": -86.6720379,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11458510948",
-    "name": "Route 55 - DONELSON/DELL STATION INBOUND",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1063554,
-    "lng": -86.6727472,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-77766610",
     "name": "Beaman Library",
     "category": "Public Resources",
@@ -485,82 +428,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-4796898645",
-    "name": "This-n-That",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.155027,
-    "lng": -86.8483284,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6348224105",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.3204122,
-    "lng": -86.6241526,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6469161781",
-    "name": "Goodwill Retail Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9993576,
-    "lng": -86.6897082,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7107739434",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.167601,
-    "lng": -86.6649772,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-8064065462",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -599,25 +466,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-11215980656",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1977345,
-    "lng": -86.618046,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-13829892001",
     "name": "Goodwill Donation Express Center",
     "category": "Clothing & Supplies",
@@ -630,25 +478,6 @@
     "hours": "",
     "lat": 35.9993168,
     "lng": -86.6894225,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-687156318",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1200852,
-    "lng": -86.771713,
     "tags": [
       "thrift",
       "charity"
@@ -671,6 +500,26 @@
     "tags": [
       "thrift",
       "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-nashville-shelter",
+    "name": "Nashville Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

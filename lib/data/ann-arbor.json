@@ -247,25 +247,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-5385057417",
-    "name": "Tiki Bar",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Ann Arbor",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.4541855,
-    "lng": -83.8511237,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-2948737150",
     "name": "South Lyon Public Library",
     "category": "Public Resources",

@@ -408,63 +408,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-4010590313",
-    "name": "Assistance League",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6860747,
-    "lng": -97.3071073,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-139052591",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6806984,
-    "lng": -97.1362668,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-266074116",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6935169,
-    "lng": -97.2717598,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-399133618",
     "name": "Value Center",
     "category": "Clothing & Supplies",
@@ -477,25 +420,6 @@
     "hours": "",
     "lat": 37.6863142,
     "lng": -97.3319116,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-403436048",
-    "name": "Disabled American Veterans Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6846843,
-    "lng": -97.3545119,
     "tags": [
       "thrift",
       "charity"

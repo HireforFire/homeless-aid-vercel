@@ -228,224 +228,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-5588825322",
-    "name": "Fountains Apartments Gazebo, North",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5482994,
-    "lng": -101.9301166,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5588849366",
-    "name": "Ratliff Park Gazebo",
-    "category": "Shelter",
-    "description": "Gazeebo with picnic tables, grills and trash bins. Wheelchair access from the north.",
-    "address": "",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5491424,
-    "lng": -101.9321121,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-75508850",
-    "name": "Texas Tech University Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "18th Street 2802",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79409",
-    "phone": "",
-    "hours": "Mo-Sa 06:00-02:00, Su 10:00-02:00; PH off",
-    "lat": 33.5814113,
-    "lng": -101.8763814,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-77697918",
-    "name": "Southwest Collection/Special Collection Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "15th Street 2805",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79409",
-    "phone": "",
-    "hours": "Mo-Fr 09:00-17:00; PH off",
-    "lat": 33.5819323,
-    "lng": -101.8770441,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-443517689",
-    "name": "Godeke Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Frankford Avenue 5034",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79424",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5457539,
-    "lng": -101.9405302,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-465335918",
-    "name": "Groves Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "19th Street 5520",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79407",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5782958,
-    "lng": -101.9330131,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-470110281",
-    "name": "City of Wolfforth Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Highway 62 508",
-    "city": "Wolfforth",
-    "state": "TX",
-    "zip": "79382",
-    "phone": "",
-    "hours": "",
-    "lat": 33.515097,
-    "lng": -101.9995565,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-472206417",
-    "name": "T J Patterson Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Parkway Drive 1836",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79403",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5943969,
-    "lng": -101.8130527,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-488771475",
-    "name": "Mahon Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "9th Street 1306",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79401",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5880438,
-    "lng": -101.8490878,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-511825869",
-    "name": "LCU Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5761408,
-    "lng": -101.9345168,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-649341030",
-    "name": "Study Lounge",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "24/7",
-    "lat": 33.6010801,
-    "lng": -101.9139361,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-422748187",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -541,23 +323,61 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "fallback-lubbock-hygiene",
-    "name": "Texas Tech University Library - Restroom Access",
-    "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "18th Street 2802",
+    "id": "fallback-lubbock-shelter",
+    "name": "Lubbock Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
     "city": "Lubbock",
     "state": "TX",
-    "zip": "79409",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 33.5779,
+    "lng": -101.8552,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-lubbock-hygiene",
+    "name": "Lubbock Public Restroom Information",
+    "category": "Hygiene",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "",
     "phone": "",
-    "hours": "Mo-Sa 06:00-02:00, Su 10:00-02:00; PH off",
-    "lat": 33.5814113,
-    "lng": -101.8763814,
+    "hours": "Varies",
+    "lat": 33.5779,
+    "lng": -101.8552,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-lubbock-library",
+    "name": "Lubbock Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 33.5779,
+    "lng": -101.8552,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

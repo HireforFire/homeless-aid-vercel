@@ -228,25 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-way-265726979",
-    "name": "Fort Wayne City Of Bd Of Park Commissioners",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Fort Wayne",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.0992043,
-    "lng": -85.1631658,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-30793775",
     "name": "Allen County Public Library - Main",
     "category": "Public Resources",
@@ -447,25 +428,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-5159791732",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Fort Wayne",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.0978737,
-    "lng": -85.1001131,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-5292831227",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -561,25 +523,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-720083305",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Fort Wayne",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.1794918,
-    "lng": -85.1346395,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-885350870",
     "name": "Habitat for Humanity ReStore",
     "category": "Clothing & Supplies",
@@ -599,21 +542,22 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-893351250",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
+    "id": "fallback-fort-wayne-shelter",
+    "name": "Fort Wayne Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Fort Wayne",
     "state": "IN",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.1210772,
-    "lng": -85.1530939,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 41.0793,
+    "lng": -85.1394,
     "tags": [
-      "thrift",
-      "charity"
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

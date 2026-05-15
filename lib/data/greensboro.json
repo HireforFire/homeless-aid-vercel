@@ -228,25 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-11136092544",
-    "name": "GTA",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.080476,
-    "lng": -79.8273713,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-12133841095",
     "name": "Shelter 3",
     "category": "Shelter",
@@ -497,44 +478,6 @@
     "hours": "",
     "lat": 36.0380695,
     "lng": -79.8540647,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7099046682",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1012168,
-    "lng": -79.819085,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7295940981",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9151366,
-    "lng": -79.9715653,
     "tags": [
       "thrift",
       "charity"

@@ -428,25 +428,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-6505824563",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Hartford",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "We-Sa 10:00-06:00",
-    "lat": 41.601774,
-    "lng": -72.6738944,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-7807321317",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -592,25 +573,6 @@
     "hours": "",
     "lat": 41.7698168,
     "lng": -72.693397,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-967383489",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Hartford",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.8110701,
-    "lng": -72.5136935,
     "tags": [
       "thrift",
       "charity"

@@ -228,25 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-12856527459",
-    "name": "Beattie Park Gazebo",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Rockford",
-    "state": "IL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.2736531,
-    "lng": -89.0906632,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-368067668",
     "name": "Howard Colman Library",
     "category": "Public Resources",
@@ -466,25 +447,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-6486954907",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Rockford",
-    "state": "IL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3136038,
-    "lng": -89.0733023,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-6760850300",
     "name": "The Salvation Army",
     "category": "Clothing & Supplies",
@@ -516,25 +478,6 @@
     "hours": "",
     "lat": 42.2351863,
     "lng": -89.056784,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13719932055",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Rockford",
-    "state": "IL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3399597,
-    "lng": -89.0537151,
     "tags": [
       "thrift",
       "charity"
@@ -614,6 +557,26 @@
     "tags": [
       "thrift",
       "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-rockford-shelter",
+    "name": "Rockford Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 42.2711,
+    "lng": -89.094,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

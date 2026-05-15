@@ -228,63 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-4637003834",
-    "name": "Wedding Trellis",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8327296,
-    "lng": -85.8253983,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5301984685",
-    "name": "Shia: Hexagonal Gazebo",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9819641,
-    "lng": -85.5843926,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5311213063",
-    "name": "Shia: Round Gazebo",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9818302,
-    "lng": -85.5837705,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-1745709073",
     "name": "KDL Library - Kentwood",
     "category": "Public Resources",
@@ -504,25 +447,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-8270665603",
-    "name": "WAR Boutique",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.884249,
-    "lng": -85.7333648,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-11068176895",
     "name": "The Salvation Army",
     "category": "Clothing & Supplies",
@@ -535,82 +459,6 @@
     "hours": "",
     "lat": 42.9132615,
     "lng": -85.5621274,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-269620426",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9146402,
-    "lng": -85.528612,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-488102743",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.1161281,
-    "lng": -85.6015617,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-572681573",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0046136,
-    "lng": -85.5924285,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-625863637",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.029186,
-    "lng": -85.6286022,
     "tags": [
       "thrift",
       "charity"
@@ -637,21 +485,22 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-1056726784",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
+    "id": "fallback-grand-rapids-shelter",
+    "name": "Grand Rapids Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Grand Rapids",
     "state": "MI",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9095384,
-    "lng": -85.5866908,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 42.9634,
+    "lng": -85.6681,
     "tags": [
-      "thrift",
-      "charity"
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

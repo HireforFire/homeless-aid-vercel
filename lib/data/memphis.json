@@ -542,25 +542,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-7604103059",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3475584,
-    "lng": -89.9060082,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-10751841306",
     "name": "Hope Missions",
     "category": "Clothing & Supplies",
@@ -592,44 +573,6 @@
     "hours": "",
     "lat": 35.1311939,
     "lng": -89.9582633,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-761768159",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1370359,
-    "lng": -89.9966994,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1013100864",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 09:00-17:00",
-    "lat": 34.9630623,
-    "lng": -89.9630174,
     "tags": [
       "thrift",
       "charity"

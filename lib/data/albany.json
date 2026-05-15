@@ -485,44 +485,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-469738025",
-    "name": "Goodwill Donation Express",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Albany",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.7436327,
-    "lng": -73.6434886,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-469738026",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Albany",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.7438089,
-    "lng": -73.6437527,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-668570693",
     "name": "Habitat for Humanity ReStore",
     "category": "Clothing & Supplies",

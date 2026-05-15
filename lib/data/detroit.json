@@ -228,120 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-5268958511",
-    "name": "Caniff / Chrysler (EB)",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3969342,
-    "lng": -83.0674404,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6489481051",
-    "name": "Caniff / Joseph Campau (EB)",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3998567,
-    "lng": -83.0595108,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6489481053",
-    "name": "Caniff / Joseph Campau (WB)",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3997325,
-    "lng": -83.0602588,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6489481324",
-    "name": "La Salle / Webb (NB)",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3847246,
-    "lng": -83.1111941,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6489481698",
-    "name": "Plymouth / Heyden (EB)",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3717446,
-    "lng": -83.2392883,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6724832603",
-    "name": "Grand Blvd / Grand River (WB)",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3566511,
-    "lng": -83.1101896,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-367813862",
     "name": "Jefferson Library",
     "category": "Public Resources",
@@ -655,25 +541,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-11368809692",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3051761,
-    "lng": -82.9785111,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-288834464",
     "name": "Hope for a Cure Thrift Store",
     "category": "Clothing & Supplies",
@@ -693,21 +560,22 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-318399176",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
+    "id": "fallback-detroit-shelter",
+    "name": "Detroit Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Detroit",
     "state": "MI",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.1423571,
-    "lng": -83.2284821,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 42.3314,
+    "lng": -83.0458,
     "tags": [
-      "thrift",
-      "charity"
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

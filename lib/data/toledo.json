@@ -228,25 +228,6 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "osm-node-6975479693",
-    "name": "Saint Jerome Gazebo",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.5926704,
-    "lng": -83.4877625,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-11108351308",
     "name": "Open Air Shelter",
     "category": "Shelter",
@@ -259,25 +240,6 @@
     "hours": "",
     "lat": 41.4866153,
     "lng": -83.7364118,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-112574105",
-    "name": "Varsity “T” Pavilion",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.655262,
-    "lng": -83.6142541,
     "tags": [
       "shelter",
       "beds"
@@ -504,63 +466,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-6794161463",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7466131,
-    "lng": -83.6238556,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7611266890",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.5386928,
-    "lng": -83.6342953,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9424051960",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7067181,
-    "lng": -83.5000046,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-12508584675",
     "name": "Goodwill Donation Center",
     "category": "Clothing & Supplies",
@@ -630,44 +535,6 @@
     "hours": "",
     "lat": 41.6925341,
     "lng": -83.589263,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-428965598",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.603285,
-    "lng": -83.6639216,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-753133705",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.5740205,
-    "lng": -83.659057,
     "tags": [
       "thrift",
       "charity"

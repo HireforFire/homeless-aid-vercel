@@ -228,44 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-5902845985",
-    "name": "Gazebo at Harmon Park",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1189805,
-    "lng": -80.0746797,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11627048681",
-    "name": "Highland Avenue & Martin Luther King Jr Drive",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1055235,
-    "lng": -80.2333012,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-31273727",
     "name": "Z. Smith Reynolds Library",
     "category": "Public Resources",
@@ -466,25 +428,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-4149872200",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1192228,
-    "lng": -80.3174172,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-9674336068",
     "name": "Habitat for Humanity ReStore",
     "category": "Clothing & Supplies",
@@ -523,25 +466,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-11786699692",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.2803985,
-    "lng": -80.3586615,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-12610082602",
     "name": "Habitat for Humanity ReStore",
     "category": "Clothing & Supplies",
@@ -561,97 +485,22 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-13523287129",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
+    "id": "fallback-winston-salem-shelter",
+    "name": "Winston-Salem Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Winston-Salem",
     "state": "NC",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0776257,
-    "lng": -80.3358467,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 36.0999,
+    "lng": -80.2442,
     "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-601165656",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0252366,
-    "lng": -80.380918,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-617692757",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1100513,
-    "lng": -80.0865883,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-623235599",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.2634236,
-    "lng": -80.3607883,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1312845341",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1647228,
-    "lng": -80.1350006,
-    "tags": [
-      "thrift",
-      "charity"
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

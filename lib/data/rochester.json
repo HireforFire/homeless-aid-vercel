@@ -228,120 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-3494229153",
-    "name": "Cattaraugus",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.2502815,
-    "lng": -77.4565572,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3495006326",
-    "name": "Kanatota",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.2591722,
-    "lng": -77.458701,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3758439445",
-    "name": "Onondaga",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.2462592,
-    "lng": -77.4592856,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3758439446",
-    "name": "Seneca",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.2461217,
-    "lng": -77.456214,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4745718466",
-    "name": "River Meadows Gazebo",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.035511,
-    "lng": -77.7038472,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6051565446",
-    "name": "Mohawk",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.2458914,
-    "lng": -77.4620575,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-368050293",
     "name": "Fairport Public Library",
     "category": "Public Resources",
@@ -522,25 +408,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-1036431210",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
-    "lat": 43.0910925,
-    "lng": -77.6429334,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-2398867658",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -553,63 +420,6 @@
     "hours": "",
     "lat": 43.2073875,
     "lng": -77.6670015,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2398868384",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.2028622,
-    "lng": -77.5611266,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2972234699",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-17:00",
-    "lat": 43.0734933,
-    "lng": -77.6089761,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6117288397",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.2371804,
-    "lng": -77.6453987,
     "tags": [
       "thrift",
       "charity"
@@ -693,21 +503,22 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-137334911",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
+    "id": "fallback-rochester-shelter",
+    "name": "Rochester Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Rochester",
     "state": "NY",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.1481695,
-    "lng": -77.6040077,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 43.1566,
+    "lng": -77.6088,
     "tags": [
-      "thrift",
-      "charity"
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

@@ -228,101 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-13157571485",
-    "name": "City Of Portland Homeless Shelter",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6985187,
-    "lng": -70.3266574,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-239102243",
-    "name": "Jordan Point Kiosk",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.4609423,
-    "lng": -70.3883302,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-333252993",
-    "name": "The Depot Pavilion",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "Thompsons Point Road 10",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04102",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6497491,
-    "lng": -70.2919362,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-344152554",
-    "name": "Rose Memorial Pavilion",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.4709057,
-    "lng": -70.3870773,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-401685978",
-    "name": "Preble Street - Joe Kreisler Teen Shelter",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "Preble Street 38",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "(207) 775-0026",
-    "hours": "",
-    "lat": 43.6580716,
-    "lng": -70.2609788,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-340118767",
     "name": "Reiche Branch - Portland Public Library",
     "category": "Public Resources",
@@ -523,25 +428,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-5266755693",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.724482,
-    "lng": -70.2300172,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-7175558360",
     "name": "The Salvation Army",
     "category": "Clothing & Supplies",
@@ -690,6 +576,26 @@
     "tags": [
       "thrift",
       "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-portland-me-shelter",
+    "name": "Portland Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 43.6591,
+    "lng": -70.2568,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

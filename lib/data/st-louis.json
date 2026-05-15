@@ -228,63 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-4377800094",
-    "name": "Tornado Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7444595,
-    "lng": -90.3677249,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4377946490",
-    "name": "Tornado Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7430121,
-    "lng": -90.3668281,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4377980991",
-    "name": "Tornado Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7449502,
-    "lng": -90.3682105,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-368067071",
     "name": "Madison Public Library",
     "category": "Public Resources",
@@ -504,25 +447,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-6324258613",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7651494,
-    "lng": -90.2788857,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-7100097588",
     "name": "Saint Vincent de Paul Thrift Store",
     "category": "Clothing & Supplies",
@@ -554,25 +478,6 @@
     "hours": "",
     "lat": 38.4485666,
     "lng": -90.3675439,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9710280741",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
-    "lat": 38.5486188,
-    "lng": -90.2921101,
     "tags": [
       "thrift",
       "charity"
@@ -637,25 +542,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-180483710",
-    "name": "Mers Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7978927,
-    "lng": -90.3392353,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-239084341",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -671,6 +557,26 @@
     "tags": [
       "thrift",
       "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-st-louis-shelter",
+    "name": "St. Louis Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 38.627,
+    "lng": -90.1994,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

@@ -228,25 +228,6 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "osm-node-2390017393",
-    "name": "Pearce",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.6063275,
-    "lng": -80.0086874,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-2703786865",
     "name": "Westinghouse Shelter",
     "category": "Shelter",
@@ -297,25 +278,6 @@
     "hours": "",
     "lat": 40.431178,
     "lng": -79.9352311,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3583629883",
-    "name": "Shawnee Grove",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.4249723,
-    "lng": -80.1573834,
     "tags": [
       "shelter",
       "beds"
@@ -542,63 +504,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-3315468808",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.4598805,
-    "lng": -79.9256083,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3466886633",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-21:00; Su 11:00-19:00",
-    "lat": 40.5370344,
-    "lng": -80.0129814,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3636064200",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.6030056,
-    "lng": -80.0504538,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-4211587889",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -630,25 +535,6 @@
     "hours": "Mo-Su 10:00-19:00; Mo-Su 10:00-11:00 unknown \"Only open for Seniors and At-Risk shoppers\"",
     "lat": 40.4805241,
     "lng": -79.955642,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5205450386",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.4534574,
-    "lng": -80.0001877,
     "tags": [
       "thrift",
       "charity"

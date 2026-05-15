@@ -428,25 +428,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-1821347459",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Raleigh",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.8701841,
-    "lng": -78.7160392,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-2344426901",
     "name": "Thrift 'n Gift",
     "category": "Clothing & Supplies",
@@ -459,25 +440,6 @@
     "hours": "Mo-Fr 10:00-16:00;Sa 10:00-14:00",
     "lat": 35.7886706,
     "lng": -78.764482,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4576217689",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Raleigh",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 10:00-18:00; Sa 09:00-17:00",
-    "lat": 35.8728336,
-    "lng": -78.7277136,
     "tags": [
       "thrift",
       "charity"
@@ -592,25 +554,6 @@
     "hours": "",
     "lat": 35.6650447,
     "lng": -78.7959853,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7752477132",
-    "name": "North Raleigh Ministries Thrift Shoppe",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Raleigh",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.904375,
-    "lng": -78.6568519,
     "tags": [
       "thrift",
       "charity"

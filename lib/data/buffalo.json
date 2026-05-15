@@ -466,25 +466,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-9816174737",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8846731,
-    "lng": -78.8288475,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-10133870203",
     "name": "Goodwill",
     "category": "Clothing & Supplies",

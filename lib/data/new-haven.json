@@ -228,25 +228,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "osm-node-9533589336",
-    "name": "Leatherman Cave",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4147163,
-    "lng": -72.9380755,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-367138358",
     "name": "New Haven Free Public Library Stetson Branch",
     "category": "Public Resources",
@@ -447,192 +428,22 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-2844565040",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Colony Road",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-21:00; Su 09:00-18:00",
-    "lat": 41.5017573,
-    "lng": -72.8114336,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4139127714",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
+    "id": "fallback-new-haven-shelter",
+    "name": "New Haven Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "New Haven",
     "state": "CT",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2655539,
-    "lng": -73.0035122,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 41.3083,
+    "lng": -72.9279,
     "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4706498160",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4216932,
-    "lng": -73.1075863,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5233338773",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2948877,
-    "lng": -73.1107129,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5586327628",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.3215107,
-    "lng": -72.8700699,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7747874441",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Dixwell Avenue 2369",
-    "city": "Hamden",
-    "state": "CT",
-    "zip": "06514",
-    "phone": "",
-    "hours": "",
-    "lat": 41.374784,
-    "lng": -72.9150841,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7757091309",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.3360499,
-    "lng": -72.9774713,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9390762446",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "State Street 2901",
-    "city": "Hamden",
-    "state": "CT",
-    "zip": "06517",
-    "phone": "",
-    "hours": "",
-    "lat": 41.3599429,
-    "lng": -72.8880796,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9919524547",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4799571,
-    "lng": -72.9069347,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-208082790",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Boston Post Road 1712",
-    "city": "Milford",
-    "state": "CT",
-    "zip": "06460",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2491684,
-    "lng": -73.0241492,
-    "tags": [
-      "thrift",
-      "charity"
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

@@ -228,44 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-5337723570",
-    "name": "Burkewood Inn",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "West Main Street 3216",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "",
-    "phone": "(517) 487-9119",
-    "hours": "",
-    "lat": 42.7215289,
-    "lng": -84.5925432,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5563322490",
-    "name": "City Rescue Mission of Lansing",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "East Michigan Avenue 607",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "",
-    "phone": "(517) 485-0145",
-    "hours": "",
-    "lat": 42.733763,
-    "lng": -84.544132,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-772846326",
     "name": "MSU Law Library",
     "category": "Public Resources",
@@ -485,82 +447,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-5560525582",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.6417356,
-    "lng": -84.5218309,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6038119366",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.6668813,
-    "lng": -84.5443416,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6476041366",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.587284,
-    "lng": -84.4525059,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6964563776",
-    "name": "Child and Family Charities",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.6813065,
-    "lng": -84.5161728,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-6975330460",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -573,25 +459,6 @@
     "hours": "Mo-Sa 10:00-18:00, Su 12:00-17:00",
     "lat": 42.7206037,
     "lng": -84.4170098,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8804836265",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.6825201,
-    "lng": -84.4531816,
     "tags": [
       "thrift",
       "charity"
@@ -618,40 +485,22 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-259999821",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
+    "id": "fallback-lansing-shelter",
+    "name": "Lansing Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Lansing",
     "state": "MI",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.7391224,
-    "lng": -84.6260587,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 42.7325,
+    "lng": -84.5555,
     "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1102991176",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.5628178,
-    "lng": -84.4436858,
-    "tags": [
-      "thrift",
-      "charity"
+      "shelter",
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

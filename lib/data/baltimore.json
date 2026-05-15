@@ -428,25 +428,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-78456490",
-    "name": "Hollofield Campground Bathhouse",
-    "category": "Hygiene",
-    "description": "public_bath",
-    "address": "",
-    "city": "Baltimore",
-    "state": "MD",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.2869769,
-    "lng": -76.7887039,
-    "tags": [
-      "showers",
-      "bath"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-1677666331",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -542,25 +523,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-3648071656",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Baltimore",
-    "state": "MD",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.3587542,
-    "lng": -76.5955696,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-4775186887",
     "name": "Paul's Place",
     "category": "Clothing & Supplies",
@@ -599,44 +561,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-8740328142",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Baltimore",
-    "state": "MD",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1701923,
-    "lng": -76.6179012,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10697829837",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Baltimore",
-    "state": "MD",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.3625082,
-    "lng": -76.7098298,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-baltimore-shelter",
     "name": "Baltimore Homeless Services Hotline",
     "category": "Shelter",
@@ -653,6 +577,27 @@
       "shelter",
       "hotline",
       "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-baltimore-hygiene",
+    "name": "William H Welch Medical Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-18:00; Sa 10:00-16:00",
+    "lat": 39.2987182,
+    "lng": -76.5902441,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -561,25 +561,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-5166531633",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Des Moines",
-    "state": "IA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.6567862,
-    "lng": -93.7346404,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-9836677190",
     "name": "The Salvation Army",
     "category": "Clothing & Supplies",

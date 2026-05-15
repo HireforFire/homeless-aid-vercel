@@ -247,25 +247,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-5693553814",
-    "name": "N Broom & W Gorham (NB)",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0740823,
-    "lng": -89.3923544,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-790662052",
     "name": "Alicia Ashman Library",
     "category": "Public Resources",
@@ -497,82 +478,6 @@
     "hours": "",
     "lat": 43.061484,
     "lng": -89.5280585,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4237990287",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0149049,
-    "lng": -89.480192,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7486573497",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
-    "lat": 43.1747509,
-    "lng": -89.2491481,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7486573536",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Sa 10:00-19:00; Su 10:00-17:00",
-    "lat": 43.1812841,
-    "lng": -89.2307231,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8773830623",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.1280951,
-    "lng": -89.3613292,
     "tags": [
       "thrift",
       "charity"

@@ -228,25 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-722797272",
-    "name": "Ruth Lilly Visitors Pavilion",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.8300966,
-    "lng": -86.1861775,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-1688056819",
     "name": "Shelter 5",
     "category": "Shelter",
@@ -561,25 +542,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-1837048108",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6366026,
-    "lng": -86.3389888,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-2658950796",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -675,25 +637,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-5095139426",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7500917,
-    "lng": -86.140376,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-5273777830",
     "name": "Goodwill",
     "category": "Clothing & Supplies",
@@ -725,25 +668,6 @@
     "hours": "",
     "lat": 39.7492764,
     "lng": -86.1395792,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11088444237",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6263832,
-    "lng": -86.1179421,
     "tags": [
       "thrift",
       "charity"

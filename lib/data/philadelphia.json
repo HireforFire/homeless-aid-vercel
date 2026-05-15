@@ -465,44 +465,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-9461443860",
-    "name": "MamaTee.com",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.9391614,
-    "lng": -75.1799941,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12228978058",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.912739,
-    "lng": -75.1571274,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-13418229111",
     "name": "Habitat for Humanity ReStore",
     "category": "Clothing & Supplies",
@@ -579,6 +541,128 @@
     "lastUpdated": "2026-05-14"
   },
   {
+    "id": "spl-phl-broad-street-love",
+    "name": "Broad Street Love",
+    "category": "Clothing & Supplies",
+    "description": "Free clothing closet, personal care items, hygiene products, mail service, meals, case management, and legal aid.",
+    "address": "315 S Broad St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19107",
+    "phone": "(215) 735-4847",
+    "hours": "Mon-Wed 11:30 AM - 3:00 PM",
+    "lat": 39.9485,
+    "lng": -75.165,
+    "tags": [
+      "clothing",
+      "hygiene",
+      "meals",
+      "case management"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-phl-wardrobe",
+    "name": "The Wardrobe Philadelphia",
+    "category": "Clothing & Supplies",
+    "description": "Free clothing for job seekers and daily needs. Professional, casual, and formal wear. Walk-in shopping welcome.",
+    "address": "413 N 4th St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19123",
+    "phone": "(215) 568-6693",
+    "hours": "Mon-Sat 11:00 AM - 6:00 PM",
+    "lat": 39.9575,
+    "lng": -75.146,
+    "tags": [
+      "free clothing",
+      "professional wear",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-philadelphia-shelter",
+    "name": "Philadelphia Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-phl-sunday-breakfast",
+    "name": "Sunday Breakfast Rescue Mission",
+    "category": "Shelter",
+    "description": "Philadelphia's largest homeless shelter for men. Houses 220 men each night with dinner served 5-6pm daily.",
+    "address": "302 N 13th St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19107",
+    "phone": "(215) 922-6400",
+    "hours": "Daily 6:00 AM - 8:00 PM",
+    "lat": 39.9598,
+    "lng": -75.1585,
+    "tags": [
+      "men's shelter",
+      "emergency shelter",
+      "meals"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-phl-project-home",
+    "name": "Project HOME — Outreach Coordination Center",
+    "category": "Shelter",
+    "description": "24/7 homeless outreach hotline and street outreach coordination. Permanent supportive housing, medical care, and education programs.",
+    "address": "1515 Fairmount Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19130",
+    "phone": "(215) 232-7272",
+    "hours": "Outreach hotline 24/7; Office Mon-Fri 9:00 AM - 4:00 PM",
+    "lat": 39.967,
+    "lng": -75.1685,
+    "tags": [
+      "outreach",
+      "supportive housing",
+      "hotline",
+      "case management"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-phl-bethesda",
+    "name": "Bethesda Project — Our Brothers' Place",
+    "category": "Shelter",
+    "description": "Emergency shelter for 149 men with warm meals, case management, and social services.",
+    "address": "907 Hamilton St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19123",
+    "phone": "(215) 236-7020",
+    "hours": "24/7 shelter operation",
+    "lat": 39.9615,
+    "lng": -75.1555,
+    "tags": [
+      "men's shelter",
+      "emergency shelter",
+      "case management"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-philadelphia-hygiene",
     "name": "Greenwich Township Branch Library - Restroom Access",
     "category": "Hygiene",
@@ -596,6 +680,28 @@
       "hygiene",
       "public",
       "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-phl-st-johns-hospice",
+    "name": "St. John's Hospice — Day Services",
+    "category": "Hygiene",
+    "description": "Free showers with clean clothing. Hot noon meals for men. On-site nursing, case management, and mail services.",
+    "address": "1221 Race St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19107",
+    "phone": "(215) 563-7763",
+    "hours": "Mon-Fri 9:00 AM - 5:00 PM; Showers Mon/Tue/Wed/Fri 8:30-9:15 AM",
+    "lat": 39.9573,
+    "lng": -75.1595,
+    "tags": [
+      "showers",
+      "toiletries",
+      "clothing",
+      "meals",
+      "men"
     ],
     "lastUpdated": "2026-05-14"
   }

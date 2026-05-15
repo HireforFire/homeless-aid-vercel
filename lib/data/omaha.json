@@ -466,63 +466,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-3326075239",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.1393219,
-    "lng": -96.0506091,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3917844096",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.1169626,
-    "lng": -95.9454426,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3962645908",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.285111,
-    "lng": -96.0045693,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-node-4285202361",
     "name": "The Salvation Army",
     "category": "Clothing & Supplies",
@@ -535,44 +478,6 @@
     "hours": "",
     "lat": 41.1417615,
     "lng": -95.9124532,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4540443021",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.1758836,
-    "lng": -96.0465496,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5202692079",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "Tu-Th 12:00-18:00; Fr 09:00-18:00; Sa 09:00-17:00",
-    "lat": 41.1779707,
-    "lng": -95.9244014,
     "tags": [
       "thrift",
       "charity"

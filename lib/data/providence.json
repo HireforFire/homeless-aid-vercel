@@ -427,25 +427,6 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-216515138",
-    "name": "Project Hand up",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7068461,
-    "lng": -71.5212056,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "osm-way-555524852",
     "name": "The Salvation Army",
     "category": "Clothing & Supplies",

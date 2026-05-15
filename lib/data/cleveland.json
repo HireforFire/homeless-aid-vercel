@@ -228,358 +228,6 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "osm-node-368152709",
-    "name": "Baldwin Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.372828,
-    "lng": -81.8523582,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368152827",
-    "name": "University Heights Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Cedar Road 13866",
-    "city": "University Heights",
-    "state": "OH",
-    "zip": "44118",
-    "phone": "(216) 321-4700",
-    "hours": "",
-    "lat": 41.5010689,
-    "lng": -81.5409351,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368153016",
-    "name": "Kelvin Smith Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 08:00-23:30; Sa 09:00-16:30; Su 12:00-23:30",
-    "lat": 41.5072978,
-    "lng": -81.6094011,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368153269",
-    "name": "Gries Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4655556,
-    "lng": -81.5216667,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368153278",
-    "name": "Mount Pleasant Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Kinsman Road 14000",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44120",
-    "phone": "(216) 623-7032",
-    "hours": "Mo-Sa 10:00-18:00; PH off",
-    "lat": 41.4641667,
-    "lng": -81.5844444,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368153339",
-    "name": "Ingalls Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "Tu-Fr 10:00-17:00",
-    "lat": 41.5092052,
-    "lng": -81.6116908,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1013326467",
-    "name": "Cuyahoga County Public Library Berea Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.3649607,
-    "lng": -81.852924,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1244305833",
-    "name": "Allen Memorial Medical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.5060123,
-    "lng": -81.6085318,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1397831323",
-    "name": "Michael Schwartz Library - Cleveland State University",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "06:00-22:00 \"summer\"",
-    "lat": 41.5031901,
-    "lng": -81.6752246,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2509710704",
-    "name": "Garden Valley Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Kinsman Road 7201",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44104",
-    "phone": "(216) 623-6976",
-    "hours": "Mo-Sa 10:00-18:00; PH off",
-    "lat": 41.4798381,
-    "lng": -81.6378644,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2986471636",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Biddulph Road 6990",
-    "city": "Brooklyn",
-    "state": "OH",
-    "zip": "44144",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4312378,
-    "lng": -81.733879,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3464226521",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4245918,
-    "lng": -81.6124235,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8554986880",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4990383,
-    "lng": -81.6785703,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8803559823",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Northfield Road 4633",
-    "city": "North Randall",
-    "state": "OH",
-    "zip": "44128",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4322509,
-    "lng": -81.5242477,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8804028492",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Northfield Road 4601",
-    "city": "North Randall",
-    "state": "OH",
-    "zip": "44128",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4340165,
-    "lng": -81.5252881,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8910115748",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Cedar Road 13908A",
-    "city": "University Heights",
-    "state": "OH",
-    "zip": "44118",
-    "phone": "",
-    "hours": "",
-    "lat": 41.5008319,
-    "lng": -81.5392031,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8930946955",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Snow Road 14690",
-    "city": "Brook Park",
-    "state": "OH",
-    "zip": "44142",
-    "phone": "",
-    "hours": "",
-    "lat": 41.405694,
-    "lng": -81.7991704,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9231801836",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Lorain Road 23100",
-    "city": "North Olmsted",
-    "state": "OH",
-    "zip": "44070",
-    "phone": "",
-    "hours": "",
-    "lat": 41.4379292,
-    "lng": -81.8751392,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-cleveland-shelter",
     "name": "Cleveland Homeless Services Hotline",
     "category": "Shelter",
@@ -601,22 +249,40 @@
   },
   {
     "id": "fallback-cleveland-hygiene",
-    "name": "Baldwin Library - Restroom Access",
+    "name": "Cleveland Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Cleveland",
     "state": "OH",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 41.372828,
-    "lng": -81.8523582,
+    "hours": "Varies",
+    "lat": 41.4993,
+    "lng": -81.6944,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-cleveland-library",
+    "name": "Cleveland Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 41.4993,
+    "lng": -81.6944,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

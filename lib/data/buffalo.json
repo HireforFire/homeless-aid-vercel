@@ -228,377 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-543618702",
-    "name": "Niagara Falls Public Library - Lasalle Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Buffalo Avenue 8728",
-    "city": "Niagara Falls",
-    "state": "NY",
-    "zip": "14304",
-    "phone": "(716) 283-8309",
-    "hours": "Mo-Tu 10:00-20:00; We-Fr 10:00-17:00; Sa-Su off; PH off; 2026 Feb 12 off; 2026 Feb 16 off; 2026 May 25 off; 2026 Jul 03 off; 2026 Sep 07 off; 2026 Oct 12 off; 2026 Nov 11 off; 2026 Nov 26 off; 2026 Dec 25 off; 2027 Jan 01 off",
-    "lat": 43.077675,
-    "lng": -78.9629723,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-543619501",
-    "name": "West Falls Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Davis Road 1966",
-    "city": "West Fall",
-    "state": "NY",
-    "zip": "14170",
-    "phone": "",
-    "hours": "",
-    "lat": 42.70179,
-    "lng": -78.68253,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-543619547",
-    "name": "Blasdell Library (Hamburg)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Madison Avenue 54",
-    "city": "Blasdell",
-    "state": "NY",
-    "zip": "14219",
-    "phone": "",
-    "hours": "",
-    "lat": 42.79544,
-    "lng": -78.8261,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-543619603",
-    "name": "Cazenovia Branch Library (Buffalo & Erie)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Cazenovia Street 155",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14210",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8513437,
-    "lng": -78.8082758,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-543619617",
-    "name": "South Cheektowaga Library (Cheektowaga)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "William Street 2660",
-    "city": "Cheektowaga",
-    "state": "NY",
-    "zip": "14227",
-    "phone": "",
-    "hours": "",
-    "lat": 42.88426,
-    "lng": -78.77226,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-543619630",
-    "name": "James M. Mead Branch Library (Buffalo & Erie)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Ludington Street 126",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14206",
-    "phone": "",
-    "hours": "",
-    "lat": 42.88726,
-    "lng": -78.80932,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-543619637",
-    "name": "Dr. Francis E. Fronczak Branch Library (Buffalo & Erie)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Broadway 1080",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14212",
-    "phone": "",
-    "hours": "",
-    "lat": 42.89398,
-    "lng": -78.83463,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-543619692",
-    "name": "North Cheektowaga Library (Cheektowaga)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Maryvale Drive 735",
-    "city": "Cheektowaga",
-    "state": "NY",
-    "zip": "14225",
-    "phone": "",
-    "hours": "",
-    "lat": 42.933288,
-    "lng": -78.7606536,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-543619707",
-    "name": "North Park Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Hertel Avenue 975",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14216",
-    "phone": "(716) 875-3748",
-    "hours": "",
-    "lat": 42.9471821,
-    "lng": -78.8719684,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-543619749",
-    "name": "Sheridan Parkside Branch Library (Tonawanda)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Sheridan Parkside Drive 169",
-    "city": "Tonawanda",
-    "state": "NY",
-    "zip": "14150",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9847691,
-    "lng": -78.8936993,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7207270302",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Park Avenue 6000",
-    "city": "Hamburg",
-    "state": "NY",
-    "zip": "14075",
-    "phone": "(716) 646-6909",
-    "hours": "Mo-Sa 10:00-20:00; Su 10:00-17:00",
-    "lat": 42.7319918,
-    "lng": -78.8239024,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9176953258",
-    "name": "AMVETS Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Ridge Road 1900",
-    "city": "West Seneca",
-    "state": "NY",
-    "zip": "14224",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8297435,
-    "lng": -78.7832295,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10133870203",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Eggert Road 3177",
-    "city": "Tonawanda",
-    "state": "NY",
-    "zip": "14150",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9984912,
-    "lng": -78.8503488,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10634639471",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Main Street 8050",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14221",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9659973,
-    "lng": -78.6951123,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13120412275",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "McKinley Parkway 4255",
-    "city": "Hamburg",
-    "state": "NY",
-    "zip": "14075",
-    "phone": "(716) 202-0188",
-    "hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00",
-    "lat": 42.7683628,
-    "lng": -78.8091691,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-84987996",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Payne Avenue 895",
-    "city": "North Tonawanda",
-    "state": "NY",
-    "zip": "14120",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0477061,
-    "lng": -78.8761564,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-487901894",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Military Road 1080",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14217",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9614186,
-    "lng": -78.8891944,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-649756103",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Niagara Falls Boulevard 1089",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14226",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9837158,
-    "lng": -78.8221763,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-649756124",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Niagara Falls Boulevard 1030",
-    "city": "Tonawanda",
-    "state": "NY",
-    "zip": "14150",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9824603,
-    "lng": -78.8236706,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-buffalo-shelter",
     "name": "Buffalo Homeless Services Hotline",
     "category": "Shelter",
@@ -620,22 +249,40 @@
   },
   {
     "id": "fallback-buffalo-hygiene",
-    "name": "Niagara Falls Public Library - Lasalle Branch - Restroom Access",
+    "name": "Buffalo Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Buffalo Avenue 8728",
-    "city": "Niagara Falls",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Buffalo",
     "state": "NY",
-    "zip": "14304",
+    "zip": "",
     "phone": "",
-    "hours": "Mo-Tu 10:00-20:00; We-Fr 10:00-17:00; Sa-Su off; PH off; 2026 Feb 12 off; 2026 Feb 16 off; 2026 May 25 off; 2026 Jul 03 off; 2026 Sep 07 off; 2026 Oct 12 off; 2026 Nov 11 off; 2026 Nov 26 off; 2026 Dec 25 off; 2027 Jan 01 off",
-    "lat": 43.077675,
-    "lng": -78.9629723,
+    "hours": "Varies",
+    "lat": 42.8864,
+    "lng": -78.8784,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-buffalo-library",
+    "name": "Buffalo Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 42.8864,
+    "lng": -78.8784,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

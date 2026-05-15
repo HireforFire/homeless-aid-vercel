@@ -228,21 +228,22 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "osm-way-255632101",
-    "name": "Casa del Migrante",
+    "id": "fallback-el-paso-shelter",
+    "name": "El Paso Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "Calle Neptuno 1855",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
     "city": "El Paso",
     "state": "TX",
     "zip": "",
-    "phone": "+52 656 687 0676",
-    "hours": "",
-    "lat": 31.6830587,
-    "lng": -106.3791704,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 31.7619,
+    "lng": -106.485,
     "tags": [
       "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

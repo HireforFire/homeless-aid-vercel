@@ -228,261 +228,61 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-13297014989",
-    "name": "River Shelter",
+    "id": "fallback-south-bend-shelter",
+    "name": "South Bend Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "South Bend",
     "state": "IN",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7639441,
-    "lng": -86.2720787,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 41.6764,
+    "lng": -86.2519,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-358679554",
-    "name": "Greene Township",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.5925468,
-    "lng": -86.3438985,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367814153",
-    "name": "Niles Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "South Bend",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.8294444,
-    "lng": -86.2516667,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367814245",
-    "name": "Howard Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "South Bend",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.8263889,
-    "lng": -86.2119444,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367814247",
-    "name": "Carnegie Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "South Bend",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.8305556,
-    "lng": -86.2558333,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367814363",
-    "name": "Edwardsburg Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "South Bend",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7966667,
-    "lng": -86.0852778,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1496015101",
-    "name": "St. Joe County Public Library, Main Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "",
-    "phone": "(574) 282-4646",
-    "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-17:00; Su 13:00-17:00; Jun 1-Sep 6: Su off",
-    "lat": 41.6733487,
-    "lng": -86.2514592,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2294775465",
-    "name": "Bowen Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.6777249,
-    "lng": -86.1927607,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-196334310",
-    "name": "Kern Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Kern Road 1150",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "",
-    "phone": "(574) 251-3700",
-    "hours": "",
-    "lat": 41.6071492,
-    "lng": -86.2339302,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-196338048",
-    "name": "Tutt Branch Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.6512584,
-    "lng": -86.2353194,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-207325413",
-    "name": "Cushwa-Leighton Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7082607,
-    "lng": -86.2564052,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12087768723",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Main Street 2411",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "46613",
-    "phone": "",
-    "hours": "",
-    "lat": 41.6493331,
-    "lng": -86.2518696,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-south-bend-hygiene",
-    "name": "Greene Township - Restroom Access",
+    "name": "South Bend Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "South Bend",
     "state": "IN",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 41.5925468,
-    "lng": -86.3438985,
+    "hours": "Varies",
+    "lat": 41.6764,
+    "lng": -86.2519,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-south-bend-library",
+    "name": "South Bend Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "South Bend",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 41.6764,
+    "lng": -86.2519,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

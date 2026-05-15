@@ -228,44 +228,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-11500596560",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7003586,
-    "lng": -71.5294354,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-555524852",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7206501,
-    "lng": -71.4647099,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-providence-shelter",
     "name": "Providence Homeless Services Hotline",
     "category": "Shelter",

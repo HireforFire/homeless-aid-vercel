@@ -228,356 +228,61 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "osm-node-3800039867",
-    "name": "Velo UnderRound shelter",
+    "id": "fallback-madison-shelter",
+    "name": "Madison Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Madison",
     "state": "WI",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.023848,
-    "lng": -89.4612842,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 43.0731,
+    "lng": -89.4012,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-790662052",
-    "name": "Alicia Ashman Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North High Point Road 733",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53717",
-    "phone": "",
-    "hours": "Mo-Fr 10:00-18:00; Sa 09:00-17:00",
-    "lat": 43.0760994,
-    "lng": -89.5175827,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-919194725",
-    "name": "Hill Farms Transportation Building Transportation Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0742859,
-    "lng": -89.4609203,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1173065967",
-    "name": "College Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0766467,
-    "lng": -89.4009983,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1473488018",
-    "name": "Sequoya Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Tokay Boulevard 4340",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53711",
-    "phone": "",
-    "hours": "Mo-Fr 09:00-21:00; Sa 09:00-17:00",
-    "lat": 43.0537698,
-    "lng": -89.4505289,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2734689025",
-    "name": "Hawthorne Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Washington Avenue 2707",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53704",
-    "phone": "",
-    "hours": "Mo-Fr 10:00-20:00; Sa 09:00-17:00",
-    "lat": 43.101626,
-    "lng": -89.34641,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2983015083",
-    "name": "Geography Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0756308,
-    "lng": -89.4011389,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2983015084",
-    "name": "Robinson Map Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0760579,
-    "lng": -89.4010612,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3084751934",
-    "name": "Lakeview Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Sherman Avenue 2845",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53704",
-    "phone": "",
-    "hours": "Mo-Fr 10:00-20:00; Sa 09:00-17:00",
-    "lat": 43.1277872,
-    "lng": -89.3624003,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3137055339",
-    "name": "Meadowridge Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Raymond Road 5726",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53711",
-    "phone": "",
-    "hours": "Mo-Fr 10:00-20:00; Sa 09:00-17:00",
-    "lat": 43.0324678,
-    "lng": -89.4790028,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3680614959",
-    "name": "Ebling Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Highland Avenue 750",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53705-2221",
-    "phone": "(608) 262-2020",
-    "hours": "",
-    "lat": 43.0777498,
-    "lng": -89.4297886,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3092000621",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Verona Road 4530",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53711",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
-    "lat": 43.0379689,
-    "lng": -89.457035,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3539974200",
-    "name": "Agrace Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Junction Road 118",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53717",
-    "phone": "",
-    "hours": "",
-    "lat": 43.061484,
-    "lng": -89.5280585,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11463349568",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Odana Road 6201",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "",
-    "phone": "(608) 442-9919",
-    "hours": "Tu-Sa 09:00-17:00",
-    "lat": 43.0531914,
-    "lng": -89.4873621,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11985377614",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Odana Road 5906",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0527577,
-    "lng": -89.4834964,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12057653832",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "US Highway 51 1780",
-    "city": "Stoughton",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9196273,
-    "lng": -89.242679,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-37783807",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Odana Road 6301",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53719",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0532764,
-    "lng": -89.488614,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-madison-hygiene",
-    "name": "Alicia Ashman Library - Restroom Access",
+    "name": "Madison Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "North High Point Road 733",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Madison",
     "state": "WI",
-    "zip": "53717",
+    "zip": "",
     "phone": "",
-    "hours": "Mo-Fr 10:00-18:00; Sa 09:00-17:00",
-    "lat": 43.0760994,
-    "lng": -89.5175827,
+    "hours": "Varies",
+    "lat": 43.0731,
+    "lng": -89.4012,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-madison-library",
+    "name": "Madison Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 43.0731,
+    "lng": -89.4012,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

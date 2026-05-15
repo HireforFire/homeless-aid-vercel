@@ -228,282 +228,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-366494971",
-    "name": "New Hampshire Public Utilities Commission Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.1909148,
-    "lng": -71.509793,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12762825440",
-    "name": "Dunbarton Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "School Street 1004",
-    "city": "Dunbarton",
-    "state": "NH",
-    "zip": "03046",
-    "phone": "",
-    "hours": "",
-    "lat": 43.1027991,
-    "lng": -71.6162399,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12994234515",
-    "name": "American Canadian Genealogical Society",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Sundial Avenue 1",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "",
-    "phone": "(603) 622-1554",
-    "hours": "We, Sa 10:00-14:00 || \"by appointment\"",
-    "lat": 42.9726478,
-    "lng": -71.4692187,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13384415354",
-    "name": "Allenstown Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Main Street 59",
-    "city": "Allenstown",
-    "state": "NH",
-    "zip": "03275",
-    "phone": "",
-    "hours": "Mo 11:00-19:00; Tu 13:00-17:00; Th 10:00-17:00; Sa 10:00-13:00",
-    "lat": 43.1281197,
-    "lng": -71.4542515,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-28721510",
-    "name": "Derry Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Broadway 64",
-    "city": "Derry",
-    "state": "NH",
-    "zip": "03038",
-    "phone": "",
-    "hours": "",
-    "lat": 42.883508,
-    "lng": -71.3225207,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-32326584",
-    "name": "Aaron Cutler Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Charles Bancroft Highway 269",
-    "city": "Litchfield",
-    "state": "NH",
-    "zip": "03052",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8445747,
-    "lng": -71.4794924,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-39014697",
-    "name": "Taylor Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Derry Road 49",
-    "city": "Derry",
-    "state": "NH",
-    "zip": "03038",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8939817,
-    "lng": -71.2941232,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-52968099",
-    "name": "Leach Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Mammoth Road 276",
-    "city": "Londonderry",
-    "state": "NH",
-    "zip": "03053",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8685682,
-    "lng": -71.3749762,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-85660999",
-    "name": "Louis B. Warren Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8071524,
-    "lng": -71.4837934,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-117274178",
-    "name": "Nesmith Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Fellows Road 8",
-    "city": "Windham",
-    "state": "NH",
-    "zip": "03087",
-    "phone": "",
-    "hours": "Mo-Th 09:00-20:00;Fr 09:00-17:00;Sa 09:00-16:00; Su 13:00-17:00",
-    "lat": 42.8021834,
-    "lng": -71.2983445,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4379962142",
-    "name": "Marion Gerrish Thrift Shop",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Broadway 39",
-    "city": "Derry",
-    "state": "NH",
-    "zip": "03038",
-    "phone": "(603) 434-8866",
-    "hours": "Mo,Sa 09:00-16:00; Tu-Fr 09:00-19:00",
-    "lat": 42.8794716,
-    "lng": -71.3298686,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-85931705",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "John E. Devine Drive 165",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "03103",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9587053,
-    "lng": -71.4403878,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-236156359",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Hooksett Road 1292",
-    "city": "Hooksett",
-    "state": "NH",
-    "zip": "03106",
-    "phone": "(603) 622-6207",
-    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
-    "lat": 43.0503808,
-    "lng": -71.4389786,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-431798748",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "State Route 101A 131",
-    "city": "Amherst",
-    "state": "NH",
-    "zip": "03031",
-    "phone": "(603) 554-8288",
-    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
-    "lat": 42.8055797,
-    "lng": -71.567005,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-manchester-nh-shelter",
     "name": "Manchester Homeless Services Hotline",
     "category": "Shelter",
@@ -525,22 +249,40 @@
   },
   {
     "id": "fallback-manchester-nh-hygiene",
-    "name": "New Hampshire Public Utilities Commission Library - Restroom Access",
+    "name": "Manchester Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Manchester",
     "state": "NH",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 43.1909148,
-    "lng": -71.509793,
+    "hours": "Varies",
+    "lat": 42.9956,
+    "lng": -71.4548,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-manchester-nh-library",
+    "name": "Manchester Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 42.9956,
+    "lng": -71.4548,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -228,301 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-366490306",
-    "name": "Bio-Information Center",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2664344,
-    "lng": -95.953708,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491303",
-    "name": "La Vista Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Giles Road 9110",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "(402) 537-3900",
-    "hours": "",
-    "lat": 41.1771322,
-    "lng": -96.0542654,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491327",
-    "name": "Freeman-Lozier Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 07:30-22:30; Sa 08:00-17:00; Su 10:00-19:00",
-    "lat": 41.1502051,
-    "lng": -95.9174454,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491330",
-    "name": "Springfield Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.0814594,
-    "lng": -96.1278635,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491344",
-    "name": "A V Sorenson Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Cass Street 4808",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68132",
-    "phone": "(402) 444-5274",
-    "hours": "",
-    "lat": 41.2635223,
-    "lng": -95.9865188,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491356",
-    "name": "Metropolitan Community College - Fort Omaha Campus Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.3092941,
-    "lng": -95.9586104,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491362",
-    "name": "Ralston Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2058322,
-    "lng": -96.0364054,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491370",
-    "name": "Klutznick Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "(402) 280-5541",
-    "hours": "Mo-Th 07:00-23:00, Fr 07:00-19:00, Sa 10:00-19:00, Su 10:00-23:00",
-    "lat": 41.2644982,
-    "lng": -95.9443333,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491376",
-    "name": "South Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2112776,
-    "lng": -95.9459022,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366491381",
-    "name": "Hollis and Helen Baright Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2021639,
-    "lng": -96.0310798,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2726967950",
-    "name": "For The Wild Birds",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Spring Street 8310",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68124",
-    "phone": "(402) 397-8484",
-    "hours": "",
-    "lat": 41.2316019,
-    "lng": -96.0423779,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2727445371",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Center Road 8457",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68124",
-    "phone": "(402) 397-0542",
-    "hours": "",
-    "lat": 41.2330564,
-    "lng": -96.0468049,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4285202361",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.1417615,
-    "lng": -95.9124532,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7246531936",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "Thrift store",
-    "address": "N 78th St, Omaha NE 68114 201",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "",
-    "phone": "(402) 393-2800",
-    "hours": "",
-    "lat": 41.2613134,
-    "lng": -96.0356526,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9654399341",
-    "name": "Goodwill Outlet",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South 72nd Street 4115",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68127",
-    "phone": "(402) 731-4888",
-    "hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
-    "lat": 41.2187342,
-    "lng": -96.0232478,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-omaha-shelter",
     "name": "Omaha Homeless Services Hotline",
     "category": "Shelter",
@@ -544,22 +249,40 @@
   },
   {
     "id": "fallback-omaha-hygiene",
-    "name": "Bio-Information Center - Restroom Access",
+    "name": "Omaha Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Omaha",
     "state": "NE",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 41.2664344,
-    "lng": -95.953708,
+    "hours": "Varies",
+    "lat": 41.2565,
+    "lng": -95.9345,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-omaha-library",
+    "name": "Omaha Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

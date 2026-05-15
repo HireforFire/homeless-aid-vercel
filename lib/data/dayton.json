@@ -228,301 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-368152415",
-    "name": "Electra C. Doren Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7786697,
-    "lng": -84.174662,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368152419",
-    "name": "Washington Township Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6247817,
-    "lng": -84.1638264,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368152748",
-    "name": "New Carlisle Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Lake Avenue 111",
-    "city": "New Carlisle",
-    "state": "OH",
-    "zip": "45344",
-    "phone": "(937) 845-3601",
-    "hours": "Mo-Th 09:30-20:30; Fr 09:30-18:00; Sa 10:00-18:00; Su off",
-    "lat": 39.9411895,
-    "lng": -84.0236674,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1729768622",
-    "name": "Huber Heights Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Brandt Pike 6243",
-    "city": "Huber Heights",
-    "state": "OH",
-    "zip": "45424",
-    "phone": "",
-    "hours": "Mo,Tu,Th 09:30-20:30; We,Fr,Sa 09:30-18:00",
-    "lat": 39.8425819,
-    "lng": -84.116893,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2423713327",
-    "name": "Winters-Bellbrook Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6359376,
-    "lng": -84.0728295,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13806684458",
-    "name": "Dayton Metro Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.8757694,
-    "lng": -84.3177259,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-61671615",
-    "name": "Paul Laurence Dunbar Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7825113,
-    "lng": -84.0616458,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-74473527",
-    "name": "Dayton Metro Library – Kettering–Moraine Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6968738,
-    "lng": -84.1687951,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-128532211",
-    "name": "Dayton Metro Library -Miami Township",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6274933,
-    "lng": -84.2211512,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-147840672",
-    "name": "Linden Heights Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Wyoming Street 2008",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "45410",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7462997,
-    "lng": -84.1541208,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6797375694",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7564681,
-    "lng": -84.1942362,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8942852260",
-    "name": "Saint Francis Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Wilmington Pike 2824",
-    "city": "Kettering",
-    "state": "OH",
-    "zip": "45429",
-    "phone": "(937) 294-1973",
-    "hours": "",
-    "lat": 39.7059798,
-    "lng": -84.139492,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13153266035",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Central Avenue 502",
-    "city": "Carlisle",
-    "state": "OH",
-    "zip": "45005",
-    "phone": "(937) 484-4577",
-    "hours": "Mo-Sa 08:00-21:00; Su 11:00-18:00",
-    "lat": 39.5793907,
-    "lng": -84.3117506,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-60956085",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6326406,
-    "lng": -84.2070203,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-81171877",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East Dorothy Lane 1970",
-    "city": "Kettering",
-    "state": "OH",
-    "zip": "45420",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7024016,
-    "lng": -84.1285087,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-dayton-shelter",
     "name": "Dayton Homeless Services Hotline",
     "category": "Shelter",
@@ -544,22 +249,40 @@
   },
   {
     "id": "fallback-dayton-hygiene",
-    "name": "Electra C. Doren Branch Library - Restroom Access",
+    "name": "Dayton Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Dayton",
     "state": "OH",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 39.7786697,
-    "lng": -84.174662,
+    "hours": "Varies",
+    "lat": 39.7589,
+    "lng": -84.1916,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-dayton-library",
+    "name": "Dayton Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 39.7589,
+    "lng": -84.1916,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

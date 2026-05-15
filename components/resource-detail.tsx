@@ -4,11 +4,19 @@ import { useEffect, useRef } from "react";
 import type { Resource } from "@/lib/types";
 
 function directionsUrl(r: Resource): string {
-  const addr = [r.address, r.city, r.state, r.zip].filter(Boolean).join(", ");
-  if (addr) {
-    return `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(addr)}`;
+  const validCoords = r.lat !== 0 || r.lng !== 0;
+  const fullAddr = [r.address, r.city, r.state, r.zip].filter(Boolean).join(", ");
+
+  if (fullAddr && r.address) {
+    return `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(fullAddr)}`;
   }
-  return `https://www.google.com/maps/dir/?api=1&destination=${r.lat},${r.lng}`;
+  if (validCoords) {
+    return `https://www.google.com/maps/dir/?api=1&destination=${r.lat},${r.lng}`;
+  }
+  if (fullAddr) {
+    return `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(fullAddr)}`;
+  }
+  return `https://www.google.com/maps/dir/?api=1&destination=United+States`;
 }
 
 export function ResourceDetail({
@@ -65,17 +73,21 @@ export function ResourceDetail({
           </button>
         </div>
 
-        <p className="mt-4 text-sm leading-6 text-slate-600">{resource.description}</p>
+        {resource.description ? (
+          <p className="mt-4 text-sm leading-6 text-slate-600">{resource.description}</p>
+        ) : null}
 
         <div className="mt-4 space-y-2 text-sm text-slate-700">
           <p className="flex items-start gap-2">
             <span className="mt-0.5 shrink-0 text-slate-400">📍</span>
-            <span>{resource.address}, {resource.city}, {resource.state} {resource.zip}</span>
+            <span>{[resource.address, resource.city, resource.state, resource.zip].filter(Boolean).join(", ")}</span>
           </p>
-          <p className="flex items-center gap-2">
-            <span className="shrink-0 text-slate-400">🕐</span>
-            <span>{resource.hours}</span>
-          </p>
+          {resource.hours ? (
+            <p className="flex items-center gap-2">
+              <span className="shrink-0 text-slate-400">🕐</span>
+              <span>{resource.hours}</span>
+            </p>
+          ) : null}
           {resource.phone ? (
             <p className="flex items-center gap-2">
               <span className="shrink-0 text-slate-400">📞</span>

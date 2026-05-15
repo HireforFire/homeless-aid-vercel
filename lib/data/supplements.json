@@ -146,5 +146,93 @@
       "tags": ["showers", "hygiene kits", "mail services"],
       "lastUpdated": "2026-05-14"
     }
+  ],
+  "gulfport": [
+    {
+      "id": "spl-gpt-salvation-army",
+      "name": "The Salvation Army Center of Hope",
+      "category": "Clothing & Supplies",
+      "description": "Clothing assistance, food pantry, and emergency shelter services.",
+      "address": "2019 22nd St", "city": "Gulfport", "state": "MS", "zip": "39501",
+      "phone": "(228) 374-8301", "hours": "Mon-Fri 8:30am-12pm, 1pm-3:30pm",
+      "lat": 30.3763, "lng": -89.0871,
+      "tags": ["clothing", "free", "thrift"], "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "spl-gpt-svdp",
+      "name": "St. Vincent de Paul St. John Conference",
+      "category": "Clothing & Supplies",
+      "description": "Clothing vouchers and material assistance.",
+      "address": "2414 17th St", "city": "Gulfport", "state": "MS", "zip": "39501",
+      "phone": "(228) 863-3354", "hours": "Tue & Thu by appointment",
+      "lat": 30.3726, "lng": -89.0912,
+      "tags": ["clothing", "free", "thrift"], "lastUpdated": "2026-05-14"
+    }
+  ],
+  "las-cruces": [
+    {
+      "id": "spl-lcr-salvation-army",
+      "name": "The Salvation Army Family Store & Service Center",
+      "category": "Clothing & Supplies",
+      "description": "Clothing vouchers for those in need; thrift store proceeds fund community services.",
+      "address": "220 E Idaho Ave", "city": "Las Cruces", "state": "NM", "zip": "88005",
+      "phone": "(575) 524-1590", "hours": "Mon-Sat 9am-5pm",
+      "lat": 32.3124, "lng": -106.7773,
+      "tags": ["clothing", "free", "thrift"], "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "spl-lcr-svdp",
+      "name": "St. Vincent de Paul Thrift Store & Voucher Program",
+      "category": "Clothing & Supplies",
+      "description": "Clothing vouchers for low-income families.",
+      "address": "125 E Idaho Ave", "city": "Las Cruces", "state": "NM", "zip": "88005",
+      "phone": "(575) 527-4041", "hours": "Mon-Sat 9am-5pm",
+      "lat": 32.3123, "lng": -106.7781,
+      "tags": ["clothing", "free", "thrift"], "lastUpdated": "2026-05-14"
+    }
+  ],
+  "montgomery": [
+    {
+      "id": "spl-mgm-salvation-army",
+      "name": "The Salvation Army — Family Services & Clothing Closet",
+      "category": "Clothing & Supplies",
+      "description": "Free clothing for job interviews, work, and school; food pantry and emergency shelter.",
+      "address": "900 Bell St", "city": "Montgomery", "state": "AL", "zip": "36104",
+      "phone": "(334) 265-0281", "hours": "Mon-Fri 9am-4pm",
+      "lat": 32.381, "lng": -86.32,
+      "tags": ["clothing", "free", "thrift"], "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "spl-mgm-goodwill",
+      "name": "Goodwill Store & Donation Center",
+      "category": "Clothing & Supplies",
+      "description": "Low-cost clothing and household goods; job training programs.",
+      "address": "900 Air Base Blvd", "city": "Montgomery", "state": "AL", "zip": "36108",
+      "phone": "(334) 263-4633", "hours": "Mon-Fri 7:30am-4:45pm, Sat 8:30am-4:45pm",
+      "lat": 32.3786, "lng": -86.3311,
+      "tags": ["clothing", "free", "thrift"], "lastUpdated": "2026-05-14"
+    }
+  ],
+  "sioux-falls": [
+    {
+      "id": "spl-sfx-goodwill",
+      "name": "Goodwill of the Great Plains Thrift Store",
+      "category": "Clothing & Supplies",
+      "description": "Affordable clothing, furniture, and household goods; proceeds fund job training.",
+      "address": "120 N Kiwanis Ave", "city": "Sioux Falls", "state": "SD", "zip": "57104",
+      "phone": "(605) 334-2028", "hours": "Mon-Sat 9am-8pm, Sun 12pm-6pm",
+      "lat": 43.547, "lng": -96.712,
+      "tags": ["clothing", "free", "thrift"], "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "spl-sfx-salvation-army",
+      "name": "The Salvation Army Corps Community Center",
+      "category": "Clothing & Supplies",
+      "description": "Family services with clothing assistance, food pantry, and rental/utility aid.",
+      "address": "900 N Cliff Ave", "city": "Sioux Falls", "state": "SD", "zip": "57103",
+      "phone": "(605) 332-2331", "hours": "Mon-Fri 1pm-4pm (appointment)",
+      "lat": 43.5538, "lng": -96.7125,
+      "tags": ["clothing", "free", "thrift"], "lastUpdated": "2026-05-14"
+    }
   ]
 }

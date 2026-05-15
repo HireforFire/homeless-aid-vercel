@@ -51,7 +51,9 @@ export function MapView({
         attribution: "&copy; <a href=\"https://openstreetmap.org/copyright\">OpenStreetMap</a>",
       }).addTo(map);
 
-      const markers: L.Marker[] = resources.map((r) => {
+      const markers: L.Marker[] = resources
+        .filter((r) => r.lat !== 0 || r.lng !== 0)
+        .map((r) => {
         const marker = L.marker([r.lat, r.lng]).addTo(map);
         marker.bindPopup(`<b>${r.name}</b><br/>${r.category}`);
         if (onSelect) {

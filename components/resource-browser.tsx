@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState, useEffect, useCallback } from "react";
+import { useMemo, useState, useEffect } from "react";
 import dynamic from "next/dynamic";
 import { categories } from "@/lib/types";
 import { ResourceCard } from "./resource-card";
@@ -24,27 +24,36 @@ export function ResourceBrowser({ region }: { region: string }) {
   const [selected, setSelected] = useState<Resource | null>(null);
   const [allResources, setAllResources] = useState<Resource[]>([]);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(false);
 
   useEffect(() => {
     setLoading(true);
+    setError(false);
     setAllResources([]);
     fetch(`/api/resources?region=${encodeURIComponent(region)}`)
-      .then((r) => r.json())
+      .then((r) => {
+        if (!r.ok) throw new Error("API error");
+        return r.json();
+      })
       .then((data) => {
         setAllResources(data.resources || []);
         setLoading(false);
       })
-      .catch(() => setLoading(false));
+      .catch(() => {
+        setError(true);
+        setLoading(false);
+      });
   }, [region]);
 
   const results = useMemo(() => {
-    const q = query.trim().toLowerCase();
+    const q = query.trim().toLowerCase().replace(/[-–—]/g, "");
     return allResources.filter((item) => {
       if (category !== "All" && item.category !== category) return false;
       if (!q) return true;
       const haystack = [item.name, item.category, item.description, item.address, item.city, item.state, item.zip, item.hours, ...item.tags]
         .join(" ")
-        .toLowerCase();
+        .toLowerCase()
+        .replace(/[-–—]/g, "");
       return haystack.includes(q);
     });
   }, [query, category, allResources]);
@@ -106,6 +115,10 @@ export function ResourceBrowser({ region }: { region: string }) {
         <div className="flex items-center justify-center py-12 text-slate-500">
           <div className="h-8 w-8 animate-spin rounded-full border-4 border-slate-200 border-t-slate-900" />
           <span className="ml-3">Loading resources...</span>
+        </div>
+      ) : error ? (
+        <div className="rounded-2xl border border-dashed border-red-300 bg-red-50 p-6 text-center text-red-700">
+          Could not load resources. The data source may be temporarily unavailable.
         </div>
       ) : (
         <div className="grid gap-4 md:grid-cols-2">

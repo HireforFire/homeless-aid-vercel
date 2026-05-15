@@ -62,9 +62,7 @@ export function RegionPicker({
             >
               <div className="flex-1">
                 <span className="font-medium">{r.name}</span>
-                <span className="ml-2 text-xs text-inherit opacity-60">
-                  {r.resourceCount} resources
-                </span>
+                <span className="ml-1 text-xs text-inherit opacity-60">{r.state}</span>
               </div>
             </button>
           ))}

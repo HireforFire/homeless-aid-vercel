@@ -30,13 +30,15 @@ export function ResourceCard({
         </span>
       </div>
 
-      <p className="mt-3 text-sm leading-6 text-slate-600">
-        {resource.description}
-      </p>
+      {resource.description ? (
+        <p className="mt-3 text-sm leading-6 text-slate-600">
+          {resource.description}
+        </p>
+      ) : null}
 
       <div className="mt-4 space-y-1 text-sm text-slate-700">
-        <p>{resource.address}</p>
-        <p>{resource.hours}</p>
+        {resource.address ? <p>{resource.address}</p> : null}
+        {resource.hours ? <p>{resource.hours}</p> : null}
         {resource.phone ? <p>{resource.phone}</p> : null}
       </div>
 

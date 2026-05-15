@@ -20,6 +20,12 @@ jobs:
       - name: Fetch fresh data from Feed America + OpenStreetMap
         run: node scripts/fetch-data.mjs
 
+      - name: Sync with latest remote commits
+        run: |
+          git config user.name "Aid Finder Bot"
+          git config user.email "bot@homeless-aid-finder.app"
+          git pull --rebase origin main
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Daily data refresh – updated city resources"

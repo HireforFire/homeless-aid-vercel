@@ -1,0 +1,715 @@
+[
+  {
+    "id": "fa-174976",
+    "name": "Hunger Solutions Minnesota - St Paul Office",
+    "category": "Food",
+    "description": "Main office location for Hunger Solutions Minnesota",
+    "address": "555 Park St UNIT 400",
+    "city": "St Paul",
+    "state": "MN",
+    "zip": "55103",
+    "phone": "(888) 711-1151",
+    "hours": "",
+    "lat": 44.9583828,
+    "lng": -93.1041407,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175804",
+    "name": "St. Paul Farmers Market",
+    "category": "Food",
+    "description": "Winter Farmers Market location",
+    "address": "290 5th St E",
+    "city": "St Paul",
+    "state": "MN",
+    "zip": "55101",
+    "phone": "",
+    "hours": "",
+    "lat": 44.949792923848,
+    "lng": -93.085508101194,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177560",
+    "name": "FOCUS House",
+    "category": "Food",
+    "description": "FOCUS House food shelf location",
+    "address": "550 Rice Street",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55103",
+    "phone": "",
+    "hours": "",
+    "lat": 44.958091594725,
+    "lng": -93.105682755404,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220378",
+    "name": "Dorothy Day",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "183 Old Sixth Street",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "55102",
+    "phone": "(612) 647-3244",
+    "hours": "",
+    "lat": 44.9465866,
+    "lng": -93.1012421,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220384",
+    "name": "Union Gospel Mission",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "435 University Ave E",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "55130",
+    "phone": "(651) 789-7595",
+    "hours": "",
+    "lat": 44.957943,
+    "lng": -93.0853653,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-450527",
+    "name": "Mt Airy",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (91 funded slots)",
+    "address": "91 Arch St E",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55130",
+    "phone": "(651) 228-3196",
+    "hours": "",
+    "lat": 44.960557,
+    "lng": -93.095681,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-177345",
+    "name": "St Paul Opportunity Center",
+    "category": "Food",
+    "description": "Community meal service location providing free meals including breakfast, lunch, and dinner.",
+    "address": "422 Dorothy Day Place",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55102",
+    "phone": "",
+    "hours": "",
+    "lat": 44.94686499934,
+    "lng": -93.101466825745,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181039",
+    "name": "Union Gospel Mission Twin Cities - St. Paul",
+    "category": "Food",
+    "description": "Main food shelf location in St. Paul.",
+    "address": "77 E 9th Street",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "55101",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9498176,
+    "lng": -93.0952825,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174710",
+    "name": "Faith Lutheran Church - Frogtown Neighborhood Mission of Faith",
+    "category": "Food",
+    "description": "Food pantry location operated by Faith Lutheran Church through the Frogtown Neighborhood Mission of Faith. Handicapped accessible.",
+    "address": "499 Charles Ave.",
+    "city": "St Paul",
+    "state": "MN",
+    "zip": "55103",
+    "phone": "(651) 227-5299",
+    "hours": "",
+    "lat": 44.9577299,
+    "lng": -93.1208675,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175954",
+    "name": "Shobis Table @ Frogtown – Faith Lutheran",
+    "category": "Food",
+    "description": "Pay-as-you-can food truck location serving fresh cooked lunches in St Paul",
+    "address": "499 Charles Avenue",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55101",
+    "phone": "",
+    "hours": "",
+    "lat": 44.957819476238,
+    "lng": -93.120366927758,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183456",
+    "name": "Loaves & Fishes at St. Matthews",
+    "category": "Food",
+    "description": "Free meal service location at St. Matthews Catholic Church",
+    "address": "510 Hall Ave",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "55107",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9306464,
+    "lng": -93.086366,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187217",
+    "name": "Fruit of the Vine St. Paul Food Shelf",
+    "category": "Food",
+    "description": "Food pantry location at 1280 Arcade St in St Paul, MN.",
+    "address": "1280 Arcade St",
+    "city": "St Paul",
+    "state": "MN",
+    "zip": "55106",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9798231,
+    "lng": -93.0653229,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-622232127",
+    "name": "3rd Street & Forest Street",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9568079,
+    "lng": -93.0607624,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-777793294",
+    "name": "Simpson Shelter (Temporary Location)",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "West 33rd Street 128",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55408",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9432571,
+    "lng": -93.2810618,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12214814765",
+    "name": "Rainbow Wardrobe",
+    "category": "Clothing & Supplies",
+    "description": "social_facility",
+    "address": "Harmon Place 1201",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55403",
+    "phone": "",
+    "hours": "Open house Sa[2] 14:00-16:00; Open house Thu 12:00-15:00; Appointment only Mo,We 12:00-20:00; Appointment only Tu,Th,Fr 09:00-16:00",
+    "lat": 44.9732447,
+    "lng": -93.2793572,
+    "tags": [
+      "clothing",
+      "free"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-136159841",
+    "name": "Joseph's Coat",
+    "category": "Clothing & Supplies",
+    "description": "social_facility",
+    "address": "7th Street West 1107",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55102",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9251748,
+    "lng": -93.1310452,
+    "tags": [
+      "clothing",
+      "free"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12162335487",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "55406",
+    "phone": "(612) 588-3820",
+    "hours": "Tu-Fr 10:00-18:00; Sa 10:00-16:00",
+    "lat": 44.9524772,
+    "lng": -93.2382559,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13613234019",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9485515,
+    "lng": -93.2507216,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-38452458",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "2500",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.0164589,
+    "lng": -93.1862955,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-56541498",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Goodwill Outlet Store",
+    "address": "Fairview Avenue North 553",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55104",
+    "phone": "(651) 379-5909",
+    "hours": "Mo-Fr 08:00-18:00; Sa 10:00-18:00; Su 10:00-18:00",
+    "lat": 44.9582941,
+    "lng": -93.1782321,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-101457925",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 44.8597351,
+    "lng": -93.2877927,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-102923895",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 44.8342088,
+    "lng": -92.9576026,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-126155382",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Nicollet Avenue South 6023",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55419",
+    "phone": "",
+    "hours": "",
+    "lat": 44.8934529,
+    "lng": -93.2777721,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-152586848",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "University Avenue West 1239",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55104",
+    "phone": "",
+    "hours": "",
+    "lat": 44.956055,
+    "lng": -93.1521845,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-350242403",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Northwood Parkway 1247",
+    "city": "Eagan",
+    "state": "MN",
+    "zip": "55121",
+    "phone": "",
+    "hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00",
+    "lat": 44.8376813,
+    "lng": -93.1555992,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-527080160",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Robert Street South 1361",
+    "city": "West St Paul",
+    "state": "MN",
+    "zip": "55118",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9044091,
+    "lng": -93.082165,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367063564",
+    "name": "Northtown Central Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "711 County Hwy 10 Frontage Rd",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "",
+    "phone": "(763) 324-1510",
+    "hours": "Mo, Th 11:00-19:00; Tu, We 10:00-18:00; Fr, Sa 10:00-17:00; Su 12:00-16:00",
+    "lat": 45.127,
+    "lng": -93.2528,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1326559673",
+    "name": "Highland Park Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 10:00-20:00; Fr,Sa 10:00-17:30; Su 13:00-17:00",
+    "lat": 44.9176417,
+    "lng": -93.1829884,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1627261032",
+    "name": "Hayden Heights Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9852668,
+    "lng": -93.0248041,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3197452546",
+    "name": "Saint Anthony Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Pentagon Drive 2941",
+    "city": "Saint Anthony",
+    "state": "MN",
+    "zip": "55418",
+    "phone": "",
+    "hours": "Mo-Tu 12:00-20:00; We-Sa 09:00-17:00",
+    "lat": 45.016008,
+    "lng": -93.2189996,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3258596409",
+    "name": "Arlington Hills Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 10:00-20:00; Fr,Sa 10:00-17:30; Su 13:00-17:00",
+    "lat": 44.9772721,
+    "lng": -93.0731955,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3898937438",
+    "name": "Seminary Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.0604712,
+    "lng": -93.1626904,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4412689928",
+    "name": "New Brighton Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "10th Street Northwest 400",
+    "city": "New Brighton",
+    "state": "MN",
+    "zip": "55112",
+    "phone": "",
+    "hours": "",
+    "lat": 45.066088,
+    "lng": -93.1907404,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6344104160",
+    "name": "Biomedical Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southeast Essex Street 505",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55455",
+    "phone": "(612) 626-4045",
+    "hours": "",
+    "lat": 44.9718343,
+    "lng": -93.2313247,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6344104161",
+    "name": "Wangensteen Historical Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southeast Essex Street 505",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55455",
+    "phone": "(612) 626-6881",
+    "hours": "Mo-Fr 09:00-16:30",
+    "lat": 44.971668,
+    "lng": -93.2315067,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6433139151",
+    "name": "University Archives",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "21st Avenue South 222",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55455",
+    "phone": "(612) 624-0562",
+    "hours": "Mo-Tu 08:30-16:30; We-Th 08:30-19:00; Fr 08:30-16:30",
+    "lat": 44.9732929,
+    "lng": -93.243081,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13631283072",
+    "name": "Watershed Spa",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "Southeast 2nd Street 514",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55414",
+    "phone": "(612) 331-4182",
+    "hours": "Mo-Su 09:00-23:00",
+    "lat": 44.9830368,
+    "lng": -93.2495555,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

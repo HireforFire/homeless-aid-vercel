@@ -1,0 +1,364 @@
+[
+  {
+    "id": "fa-176321",
+    "name": "Bismarck Emergency Food Pantry",
+    "category": "Food",
+    "description": "Emergency food pantry location in Bismarck, North Dakota",
+    "address": "220 W Front Ave",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504",
+    "phone": "",
+    "hours": "",
+    "lat": 46.804671886752,
+    "lng": -100.792621551451,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194233",
+    "name": "Welcome House",
+    "category": "Food",
+    "description": "Food pantry location serving Burleigh County residents and surrounding areas.",
+    "address": "617 N 17th St.",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58501",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8112019,
+    "lng": -100.7663168,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-219110",
+    "name": "Ruth Meiers Hospitality House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1800 E Broadway Ave",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58501",
+    "phone": "(701) 222-2108",
+    "hours": "",
+    "lat": 46.8062477,
+    "lng": -100.7648392,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224548",
+    "name": "The Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "601 S. Washington",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504",
+    "phone": "(701) 223-1889",
+    "hours": "",
+    "lat": 46.799736,
+    "lng": -100.794426,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-442541",
+    "name": "Richholt",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (119 funded slots)",
+    "address": "720 N 14th St",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58501",
+    "phone": "(701) 323-4400",
+    "hours": "",
+    "lat": 46.812647,
+    "lng": -100.771467,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-175387",
+    "name": "Ministry on the Margins",
+    "category": "Food",
+    "description": "Food distribution location in Bismarck",
+    "address": "201 North 24th Street",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58501",
+    "phone": "",
+    "hours": "",
+    "lat": 46.806297347325,
+    "lng": -100.755483517775,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175491",
+    "name": "Adopt-A-Block @ New Song Church parking lot",
+    "category": "Food",
+    "description": "Food distribution location at New Song Church parking lot in Bismarck.",
+    "address": "3200 N 11th St",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58503",
+    "phone": "",
+    "hours": "",
+    "lat": 46.841527869385,
+    "lng": -100.776450010378,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176214",
+    "name": "Wanna Wota Food Pantry – Sacred Pipe Resource Center",
+    "category": "Food",
+    "description": "Food pantry location operated by Great Plains Food Bank in Burleigh County.",
+    "address": "925 Basin Avenue, Suite #2",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504",
+    "phone": "",
+    "hours": "",
+    "lat": 46.786611022794,
+    "lng": -100.778024969985,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177244",
+    "name": "Comm. Action Program Reg. VII - Bismarck",
+    "category": "Food",
+    "description": "Community Action Program food distribution location in Bismarck",
+    "address": "2105 Lee Ave",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504",
+    "phone": "",
+    "hours": "",
+    "lat": 46.791768156361,
+    "lng": -100.758927557971,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190078",
+    "name": "Adopt-A-Block - Tatley Place",
+    "category": "Food",
+    "description": "Food pantry located at the corner of West London Ave. and Manchester St., south of Tatley Meadows. Handicapped accessible.",
+    "address": "Corner of West London Ave. & Manchester St.",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504",
+    "phone": "",
+    "hours": "",
+    "lat": 46.772953,
+    "lng": -100.7982447,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203234",
+    "name": "Dream Center Bismarck",
+    "category": "Food",
+    "description": "Main food pantry location providing walk-up food distribution services.",
+    "address": "1805 Park Ave",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504",
+    "phone": "",
+    "hours": "",
+    "lat": 46.7910901,
+    "lng": -100.765574,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205947",
+    "name": "Aid Inc Self Help Center - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located at Airport Road in Bismarck",
+    "address": "404 Airport Rd",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504",
+    "phone": "",
+    "hours": "",
+    "lat": 46.80149,
+    "lng": -100.763278,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-605170925",
+    "name": "Morton Mandan Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Main Street 609",
+    "city": "Mandan",
+    "state": "ND",
+    "zip": "58554",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8252286,
+    "lng": -100.897531,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-50266499",
+    "name": "North Dakota State Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Boulevard Avenue 604",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58505",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8192892,
+    "lng": -100.7812741,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-544782214",
+    "name": "Bismarck Veterans Memorial Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North 5th Street 515",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58501",
+    "phone": "(701) 355-1480",
+    "hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-18:00; Su 13:00-18:00",
+    "lat": 46.8100447,
+    "lng": -100.7836461,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-444211337",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South 3rd Street 421",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58501",
+    "phone": "(701) 222-7210",
+    "hours": "Mo-Sa 09:00-18:00; Su 12:00-17:00 open \"Store\" || Mo-Fr 09:00-16:00 open \"Donation\"",
+    "lat": 46.8013268,
+    "lng": -100.7872802,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-882342256",
+    "name": "Dakota Boys and Girls Ranch",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Interstate Ave 1335",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "",
+    "phone": "(701) 223-7979",
+    "hours": "Mo-Sa 10:00-18:00",
+    "lat": 46.8341135,
+    "lng": -100.7709895,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-bismarck-shelter",
+    "name": "Bismarck Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "address": "",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24/7",
+    "lat": 46.8083,
+    "lng": -100.7837,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-bismarck-hygiene",
+    "name": "Morton Mandan Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "West Main Street 609",
+    "city": "Mandan",
+    "state": "ND",
+    "zip": "58554",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8252286,
+    "lng": -100.897531,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

@@ -1,0 +1,661 @@
+[
+  {
+    "id": "fa-217220",
+    "name": "The Salvation Army - E Court Ave",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "211 E Court Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "(515) 243-4277",
+    "hours": "",
+    "lat": 41.58448,
+    "lng": -93.62152,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-457149",
+    "name": "Oak Academy",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (12 funded slots)",
+    "address": "1401 Center St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50314",
+    "phone": "(515) 244-7702",
+    "hours": "",
+    "lat": 41.593192,
+    "lng": -93.636262,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-184803",
+    "name": "Young Women's Resource Center",
+    "category": "Food",
+    "description": "Youth resource center location in Des Moines",
+    "address": "818 5th Avenue",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5926119,
+    "lng": -93.6248674,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185757",
+    "name": "YMCA Supportive Housing Campus",
+    "category": "Food",
+    "description": "YMCA Supportive Housing Campus facility",
+    "address": "2 SW 9th St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5823503,
+    "lng": -93.6279151,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188150",
+    "name": "Proteus Inc. Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Proteus Inc. in Des Moines, Iowa.",
+    "address": "1221 Center St Suite 16",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5919909,
+    "lng": -93.633457,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194310",
+    "name": "Community Kitchen",
+    "category": "Food",
+    "description": "Community Kitchen meal site located in Des Moines serving meals to the community.",
+    "address": "1420 Mulberry St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5824976,
+    "lng": -93.6343675,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194539",
+    "name": "True Vine HELPS",
+    "category": "Food",
+    "description": "True Vine HELPS food pantry location in Des Moines",
+    "address": "501 SE 4th St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5818915,
+    "lng": -93.6096512,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195273",
+    "name": "YSS - Iowa Homeless Youth Centers",
+    "category": "Food",
+    "description": "Multi-service center providing support to homeless youth in Des Moines",
+    "address": "612 Locust St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5863956,
+    "lng": -93.6256194,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193589",
+    "name": "Families Forward Bidwell Pantry",
+    "category": "Food",
+    "description": "Food Bank of Iowa member pantry location in Des Moines",
+    "address": "1203 Hartford Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50315",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5694962,
+    "lng": -93.5980629,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200660",
+    "name": "St. Vincent de Paul - North",
+    "category": "Food",
+    "description": "Food pantry location in Des Moines",
+    "address": "1426 6th Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50314",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6049929,
+    "lng": -93.6261735,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-223624",
+    "name": "Ruth Harbor",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "534 42nd Street",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50312",
+    "phone": "(515) 279-4661",
+    "hours": "",
+    "lat": 41.5860089,
+    "lng": -93.6747232,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224653",
+    "name": "Catholic Charities St. Mary",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1815 Hubbell Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50316",
+    "phone": "(515) 262-7290",
+    "hours": "",
+    "lat": 41.5959526,
+    "lng": -93.5856766,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-367083705",
+    "name": "Carlisle Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "School Street 135",
+    "city": "Carlisle",
+    "state": "IA",
+    "zip": "50047",
+    "phone": "",
+    "hours": "",
+    "lat": 41.4987854,
+    "lng": -93.4875119,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367084071",
+    "name": "Clive Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "",
+    "phone": "(515) 453-2221",
+    "hours": "",
+    "lat": 41.6092791,
+    "lng": -93.7758319,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367084080",
+    "name": "Polk City Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.7788845,
+    "lng": -93.7282588,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367084087",
+    "name": "Pleasant Hill City Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5976007,
+    "lng": -93.5149913,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6892912472",
+    "name": "Ankeny Kirkendall Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southwest District Drive 1250",
+    "city": "Ankeny",
+    "state": "IA",
+    "zip": "50023",
+    "phone": "(515) 965-6460",
+    "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-17:00; Su 13:00-17:00",
+    "lat": 41.7143022,
+    "lng": -93.616447,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9710346544",
+    "name": "Harbach Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo,We,Fr 14:00-18:00; Sa 10:00-14:00",
+    "lat": 41.6080334,
+    "lng": -93.7343062,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-46114198",
+    "name": "Des Moines Central Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Grand Avenue 1000",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "(515) 283-4152",
+    "hours": "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 10:00-17:00; Su 13:00-17:00",
+    "lat": 41.5861259,
+    "lng": -93.6311946,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-46595794",
+    "name": "Johnston Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Merle Hay Road 6700",
+    "city": "Johnston",
+    "state": "IA",
+    "zip": "50131",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6834738,
+    "lng": -93.7001264,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-66978770",
+    "name": "Urbandale Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "86th Street 3520",
+    "city": "Urbandale",
+    "state": "IA",
+    "zip": "50322",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6265873,
+    "lng": -93.738778,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-85319825",
+    "name": "North Side Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6273911,
+    "lng": -93.6238631,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-450422935",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Ankeny Boulevard 509",
+    "city": "Ankeny",
+    "state": "IA",
+    "zip": "50021",
+    "phone": "",
+    "hours": "Mo-Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 41.7359087,
+    "lng": -93.5993408,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1945333969",
+    "name": "HCI Giving Tree",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "100th Street 3330",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50322",
+    "phone": "",
+    "hours": "",
+    "lat": 41.625372,
+    "lng": -93.7566127,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3036360753",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Valley West Drive 1600",
+    "city": "West Des Moines",
+    "state": "IA",
+    "zip": "50266",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 00:00-17:00",
+    "lat": 41.5968835,
+    "lng": -93.7537212,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3364864197",
+    "name": "9 Lives Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Walnut Street 409",
+    "city": "West Des Moines",
+    "state": "IA",
+    "zip": "50265",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5740682,
+    "lng": -93.7080706,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3367240446",
+    "name": "C'est Bon",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Elm Street 510",
+    "city": "West Des Moines",
+    "state": "IA",
+    "zip": "50265",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5724001,
+    "lng": -93.7096635,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4702923870",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "University Avenue 9997",
+    "city": "Clive",
+    "state": "IA",
+    "zip": "50325",
+    "phone": "",
+    "hours": "",
+    "lat": 41.601872,
+    "lng": -93.7548874,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5157240056",
+    "name": "Many Hands Thrift Market",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Merle Hay Road 4353",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50310",
+    "phone": "",
+    "hours": "Mo-Fr 19:00-19:00; Sa 09:00-17:00; Su 13:00-17:00",
+    "lat": 41.6403969,
+    "lng": -93.69515,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5166531633",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6567862,
+    "lng": -93.7346404,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9836677190",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Court Avenue 211",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "(515) 243-4277",
+    "hours": "Mo-Sa 10:00-20:00",
+    "lat": 41.5864913,
+    "lng": -93.6138201,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-85318733",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6274449,
+    "lng": -93.6183505,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-des-moines-shelter",
+    "name": "Des Moines Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 41.5868,
+    "lng": -93.625,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-des-moines-hygiene",
+    "name": "Carlisle Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "School Street 135",
+    "city": "Carlisle",
+    "state": "IA",
+    "zip": "50047",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 41.4987854,
+    "lng": -93.4875119,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

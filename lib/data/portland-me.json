@@ -1,0 +1,717 @@
+[
+  {
+    "id": "fa-179259",
+    "name": "Catholic Charities Maine - Portland",
+    "category": "Food",
+    "description": "Main office and service location in Portland",
+    "address": "307 Congress St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6614733,
+    "lng": -70.2540763,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182203",
+    "name": "Sacred Heart Food Pantry - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Portland providing walk-up food pantry services.",
+    "address": "80 Sherman St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6554216,
+    "lng": -70.2695442,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191401",
+    "name": "Preble Street Teen Center",
+    "category": "Food",
+    "description": "Teen center located in Portland",
+    "address": "343 Cumberland Ave",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6579784,
+    "lng": -70.26169209999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220315",
+    "name": "The Salvation Army Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "297 Cumberland Avenue",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 774-4172",
+    "hours": "",
+    "lat": 43.6592522,
+    "lng": -70.2593536,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222202",
+    "name": "Preble Street Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "252 Oxford St.",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 775-0026",
+    "hours": "",
+    "lat": 43.6587181,
+    "lng": -70.2621613,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224701",
+    "name": "The Root Cellar - Portland",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "94 Washington Ave.",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 774-3197",
+    "hours": "",
+    "lat": 43.6661339,
+    "lng": -70.2528763,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-445387",
+    "name": "East End Child Development",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (15 funded slots)",
+    "address": "215 Congress St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 553-5950",
+    "hours": "",
+    "lat": 43.6634,
+    "lng": -70.250925,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-445388",
+    "name": "Bayside Anchor",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (15 funded slots)",
+    "address": "81 E Oxford St.",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 553-5943",
+    "hours": "",
+    "lat": 43.663164,
+    "lng": -70.255438,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-180940",
+    "name": "Sacred Heart / St. Dominic Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location in Portland",
+    "address": "80 Sherman St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.655433,
+    "lng": -70.269386,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181088",
+    "name": "The Opportunity Alliance - Portland",
+    "category": "Food",
+    "description": "Main location in Portland",
+    "address": "190 Lancaster St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6595982,
+    "lng": -70.2620239,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181751",
+    "name": "Wayside - Portland",
+    "category": "Food",
+    "description": "Walk-up food distribution location",
+    "address": "252 Oxford St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6588139,
+    "lng": -70.2620405,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184683",
+    "name": "Maine Needs - Portland",
+    "category": "Food",
+    "description": "Main location for food assistance services",
+    "address": "332 Forest Ave",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6631218,
+    "lng": -70.2730504,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-13157571485",
+    "name": "City Of Portland Homeless Shelter",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6985187,
+    "lng": -70.3266574,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-239102243",
+    "name": "Jordan Point Kiosk",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.4609423,
+    "lng": -70.3883302,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-333252993",
+    "name": "The Depot Pavilion",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "Thompsons Point Road 10",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04102",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6497491,
+    "lng": -70.2919362,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-344152554",
+    "name": "Rose Memorial Pavilion",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.4709057,
+    "lng": -70.3870773,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-401685978",
+    "name": "Preble Street - Joe Kreisler Teen Shelter",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Preble Street 38",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 775-0026",
+    "hours": "",
+    "lat": 43.6580716,
+    "lng": -70.2609788,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-340118767",
+    "name": "Reiche Branch - Portland Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6504105,
+    "lng": -70.2673406,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794746",
+    "name": "Maine Youth Center Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6377513,
+    "lng": -70.3080865,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794749",
+    "name": "Portland Public Library - Riverton Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Forest Avenue 1600",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04103",
+    "phone": "(207) 797-2915",
+    "hours": "",
+    "lat": 43.6953169,
+    "lng": -70.3097918,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794752",
+    "name": "Peaks Island Branch Portland Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Island Avenue 129",
+    "city": "Peaks Island",
+    "state": "ME",
+    "zip": "04108",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6582073,
+    "lng": -70.1983575,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794755",
+    "name": "General Theological Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6539711,
+    "lng": -70.2644927,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794763",
+    "name": "Maine Historical Society Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6570171,
+    "lng": -70.2602694,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794769",
+    "name": "Governor Baxter School for the Deaf Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6881373,
+    "lng": -70.2319926,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7170754030",
+    "name": "Abplanalp Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "College Street 52",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6836611,
+    "lng": -70.2962094,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7170754355",
+    "name": "Portland Library Annex",
+    "category": "Public Resources",
+    "description": "Normally not open to the public",
+    "address": "Riverside Street 1000",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.709035,
+    "lng": -70.3173274,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-150782526",
+    "name": "Merrill Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 215",
+    "city": "Yarmouth",
+    "state": "ME",
+    "zip": "04096",
+    "phone": "(207) 846-4763",
+    "hours": "",
+    "lat": 43.8012701,
+    "lng": -70.1871526,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5266755693",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.724482,
+    "lng": -70.2300172,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7175558360",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Sixth Street 6",
+    "city": "Old Orchard Beach",
+    "state": "ME",
+    "zip": "04064",
+    "phone": "",
+    "hours": "",
+    "lat": 43.511986,
+    "lng": -70.3859612,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7188490735",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Market Street 50",
+    "city": "South Portland",
+    "state": "ME",
+    "zip": "04106",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6352145,
+    "lng": -70.2538866,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7223560156",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Landing Road 31",
+    "city": "Windham",
+    "state": "ME",
+    "zip": "04062",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 09:00-19:00",
+    "lat": 43.8396227,
+    "lng": -70.4463741,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-394959248",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Main Street 108",
+    "city": "Gorham",
+    "state": "ME",
+    "zip": "04038",
+    "phone": "",
+    "hours": "",
+    "lat": 43.681933,
+    "lng": -70.4396195,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-414498812",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Warren Avenue 30",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6884711,
+    "lng": -70.2968916,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-465374097",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Larrabee Road 200",
+    "city": "Westbrook",
+    "state": "ME",
+    "zip": "04092",
+    "phone": "(207) 887-8330",
+    "hours": "",
+    "lat": 43.6812401,
+    "lng": -70.3333919,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-559842420",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Maine Mall Road 555",
+    "city": "South Portland",
+    "state": "ME",
+    "zip": "04106",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 43.6294057,
+    "lng": -70.3437791,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-821258867",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Warren Avenue 659",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04103",
+    "phone": "(207) 221-0047",
+    "hours": "Tu-Sa 09:00-17:00",
+    "lat": 43.6868256,
+    "lng": -70.3279902,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-portland-me-hygiene",
+    "name": "Reiche Branch - Portland Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 43.6504105,
+    "lng": -70.2673406,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

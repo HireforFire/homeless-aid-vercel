@@ -1,0 +1,562 @@
+[
+  {
+    "id": "fa-173666",
+    "name": "Let's Help Inc. - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Topeka, Kansas.",
+    "address": "200 S Kansas Ave",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66603",
+    "phone": "(785) 270-5238",
+    "hours": "",
+    "lat": 39.0569638,
+    "lng": -95.67075489999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175370",
+    "name": "West Side Baptist Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at West Side Baptist Church. Line up on 4th Street only.",
+    "address": "1008 SW 4th St",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66606",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0582111846,
+    "lng": -95.685279674681,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176126",
+    "name": "Boys & Girls Club Teen Center",
+    "category": "Food",
+    "description": "Food pantry distribution location at Boys & Girls Club Teen Center",
+    "address": "1112 SE 10th Ave",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66607",
+    "phone": "",
+    "hours": "",
+    "lat": 39.044757391813,
+    "lng": -95.660642159945,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177593",
+    "name": "Saint Johns African Methodist Episcopal Church",
+    "category": "Food",
+    "description": "Food distribution location operated by Saint Johns African Methodist Episcopal Church in partnership with Harvesters - The Community Food Network.",
+    "address": "701 SW Topeka Blvd",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66603",
+    "phone": "",
+    "hours": "",
+    "lat": 39.051685160516,
+    "lng": -95.680154643804,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177604",
+    "name": "Antioch Missionary Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Antioch Missionary Baptist Church.",
+    "address": "1100 SE Washington Street",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66607",
+    "phone": "",
+    "hours": "",
+    "lat": 39.042374500559,
+    "lng": -95.665350777873,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177936",
+    "name": "Fellowship and Faith Ministry, Inc",
+    "category": "Food",
+    "description": "Main location of Fellowship and Faith Ministry, Inc",
+    "address": "708 Southeast Lime Street",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66607",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0457818,
+    "lng": -95.6583556,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178356",
+    "name": "First Presbyterian Church",
+    "category": "Food",
+    "description": "Food distribution location at First Presbyterian Church",
+    "address": "817 SW Harrison St",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66612",
+    "phone": "",
+    "hours": "",
+    "lat": 39.049235842679,
+    "lng": -95.679545614719,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202164",
+    "name": "Grace Episcopal Cathedral Sack Lunches - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located at Grace Episcopal Cathedral in Topeka, Kansas.",
+    "address": "701 SW 8th Ave",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66612",
+    "phone": "",
+    "hours": "",
+    "lat": 39.050735499999995,
+    "lng": -95.68379759999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-222440",
+    "name": "New Hope Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "404 SW Polk",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66603",
+    "phone": "(785) 249-8283",
+    "hours": "",
+    "lat": 39.0563316,
+    "lng": -95.6803131,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-216525",
+    "name": "The Salvation Army - Se 6Th St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1320 SE 6th St",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66601",
+    "phone": "(785) 233-9648",
+    "hours": "",
+    "lat": 39.05711,
+    "lng": -95.67655,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-174071",
+    "name": "Fellowship and Faith",
+    "category": "Food",
+    "description": "Food distribution location in Topeka.",
+    "address": "708 SE. Lime St.",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66607",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0457141,
+    "lng": -95.6581608,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177840",
+    "name": "New Life Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "Topeka Turnaround Team",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66603",
+    "phone": "",
+    "hours": "",
+    "lat": 39.050976,
+    "lng": -95.670433,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-way-194761260",
+    "name": "Lake Shawnee Park Shelter 3",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "Southeast Memory Point 3916",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66609",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9965257,
+    "lng": -95.632815,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-194761262",
+    "name": "Lake Shawnee Park Gazebo 2",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9980164,
+    "lng": -95.6316341,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-200759710",
+    "name": "Lake Shawnee Park Shelter 5",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.008595,
+    "lng": -95.622836,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-200759715",
+    "name": "Lake Shawnee Park Shelter 6",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "Southeast East Edge Road 3521",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66605",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0015026,
+    "lng": -95.6243554,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-200759717",
+    "name": "Lake Shawnee Park Shelter 4",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0100267,
+    "lng": -95.6227248,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366764177",
+    "name": "Meriden Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.19057,
+    "lng": -95.568707,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366764219",
+    "name": "Stauffer Health Sciences Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66606",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0526376,
+    "lng": -95.6956111,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366764241",
+    "name": "Kansas State Archives and Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southwest 6th Avenue 6425",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66606",
+    "phone": "",
+    "hours": "",
+    "lat": 39.056223,
+    "lng": -95.775855,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1044605165",
+    "name": "Auburn Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.909803,
+    "lng": -95.8166503,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9342284717",
+    "name": "Meriden-Ozawkie Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1775823,
+    "lng": -95.5694198,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-194774498",
+    "name": "Mabee Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southwest 19th Street 1800",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66621",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0337334,
+    "lng": -95.702232,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-194789681",
+    "name": "Topeka and Shawnee County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southwest 10th Avenue 1515",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66604",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0507697,
+    "lng": -95.6965644,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9377389473",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southwest 21st Street 5515",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66604",
+    "phone": "(785) 228-9774",
+    "hours": "10:00-20:00",
+    "lat": 39.0285348,
+    "lng": -95.7486426,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-197843306",
+    "name": "Topeka Rescue Mission Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Kansas Avenue 1312",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66608",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0733203,
+    "lng": -95.6637309,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-204007805",
+    "name": "Maj-r thrift",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Northwest Topeka Boulevard 2020",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66608",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 39.0859108,
+    "lng": -95.6625461,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-204197380",
+    "name": "God's Storehouse",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southwest Chelsea Drive 2111",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66614",
+    "phone": "(785) 608-6743",
+    "hours": "Mo-Fr 09:00-19:00; Sa 10:00-19:00",
+    "lat": 39.0282589,
+    "lng": -95.7492137,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-topeka-hygiene",
+    "name": "Meriden Community Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 39.19057,
+    "lng": -95.568707,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

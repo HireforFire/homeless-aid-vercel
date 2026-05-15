@@ -1,0 +1,648 @@
+[
+  {
+    "id": "fa-182596",
+    "name": "Aurora Center for Active Adults",
+    "category": "Food",
+    "description": "Food pantry location at Aurora Center for Active Adults providing food assistance services.",
+    "address": "30 Del Mar Cir",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80011",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7249735,
+    "lng": -104.8492014,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-445512",
+    "name": "Paris Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (10 funded slots)",
+    "address": "12001 E 13th Ave",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "(303) 344-8225",
+    "hours": "",
+    "lat": 39.736729,
+    "lng": -104.848791,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-216147",
+    "name": "Project Worthmore",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1666 Elmira St.",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "(720) 460-1393",
+    "hours": "",
+    "lat": 39.743534,
+    "lng": -104.872696,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-172141",
+    "name": "Food Connect Colorado",
+    "category": "Food",
+    "description": "Food Connect Colorado food pantry location in Aurora, Colorado. Shopping is by appointment only with reservations made online at foodconnectcolorado.org.",
+    "address": "12455 E Mississippi Ave Suite 101",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80012",
+    "phone": "",
+    "hours": "",
+    "lat": 39.6979375,
+    "lng": -104.8442336,
+    "tags": [
+      "food pantry",
+      "appointment"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173017",
+    "name": "Aurora Interfaith Task Force",
+    "category": "Food",
+    "description": "Food pantry location in Aurora, Colorado",
+    "address": "1553 Clinton St",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "(303) 360-0260",
+    "hours": "",
+    "lat": 39.741211,
+    "lng": -104.8779197,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180721",
+    "name": "Centro Nueva Iglesia Apostolic",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "242 Havana St unit a",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7196731,
+    "lng": -104.8643646,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185106",
+    "name": "Catholic Charities Little Flower",
+    "category": "Food",
+    "description": "Food pantry and meal program location",
+    "address": "11149 E. 14th Ave.",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7384753,
+    "lng": -104.8579355,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185366",
+    "name": "Restoration Christian Fellowship",
+    "category": "Food",
+    "description": "Food Bank of the Rockies Mobile Pantry distribution site at Restoration Christian Fellowship in Aurora, Colorado.",
+    "address": "15640 E 6th Ave",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80011",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7253882,
+    "lng": -104.8050595,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202062",
+    "name": "Operation Walker Run",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "50 S. Havana Street",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80012",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7159957,
+    "lng": -104.8634464,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210120",
+    "name": "Food Connect Colorado - Aurora",
+    "category": "Food",
+    "description": "Food Connect Colorado distribution location in Aurora, Colorado",
+    "address": "12455 E Mississippi Ave #101",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80012",
+    "phone": "",
+    "hours": "",
+    "lat": 39.697804,
+    "lng": -104.8442367,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210624",
+    "name": "St. Therese Catholic Church - SVDP",
+    "category": "Food",
+    "description": "St. Therese Catholic Church's Society of St. Vincent de Paul food pantry location in Aurora, Colorado.",
+    "address": "1243 Kingston St.",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7361138,
+    "lng": -104.859554,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216036",
+    "name": "We Don't Waste - Mobile Food Market - North Middle School",
+    "category": "Food",
+    "description": "Free mobile pantry providing food assistance.",
+    "address": "12095 E Montview Blvd",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "(720) 943-2699",
+    "hours": "",
+    "lat": 39.748528,
+    "lng": -104.848183,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-1705214239",
+    "name": "Samaritan House Catholic Charities",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Lawrence Street 2301",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80205",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7555773,
+    "lng": -104.9881964,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395545",
+    "name": "Park Hill Branch Denver Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Montview Boulevard 4705",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80207",
+    "phone": "(720) 865-0250",
+    "hours": "",
+    "lat": 39.747828,
+    "lng": -104.932543,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395652",
+    "name": "Martin Luther King Junior Branch Aurora Public Library",
+    "category": "Public Resources",
+    "description": "Also moved this closer to entrance.",
+    "address": "East Colfax Avenue 9898",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "(303) 739-1940",
+    "hours": "",
+    "lat": 39.7396593,
+    "lng": -104.873538,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395669",
+    "name": "Elyria Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7822222,
+    "lng": -104.9641667,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395675",
+    "name": "Eugene Field Branch Denver Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7016873,
+    "lng": -104.958972,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395699",
+    "name": "Ross-Cherry Creek Branch Denver Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7212328,
+    "lng": -104.9525426,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395711",
+    "name": "Ross-University Hills Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Amherst Avenue 4310",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80222",
+    "phone": "(720) 865-0955",
+    "hours": "",
+    "lat": 39.6652172,
+    "lng": -104.9374,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-672563777",
+    "name": "Blair-CaldwellAfrican American Research Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Welton Street 2401",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80205",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7524337,
+    "lng": -104.9815326,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-983950311",
+    "name": "Denver Public Library Hampden Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Girard Avenue",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80231",
+    "phone": "(720) 865-0185",
+    "hours": "Mo,Tu,Th 09:00-18:00; We 09:00-20:00; Fr-Su 10:00-17:00",
+    "lat": 39.6546679,
+    "lng": -104.87476,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1314743958",
+    "name": "Tallyn's Reach Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Arapahoe Road 23911",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80016",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5897815,
+    "lng": -104.708756,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2039387071",
+    "name": "Athmar Park Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Tejon Street 1055",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80223",
+    "phone": "(720) 865-0230",
+    "hours": "Mo, We-Th 10:00-18:00; Tu 10:00-20:00; Fr-Sa 10:00-17:00",
+    "lat": 39.6970811,
+    "lng": -105.0136056,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2925541670",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Abilene Street 1640",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80012",
+    "phone": "(720) 904-6739",
+    "hours": "Mo-Su 10:00-18:00",
+    "lat": 39.6876764,
+    "lng": -104.8278014,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3450087834",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Iliff Avenue 7485",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80231",
+    "phone": "(303) 752-2731",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.6760824,
+    "lng": -104.901202,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3540545653",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Sable Boulevard 1070",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80012",
+    "phone": "(303) 369-5858",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.6976376,
+    "lng": -104.817289,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3726065078",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Donations only, no retail.",
+    "address": "East Smoky Hill Road 22880",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80016",
+    "phone": "",
+    "hours": "Mo-Su off",
+    "lat": 39.6007545,
+    "lng": -104.721552,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4110985190",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00",
+    "lat": 39.7077032,
+    "lng": -104.929289,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4168517908",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Parker Road 3106",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80014",
+    "phone": "(303) 283-0337",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.6609881,
+    "lng": -104.8525817,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4889018564",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Cortez Street 1405",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80221",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.8316775,
+    "lng": -105.003795,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5648659718",
+    "name": "Goodwill Donation Center",
+    "category": "Clothing & Supplies",
+    "description": "Donations only, no retail.",
+    "address": "South University Boulevard 9579",
+    "city": "Highlands Ranch",
+    "state": "CO",
+    "zip": "80126",
+    "phone": "(303) 470-2915",
+    "hours": "Mo-Su 09:00-17:00",
+    "lat": 39.5417124,
+    "lng": -104.940786,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5850648319",
+    "name": "Assistance League Denver Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Evans Avenue 6265",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80222",
+    "phone": "(303) 861-2122",
+    "hours": "Mo-Fr 10:00-18:00, Sa 10:00-17:00, Su closed",
+    "lat": 39.678862,
+    "lng": -104.9159105,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6422228794",
+    "name": "Goodwill Outlet World",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Kearney Street 4355",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80216",
+    "phone": "",
+    "hours": "Mo-Sa 08:00-20:00; Su 09:00-18:00",
+    "lat": 39.7769736,
+    "lng": -104.9182244,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-aurora-co-hygiene",
+    "name": "Park Hill Branch Denver Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "East Montview Boulevard 4705",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80207",
+    "phone": "",
+    "hours": "",
+    "lat": 39.747828,
+    "lng": -104.932543,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

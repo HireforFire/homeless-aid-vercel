@@ -1,0 +1,661 @@
+[
+  {
+    "id": "fa-173341",
+    "name": "Frenchtown Neighborhood Improvement Association",
+    "category": "Food",
+    "description": "Hot/Cold Meal Program distribution location",
+    "address": "524 N MLK Blvd.",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 577-1615",
+    "hours": "",
+    "lat": 30.4477499,
+    "lng": -84.2858738,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200038",
+    "name": "THE PLANT",
+    "category": "Food",
+    "description": "Community arts center with sidewalk food pantry and indoor free clothes and food",
+    "address": "517 West Gaines Street",
+    "city": "All Saints",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4352967,
+    "lng": -84.2892081,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204157",
+    "name": "Bond Community Health Center",
+    "category": "Food",
+    "description": "Bond Community Health Center located in Tallahassee, providing food distribution and healthcare services.",
+    "address": "1720 S Gadsden St",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4252077,
+    "lng": -84.2786559,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-221051",
+    "name": "ECHO",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1707 South Gadsden Street",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 224-3246",
+    "hours": "",
+    "lat": 30.4257984,
+    "lng": -84.2779312,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-449273",
+    "name": "Brandon's Place at Lincoln",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (32 funded slots)",
+    "address": "438 W Brevard St",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 414-9815",
+    "hours": "",
+    "lat": 30.450208,
+    "lng": -84.287618,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-193058",
+    "name": "ALARM International Church",
+    "category": "Food",
+    "description": "ALARM International Church food pantry location",
+    "address": "2532 W. Tharpe St.",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32303",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4381828,
+    "lng": -84.2806235,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172567",
+    "name": "Salvation Army - Tallahassee",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "2410 Allen Rd",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32302",
+    "phone": "(850) 222-0304",
+    "hours": "",
+    "lat": 30.47649066,
+    "lng": -84.29489346,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175259",
+    "name": "Little Sunshine Pantries",
+    "category": "Food",
+    "description": "Food distribution location affiliated with Second Harvest of the Big Bend",
+    "address": "631 W. 8th Ave",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 270-8240",
+    "hours": "",
+    "lat": 30.458382,
+    "lng": -84.2906653,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179455",
+    "name": "Fairview Middle School",
+    "category": "Food",
+    "description": "Food distribution location at Fairview Middle School",
+    "address": "3415 Zillah Street",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32305",
+    "phone": "",
+    "hours": "",
+    "lat": 30.39884,
+    "lng": -84.2677,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181813",
+    "name": "Life Deliverance Ministries",
+    "category": "Food",
+    "description": "Food distribution location for Life Deliverance Ministries, affiliated with Second Harvest of the Big Bend food bank network.",
+    "address": "3377 Jim Lee Road",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4012489,
+    "lng": -84.2637558,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190183",
+    "name": "Greater Love COGIC",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "524 East Orange Ave",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4129543,
+    "lng": -84.2744193,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191689",
+    "name": "Good Samaritan Network - Tallahassee",
+    "category": "Food",
+    "description": "Main food distribution location offering indoor service with air conditioning. Provides TEFAP program services.",
+    "address": "2706 N Monroe St",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32303",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4779684,
+    "lng": -84.3002555,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-367824674",
+    "name": "State Library of Florida",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Bronough Street 500",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32399",
+    "phone": "(850) 245-6688",
+    "hours": "",
+    "lat": 30.4383792,
+    "lng": -84.2849533,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2687918447",
+    "name": "Warren D. Allen Music Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Copeland Street 122",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32306",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4428395,
+    "lng": -84.2917205,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11990370736",
+    "name": "State Archives of Florida",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Bronough Street 500",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32399",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4378591,
+    "lng": -84.2849388,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12550200644",
+    "name": "Dirac Science Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4450146,
+    "lng": -84.2999491,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-92275332",
+    "name": "Leroy Collins Leon County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Park Avenue 200",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 606-2665",
+    "hours": "Mo-Fr 10:00-21:00; Fr 10:00-18:00; Sa 10:00-17:00; Su 13:00-18:00",
+    "lat": 30.4426001,
+    "lng": -84.2837511,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-106455325",
+    "name": "Robert Manning Strozier Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4431544,
+    "lng": -84.295013,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-115687655",
+    "name": "Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4391703,
+    "lng": -84.2874872,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-127094931",
+    "name": "Claude Pepper Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Call Street 636",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32304",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4439208,
+    "lng": -84.2927787,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-145011164",
+    "name": "Woodville Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Old Woodville Road 8000",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32305-1105",
+    "phone": "(850) 606-2925",
+    "hours": "",
+    "lat": 30.3316589,
+    "lng": -84.2530083,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-180406588",
+    "name": "S.H. Coleman Library",
+    "category": "Public Resources",
+    "description": "The main library for Florida A&M University.",
+    "address": "Orr Drive 525",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4268315,
+    "lng": -84.2874259,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3075634147",
+    "name": "Thrifting For Animals and Children",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Monroe Street 3345",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4898572,
+    "lng": -84.3216465,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4247581190",
+    "name": "Teen Challenge Super Thrift",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Tennessee Street 2645",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32304",
+    "phone": "",
+    "hours": "",
+    "lat": 30.451948,
+    "lng": -84.3369136,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5794595157",
+    "name": "Lighthouse Children's Home",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4874948,
+    "lng": -84.1467334,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-196982841",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "(850) 308-5925",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 30.4389928,
+    "lng": -84.3281794,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-230500542",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "(850) 466-9013",
+    "hours": "Mo 08:45-20:00; Tu-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 30.4757141,
+    "lng": -84.2971563,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-319122922",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "(850) 470-1040",
+    "hours": "Mo-Su 08:00-18:00",
+    "lat": 30.4479854,
+    "lng": -84.2622017,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-401611629",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "(850) 332-0982",
+    "hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
+    "lat": 30.4667235,
+    "lng": -84.2678701,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-406432630",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Capital Circle Northeast 2728",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32308",
+    "phone": "(850) 480-0229",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 30.4881293,
+    "lng": -84.240432,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-418850294",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Apalachee Parkway 2309",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 634-0023",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 30.4291057,
+    "lng": -84.2433256,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-546693283",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "(850) 470-1011",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 30.440642,
+    "lng": -84.3283678,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-tallahassee-shelter",
+    "name": "Tallahassee Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 30.4383,
+    "lng": -84.2807,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-tallahassee-hygiene",
+    "name": "State Library of Florida - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "South Bronough Street 500",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32399",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 30.4383792,
+    "lng": -84.2849533,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

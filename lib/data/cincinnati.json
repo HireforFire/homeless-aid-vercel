@@ -1,0 +1,736 @@
+[
+  {
+    "id": "fa-175693",
+    "name": "Jerriel Baptist Church",
+    "category": "Food",
+    "description": "Food assistance distribution location at Jerriel Baptist Church.",
+    "address": "1018 Wesley Avenue",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45203",
+    "phone": "",
+    "hours": "",
+    "lat": 39.105946123184,
+    "lng": -84.524325991294,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175913",
+    "name": "St. Francis St. Joseph Catholic Worker House",
+    "category": "Food",
+    "description": "Main food assistance distribution location",
+    "address": "1437 Walnut Street",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.112292229716,
+    "lng": -84.514357645304,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176113",
+    "name": "Salvation Army: Department of Social Ministries",
+    "category": "Food",
+    "description": "Salvation Army Department of Social Ministries location providing food assistance",
+    "address": "120 East Central Parkway",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.107803762475,
+    "lng": -84.511834776267,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177874",
+    "name": "Prince of Peace Lutheran Church",
+    "category": "Food",
+    "description": "Food assistance distribution location",
+    "address": "1528 Race St",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.112408360984,
+    "lng": -84.517264908421,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218884",
+    "name": "5000 Club",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "318 East Fourth Street",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "(513) 260-9185",
+    "hours": "",
+    "lat": 39.1009216,
+    "lng": -84.5074463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219663",
+    "name": "First Lutheran Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1208 Race St.",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "(513) 421-0065",
+    "hours": "",
+    "lat": 39.1085739,
+    "lng": -84.5162277,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221056",
+    "name": "Children, Inc. dba VISIONS Early Learning Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "425 Ezzard Charles Drive",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45203",
+    "phone": "(513) 651-2229",
+    "hours": "",
+    "lat": 39.1086578,
+    "lng": -84.5221252,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221902",
+    "name": "West End Emergency Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "727 Ezzard Charles Dr",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45203",
+    "phone": "(513) 381-5882",
+    "hours": "",
+    "lat": 39.1091995,
+    "lng": -84.5265121,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224290",
+    "name": "TSA Emergency Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "131 E. 12th St.",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "(513) 762-5600",
+    "hours": "",
+    "lat": 39.10849,
+    "lng": -84.5122299,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-449171",
+    "name": "Theodore M. Berry Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (68 funded slots)",
+    "address": "880 W Court St",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45203",
+    "phone": "(513) 569-0123",
+    "hours": "",
+    "lat": 39.106376,
+    "lng": -84.529227,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-449190",
+    "name": "Rothenberg Preparatory Academy",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (36 funded slots)",
+    "address": "241 E Clifton Ave",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "(513) 363-5700",
+    "hours": "",
+    "lat": 39.113911,
+    "lng": -84.512731,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-449207",
+    "name": "Hays-Porter School",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
+    "address": "1030 Cutter St",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45203",
+    "phone": "(513) 363-1000",
+    "hours": "",
+    "lat": 39.105861,
+    "lng": -84.525588,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "osm-node-2417988402",
+    "name": "Dixie @ Gateway Steps",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0720329,
+    "lng": -84.5256494,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3302684712",
+    "name": "Kenton Dr & Grant Dr",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0297989,
+    "lng": -84.4669652,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3325594256",
+    "name": "Montgomery Rd & Sherman Ave",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1601055,
+    "lng": -84.456282,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3683201834",
+    "name": "Cottonwood Meadow",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2545068,
+    "lng": -84.5378228,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-53335109",
+    "name": "Mary Magdalen House",
+    "category": "Clothing & Supplies",
+    "description": "social_facility",
+    "address": "Republic Street 1629",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "(513) 721-4811",
+    "hours": "Mo-Fr 08:30-16:00; Sa 08:30-12:00",
+    "lat": 39.1137699,
+    "lng": -84.5171768,
+    "tags": [
+      "clothing",
+      "free"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-615123421",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1104759,
+    "lng": -84.5728243,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2875324020",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Donnermeyer Drive 15",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "41073",
+    "phone": "(859) 291-1333",
+    "hours": "Mo-Su 10:00-18:00",
+    "lat": 39.0990023,
+    "lng": -84.4839635,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6919300356",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2216852,
+    "lng": -84.5877411,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8450339753",
+    "name": "Habitat for Humanity",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0986489,
+    "lng": -84.4845302,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10078985779",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Alexandria Pike 3970",
+    "city": "Cold Spring",
+    "state": "KY",
+    "zip": "41076",
+    "phone": "(859) 572-2640",
+    "hours": "Mo-Sa 10:00-19:00; Su 12:00-18:00",
+    "lat": 39.0236577,
+    "lng": -84.4430074,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11992665553",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9441987,
+    "lng": -84.5100144,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13048506403",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Turfway Road 7110",
+    "city": "Florence",
+    "state": "KY",
+    "zip": "41042",
+    "phone": "",
+    "hours": "Mo-Sa 10:00-19:00",
+    "lat": 39.0057442,
+    "lng": -84.6208612,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13048529270",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Turfway Road 7102",
+    "city": "Florence",
+    "state": "KY",
+    "zip": "41042",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0053778,
+    "lng": -84.6205624,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-39242480",
+    "name": "Goodwill Montgomery Boutique",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Montgomery Road 9820",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45242",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2345968,
+    "lng": -84.3507115,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-41934174",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2282034,
+    "lng": -84.377058,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368152949",
+    "name": "Mercantile Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Walnut Street 414",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1006371,
+    "lng": -84.5109365,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368153328",
+    "name": "John H. Holmes Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1181147,
+    "lng": -84.6043893,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368153330",
+    "name": "Cincinnati Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1074657,
+    "lng": -84.5102903,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2406030524",
+    "name": "CECH Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "University Circle 2610",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1301685,
+    "lng": -84.5197135,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2406031240",
+    "name": "Geology-Mathematics-Physics Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1329901,
+    "lng": -84.518251,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2457528975",
+    "name": "DAAP Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1344516,
+    "lng": -84.5192644,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3358836528",
+    "name": "College of Engineering & Applied Science Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1330016,
+    "lng": -84.5167741,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4455960090",
+    "name": "Greenhills Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2671483,
+    "lng": -84.5207604,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6632342675",
+    "name": "Chemistry-Biology Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1339696,
+    "lng": -84.5167116,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6702739768",
+    "name": "Elmwood Place Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Vine Street 6118",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1869982,
+    "lng": -84.4875335,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-cincinnati-hygiene",
+    "name": "Mercantile Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Walnut Street 414",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 39.1006371,
+    "lng": -84.5109365,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

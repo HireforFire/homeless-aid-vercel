@@ -1,0 +1,659 @@
+[
+  {
+    "id": "fa-173441",
+    "name": "The Salvation Army - Lancaster (Mabee Social Services Center)",
+    "category": "Food",
+    "description": "Mabee Social Services Center location providing food pantry and daily meals for homeless.",
+    "address": "1855 E. Lancaster Ave.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76103",
+    "phone": "(817) 344-1800",
+    "hours": "",
+    "lat": 32.7467667,
+    "lng": -97.3012881,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184535",
+    "name": "Bread Basket",
+    "category": "Food",
+    "description": "Bread Basket food distribution location",
+    "address": "2809 Mansfield Hwy",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76119",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7465982,
+    "lng": -97.3291991,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192759",
+    "name": "First Street Methodist Mission",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "801 W 1st Street",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76102",
+    "phone": "",
+    "hours": "",
+    "lat": 32.75234,
+    "lng": -97.33632,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196565",
+    "name": "New Hope Fellowship Mobile - 6410 South Fwy",
+    "category": "Food",
+    "description": "Mobile food pantry location operated by New Hope Fellowship in collaboration with Iglesia Centro Familiar Cristiano",
+    "address": "4928 Miller Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76119",
+    "phone": "",
+    "hours": "",
+    "lat": 32.75549,
+    "lng": -97.33077,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-213760",
+    "name": "Broadway Baptist Church",
+    "category": "Food",
+    "description": "Main location of Broadway Baptist Church providing food distribution and meal programs with air conditioning and accessibility support.",
+    "address": "305 W. Broadway Ave.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7408844,
+    "lng": -97.3287041,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226294",
+    "name": "Junior League of Fort Worth Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Fort Worth, TX",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.75944,
+    "lng": -97.32912,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-172939",
+    "name": "Union Gospel Mission",
+    "category": "Food",
+    "description": "Soup kitchen location providing emergency meal services",
+    "address": "1331 E. Lancaster Ave.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76102",
+    "phone": "(817) 339-2553",
+    "hours": "",
+    "lat": 32.7464072,
+    "lng": -97.3153529,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173495",
+    "name": "All Saints Catholic Church",
+    "category": "Food",
+    "description": "All Saints Catholic Church food distribution location affiliated with Tarrant Area Food Bank.",
+    "address": "214 NW 20th St.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76164",
+    "phone": "(817) 626-3055",
+    "hours": "",
+    "lat": 32.7813777,
+    "lng": -97.3514097,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182084",
+    "name": "United Community Center - Bethlehem",
+    "category": "Food",
+    "description": "Food pantry location at United Community Center - Bethlehem in Fort Worth.",
+    "address": "951 Evans Ave.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7345351,
+    "lng": -97.318028,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-213712",
+    "name": "Mercy Culture Food Bank",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "1701 Oakhurst Scenic Dr.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76111",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7852562,
+    "lng": -97.3195916,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218796",
+    "name": "The Salvation Army - Ne 28Th St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2901 NE 28th St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76111",
+    "phone": "(817) 834-6271",
+    "hours": "",
+    "lat": 32.7804,
+    "lng": -97.30116,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221729",
+    "name": "Northside Inter-Community Agency",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1600 Circle Park Blvd.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76164",
+    "phone": "(817) 626-1102",
+    "hours": "",
+    "lat": 32.7784119,
+    "lng": -97.3536224,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-4304622599",
+    "name": "Southlake Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.9428989,
+    "lng": -97.1314625,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10195537818",
+    "name": "J. Ardis Bell Library, TCC Northeast Campus",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Harwood Road 828",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76054",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8464323,
+    "lng": -97.1918177,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13265575767",
+    "name": "Fort Worth Public Library - Clifford Crossing",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7660975,
+    "lng": -97.4796455,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-13990575",
+    "name": "North Richland Hills Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Grand Avenue 9015",
+    "city": "North Richland Hills",
+    "state": "TX",
+    "zip": "76180",
+    "phone": "(817) 427-6800",
+    "hours": "Mo-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-17:00",
+    "lat": 32.8550176,
+    "lng": -97.1925232,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-49342307",
+    "name": "Summerglen Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Basswood Boulevard 4205",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76137",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8738938,
+    "lng": -97.2925539,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-51208283",
+    "name": "Billie Hamilton Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Blue Mound Road 301",
+    "city": "Blue Mound",
+    "state": "TX",
+    "zip": "76131",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8588714,
+    "lng": -97.3425792,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-56027535",
+    "name": "Diamond Hill/Jarvis Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Northeast 35th Street 1300",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76106",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8088212,
+    "lng": -97.339058,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-152712107",
+    "name": "Southwest Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Library Lane 4001",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76109",
+    "phone": "",
+    "hours": "",
+    "lat": 32.6891132,
+    "lng": -97.3941303,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-286206098",
+    "name": "West Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7329312,
+    "lng": -97.2795588,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-321939109",
+    "name": "Gibson D Lewis Health Science Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Camp Bowie Boulevard 3500",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76107",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7498816,
+    "lng": -97.3691269,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13016231101",
+    "name": "RESTROOM",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "24/7",
+    "lat": 32.7056028,
+    "lng": -97.3865748,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2622576140",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.6572802,
+    "lng": -97.4008628,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7054875104",
+    "name": "Nu2U Resale",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Park Row Drive 2220",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76013",
+    "phone": "(817) 795-6379",
+    "hours": "Mo-Sa 10:00-18:00",
+    "lat": 32.7208526,
+    "lng": -97.1434685,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7054903878",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.815051,
+    "lng": -97.4332889,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7148351390",
+    "name": "Goodwill Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8037851,
+    "lng": -97.2659748,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7468467488",
+    "name": "Upscale Resale",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.9382044,
+    "lng": -97.2543805,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9244049833",
+    "name": "The Goodwill Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Benbrook Boulevard 8502",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "(817) 769-4040",
+    "hours": "Mo-Sa 09:00-19:00; Su 11:00-19:00",
+    "lat": 32.6835689,
+    "lng": -97.4622532,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9525363999",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Cooper Street 4621",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76017",
+    "phone": "",
+    "hours": "",
+    "lat": 32.67096,
+    "lng": -97.1320415,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9698119494",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Interstate 20 5600",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76140",
+    "phone": "(817) 476-5960",
+    "hours": "Mo-Sa 09:00-19:00; Su 11:00-19:00",
+    "lat": 32.6655787,
+    "lng": -97.239823,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9966928020",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.9100413,
+    "lng": -97.2572014,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-497506799",
+    "name": "Tarrant Area Food Bank",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Cullen Street 2600",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "(817) 857-7101",
+    "hours": "Mo-Fr 08:30-17:00",
+    "lat": 32.7622267,
+    "lng": -97.3539682,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-fort-worth-shelter",
+    "name": "Fort Worth Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 32.7555,
+    "lng": -97.3308,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

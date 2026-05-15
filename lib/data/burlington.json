@@ -1,0 +1,584 @@
+[
+  {
+    "id": "fa-183882",
+    "name": "Joint Urban Ministry Project",
+    "category": "Food",
+    "description": "Food pantry location in Burlington, VT. Handicapped accessible.",
+    "address": "38 South Winooski Ave.",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "",
+    "hours": "",
+    "lat": 44.4794371,
+    "lng": -73.2103183,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202926",
+    "name": "Janet S. Munt Family Room",
+    "category": "Food",
+    "description": "Food distribution and meal service center in Burlington, Vermont",
+    "address": "20 Allen St.",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "",
+    "hours": "",
+    "lat": 44.4839575,
+    "lng": -73.2151115,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-225446",
+    "name": "Friendly Pantry- Salvation Army Burlington Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "64 Main St",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05402",
+    "phone": "(802) 864-6991",
+    "hours": "",
+    "lat": 44.4760704,
+    "lng": -73.2168427,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-452633",
+    "name": "King Street Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (15 funded slots)",
+    "address": "87 King St",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "(802) 862-6736",
+    "hours": "",
+    "lat": 44.474632,
+    "lng": -73.214972,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-452639",
+    "name": "Riverside Early Learning Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (16 funded slots)",
+    "address": "669 Riverside Ave",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "(802) 651-4180",
+    "hours": "",
+    "lat": 44.489757,
+    "lng": -73.206615,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-452641",
+    "name": "Burlington Children's Space",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (10 funded slots)",
+    "address": "241 N Winooski Ave",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "(802) 658-1500",
+    "hours": "",
+    "lat": 44.487112,
+    "lng": -73.209429,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-452652",
+    "name": "College Street Early Learning Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (20 funded slots)",
+    "address": "265 College St",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "(802) 651-4180",
+    "hours": "",
+    "lat": 44.476923,
+    "lng": -73.209388,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-182578",
+    "name": "Winooski Food Shelf",
+    "category": "Food",
+    "description": "Main food distribution location near public transit",
+    "address": "24 West Allen Street",
+    "city": "Winooski",
+    "state": "VT",
+    "zip": "05404",
+    "phone": "",
+    "hours": "",
+    "lat": 44.49569,
+    "lng": -73.19344,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200619",
+    "name": "Heineberg Community Senior Center - North End Food Pantry",
+    "category": "Food",
+    "description": "North End Food Pantry location at Heineberg Community Senior Center. Handicapped accessible.",
+    "address": "14 Heineberg Rd.",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "",
+    "hours": "",
+    "lat": 44.5101166,
+    "lng": -73.2479883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212505",
+    "name": "Hunger Free Vermont - South Burlington",
+    "category": "Food",
+    "description": "Main office location of Hunger Free Vermont",
+    "address": "38 Eastwood Dr",
+    "city": "South Burlington",
+    "state": "VT",
+    "zip": "05403",
+    "phone": "",
+    "hours": "",
+    "lat": 44.4499413,
+    "lng": -73.2031128,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-14327",
+    "name": "Salvation Army Burlington",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "64 Main Street",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "(802) 864-6991",
+    "hours": "",
+    "lat": 44.47484,
+    "lng": -73.21758,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-14329",
+    "name": "East Ave Little Free Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "166 East Ave",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "(802) 272-2829",
+    "hours": "",
+    "lat": 44.47484,
+    "lng": -73.21758,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "osm-node-204593163",
+    "name": "GMT",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 44.4441698,
+    "lng": -73.2094579,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4787359526",
+    "name": "Spectrum Drop-In Center",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Pearl Street 177",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "(802) 864-7423",
+    "hours": "",
+    "lat": 44.480335,
+    "lng": -73.2119752,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5446360502",
+    "name": "Waystation Night Shelter",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Church Street 187",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 44.4750325,
+    "lng": -73.2125871,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5524484235",
+    "name": "Ethan Allen Shopping Center",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 44.5065187,
+    "lng": -73.2444907,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366666930",
+    "name": "Fanny Allen Hospital Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 44.4964381,
+    "lng": -73.1579053,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366666940",
+    "name": "Pierson Free Library (temporary location)",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Athletic Drive 166",
+    "city": "Shelburne",
+    "state": "VT",
+    "zip": "05482",
+    "phone": "(802) 985-5124",
+    "hours": "",
+    "lat": 44.3836138,
+    "lng": -73.2283371,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366666943",
+    "name": "Milton Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Bombardier Road 39",
+    "city": "Milton",
+    "state": "VT",
+    "zip": "05468",
+    "phone": "(802) 893-4644",
+    "hours": "Mo-Th 10:00-18:00; Fr 10:00-17:00; Sa 10:00-14:00",
+    "lat": 44.6191558,
+    "lng": -73.1243374,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366667090",
+    "name": "Fairfax Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Hunt Street 75",
+    "city": "Fairfax",
+    "state": "VT",
+    "zip": "05454",
+    "phone": "(802) 849-2420",
+    "hours": "",
+    "lat": 44.6635172,
+    "lng": -73.0127847,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1255988943",
+    "name": "Charlotte Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Ferry Road 115",
+    "city": "Charlotte",
+    "state": "VT",
+    "zip": "05445",
+    "phone": "(802) 425-3864",
+    "hours": "",
+    "lat": 44.3107285,
+    "lng": -73.2492519,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3238197453",
+    "name": "Winooski Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Malletts Bay Avenue 32",
+    "city": "Winooski",
+    "state": "VT",
+    "zip": "05404",
+    "phone": "(802) 655-6424",
+    "hours": "",
+    "lat": 44.492429,
+    "lng": -73.191159,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11015045209",
+    "name": "Little Free Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Dorset Street 155",
+    "city": "South Burlington",
+    "state": "VT",
+    "zip": "05403",
+    "phone": "",
+    "hours": "",
+    "lat": 44.4661272,
+    "lng": -73.1840322,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11020526484",
+    "name": "Little Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Staniford Road 60",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05408",
+    "phone": "",
+    "hours": "",
+    "lat": 44.5114748,
+    "lng": -73.2541938,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12199030401",
+    "name": "Fletcher Free Library: NNE Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Avenue 1127",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05408",
+    "phone": "(802) 540-9176",
+    "hours": "Tu,Th 14:00-18:00; We,Fr-Sa 10:00-14:00",
+    "lat": 44.5063974,
+    "lng": -73.2459663,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12803484557",
+    "name": "Worthen Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Community Lane 28",
+    "city": "South Hero",
+    "state": "VT",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo 10:00-18:00; Tu 10:00-15:00; We 10:00-18:00; Th 10:00-17:00; Fr-Sa 10:00-14:00",
+    "lat": 44.6466939,
+    "lng": -73.2965969,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-152281238",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Harvest Lane 64",
+    "city": "Williston",
+    "state": "VT",
+    "zip": "05495",
+    "phone": "(802) 879-0088",
+    "hours": "Su-Th 10:00-18:00; Fr-Sa 10:00-19:00",
+    "lat": 44.4516177,
+    "lng": -73.1187586,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-576717447",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Goodwill Store & Donation Center",
+    "address": "Shelburne Road 1080",
+    "city": "South Burlington",
+    "state": "VT",
+    "zip": "05403",
+    "phone": "",
+    "hours": "",
+    "lat": 44.4390121,
+    "lng": -73.2096001,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1309160694",
+    "name": "ReSOURCE",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Pine Street 339",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "(802) 658-4143",
+    "hours": "",
+    "lat": 44.4698451,
+    "lng": -73.2163293,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-burlington-hygiene",
+    "name": "Fanny Allen Hospital Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 44.4964381,
+    "lng": -73.1579053,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

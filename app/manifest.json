@@ -1,0 +1,12 @@
+{
+  "name": "Homeless Aid Finder",
+  "short_name": "Aid Finder",
+  "description": "Fast access to shelter, food, hygiene, Wi-Fi, and supplies — no login, no tracking.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

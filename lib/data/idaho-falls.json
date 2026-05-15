@@ -1,0 +1,440 @@
+[
+  {
+    "id": "fa-195233",
+    "name": "Community Food Basket",
+    "category": "Food",
+    "description": "Food pickup location at 351 W 14th St, Idaho Falls",
+    "address": "Offices Donations",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83402",
+    "phone": "",
+    "hours": "",
+    "lat": 43.4851509,
+    "lng": -112.039487,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-219187",
+    "name": "Idaho Falls Community Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "245 N Placer Ave",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83402",
+    "phone": "(208) 390-1952",
+    "hours": "",
+    "lat": 43.4893303,
+    "lng": -112.0347824,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221198",
+    "name": "The Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "605 N Boulevard",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83402",
+    "phone": "(208) 522-7200",
+    "hours": "",
+    "lat": 43.4920387,
+    "lng": -112.0429688,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223600",
+    "name": "Salvation Army- Idaho Falls",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "605 N. Blvd.",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83402",
+    "phone": "(208) 522-7200",
+    "hours": "",
+    "lat": 43.501429,
+    "lng": -112.0343127,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224299",
+    "name": "St Vincent de Paul- Idaho Falls",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "805 S. Holmes",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83401",
+    "phone": "(208) 522-6280",
+    "hours": "",
+    "lat": 43.4903984,
+    "lng": -112.0233917,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-455377",
+    "name": "El Castillito CCI MSHS Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. aian head start. Call to enroll. (49 funded slots)",
+    "address": "350 G St",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83402",
+    "phone": "(208) 522-6236",
+    "hours": "",
+    "lat": 43.497655,
+    "lng": -112.037159,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-173915",
+    "name": "EICAP Main Office",
+    "category": "Food",
+    "description": "EICAP main office and service location in Idaho Falls",
+    "address": "935 E Lincoln Rd",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83401",
+    "phone": "(208) 522-5391",
+    "hours": "",
+    "lat": 43.511915599999995,
+    "lng": -112.0115345,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-222564",
+    "name": "Community Food Basket Idaho Falls",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1895 N Blvd",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83401",
+    "phone": "(208) 524-0994",
+    "hours": "",
+    "lat": 43.5135841,
+    "lng": -112.033989,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224122",
+    "name": "Idaho Falls Senior Citizens' Community Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "535 W 21st St",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83402",
+    "phone": "(208) 522-4357",
+    "hours": "",
+    "lat": 43.4787369,
+    "lng": -112.0442963,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-443754",
+    "name": "Idaho Falls East Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (30 funded slots)",
+    "address": "2171 Alan St",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83404",
+    "phone": "(208) 524-1462",
+    "hours": "",
+    "lat": 43.484339,
+    "lng": -111.990895,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443993",
+    "name": "Hoopes Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (40 funded slots)",
+    "address": "1465 Hoopes Ave",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83404",
+    "phone": "(208) 542-8170",
+    "hours": "",
+    "lat": 43.484411,
+    "lng": -111.9932,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-182774",
+    "name": "Falls Valley Elementary - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center at Falls Valley Elementary School",
+    "address": "2455 Virlow St",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83401",
+    "phone": "",
+    "hours": "",
+    "lat": 43.4976206,
+    "lng": -111.98481439999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-4636657374",
+    "name": "Iona Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5278,
+    "lng": -111.9294281,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-501084851",
+    "name": "Idaho Falls Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 10:00-21:00; Fr,Sa 10:00-18:00",
+    "lat": 43.4913646,
+    "lng": -112.0425166,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-547289184",
+    "name": "Rigby City Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6725322,
+    "lng": -111.9146248,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1105671264",
+    "name": "Iona Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5278124,
+    "lng": -111.9294663,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1147226413",
+    "name": "North Bingham County District Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Locust Street 197",
+    "city": "Shelley",
+    "state": "ID",
+    "zip": "83274",
+    "phone": "",
+    "hours": "",
+    "lat": 43.3782939,
+    "lng": -112.1244715,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8784395964",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.4813131,
+    "lng": -112.0230136,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8816100541",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Holmes Avenue",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.4904239,
+    "lng": -112.023574,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-550457587",
+    "name": "Idaho Youth Ranch Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Su 09:00-19:00",
+    "lat": 43.4982172,
+    "lng": -112.0020849,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-947114685",
+    "name": "Bonneville Humane Society Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.4922725,
+    "lng": -112.0366905,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-idaho-falls-shelter",
+    "name": "Idaho Falls Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "address": "",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24/7",
+    "lat": 43.4916,
+    "lng": -112.0331,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-idaho-falls-hygiene",
+    "name": "Iona Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5278,
+    "lng": -111.9294281,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

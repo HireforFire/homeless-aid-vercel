@@ -1,0 +1,677 @@
+[
+  {
+    "id": "fa-187246",
+    "name": "Arlington Food Assistance Center at Gates of Ballston CC",
+    "category": "Food",
+    "description": "Food distribution location at Gates of Ballston Community Center",
+    "address": "4108 N. 4th St.",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22203",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8748348,
+    "lng": -77.1074802,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220999",
+    "name": "La Cocina VA",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1500 N. Glebe Rd",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22207",
+    "phone": "(571) 435-3785",
+    "hours": "",
+    "lat": 38.8890266,
+    "lng": -77.1193542,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-131066",
+    "name": "Arlington County",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1426 NORTH QUINCY ST",
+    "city": "ARLINGTON",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "(703) 228-6010",
+    "hours": "",
+    "lat": 38.888512,
+    "lng": -77.108001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-172049",
+    "name": "Arlington Presbyterian Church",
+    "category": "Food",
+    "description": "Arlington Presbyterian Church located on South Lincoln Street in Alcova Heights, Virginia.",
+    "address": "918 South Lincoln Street",
+    "city": "Alcova Heights",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "(703) 920-5660",
+    "hours": "",
+    "lat": 38.8615365,
+    "lng": -77.0932588,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172317",
+    "name": "Park Shirlington Apartments",
+    "category": "Food",
+    "description": "Food distribution location at Park Shirlington Apartments",
+    "address": "4510 31st Street South",
+    "city": "Shirlington",
+    "state": "VA",
+    "zip": "22206",
+    "phone": "(202) 210-7025",
+    "hours": "",
+    "lat": 38.8375063,
+    "lng": -77.09320910000001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173159",
+    "name": "Willston Multicultural Center",
+    "category": "Food",
+    "description": "Willston Multicultural Center located in Falls Church, VA.",
+    "address": "6131 Willston Drive",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22044",
+    "phone": "(703) 239-3575",
+    "hours": "",
+    "lat": 38.8703797,
+    "lng": -77.14884579999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175463",
+    "name": "West End Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location providing emergency food assistance",
+    "address": "5150 Fillmore Ave",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22311",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8386883,
+    "lng": -77.1177518,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177271",
+    "name": "Barcroft Elementary School",
+    "category": "Food",
+    "description": "Food distribution site at Barcroft Elementary School.",
+    "address": "700 S Buchanan St",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "",
+    "hours": "",
+    "lat": 38.860182,
+    "lng": -77.110653,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177601",
+    "name": "Arlington Bridge Builders - South Carlin Springs",
+    "category": "Food",
+    "description": "Main distribution location for Arlington Bridge Builders food services.",
+    "address": "790 South Carlin Springs Road",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "",
+    "hours": "",
+    "lat": 38.855145,
+    "lng": -77.123784,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182281",
+    "name": "Saint James United Methodist Church",
+    "category": "Food",
+    "description": "Saint James United Methodist Church located in Alexandria, Virginia",
+    "address": "5200 Fillmore Ave",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22311",
+    "phone": "",
+    "hours": "",
+    "lat": 38.838699,
+    "lng": -77.118235,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191868",
+    "name": "Mount Olive Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Mount Olive Baptist Church",
+    "address": "1601 13th Road South",
+    "city": "Arlington View",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8626534,
+    "lng": -77.07154799999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195902",
+    "name": "Arlington Food Assistance Center at Arlington Mill Community Center",
+    "category": "Food",
+    "description": "Food assistance center located at Arlington Mill Community Center providing food distribution services.",
+    "address": "909 South Dinwiddie Street",
+    "city": "Arlington Mill",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "",
+    "hours": "",
+    "lat": 38.856241,
+    "lng": -77.1121554,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-358961190",
+    "name": "Emery Shelter Clinic",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9136046,
+    "lng": -77.0078947,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367144261",
+    "name": "Phyllis Wheatley YWCA",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "",
+    "city": "Arlington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9117349,
+    "lng": -77.0242502,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367142107",
+    "name": "Riggs Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Arlington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9069563,
+    "lng": -77.0726504,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367142114",
+    "name": "Paul Himmelfarb Health Sciences Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Arlington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9003,
+    "lng": -77.0506,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367142117",
+    "name": "Sister Helen Sheehan Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Arlington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9266667,
+    "lng": -77.0052778,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367142119",
+    "name": "Business Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Arlington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9241667,
+    "lng": -77.0222222,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367797662",
+    "name": "Beltsville Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sellman Road 4319",
+    "city": "Beltsville",
+    "state": "MD",
+    "zip": "20705",
+    "phone": "(301) 937-0294",
+    "hours": "Mo,Th,Fr 10:00-18:00;Tu,We 12:00-20:00;Sa 10:00-17:00;Su 13:00-17:00",
+    "lat": 39.034774,
+    "lng": -76.9189885,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367798086",
+    "name": "Takoma Park Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Philadelphia Avenue 101",
+    "city": "Takoma Park",
+    "state": "MD",
+    "zip": "20912",
+    "phone": "(301) 891-7259",
+    "hours": "",
+    "lat": 38.9814992,
+    "lng": -77.0108098,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986191",
+    "name": "George Mason Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8274394,
+    "lng": -77.1862359,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986365",
+    "name": "GMU Arlington Campus Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.885012,
+    "lng": -77.1001766,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986375",
+    "name": "George Mason University Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8851119,
+    "lng": -77.1002563,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986482",
+    "name": "Kingstowne Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo,Tu 10:00-21:00; We-Sa 10:00-18:00; Su off",
+    "lat": 38.7400386,
+    "lng": -77.1646166,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-609736375",
+    "name": "True REST Float Spa",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "Belle View Boulevard 1640",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22307",
+    "phone": "(347) 564-4628",
+    "hours": "",
+    "lat": 38.7755724,
+    "lng": -77.0619346,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2698581937",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8441883,
+    "lng": -77.2902712,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4723528395",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8224766,
+    "lng": -77.1592592,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5210389722",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Columbia Pike 7031",
+    "city": "Annandale",
+    "state": "VA",
+    "zip": "22003",
+    "phone": "",
+    "hours": "Mo, We-Sa 10:00-21:00; Tu 09:00-21:00; Su 10:00-18:00",
+    "lat": 38.8322769,
+    "lng": -77.1886936,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5600761729",
+    "name": "Saint Alban’s Opportunity Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9292375,
+    "lng": -77.0727986,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6162249707",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Annandale Road",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8706585,
+    "lng": -77.1749391,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7526430508",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Arlington Boulevard 6136",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22044",
+    "phone": "(703) 533-1840",
+    "hours": "Mo-Sa 12:00-19:30; Su 10:00-17:00",
+    "lat": 38.8689394,
+    "lng": -77.1452812,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7546757954",
+    "name": "Capital Caring Thrift Store & Boutique",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Arlington Boulevard 6172",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22044",
+    "phone": "(571) 730-4311",
+    "hours": "Tu-Fr 10:00-15:00; Sa 10:00-16:30",
+    "lat": 38.8701136,
+    "lng": -77.1467063,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9991142065",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Richmond Highway 6220",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22303",
+    "phone": "",
+    "hours": "",
+    "lat": 38.7837045,
+    "lng": -77.0771266,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10879005187",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Telegraph Road 7558",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22315",
+    "phone": "(703) 310-6195",
+    "hours": "",
+    "lat": 38.7536248,
+    "lng": -77.1399494,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11230945575",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0459127,
+    "lng": -77.1129305,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

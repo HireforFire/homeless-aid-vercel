@@ -1,0 +1,326 @@
+[
+  {
+    "id": "fa-171110",
+    "name": "Holy Cross Center",
+    "category": "Food",
+    "description": "Food pantry location offering TEFAP program items and grocery rescue items. Note: Starting August 25th, East K Street will be closed as well as the intersection of East K Street and North Lincoln Street. Access to this location will be from H Street.",
+    "address": "1030 N Lincoln St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8605951,
+    "lng": -106.3153369,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170420",
+    "name": "The Manna Closet Ministry - Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location in Casper",
+    "address": "2020 S Jefferson St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 234-9601",
+    "hours": "",
+    "lat": 42.828964,
+    "lng": -106.31386719999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171406",
+    "name": "Wyoming Rescue Mission - Casper",
+    "category": "Food",
+    "description": "Main meal service location for Wyoming Rescue Mission in Casper",
+    "address": "230 N Park St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "",
+    "hours": "",
+    "lat": 42.85216,
+    "lng": -106.31845,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170390",
+    "name": "Strong Tower Family Church",
+    "category": "Food",
+    "description": "Pantry for the community on Sundays after church service.",
+    "address": "730 E 21st St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 333-5947",
+    "hours": "",
+    "lat": 42.8282565,
+    "lng": -106.3151451,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170617",
+    "name": "Casper Community Church",
+    "category": "Food",
+    "description": "Food pantry location. Parking available.",
+    "address": "249 N Wolcott St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 462-6821",
+    "hours": "",
+    "lat": 42.8523293,
+    "lng": -106.3232575,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170621",
+    "name": "Here To Help Foundation of Wyoming - Casper",
+    "category": "Food",
+    "description": "Main food pantry location in Casper, Wyoming. Walk-up service available.",
+    "address": "1466 S Pennsylvania Ave",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82609",
+    "phone": "(307) 262-8548",
+    "hours": "",
+    "lat": 42.8357009,
+    "lng": -106.294513,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170674",
+    "name": "City Park Church",
+    "category": "Food",
+    "description": "Offers a drive-thru distribution of pre-packaged food boxes every Tuesday from 5 to 6 pm. Please come through the alleyway off 9th St.",
+    "address": "804 S Wolcott St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(619) 890-1823",
+    "hours": "",
+    "lat": 42.8422291,
+    "lng": -106.3242583,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170684",
+    "name": "College Heights Community Center Oasis",
+    "category": "Food",
+    "description": "Oasis Food Pantry location at College Heights Community Center. Features air conditioning. Volunteers available to serve clients physically and spiritually.",
+    "address": "1927 S Walnut St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 224-4104",
+    "hours": "",
+    "lat": 42.83081,
+    "lng": -106.33289,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170734",
+    "name": "YMCA of Natrona County",
+    "category": "Food",
+    "description": "YMCA facility providing weekly community food distribution in partnership with the Wyoming Food Bank.",
+    "address": "1611 Casper Mountain Rd.",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 234-9187",
+    "hours": "",
+    "lat": 42.83521,
+    "lng": -106.32178,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170793",
+    "name": "Kind Grounds at Grace Lutheran Church",
+    "category": "Food",
+    "description": "Kind Grounds food service location at 315 CY Ave in Casper, accessible by Green Bus to 315 CY Ave in Casper at Grace Lutheran Church",
+    "address": "315 CY Ave",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 259-0350",
+    "hours": "",
+    "lat": 42.8410412,
+    "lng": -106.3283987,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170935",
+    "name": "The Salvation Army Goodstein Hope Center",
+    "category": "Food",
+    "description": "Food pantry location in downtown Casper.",
+    "address": "441 S Center St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "",
+    "hours": "",
+    "lat": 42.846025399999995,
+    "lng": -106.3248816,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170984",
+    "name": "Joshua's Storehouse",
+    "category": "Food",
+    "description": "Joshua's Storehouse and Distribution Center located in Casper, Wyoming. Facility features air conditioning and provides indoor service.",
+    "address": "334 S Wolcott St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "",
+    "hours": "",
+    "lat": 42.84672,
+    "lng": -106.32408,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-way-391305521",
+    "name": "Natrona County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8483957,
+    "lng": -106.3218334,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12602041859",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East 3rd Street 2655",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82609",
+    "phone": "(307) 315-6324",
+    "hours": "Mo-Fr 09:00-19:00; Su 10:00-18:00",
+    "lat": 42.8471366,
+    "lng": -106.2925475,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-792574783",
+    "name": "Rescued Treasures Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.847184,
+    "lng": -106.2877673,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-casper-shelter",
+    "name": "Casper Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "address": "",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24/7",
+    "lat": 42.8666,
+    "lng": -106.3131,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-casper-hygiene",
+    "name": "Natrona County Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8483957,
+    "lng": -106.3218334,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

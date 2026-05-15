@@ -1,0 +1,24 @@
+name: Daily Data Refresh
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch fresh data from Feed America + OpenStreetMap
+        run: node scripts/fetch-data.mjs
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Daily data refresh – updated city resources"
+          commit_user_name: "Aid Finder Bot"
+          commit_user_email: "bot@homeless-aid-finder.app"

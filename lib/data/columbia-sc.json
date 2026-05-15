@@ -1,0 +1,629 @@
+[
+  {
+    "id": "fa-181165",
+    "name": "Oliver Gospel Mission",
+    "category": "Food",
+    "description": "Main meal service location",
+    "address": "1100 Taylor Street",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29202",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0060452,
+    "lng": -81.0371624,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172846",
+    "name": "St. Vincent de Paul St. Joseph",
+    "category": "Food",
+    "description": "Food pantry distribution location in Columbia, South Carolina.",
+    "address": "3600 Devine St.",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29205",
+    "phone": "(803) 799-0761",
+    "hours": "",
+    "lat": 33.9965243,
+    "lng": -80.9889091,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177775",
+    "name": "Elmwood Church of God",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "1427 Elmwood Avenue",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "phone": "",
+    "hours": "",
+    "lat": 34.015079128563,
+    "lng": -81.034576092397,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179224",
+    "name": "Christ Central Concessions of HOPE - Hope Plaza",
+    "category": "Food",
+    "description": "Christ Central Concessions of HOPE food distribution location at Hope Plaza in Columbia, South Carolina.",
+    "address": "2018B Main St.",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0127585,
+    "lng": -81.0378133,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190862",
+    "name": "Columbia Metro Baptist Association",
+    "category": "Food",
+    "description": "Main location for Columbia Metro Baptist Association food distribution",
+    "address": "1929 Gadsden St.",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0096615,
+    "lng": -81.0450605,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192360",
+    "name": "United Way South Carolina - State Association",
+    "category": "Food",
+    "description": "State Association office location",
+    "address": "914 Richland St.",
+    "city": "Dentsville",
+    "state": "SC",
+    "zip": "29223",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0088195,
+    "lng": -81.0421057,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201172",
+    "name": "Washington UMC Soup Cellar",
+    "category": "Food",
+    "description": "Food pantry location at Washington UMC",
+    "address": "1401 Washington St.",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0056029,
+    "lng": -81.0307248,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172704",
+    "name": "MACH-PALSS - Palmetto AIDS Life Support Services",
+    "category": "Food",
+    "description": "Food pantry location at MACH-PALSS in Columbia, SC",
+    "address": "2638 Two Notch Rd.",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29204",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0289714,
+    "lng": -81.0051495,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200912",
+    "name": "Brookland Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1066 Sunset Blvd.",
+    "city": "West Columbia",
+    "state": "SC",
+    "zip": "29169",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9982315,
+    "lng": -81.0736546,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200976",
+    "name": "St. John's Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at St. John's Baptist Church",
+    "address": "3404 W. Beltline",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29203",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0313829,
+    "lng": -81.0233169,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211786",
+    "name": "Operation Veteran Support",
+    "category": "Food",
+    "description": "Main food distribution location for Operation Veteran Support.",
+    "address": "3600 Colonial Dr.",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29203",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0330718,
+    "lng": -81.0281062,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-851",
+    "name": "Harvest Hope Food Bank",
+    "category": "Food",
+    "description": "Serves central South Carolina",
+    "address": "2220 Shop Road",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "phone": "(803) 254-4432",
+    "hours": "",
+    "lat": 33.9983,
+    "lng": -81.0283,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
+    "id": "osm-node-1300146278",
+    "name": "Shelter #3",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0825999,
+    "lng": -80.9049753,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12487472762",
+    "name": "South Carolina Center for Community Literacy",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0006717,
+    "lng": -81.0282208,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12494462375",
+    "name": "South Carolina State Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Senate Street 1500",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "phone": "(803) 734-8666",
+    "hours": "Mo-Fr 08:30-17:00",
+    "lat": 34.0011665,
+    "lng": -81.0275861,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-36982006",
+    "name": "Lexington County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Augusta Road 5440",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9757054,
+    "lng": -81.2199483,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-108351420",
+    "name": "South Caroliniana Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sumter Street 910",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9983863,
+    "lng": -81.0299687,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-110607885",
+    "name": "Richland Library Main",
+    "category": "Public Resources",
+    "description": "Richland County Public Library. It has 11 branches including its 242,000 sq ft (22,500 m2) Main Library. In 2001, it was named the National Library of the Year by the Library Journal and the Gale Group.",
+    "address": "Assembly Street 1431",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201-3101",
+    "phone": "(803) 799-9084",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-18:00; Su 14:00-18:00",
+    "lat": 34.0041763,
+    "lng": -81.0374249,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-130133688",
+    "name": "Richland Library Northeast",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Parklane Road 7490",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29223",
+    "phone": "(803) 736-6575",
+    "hours": "Mo-Th 9:00-21:00; Fr-Sa 9:00-18:00",
+    "lat": 34.0755752,
+    "lng": -80.9575483,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-294236416",
+    "name": "Thomas Cooper Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Greene Street 1322",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9950439,
+    "lng": -81.0280747,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-352603798",
+    "name": "Richland Library Cooper",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Trenholm Road;N. Trenholm Road 5317",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29206-3211",
+    "phone": "(803) 787-3462",
+    "hours": "",
+    "lat": 34.0215437,
+    "lng": -80.9671848,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-404746776",
+    "name": "Joseph Simeon Flipper Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0103658,
+    "lng": -81.0200932,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-405178580",
+    "name": "Richland Library St. Andrews",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Broad River Road 2916",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29210",
+    "phone": "(803) 772-6675",
+    "hours": "Su 14:00-18:00; Mo-Th 9:00-21:00; Fr-Sa 9:00-18:00",
+    "lat": 34.0478193,
+    "lng": -81.1026067,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4284486579",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Decker Boulevard 2744",
+    "city": "Forest Acres",
+    "state": "SC",
+    "zip": "29206",
+    "phone": "(803) 509-6053",
+    "hours": "Mo-Sa 9:00-21:00, Su 11:00-19:00",
+    "lat": 34.0637922,
+    "lng": -80.9532392,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5157258021",
+    "name": "Humana",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0702537,
+    "lng": -81.1602527,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5287243795",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0134915,
+    "lng": -81.1722635,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8989239007",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9983924,
+    "lng": -81.0981533,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-381206008",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Garners Ferry Road 6642",
+    "city": "Colub",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9788835,
+    "lng": -80.9580891,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-509118308",
+    "name": "Oliver Gospel Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Two Notch Road 10012",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29223",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-17:00; Su off",
+    "lat": 34.1121058,
+    "lng": -80.893093,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-509118373",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.1027297,
+    "lng": -80.908347,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-518617867",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.113741,
+    "lng": -80.9482098,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-557519656",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Knoll Station Dr 118",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29073",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9138073,
+    "lng": -81.2250471,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-columbia-sc-hygiene",
+    "name": "South Carolina Center for Community Literacy - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0006717,
+    "lng": -81.0282208,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

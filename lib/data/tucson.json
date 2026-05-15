@@ -1,0 +1,648 @@
+[
+  {
+    "id": "fa-173084",
+    "name": "Trinity Presbyterian Church",
+    "category": "Food",
+    "description": "Food distribution location near public transit",
+    "address": "400 E. University Blvd.",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85705",
+    "phone": "(520) 623-2579",
+    "hours": "",
+    "lat": 32.2312,
+    "lng": -110.96507,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181756",
+    "name": "Tucson Indian Center",
+    "category": "Food",
+    "description": "Main office location of Tucson Indian Center",
+    "address": "97 E. Congress, Ste. 101",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2221241,
+    "lng": -110.9695244,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188539",
+    "name": "Armory Parks and Rec",
+    "category": "Food",
+    "description": "Food distribution and dinner service location",
+    "address": "220 S. 5th Ave.",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2191918,
+    "lng": -110.9673821,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203923",
+    "name": "The Salvation Army - Hospitality House",
+    "category": "Food",
+    "description": "The Salvation Army - Hospitality House hospitality services location",
+    "address": "1002 N. 11th Ave.",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85705",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2343925,
+    "lng": -110.9760675,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208807",
+    "name": "Sharon Seventh-Day Adventist Church",
+    "category": "Food",
+    "description": "Food distribution location at Sharon Seventh-Day Adventist Church, affiliated with Community Food Bank of Southern Arizona.",
+    "address": "955 N. 10th Ave.",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85705",
+    "phone": "",
+    "hours": "",
+    "lat": 32.23385,
+    "lng": -110.97524,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-221584",
+    "name": "Southern Arizona AIDS Foundation (SAAF)",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "375 S. Euclid",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85719",
+    "phone": "(520) 547-6153",
+    "hours": "",
+    "lat": 32.2181244,
+    "lng": -110.9578857,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-446109",
+    "name": "Santa Rosa",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (53 funded slots)",
+    "address": "1065 S 10th Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "(520) 382-1500",
+    "hours": "",
+    "lat": 32.208586,
+    "lng": -110.974584,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-446145",
+    "name": "Blake-Children's Achievement Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (9 funded slots)",
+    "address": "330 N Commerce Park Loop Ste 100",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85745",
+    "phone": "(520) 325-6495",
+    "hours": "",
+    "lat": 32.224822,
+    "lng": -110.983081,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-128302",
+    "name": "CPLC Community Schools dba Hiaki High School",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "200 NORTH STONE AVE",
+    "city": "TUCSON",
+    "state": "AZ",
+    "zip": "85714",
+    "phone": "(520) 324-3673",
+    "hours": "",
+    "lat": 32.224576,
+    "lng": -110.972247,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-128374",
+    "name": "Tucson Small School Project",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "48 EAST PENNINGTON ST",
+    "city": "TUCSON",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "(520) 623-7223",
+    "hours": "",
+    "lat": 32.223476,
+    "lng": -110.971247,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-186328",
+    "name": "Neighbors Feeding Neighbors - Kitchen Location",
+    "category": "Food",
+    "description": "Food is available from the kitchen, which is accessible through the gate around the corner on 16th Street. The Church campus is on the corner of 5th Avenue and 16th Street, in the Armory Park neighborhood of Tucson. Near Public Transit.",
+    "address": "545 S 5th Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "",
+    "hours": "",
+    "lat": 32.21488,
+    "lng": -110.96669,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189484",
+    "name": "Caridad Community Kitchen",
+    "category": "Food",
+    "description": "Main location for Caridad Community Kitchen providing hot/cold meal programs and culinary classes.",
+    "address": "845 N Main Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85705",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2325493,
+    "lng": -110.9782796,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-4454229361",
+    "name": "Grant/1st Avenue",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2501257,
+    "lng": -110.9601739,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-410423207",
+    "name": "Arizona Health Sciences Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2400066,
+    "lng": -110.9467827,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4423184136",
+    "name": "Pima Community College Downtown Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2366612,
+    "lng": -110.9729272,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11259058938",
+    "name": "Sam Lena Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South 6th Avenue 1607",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85713",
+    "phone": "",
+    "hours": "Tu-Th 09:00-17:00, Fr-Sa 10:00-17:00",
+    "lat": 32.202498,
+    "lng": -110.9680012,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-33119456",
+    "name": "Pima County Public Library (Joel D. Valdez Main Branch)",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2236392,
+    "lng": -110.9720109,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-229822328",
+    "name": "Eckstrom-Columbus Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East 22nd Street 4350",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85711",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2065572,
+    "lng": -110.90034,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-229823010",
+    "name": "Martha Cooper Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Catalina Avenue 1377",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85712",
+    "phone": "",
+    "hours": "",
+    "lat": 32.239343,
+    "lng": -110.8994099,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-229823496",
+    "name": "Woods Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North First Avenue 3455",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85719",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2698504,
+    "lng": -110.9615252,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-235913636",
+    "name": "Himmel Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "closed",
+    "lat": 32.2345939,
+    "lng": -110.9315974,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-253751144",
+    "name": "Kirk-Bear Canyon Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Tanque Verde Road 8959",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85749",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2592771,
+    "lng": -110.8015053,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-275691144",
+    "name": "Southwest Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.1275596,
+    "lng": -111.0711002,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6594624472",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North La Cañada Drive 10560",
+    "city": "Oro Valley",
+    "state": "AZ",
+    "zip": "85737",
+    "phone": "(520) 547-3350",
+    "hours": "Mo-Sa 09:00-20:00; Su 11:00-19:00",
+    "lat": 32.3981682,
+    "lng": -110.9945247,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12310422496",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North 4th Avenue 300",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85705",
+    "phone": "",
+    "hours": "Mo-Su 09:00-20:00",
+    "lat": 32.225407,
+    "lng": -110.965451,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12453315099",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.3385447,
+    "lng": -111.032121,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-330930450",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.1618547,
+    "lng": -110.944405,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-400692164",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Fort Lowell Road 3725",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85719",
+    "phone": "(520) 628-1882",
+    "hours": "Mo-Sa 09:00-20:00; Su 11:00-19:00",
+    "lat": 32.2655823,
+    "lng": -110.9132947,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-439768404",
+    "name": "Habitat for Humanity",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2498418,
+    "lng": -110.9870451,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-494079160",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2602093,
+    "lng": -110.9616745,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-675078860",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East 22nd Street 7201",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85710",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2077043,
+    "lng": -110.8387611,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-834365440",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2367471,
+    "lng": -110.8866024,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-837413643",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2013157,
+    "lng": -110.9451302,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-tucson-hygiene",
+    "name": "Arizona Health Sciences Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2400066,
+    "lng": -110.9467827,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

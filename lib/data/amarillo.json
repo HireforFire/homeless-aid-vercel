@@ -1,0 +1,553 @@
+[
+  {
+    "id": "fa-174757",
+    "name": "Central Church of Christ",
+    "category": "Food",
+    "description": "Food pantry distribution location at Central Church of Christ",
+    "address": "1401 S. Madison St.",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "(806) 373-4389",
+    "hours": "",
+    "lat": 35.2002467,
+    "lng": -101.8459546,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174875",
+    "name": "DWC-ABBA House",
+    "category": "Food",
+    "description": "Main food distribution location for DWC-ABBA House in Amarillo, TX",
+    "address": "409 S Monroe",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "(806) 372-3625",
+    "hours": "",
+    "lat": 35.2100309,
+    "lng": -101.8426992,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174919",
+    "name": "Senior Ambassadors Coalition",
+    "category": "Food",
+    "description": "Senior Ambassadors Coalition food distribution location in Amarillo",
+    "address": "4107 W 9th-1401 S Monroe",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79109",
+    "phone": "(806) 340-5377",
+    "hours": "",
+    "lat": 35.1996922,
+    "lng": -101.8443585,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183073",
+    "name": "Perkins Community Center",
+    "category": "Food",
+    "description": "Food distribution location at Perkins Community Center in Amarillo.",
+    "address": "1515 S Buchanan St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1968875,
+    "lng": -101.8336374,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218541",
+    "name": "The Salvation Army - S Harrison St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "400-420 S Harrison St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "(806) 373-6631",
+    "hours": "",
+    "lat": 35.20605,
+    "lng": -101.83946,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-456020",
+    "name": "Opportunity School Edwards Campus",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (48 funded slots)",
+    "address": "406 S Osage St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79104",
+    "phone": "(806) 381-0551",
+    "hours": "",
+    "lat": 35.206554,
+    "lng": -101.813855,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-456022",
+    "name": "Amarillo Cleveland Street Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (148 funded slots)",
+    "address": "1601 S Cleveland St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79102",
+    "phone": "(806) 677-5401",
+    "hours": "",
+    "lat": 35.194537,
+    "lng": -101.825442,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-456025",
+    "name": "Opportunity School at Gratitude House",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (16 funded slots)",
+    "address": "1101 S Harrison St Apt 19",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "(806) 372-3625",
+    "hours": "",
+    "lat": 35.20286,
+    "lng": -101.840571,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-189846",
+    "name": "Acts Community",
+    "category": "Food",
+    "description": "Main location for Acts Community food distribution programs.",
+    "address": "816 S. Van Buren St.",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2053727,
+    "lng": -101.841699,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192375",
+    "name": "Family Support Services",
+    "category": "Food",
+    "description": "Main food distribution location for Family Support Services.",
+    "address": "2209 SW 7th Ave",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2033387,
+    "lng": -101.8376559,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210",
+    "name": "Salvation Army - Amarillo",
+    "category": "Food",
+    "description": "Emergency assistance",
+    "address": "411 SE 11th Ave",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "(806) 376-4709",
+    "hours": "",
+    "lat": 35.2083,
+    "lng": -101.8283,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-172220",
+    "name": "Cornerstone Outreach-Amarillo",
+    "category": "Food",
+    "description": "Food distribution location for Cornerstone Outreach-Amarillo, affiliated with High Plains Food Bank.",
+    "address": "1111 N Buchanan St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79107",
+    "phone": "(806) 381-2131",
+    "hours": "",
+    "lat": 35.2258199,
+    "lng": -101.8299242,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-13114351101",
+    "name": "Faith City Shelter",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "North Tyler Street 600",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79107",
+    "phone": "",
+    "hours": "24/7",
+    "lat": 35.2197908,
+    "lng": -101.835616,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13279243022",
+    "name": "Transformation park",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "West 5th Avenue 1501",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2104255,
+    "lng": -101.8538875,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-294033904",
+    "name": "Tommy Grant Arena",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2050025,
+    "lng": -101.7970192,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-294033906",
+    "name": "Cattle Pens",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2046357,
+    "lng": -101.7973984,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-579724520",
+    "name": "Faith City Mission",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2115811,
+    "lng": -101.831452,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-687919422",
+    "name": "Bison Viewing Deck",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2398993,
+    "lng": -101.8355636,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-611285552",
+    "name": "Amarillo Public Library Northwest Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southwest 9th Avenue 6100",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "(806) 359-2035",
+    "hours": "Su 14:00-18:00; Mo-Th 09:00-19:30; Fr-Sa 09:00-18:00",
+    "lat": 35.2065334,
+    "lng": -101.904519,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13495354694",
+    "name": "East Amarillo Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southeast 27th Avenue 2232",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79103",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1852353,
+    "lng": -101.8101793,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13519248961",
+    "name": "Amarillo Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southeast 4th Avenue 413",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2098326,
+    "lng": -101.8321437,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13715920800",
+    "name": "Amarillo Public Library North Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Martin Luther King Boulevard/NE 24th Ave 1500",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2358385,
+    "lng": -101.8160916,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-212887905",
+    "name": "Southwest Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1605847,
+    "lng": -101.9128535,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-353923233",
+    "name": "Ware Student Commons",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Washington Street 2201",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79109",
+    "phone": "",
+    "hours": "",
+    "lat": 35.187843,
+    "lng": -101.8470672,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-403692954",
+    "name": "Potter County Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Fillmore Street 500",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2077373,
+    "lng": -101.8353472,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10744268905",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Paramount Boulevard 2626",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1850928,
+    "lng": -101.8754389,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10744378705",
+    "name": "America’s thrift store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Plains Boulevard 3015",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79102",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2034477,
+    "lng": -101.8705924,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13658181021",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Bell Street 1904",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "(806) 331-6890",
+    "hours": "",
+    "lat": 35.1917009,
+    "lng": -101.9030506,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-amarillo-hygiene",
+    "name": "Amarillo Public Library Northwest Branch Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "Southwest 9th Avenue 6100",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "",
+    "hours": "Su 14:00-18:00; Mo-Th 09:00-19:30; Fr-Sa 09:00-18:00",
+    "lat": 35.2065334,
+    "lng": -101.904519,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

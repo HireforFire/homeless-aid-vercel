@@ -1,0 +1,649 @@
+[
+  {
+    "id": "fa-192948",
+    "name": "Walden Family Services",
+    "category": "Food",
+    "description": "Food distribution location serving Riverside area",
+    "address": "3576 Arlington Ave SUITE 106",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92506",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9457623,
+    "lng": -117.3913502,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198368",
+    "name": "The Fruit of Our Hands Ministries",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "7000 Indiana Ave Suite #114",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92506",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9406455,
+    "lng": -117.3949317,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-213513",
+    "name": "Veterans not Forgotten",
+    "category": "Food",
+    "description": "Food distribution location providing pre-packed boxes and bags. Deliveries only.",
+    "address": "6476 Riverside Ave",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92506",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9490566,
+    "lng": -117.3871692,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187437",
+    "name": "Saint Vincent De Paul - Riverside",
+    "category": "Food",
+    "description": "Saint Vincent De Paul food distribution location",
+    "address": "6956 Nixon Dr",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92506",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9439537,
+    "lng": -117.3966119,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189040",
+    "name": "Shepherds of Faith",
+    "category": "Food",
+    "description": "Food distribution location in Riverside.",
+    "address": "7050 Indiana Avenue",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92506",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9399113,
+    "lng": -117.395821,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172434",
+    "name": "SDA Mount Rubidoux Church",
+    "category": "Food",
+    "description": "Food distribution location with air conditioning. Part of Feeding America Riverside and San Bernardino Counties network.",
+    "address": "5320 Victoria Ave.",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92506",
+    "phone": "(951) 276-8374",
+    "hours": "",
+    "lat": 33.9550052,
+    "lng": -117.3695174,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172664",
+    "name": "The Salvation Army Riverside",
+    "category": "Food",
+    "description": "Food pantry location in Riverside",
+    "address": "3695 First Street",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92501",
+    "phone": "(951) 784-4490",
+    "hours": "",
+    "lat": 33.9888127,
+    "lng": -117.3686709,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173875",
+    "name": "SDA Riverside Spanish Church",
+    "category": "Food",
+    "description": "Food distribution location affiliated with Feeding America Riverside and San Bernardino Counties",
+    "address": "3625 Ottawa Ave",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92507",
+    "phone": "(951) 902-5616",
+    "hours": "",
+    "lat": 33.9772771,
+    "lng": -117.3532115,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200090",
+    "name": "Hope Lutheran Church",
+    "category": "Food",
+    "description": "Food pantry location at Hope Lutheran Church",
+    "address": "2882 Arlington Ave",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92506",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9459521,
+    "lng": -117.3740875,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207615",
+    "name": "Wesley United Methodist Church",
+    "category": "Food",
+    "description": "Food pantry location at Wesley United Methodist Church",
+    "address": "5770 Arlington Avenue",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92504",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9452856,
+    "lng": -117.42852,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210714",
+    "name": "Calvary Presbyterian Church",
+    "category": "Food",
+    "description": "Main location of Calvary Presbyterian Church providing meal services",
+    "address": "4495 Magnolia Avenue",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92501",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9757637,
+    "lng": -117.3824415,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-215029",
+    "name": "Casa Blanca Home of Neighborly Services",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "7680 Casa Blanca St",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92504",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9320414,
+    "lng": -117.4067901,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-368170233",
+    "name": "La Sierra Branch Riverside Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.91548,
+    "lng": -117.4866278,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170234",
+    "name": "SSgt. Salvador J. Lara Casa Blanca Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9303237,
+    "lng": -117.3998405,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170235",
+    "name": "Norco Branch Riverside City and County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9389673,
+    "lng": -117.5573993,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170242",
+    "name": "Highgrove Branch Riverside City and County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0153579,
+    "lng": -117.3232311,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170244",
+    "name": "Arlington Branch Riverside Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9194336,
+    "lng": -117.4473635,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170251",
+    "name": "Norman F. Feldheym Central Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "W 6th Street 555",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo, Tu 12:00-20:00; We, Th, Sa 10:00-18:00",
+    "lat": 34.1094927,
+    "lng": -117.2954709,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170253",
+    "name": "San Bernardino Sun Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.1080672,
+    "lng": -117.2917097,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170255",
+    "name": "Samuel E Adams Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0886233,
+    "lng": -117.3130992,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170258",
+    "name": "Carnegie Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0686239,
+    "lng": -117.323655,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170266",
+    "name": "Grand Terrace Branch San Bernardino County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Barton Road 22795",
+    "city": "Grand Terrace",
+    "state": "CA",
+    "zip": "92313",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0352851,
+    "lng": -117.3069935,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3033666566",
+    "name": "Discovery Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Barton Road 1534",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0478102,
+    "lng": -117.2070279,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4419238013",
+    "name": "Catholic Charites",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9376464,
+    "lng": -117.2504296,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8882819022",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0682125,
+    "lng": -117.4315285,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8989613036",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Foothill Boulevard 12769",
+    "city": "Rancho Cucamonga",
+    "state": "CA",
+    "zip": "91739",
+    "phone": "",
+    "hours": "",
+    "lat": 34.1049827,
+    "lng": -117.5262876,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13562714928",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9910077,
+    "lng": -117.3342702,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-187123390",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9141403,
+    "lng": -117.4563614,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-233267664",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9595448,
+    "lng": -117.3922554,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-444448964",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "23615",
+    "city": "Moreno Valley",
+    "state": "CA",
+    "zip": "92553",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9374568,
+    "lng": -117.2508955,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-506900983",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0473278,
+    "lng": -117.3038586,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-933090944",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0683547,
+    "lng": -117.4369801,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-riverside-shelter",
+    "name": "Riverside Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24/7",
+    "lat": 33.9533,
+    "lng": -117.3961,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-riverside-hygiene",
+    "name": "La Sierra Branch Riverside Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.91548,
+    "lng": -117.4866278,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

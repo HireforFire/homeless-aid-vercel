@@ -1,0 +1,319 @@
+import type { Resource } from "@/lib/types";
+import supplements from "./supplements.json";
+
+import akron from "./akron.json";
+import albany from "./albany.json";
+import albuquerque from "./albuquerque.json";
+import amarillo from "./amarillo.json";
+import anaheim from "./anaheim.json";
+import anchorage from "./anchorage.json";
+import ann_arbor from "./ann-arbor.json";
+import arlington_tx from "./arlington-tx.json";
+import arlington_va from "./arlington-va.json";
+import atlanta from "./atlanta.json";
+import aurora_co from "./aurora-co.json";
+import austin from "./austin.json";
+import bakersfield from "./bakersfield.json";
+import baltimore from "./baltimore.json";
+import baton_rouge from "./baton-rouge.json";
+import billings from "./billings.json";
+import birmingham from "./birmingham.json";
+import bismarck from "./bismarck.json";
+import boise from "./boise.json";
+import boston from "./boston.json";
+import buffalo from "./buffalo.json";
+import burlington from "./burlington.json";
+import carson_city from "./carson-city.json";
+import casper from "./casper.json";
+import chandler from "./chandler.json";
+import charleston_sc from "./charleston-sc.json";
+import charleston_wv from "./charleston-wv.json";
+import charlotte from "./charlotte.json";
+import chattanooga from "./chattanooga.json";
+import cheyenne from "./cheyenne.json";
+import chicago from "./chicago.json";
+import chula_vista from "./chula-vista.json";
+import cincinnati from "./cincinnati.json";
+import cleveland from "./cleveland.json";
+import colorado_springs from "./colorado-springs.json";
+import columbia_sc from "./columbia-sc.json";
+import columbus from "./columbus.json";
+import corpus_christi from "./corpus-christi.json";
+import dallas from "./dallas.json";
+import dayton from "./dayton.json";
+import denver from "./denver.json";
+import des_moines from "./des-moines.json";
+import detroit from "./detroit.json";
+import durham from "./durham.json";
+import el_paso from "./el-paso.json";
+import eugene from "./eugene.json";
+import fargo from "./fargo.json";
+import fayetteville_ar from "./fayetteville-ar.json";
+import fort_lauderdale from "./fort-lauderdale.json";
+import fort_wayne from "./fort-wayne.json";
+import fort_worth from "./fort-worth.json";
+import frankfort_ky from "./frankfort-ky.json";
+import fresno from "./fresno.json";
+import grand_rapids from "./grand-rapids.json";
+import greensboro from "./greensboro.json";
+import greenville_sc from "./greenville-sc.json";
+import gulfport from "./gulfport.json";
+import hartford from "./hartford.json";
+import helena from "./helena.json";
+import honolulu from "./honolulu.json";
+import houston from "./houston.json";
+import huntsville from "./huntsville.json";
+import idaho_falls from "./idaho-falls.json";
+import indianapolis from "./indianapolis.json";
+import irvine from "./irvine.json";
+import jackson_ms from "./jackson-ms.json";
+import jacksonville from "./jacksonville.json";
+import jersey_city from "./jersey-city.json";
+import kansas_city from "./kansas-city.json";
+import knoxville from "./knoxville.json";
+import lansing from "./lansing.json";
+import las_cruces from "./las-cruces.json";
+import las_vegas from "./las-vegas.json";
+import lexington from "./lexington.json";
+import lincoln from "./lincoln.json";
+import little_rock from "./little-rock.json";
+import long_beach from "./long-beach.json";
+import los_angeles from "./los-angeles.json";
+import louisville from "./louisville.json";
+import lubbock from "./lubbock.json";
+import madison from "./madison.json";
+import manchester_nh from "./manchester-nh.json";
+import memphis from "./memphis.json";
+import mesa from "./mesa.json";
+import miami from "./miami.json";
+import milwaukee from "./milwaukee.json";
+import minneapolis from "./minneapolis.json";
+import mobile from "./mobile.json";
+import modesto from "./modesto.json";
+import montgomery from "./montgomery.json";
+import nashville from "./nashville.json";
+import new_haven from "./new-haven.json";
+import new_orleans from "./new-orleans.json";
+import new_york from "./new-york.json";
+import newark from "./newark.json";
+import norfolk from "./norfolk.json";
+import oakland from "./oakland.json";
+import oklahoma_city from "./oklahoma-city.json";
+import olympia from "./olympia.json";
+import omaha from "./omaha.json";
+import orlando from "./orlando.json";
+import oxnard from "./oxnard.json";
+import peoria from "./peoria.json";
+import philadelphia from "./philadelphia.json";
+import phoenix from "./phoenix.json";
+import pittsburgh from "./pittsburgh.json";
+import plano from "./plano.json";
+import portland_me from "./portland-me.json";
+import portland_or from "./portland-or.json";
+import providence from "./providence.json";
+import provo from "./provo.json";
+import raleigh from "./raleigh.json";
+import rapid_city from "./rapid-city.json";
+import reno from "./reno.json";
+import richmond from "./richmond.json";
+import riverside from "./riverside.json";
+import rochester from "./rochester.json";
+import rockford from "./rockford.json";
+import sacramento from "./sacramento.json";
+import salem_or from "./salem-or.json";
+import salt_lake_city from "./salt-lake-city.json";
+import san_antonio from "./san-antonio.json";
+import san_diego from "./san-diego.json";
+import san_francisco from "./san-francisco.json";
+import san_jose from "./san-jose.json";
+import san_juan from "./san-juan.json";
+import santa_ana from "./santa-ana.json";
+import santa_fe from "./santa-fe.json";
+import seattle from "./seattle.json";
+import shreveport from "./shreveport.json";
+import sioux_falls from "./sioux-falls.json";
+import south_bend from "./south-bend.json";
+import spokane from "./spokane.json";
+import springfield_il from "./springfield-il.json";
+import st_louis from "./st-louis.json";
+import st_paul from "./st-paul.json";
+import st_petersburg from "./st-petersburg.json";
+import stockton from "./stockton.json";
+import syracuse from "./syracuse.json";
+import tacoma from "./tacoma.json";
+import tallahassee from "./tallahassee.json";
+import tampa from "./tampa.json";
+import toledo from "./toledo.json";
+import topeka from "./topeka.json";
+import tucson from "./tucson.json";
+import tulsa from "./tulsa.json";
+import vancouver_wa from "./vancouver-wa.json";
+import virginia_beach from "./virginia-beach.json";
+import washington_dc from "./washington-dc.json";
+import west_valley_city from "./west-valley-city.json";
+import wichita from "./wichita.json";
+import winston_salem from "./winston-salem.json";
+
+const cityData: Record<string, Resource[]> = {
+  "akron": akron as Resource[],
+  "albany": albany as Resource[],
+  "albuquerque": albuquerque as Resource[],
+  "amarillo": amarillo as Resource[],
+  "anaheim": anaheim as Resource[],
+  "anchorage": anchorage as Resource[],
+  "ann-arbor": ann_arbor as Resource[],
+  "arlington-tx": arlington_tx as Resource[],
+  "arlington-va": arlington_va as Resource[],
+  "atlanta": atlanta as Resource[],
+  "aurora-co": aurora_co as Resource[],
+  "austin": austin as Resource[],
+  "bakersfield": bakersfield as Resource[],
+  "baltimore": baltimore as Resource[],
+  "baton-rouge": baton_rouge as Resource[],
+  "billings": billings as Resource[],
+  "birmingham": birmingham as Resource[],
+  "bismarck": bismarck as Resource[],
+  "boise": boise as Resource[],
+  "boston": boston as Resource[],
+  "buffalo": buffalo as Resource[],
+  "burlington": burlington as Resource[],
+  "carson-city": carson_city as Resource[],
+  "casper": casper as Resource[],
+  "chandler": chandler as Resource[],
+  "charleston-sc": charleston_sc as Resource[],
+  "charleston-wv": charleston_wv as Resource[],
+  "charlotte": charlotte as Resource[],
+  "chattanooga": chattanooga as Resource[],
+  "cheyenne": cheyenne as Resource[],
+  "chicago": chicago as Resource[],
+  "chula-vista": chula_vista as Resource[],
+  "cincinnati": cincinnati as Resource[],
+  "cleveland": cleveland as Resource[],
+  "colorado-springs": colorado_springs as Resource[],
+  "columbia-sc": columbia_sc as Resource[],
+  "columbus": columbus as Resource[],
+  "corpus-christi": corpus_christi as Resource[],
+  "dallas": dallas as Resource[],
+  "dayton": dayton as Resource[],
+  "denver": denver as Resource[],
+  "des-moines": des_moines as Resource[],
+  "detroit": detroit as Resource[],
+  "durham": durham as Resource[],
+  "el-paso": el_paso as Resource[],
+  "eugene": eugene as Resource[],
+  "fargo": fargo as Resource[],
+  "fayetteville-ar": fayetteville_ar as Resource[],
+  "fort-lauderdale": fort_lauderdale as Resource[],
+  "fort-wayne": fort_wayne as Resource[],
+  "fort-worth": fort_worth as Resource[],
+  "frankfort-ky": frankfort_ky as Resource[],
+  "fresno": fresno as Resource[],
+  "grand-rapids": grand_rapids as Resource[],
+  "greensboro": greensboro as Resource[],
+  "greenville-sc": greenville_sc as Resource[],
+  "gulfport": gulfport as Resource[],
+  "hartford": hartford as Resource[],
+  "helena": helena as Resource[],
+  "honolulu": honolulu as Resource[],
+  "houston": houston as Resource[],
+  "huntsville": huntsville as Resource[],
+  "idaho-falls": idaho_falls as Resource[],
+  "indianapolis": indianapolis as Resource[],
+  "irvine": irvine as Resource[],
+  "jackson-ms": jackson_ms as Resource[],
+  "jacksonville": jacksonville as Resource[],
+  "jersey-city": jersey_city as Resource[],
+  "kansas-city": kansas_city as Resource[],
+  "knoxville": knoxville as Resource[],
+  "lansing": lansing as Resource[],
+  "las-cruces": las_cruces as Resource[],
+  "las-vegas": las_vegas as Resource[],
+  "lexington": lexington as Resource[],
+  "lincoln": lincoln as Resource[],
+  "little-rock": little_rock as Resource[],
+  "long-beach": long_beach as Resource[],
+  "los-angeles": los_angeles as Resource[],
+  "louisville": louisville as Resource[],
+  "lubbock": lubbock as Resource[],
+  "madison": madison as Resource[],
+  "manchester-nh": manchester_nh as Resource[],
+  "memphis": memphis as Resource[],
+  "mesa": mesa as Resource[],
+  "miami": miami as Resource[],
+  "milwaukee": milwaukee as Resource[],
+  "minneapolis": minneapolis as Resource[],
+  "mobile": mobile as Resource[],
+  "modesto": modesto as Resource[],
+  "montgomery": montgomery as Resource[],
+  "nashville": nashville as Resource[],
+  "new-haven": new_haven as Resource[],
+  "new-orleans": new_orleans as Resource[],
+  "new-york": new_york as Resource[],
+  "newark": newark as Resource[],
+  "norfolk": norfolk as Resource[],
+  "oakland": oakland as Resource[],
+  "oklahoma-city": oklahoma_city as Resource[],
+  "olympia": olympia as Resource[],
+  "omaha": omaha as Resource[],
+  "orlando": orlando as Resource[],
+  "oxnard": oxnard as Resource[],
+  "peoria": peoria as Resource[],
+  "philadelphia": philadelphia as Resource[],
+  "phoenix": phoenix as Resource[],
+  "pittsburgh": pittsburgh as Resource[],
+  "plano": plano as Resource[],
+  "portland-me": portland_me as Resource[],
+  "portland-or": portland_or as Resource[],
+  "providence": providence as Resource[],
+  "provo": provo as Resource[],
+  "raleigh": raleigh as Resource[],
+  "rapid-city": rapid_city as Resource[],
+  "reno": reno as Resource[],
+  "richmond": richmond as Resource[],
+  "riverside": riverside as Resource[],
+  "rochester": rochester as Resource[],
+  "rockford": rockford as Resource[],
+  "sacramento": sacramento as Resource[],
+  "salem-or": salem_or as Resource[],
+  "salt-lake-city": salt_lake_city as Resource[],
+  "san-antonio": san_antonio as Resource[],
+  "san-diego": san_diego as Resource[],
+  "san-francisco": san_francisco as Resource[],
+  "san-jose": san_jose as Resource[],
+  "san-juan": san_juan as Resource[],
+  "santa-ana": santa_ana as Resource[],
+  "santa-fe": santa_fe as Resource[],
+  "seattle": seattle as Resource[],
+  "shreveport": shreveport as Resource[],
+  "sioux-falls": sioux_falls as Resource[],
+  "south-bend": south_bend as Resource[],
+  "spokane": spokane as Resource[],
+  "springfield-il": springfield_il as Resource[],
+  "st-louis": st_louis as Resource[],
+  "st-paul": st_paul as Resource[],
+  "st-petersburg": st_petersburg as Resource[],
+  "stockton": stockton as Resource[],
+  "syracuse": syracuse as Resource[],
+  "tacoma": tacoma as Resource[],
+  "tallahassee": tallahassee as Resource[],
+  "tampa": tampa as Resource[],
+  "toledo": toledo as Resource[],
+  "topeka": topeka as Resource[],
+  "tucson": tucson as Resource[],
+  "tulsa": tulsa as Resource[],
+  "vancouver-wa": vancouver_wa as Resource[],
+  "virginia-beach": virginia_beach as Resource[],
+  "washington-dc": washington_dc as Resource[],
+  "west-valley-city": west_valley_city as Resource[],
+  "wichita": wichita as Resource[],
+  "winston-salem": winston_salem as Resource[],
+};
+
+const supps = supplements as Record<string, Resource[]>;
+
+export function getResources(regionSlug: string): Resource[] {
+  const base = cityData[regionSlug] ?? [];
+  const extra = supps[regionSlug] ?? [];
+  const existingIds = new Set(base.map((r) => r.id));
+  return [...base, ...extra.filter((s) => !existingIds.has(s.id))];
+}

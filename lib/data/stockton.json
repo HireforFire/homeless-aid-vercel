@@ -1,0 +1,572 @@
+[
+  {
+    "id": "fa-179297",
+    "name": "First Presbyterian Church",
+    "category": "Food",
+    "description": "First Presbyterian Church located in Stockton",
+    "address": "31 E Vine St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9655567,
+    "lng": -121.29416889999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186082",
+    "name": "SDA Stockton",
+    "category": "Food",
+    "description": "SDA Stockton clothing assistance location in Stockton, California.",
+    "address": "135 W. Vine St.",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95204",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9652684,
+    "lng": -121.2967009,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191952",
+    "name": "Catholic Charities of Stockton",
+    "category": "Food",
+    "description": "Food pantry location at 1106 N. Eldorado St., Stockton, CA",
+    "address": "1106 N. Eldorado St.",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9637803,
+    "lng": -121.2924531,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201663",
+    "name": "St Paul's United Methodist Church",
+    "category": "Food",
+    "description": "Food distribution location at St Paul's United Methodist Church",
+    "address": "1625 N Lincoln St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95204",
+    "phone": "",
+    "hours": "",
+    "lat": 37.967357299999996,
+    "lng": -121.3026668,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214267",
+    "name": "Good Samaritan Training Center",
+    "category": "Food",
+    "description": "Food distribution and clothing assistance location in Stockton.",
+    "address": "1331 E. Fremont Street",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95205",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9606082,
+    "lng": -121.2746784,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216294",
+    "name": "Plymouth Place",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1320 N Monroe St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95203",
+    "phone": "(209) 466-4345",
+    "hours": "",
+    "lat": 37.965023,
+    "lng": -121.298386,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216296",
+    "name": "Salvation Army Corps Community",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1305 E Weber Ave",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95205",
+    "phone": "(209) 948-8955",
+    "hours": "",
+    "lat": 37.956676,
+    "lng": -121.274368,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218639",
+    "name": "The Salvation Army - N Stanislaus Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "123 N. Stanislaus Street",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "(209) 463-4960",
+    "hours": "",
+    "lat": 37.95968,
+    "lng": -121.28772,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220294",
+    "name": "Emergency Food Bank of Stockton",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "7 West Scotts Avenue",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95203",
+    "phone": "(209) 464-7369",
+    "hours": "",
+    "lat": 37.9455147,
+    "lng": -121.2896042,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223280",
+    "name": "Emergenyc Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "7  W. Scotts Avenue",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95203",
+    "phone": "(209) 464-7369",
+    "hours": "",
+    "lat": 37.9455921,
+    "lng": -121.2895478,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-447930",
+    "name": "CALIFORNIA STREET EHS",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
+    "address": "425 N California St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "(209) 242-9554",
+    "hours": "",
+    "lat": 37.958054,
+    "lng": -121.286096,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-447937",
+    "name": "HUNTER ADMINISTRATIVE OFFICE",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (80 funded slots)",
+    "address": "1145 N Hunter St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "(209) 242-9540",
+    "hours": "",
+    "lat": 37.964594,
+    "lng": -121.291906,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "osm-node-12147107313",
+    "name": "Tracy Temporary Emergency Housing Facility",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Arbor Avenue 370",
+    "city": "Tracy",
+    "state": "CA",
+    "zip": "95376",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7647266,
+    "lng": -121.4196622,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-556809472",
+    "name": "Lodi Lions Picnic Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.1351847,
+    "lng": -121.2795962,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170455",
+    "name": "Central Branch Stockton-San Joaquin County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9589382,
+    "lng": -121.2919207,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170464",
+    "name": "Petzinger Library of California",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9604793,
+    "lng": -121.3141135,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170465",
+    "name": "Goleman Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9951592,
+    "lng": -121.3181902,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170480",
+    "name": "Margaret K Troke Branch Stockton-San Joaquin County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0115892,
+    "lng": -121.3177256,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170483",
+    "name": "Humphreys University Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0115892,
+    "lng": -121.3168921,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2972577741",
+    "name": "San Joaquin County Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Sutter Street 20",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9537079,
+    "lng": -121.285797,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5370774439",
+    "name": "Lodi Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.1368649,
+    "lng": -121.2755085,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11637664810",
+    "name": "Lathrop Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.825514,
+    "lng": -121.2999737,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-257034331",
+    "name": "William Knox Holt Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9798393,
+    "lng": -121.3093221,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-287576900",
+    "name": "Fair Oaks Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Main Street 2151",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.955517,
+    "lng": -121.2602517,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2142093038",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7984146,
+    "lng": -121.2107208,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3251652177",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7982577,
+    "lng": -121.240134,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7525424074",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.1141213,
+    "lng": -121.2833093,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-287546526",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9911708,
+    "lng": -121.3184351,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-287592726",
+    "name": "American Red Cross",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West March Lane 2888",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95219",
+    "phone": "(800) 733-2767",
+    "hours": "",
+    "lat": 37.9839757,
+    "lng": -121.3472264,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-stockton-hygiene",
+    "name": "Central Branch Stockton-San Joaquin County Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9589382,
+    "lng": -121.2919207,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

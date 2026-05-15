@@ -1,0 +1,698 @@
+[
+  {
+    "id": "fa-180170",
+    "name": "Pinellas Community Law Program - St. Petersburg Office",
+    "category": "Food",
+    "description": "Main office location for Pinellas Community Law Program",
+    "address": "501 1st Avenue North",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7725556,
+    "lng": -82.6405302,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180181",
+    "name": "Peterborough Senior Apartments (Isaiah's Place)",
+    "category": "Food",
+    "description": "Senior housing facility located in Downtown Peterborough",
+    "address": "440 4th Avenue North",
+    "city": "Downtown",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7762526,
+    "lng": -82.6395288,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184099",
+    "name": "SVDP Food Service Center",
+    "category": "Food",
+    "description": "Food Service Center location providing food distribution services.",
+    "address": "401 15th St. N.",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7767981,
+    "lng": -82.6535283,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202680",
+    "name": "Campbell Park Recreation Center",
+    "category": "Food",
+    "description": "BreakSpot Meals distribution site",
+    "address": "601 14th Street South",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7639533,
+    "lng": -82.6528644,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204123",
+    "name": "NS Club",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1035 Burlington Avenue North",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7744015,
+    "lng": -82.6493926,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205175",
+    "name": "Viridian Apartments",
+    "category": "Food",
+    "description": "Food distribution location at Viridian Apartments",
+    "address": "518 3rd Avenue South",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7682312,
+    "lng": -82.64094329999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207416",
+    "name": "John Hopkins Middle School",
+    "category": "Food",
+    "description": "Food distribution location at John Hopkins Middle School",
+    "address": "701 16th Street South",
+    "city": "Melrose-Mercy",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7635238,
+    "lng": -82.6547957,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212885",
+    "name": "Historic Bethel AME Church",
+    "category": "Food",
+    "description": "Historic Bethel AME Church food distribution location",
+    "address": "912 3rd Avenue North",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7747876,
+    "lng": -82.64750570000001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214197",
+    "name": "Unitarian Universalist Church",
+    "category": "Food",
+    "description": "Unitarian Universalist Church - location for shared meal services",
+    "address": "100 Mirror Lake Drive North",
+    "city": "Downtown",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7728288,
+    "lng": -82.64347,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218867",
+    "name": "The Salvation Army - 14Th Ave S",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "340 14th Ave S",
+    "city": "St Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "(727) 550-8080",
+    "hours": "",
+    "lat": 27.7705,
+    "lng": -82.63566,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222929",
+    "name": "Ronald McDonald House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "401 7th Avenue South",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "(727) 767-7685",
+    "hours": "",
+    "lat": 27.7632771,
+    "lng": -82.6389999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-182450",
+    "name": "THE SUNSHINE CENTER",
+    "category": "Food",
+    "description": "The Sunshine Center located in Downtown St. Petersburg, providing senior services and programs.",
+    "address": "330 5th Street North",
+    "city": "Downtown",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7757334,
+    "lng": -82.6402836,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-2365930011",
+    "name": "Shelter 1",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7860769,
+    "lng": -82.7381104,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2367357658",
+    "name": "Shelter 1",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.714596,
+    "lng": -82.6537301,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2367357666",
+    "name": "Shelter 2",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7147548,
+    "lng": -82.6537398,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2367357673",
+    "name": "Shelter 3",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7147094,
+    "lng": -82.6534739,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2367357679",
+    "name": "Shelter 4",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7148569,
+    "lng": -82.6534803,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2367357685",
+    "name": "Shelter 5",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7150043,
+    "lng": -82.6534771,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367824809",
+    "name": "Saint Petersburg Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.782249,
+    "lng": -82.6734327,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3121995142",
+    "name": "Stetson University College of Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7565639,
+    "lng": -82.7176718,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12551975760",
+    "name": "East Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Drew Street 2465",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33765-2816",
+    "phone": "(727) 562-4970",
+    "hours": "",
+    "lat": 27.96517,
+    "lng": -82.736125,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12551975848",
+    "name": "James J. Lunsford Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Twiggs Street 701",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33602-4006",
+    "phone": "(813) 273-3652",
+    "hours": "",
+    "lat": 27.9502707,
+    "lng": -82.4548788,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-25906732",
+    "name": "John F. Germany Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Ashley Drive 900",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-We 10:00-21:00; Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:30-17:00",
+    "lat": 27.9509742,
+    "lng": -82.4621791,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-25913702",
+    "name": "Macdonald-Kelce Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "UT University Drive 405",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33606",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9484873,
+    "lng": -82.464849,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-39652802",
+    "name": "Mirror Lake Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "5th Street North 280",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "(727) 893-7268",
+    "hours": "Mo,We 10:00-19:00; Tu,Th,Fr 10:00-18:00; Sa 09:00-17:00",
+    "lat": 27.774834,
+    "lng": -82.6402954,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-70794224",
+    "name": "Gulf Beaches Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Municipal Drive 200",
+    "city": "Madeira Beach",
+    "state": "FL",
+    "zip": "33708",
+    "phone": "(727) 391-2828",
+    "hours": "",
+    "lat": 27.8038324,
+    "lng": -82.8013751,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-108000906",
+    "name": "Childs Park Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "43rd Street South 691",
+    "city": "Saint Petersburg;St. Petersburg",
+    "state": "FL",
+    "zip": "33711;33711-1907",
+    "phone": "(727) 893-7714",
+    "hours": "",
+    "lat": 27.7631504,
+    "lng": -82.6922224,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-165667672",
+    "name": "West Community Library at Saint Petersburg College",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "8th Avenue North 6700",
+    "city": "Saint Petersburg;St. Petersburg",
+    "state": "FL",
+    "zip": "33710",
+    "phone": "(727) 341-7199",
+    "hours": "",
+    "lat": 27.778992,
+    "lng": -82.7315153,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1424504725",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "4th Street North",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33703",
+    "phone": "",
+    "hours": "",
+    "lat": 27.820726,
+    "lng": -82.637835,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3014582333",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "2250",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.960823,
+    "lng": -82.743976,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-189254493",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.8267663,
+    "lng": -82.7278988,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-192547467",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "34th Street North 180",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33713",
+    "phone": "(727) 328-2730",
+    "hours": "Mo-Sa 10:00-18:00",
+    "lat": 27.7725479,
+    "lng": -82.6798878,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-281079277",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.8397092,
+    "lng": -82.7435701,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-950132428",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7951101,
+    "lng": -82.6807168,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1019339258",
+    "name": "Out of the Closet - Saint Petersburg",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "26th Avenue South 3400",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "(727) 321-1145",
+    "hours": "",
+    "lat": 27.7442719,
+    "lng": -82.679728,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-st-petersburg-hygiene",
+    "name": "Saint Petersburg Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 27.782249,
+    "lng": -82.6734327,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

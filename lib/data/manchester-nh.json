@@ -1,0 +1,547 @@
+[
+  {
+    "id": "fa-221926",
+    "name": "New horizons of NH",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "199 Manchester Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 668-1877",
+    "hours": "",
+    "lat": 42.9899864,
+    "lng": -71.4586792,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222818",
+    "name": "Karenangela Carter Memorial Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "45 Manchester St.",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03104",
+    "phone": "(603) 668-6226",
+    "hours": "",
+    "lat": 42.9901848,
+    "lng": -71.4621277,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-9275",
+    "name": "Cedar Street Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "121 Cedar Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03101",
+    "phone": "(603) 627-7013",
+    "hours": "",
+    "lat": 42.98881,
+    "lng": -71.4659,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-445808",
+    "name": "Southern NH Services - West High Head Start",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (32 funded slots)",
+    "address": "9 Notre Dame Ave",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102",
+    "phone": "(603) 668-8010",
+    "hours": "",
+    "lat": 42.986654,
+    "lng": -71.474832,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-445810",
+    "name": "Southern NH Services Child Development Program at MCC",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (18 funded slots)",
+    "address": "1066 Front St",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102",
+    "phone": "(603) 623-2332",
+    "hours": "",
+    "lat": 43.019248,
+    "lng": -71.480986,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-445811",
+    "name": "Southern New Hampshire Services Silver Street Child Development Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (68 funded slots)",
+    "address": "160 Silver St",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 668-8010",
+    "hours": "",
+    "lat": 42.977366,
+    "lng": -71.458715,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-445815",
+    "name": "Northwest Head Start",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (30 funded slots)",
+    "address": "300 Youville St",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102",
+    "phone": "(603) 518-5824",
+    "hours": "",
+    "lat": 42.999765,
+    "lng": -71.483648,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-129876",
+    "name": "1063 Making Community Connections Charter",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "60 ROGERS ST",
+    "city": "MANCHESTER",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 935-7488",
+    "hours": "",
+    "lat": 42.978984,
+    "lng": -71.449011,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-183401",
+    "name": "St. Anthony Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location in Manchester, New Hampshire.",
+    "address": "61 W Baker St",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "",
+    "hours": "",
+    "lat": 42.972586299999996,
+    "lng": -71.4647055,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-9272",
+    "name": "First United Methodist Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "961 Valley Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 622-8863",
+    "hours": "",
+    "lat": 42.95536,
+    "lng": -71.44463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9274",
+    "name": "Families in Transition Food Pantry",
+    "category": "Food",
+    "description": "once per month",
+    "address": "176 Lake Avenue",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 641-9441",
+    "hours": "",
+    "lat": 42.95536,
+    "lng": -71.44463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9295",
+    "name": "St Raphael's Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "103 Walker Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102",
+    "phone": "(603) 623-2604",
+    "hours": "",
+    "lat": 43.00797,
+    "lng": -71.49134,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "osm-node-366494971",
+    "name": "New Hampshire Public Utilities Commission Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1909148,
+    "lng": -71.509793,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12762825440",
+    "name": "Dunbarton Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "School Street 1004",
+    "city": "Dunbarton",
+    "state": "NH",
+    "zip": "03046",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1027991,
+    "lng": -71.6162399,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12994234515",
+    "name": "American Canadian Genealogical Society",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sundial Avenue 1",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "",
+    "phone": "(603) 622-1554",
+    "hours": "We, Sa 10:00-14:00 || \"by appointment\"",
+    "lat": 42.9726478,
+    "lng": -71.4692187,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13384415354",
+    "name": "Allenstown Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 59",
+    "city": "Allenstown",
+    "state": "NH",
+    "zip": "03275",
+    "phone": "",
+    "hours": "Mo 11:00-19:00; Tu 13:00-17:00; Th 10:00-17:00; Sa 10:00-13:00",
+    "lat": 43.1281197,
+    "lng": -71.4542515,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-28721510",
+    "name": "Derry Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Broadway 64",
+    "city": "Derry",
+    "state": "NH",
+    "zip": "03038",
+    "phone": "",
+    "hours": "",
+    "lat": 42.883508,
+    "lng": -71.3225207,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-32326584",
+    "name": "Aaron Cutler Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Charles Bancroft Highway 269",
+    "city": "Litchfield",
+    "state": "NH",
+    "zip": "03052",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8445747,
+    "lng": -71.4794924,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-39014697",
+    "name": "Taylor Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Derry Road 49",
+    "city": "Derry",
+    "state": "NH",
+    "zip": "03038",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8939817,
+    "lng": -71.2941232,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-52968099",
+    "name": "Leach Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Mammoth Road 276",
+    "city": "Londonderry",
+    "state": "NH",
+    "zip": "03053",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8685682,
+    "lng": -71.3749762,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-85660999",
+    "name": "Louis B. Warren Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8071524,
+    "lng": -71.4837934,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-117274178",
+    "name": "Nesmith Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Fellows Road 8",
+    "city": "Windham",
+    "state": "NH",
+    "zip": "03087",
+    "phone": "",
+    "hours": "Mo-Th 09:00-20:00;Fr 09:00-17:00;Sa 09:00-16:00; Su 13:00-17:00",
+    "lat": 42.8021834,
+    "lng": -71.2983445,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4379962142",
+    "name": "Marion Gerrish Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Broadway 39",
+    "city": "Derry",
+    "state": "NH",
+    "zip": "03038",
+    "phone": "(603) 434-8866",
+    "hours": "Mo,Sa 09:00-16:00; Tu-Fr 09:00-19:00",
+    "lat": 42.8794716,
+    "lng": -71.3298686,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-85931705",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "John E. Devine Drive 165",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9587053,
+    "lng": -71.4403878,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-236156359",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Hooksett Road 1292",
+    "city": "Hooksett",
+    "state": "NH",
+    "zip": "03106",
+    "phone": "(603) 622-6207",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 43.0503808,
+    "lng": -71.4389786,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-431798748",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "State Route 101A 131",
+    "city": "Amherst",
+    "state": "NH",
+    "zip": "03031",
+    "phone": "(603) 554-8288",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 42.8055797,
+    "lng": -71.567005,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-manchester-nh-shelter",
+    "name": "Manchester Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 42.9956,
+    "lng": -71.4548,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-manchester-nh-hygiene",
+    "name": "New Hampshire Public Utilities Commission Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 43.1909148,
+    "lng": -71.509793,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

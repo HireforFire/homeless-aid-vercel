@@ -1,0 +1,679 @@
+[
+  {
+    "id": "fa-175311",
+    "name": "Grace Episcopal Church Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Grace Episcopal Church",
+    "address": "116 W Washington Ave.",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53703",
+    "phone": "",
+    "hours": "",
+    "lat": 43.074051823036,
+    "lng": -89.385880795021,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175917",
+    "name": "Bethel Lutheran Church",
+    "category": "Food",
+    "description": "Bethel Lutheran Church Homeless Ministry location",
+    "address": "312 Wisconsin Ave.",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53703",
+    "phone": "",
+    "hours": "",
+    "lat": 43.076724811958,
+    "lng": -89.388036955794,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176029",
+    "name": "Islamic Center of Madison",
+    "category": "Food",
+    "description": "Islamic Center of Madison facility",
+    "address": "21 N Orchard St",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53715",
+    "phone": "",
+    "hours": "",
+    "lat": 43.068356948471,
+    "lng": -89.407170158535,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176602",
+    "name": "Bayview Foundation, Inc. Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "103 La Mariposa Lane",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53715",
+    "phone": "",
+    "hours": "",
+    "lat": 43.066406018597,
+    "lng": -89.397514960448,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177578",
+    "name": "First United Methodist Church",
+    "category": "Food",
+    "description": "First United Methodist Church meal program location",
+    "address": "203 Wisconsin Ave.",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53703",
+    "phone": "",
+    "hours": "",
+    "lat": 43.076861353161,
+    "lng": -89.386162007873,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200865",
+    "name": "Saint Mark's Lutheran Church - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located at Saint Mark's Lutheran Church in Madison.",
+    "address": "605 Spruce St",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53715",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0526336,
+    "lng": -89.39257889999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220266",
+    "name": "Madison Food Not Bombs",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "416 E Wilson Street",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53703",
+    "phone": "(608) 444-5261",
+    "hours": "",
+    "lat": 43.0756302,
+    "lng": -89.3768311,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223927",
+    "name": "St. Vincent de Paul Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2033 Fish Hatchery Road",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53713",
+    "phone": "(608) 442-7200",
+    "hours": "",
+    "lat": 43.0430984,
+    "lng": -89.403183,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-452331",
+    "name": "Great Beginnings Arbor Hills",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
+    "address": "2821 Todd Dr",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53713",
+    "phone": "(608) 270-3485",
+    "hours": "",
+    "lat": 43.033734,
+    "lng": -89.422539,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-452332",
+    "name": "The Playing Field",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (16 funded slots)",
+    "address": "3910 Mineral Point Rd",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53705",
+    "phone": "(608) 213-3798",
+    "hours": "",
+    "lat": 43.06126,
+    "lng": -89.440969,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-452333",
+    "name": "Pequenos Traviesos LLC",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (20 funded slots)",
+    "address": "21 Nygard St",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53713",
+    "phone": "(608) 275-6740",
+    "hours": "",
+    "lat": 43.040651,
+    "lng": -89.385394,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-459683",
+    "name": "South Madison Head Start",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
+    "address": "3201 Latham Dr",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53713",
+    "phone": "(608) 275-6740",
+    "hours": "",
+    "lat": 43.02971,
+    "lng": -89.403344,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "osm-node-3800039867",
+    "name": "Velo UnderRound shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.023848,
+    "lng": -89.4612842,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5693553814",
+    "name": "N Broom & W Gorham (NB)",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0740823,
+    "lng": -89.3923544,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-790662052",
+    "name": "Alicia Ashman Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North High Point Road 733",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53717",
+    "phone": "",
+    "hours": "Mo-Fr 10:00-18:00; Sa 09:00-17:00",
+    "lat": 43.0760994,
+    "lng": -89.5175827,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-919194725",
+    "name": "Hill Farms Transportation Building Transportation Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0742859,
+    "lng": -89.4609203,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1173065967",
+    "name": "College Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0766467,
+    "lng": -89.4009983,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1473488018",
+    "name": "Sequoya Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Tokay Boulevard 4340",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53711",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-21:00; Sa 09:00-17:00",
+    "lat": 43.0537698,
+    "lng": -89.4505289,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2734689025",
+    "name": "Hawthorne Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Washington Avenue 2707",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53704",
+    "phone": "",
+    "hours": "Mo-Fr 10:00-20:00; Sa 09:00-17:00",
+    "lat": 43.101626,
+    "lng": -89.34641,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2983015083",
+    "name": "Geography Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0756308,
+    "lng": -89.4011389,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2983015084",
+    "name": "Robinson Map Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0760579,
+    "lng": -89.4010612,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3084751934",
+    "name": "Lakeview Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Sherman Avenue 2845",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53704",
+    "phone": "",
+    "hours": "Mo-Fr 10:00-20:00; Sa 09:00-17:00",
+    "lat": 43.1277872,
+    "lng": -89.3624003,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3137055339",
+    "name": "Meadowridge Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Raymond Road 5726",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53711",
+    "phone": "",
+    "hours": "Mo-Fr 10:00-20:00; Sa 09:00-17:00",
+    "lat": 43.0324678,
+    "lng": -89.4790028,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3680614959",
+    "name": "Ebling Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Highland Avenue 750",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53705-2221",
+    "phone": "(608) 262-2020",
+    "hours": "",
+    "lat": 43.0777498,
+    "lng": -89.4297886,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3092000621",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Verona Road 4530",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53711",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 43.0379689,
+    "lng": -89.457035,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3539974200",
+    "name": "Agrace Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Junction Road 118",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53717",
+    "phone": "",
+    "hours": "",
+    "lat": 43.061484,
+    "lng": -89.5280585,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4237990287",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0149049,
+    "lng": -89.480192,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7486573497",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 43.1747509,
+    "lng": -89.2491481,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7486573536",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 10:00-19:00; Su 10:00-17:00",
+    "lat": 43.1812841,
+    "lng": -89.2307231,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8773830623",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1280951,
+    "lng": -89.3613292,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11463349568",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Odana Road 6201",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "(608) 442-9919",
+    "hours": "Tu-Sa 09:00-17:00",
+    "lat": 43.0531914,
+    "lng": -89.4873621,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11985377614",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Odana Road 5906",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0527577,
+    "lng": -89.4834964,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12057653832",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "US Highway 51 1780",
+    "city": "Stoughton",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9196273,
+    "lng": -89.242679,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-37783807",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Odana Road 6301",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53719",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0532764,
+    "lng": -89.488614,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-madison-hygiene",
+    "name": "Alicia Ashman Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "North High Point Road 733",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53717",
+    "phone": "",
+    "hours": "Mo-Fr 10:00-18:00; Sa 09:00-17:00",
+    "lat": 43.0760994,
+    "lng": -89.5175827,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

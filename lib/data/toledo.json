@@ -1,0 +1,717 @@
+[
+  {
+    "id": "fa-174070",
+    "name": "Historic Church of Saint Patrick",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "130 Avondale Avenue",
+    "city": "Center City",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "(419) 243-6452",
+    "hours": "",
+    "lat": 41.6490517,
+    "lng": -83.5460454,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174343",
+    "name": "Islamic Center of Greater Toledo At Toledo Masjid Al-Islam - Mobile Pantry Stop",
+    "category": "Food",
+    "description": "Mobile pantry distribution location at Toledo Masjid Al-Islam.",
+    "address": "722 East Bancroft Street",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43608",
+    "phone": "(419) 241-9522",
+    "hours": "",
+    "lat": 41.66445239999999,
+    "lng": -83.5370568,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190057",
+    "name": "Grand Lodge Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at 1947 Franklin Ave., Toledo, OH",
+    "address": "1947 Franklin Ave.",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "",
+    "hours": "",
+    "lat": 41.660005,
+    "lng": -83.545482,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198781",
+    "name": "Thomas M. Wernert Center",
+    "category": "Food",
+    "description": "Soup kitchen facility in Toledo, Ohio.",
+    "address": "208 W. Woodruff Ave.",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "",
+    "hours": "",
+    "lat": 41.660564,
+    "lng": -83.548865,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205749",
+    "name": "Pinewood Tabernacle",
+    "category": "Food",
+    "description": "Pinewood Tabernacle located at 531 Pinewood Avenue, ONYX, OH 43604",
+    "address": "531 Pinewood Avenue",
+    "city": "ONYX",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6509267,
+    "lng": -83.5560192,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208314",
+    "name": "ProMedica Ebeid Center",
+    "category": "Food",
+    "description": "Main distribution location for meal kits",
+    "address": "1806 Madison Avenue",
+    "city": "Center City",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "",
+    "hours": "",
+    "lat": 41.65756409999999,
+    "lng": -83.5470978,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212124",
+    "name": "Friendly Center - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center in Toledo, Ohio",
+    "address": "1324 North Superior Street",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6605182,
+    "lng": -83.52070909999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-215295",
+    "name": "Salem Lutheran Church",
+    "category": "Food",
+    "description": "Salem Lutheran Church Feed Your Neighbor Program distribution location",
+    "address": "1127 North Huron Street",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6602822,
+    "lng": -83.5252156,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-219060",
+    "name": "Central Residents Council",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "642 Division Street",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43602",
+    "phone": "(419) 246-3188",
+    "hours": "",
+    "lat": 41.6472778,
+    "lng": -83.5523605,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223692",
+    "name": "Friendly Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1324 N Superior",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "(419) 243-1289",
+    "hours": "",
+    "lat": 41.6603928,
+    "lng": -83.5208435,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223715",
+    "name": "Cherry Street Mission Ministries",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1501 Monroe St",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "(419) 214-3007",
+    "hours": "",
+    "lat": 41.6534882,
+    "lng": -83.5474167,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-443558",
+    "name": "Catholic Club",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (20 funded slots)",
+    "address": "1601 Jefferson Ave",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "(419) 243-7255",
+    "hours": "",
+    "lat": 41.654847,
+    "lng": -83.547201,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "osm-node-6975479693",
+    "name": "Saint Jerome Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5926704,
+    "lng": -83.4877625,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11108351308",
+    "name": "Open Air Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.4866153,
+    "lng": -83.7364118,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-112574105",
+    "name": "Varsity “T” Pavilion",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.655262,
+    "lng": -83.6142541,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-430457172",
+    "name": "Mary Jane Gill Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6169798,
+    "lng": -83.6453893,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368153048",
+    "name": "Duns Scotus Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.7109526,
+    "lng": -83.7071895,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368153316",
+    "name": "Toledo Law Association Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6552706,
+    "lng": -83.5372069,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4673285519",
+    "name": "Scott High School",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6690853,
+    "lng": -83.5542452,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4906818330",
+    "name": "Jermain Library (historical)",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6696191,
+    "lng": -83.5081678,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8017931992",
+    "name": "Erie Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "(734) 848-4420",
+    "hours": "",
+    "lat": 41.7933645,
+    "lng": -83.4984259,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-186515601",
+    "name": "Point Place Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.7131674,
+    "lng": -83.4811121,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-186524368",
+    "name": "Lagrange Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Lagrange Street 3422",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6855091,
+    "lng": -83.543053,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-187706535",
+    "name": "Sylvania Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Monroe Street 6749",
+    "city": "Sylvania",
+    "state": "OH",
+    "zip": "43560",
+    "phone": "(419) 882-2089",
+    "hours": "Mo-Th 09:00-20:30, Fr-Sa 09:00-17:30",
+    "lat": 41.7151116,
+    "lng": -83.7070648,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-188006708",
+    "name": "Oregon Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6343231,
+    "lng": -83.4677485,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-188693706",
+    "name": "Birmingham Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6630467,
+    "lng": -83.4964976,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6794161463",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.7466131,
+    "lng": -83.6238556,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7611266890",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5386928,
+    "lng": -83.6342953,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9424051960",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.7067181,
+    "lng": -83.5000046,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12508584675",
+    "name": "Goodwill Donation Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Monroe Street 5801",
+    "city": "Sylvania",
+    "state": "OH",
+    "zip": "43560",
+    "phone": "",
+    "hours": "Mo-Sa 10:00-18:00, Su 12:00-17:00",
+    "lat": 41.710633,
+    "lng": -83.680442,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-134428610",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Executive Parkway 3550",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43606",
+    "phone": "",
+    "hours": "Mo 10:00-18:00, Tu-Su 10:00-20:00",
+    "lat": 41.6816474,
+    "lng": -83.6245758,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-191318667",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Stickney Avenue 3539",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6875067,
+    "lng": -83.5272102,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-196772527",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6925341,
+    "lng": -83.589263,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-428965598",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.603285,
+    "lng": -83.6639216,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-753133705",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5740205,
+    "lng": -83.659057,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-933671466",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Navarre Avenue 3249",
+    "city": "Oregon",
+    "state": "OH",
+    "zip": "43616",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6384105,
+    "lng": -83.47126,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-toledo-hygiene",
+    "name": "Duns Scotus Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 41.7109526,
+    "lng": -83.7071895,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

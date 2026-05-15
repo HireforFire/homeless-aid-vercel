@@ -1,0 +1,638 @@
+[
+  {
+    "id": "fa-446277",
+    "name": "It takes A Village (River City)",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (14 funded slots)",
+    "address": "800 S Wells St Ste 180",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60607",
+    "phone": "(312) 675-0053",
+    "hours": "",
+    "lat": 41.871556,
+    "lng": -87.634138,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-222029",
+    "name": "UI Health Pilsen Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1713 S Ashland St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(312) 413-4296",
+    "hours": "",
+    "lat": 41.858242,
+    "lng": -87.665741,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224634",
+    "name": "One Hope United",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3053 South Normal Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60616",
+    "phone": "(312) 842-5566",
+    "hours": "",
+    "lat": 41.8381996,
+    "lng": -87.6387405,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225421",
+    "name": "Benton House Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3052 South Gratten Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(773) 927-6420",
+    "hours": "",
+    "lat": 41.8388596,
+    "lng": -87.6541977,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-216645",
+    "name": "The Salvation Army - South Campbell Avenue Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "20 South Campbell Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60612",
+    "phone": "(312) 733-4801",
+    "hours": "",
+    "lat": 41.8805,
+    "lng": -87.68783,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-443095",
+    "name": "Salvation Army - Simpson Academy H.S",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (32 funded slots)",
+    "address": "1321 S Paulina St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(312) 492-7799",
+    "hours": "",
+    "lat": 41.86441,
+    "lng": -87.668356,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443104",
+    "name": "El Valor Corporation-Guadalupe Reyes Children & Family Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (85 funded slots)",
+    "address": "1951 W 19th St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(312) 997-2021",
+    "hours": "",
+    "lat": 41.855571,
+    "lng": -87.67529,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443117",
+    "name": "Northwestern University Settlement House",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (42 funded slots)",
+    "address": "1400 W Augusta Blvd",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60642",
+    "phone": "(773) 278-7471",
+    "hours": "",
+    "lat": 41.899791,
+    "lng": -87.66249,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443127",
+    "name": "Board of Trustees - City Colleges of Chicago-Malcolm X College Child Development Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (17 funded slots)",
+    "address": "1900 W Jackson Blvd",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60612",
+    "phone": "(312) 850-7000",
+    "hours": "",
+    "lat": 41.878169,
+    "lng": -87.674929,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443243",
+    "name": "Erie Neighborhood House",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (16 funded slots)",
+    "address": "1701 W Superior St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60622",
+    "phone": "(312) 243-7300",
+    "hours": "",
+    "lat": 41.894775,
+    "lng": -87.670064,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443318",
+    "name": "Carole Robertson Center - 1111",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (24 funded slots)",
+    "address": "1111 S Western Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60612",
+    "phone": "(312) 243-7300",
+    "hours": "",
+    "lat": 41.868106,
+    "lng": -87.685861,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443585",
+    "name": "Loop Learning Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (10 funded slots)",
+    "address": "2001 S Michigan Ave N/A",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60616",
+    "phone": "(312) 225-8828",
+    "hours": "",
+    "lat": 41.855152,
+    "lng": -87.622842,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "osm-node-5498035467",
+    "name": "Remembrance Park Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8833046,
+    "lng": -87.8094141,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368067602",
+    "name": "Northwestern University Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Lake Shore Drive 750",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60611",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8965181,
+    "lng": -87.6173152,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368067972",
+    "name": "Bruce Gordon Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.040948,
+    "lng": -87.6892015,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2297543240",
+    "name": "Columbia College Chicago Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Michigan Avenue 624",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60605",
+    "phone": "(312) 369-7900",
+    "hours": "",
+    "lat": 41.8735823,
+    "lng": -87.6245054,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3274266295",
+    "name": "Galewood-Mont Clare Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Belden Avenue 6871",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60707",
+    "phone": "(312) 746-0165",
+    "hours": "closed",
+    "lat": 41.9208053,
+    "lng": -87.7969796,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4426124953",
+    "name": "Back of the Yards Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West 47th Street 2111",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60609",
+    "phone": "(312) 747-9595",
+    "hours": "Mo,We 10:00-18:00; Tu,Th 12:00-20:00; Fr-Sa 09:00-17:00; Su 13:00-17:00",
+    "lat": 41.8078383,
+    "lng": -87.6773308,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5243052694",
+    "name": "D'Angelo Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East 60th Street 1121",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60637",
+    "phone": "",
+    "hours": "",
+    "lat": 41.785088,
+    "lng": -87.5990452,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6364994884",
+    "name": "North Pulaski Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West North Avenue 4300",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60639",
+    "phone": "(312) 744-9573",
+    "hours": "Mo,We 10:00-18:00; Tu,Th 12:00-20:00; Fr-Sa 09:00-17:00; Su 13:00-17:00; PH off",
+    "lat": 41.9100834,
+    "lng": -87.7338665,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6480010449",
+    "name": "Independence Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Elston Avenue 4024",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60618",
+    "phone": "(312) 744-0900",
+    "hours": "Mo,We 10:00-18:00; Tu,Th 12:00-20:00; Fr-Sa 09:00-17:00; Su 13:00-17:00",
+    "lat": 41.9542048,
+    "lng": -87.720259,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8201469300",
+    "name": "Robert Crown Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 1801",
+    "city": "Evanston",
+    "state": "IL",
+    "zip": "60202",
+    "phone": "",
+    "hours": "",
+    "lat": 42.0343916,
+    "lng": -87.6982579,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368064263",
+    "name": "Red Square",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "West Division Street 1914",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60622",
+    "phone": "",
+    "hours": "",
+    "lat": 41.9034063,
+    "lng": -87.6755121,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2029406918",
+    "name": "Resale - Second Hand etc",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.9958242,
+    "lng": -87.6601522,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2633077115",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Montrose Avenue 3400",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60618",
+    "phone": "",
+    "hours": "09:00-21:00",
+    "lat": 41.9612562,
+    "lng": -87.713315,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3445953662",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Union Avenue 509",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60654",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8916751,
+    "lng": -87.6455156,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4070566826",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Washington Boulevard 1201",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60607",
+    "phone": "(312) 563-1187",
+    "hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00",
+    "lat": 41.8828054,
+    "lng": -87.6570474,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4203625960",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Harlem Avenue 1900",
+    "city": "North Riverside",
+    "state": "IL",
+    "zip": "60546",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8531332,
+    "lng": -87.8049744,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7217924847",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Dempster Street 1916",
+    "city": "Evanston",
+    "state": "IL",
+    "zip": "60202",
+    "phone": "",
+    "hours": "",
+    "lat": 42.038746,
+    "lng": -87.7010816,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7246732248",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Cicero Avenue 8732",
+    "city": "Oak Lawn",
+    "state": "IL",
+    "zip": "60453",
+    "phone": "",
+    "hours": "",
+    "lat": 41.7319008,
+    "lng": -87.7434037,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7739017470",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West 63rd Street 6434",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60638",
+    "phone": "",
+    "hours": "",
+    "lat": 41.7780121,
+    "lng": -87.7829945,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7880427018",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Western Avenue 9321",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60643",
+    "phone": "",
+    "hours": "",
+    "lat": 41.7238523,
+    "lng": -87.6816782,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9398303358",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-19:00",
+    "lat": 41.960499,
+    "lng": -87.6541692,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

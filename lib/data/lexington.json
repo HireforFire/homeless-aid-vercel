@@ -1,0 +1,679 @@
+[
+  {
+    "id": "fa-175113",
+    "name": "Lighthouse Ministries",
+    "category": "Food",
+    "description": "Soup kitchen location at 190 Spruce St.",
+    "address": "190 Spruce St",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "(859) 259-3434",
+    "hours": "",
+    "lat": 38.0456413,
+    "lng": -84.4911013,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175185",
+    "name": "Ballard/Griffith Towers CSFP",
+    "category": "Food",
+    "description": "Senior food distribution location at Ballard/Griffith Towers for eligible residents.",
+    "address": "650 Tower Plaza",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "(859) 281-5048",
+    "hours": "",
+    "lat": 38.0542347,
+    "lng": -84.5019266,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206685",
+    "name": "Central Church Apartments CSFP",
+    "category": "Food",
+    "description": "Senior food distribution site serving Central Church apartment residents only.",
+    "address": "249 East Short Street",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0446384,
+    "lng": -84.493007,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210768",
+    "name": "Campus Kitchen at University of Kentucky",
+    "category": "Food",
+    "description": "Soup kitchen and meal site at University of Kentucky",
+    "address": "160 Funkhouser Drive, #207",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40506",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0357394,
+    "lng": -84.5056692,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212812",
+    "name": "Second Presbyterian Church",
+    "category": "Food",
+    "description": "Second Presbyterian Church meal delivery service location.",
+    "address": "460 East Main Street",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0397463,
+    "lng": -84.49063,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216491",
+    "name": "The Salvation Army - 722736W Main Street Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "722-736-W. Main Street",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "(859) 252-7706",
+    "hours": "",
+    "lat": 38.05004,
+    "lng": -84.50018,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-179407",
+    "name": "Newman Center Holy Spirit Parish",
+    "category": "Food",
+    "description": "Newman Center Holy Spirit Parish food assistance location",
+    "address": "320 Rose Ln.",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0358167,
+    "lng": -84.5004266,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189094",
+    "name": "Big Blue Pantry - Whitehall Building",
+    "category": "Food",
+    "description": "Main food pantry location at Whitehall Building.",
+    "address": "140 Patterson Dr., Room 25 Whitehall Bldg.",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40506",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0378989,
+    "lng": -84.5040156,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190403",
+    "name": "GPFB Central Christian FP",
+    "category": "Food",
+    "description": "Central Christian food pantry location operated by God's Pantry Food Bank.",
+    "address": "219 East Short Street",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0449529,
+    "lng": -84.4934835,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195777",
+    "name": "Green Edge Kentucky - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Lexington, Kentucky.",
+    "address": "130 Clay Ave",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40502",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0350113,
+    "lng": -84.48680139999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197659",
+    "name": "Maxwell Street Presbyterian",
+    "category": "Food",
+    "description": "Maxwell Street Presbyterian food assistance location",
+    "address": "180 E. Maxwell St.",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0414214,
+    "lng": -84.49958,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214064",
+    "name": "Rose Tower Apartments CSFP",
+    "category": "Food",
+    "description": "Senior food program distribution location at Rose Tower Apartments. Only residents of Rose Tower Apartments can pick up food at this location.",
+    "address": "137 Rose St.",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0424526,
+    "lng": -84.494073,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-4684533848",
+    "name": "Whinnie Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0364419,
+    "lng": -84.511693,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-225026178",
+    "name": "Pavilion",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.8626175,
+    "lng": -84.6691772,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-262872599",
+    "name": "Veteran's Park Picnic Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9561568,
+    "lng": -84.5051429,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-23873603",
+    "name": "William T. Young Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Hilltop Avenue 401",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0328801,
+    "lng": -84.5017077,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-149763936",
+    "name": "Margaret I King Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Funkhouser Drive 179",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0368202,
+    "lng": -84.5034865,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-161507822",
+    "name": "Lexington Public Library - Central Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Main Street 140",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "(859) 231-5500",
+    "hours": "Mo-Th 09:30-19:00; Fr 09:30-18:00; Sa 09:30-17:00; Su 13:00-17:00; PH off",
+    "lat": 38.0454494,
+    "lng": -84.4966968,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-206393729",
+    "name": "B. L. Fisher Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.8625725,
+    "lng": -84.6607051,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-243608463",
+    "name": "Beaumont Branch - Lexington Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Fieldstone Way 3080",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40513;40513-1717",
+    "phone": "(859) 231-5500",
+    "hours": "Mo-Th 9:30-21:00; Fr 9:30-18:00; Sa 9:30-17:00; Su 13:00-17:00",
+    "lat": 38.0129908,
+    "lng": -84.5575985,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-285603710",
+    "name": "Northside Branch Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Russell Cave Road 1733",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40505-1600",
+    "phone": "(859) 231-5500",
+    "hours": "Mo-Th 09:30-19:00; Fr 09:30-18:00; Sa 09:30-17:00; Su 13:00-17:00",
+    "lat": 38.0794724,
+    "lng": -84.471346,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-314501953",
+    "name": "Lexington Public Library-Tates Creek Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Walden Drive 3628",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40517;40517-2019",
+    "phone": "(859) 231-5500",
+    "hours": "Mo-Su 09:30-21:00",
+    "lat": 37.9793217,
+    "lng": -84.4987378,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-403982091",
+    "name": "J. Douglas Gay Jr. / Frances Carrick Thomas Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0519892,
+    "lng": -84.4944552,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-404843305",
+    "name": "Eastside Branch Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Blake James Drive 3000",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40509-2633",
+    "phone": "(859) 231-5500",
+    "hours": "",
+    "lat": 38.0074898,
+    "lng": -84.4354732,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-430882155",
+    "name": "Scott County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Bradford Lane 104",
+    "city": "Georgetown",
+    "state": "KY",
+    "zip": "40324;40324-2335",
+    "phone": "(502) 863-3566",
+    "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-19:00; Su 13:00-19:00",
+    "lat": 38.1915577,
+    "lng": -84.5640695,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2496184924",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9848642,
+    "lng": -84.5910735,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2497228702",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Clays Mill Road 3101",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40503",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0026809,
+    "lng": -84.5458405,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3141073045",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southland Drive 451 - 455A",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "We-Sa 10:00-18:00",
+    "lat": 38.019573,
+    "lng": -84.5270035,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3164035817",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Leestown Road 1441",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40511",
+    "phone": "(859) 233-0222",
+    "hours": "Mo-Sa 9:00-21:00; Su 12:00-18:00",
+    "lat": 38.0648471,
+    "lng": -84.5214971,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5782203764",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.1902851,
+    "lng": -84.5598366,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10085816017",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0057677,
+    "lng": -84.4271196,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13725830209",
+    "name": "Goodwill Industries of Kentucky",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0655611,
+    "lng": -84.4723019,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-242120522",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Boston Road 3640",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9805401,
+    "lng": -84.5506323,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-405038052",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Hartland Parkway 4740",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Su 09:00-21:00",
+    "lat": 37.9612764,
+    "lng": -84.4804301,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-lexington-hygiene",
+    "name": "William T. Young Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Hilltop Avenue 401",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 38.0328801,
+    "lng": -84.5017077,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

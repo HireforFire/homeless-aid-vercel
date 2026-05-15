@@ -1,0 +1,698 @@
+[
+  {
+    "id": "fa-210240",
+    "name": "Franciscan Kitchen",
+    "category": "Food",
+    "description": "Franciscan Kitchen lunch program location",
+    "address": "748 S. Prestion St.",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "",
+    "hours": "",
+    "lat": 38.243301,
+    "lng": -85.7481781,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-217750",
+    "name": "The Salvation Army - S Brook St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "911 S Brook St",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 671-4900",
+    "hours": "",
+    "lat": 38.24722,
+    "lng": -85.765,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220443",
+    "name": "Presbyterian Community Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "701 S. Hancock Street",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 584-0201",
+    "hours": "",
+    "lat": 38.2449646,
+    "lng": -85.7435684,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223093",
+    "name": "First Lutheran Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "417 East Broadway",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40202",
+    "phone": "(502) 584-4926",
+    "hours": "",
+    "lat": 38.2452698,
+    "lng": -85.7472153,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223551",
+    "name": "JFCS Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2821 Klempner Way",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40205",
+    "phone": "(502) 452-6341",
+    "hours": "",
+    "lat": 38.2526665,
+    "lng": -85.7584534,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223554",
+    "name": "Department for Community Based Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "908 W. Broadway",
+    "city": "3 West, Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 724-6906",
+    "hours": "",
+    "lat": 38.2466993,
+    "lng": -85.7672411,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-451371",
+    "name": "Developing Young Minds",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (40 funded slots)",
+    "address": "517 W Breckinridge St",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 690-7185",
+    "hours": "",
+    "lat": 38.242436,
+    "lng": -85.761574,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-452224",
+    "name": "Family & Children's Place",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (60 funded slots)",
+    "address": "525 Zane St",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 893-3900",
+    "hours": "",
+    "lat": 38.238838,
+    "lng": -85.761898,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-453712",
+    "name": "Russell Head Start / Early Head Start",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (28 funded slots)",
+    "address": "1219 W Jefferson St Ste 104-105",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 220-8269",
+    "hours": "",
+    "lat": 38.255727,
+    "lng": -85.770576,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-179025",
+    "name": "Wayside Christian Mission - Main Location",
+    "category": "Food",
+    "description": "Main distribution location for Wayside Christian Mission food assistance services.",
+    "address": "432 E. Jefferson St.",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40202",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2521306,
+    "lng": -85.7449128,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172477",
+    "name": "Baxter Avenue Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Baxter Avenue Baptist Church",
+    "address": "522 Baxter Ave.",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40204",
+    "phone": "(502) 583-4123",
+    "hours": "",
+    "lat": 38.246878,
+    "lng": -85.7299457,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173230",
+    "name": "Walnut Street Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Walnut Street Baptist Church",
+    "address": "220 W. St. Catherine",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 589-3454",
+    "hours": "",
+    "lat": 38.2370182,
+    "lng": -85.7577243,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-1679158323",
+    "name": "Oak Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.4344251,
+    "lng": -85.6420349,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1787741879",
+    "name": "Tuliptree Trail Pavilion",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0836221,
+    "lng": -85.7805736,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4654776258",
+    "name": "Warder Park Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2749321,
+    "lng": -85.7417277,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8942083317",
+    "name": "Charlestown Township",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.448178,
+    "lng": -85.6680588,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-329523104",
+    "name": "Saint Matthews Branch Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Grandview Avenue 3940",
+    "city": "St Matthews",
+    "state": "KY",
+    "zip": "40207",
+    "phone": "(502) 574-1771",
+    "hours": "",
+    "lat": 38.2491993,
+    "lng": -85.6495447,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-329546190",
+    "name": "Crescent Hill Branch Library Louisville Free Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Frankfort Avenue 2762",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40206;40206-2669",
+    "phone": "(502) 574-1793",
+    "hours": "",
+    "lat": 38.2544817,
+    "lng": -85.6911478,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-329549425",
+    "name": "James P. Boyce Centennial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Seminary Road 2820",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40206",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2481497,
+    "lng": -85.6875634,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-330976167",
+    "name": "John T. Smith Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South 1st Street 622",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40202",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2475298,
+    "lng": -85.753531,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-330976177",
+    "name": "Louisville Free Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "York Street 301",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203;40203-2205",
+    "phone": "(502) 574-1760",
+    "hours": "",
+    "lat": 38.2447738,
+    "lng": -85.7577881,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-330984437",
+    "name": "Portland Branch Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Northwestern Parkway 3305",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40212;40212-2043",
+    "phone": "(502) 574-1744",
+    "hours": "",
+    "lat": 38.2752485,
+    "lng": -85.8013801,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-333331211",
+    "name": "Sullivan University Library & Learning Resource Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Wendell Avenue 2222",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40205",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2141083,
+    "lng": -85.6707598,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-334020432",
+    "name": "Western Branch Library Louisville Free Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Tenth Street 604",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203-2004",
+    "phone": "(502) 574-1779",
+    "hours": "",
+    "lat": 38.2498215,
+    "lng": -85.7680908,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-334374386",
+    "name": "Bon Air Regional Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Del Rio Place 2816",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40220;40220-2349",
+    "phone": "(502) 574-1795",
+    "hours": "",
+    "lat": 38.2151923,
+    "lng": -85.6551944,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3442902334",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Westport Road 10230",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40241",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2921342,
+    "lng": -85.5601385,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3876461548",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.244128,
+    "lng": -85.5762963,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3879089740",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2855497,
+    "lng": -85.6309818,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5999579086",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.352812,
+    "lng": -85.7930959,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6064659485",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2541761,
+    "lng": -85.7486575,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6077278336",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2179448,
+    "lng": -85.6235891,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-333475296",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Broadway 909",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40204",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2448584,
+    "lng": -85.7368223,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-337191213",
+    "name": "Kentucky Habitat For Humanity",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Westport Road 4050",
+    "city": "St Matthews",
+    "state": "KY",
+    "zip": "40207",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2557599,
+    "lng": -85.6496789,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-337714717",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Shelbyville Road 4224",
+    "city": "St Matthews",
+    "state": "KY",
+    "zip": "40207",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2510922,
+    "lng": -85.6383345,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-804050875",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2516687,
+    "lng": -85.634507,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-louisville-hygiene",
+    "name": "Charlestown Township - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 38.448178,
+    "lng": -85.6680588,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

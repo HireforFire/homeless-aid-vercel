@@ -1,0 +1,648 @@
+[
+  {
+    "id": "fa-204189",
+    "name": "Campus Lobo Food Pantry - Advisement and Enrichment Center",
+    "category": "Food",
+    "description": "Food pantry located in the Advisement and Enrichment Center, SUB Room 1093. Handicapped accessible.",
+    "address": "Advisement and Enrichment Center, SUB Room 1093",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87131",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0842892,
+    "lng": -106.6184843,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220446",
+    "name": "The Joe and Jean Travis Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "625 Truman NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87110",
+    "phone": "(505) 938-7143",
+    "hours": "",
+    "lat": 35.0888443,
+    "lng": -106.5878143,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-453943",
+    "name": "NAPPR EHS Child Care Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (72 funded slots)",
+    "address": "801 Girard Blvd NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87106",
+    "phone": "(505) 345-6289",
+    "hours": "",
+    "lat": 35.088492,
+    "lng": -106.613438,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-130145",
+    "name": "MEDIA ARTS COLLABORATIVE CHARTER SCHOOL",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "4401 CENTRAL AVE N.E.",
+    "city": "ALBUQUERQUE",
+    "state": "NM",
+    "zip": "87108",
+    "phone": "(505) 243-1957",
+    "hours": "",
+    "lat": 35.078847,
+    "lng": -106.59528,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-184908",
+    "name": "Ancora Transitional Services",
+    "category": "Food",
+    "description": "Main location for Ancora Transitional Services providing hot and cold meal programs.",
+    "address": "146 Quincy St.",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87108",
+    "phone": "",
+    "hours": "",
+    "lat": 35.079836,
+    "lng": -106.5899017,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185265",
+    "name": "UNM - Lobo Food Pantry",
+    "category": "Food",
+    "description": "The University of New Mexico food pantry location.",
+    "address": "The University of New Mexico; 1",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87131",
+    "phone": "",
+    "hours": "",
+    "lat": 35.08343,
+    "lng": -106.61975,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187861",
+    "name": "Coral Community Charter School (CHI12)",
+    "category": "Food",
+    "description": "Pop-up/mobile food distribution location at Coral Community Charter School",
+    "address": "4401 Silver Ave SE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87108",
+    "phone": "",
+    "hours": "",
+    "lat": 35.077163,
+    "lng": -106.595197,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190899",
+    "name": "Highland High School",
+    "category": "Food",
+    "description": "Pop-up/mobile food distribution location",
+    "address": "4700 Coal Avenue SE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87108",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0755847,
+    "lng": -106.5914877,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198771",
+    "name": "Our Lady of Fatima Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "4020 Lomas Blvd. NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87110",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0863178,
+    "lng": -106.5994293,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201251",
+    "name": "Jefferson Middle School",
+    "category": "Food",
+    "description": "Food distribution location at Jefferson Middle School",
+    "address": "712 Girard NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.088264,
+    "lng": -106.6116375,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179555",
+    "name": "SteelBridge Ministries Meal Site",
+    "category": "Food",
+    "description": "Meal site facility at 525 2nd St. SW, Albuquerque. Handicapped accessible.",
+    "address": "525 2nd St. SW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87102",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0795702,
+    "lng": -106.6504532,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180020",
+    "name": "Casa Esperanza, Inc.",
+    "category": "Food",
+    "description": "Main food pantry location for Casa Esperanza, Inc.",
+    "address": "1005 Yale Blvd. NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0937957,
+    "lng": -106.6214602,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-4779346522",
+    "name": "Steelbridge",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "2nd Street Southwest 525",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0795747,
+    "lng": -106.650508,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366375443",
+    "name": "Cathleen Groves Memorial Childrens Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0150487,
+    "lng": -106.651136,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366375488",
+    "name": "UNM Childrens Psychiatric Hospital Mimbres School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0928257,
+    "lng": -106.6188302,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366375658",
+    "name": "Corrales Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2231414,
+    "lng": -106.6175688,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366375926",
+    "name": "Sandia Pueblo Resource Center Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2558747,
+    "lng": -106.5719699,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366375988",
+    "name": "Kirtland Air Force Base Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "2nd Street Southeast 2050",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "(505) 853-4636",
+    "hours": "",
+    "lat": 35.0560106,
+    "lng": -106.5531269,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366376008",
+    "name": "Isleta Pueblo Library Resource Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.9070324,
+    "lng": -106.6805736,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366376470",
+    "name": "UNM School of Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Stanford Drive Northeast 1117",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0936227,
+    "lng": -106.618602,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366378716",
+    "name": "Museum of Albuquerque Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0845584,
+    "lng": -106.6512266,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366378733",
+    "name": "United States Department of Energy National Atomic Museum Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0845379,
+    "lng": -106.6511232,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1830317332",
+    "name": "Taylor Ranch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Bogart Street Northwest 5700",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87120",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1490964,
+    "lng": -106.7167537,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1813079070",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Caminito Coors Northwest 6636",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1728152,
+    "lng": -106.672759,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2169210329",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0775392,
+    "lng": -106.593708,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3024758365",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Broadway Boulevard Southeast 501",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0796009,
+    "lng": -106.645754,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3099080312",
+    "name": "St. Vilncent DePaul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1089424,
+    "lng": -106.5971175,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10270860581",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southern Boulevard Southeast 2003",
+    "city": "Rio Rancho",
+    "state": "NM",
+    "zip": "87124",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2428446,
+    "lng": -106.6956974,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-297126481",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "San Mateo Boulevard Northeast 5000",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87109",
+    "phone": "(505) 881-6401",
+    "hours": "",
+    "lat": 35.1372537,
+    "lng": -106.5840343,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-311550596",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Menaul Boulevard Northeast 4900",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1084072,
+    "lng": -106.5893282,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-318046551",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Central Avenue Northeast 12601",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.07006,
+    "lng": -106.5091195,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-612724539",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Holly Avenue Northeast 7120",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87113",
+    "phone": "(505) 998-2894",
+    "hours": "Mo-Sa 09:00-20:00, Su 10:00-19:00",
+    "lat": 35.1749996,
+    "lng": -106.5656509,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-875806551",
+    "name": "Good will",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2054331,
+    "lng": -106.6490055,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-albuquerque-hygiene",
+    "name": "Cathleen Groves Memorial Childrens Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0150487,
+    "lng": -106.651136,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

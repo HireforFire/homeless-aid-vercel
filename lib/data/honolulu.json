@@ -1,0 +1,629 @@
+[
+  {
+    "id": "fa-178013",
+    "name": "Cedar Assembly of God",
+    "category": "Food",
+    "description": "Distribution location for prepared meals.",
+    "address": "620 Waipa Ln.",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96817",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3214810385,
+    "lng": -157.862358380976,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203655",
+    "name": "The Institute for Human Services, Inc. - Honolulu",
+    "category": "Food",
+    "description": "Main location for The Institute for Human Services, Inc. meal program services",
+    "address": "916 Kaamahu Pl #A",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96817",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3178567229274,
+    "lng": -157.865647561381,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-223262",
+    "name": "FoodBasket Program",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "200 North Vineyard Blvd. A310",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96817",
+    "phone": "(808) 592-9022",
+    "hours": "",
+    "lat": 21.3173599,
+    "lng": -157.859375,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-454776",
+    "name": "Queen Kaahumanu El.",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (18 funded slots)",
+    "address": "1141 Kinau St",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96814",
+    "phone": "(808) 587-4414",
+    "hours": "",
+    "lat": 21.302776,
+    "lng": -157.843751,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-175683",
+    "name": "Hawaii Health & Harm Reduction Center @ Kakaako (Walk Up)",
+    "category": "Food",
+    "description": "Produce program distribution site at Kakaako offering walk-up service for fresh produce and TEFAP distribution.",
+    "address": "653 Ala Moana Blvd.",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96813",
+    "phone": "",
+    "hours": "",
+    "lat": 21.298115980485,
+    "lng": -157.862918962661,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175999",
+    "name": "Reality Church @ Ke'elikolani Middle School",
+    "category": "Food",
+    "description": "Distribution site at Ke'elikolani Middle School offering drive-thru and walk-up produce distribution.",
+    "address": "1302 Queen Emma St.",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96813",
+    "phone": "",
+    "hours": "",
+    "lat": 21.311744074948,
+    "lng": -157.856616442025,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176458",
+    "name": "The Salvation Army Family Services Office - Honolulu",
+    "category": "Food",
+    "description": "Food pantry distribution location in Honolulu.",
+    "address": "296 N Vineyard Blvd.",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96817",
+    "phone": "",
+    "hours": "",
+    "lat": 21.317885243948,
+    "lng": -157.859956965717,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175355",
+    "name": "St. Elizabeth's Episcopal Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at St. Elizabeth's Episcopal Church",
+    "address": "720 North King St.",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96817",
+    "phone": "",
+    "hours": "",
+    "lat": 21.320953188148,
+    "lng": -157.865988164146,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176064",
+    "name": "Hawaiian Humane Society - Distribution Center",
+    "category": "Food",
+    "description": "Pet food distribution location",
+    "address": "2700 Waialae Ave.",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96826",
+    "phone": "",
+    "hours": "",
+    "lat": 21.290471391422,
+    "lng": -157.818255404857,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218491",
+    "name": "The Salvation Army - Waokanaka Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "3624 Waokanaka Street",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96817",
+    "phone": "(808) 595-6371",
+    "hours": "",
+    "lat": 21.34016,
+    "lng": -157.83749,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218707",
+    "name": "The Salvation Army - Sumner Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "322 Sumner Street",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96817",
+    "phone": "(808) 522-8400",
+    "hours": "",
+    "lat": 21.34016,
+    "lng": -157.83749,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222190",
+    "name": "Feeding Hawaii Together",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "2522 Rose Street",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96819",
+    "phone": "(808) 888-0778",
+    "hours": "",
+    "lat": 21.3425941,
+    "lng": -157.8808746,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-8732409851",
+    "name": "Waikiki Next Step Shelter",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Merchant Street",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96808",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3064616,
+    "lng": -157.8602486,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11081939012",
+    "name": "Weather Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3135448,
+    "lng": -157.8227482,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4017125399",
+    "name": "Honolulu Community College",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 8:00-19:00; Fr 8:00-15:00",
+    "lat": 21.3217775,
+    "lng": -157.8708493,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-31810981",
+    "name": "Hamilton Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "McCarthy Mall 2550",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96822",
+    "phone": "",
+    "hours": "Mo-Th 08:00-22:00; Fr 08:00-18:00; Sa 09:00-17:00; Su 12:00-22:00; PH off",
+    "lat": 21.3007307,
+    "lng": -157.8163884,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-57890374",
+    "name": "Manoa Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Woodlawn Drive 2716",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96822",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3072323,
+    "lng": -157.8107428,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-134174309",
+    "name": "McCully Moiliili Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South King Street 2211",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96826",
+    "phone": "(808) 973-1099",
+    "hours": "Tu-We, Sa 09:00-16:00; Th 12:00-19:00; Fr 11:00-16:00",
+    "lat": 21.2936165,
+    "lng": -157.8277654,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-197137671",
+    "name": "Kailua Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Kuulei Road 239",
+    "city": "Kailua",
+    "state": "HI",
+    "zip": "96734",
+    "phone": "",
+    "hours": "Su,We off; Mo,Sa 09:00-16:00; Tu,Th 12:00-19:00; Fr 11:00-16:00",
+    "lat": 21.3960395,
+    "lng": -157.7402967,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-203540159",
+    "name": "Cooke Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3036112,
+    "lng": -157.8297129,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-209712521",
+    "name": "Waimānalo Public and School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Kalaniana’ole Highway 41-1320",
+    "city": "Waimanalo",
+    "state": "HI",
+    "zip": "96795",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3461505,
+    "lng": -157.7147711,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-230065131",
+    "name": "William S. Richardson Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Dole Street 2525",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96822",
+    "phone": "(808) 956-7966",
+    "hours": "Mo-Fr 09:00-17:00",
+    "lat": 21.2963549,
+    "lng": -157.8173717,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-230066567",
+    "name": "Sinclair Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Campus Road 2425",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96822",
+    "phone": "",
+    "hours": "",
+    "lat": 21.2985011,
+    "lng": -157.8204667,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2763321331",
+    "name": "The Tank",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3043857,
+    "lng": -157.825116,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4196250290",
+    "name": "Goodwill Store and Donation Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Kamehameha Highway 98-019",
+    "city": "Aiea",
+    "state": "HI",
+    "zip": "96701",
+    "phone": "(808) 488-1230",
+    "hours": "Mo-Su 10:00-18:00",
+    "lat": 21.3850194,
+    "lng": -157.9506631,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6759806394",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3151418,
+    "lng": -157.8671149,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6759810586",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 21.317329,
+    "lng": -157.859418,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10691995222",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3222092,
+    "lng": -157.8690322,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-262746869",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Su 10:00-18:00",
+    "lat": 21.3944307,
+    "lng": -157.7418798,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1327397687",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Waipahu Street 94-925",
+    "city": "Waipahu",
+    "state": "HI",
+    "zip": "96797",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3865362,
+    "lng": -158.0059167,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1355016543",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Waialae Avenue 3650",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96816",
+    "phone": "",
+    "hours": "",
+    "lat": 21.2824713,
+    "lng": -157.7979164,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1361012147",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Beretania Street 1075",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96814",
+    "phone": "(808) 521-1798",
+    "hours": "Mo-Su 10:00-18:00",
+    "lat": 21.3021043,
+    "lng": -157.8460101,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-honolulu-hygiene",
+    "name": "Honolulu Community College - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 8:00-19:00; Fr 8:00-15:00",
+    "lat": 21.3217775,
+    "lng": -157.8708493,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

@@ -1,0 +1,793 @@
+[
+  {
+    "id": "fa-172432",
+    "name": "St. Stephen Baptist Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at St. Stephen Baptist Church",
+    "address": "1414 E. Truman Rd.",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64106",
+    "phone": "(816) 842-6311",
+    "hours": "",
+    "lat": 39.0955494,
+    "lng": -94.5651023,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211329",
+    "name": "New Life CityChurch",
+    "category": "Food",
+    "description": "Food pantry location at New Life CityChurch",
+    "address": "1717 McGee St.",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64108",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0926595,
+    "lng": -94.5798137,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172504",
+    "name": "Grace United Community Ministries - Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Grace United Community Ministries",
+    "address": "801 Benton Blvd.",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64124",
+    "phone": "(816) 231-5745",
+    "hours": "",
+    "lat": 39.1027424,
+    "lng": -94.5434907,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-458007",
+    "name": "Columbus Park",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (34 funded slots)",
+    "address": "1100 E 4th St",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64106",
+    "phone": "(816) 418-2600",
+    "hours": "",
+    "lat": 39.112207,
+    "lng": -94.569894,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-184116",
+    "name": "Don Bosco Community Centers",
+    "category": "Food",
+    "description": "Don Bosco Community Centers Food Pantry location",
+    "address": "580 Campbell St.",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64106",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1074129,
+    "lng": -94.5732617,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173756",
+    "name": "Morning Star Missionary Baptist Church/LINC",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "2411 E. 27th St.",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64127",
+    "phone": "(816) 923-3559",
+    "hours": "",
+    "lat": 39.0769471,
+    "lng": -94.5541616,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175540",
+    "name": "North Kansas City YMCA",
+    "category": "Food",
+    "description": "Food distribution site at North Kansas City YMCA",
+    "address": "1999 Iron Street",
+    "city": "North Kansas City",
+    "state": "MO",
+    "zip": "64116",
+    "phone": "",
+    "hours": "",
+    "lat": 39.142449856336,
+    "lng": -94.57039284267,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175961",
+    "name": "Calvary Community Outreach Network",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "2940 Holmes Street",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64109",
+    "phone": "",
+    "hours": "",
+    "lat": 39.072880604804,
+    "lng": -94.576777505957,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176566",
+    "name": "Catch Up With Jesus",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "2327 Indiana Avenue",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64127",
+    "phone": "",
+    "hours": "",
+    "lat": 39.083139719015,
+    "lng": -94.542603732339,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177483",
+    "name": "Micah Ministries",
+    "category": "Food",
+    "description": "Food distribution location in Kansas City.",
+    "address": "606 Gladstone Avenue",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64124",
+    "phone": "",
+    "hours": "",
+    "lat": 39.105697683574,
+    "lng": -94.546384557405,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177769",
+    "name": "Mountaintop Inc",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "1700 E Linwood Boulevard",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64109",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0691766837,
+    "lng": -94.562733543367,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178983",
+    "name": "The Salvation Army - Eastside",
+    "category": "Food",
+    "description": "Salvation Army Eastside food pantry and soup kitchen location",
+    "address": "3013 E 9th St",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64127",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1021131,
+    "lng": -94.5461217,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-1657561963",
+    "name": "83rd Street Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1566772,
+    "lng": -94.7744108,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1657564575",
+    "name": "Shelter 5",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1629191,
+    "lng": -94.7769517,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1657564582",
+    "name": "Shelter 7",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1646812,
+    "lng": -94.7781302,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1657564588",
+    "name": "Shelter 3",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1607001,
+    "lng": -94.7754432,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1657567489",
+    "name": "Shelter 11",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1687521,
+    "lng": -94.7693329,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1657567502",
+    "name": "Shelter 9",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1646764,
+    "lng": -94.7722183,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2038565319",
+    "name": "Fireplace",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0106784,
+    "lng": -94.6838907,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2038565435",
+    "name": "Shelter 4",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0087766,
+    "lng": -94.6833913,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366764192",
+    "name": "Billington Library (LIB)",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9241472,
+    "lng": -94.7277169,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366764197",
+    "name": "Shawnee Mission Medical Center Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9957,
+    "lng": -94.6908,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366764202",
+    "name": "Leawood Pioneer Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00",
+    "lat": 38.9173364,
+    "lng": -94.6407073,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366764208",
+    "name": "Johnson County Library - Corinth",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "miss 8100",
+    "city": "Prairie Village",
+    "state": "KS",
+    "zip": "66208",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9819967,
+    "lng": -94.6307845,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366764247",
+    "name": "Kansas City Kansas Public Library - Argentine Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.073476,
+    "lng": -94.661231,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367086436",
+    "name": "Mid Continent Public Library - Blue Ridge",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Blue Ridge Blvd 9253",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.956369,
+    "lng": -94.5043364,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367086439",
+    "name": "Kansas City Missouri Public School District Library and Media Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1353534,
+    "lng": -94.5133832,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1811402059",
+    "name": "Mid-Continent Public LIbrary",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0554909,
+    "lng": -94.3903097,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8073118777",
+    "name": "Free Neighborhood Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "24/7",
+    "lat": 39.2497543,
+    "lng": -94.6050002,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8085215545",
+    "name": "Kansas City, Kansas Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Minnesota Avenue 625",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "66101",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1150805,
+    "lng": -94.6251423,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5764002626",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Oak Trafficway 4824",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64118",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00, Su 11:00-18:00",
+    "lat": 39.1825189,
+    "lng": -94.5780433,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9296536128",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Santa Fe Drive 8722",
+    "city": "Overland Park",
+    "state": "KS",
+    "zip": "66212",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9733788,
+    "lng": -94.6871603,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11552174569",
+    "name": "ScrapsKC",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64111",
+    "phone": "(816) 522-4305",
+    "hours": "We-Fr 12:00-18:00; Sa 10:00-18:00",
+    "lat": 39.0678387,
+    "lng": -94.6034794,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11580349870",
+    "name": "PCs for People",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Santa Fe Street 518",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64105",
+    "phone": "(816) 259-0851",
+    "hours": "Mo-Fr 08:00-16:00",
+    "lat": 39.1074747,
+    "lng": -94.5987407,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12374711060",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Main Street 3630",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64111",
+    "phone": "",
+    "hours": "",
+    "lat": 39.060882,
+    "lng": -94.5863757,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13451285979",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2441434,
+    "lng": -94.5861237,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13459132147",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Deramus Avenue 4701",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64120",
+    "phone": "(816) 231-6889",
+    "hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00",
+    "lat": 39.1369358,
+    "lng": -94.5250282,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13464231301",
+    "name": "Blessings Abound Thrift Store & Donation Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Metcalf Avenue 10325",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "66212",
+    "phone": "(913) 648-0700",
+    "hours": "Mo-Sa 09:00-18:00",
+    "lat": 38.9401985,
+    "lng": -94.6655454,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13535269522",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Bannister Road 5000",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64132",
+    "phone": "(816) 743-7660",
+    "hours": "Mo-Sa 09:00-18:00; Su 10:00-18:00",
+    "lat": 38.9541696,
+    "lng": -94.5320522,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13575004316",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Wornall Road 8230",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64114",
+    "phone": "(816) 371-1517",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 38.9780351,
+    "lng": -94.5959104,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-kansas-city-hygiene",
+    "name": "Billington Library (LIB) - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 38.9241472,
+    "lng": -94.7277169,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

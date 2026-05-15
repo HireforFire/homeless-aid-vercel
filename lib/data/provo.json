@@ -1,0 +1,459 @@
+[
+  {
+    "id": "fa-186101",
+    "name": "Community Action Services & Food Bank",
+    "category": "Food",
+    "description": "Main food bank location providing food distribution services",
+    "address": "815 S Freedom Blvd Ste 100",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84601",
+    "phone": "",
+    "hours": "",
+    "lat": 40.2233508,
+    "lng": -111.6616941,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187661",
+    "name": "Provo Recreation Center",
+    "category": "Food",
+    "description": "Food distribution and senior food box services location",
+    "address": "320 W 500 N",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84601",
+    "phone": "",
+    "hours": "",
+    "lat": 40.24167,
+    "lng": -111.66436,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201817",
+    "name": "Iglesia Emanuel Food Pantry - Provo",
+    "category": "Food",
+    "description": "Mobile food pantry location at Iglesia Emanuel parking lot. Drive-through format with parking lot opening at 4:30pm.",
+    "address": "1078 S 250 E",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84606",
+    "phone": "",
+    "hours": "",
+    "lat": 40.21966,
+    "lng": -111.65469,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-131034",
+    "name": "HERITAGE SCHOOL",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "280 WEST 940 NORTH",
+    "city": "PROVO",
+    "state": "UT",
+    "zip": "84604",
+    "phone": "(801) 374-4800",
+    "hours": "",
+    "lat": 40.246355,
+    "lng": -111.664356,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-184554",
+    "name": "First Baptist Church of Provo",
+    "category": "Food",
+    "description": "First Baptist Church of Provo food pantry location. Handicapped accessible.",
+    "address": "1144 Columbia Ln.",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84604",
+    "phone": "",
+    "hours": "",
+    "lat": 40.2584205,
+    "lng": -111.6769021,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204473",
+    "name": "Iglesia Emanuel Asambleas de Dios",
+    "category": "Food",
+    "description": "Food pantry location at Iglesia Emanuel",
+    "address": "1403 W. 820 N.",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84601",
+    "phone": "",
+    "hours": "",
+    "lat": 40.2443629,
+    "lng": -111.6831313,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-455343",
+    "name": "Provo",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (102 funded slots)",
+    "address": "1002 S 1100 W",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84601",
+    "phone": "(801) 377-0585",
+    "hours": "",
+    "lat": 40.220466,
+    "lng": -111.677705,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-13808",
+    "name": "Community Action Services (CAS) and Provo",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "815 South Freedom Blvd",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84601",
+    "phone": "(801) 373-8200",
+    "hours": "",
+    "lat": 40.22593,
+    "lng": -111.6955,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13809",
+    "name": "Food and Care Coalition Provo",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "299 E 900 S",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84606",
+    "phone": "(801) 373-1825",
+    "hours": "",
+    "lat": 40.2149,
+    "lng": -111.62619,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-455350",
+    "name": "Timpanogos Child Development Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (49 funded slots)",
+    "address": "275 W Center St",
+    "city": "Orem",
+    "state": "UT",
+    "zip": "84057",
+    "phone": "(801) 375-7981",
+    "hours": "",
+    "lat": 40.296422,
+    "lng": -111.702956,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-131039",
+    "name": "MERIT COLLEGE PREPARATORY ACADEMY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1440 WEST CENTER ST",
+    "city": "SPRINGVILLE",
+    "state": "UT",
+    "zip": "84663",
+    "phone": "(801) 491-7600",
+    "hours": "",
+    "lat": 40.167755,
+    "lng": -111.636755,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-131050",
+    "name": "RONALD REAGAN ACADEMY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1143 WEST CENTER",
+    "city": "SPRINGVILLE",
+    "state": "UT",
+    "zip": "84663",
+    "phone": "(801) 489-7828",
+    "hours": "",
+    "lat": 40.166755,
+    "lng": -111.629454,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "osm-node-694323556",
+    "name": "Lehi City Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.3892886,
+    "lng": -111.8487278,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2659022276",
+    "name": "Howard W. Hunter Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.2497613,
+    "lng": -111.6453691,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-55451691",
+    "name": "Lehi City Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Center Street 120",
+    "city": "Lehi",
+    "state": "UT",
+    "zip": "84043",
+    "phone": "(385) 201-1050",
+    "hours": "Mo-Fr 09:00-20:00; Sa 10:00-18:00; Su 10:00-16:00",
+    "lat": 40.3893107,
+    "lng": -111.8485953,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-150825959",
+    "name": "Springville Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Main Street 45",
+    "city": "Springville",
+    "state": "UT",
+    "zip": "84663",
+    "phone": "",
+    "hours": "",
+    "lat": 40.1662057,
+    "lng": -111.6101068,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-220747888",
+    "name": "Provo City Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North University Avenue 550",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84601",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su,PH off",
+    "lat": 40.241103,
+    "lng": -111.6575494,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-228395433",
+    "name": "Pleasant Grove Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Center Street 30",
+    "city": "Pleasant Grove",
+    "state": "UT",
+    "zip": "84062",
+    "phone": "",
+    "hours": "",
+    "lat": 40.36347,
+    "lng": -111.7396648,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-265527796",
+    "name": "Ira A. and Mary Lou Fulton Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 07:00-24:00, Sa 08:00-19:00; Su 13:00-21:00",
+    "lat": 40.2810162,
+    "lng": -111.7164012,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-298884884",
+    "name": "American Fork Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South 100 East 64",
+    "city": "American Fork",
+    "state": "UT",
+    "zip": "84003",
+    "phone": "",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 10:00-16:00; Su off",
+    "lat": 40.3755609,
+    "lng": -111.7964626,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-228395455",
+    "name": "UGLY's Closet",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Center Street 10",
+    "city": "Pleasant Grove",
+    "state": "UT",
+    "zip": "84062",
+    "phone": "(801) 899-2692",
+    "hours": "Tu-Sa 10:00-18:00",
+    "lat": 40.3642058,
+    "lng": -111.7409589,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-702111246",
+    "name": "Deseret Industries Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South 1750 West 655",
+    "city": "Springville",
+    "state": "UT",
+    "zip": "84663",
+    "phone": "",
+    "hours": "",
+    "lat": 40.1575925,
+    "lng": -111.6410192,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-provo-shelter",
+    "name": "Provo Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "address": "",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24/7",
+    "lat": 40.2338,
+    "lng": -111.6585,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-provo-hygiene",
+    "name": "Lehi City Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.3892886,
+    "lng": -111.8487278,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

@@ -1,0 +1,679 @@
+[
+  {
+    "id": "fa-179295",
+    "name": "Kent County Community Action",
+    "category": "Food",
+    "description": "Main office of Kent County Community Action",
+    "address": "121 M.L.K. Jr St SE #110",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49507",
+    "phone": "",
+    "hours": "",
+    "lat": 42.948997399999996,
+    "lng": -85.66479939999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184700",
+    "name": "Westminster Presbyterian Church",
+    "category": "Food",
+    "description": "Westminster Presbyterian Church located in Grand Rapids",
+    "address": "47 Jefferson Ave SE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "",
+    "hours": "",
+    "lat": 42.961824299999996,
+    "lng": -85.66496939999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192523",
+    "name": "West MI Veterans Assistance Program (WMVAP)",
+    "category": "Food",
+    "description": "Main food pantry location for West MI Veterans Assistance Program",
+    "address": "620 Century Ave SW",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9520912,
+    "lng": -85.6744687,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195592",
+    "name": "Downtown Food Pantry at Westminster Presbyterian Church",
+    "category": "Food",
+    "description": "Food pantry location at Westminster Presbyterian Church",
+    "address": "47 Jefferson Avenue SE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9617366,
+    "lng": -85.6645274,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196076",
+    "name": "God's Kitchen/CCWM",
+    "category": "Food",
+    "description": "Food pantry location providing food distribution services.",
+    "address": "303 Division Ave S",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9576544,
+    "lng": -85.6680892,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-217739",
+    "name": "The Salvation Army - 1215 E Fulton St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1215 E. Fulton St.",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "(616) 459-3433",
+    "hours": "",
+    "lat": 42.96282,
+    "lng": -85.65872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219593",
+    "name": "Mel Trotter Ministries",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "225 Commerce SW",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "(616) 293-1587",
+    "hours": "",
+    "lat": 42.9590569,
+    "lng": -85.6694107,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219891",
+    "name": "Addie's Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "10 College Ave NE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "(616) 456-1773",
+    "hours": "",
+    "lat": 42.9632835,
+    "lng": -85.6568069,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222763",
+    "name": "God's Kitchen",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "303 South Division Avenue",
+    "city": "Grand Rapids, Mi",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "(616) 454-4110",
+    "hours": "",
+    "lat": 42.9577866,
+    "lng": -85.6677551,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224238",
+    "name": "Food Pantry at GRCC-For Students",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "143 Bostwick Avenue Northeast",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "(616) 234-2544",
+    "hours": "",
+    "lat": 42.9669729,
+    "lng": -85.6667651,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172472",
+    "name": "Mel Trotter",
+    "category": "Food",
+    "description": "Mel Trotter food pantry location in Grand Rapids, Michigan.",
+    "address": "225 Commerce Ave SW",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9590409,
+    "lng": -85.6692398,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188916",
+    "name": "Innovation Central High School - Bus Lane off College Ave.",
+    "category": "Food",
+    "description": "Mobile pantry distribution location at Innovation Central High School, bus lane off College Avenue.",
+    "address": "421 Fountain Street",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9659845,
+    "lng": -85.6586273,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-4637003834",
+    "name": "Wedding Trellis",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8327296,
+    "lng": -85.8253983,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5301984685",
+    "name": "Shia: Hexagonal Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9819641,
+    "lng": -85.5843926,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5311213063",
+    "name": "Shia: Round Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9818302,
+    "lng": -85.5837705,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1745709073",
+    "name": "KDL Library - Kentwood",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8740341,
+    "lng": -85.5959256,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2295927803",
+    "name": "Madison Square Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Madison Avenue Southeast 1201",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49507",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9410688,
+    "lng": -85.659265,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2436118654",
+    "name": "Kent District Library: Grandville Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9077743,
+    "lng": -85.7646318,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10212917276",
+    "name": "Georgetown Township Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9083844,
+    "lng": -85.8195568,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11849804380",
+    "name": "Miller Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "(616) 222-1458",
+    "hours": "Mo-Fr 08:00-22:00; Sa-Su 12:00-20:00",
+    "lat": 42.9815008,
+    "lng": -85.5929139,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-162746981",
+    "name": "Grand Rapids Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Library Street Northeast 111",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "",
+    "hours": "Su 13:00-17:00; Mo-Th 09:00-19:00; Fr-Sa 09:00-18:00",
+    "lat": 42.9649179,
+    "lng": -85.6659539,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-186978282",
+    "name": "KDL Walker Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Remembrance Road Northwest 4293",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49544",
+    "phone": "(616) 784-2007",
+    "hours": "",
+    "lat": 43.0075503,
+    "lng": -85.7741394,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-224430589",
+    "name": "West Leonard Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Leonard Street Northwest 1017",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49504",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9856952,
+    "lng": -85.6939022,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-225518689",
+    "name": "Hekman Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 08:00-20:00; Fr 08:00-16:30; Sa 11:00-15:00",
+    "lat": 42.9297916,
+    "lng": -85.5873726,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-226376430",
+    "name": "Seymour Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Eastern Avenue Southeast 2350",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49507",
+    "phone": "",
+    "hours": "Mo,Tu 12:00-20:00; We-Sa 10:00-18:00; Fr off",
+    "lat": 42.9204627,
+    "lng": -85.6472129,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7243058391",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.037497,
+    "lng": -85.6109955,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8270665603",
+    "name": "WAR Boutique",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.884249,
+    "lng": -85.7333648,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11068176895",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9132615,
+    "lng": -85.5621274,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-269620426",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9146402,
+    "lng": -85.528612,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-488102743",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1161281,
+    "lng": -85.6015617,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-572681573",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0046136,
+    "lng": -85.5924285,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-625863637",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.029186,
+    "lng": -85.6286022,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-889303133",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Ivanrest Avenue Southwest 4640",
+    "city": "Grandville",
+    "state": "MI",
+    "zip": "49418",
+    "phone": "(616) 588-2205",
+    "hours": "",
+    "lat": 42.8795643,
+    "lng": -85.742576,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1056726784",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9095384,
+    "lng": -85.5866908,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-grand-rapids-hygiene",
+    "name": "KDL Library - Kentwood - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 42.8740341,
+    "lng": -85.5959256,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

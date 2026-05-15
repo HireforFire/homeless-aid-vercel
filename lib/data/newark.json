@@ -1,0 +1,715 @@
+[
+  {
+    "id": "fa-172081",
+    "name": "Oliver Street School",
+    "category": "Food",
+    "description": "Food distribution location at Oliver Street School",
+    "address": "86 Oliver Street",
+    "city": "North Ironbound",
+    "state": "NJ",
+    "zip": "07105",
+    "phone": "(973) 465-4870",
+    "hours": "",
+    "lat": 40.72630580000001,
+    "lng": -74.17032809999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172119",
+    "name": "FP Youth Outcry Foundation (The Hubb) - Springfield/Belmont",
+    "category": "Food",
+    "description": "Main distribution location",
+    "address": "135 Prince Street",
+    "city": "Springfield/Belmont",
+    "state": "NJ",
+    "zip": "07103",
+    "phone": "(973) 900-6454",
+    "hours": "",
+    "lat": 40.7325839,
+    "lng": -74.1872684,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172254",
+    "name": "Mend @ Newark WIC Office",
+    "category": "Food",
+    "description": "Fresh produce distribution location at the Newark WIC Office",
+    "address": "110 William Street",
+    "city": "Springfield/Belmont",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(862) 250-5216",
+    "hours": "",
+    "lat": 40.7345228,
+    "lng": -74.1789974,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174284",
+    "name": "Springfield Branch Library",
+    "category": "Food",
+    "description": "Food distribution location at Springfield Branch Library",
+    "address": "50 Hayes Street",
+    "city": "Springfield/Belmont",
+    "state": "NJ",
+    "zip": "07103",
+    "phone": "(973) 733-7736",
+    "hours": "",
+    "lat": 40.73605559999999,
+    "lng": -74.1889035,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175169",
+    "name": "NJIT Junior Police Academy",
+    "category": "Food",
+    "description": "Location for Junior Police Academy program",
+    "address": "154 Summit Street",
+    "city": "University Heights",
+    "state": "NJ",
+    "zip": "07103",
+    "phone": "(973) 596-3120",
+    "hours": "",
+    "lat": 40.7432906,
+    "lng": -74.17717189999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179718",
+    "name": "Pantry+ at Rutgers Newark - PRCC 226",
+    "category": "Food",
+    "description": "Food pantry location in PRCC building, room 226. This is where online orders are picked up.",
+    "address": "350 Doctor Martin Luther King Junior Boulevard",
+    "city": "University Heights",
+    "state": "NJ",
+    "zip": "07103",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7420327,
+    "lng": -74.176058,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184467",
+    "name": "Mend on the move The Leaguers, Inc - Springfield/Belmont",
+    "category": "Food",
+    "description": "Fresh produce distribution location",
+    "address": "405-425 University Avenue",
+    "city": "Springfield/Belmont",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7334641,
+    "lng": -74.1784006,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184695",
+    "name": "NJ Leep Inc. - Central Ward",
+    "category": "Food",
+    "description": "Main food distribution location in Central Ward, Newark NJ",
+    "address": "12 Lombardy Street",
+    "city": "Central Ward",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7429267,
+    "lng": -74.16868389999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185073",
+    "name": "Link Community Charter School",
+    "category": "Food",
+    "description": "Food distribution location at Link Community Charter School",
+    "address": "23 Pennsylvania Avenue",
+    "city": "South Broad Street",
+    "state": "NJ",
+    "zip": "07114",
+    "phone": "",
+    "hours": "",
+    "lat": 40.724579,
+    "lng": -74.1800378,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194504",
+    "name": "Oscar Miles Distribution Site",
+    "category": "Food",
+    "description": "Food distribution location in Springfield/Belmont area",
+    "address": "130 Court Street",
+    "city": "Springfield/Belmont",
+    "state": "NJ",
+    "zip": "07103",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7330845,
+    "lng": -74.18179099999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194597",
+    "name": "Pennington Court (Center of Hope)",
+    "category": "Food",
+    "description": "Food distribution center",
+    "address": "190 South Street",
+    "city": "South Ironbound",
+    "state": "NJ",
+    "zip": "07114",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7219358,
+    "lng": -74.1704127,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198438",
+    "name": "South Street School East Ward",
+    "category": "Food",
+    "description": "Service location for emergency shutdown assistance program",
+    "address": "44 Hermon Street",
+    "city": "South Ironbound",
+    "state": "NJ",
+    "zip": "07105",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7238,
+    "lng": -74.1707321,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-2174376268",
+    "name": "Shady Nook",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7555103,
+    "lng": -74.2933621,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367691855",
+    "name": "East Rutherford Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.8328779,
+    "lng": -74.0984755,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367691965",
+    "name": "William E Dermody Free Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.8381556,
+    "lng": -74.091253,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692012",
+    "name": "Dwight D Eisenhower Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.9033515,
+    "lng": -74.218391,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692219",
+    "name": "Reid Memorial Branch Passaic Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.8640509,
+    "lng": -74.1153039,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692592",
+    "name": "River Edge Free Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.9331397,
+    "lng": -74.038452,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692640",
+    "name": "Paramus Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "E Century Road 116",
+    "city": "Paramus",
+    "state": "NJ",
+    "zip": "07652",
+    "phone": "",
+    "hours": "",
+    "lat": 40.9263889,
+    "lng": -74.0605556,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692652",
+    "name": "New Milford Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.9200579,
+    "lng": -74.023411,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692684",
+    "name": "Garfield Free Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.88073,
+    "lng": -74.1009383,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692691",
+    "name": "Maywood Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.9011907,
+    "lng": -74.0632986,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692704",
+    "name": "Rochelle Park Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.9122222,
+    "lng": -74.0783333,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2563930380",
+    "name": "Aire Ancient Baths",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "Franklin Street 88",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "10013",
+    "phone": "(917) 563-4542",
+    "hours": "Mo-Su 08:00-23:00",
+    "lat": 40.7181575,
+    "lng": -74.0048533,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6482673688",
+    "name": "Sojo Spa",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "(201) 313-7200",
+    "hours": "Mo-Su 09:00-22:30",
+    "lat": 40.8189443,
+    "lng": -73.9791348,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7178370136",
+    "name": "Citywell",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "(347) 294-0100",
+    "hours": "Mo-Sa 10:30-20:00; Su 10:30-17:00",
+    "lat": 40.6779503,
+    "lng": -73.9868114,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8878090309",
+    "name": "Lift Floats",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "(718) 701-0808",
+    "hours": "",
+    "lat": 40.6832647,
+    "lng": -73.9956336,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2524934995",
+    "name": "Housing Works Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Columbus Avenue 306",
+    "city": "New York",
+    "state": "NJ",
+    "zip": "10023",
+    "phone": "(212) 579-7566",
+    "hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00",
+    "lat": 40.77915,
+    "lng": -73.9777611,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3577880567",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "John F. Kennedy Boulevard 2815",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07306",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7320972,
+    "lng": -74.0669572,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4254651771",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West 25th Steet 103",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001",
+    "phone": "(646) 638-1725",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "lat": 40.744427,
+    "lng": -73.9921981,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4939092647",
+    "name": "Housing Works Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "5th Avenue 266",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "11215",
+    "phone": "(718) 636-2271",
+    "hours": "Mo-Sa 12:00-18:00; Su 11:00-17:00",
+    "lat": 40.6747569,
+    "lng": -73.9818338,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5413780841",
+    "name": "Lighthouse 2nd Time Around",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Mountainview Boulevard 61",
+    "city": "Wayne",
+    "state": "NJ",
+    "zip": "07470",
+    "phone": "",
+    "hours": "",
+    "lat": 40.9136501,
+    "lng": -74.2643139,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5617797688",
+    "name": "Peace by Piece Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 11:00-19:00; Sa-Su 10:00-20:00||Jun-Aug Mo-Fr 11:00-20:00; Jun-Aug Sa-Su 10:00-20:00 \"extended summer hours\"",
+    "lat": 40.6349202,
+    "lng": -74.0262087,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5715656871",
+    "name": "Housing Works Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East 23rd Street 157",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "10010",
+    "phone": "(929) 314-2149",
+    "hours": "Mo-Sa 11:00-19:00; Su 12:00-17:00",
+    "lat": 40.7392145,
+    "lng": -73.983581,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5723724851",
+    "name": "Housing Works Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West 10th Street 245",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "10014",
+    "phone": "(212) 352-1618",
+    "hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
+    "lat": 40.7338946,
+    "lng": -74.0058864,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5723734114",
+    "name": "Housing Works Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West 17th Street 143",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "10011",
+    "phone": "(718) 838-5050",
+    "hours": "Mo-Sa 10:00-19:00; Su 12:00-18:00",
+    "lat": 40.7401001,
+    "lng": -73.9971589,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5857646960",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West 14th Street 7",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "10011",
+    "phone": "(212) 206-1619",
+    "hours": "Mo-Su 11:00-19:00",
+    "lat": 40.7363908,
+    "lng": -73.9940787,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

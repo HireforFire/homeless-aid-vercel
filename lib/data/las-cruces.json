@@ -1,0 +1,345 @@
+[
+  {
+    "id": "fa-172496",
+    "name": "Loma Heights Elementary",
+    "category": "Food",
+    "description": "Pop-up mobile food distribution site at Loma Heights Elementary School.",
+    "address": "1600 E. Madrid Avenue",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "phone": "(575) 312-2252",
+    "hours": "",
+    "lat": 32.33119799,
+    "lng": -106.768527,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182448",
+    "name": "New Mexico State University - Aggie Cupboard Mobile Pantry",
+    "category": "Food",
+    "description": "Mobile pantry distribution location at NMSU Agriculture Way",
+    "address": "906 Agriculture Way",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88003",
+    "phone": "",
+    "hours": "",
+    "lat": 32.3142451,
+    "lng": -106.7797529,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188563",
+    "name": "Booker T. Washington",
+    "category": "Food",
+    "description": "Food distribution location at 755 E. Chestnut Ave, Las Cruces, NM",
+    "address": "755 E. Chestnut",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "phone": "",
+    "hours": "",
+    "lat": 32.32135101,
+    "lng": -106.773861,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-450405",
+    "name": "Hermosa Heights Elementary School-Head Start",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (16 funded slots)",
+    "address": "1655 E Amador Ave",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "phone": "(575) 527-9530",
+    "hours": "",
+    "lat": 32.311645,
+    "lng": -106.761522,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-450413",
+    "name": "Booker T Washington Elementary School-Head Start",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (74 funded slots)",
+    "address": "755 E Chestnut Ave",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "phone": "(575) 527-9595",
+    "hours": "",
+    "lat": 32.321295,
+    "lng": -106.774056,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-181656",
+    "name": "El Calvario United Methodist Church",
+    "category": "Food",
+    "description": "El Calvario Resiliency & Well-Being Program food pantry location",
+    "address": "316 N Campo St.",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "phone": "",
+    "hours": "",
+    "lat": 32.3118669,
+    "lng": -106.7767977,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202171",
+    "name": "Outcry in the Barrio",
+    "category": "Food",
+    "description": "Food pantry location in Las Cruces serving Doña Ana County residents.",
+    "address": "319 N Mesquite",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "phone": "",
+    "hours": "",
+    "lat": 32.3123509,
+    "lng": -106.7751388,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202317",
+    "name": "Loma Heights High School",
+    "category": "Food",
+    "description": "Food pantry distribution location at Loma Heights High School",
+    "address": "1600 E Madrid Ave.",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "phone": "",
+    "hours": "",
+    "lat": 32.3310965,
+    "lng": -106.7695168,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173435",
+    "name": "Montana Meadows Apartments",
+    "category": "Food",
+    "description": "Pop-up food distribution location at Montana Meadows Apartments.",
+    "address": "201 E Montana Ave",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88005",
+    "phone": "(575) 524-1873",
+    "hours": "",
+    "lat": 32.29337649,
+    "lng": -106.7746666,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179521",
+    "name": "Lynn Community Middle School",
+    "category": "Food",
+    "description": "Pop-up mobile food resource distribution location at Lynn Community Middle School",
+    "address": "950 S Walnut St.",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "phone": "",
+    "hours": "",
+    "lat": 32.30713069,
+    "lng": -106.7517289,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182500",
+    "name": "DACC Main",
+    "category": "Food",
+    "description": "Main distribution location for pop-up and mobile food resources.",
+    "address": "3400 S. Espina",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88011",
+    "phone": "",
+    "hours": "",
+    "lat": 32.27704,
+    "lng": -106.75465,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182635",
+    "name": "DACC East Mesa",
+    "category": "Food",
+    "description": "Pop-up/mobile food distribution location at DACC East Mesa in Las Cruces.",
+    "address": "2800 Sonoma Ranch Blvd",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88011",
+    "phone": "",
+    "hours": "",
+    "lat": 32.35398,
+    "lng": -106.73798,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-366375642",
+    "name": "Doña Ana Branch Community College Library Media Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2761174,
+    "lng": -106.7553259,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-51543913",
+    "name": "Branson Hall Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Frenger Mall 1305",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2815928,
+    "lng": -106.7520425,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-51543919",
+    "name": "Zuhl Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "McFie Circle 2911",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2814764,
+    "lng": -106.7496395,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-171734945",
+    "name": "Thomas Branigan Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Picacho Avenue 200",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "",
+    "phone": "(575) 528-4000",
+    "hours": "",
+    "lat": 32.3156364,
+    "lng": -106.7784009,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-las-cruces-shelter",
+    "name": "Las Cruces Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "address": "",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24/7",
+    "lat": 32.3199,
+    "lng": -106.7637,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-las-cruces-hygiene",
+    "name": "Doña Ana Branch Community College Library Media Center - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2761174,
+    "lng": -106.7553259,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

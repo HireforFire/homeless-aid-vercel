@@ -1,0 +1,717 @@
+[
+  {
+    "id": "fa-174414",
+    "name": "The Mission Pantry",
+    "category": "Food",
+    "description": "Food pantry location serving St. Tammy parish residents.",
+    "address": "1130 Oretha Castle Haley Blvd.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "(716) 803-4432",
+    "hours": "",
+    "lat": 29.9434702,
+    "lng": -90.0772914,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201337",
+    "name": "St. Jude Community Center",
+    "category": "Food",
+    "description": "Food distribution location at St. Jude Community Center",
+    "address": "400 N. Rampart St.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70112",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9581947,
+    "lng": -90.0702739,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203503",
+    "name": "First Evangelist Housing Corp.",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "2826 MLK Junior Blvd.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9455403,
+    "lng": -90.0875023,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207100",
+    "name": "New Orleans Mission",
+    "category": "Food",
+    "description": "Shelter location providing meals throughout the day",
+    "address": "1130 Oretha Castle Haley Blvd",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "",
+    "hours": "",
+    "lat": 29.943342,
+    "lng": -90.076862,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-219118",
+    "name": "Liberty House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2020 S. Liberty St.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "(504) 412-3914",
+    "hours": "",
+    "lat": 29.9408321,
+    "lng": -90.0841904,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-457677",
+    "name": "Royal Castle",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (16 funded slots)",
+    "address": "2810 Martin Luther King Jr Blvd",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "(504) 504-7572",
+    "hours": "",
+    "lat": 29.945273,
+    "lng": -90.087182,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-459729",
+    "name": "St. John the Baptist",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (77 funded slots)",
+    "address": "1920 Clio St",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "(504) 259-2557",
+    "hours": "",
+    "lat": 29.943639,
+    "lng": -90.078075,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-129224",
+    "name": "International School of Louisiana",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1400 CAMP ST",
+    "city": "NEW ORLEANS",
+    "state": "LA",
+    "zip": "70130",
+    "phone": "(504) 654-1088",
+    "hours": "",
+    "lat": 29.936504,
+    "lng": -90.072972,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-179460",
+    "name": "Living Witness Ministry",
+    "category": "Food",
+    "description": "Living Witness Ministry food assistance location",
+    "address": "1528 Oretha Castle Haley Blvd.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9405337,
+    "lng": -90.0793271,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190023",
+    "name": "North Rampart Community Center",
+    "category": "Food",
+    "description": "Community center location for food distribution services.",
+    "address": "1130 N. Rampart St.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70116",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9641458,
+    "lng": -90.0645679,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192353",
+    "name": "Lantern Light, Inc.",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1802 Tulane Ave.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70119",
+    "phone": "",
+    "hours": "",
+    "lat": 29.95709,
+    "lng": -90.0816486,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194743",
+    "name": "Cosmopolitan Evangelistic Baptist Church",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "1929 Bienville St.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70112",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9625798,
+    "lng": -90.078564,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-2657829351",
+    "name": "Peristyle",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9851998,
+    "lng": -90.0974222,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4576438282",
+    "name": "Pavilion Island",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9989739,
+    "lng": -90.2119991,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6040336705",
+    "name": "Shelter 5",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9914841,
+    "lng": -90.243411,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6040336706",
+    "name": "Shelter 4",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9919767,
+    "lng": -90.242705,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-345315006",
+    "name": "Rosa Keller Branch, N.O. Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9485762,
+    "lng": -90.1040418,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-356845113",
+    "name": "N. O. Public Library, Mid-City Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9749244,
+    "lng": -90.1018232,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367132633",
+    "name": "Howard Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Andrew Higgins Drive 615",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.943346,
+    "lng": -90.0717055,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367132648",
+    "name": "New Orleans Public Library - Nora Navra Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9756509,
+    "lng": -90.0676244,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367132683",
+    "name": "Law Library of Louisiana",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9560054,
+    "lng": -90.066168,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367132685",
+    "name": "Children's Resource Center - New Orleans Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Napoleon Avenue 913",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9213508,
+    "lng": -90.1010242,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367132695",
+    "name": "Saint Bernard Parish Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9318893,
+    "lng": -89.9565001,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367132702",
+    "name": "Algiers Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9235903,
+    "lng": -90.0144028,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367132703",
+    "name": "Central City Branch New Orleans City Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.93849,
+    "lng": -90.08426,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367132704",
+    "name": "New Orleans Public Library - Martin Luther King Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9663495,
+    "lng": -90.0136497,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3348589477",
+    "name": "Out Of The Closet",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Magazine Street 2900",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "(504) 208-4100",
+    "hours": "Mo-Su 10:00-19:00",
+    "lat": 29.9252921,
+    "lng": -90.0838525,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3759364692",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Elysian Fields Avenue 2900",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9880435,
+    "lng": -90.058878,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6051420226",
+    "name": "Bridge House",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Airline Drive 7901",
+    "city": "Metairie",
+    "state": "LA",
+    "zip": "70003",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9791349,
+    "lng": -90.221666,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6993694856",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.022369,
+    "lng": -90.2665344,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7158338485",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9025125,
+    "lng": -90.0644214,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7447819642",
+    "name": "Everyday Stuff",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9825366,
+    "lng": -90.2121079,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7450170885",
+    "name": "SpayMart",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.0066635,
+    "lng": -90.2132003,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9762604956",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Orchard Road 205",
+    "city": "River Ridge",
+    "state": "LA",
+    "zip": "70123",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9525388,
+    "lng": -90.214019,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9950370231",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Jefferson Highway 100",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70121",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9638048,
+    "lng": -90.1316631,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13166648003",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Allen Toussaint Boulevard 123",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70124",
+    "phone": "(504) 286-1858",
+    "hours": "",
+    "lat": 30.0210406,
+    "lng": -90.1119203,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-new-orleans-hygiene",
+    "name": "Rosa Keller Branch, N.O. Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 29.9485762,
+    "lng": -90.1040418,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

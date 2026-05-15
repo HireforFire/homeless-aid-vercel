@@ -1,0 +1,620 @@
+[
+  {
+    "id": "fa-216087",
+    "name": "Denver Inner City Parish",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all. No appointment needed.",
+    "address": "1212 Mariposa St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 629-0636",
+    "hours": "",
+    "lat": 39.735558,
+    "lng": -105.002464,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-181363",
+    "name": "MSU Denver Student Food Bank- Rowdy's Corner",
+    "category": "Food",
+    "description": "Student food bank located in the Tivoli Room at MSU Denver's Auraria Parkway campus.",
+    "address": "900 Auraria Pwky.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7450774,
+    "lng": -105.005976,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181935",
+    "name": "Senior Support Services- Volunteers of America",
+    "category": "Food",
+    "description": "Senior Congregate Meals facility providing daily breakfast and lunch services.",
+    "address": "846 E. 18th Ave.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80218",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7447138,
+    "lng": -104.9765733,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184472",
+    "name": "Sunset Park Senior Center",
+    "category": "Food",
+    "description": "Senior meal distribution location",
+    "address": "1865 Larimer St.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7516994,
+    "lng": -104.9944101,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185147",
+    "name": "St. Elizabeth's of Hungary Catholic Church",
+    "category": "Food",
+    "description": "Catholic church location providing meal services",
+    "address": "1060 St. Francis Way",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7426122,
+    "lng": -105.0021696,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194825",
+    "name": "Metro Caring",
+    "category": "Food",
+    "description": "Metro Caring food pantry location",
+    "address": "1100 E 18th Ave",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80218",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7445993,
+    "lng": -104.9730459,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199078",
+    "name": "His Love Fellowship",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "910 Kalamath St.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7307388,
+    "lng": -104.9997207,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207984",
+    "name": "Haven of Hope: Jay Gould Center",
+    "category": "Food",
+    "description": "Haven of Hope: Jay Gould Center provides hot and cold meal services in Denver.",
+    "address": "1101 W. 7th Ave.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7275176,
+    "lng": -105.0020727,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210138",
+    "name": "Capitol Hill Comm Serv",
+    "category": "Food",
+    "description": "Food pantry and hot meals distribution location",
+    "address": "1820 Broadway",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7451214,
+    "lng": -104.9870291,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214700",
+    "name": "Metropolitan Community Church",
+    "category": "Food",
+    "description": "Food pantry location offering TEFAP Program services.",
+    "address": "980 N Clarkson St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80218",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7318392,
+    "lng": -104.9773133,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-1705214239",
+    "name": "Samaritan House Catholic Charities",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Lawrence Street 2301",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80205",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7555773,
+    "lng": -104.9881964,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395545",
+    "name": "Park Hill Branch Denver Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Montview Boulevard 4705",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80207",
+    "phone": "(720) 865-0250",
+    "hours": "",
+    "lat": 39.747828,
+    "lng": -104.932543,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395652",
+    "name": "Martin Luther King Junior Branch Aurora Public Library",
+    "category": "Public Resources",
+    "description": "Also moved this closer to entrance.",
+    "address": "East Colfax Avenue 9898",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "(303) 739-1940",
+    "hours": "",
+    "lat": 39.7396593,
+    "lng": -104.873538,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395669",
+    "name": "Elyria Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7822222,
+    "lng": -104.9641667,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395675",
+    "name": "Eugene Field Branch Denver Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7016873,
+    "lng": -104.958972,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395699",
+    "name": "Ross-Cherry Creek Branch Denver Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7212328,
+    "lng": -104.9525426,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395711",
+    "name": "Ross-University Hills Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Amherst Avenue 4310",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80222",
+    "phone": "(720) 865-0955",
+    "hours": "",
+    "lat": 39.6652172,
+    "lng": -104.9374,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366395723",
+    "name": "Wheat Ridge Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.762579,
+    "lng": -105.0570912,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-672563777",
+    "name": "Blair-CaldwellAfrican American Research Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Welton Street 2401",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80205",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7524337,
+    "lng": -104.9815326,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-983950311",
+    "name": "Denver Public Library Hampden Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Girard Avenue",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80231",
+    "phone": "(720) 865-0185",
+    "hours": "Mo,Tu,Th 09:00-18:00; We 09:00-20:00; Fr-Su 10:00-17:00",
+    "lat": 39.6546679,
+    "lng": -104.87476,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2039387071",
+    "name": "Athmar Park Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Tejon Street 1055",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80223",
+    "phone": "(720) 865-0230",
+    "hours": "Mo, We-Th 10:00-18:00; Tu 10:00-20:00; Fr-Sa 10:00-17:00",
+    "lat": 39.6970811,
+    "lng": -105.0136056,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5949703619",
+    "name": "Lake Steam Baths",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "West Colfax Avenue 3540",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7401853,
+    "lng": -105.0342192,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1572244900",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Jewell Avenue 7677",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.6837555,
+    "lng": -105.0829795,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3450087834",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Iliff Avenue 7485",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80231",
+    "phone": "(303) 752-2731",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.6760824,
+    "lng": -104.901202,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4110985190",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00",
+    "lat": 39.7077032,
+    "lng": -104.929289,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4168517908",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Parker Road 3106",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80014",
+    "phone": "(303) 283-0337",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.6609881,
+    "lng": -104.8525817,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4889018564",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Cortez Street 1405",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80221",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.8316775,
+    "lng": -105.003795,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4890750423",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West 44th Avenue 5825",
+    "city": "Lakeside",
+    "state": "CO",
+    "zip": "80212",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00",
+    "lat": 39.7778028,
+    "lng": -105.0595859,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5463378968",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Alameda Parkway 12039",
+    "city": "Lakewood",
+    "state": "CO",
+    "zip": "80228",
+    "phone": "(303) 984-0851",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.7096567,
+    "lng": -105.137198,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5850648319",
+    "name": "Assistance League Denver Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Evans Avenue 6265",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80222",
+    "phone": "(303) 861-2122",
+    "hours": "Mo-Fr 10:00-18:00, Sa 10:00-17:00, Su closed",
+    "lat": 39.678862,
+    "lng": -104.9159105,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6422228794",
+    "name": "Goodwill Outlet World",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Kearney Street 4355",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80216",
+    "phone": "",
+    "hours": "Mo-Sa 08:00-20:00; Su 09:00-18:00",
+    "lat": 39.7769736,
+    "lng": -104.9182244,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6435398275",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Sheridan Boulevard 3100",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00",
+    "lat": 39.6554011,
+    "lng": -105.048135,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

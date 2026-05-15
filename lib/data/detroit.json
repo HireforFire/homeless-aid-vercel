@@ -1,0 +1,735 @@
+[
+  {
+    "id": "fa-173367",
+    "name": "Most Holy Trinity Parish - Corktown Distribution",
+    "category": "Food",
+    "description": "Regular food distribution location in Corktown. Thursday distributions from 11 AM to 1 PM. Drive-thru service.",
+    "address": "1050 Porter Street",
+    "city": "Corktown",
+    "state": "MI",
+    "zip": "48226",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3298756,
+    "lng": -83.0605207,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194387",
+    "name": "MP-Unify Detroit/St. John Presbyterian Church",
+    "category": "Food",
+    "description": "Food distribution location at St. John Presbyterian Church",
+    "address": "1961 East Lafayette Street",
+    "city": "Elmwood Park",
+    "state": "MI",
+    "zip": "48207",
+    "phone": "",
+    "hours": "",
+    "lat": 42.340062,
+    "lng": -83.029215,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183467",
+    "name": "Everyone Eats - Brush Park",
+    "category": "Food",
+    "description": "Everyone Eats location in Brush Park, Michigan",
+    "address": "2930 Woodward Avenue",
+    "city": "Brush Park",
+    "state": "MI",
+    "zip": "48201",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3441585,
+    "lng": -83.0550571,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184219",
+    "name": "Mariner's Inn",
+    "category": "Food",
+    "description": "Main location of Mariner's Inn food service",
+    "address": "445 Ledyard Street",
+    "city": "Midtown",
+    "state": "MI",
+    "zip": "48201",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3398304,
+    "lng": -83.0581787,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201065",
+    "name": "United Way Downtown Detroit",
+    "category": "Food",
+    "description": "United Way office located in Downtown Detroit",
+    "address": "300 Michigan Avenue",
+    "city": "Downtown Detroit",
+    "state": "MI",
+    "zip": "48226",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3318248,
+    "lng": -83.0512555,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179974",
+    "name": "Franklin Wright Settlements - Emergency Assistance",
+    "category": "Food",
+    "description": "Emergency food assistance distribution location",
+    "address": "3360 Charlevoix Street",
+    "city": "McDougall-Hunt",
+    "state": "MI",
+    "zip": "48207",
+    "phone": "",
+    "hours": "",
+    "lat": 42.355093,
+    "lng": -83.023355,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183865",
+    "name": "In The Trenches",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "304 South Morrell Street",
+    "city": "Delray",
+    "state": "MI",
+    "zip": "48209",
+    "phone": "",
+    "hours": "",
+    "lat": 42.304879,
+    "lng": -83.09129,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195492",
+    "name": "Fresh Market at Western International High School",
+    "category": "Food",
+    "description": "Mobile food pantry distribution location at Western International High School",
+    "address": "1500 Scotten Street",
+    "city": "Hubbard Farms",
+    "state": "MI",
+    "zip": "48209",
+    "phone": "",
+    "hours": "",
+    "lat": 42.31921790000001,
+    "lng": -83.0920481,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199903",
+    "name": "Capuchin Soup Kitchen - Islandview",
+    "category": "Food",
+    "description": "Main soup kitchen location providing hot meals.",
+    "address": "1740 Mount Elliott Street",
+    "city": "Islandview",
+    "state": "MI",
+    "zip": "48207",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3508415,
+    "lng": -83.01440889999999,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200389",
+    "name": "The W Food Pantry",
+    "category": "Food",
+    "description": "The W Food Pantry located in Detroit, Michigan",
+    "address": "703 West Kirby Street",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48202",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3579657,
+    "lng": -83.0730047,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204461",
+    "name": "Genesis Hope",
+    "category": "Food",
+    "description": "Genesis Lutheran Church food distribution location. Line begins on Field St.",
+    "address": "7200 Mack Avenue",
+    "city": "Islandview",
+    "state": "MI",
+    "zip": "48214",
+    "phone": "",
+    "hours": "",
+    "lat": 42.364229,
+    "lng": -83.012406,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206839",
+    "name": "Salvation Army - Fort Street",
+    "category": "Food",
+    "description": "Salvation Army food distribution location on Fort Street",
+    "address": "1627 West Fort Street",
+    "city": "West Side Industrial",
+    "state": "MI",
+    "zip": "48216",
+    "phone": "",
+    "hours": "",
+    "lat": 42.323208,
+    "lng": -83.06373889999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-5268958511",
+    "name": "Caniff / Chrysler (EB)",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3969342,
+    "lng": -83.0674404,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6489481051",
+    "name": "Caniff / Joseph Campau (EB)",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3998567,
+    "lng": -83.0595108,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6489481053",
+    "name": "Caniff / Joseph Campau (WB)",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3997325,
+    "lng": -83.0602588,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6489481324",
+    "name": "La Salle / Webb (NB)",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3847246,
+    "lng": -83.1111941,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6489481698",
+    "name": "Plymouth / Heyden (EB)",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3717446,
+    "lng": -83.2392883,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6724832603",
+    "name": "Grand Blvd / Grand River (WB)",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3566511,
+    "lng": -83.1101896,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367813862",
+    "name": "Jefferson Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Outer Drive 12350",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48224",
+    "phone": "",
+    "hours": "",
+    "lat": 42.4040659,
+    "lng": -82.937247,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367813878",
+    "name": "Riverview Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.172,
+    "lng": -83.1959,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367813899",
+    "name": "Richard Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3695,
+    "lng": -83.1401,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367813915",
+    "name": "Detroit Municipal Reference Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Woodward Avenue 5201",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3297366,
+    "lng": -83.0433073,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2637397040",
+    "name": "St. Clair Shores Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East 11 Mile Road 22500",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48081",
+    "phone": "(586) 771-9020",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-17:00",
+    "lat": 42.496196,
+    "lng": -82.8879207,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3465528667",
+    "name": "Oak Park Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Oak Park Boulevard 14200",
+    "city": "Oak Park",
+    "state": "MI",
+    "zip": "48237",
+    "phone": "",
+    "hours": "",
+    "lat": 42.4661412,
+    "lng": -83.1869038,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5378220115",
+    "name": "Essex County Library - LaSalle Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.2454397,
+    "lng": -83.0604028,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5537736800",
+    "name": "Arthur J. Miller Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.5307101,
+    "lng": -83.053915,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5860746835",
+    "name": "Van Dyke Public School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.4613241,
+    "lng": -83.0205205,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4122173323",
+    "name": "Salvation Army Family Store & Donation Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Greenfield Road 26065",
+    "city": "Southfield",
+    "state": "MI",
+    "zip": "48076",
+    "phone": "",
+    "hours": "",
+    "lat": 42.48183,
+    "lng": -83.2036686,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5961507158",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Grand River Avenue 3111",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48208",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3403816,
+    "lng": -83.0709018,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5977115987",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Eureka Road 14275",
+    "city": "Southgate",
+    "state": "MI",
+    "zip": "48195",
+    "phone": "",
+    "hours": "",
+    "lat": 42.198117,
+    "lng": -83.1971019,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8343247860",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3728785,
+    "lng": -83.1208018,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8495202133",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Dix Highway 2627",
+    "city": "Lincoln Park",
+    "state": "MI",
+    "zip": "48146",
+    "phone": "",
+    "hours": "",
+    "lat": 42.2457917,
+    "lng": -83.1946069,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8890606462",
+    "name": "STEP Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Eureka Road 13705",
+    "city": "Southgate",
+    "state": "MI",
+    "zip": "48195",
+    "phone": "",
+    "hours": "",
+    "lat": 42.1971319,
+    "lng": -83.1899108,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11011095326",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East 8 Mile Road 5600",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48234",
+    "phone": "",
+    "hours": "",
+    "lat": 42.4474771,
+    "lng": -83.0471763,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11368809692",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3051761,
+    "lng": -82.9785111,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-288834464",
+    "name": "Hope for a Cure Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.2678662,
+    "lng": -83.025217,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-318399176",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.1423571,
+    "lng": -83.2284821,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-detroit-hygiene",
+    "name": "Jefferson Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "East Outer Drive 12350",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48224",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 42.4040659,
+    "lng": -82.937247,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

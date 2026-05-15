@@ -1,0 +1,458 @@
+[
+  {
+    "id": "fa-176745",
+    "name": "Union Gospel Mission",
+    "category": "Food",
+    "description": "Main facility providing food distribution and hot meal services in Sioux Falls.",
+    "address": "701 E 8th St",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.548285110643,
+    "lng": -96.718230553306,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177580",
+    "name": "Calvary Cathedral",
+    "category": "Food",
+    "description": "Food pantry location at Calvary Cathedral",
+    "address": "500 S Main Ave.",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "",
+    "hours": "",
+    "lat": 43.542171392377,
+    "lng": -96.72783579525,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-457689",
+    "name": "Lowell Elementary School",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (25 funded slots)",
+    "address": "710 W 18th St",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "(605) 367-8378",
+    "hours": "",
+    "lat": 43.537071,
+    "lng": -96.735935,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-176620",
+    "name": "Feeding SD at First United Methodist Church",
+    "category": "Food",
+    "description": "Mobile food distribution location at First United Methodist Church in Sioux Falls.",
+    "address": "401 S Spring",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "",
+    "hours": "",
+    "lat": 43.543175125282,
+    "lng": -96.733443372293,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177726",
+    "name": "Axtell Park Middle School",
+    "category": "Food",
+    "description": "School location for food distribution services",
+    "address": "201 West Ave.",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "",
+    "hours": "",
+    "lat": 43.548623488074,
+    "lng": -96.747309387078,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178191",
+    "name": "Hawthorne Elementary",
+    "category": "Food",
+    "description": "Hawthorne Elementary School location providing BackPack Program services.",
+    "address": "601 N Spring Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "",
+    "hours": "",
+    "lat": 43.553557202012,
+    "lng": -96.733290486379,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178388",
+    "name": "Whittier Middle School",
+    "category": "Food",
+    "description": "School pantry location at Whittier Middle School",
+    "address": "930 E. 6th St.",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.551881994843,
+    "lng": -96.714772934427,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204621",
+    "name": "Good Shepherd Ministry Center - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Sioux Falls",
+    "address": "523 N Duluth Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "",
+    "hours": "",
+    "lat": 43.553517899999996,
+    "lng": -96.73464,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173314",
+    "name": "The Community Outreach",
+    "category": "Food",
+    "description": "Main office location for The Community Outreach in Sioux Falls.",
+    "address": "1915 E 8th St Suite 105",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "(605) 331-3935",
+    "hours": "",
+    "lat": 43.5469206,
+    "lng": -96.702456,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176382",
+    "name": "Feeding SD at Faith Lutheran Church",
+    "category": "Food",
+    "description": "Mobile food distribution site at Faith Lutheran Church",
+    "address": "601 N Cliff Ave.",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.554349124224,
+    "lng": -96.712297758419,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199691",
+    "name": "Kids Against Hunger - Sioux Falls",
+    "category": "Food",
+    "description": "Kids Against Hunger food assistance location in Sioux Falls.",
+    "address": "1701 N Louise Dr",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57107",
+    "phone": "",
+    "hours": "",
+    "lat": 43.565895,
+    "lng": -96.77155359999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-150535",
+    "name": "Salvation Army - Sioux Falls",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "800 N Cliff Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "(605) 338-6649",
+    "hours": "",
+    "lat": 43.5516,
+    "lng": -96.7241,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "osm-node-2469525784",
+    "name": "Brandon Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Splitrock Boulevard 305",
+    "city": "Brandon",
+    "state": "SD",
+    "zip": "57005",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5915728,
+    "lng": -96.5731223,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13005445003",
+    "name": "Harrisburg Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Willow Street 200",
+    "city": "Harrisburg",
+    "state": "SD",
+    "zip": "57032",
+    "phone": "",
+    "hours": "",
+    "lat": 43.4319078,
+    "lng": -96.699617,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13005464126",
+    "name": "Lennox Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West 5th Avenue 208",
+    "city": "Lennox",
+    "state": "SD",
+    "zip": "57039",
+    "phone": "",
+    "hours": "",
+    "lat": 43.350803,
+    "lng": -96.8937062,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13005479518",
+    "name": "Tea Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Brian Street 500",
+    "city": "Tea",
+    "state": "SD",
+    "zip": "57064",
+    "phone": "",
+    "hours": "",
+    "lat": 43.4552921,
+    "lng": -96.8430132,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-302321662",
+    "name": "Mikkelsen Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Summit Avenue 2001",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57197",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5250284,
+    "lng": -96.7369734,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-302347900",
+    "name": "Norman B. Mears Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West 22nd Street 1001",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57105",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5327036,
+    "lng": -96.7379705,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-403985936",
+    "name": "Caille Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Carnegie Circle 4100",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57106",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5079678,
+    "lng": -96.7643648,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-403993499",
+    "name": "Downtown Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Dakota Avenue 200",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5492112,
+    "lng": -96.728946,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-433201808",
+    "name": "Oak View Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East 3rd Street 3700",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5558476,
+    "lng": -96.6803571,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-488040380",
+    "name": "Ronning Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East 49th Street 3100",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.507868,
+    "lng": -96.6878312,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-432989223",
+    "name": "Terrace Park Bath House",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5581118,
+    "lng": -96.7405509,
+    "tags": [
+      "showers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-sioux-falls-shelter",
+    "name": "Sioux Falls Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "address": "",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24/7",
+    "lat": 43.5446,
+    "lng": -96.7311,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

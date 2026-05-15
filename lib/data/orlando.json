@@ -1,0 +1,679 @@
+[
+  {
+    "id": "fa-184500",
+    "name": "Serenity's Grace",
+    "category": "Food",
+    "description": "Food pantry location in Orlando",
+    "address": "716 W. Robinson St.",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "",
+    "hours": "",
+    "lat": 28.5456056,
+    "lng": -81.3899636,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185541",
+    "name": "The Salvation Army - Orlando",
+    "category": "Food",
+    "description": "Food pantry location in Orlando serving Orange County residents.",
+    "address": "400 W. Colonial Dr.",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32804",
+    "phone": "",
+    "hours": "",
+    "lat": 28.5527631,
+    "lng": -81.384405,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186138",
+    "name": "Coalition for the Homeless of Central Florida - Main Location",
+    "category": "Food",
+    "description": "Main location of Coalition for the Homeless of Central Florida providing soup kitchen services.",
+    "address": "18 N. Terry Ave.",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32801",
+    "phone": "",
+    "hours": "",
+    "lat": 28.5432359,
+    "lng": -81.3877648,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201425",
+    "name": "Infinite Zion Farms",
+    "category": "Food",
+    "description": "Fresh produce distribution location",
+    "address": "626 W. South St.",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "",
+    "hours": "",
+    "lat": 28.538018,
+    "lng": -81.38773,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218658",
+    "name": "The Salvation Army - Lake Dot Cir 1",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "633 Lake Dot Cir",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32801",
+    "phone": "(407) 843-5533",
+    "hours": "",
+    "lat": 28.542,
+    "lng": -81.37343,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218660",
+    "name": "The Salvation Army - Lake Dot Cir",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "625 Lake Dot Cir",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32801",
+    "phone": "(407) 650-8180",
+    "hours": "",
+    "lat": 28.542,
+    "lng": -81.37343,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220555",
+    "name": "CJS FOOD PANTRY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "212 SOUTH PARROMORE AVE",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "(407) 431-2453",
+    "hours": "",
+    "lat": 28.5400295,
+    "lng": -81.3890228,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-458652",
+    "name": "CALLAHAN COMMUNITY CENTER",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (49 funded slots)",
+    "address": "101 N Parramore Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32801",
+    "phone": "(407) 836-6700",
+    "hours": "",
+    "lat": 28.544317,
+    "lng": -81.388044,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-181283",
+    "name": "Shiloh Baptist Church of Orlando",
+    "category": "Food",
+    "description": "Food distribution location at Shiloh Baptist Church of Orlando",
+    "address": "604 W. Jackson St.",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "",
+    "hours": "",
+    "lat": 28.5390071,
+    "lng": -81.3872395,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197913",
+    "name": "Christian Service Center",
+    "category": "Food",
+    "description": "Main location of Christian Service Center",
+    "address": "808 West Central Blvd",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "",
+    "hours": "",
+    "lat": 28.5416853,
+    "lng": -81.3909327,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172104",
+    "name": "Heart 2 Heart at Shepherd Vision Missionary, Inc.",
+    "category": "Food",
+    "description": "Food pantry location at Shepherd Vision Missionary, Inc. Entrance to pantry is at Rio Grande.",
+    "address": "1415 W. Central Blvd.",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "(407) 402-6568",
+    "hours": "",
+    "lat": 28.5421599,
+    "lng": -81.4001866,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181854",
+    "name": "Attitude Baptist Church of Orlando",
+    "category": "Food",
+    "description": "Food distribution location at Attitude Baptist Church of Orlando",
+    "address": "3750 W. East Colonial",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32803",
+    "phone": "",
+    "hours": "",
+    "lat": 28.5531628,
+    "lng": -81.3497501,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-4584793205",
+    "name": "Picnic Pavillion number 2",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 28.442114,
+    "lng": -81.5695126,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4584793404",
+    "name": "Picnic Pavillion",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 28.442265,
+    "lng": -81.5690191,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823826",
+    "name": "Winter Garden Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Plant St 805",
+    "city": "Winter Garden",
+    "state": "FL",
+    "zip": "34787",
+    "phone": "",
+    "hours": "",
+    "lat": 28.5674421,
+    "lng": -81.5767898,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823875",
+    "name": "Southeast Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Semoran Boulevard 5575",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32822",
+    "phone": "",
+    "hours": "Mo-Th 10:00-19:00, Fr-Sa 10:00-18:00",
+    "lat": 28.4810985,
+    "lng": -81.3073663,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823880",
+    "name": "West Oaks Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 28.5724258,
+    "lng": -81.5140531,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823895",
+    "name": "Herndon Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 28.552388,
+    "lng": -81.3313859,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367824250",
+    "name": "Edgewater Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 28.6067586,
+    "lng": -81.4078804,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367824325",
+    "name": "Reformed Theological Seminary Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 28.657408,
+    "lng": -81.188124,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9378073819",
+    "name": "Fairview Shores Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Lee Road 902",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32810;32810-5561",
+    "phone": "(407) 835-7323",
+    "hours": "Mo-Sa 10:00-18:00",
+    "lat": 28.6044508,
+    "lng": -81.3947697,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11234646619",
+    "name": "Southwest Library at Dr. Phillips",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 28.4558831,
+    "lng": -81.48977,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12551975974",
+    "name": "South Trail Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Orange Blossom Trail 4600",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32839-1706",
+    "phone": "(407) 835-7323",
+    "hours": "",
+    "lat": 28.4971493,
+    "lng": -81.3992598,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12817530019",
+    "name": "Snow Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 28.557777,
+    "lng": -81.3705118,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5273005971",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 28.4511252,
+    "lng": -81.5634275,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6904274938",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 28.5523277,
+    "lng": -81.5785151,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7122429767",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 28.4452438,
+    "lng": -81.4015693,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12480762718",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "lat": 28.4563425,
+    "lng": -81.3980957,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13585565801",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Orange Ave. 750",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32789",
+    "phone": "",
+    "hours": "",
+    "lat": 28.5846815,
+    "lng": -81.3540259,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-607933205",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Alafaya Trail 1819",
+    "city": "Oviedo",
+    "state": "FL",
+    "zip": "32765",
+    "phone": "",
+    "hours": "Mo-Su 09:00-21:00",
+    "lat": 28.6441185,
+    "lng": -81.2073916,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-824220144",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Lake Underhill Road 12170",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32825",
+    "phone": "(407) 277-4999",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 28.5450475,
+    "lng": -81.20904,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-832039594",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "lat": 28.4789174,
+    "lng": -81.2890507,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-868219806",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "",
+    "phone": "(407) 270-8981",
+    "hours": "Mo-Su 08:00-18:00",
+    "lat": 28.4226056,
+    "lng": -81.4019692,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-931056887",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Narcoossee Road 12865",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32832",
+    "phone": "(407) 237-0510",
+    "hours": "Mo-Su 09:00-21:00",
+    "lat": 28.3788226,
+    "lng": -81.242869,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-orlando-hygiene",
+    "name": "Winter Garden Branch - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "East Plant St 805",
+    "city": "Winter Garden",
+    "state": "FL",
+    "zip": "34787",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 28.5674421,
+    "lng": -81.5767898,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

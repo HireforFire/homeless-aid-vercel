@@ -1,0 +1,735 @@
+[
+  {
+    "id": "fa-173743",
+    "name": "Reformation Lutheran Church/Loop Ministries",
+    "category": "Food",
+    "description": "Food pantry location at Reformation Lutheran Church",
+    "address": "597 East Avenue",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14607",
+    "phone": "(585) 454-3367",
+    "hours": "",
+    "lat": 43.15321,
+    "lng": -77.58873,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185849",
+    "name": "Beyond the Sanctuary- Memorial AME Zion Church",
+    "category": "Food",
+    "description": "Food pantry location at Memorial AME Zion Church",
+    "address": "549 Clarissa Street",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14608",
+    "phone": "",
+    "hours": "",
+    "lat": 43.145157,
+    "lng": -77.618455,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186300",
+    "name": "Trillium Health Soup Kitchen",
+    "category": "Food",
+    "description": "Community meal and soup kitchen location in Rochester, NY",
+    "address": "259 Monroe Ave",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14607",
+    "phone": "",
+    "hours": "",
+    "lat": 43.149485,
+    "lng": -77.599586,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186324",
+    "name": "Dining Room Ministries",
+    "category": "Food",
+    "description": "Community meal service location in Rochester",
+    "address": "4 Meigs Street",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14607",
+    "phone": "",
+    "hours": "",
+    "lat": 43.153539,
+    "lng": -77.590331,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192984",
+    "name": "Baden Street Settlement Emergency",
+    "category": "Food",
+    "description": "Food pantry location on Vienna Street in Rochester, NY",
+    "address": "13 Vienna Street",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14605",
+    "phone": "",
+    "hours": "",
+    "lat": 43.16917,
+    "lng": -77.60635,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193055",
+    "name": "Salem Nutrition Center",
+    "category": "Food",
+    "description": "Community meal and soup kitchen location",
+    "address": "60 Bittner Street",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14604",
+    "phone": "",
+    "hours": "",
+    "lat": 43.161102,
+    "lng": -77.609478,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196529",
+    "name": "Central Church of Christ SKT",
+    "category": "Food",
+    "description": "Community meal and soup kitchen location",
+    "address": "101 S. Plymouth Ave",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14608",
+    "phone": "",
+    "hours": "",
+    "lat": 43.15291,
+    "lng": -77.614957,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199462",
+    "name": "Antioch Missionary Baptist Church",
+    "category": "Food",
+    "description": "Community meal and soup kitchen location",
+    "address": "304 Joseph Avenue",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14605",
+    "phone": "",
+    "hours": "",
+    "lat": 43.168812,
+    "lng": -77.607097,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203146",
+    "name": "The Hamilton Apartments",
+    "category": "Food",
+    "description": "Food distribution site at The Hamilton Apartments in Rochester, NY.",
+    "address": "185 Mt. Hope Ave",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14620",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1457565,
+    "lng": -77.6103812,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203650",
+    "name": "James Dobson Apartments",
+    "category": "Food",
+    "description": "Food distribution location at James Dobson Apartments in front of main building.",
+    "address": "150 Van Auker St",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14608",
+    "phone": "",
+    "hours": "",
+    "lat": 43.149935,
+    "lng": -77.6211693,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204180",
+    "name": "Food for the Soul/Chestnut Cafe",
+    "category": "Food",
+    "description": "Community meal and soup kitchen location",
+    "address": "111 North Chestnut Street",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14604",
+    "phone": "",
+    "hours": "",
+    "lat": 43.159258,
+    "lng": -77.603276,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204723",
+    "name": "Refugees Helping Refugees",
+    "category": "Food",
+    "description": "Food distribution location operated by Refugees Helping Refugees in partnership with Foodlink, Inc.",
+    "address": "228 S Plymouth Ave",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14608",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1505162,
+    "lng": -77.6134859,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-3494229153",
+    "name": "Cattaraugus",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.2502815,
+    "lng": -77.4565572,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3495006326",
+    "name": "Kanatota",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.2591722,
+    "lng": -77.458701,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3758439445",
+    "name": "Onondaga",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.2462592,
+    "lng": -77.4592856,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3758439446",
+    "name": "Seneca",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.2461217,
+    "lng": -77.456214,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4745718466",
+    "name": "River Meadows Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.035511,
+    "lng": -77.7038472,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6051565446",
+    "name": "Mohawk",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.2458914,
+    "lng": -77.4620575,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368050293",
+    "name": "Fairport Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Fairport Village Landing 1",
+    "city": "Fairport",
+    "state": "NY",
+    "zip": "14450",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1011697,
+    "lng": -77.4422881,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543618042",
+    "name": "East Rochester Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 317",
+    "city": "East Rochester",
+    "state": "NY",
+    "zip": "14445",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1125616,
+    "lng": -77.4856404,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1243545269",
+    "name": "Sibley Music Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1576451,
+    "lng": -77.601822,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2470438188",
+    "name": "Charlotte Whitney Allen Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.157426,
+    "lng": -77.587653,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8785742697",
+    "name": "Webster Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Ridge Road 980",
+    "city": "Webster",
+    "state": "NY",
+    "zip": "14580",
+    "phone": "",
+    "hours": "Mo-Th 09:00-20:00; Fr,Sa 10:00-17:00",
+    "lat": 43.2115442,
+    "lng": -77.4598511,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8785755454",
+    "name": "Sully Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Webster Avenue 530",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14609",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1700425,
+    "lng": -77.5711464,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8786022882",
+    "name": "Brighton Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Elmwood Avenue 2300",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14618",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1266898,
+    "lng": -77.5761684,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8786027132",
+    "name": "Chili Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Chili Avenue 3237",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14624",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1017831,
+    "lng": -77.7465938,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10557322820",
+    "name": "Media Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1233915,
+    "lng": -77.5926907,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1036431210",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "lat": 43.0910925,
+    "lng": -77.6429334,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2398867658",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Ridge Road 1518",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14615",
+    "phone": "",
+    "hours": "",
+    "lat": 43.2073875,
+    "lng": -77.6670015,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2398868384",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.2028622,
+    "lng": -77.5611266,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2972234699",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-17:00",
+    "lat": 43.0734933,
+    "lng": -77.6089761,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6117288397",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.2371804,
+    "lng": -77.6453987,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6975367360",
+    "name": "AMVETS Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Jefferson Road 400",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14623",
+    "phone": "(585) 424-3730",
+    "hours": "Mo-Sa 09:00-21:00, Su 10:00-18:00",
+    "lat": 43.0907905,
+    "lng": -77.6401644,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7100589164",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Donation Center",
+    "address": "Brighton-Henrietta Town Line Road 2341",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14623",
+    "phone": "",
+    "hours": "Mo-Su 09:00-17:00",
+    "lat": 43.0944723,
+    "lng": -77.6143648,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9401333515",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Eastview Mall Drive 34",
+    "city": "Victor",
+    "state": "NY",
+    "zip": "14564",
+    "phone": "(800) 466-3945",
+    "hours": "",
+    "lat": 43.0260513,
+    "lng": -77.4409889,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12714843301",
+    "name": "Goodwill Donation Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14580",
+    "phone": "(888) 859-1606",
+    "hours": "Mo-Su 09:00-17:00",
+    "lat": 43.1889532,
+    "lng": -77.5029434,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-137334911",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1481695,
+    "lng": -77.6040077,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-rochester-hygiene",
+    "name": "Fairport Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Fairport Village Landing 1",
+    "city": "Fairport",
+    "state": "NY",
+    "zip": "14450",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 43.1011697,
+    "lng": -77.4422881,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

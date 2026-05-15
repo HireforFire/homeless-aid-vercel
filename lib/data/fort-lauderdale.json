@@ -1,0 +1,623 @@
+[
+  {
+    "id": "fa-216368",
+    "name": "Fort Lauderdale Food Not Bombs",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "N Andrews Ave",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33301",
+    "phone": "(954) 371-0475",
+    "hours": "",
+    "lat": 26.128483,
+    "lng": -80.140984,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-219031",
+    "name": "The Pantry of Broward, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "610 NW 3rd Ave.",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33311",
+    "phone": "(954) 358-1481",
+    "hours": "",
+    "lat": 26.1301403,
+    "lng": -80.1465607,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219623",
+    "name": "Shadowood II, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "307 SW 5th Street",
+    "city": "Fort Lauderdale,",
+    "state": "FL",
+    "zip": "33315",
+    "phone": "(954) 462-3719",
+    "hours": "",
+    "lat": 26.116188,
+    "lng": -80.1465607,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-457169",
+    "name": "Walker Elementary",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (37 funded slots)",
+    "address": "1001 NW 4th St",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33311",
+    "phone": "(754) 322-8800",
+    "hours": "",
+    "lat": 26.126467,
+    "lng": -80.155428,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-187353",
+    "name": "Fort Lauderdale Food Not Bombs - N Andrews Ave",
+    "category": "Food",
+    "description": "Main distribution location on N Andrews Ave in Fort Lauderdale.",
+    "address": "N Andrews Ave",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33301",
+    "phone": "",
+    "hours": "",
+    "lat": 26.128483,
+    "lng": -80.140984,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-246",
+    "name": "Catholic Charities - Fort Lauderdale",
+    "category": "Food",
+    "description": "Broward County",
+    "address": "1300 S Andrews Ave",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33316",
+    "phone": "(954) 522-2513",
+    "hours": "",
+    "lat": 26.1183,
+    "lng": -80.1433,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-182092",
+    "name": "Fort Lauderdale Seventh-Day Adventist Church",
+    "category": "Food",
+    "description": "Food pantry located at the eastern side of the church building.",
+    "address": "850 SW 12th St.",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33315",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1066732,
+    "lng": -80.1515664,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187247",
+    "name": "Prevention Central",
+    "category": "Food",
+    "description": "Prevention Central food distribution location",
+    "address": "1100 W Sunrise Blvd",
+    "city": "Ft. Lauderdale",
+    "state": "FL",
+    "zip": "33311",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1356488,
+    "lng": -80.156857,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210015",
+    "name": "Arthur Hall Memorial",
+    "category": "Food",
+    "description": "Food distribution location operated as part of Feeding South Florida network",
+    "address": "744 NW 12th Ave.",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33311",
+    "phone": "",
+    "hours": "",
+    "lat": 26.132743,
+    "lng": -80.1571187,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-3681",
+    "name": "Sister Robin Street Market - Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "400 Tarpon Drive",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33301",
+    "phone": "(954) 592-6021",
+    "hours": "",
+    "lat": 26.12128,
+    "lng": -80.12745,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-220915",
+    "name": "A drop of love",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2019 SW 20th Street Ste 102",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33315",
+    "phone": "(954) 655-9030",
+    "hours": "",
+    "lat": 26.0974941,
+    "lng": -80.1663971,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221024",
+    "name": "The Poverello Center, Inc",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2056 North Dixie Hwy.",
+    "city": "Wilton Manors",
+    "state": "FL",
+    "zip": "33305",
+    "phone": "(954) 561-3663",
+    "hours": "",
+    "lat": 26.1556225,
+    "lng": -80.1321945,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-367823329",
+    "name": "Deerfield Beach Percy White Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Hillsboro Boulevard 837",
+    "city": "Deerfield Beach",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.3187445,
+    "lng": -80.0924526,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823337",
+    "name": "Coral Springs Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.2663889,
+    "lng": -80.2613889,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823352",
+    "name": "Hollywood Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.0172222,
+    "lng": -80.2036111,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823354",
+    "name": "Hollywood Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.0169444,
+    "lng": -80.2086111,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823373",
+    "name": "Lauderhill City Hall Complex Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1527778,
+    "lng": -80.2225,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823378",
+    "name": "Lauderhill Mall Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1405178,
+    "lng": -80.2050549,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823435",
+    "name": "African-American Research Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1291667,
+    "lng": -80.1777778,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823439",
+    "name": "South Regional/Bcc Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Pines Boulevard 7300",
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "zip": "33024;33024-7227",
+    "phone": "(954) 201-8825",
+    "hours": "",
+    "lat": 26.0069501,
+    "lng": -80.2359986,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823669",
+    "name": "Von D Mizell Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.13,
+    "lng": -80.1588889,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823678",
+    "name": "West Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1222741,
+    "lng": -80.2625941,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4999999234",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1033515,
+    "lng": -80.2722617,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6369437728",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Northeast Miami Gardens Drive 1780",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33179",
+    "phone": "",
+    "hours": "",
+    "lat": 25.9447628,
+    "lng": -80.1644751,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12694673315",
+    "name": "WID Blooming Sales",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "State Road 7 1372",
+    "city": "Margate",
+    "state": "FL",
+    "zip": "33063",
+    "phone": "(954) 975-7425",
+    "hours": "",
+    "lat": 26.2469815,
+    "lng": -80.2003419,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12694673316",
+    "name": "Poverello Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Powerline Road 172",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "zip": "33069",
+    "phone": "",
+    "hours": "Mo-Su 10:00-18:00",
+    "lat": 26.2327889,
+    "lng": -80.1557583,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13639264801",
+    "name": "The Salvation Army Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Broward Boulevard 1801",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33312",
+    "phone": "(954) 467-5816",
+    "hours": "Mo-Sa 10:00-18:00",
+    "lat": 26.1223325,
+    "lng": -80.1652274,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13639287301",
+    "name": "Goodwill Outlet",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Commercial Boulevard 2104",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33309",
+    "phone": "(954) 486-1600",
+    "hours": "Mo-Su 08:00-19:00",
+    "lat": 26.1870523,
+    "lng": -80.171902,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-295160462",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "State Road 7 320",
+    "city": "Margate",
+    "state": "FL",
+    "zip": "33063",
+    "phone": "(954) 979-6999",
+    "hours": "Mo-Sa 10:00-18:00",
+    "lat": 26.2338508,
+    "lng": -80.2041221,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-435138073",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Hallandale Beach Boulevard 3149",
+    "city": "Hallandale Beach",
+    "state": "FL",
+    "zip": "33009",
+    "phone": "",
+    "hours": "",
+    "lat": 25.9852627,
+    "lng": -80.1703825,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-fort-lauderdale-shelter",
+    "name": "Fort Lauderdale Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 26.1223,
+    "lng": -80.1434,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-fort-lauderdale-hygiene",
+    "name": "Deerfield Beach Percy White Branch Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "East Hillsboro Boulevard 837",
+    "city": "Deerfield Beach",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 26.3187445,
+    "lng": -80.0924526,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

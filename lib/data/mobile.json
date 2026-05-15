@@ -1,0 +1,546 @@
+[
+  {
+    "id": "fa-174425",
+    "name": "New Hope Outreach Ministry",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "308 S. Dearborn St.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36603",
+    "phone": "(251) 472-5134",
+    "hours": "",
+    "lat": 30.690609,
+    "lng": -88.059105,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186557",
+    "name": "Waterfront Rescue Mission",
+    "category": "Food",
+    "description": "Main facility providing soup kitchen and homeless shelter services",
+    "address": "279 N. Washington Ave.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36603",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6934177,
+    "lng": -88.0536476,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-223536",
+    "name": "The Service Center of Catholic Social Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "555 Dauphin St",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "(251) 434-1500",
+    "hours": "",
+    "lat": 30.6891328,
+    "lng": -88.04905,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-445714",
+    "name": "FLORENCE HOWARD HEAD START CENTER",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (36 funded slots)",
+    "address": "957 Dr Martin L King Jr Ave",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36603",
+    "phone": "(251) 222-5562",
+    "hours": "",
+    "lat": 30.697177,
+    "lng": -88.057239,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-450384",
+    "name": "GULF REGIONAL - Dearborn YMCA Tot Time Preschool",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
+    "address": "321 N Warren St",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36603",
+    "phone": "(251) 432-4765",
+    "hours": "",
+    "lat": 30.694905,
+    "lng": -88.052754,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-456817",
+    "name": "Nina Nix Joseph Child Development Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (32 funded slots)",
+    "address": "209 S Washington Ave",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "(251) 433-1310",
+    "hours": "",
+    "lat": 30.684527,
+    "lng": -88.049008,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-176806",
+    "name": "Mobile Hygiene Pantry",
+    "category": "Food",
+    "description": "Mobile hygiene pantry service operating in Sedgwick County, Kansas.",
+    "address": "Mobile Hygiene Pantry",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "",
+    "hours": "",
+    "lat": 30.688943,
+    "lng": -88.044822,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179593",
+    "name": "Mt. Zion Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Mt. Zion Baptist Church",
+    "address": "1012 Adams St.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36603",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6948448,
+    "lng": -88.0602157,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180481",
+    "name": "St. Louis Street Missionary Baptist Church",
+    "category": "Food",
+    "description": "Food pantry and soup kitchen location at St. Louis Street Missionary Baptist Church",
+    "address": "108 N. Dearborn St.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6913125,
+    "lng": -88.0511683,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226351",
+    "name": "Junior League of Mobile Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Mobile, AL",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36601",
+    "phone": "",
+    "hours": "",
+    "lat": 30.69745,
+    "lng": -88.04988,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-1201",
+    "name": "Catholic Social Services - Mobile Service Center",
+    "category": "Food",
+    "description": "proof of address",
+    "address": "555 Dauphin Street",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "(251) 434-1501",
+    "hours": "",
+    "lat": 30.69834,
+    "lng": -88.03815,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-218559",
+    "name": "The Salvation Army - Dauphin St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1009 Dauphin St",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36604",
+    "phone": "(251) 438-7740",
+    "hours": "",
+    "lat": 30.68229,
+    "lng": -88.06837,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-12154394148",
+    "name": "Seay Pavillion",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.7454253,
+    "lng": -87.9163856,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367931437",
+    "name": "Fairhope Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.5243608,
+    "lng": -87.9063818,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12719523389",
+    "name": "Parkway Branch Mobile Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Dauphin Island Parkway 1924",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602-3004",
+    "phone": "(251) 470-7766",
+    "hours": "",
+    "lat": 30.6302081,
+    "lng": -88.0894228,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-167237950",
+    "name": "Marx Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6975103,
+    "lng": -88.1788137,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-242352160",
+    "name": "Toulminville Branch Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Stanton Road 601",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602-2209",
+    "phone": "(251) 494-4982",
+    "hours": "",
+    "lat": 30.7088949,
+    "lng": -88.0973726,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-297271713",
+    "name": "Charles M. Baugh Biomedical Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6988578,
+    "lng": -88.1758799,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-333574220",
+    "name": "Mobile Public Library - Moorer/Spring Hill Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "McGregor Court 4",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36633-1827",
+    "phone": "(251) 494-4140",
+    "hours": "",
+    "lat": 30.6951856,
+    "lng": -88.1439222,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-353941382",
+    "name": "Minnie Slade Bishop Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6941152,
+    "lng": -88.0576851,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-354669559",
+    "name": "Ben May Main Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Government Street 701",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "(251) 340-1535",
+    "hours": "",
+    "lat": 30.6866744,
+    "lng": -88.0505674,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-356107953",
+    "name": "Mobile West Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Grelot Road 5555",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602-3643",
+    "phone": "(251) 340-8555",
+    "hours": "",
+    "lat": 30.6615247,
+    "lng": -88.1719202,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-360369606",
+    "name": "Trinity Gardens Community Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Berkley Avenue 2668",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602-1704",
+    "phone": "(251) 457-5954",
+    "hours": "",
+    "lat": 30.7331423,
+    "lng": -88.1132133,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10102270335",
+    "name": "Goodwill Donation Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6910676,
+    "lng": -88.1191599,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-346051104",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Airport Boulevard 3712",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36608",
+    "phone": "",
+    "hours": "",
+    "lat": 30.67705,
+    "lng": -88.1363179,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-642058207",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Airport Boulevard 7431",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36608",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6860133,
+    "lng": -88.2157319,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1205560388",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.7985292,
+    "lng": -88.0712646,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-mobile-hygiene",
+    "name": "Fairhope Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 30.5243608,
+    "lng": -87.9063818,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

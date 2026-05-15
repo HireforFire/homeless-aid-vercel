@@ -1,0 +1,679 @@
+[
+  {
+    "id": "fa-173583",
+    "name": "St. Stephen's CARE Center",
+    "category": "Food",
+    "description": "Food pantry location at St. Stephen's CARE Center",
+    "address": "2127 S. Zarzamora St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78207",
+    "phone": "(210) 226-6178",
+    "hours": "",
+    "lat": 29.4229831,
+    "lng": -98.5030273,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181552",
+    "name": "Corazon Ministries Day Center",
+    "category": "Food",
+    "description": "Day center facility located in San Antonio providing meals, showers, ID recovery, respite, and case management services.",
+    "address": "504 Ave E",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78215",
+    "phone": "(210) 227-2347",
+    "hours": "",
+    "lat": 29.4291843,
+    "lng": -98.482746,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-194643",
+    "name": "Beryl's Food Pantry (The Salvation Army)",
+    "category": "Food",
+    "description": "Food pantry location in San Antonio operated by The Salvation Army.",
+    "address": "910 N. Flores St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78212",
+    "phone": "(210) 227-2347",
+    "hours": "",
+    "lat": 29.4344632,
+    "lng": -98.4989373,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-172645",
+    "name": "Little Church of La Villita",
+    "category": "Food",
+    "description": "Food pantry location at Little Church of La Villita in San Antonio, TX.",
+    "address": "508 Villita St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78205",
+    "phone": "(210) 226-3593",
+    "hours": "",
+    "lat": 29.4216327,
+    "lng": -98.4885983,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183955",
+    "name": "Rana Sullivan Ministries - The Lamb's Storehouse",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "315 Burnet St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78202",
+    "phone": "(210) 227-2347",
+    "hours": "",
+    "lat": 29.4291824,
+    "lng": -98.4785446,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-219418",
+    "name": "The Salvation Army ARC",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1324 S. Flores",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78204",
+    "phone": "(210) 223-6877",
+    "hours": "",
+    "lat": 29.4109497,
+    "lng": -98.5005569,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219495",
+    "name": "Coker UMC Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3107 Mares Meadow",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78247",
+    "phone": "(210) 496-8088",
+    "hours": "",
+    "lat": 29.4241219,
+    "lng": -98.4936295,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220516",
+    "name": "Vista Verde Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "810 N. Frio",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78207",
+    "phone": "(210) 227-5377",
+    "hours": "",
+    "lat": 29.4340458,
+    "lng": -98.5047913,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222860",
+    "name": "SAMMinistries Shelter",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "910 W. Commerce St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78207",
+    "phone": "(210) 224-5838",
+    "hours": "",
+    "lat": 29.4226818,
+    "lng": -98.4832077,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223564",
+    "name": "Christian Assistance Ministry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "110 McCullough Avenue",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78215",
+    "phone": "(210) 467-7799",
+    "hours": "",
+    "lat": 29.4282951,
+    "lng": -98.4826355,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-447719",
+    "name": "YMCA Haven for Hope Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (14 funded slots)",
+    "address": "600 Leal Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78207",
+    "phone": "(210) 596-0087",
+    "hours": "",
+    "lat": 29.433452,
+    "lng": -98.507281,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-449471",
+    "name": "YMCA at Haven for Hope",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
+    "address": "600 Leal St",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78207",
+    "phone": "(210) 596-0087",
+    "hours": "",
+    "lat": 29.433452,
+    "lng": -98.507281,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "osm-node-1611055448",
+    "name": "Pavillion #3",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.5611719,
+    "lng": -98.4465548,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1611095366",
+    "name": "Pavillion #2",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.5602527,
+    "lng": -98.4473648,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368161610",
+    "name": "Universal City Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.5456886,
+    "lng": -98.2936926,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368161798",
+    "name": "Leon Valley Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.5011611,
+    "lng": -98.6132078,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368161988",
+    "name": "South San Antonio Independent School District Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.3688987,
+    "lng": -98.5553245,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368162063",
+    "name": "Stake Genealogy Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.4730872,
+    "lng": -98.548648,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4619691600",
+    "name": "Potranco Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.4424677,
+    "lng": -98.6608221,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6444284066",
+    "name": "BiblioTech South",
+    "category": "Public Resources",
+    "description": "Public Library focused on digital media",
+    "address": "Pleasanton Rd 3505",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "(210) 631-0180",
+    "hours": "Tu-Fr 12:00-20:00; Mo 09:00-18:00; Sa, Su 10:00-18:00",
+    "lat": 29.3439697,
+    "lng": -98.5051422,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10236226208",
+    "name": "Little Free Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.5186445,
+    "lng": -98.6305353,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10239190728",
+    "name": "Little Free Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.5489808,
+    "lng": -98.6347554,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11149071396",
+    "name": "BiblioTech East",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Walters Street 1203",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78202",
+    "phone": "(210) 631-0230",
+    "hours": "Sa-Su 10:00-18:00; Mo 09:00-18:00; Tu-Fr 12:00-20:00",
+    "lat": 29.4292847,
+    "lng": -98.4524235,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13610495905",
+    "name": "Bibliotech EDU",
+    "category": "Public Resources",
+    "description": "Public library focused on digital media",
+    "address": "North Flores 626",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "(210) 631-0290",
+    "hours": "Mo-Fr 15:00-20:00; Sa, Su 10:00-18:00",
+    "lat": 29.4317349,
+    "lng": -98.4952377,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2714301054",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southwest Military Drive 2514",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78224",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 11:00-19:00",
+    "lat": 29.3554734,
+    "lng": -98.5346336,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6026068785",
+    "name": "Goodwill Store and Donation Station",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Northwest Loop 410 4949",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78229",
+    "phone": "",
+    "hours": "",
+    "lat": 29.489939,
+    "lng": -98.5850371,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6027617337",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Interstate Highway 10 Frontage Road 12332",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78230",
+    "phone": "",
+    "hours": "",
+    "lat": 29.558688,
+    "lng": -98.5913437,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6698464124",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.4439959,
+    "lng": -98.6628646,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7851465316",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Loop 1604 East 7521",
+    "city": "Live Oak",
+    "state": "TX",
+    "zip": "78233",
+    "phone": "",
+    "hours": "",
+    "lat": 29.5775024,
+    "lng": -98.3389721,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9521933793",
+    "name": "Junk Depot",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Presa Street 2608",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78210",
+    "phone": "",
+    "hours": "",
+    "lat": 29.3959521,
+    "lng": -98.4813646,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12544280603",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Commerce Street 406",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78207",
+    "phone": "(210) 924-8581",
+    "hours": "Mo-Fr 10:00-18:00",
+    "lat": 29.4249642,
+    "lng": -98.4976387,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13643640577",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.5714693,
+    "lng": -98.335137,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-161895785",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.4105923,
+    "lng": -98.4999049,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-340558897",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Northwest Loop 410 727",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78216",
+    "phone": "",
+    "hours": "",
+    "lat": 29.5215123,
+    "lng": -98.5048319,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-san-antonio-hygiene",
+    "name": "Universal City Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 29.5456886,
+    "lng": -98.2936926,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

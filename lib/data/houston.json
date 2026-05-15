@@ -1,0 +1,641 @@
+[
+  {
+    "id": "fa-190681",
+    "name": "Allies In Hope (Fannin Campus)",
+    "category": "Food",
+    "description": "Food distribution location near public transit offering grocery/client choice options and TEFAP program services.",
+    "address": "2328 Fannin St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7463,
+    "lng": -95.37232,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197372",
+    "name": "Brock Elementary School",
+    "category": "Food",
+    "description": "Food distribution site at Brock Elementary School",
+    "address": "1417 Houston Avenue",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77007",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7712326,
+    "lng": -95.3731086,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198090",
+    "name": "The Beacon Day Center",
+    "category": "Food",
+    "description": "Day center providing free hot meals, shower access, and laundry services",
+    "address": "1212 Prairie St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7591829,
+    "lng": -95.3599932,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214340",
+    "name": "The Salvation Army - Greater Houston Area Command",
+    "category": "Food",
+    "description": "Main food pantry location for The Salvation Army - Greater Houston Area Command",
+    "address": "1500 Austin St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7510217,
+    "lng": -95.3648,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185557",
+    "name": "Co-Cathedral of Sacred Heart",
+    "category": "Food",
+    "description": "Food distribution location at Co-Cathedral of Sacred Heart",
+    "address": "1701 San Jacinto St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7500855,
+    "lng": -95.3673142,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-46",
+    "name": "Loaves and Fishes Community Kitchen",
+    "category": "Food",
+    "description": "Open to all, no requirements",
+    "address": "307 E 8th St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77007",
+    "phone": "(713) 861-3663",
+    "hours": "",
+    "lat": 29.7733,
+    "lng": -95.3683,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-81",
+    "name": "Christ Church Cathedral Food Pantry",
+    "category": "Food",
+    "description": "Downtown Houston residents",
+    "address": "1117 Texas Ave",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002",
+    "phone": "(713) 222-2593",
+    "hours": "",
+    "lat": 29.7583,
+    "lng": -95.3683,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-173051",
+    "name": "Christian Hope Baptist Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at the church facility",
+    "address": "3418 Anita St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77004",
+    "phone": "(832) 530-7038",
+    "hours": "",
+    "lat": 29.7305166,
+    "lng": -95.3520467,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179684",
+    "name": "Project Restoration Outreach Ministries",
+    "category": "Food",
+    "description": "Food pantry location offering emergency food assistance and drive-thru food distribution services",
+    "address": "2804 McGowen St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77004",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7356894,
+    "lng": -95.3585829,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180075",
+    "name": "UST Celt Pantry",
+    "category": "Food",
+    "description": "Food pantry location at University of St. Thomas",
+    "address": "4219 Yoakum Blvd.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77006",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7346881,
+    "lng": -95.392176,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181072",
+    "name": "Gano Mission Center",
+    "category": "Food",
+    "description": "Main food pantry location providing client-choice food distribution services.",
+    "address": "1815 Gano St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77009",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7776796,
+    "lng": -95.3549254,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183398",
+    "name": "Jordan Grove Missionary Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Jordan Grove Missionary Baptist Church, a distributing partner of the Houston Food Bank.",
+    "address": "2814 Live Oak St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77004",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7355611,
+    "lng": -95.3618747,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-368161957",
+    "name": "Fort Bend County Libraries - Missouri City Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Texas Parkway 1530",
+    "city": "Missouri City",
+    "state": "TX",
+    "zip": "77489",
+    "phone": "",
+    "hours": "",
+    "lat": 29.6047366,
+    "lng": -95.5292139,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368161992",
+    "name": "South Houston Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.666886,
+    "lng": -95.2242547,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1975678661",
+    "name": "HAM-TMC Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "John Freeman Boulevard 1133",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77030",
+    "phone": "",
+    "hours": "",
+    "lat": 29.711878,
+    "lng": -95.3968178,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2091700208",
+    "name": "Clayton House",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7261687,
+    "lng": -95.3860786,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4259050522",
+    "name": "UTHSPH Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7051135,
+    "lng": -95.398188,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4322627983",
+    "name": "HPL Express",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "Fr-Sa 12:00-17:00; Su 13:00-17:00",
+    "lat": 29.7534071,
+    "lng": -95.3595422,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7161448228",
+    "name": "Williford Parish Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9087725,
+    "lng": -95.5693909,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8436104216",
+    "name": "Woodson Research Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7178699,
+    "lng": -95.4002174,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8459553385",
+    "name": "Brown Fine Arts Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7182841,
+    "lng": -95.4003778,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2669391437",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Loop East Frontage Road 6161",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.6965304,
+    "lng": -95.3186806,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4227549104",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Hillcroft Avenue 14464",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77085",
+    "phone": "",
+    "hours": "",
+    "lat": 29.6166952,
+    "lng": -95.4933649,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4227633921",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Cedar Street 5236",
+    "city": "Bellaire",
+    "state": "TX",
+    "zip": "77401",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7072486,
+    "lng": -95.4719843,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4308060215",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.936818,
+    "lng": -95.2480194,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5245961916",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.8037678,
+    "lng": -95.4896316,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5257171269",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9203377,
+    "lng": -95.4925633,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5257171303",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7041841,
+    "lng": -95.5160353,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5257171304",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7072138,
+    "lng": -95.4944483,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5257171330",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.870793,
+    "lng": -95.3828677,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5257171331",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.87054,
+    "lng": -95.3367563,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-houston-shelter",
+    "name": "Houston Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-houston-hygiene",
+    "name": "Fort Bend County Libraries - Missouri City Branch - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Texas Parkway 1530",
+    "city": "Missouri City",
+    "state": "TX",
+    "zip": "77489",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 29.6047366,
+    "lng": -95.5292139,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

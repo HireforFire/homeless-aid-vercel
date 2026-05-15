@@ -1,0 +1,640 @@
+[
+  {
+    "id": "fa-181085",
+    "name": "St Bernard Meal Service",
+    "category": "Food",
+    "description": "Meal service location at 47 E State St",
+    "address": "47 E State St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44308",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0782095,
+    "lng": -81.5186795,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194398",
+    "name": "Feeding Hope Food Pantry - Market Street",
+    "category": "Food",
+    "description": "Main food pantry distribution location",
+    "address": "292 E Market St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44308",
+    "phone": "",
+    "hours": "",
+    "lat": 41.08134156,
+    "lng": -81.50867789,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197398",
+    "name": "Gennesaret Inc Meal Service Location",
+    "category": "Food",
+    "description": "Meal distribution location at 419 W Exchange St",
+    "address": "419 W Exchange St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44302",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0839086,
+    "lng": -81.5338295,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197908",
+    "name": "Holy Trinity Lutheran Church",
+    "category": "Food",
+    "description": "Main location of Holy Trinity Lutheran Church providing food pantry, meal, and food delivery services.",
+    "address": "50 N Prospect Street",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44304",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0849419,
+    "lng": -81.5114172,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202510",
+    "name": "Zion Lutheran Church - Lord's Pantry",
+    "category": "Food",
+    "description": "Food pantry location at 139 S High St, Akron",
+    "address": "139 S High St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44308",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0813426,
+    "lng": -81.51713936,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206251",
+    "name": "The Salvation Army - Akron",
+    "category": "Food",
+    "description": "Main location for hot meal service in Akron",
+    "address": "190 S. Maple St.",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44302",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0861133,
+    "lng": -81.5290532,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-224599",
+    "name": "Salvation Army Red Shield Community Choice Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "190 South Maple Street",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44302",
+    "phone": "(330) 762-8481",
+    "hours": "",
+    "lat": 41.0861855,
+    "lng": -81.528862,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-456712",
+    "name": "Head Start at Cedar",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (34 funded slots)",
+    "address": "442 Bell St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44307",
+    "phone": "(330) 535-4746",
+    "hours": "",
+    "lat": 41.08196,
+    "lng": -81.536168,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-130498",
+    "name": "AKRON CITY SCHOOLS",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "70 NORTH BROADWAY ST",
+    "city": "AKRON",
+    "state": "OH",
+    "zip": "44308",
+    "phone": "(330) 761-1661",
+    "hours": "",
+    "lat": 41.085756,
+    "lng": -81.513738,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-179060",
+    "name": "Pantry",
+    "category": "Food",
+    "description": "Food pantry distribution location.",
+    "address": "370 E Market St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44304",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0802563,
+    "lng": -81.50605645,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179076",
+    "name": "St. Bernard Parish - Akron",
+    "category": "Food",
+    "description": "St. Bernard Parish location in Akron providing hot meal services",
+    "address": "47 East State Street",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44308",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0783657,
+    "lng": -81.5188321,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191827",
+    "name": "Church of Our Saviour Pantry",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "471 Crosby St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44302",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0902537,
+    "lng": -81.5335741,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-2851910913",
+    "name": "Ledges Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2240951,
+    "lng": -81.5105379,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2986687816",
+    "name": "Brooklyn Exchange Cabin",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2112922,
+    "lng": -81.7091152,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6011450301",
+    "name": "Rising Valley Picnic Area",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2610259,
+    "lng": -81.6831693,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368152504",
+    "name": "Ellet Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0500563,
+    "lng": -81.4373346,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368152569",
+    "name": "Barberton Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Park Avenue 602",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44203",
+    "phone": "(330) 745-1194",
+    "hours": "Mo-Th 10:00-20:00; Fr 10:00-18:00; Sa 10:00-17:00",
+    "lat": 41.0133885,
+    "lng": -81.6117891,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368152572",
+    "name": "Chamberlain Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.046644,
+    "lng": -81.4997485,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368152583",
+    "name": "Maple Valley Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Copley Road 1187",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44320",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0835855,
+    "lng": -81.565055,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2313443751",
+    "name": "Akron-Summit County Public Library, Mogadore Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0472422,
+    "lng": -81.3939015,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2794821609",
+    "name": "Joseph F. Morbito Architecture Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Kent",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1500553,
+    "lng": -81.3442455,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2794821616",
+    "name": "Honors College Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1498689,
+    "lng": -81.3453706,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2794821624",
+    "name": "Map Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1508145,
+    "lng": -81.3507742,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2794821633",
+    "name": "Performing Arts Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1528929,
+    "lng": -81.3409299,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2105027903",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1299214,
+    "lng": -81.5081035,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5313987861",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Waterloo Road 570",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44319",
+    "phone": "(330) 724-2389",
+    "hours": "Mo-Sa 08:00-20:00; Su 10:00-18:00",
+    "lat": 41.0279111,
+    "lng": -81.5068216,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6525841943",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.8894385,
+    "lng": -81.4045959,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8681492031",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "(330) 794-6711",
+    "hours": "",
+    "lat": 41.024644,
+    "lng": -81.4255415,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9142723285",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Romig Road 2301",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44320",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0519229,
+    "lng": -81.578815,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-307398343",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1332587,
+    "lng": -81.6475441,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-431725509",
+    "name": "ReStore - Habitat for Humanity of Portage County",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Water Street 1510",
+    "city": "Kent",
+    "state": "OH",
+    "zip": "44240",
+    "phone": "(330) 677-8881",
+    "hours": "",
+    "lat": 41.1397867,
+    "lng": -81.35715,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-516508211",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Brittain Road 1634",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44310",
+    "phone": "",
+    "hours": "Mo-Sa 10:00-18:00",
+    "lat": 41.1076494,
+    "lng": -81.4668561,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-akron-hygiene",
+    "name": "Ellet Branch Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 41.0500563,
+    "lng": -81.4373346,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

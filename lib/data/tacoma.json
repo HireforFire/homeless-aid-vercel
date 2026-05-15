@@ -1,0 +1,781 @@
+[
+  {
+    "id": "fa-183307",
+    "name": "New Jerusalem Church of God In Christ",
+    "category": "Food",
+    "description": "Food distribution location at New Jerusalem Church of God In Christ",
+    "address": "1623 South 11th Street",
+    "city": "Central Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2514314,
+    "lng": -122.4599663,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186762",
+    "name": "Hospitality Kitchen",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "702 S 14th St",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2491626,
+    "lng": -122.4459852,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202122",
+    "name": "Associated Ministries of Tacoma",
+    "category": "Food",
+    "description": "Main office and food distribution location",
+    "address": "901 S 13th St",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "",
+    "hours": "",
+    "lat": 47.250320099999996,
+    "lng": -122.44889049999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202686",
+    "name": "POWER OF TWO/ DIAPERS BANK",
+    "category": "Food",
+    "description": "Diaper bank distribution location",
+    "address": "621 Tacoma Avenue South",
+    "city": "New Tacoma",
+    "state": "WA",
+    "zip": "98402",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2572407,
+    "lng": -122.4451288,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202867",
+    "name": "Allen AME Church",
+    "category": "Food",
+    "description": "Faith Center Food Bank distribution location",
+    "address": "1223 Martin Luther King Junior Way",
+    "city": "New Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2503133,
+    "lng": -122.4508781,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211665",
+    "name": "Salvation Army - Tacoma",
+    "category": "Food",
+    "description": "Salvation Army food pantry location in Tacoma",
+    "address": "1501 6th Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2568295,
+    "lng": -122.4590446,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-223511",
+    "name": "St. Leo Food Connection",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1323 S. Yakima Ave.",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "(253) 383-5048",
+    "hours": "",
+    "lat": 47.2496681,
+    "lng": -122.4464188,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-443050",
+    "name": "HOME BASED - TACOMA TRAVIS EHS",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (30 funded slots)",
+    "address": "2141 S J St",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "(253) 571-1882",
+    "hours": "",
+    "lat": 47.240593,
+    "lng": -122.446798,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443051",
+    "name": "HOME BASED - DOWNTOWN TACOMA EHS",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (20 funded slots)",
+    "address": "1101 Yakima Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "(253) 571-1882",
+    "hours": "",
+    "lat": 47.251965,
+    "lng": -122.446497,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-451739",
+    "name": "Edna Travis",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (18 funded slots)",
+    "address": "2111 S J St",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "(253) 571-4942",
+    "hours": "",
+    "lat": 47.241766,
+    "lng": -122.447909,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-451749",
+    "name": "Stanley",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (19 funded slots)",
+    "address": "1712 S 17th St",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "(253) 571-4500",
+    "hours": "",
+    "lat": 47.245164,
+    "lng": -122.460174,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-452383",
+    "name": "BATES ECLC",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (23 funded slots)",
+    "address": "1101 Yakima Ave Tacoma",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "(253) 680-7321",
+    "hours": "",
+    "lat": 47.252065,
+    "lng": -122.44634,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "osm-node-3860474056",
+    "name": "St Leo Low Income Housing",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2503172,
+    "lng": -122.444943,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4143618591",
+    "name": "Shelter 2",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.3192867,
+    "lng": -122.4136123,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5918682033",
+    "name": "South Tacoma Way & 96th Street Southwest",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.17096,
+    "lng": -122.4835034,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5918689568",
+    "name": "96th Street Southwest & South Tacoma Way",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.1703168,
+    "lng": -122.4845995,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6242537799",
+    "name": "Picnic Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2467032,
+    "lng": -122.3195443,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8616314762",
+    "name": "96th Street Southwest & South Tacoma Way",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.170122,
+    "lng": -122.4845455,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8616314763",
+    "name": "96th Street South & South Tacoma Way",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.1701644,
+    "lng": -122.483088,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8616314764",
+    "name": "South Tacoma Way & 96th Street Southwest",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.1709302,
+    "lng": -122.483906,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1948277537",
+    "name": "Wheelock Tacoma Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North 26th Street 3722",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "(253) 617-7811",
+    "hours": "Tu-We 12:00-20:00; Th-Sa 10:00-18:00",
+    "lat": 47.2708545,
+    "lng": -122.4865914,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4310339992",
+    "name": "Fife Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "(253) 548-3323",
+    "hours": "Mo-We 11:00-20:00; Th-Fr 11:00-18:00; Sa 11:00-17:00",
+    "lat": 47.2388053,
+    "lng": -122.3406504,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8140091915",
+    "name": "Puyallup Public Library Cafe",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Meridian 324",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98371",
+    "phone": "(253) 841-5454",
+    "hours": "10:00-18:00",
+    "lat": 47.1895712,
+    "lng": -122.29542,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12055647901",
+    "name": "McChord Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Lincoln Boulevard 851",
+    "city": "McChord AFB",
+    "state": "WA",
+    "zip": "98438",
+    "phone": "",
+    "hours": "",
+    "lat": 47.1218111,
+    "lng": -122.5037675,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12269406402",
+    "name": "Normandy Park Lockers",
+    "category": "Public Resources",
+    "description": "This location offers self-serve hold pickup lockers and a book drop.",
+    "address": "Southwest 174th Street 801",
+    "city": "Normandy Park",
+    "state": "WA",
+    "zip": "98166",
+    "phone": "",
+    "hours": "00:00-23:45",
+    "lat": 47.4456143,
+    "lng": -122.3455364,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12874538055",
+    "name": "Tillicum Pierce County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "14916",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.1237297,
+    "lng": -122.5542216,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-30679649",
+    "name": "Tioga Library Building - S",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Jefferson Avenue 1901",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98402",
+    "phone": "(253) 692-4440",
+    "hours": "Mo-Th 07:30-22:00; Fr 07:30-17:00; Su 10:00-17:00; Sa 09:00-17:00",
+    "lat": 47.2445066,
+    "lng": -122.4386274,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-48755967",
+    "name": "Tioga Library Building - N",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Jefferson Avenue 1901",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98402",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2447697,
+    "lng": -122.4385778,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-49026807",
+    "name": "Moore Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South 56th Street 215",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98408",
+    "phone": "(253) 341-4848",
+    "hours": "Tu-Th 12:00-20:00; Fr-Sa 10:00-18:00",
+    "lat": 47.2066897,
+    "lng": -122.4357859,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-51488826",
+    "name": "Summit Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Canyon Rd E 5107",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98373",
+    "phone": "(253) 548-3321",
+    "hours": "Mo-Th 10:00-21:00; Fr 10:00-18:00; Sa 10:00-17:00; Su 13:00-17:00",
+    "lat": 47.1549026,
+    "lng": -122.3606497,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4320499650",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "09:00-19:00",
+    "lat": 47.4434996,
+    "lng": -122.2540033,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4320499651",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Andover Park West 1185",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "(206) 957-6914",
+    "hours": "Tu-Sa 10:00-18:00",
+    "lat": 47.4440203,
+    "lng": -122.255202,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5738119930",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.1692963,
+    "lng": -122.51678,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5910392591",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2562997,
+    "lng": -122.5077725,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6321780763",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.1211492,
+    "lng": -122.436907,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7799752685",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.054183,
+    "lng": -122.2961477,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8268965552",
+    "name": "Grannie's Attic Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.1915002,
+    "lng": -122.2805456,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-52067482",
+    "name": "Life Center Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "6th Avenue 6331",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98406",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2559023,
+    "lng": -122.5224681,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-85660960",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Pacific Highway South 32521",
+    "city": "Federal Way",
+    "state": "WA",
+    "zip": "98003",
+    "phone": "",
+    "hours": "",
+    "lat": 47.3105765,
+    "lng": -122.3139544,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-144353916",
+    "name": "Goodwill Outlet",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Su 09:00-19:00",
+    "lat": 47.3788234,
+    "lng": -122.2496333,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-tacoma-hygiene",
+    "name": "Wheelock Tacoma Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "North 26th Street 3722",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "Tu-We 12:00-20:00; Th-Sa 10:00-18:00",
+    "lat": 47.2708545,
+    "lng": -122.4865914,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

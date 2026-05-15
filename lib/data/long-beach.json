@@ -1,0 +1,649 @@
+[
+  {
+    "id": "fa-180381",
+    "name": "Christian Outreach in Action - Main Location",
+    "category": "Food",
+    "description": "Main facility for food pantry, warm meals, clothing bank, and diaper bank services.",
+    "address": "515 E. 3rd Street",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90802",
+    "phone": "",
+    "hours": "",
+    "lat": 33.770711991829,
+    "lng": -118.186049982061,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-217883",
+    "name": "The Salvation Army - Alamitos Ave",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1370 Alamitos Ave",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90813",
+    "phone": "(562) 218-2355",
+    "hours": "",
+    "lat": 33.78237,
+    "lng": -118.19656,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218709",
+    "name": "The Salvation Army - Alamitos Avenue",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1370 Alamitos Avenue",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90813",
+    "phone": "(562) 218-2355",
+    "hours": "",
+    "lat": 33.78237,
+    "lng": -118.19656,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223102",
+    "name": "Help Me Help You Food Pantry – Stevenson Elementary School",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "515 Lime Ave",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90813",
+    "phone": "(562) 612-5001",
+    "hours": "",
+    "lat": 33.7738152,
+    "lng": -118.1839905,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-169554",
+    "name": "Adventures to Dreams Enrichment",
+    "category": "Food",
+    "description": "3rd Friday 12 pm - 2 pm",
+    "address": "903 De Forest Ave",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90813",
+    "phone": "(562) 233-6223",
+    "hours": "",
+    "lat": 33.777473,
+    "lng": -118.204129,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-169623",
+    "name": "Christian Outreach in Action",
+    "category": "Food",
+    "description": "Monday-Friday 10am - 12pm",
+    "address": "515 E. 3rd St.",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90802",
+    "phone": "(562) 432-1440",
+    "hours": "",
+    "lat": 33.770763,
+    "lng": -118.185967,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-169750",
+    "name": "Help Me Help You",
+    "category": "Food",
+    "description": "2nd and 4th Friday 11:30 am - 12:30 pm",
+    "address": "700 Locust Ave",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90813",
+    "phone": "(562) 612-5001",
+    "hours": "",
+    "lat": 33.776397,
+    "lng": -118.190756,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-169751",
+    "name": "Help Me Help You",
+    "category": "Food",
+    "description": "1st Wedensday 2 pm - 3 pm",
+    "address": "730 W 3rd Street",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90802",
+    "phone": "(562) 612-5001",
+    "hours": "",
+    "lat": 33.769895,
+    "lng": -118.201276,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-169846",
+    "name": "Long Beach S.D.A. Church",
+    "category": "Food",
+    "description": "3rd Sunday 8 am - 10 am",
+    "address": "1001 E. 3rd Street",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90802",
+    "phone": "(562) 437-2805",
+    "hours": "",
+    "lat": 33.770876,
+    "lng": -118.17967,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-169941",
+    "name": "ORALE",
+    "category": "Food",
+    "description": "Tuesday 4/28, 5/12, 5/26, 6/9, 6/23, 7/7, 7/21, 8/4, 8/21, 9/1, 9/15, 9/29, 10/13, 10/27, 11/10, 11/24, 12/8 11 am - 12 pm",
+    "address": "434 Olive Ave",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90802",
+    "phone": "(213) 434-7779",
+    "hours": "",
+    "lat": 33.77251,
+    "lng": -118.182191,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-449411",
+    "name": "Elm",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (34 funded slots)",
+    "address": "1425 Elm Ave",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90813",
+    "phone": "(562) 218-6620",
+    "hours": "",
+    "lat": 33.784213,
+    "lng": -118.188198,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-449422",
+    "name": "Edison",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (34 funded slots)",
+    "address": "625 Maine Ave",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90802",
+    "phone": "(562) 590-8481",
+    "hours": "",
+    "lat": 33.773811,
+    "lng": -118.200619,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "osm-node-368169322",
+    "name": "Lawndale Branch County of Los Angeles Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Burin Avenue 14615",
+    "city": "Lawndale",
+    "state": "CA",
+    "zip": "90260",
+    "phone": "(310) 676-0177",
+    "hours": "Su-Mo off; Tu-We 12:00-18:00; Th-Sa 10:00-18:00",
+    "lat": 33.8985378,
+    "lng": -118.3542318,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169441",
+    "name": "Bret Harte Branch Long Beach Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8047396,
+    "lng": -118.2139586,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169447",
+    "name": "Burnett Branch Long Beach Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.796684,
+    "lng": -118.1853462,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169450",
+    "name": "La Casa De Rancho Los Cerritos Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Virginia Road 4573",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8394894,
+    "lng": -118.1955481,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169464",
+    "name": "Torrance Civic Center Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.837238,
+    "lng": -118.34174,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169473",
+    "name": "Wilmington Branch Los Angeles Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7891556,
+    "lng": -118.2628409,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169478",
+    "name": "Graham Branch County of Los Angeles Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Firestone Boulevard 1900",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90001",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9598869,
+    "lng": -118.238338,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169514",
+    "name": "Dr. Martin Luther King Jr. Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Avalon Boulevard 17906",
+    "city": "Carson",
+    "state": "CA",
+    "zip": "90746",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8676619,
+    "lng": -118.2658069,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169515",
+    "name": "Rivera Branch County of Los Angeles Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Serapis Avenue 7828",
+    "city": "Pico Rivera",
+    "state": "CA",
+    "zip": "90660",
+    "phone": "(562) 949-5485",
+    "hours": "Sa-Su off; Mo 10:00-18:00; Tu-We 12:00-20:00; Th-Fr 10:00-18:00",
+    "lat": 33.9689269,
+    "lng": -118.1009606,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169517",
+    "name": "Los Nietos Branch County of Los Angeles Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Duchess Drive 8511",
+    "city": "Whittier",
+    "state": "CA",
+    "zip": "90606",
+    "phone": "(562) 695-0708",
+    "hours": "Su off; Mo-We 10:00-20:00; Fr-Sa 10:00-18:00",
+    "lat": 33.9650917,
+    "lng": -118.0723363,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3137961992",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8931824,
+    "lng": -118.3628026,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3700666338",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Westminster Boulevard 6741",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "92683",
+    "phone": "(714) 705-6584",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "lat": 33.7612594,
+    "lng": -118.0099192,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5158348122",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Su 10:00-18:00",
+    "lat": 33.8595788,
+    "lng": -118.1067366,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5640832021",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7813507,
+    "lng": -118.152046,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9106961504",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.793761,
+    "lng": -118.3331521,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9533917711",
+    "name": "Edgar & James",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Sa,Su 10:00-20:00",
+    "lat": 33.8383564,
+    "lng": -118.384657,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9768025378",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Palos Verdes Boulevard 22227",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8255223,
+    "lng": -118.369683,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11785214740",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Imperial Highway 9125",
+    "city": "Downey",
+    "state": "CA",
+    "zip": "90242",
+    "phone": "(562) 803-5392",
+    "hours": "Mo-Su 10:00-21:00",
+    "lat": 33.9178966,
+    "lng": -118.1337205,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-55957748",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Pacific Coast Highway 800",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90806",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7895574,
+    "lng": -118.202211,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-295765201",
+    "name": "Beacon House Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Anaheim Street 3220",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90804",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7811589,
+    "lng": -118.1536608,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-long-beach-shelter",
+    "name": "Long Beach Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "address": "",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24/7",
+    "lat": 33.77,
+    "lng": -118.1937,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-long-beach-hygiene",
+    "name": "Lawndale Branch County of Los Angeles Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "Burin Avenue 14615",
+    "city": "Lawndale",
+    "state": "CA",
+    "zip": "90260",
+    "phone": "",
+    "hours": "Su-Mo off; Tu-We 12:00-18:00; Th-Sa 10:00-18:00",
+    "lat": 33.8985378,
+    "lng": -118.3542318,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

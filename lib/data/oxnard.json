@@ -1,0 +1,667 @@
+[
+  {
+    "id": "fa-174530",
+    "name": "Mercy Housing - Casa San Juan",
+    "category": "Food",
+    "description": "Mercy Housing Casa San Juan facility located in Oxnard, California.",
+    "address": "838 West 5th St.",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "(805) 483-3843",
+    "hours": "",
+    "lat": 34.1974571,
+    "lng": -119.1871908,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178871",
+    "name": "Bread of Life - All Saints Episcopal Church",
+    "category": "Food",
+    "description": "Meal distribution location at All Saints Episcopal Church",
+    "address": "144 S. C Street",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2018265,
+    "lng": -119.1807836,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189644",
+    "name": "Dove Christian Ministries",
+    "category": "Food",
+    "description": "Main food distribution location for Dove Christian Ministries in Oxnard.",
+    "address": "241 Hill St.",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93033",
+    "phone": "",
+    "hours": "",
+    "lat": 34.1869556,
+    "lng": -119.180011,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199298",
+    "name": "Salvation Army Oxnard",
+    "category": "Food",
+    "description": "Salvation Army food distribution location in Oxnard.",
+    "address": "622 West Wooley Road",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93003",
+    "phone": "",
+    "hours": "",
+    "lat": 34.1896638,
+    "lng": -119.1845339,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200667",
+    "name": "Ventura County Rescue Mission",
+    "category": "Food",
+    "description": "Main facility providing meal services",
+    "address": "234 E 6th St",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "",
+    "lat": 34.1960682,
+    "lng": -119.1752458,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-448285",
+    "name": "Jeff Davis Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (6 funded slots)",
+    "address": "601 Hill St",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93033",
+    "phone": "(805) 485-7878",
+    "hours": "",
+    "lat": 34.186703,
+    "lng": -119.185423,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-128647",
+    "name": "Oxnard School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1051 SOUTH A ST",
+    "city": "OXNARD",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "(805) 385-1501",
+    "hours": "",
+    "lat": 34.212205,
+    "lng": -119.179441,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-177611",
+    "name": "Wilson Senior Center",
+    "category": "Food",
+    "description": "Senior center location in Wilson, Kansas",
+    "address": "Wilson Senior Center",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "",
+    "lat": 34.205512,
+    "lng": -119.180825,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180533",
+    "name": "Grace Bible Church",
+    "category": "Food",
+    "description": "Main food distribution location for Grace Bible Church",
+    "address": "936 W 5th St",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "",
+    "lat": 34.197432,
+    "lng": -119.1888939,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184920",
+    "name": "St. Johns Health Ministries @ Christ The King/Cristo El Rey",
+    "category": "Food",
+    "description": "Food pantry location at Christ The King/Cristo El Rey facility.",
+    "address": "535 Cooper Rd.",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2048171,
+    "lng": -119.1729974,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187107",
+    "name": "Mercy Housing - Villa Madera",
+    "category": "Food",
+    "description": "Food pantry location in Ventura County serving the Oxnard area.",
+    "address": "1051 North A St.",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2123427,
+    "lng": -119.178902,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187829",
+    "name": "Church of The Nazarene",
+    "category": "Food",
+    "description": "Food pantry and senior food box distribution location",
+    "address": "1630 Saviers Rd.",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93033",
+    "phone": "",
+    "hours": "",
+    "lat": 34.1833355,
+    "lng": -119.17728,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-way-267491963",
+    "name": "Dock Building",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0165771,
+    "lng": -119.3622296,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-804787245",
+    "name": "VCTC",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.3520751,
+    "lng": -119.0602196,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-804788991",
+    "name": "VCTC",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.3367224,
+    "lng": -119.0850583,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-804788992",
+    "name": "Kmart",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.3367552,
+    "lng": -119.0850425,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170497",
+    "name": "Lillian Smolt Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.277225,
+    "lng": -119.2517771,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170514",
+    "name": "Camarillo Branch Ventura County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2432945,
+    "lng": -119.0138591,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170515",
+    "name": "Edward Lawrence Dohney Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2426683,
+    "lng": -119.0046125,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13533760301",
+    "name": "Hill Road Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Hill Road 1070",
+    "city": "Ventura",
+    "state": "CA",
+    "zip": "93003",
+    "phone": "(805) 626-7323",
+    "hours": "Mo-We 10:00-18:00; Fr-Su 10:00-14:00; Th 14:00-18:00",
+    "lat": 34.2676192,
+    "lng": -119.2064294,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13545606263",
+    "name": "Ventura County Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Victoria Avenue 800",
+    "city": "Ventura",
+    "state": "CA",
+    "zip": "93009",
+    "phone": "(805) 642-8982",
+    "hours": "Mo-Fr 08:00-16:00; PH off",
+    "lat": 34.2687542,
+    "lng": -119.2115643,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13707014682",
+    "name": "South Oxnard Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "(805) 385-8129",
+    "hours": "Mo-Th 09:00-20:00; Sa 09:00-17:30",
+    "lat": 34.1605341,
+    "lng": -119.1773151,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-39607924",
+    "name": "Ray D Prueter Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.1568356,
+    "lng": -119.1927486,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-329059887",
+    "name": "Oxnard Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South A Street 251",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:30",
+    "lat": 34.2009819,
+    "lng": -119.1789444,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-398398712",
+    "name": "E P Foster Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2811935,
+    "lng": -119.2908089,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-398812922",
+    "name": "Library & Learning Resource Center - LRC",
+    "category": "Public Resources",
+    "description": "The Evelyn and Howard Buroughs Library, Classrooms, Reading Room, Open Access Computer Lab/Learning Center (BEACH), Faculty Offices, Office of the Dean for English, Math, Communication Studies and Learning Resources, Office of the Dean for Art, Library, L",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.277391,
+    "lng": -119.2306398,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4055409754",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2693327,
+    "lng": -119.172872,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13505859725",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2235197,
+    "lng": -119.1562352,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13508155483",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Main Street 858",
+    "city": "Santa Paula",
+    "state": "CA",
+    "zip": "93060",
+    "phone": "",
+    "hours": "",
+    "lat": 34.3529147,
+    "lng": -119.0627828,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13694387346",
+    "name": "The Arc Foundation Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-19:00, Su 19:00-18:00",
+    "lat": 34.2085936,
+    "lng": -119.1775899,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13694387347",
+    "name": "Oxnard Superthrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2103136,
+    "lng": -119.1779237,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13700069039",
+    "name": "Bargain Center Thift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.202256,
+    "lng": -119.17669,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-851992947",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.219155,
+    "lng": -119.0408085,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1123794161",
+    "name": "Goodwill Wholesale Outlet",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Rice Avenue 1401",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "(805) 981-7986",
+    "hours": "Mo-Su 07:00-20:00",
+    "lat": 34.2146375,
+    "lng": -119.143038,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-oxnard-hygiene",
+    "name": "Lillian Smolt Memorial Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.277225,
+    "lng": -119.2517771,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

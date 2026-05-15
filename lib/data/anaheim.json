@@ -1,0 +1,667 @@
+[
+  {
+    "id": "fa-218695",
+    "name": "The Salvation Army - S Lewis St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1300 S. Lewis St.",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92805",
+    "phone": "(714) 758-0414",
+    "hours": "",
+    "lat": 33.83003,
+    "lng": -117.90568,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-449601",
+    "name": "Franklin Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (36 funded slots)",
+    "address": "506 S Janss St",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92805",
+    "phone": "(714) 399-2100",
+    "hours": "",
+    "lat": 33.829216,
+    "lng": -117.919685,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-181828",
+    "name": "VFW Post 3173",
+    "category": "Food",
+    "description": "Mobile food pantry distribution location at VFW Post 3173",
+    "address": "805 E. Sycamore Street",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92805",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8419133,
+    "lng": -117.9078279,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175006",
+    "name": "Project Access - Hermosa Village",
+    "category": "Food",
+    "description": "Kid's Cafe meal service location in Anaheim serving Orange County.",
+    "address": "1515 Calle Del Mar",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92802",
+    "phone": "(714) 254-7216",
+    "hours": "",
+    "lat": 33.8085345,
+    "lng": -117.9300261,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179653",
+    "name": "Anaheim United Methodist Church",
+    "category": "Food",
+    "description": "Food pantry location at Anaheim United Methodist Church. Wagons are provided to gather and transport food to vehicles. Delivery of food boxes or transportation is not provided.",
+    "address": "1000 S. State College Boulevard",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92806",
+    "phone": "",
+    "hours": "",
+    "lat": 33.824620998383,
+    "lng": -117.888292008028,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185490",
+    "name": "Neighborhood Services - Main Location",
+    "category": "Food",
+    "description": "Neighborhood Services food distribution center in Placentia",
+    "address": "900 South Melrose Street",
+    "city": "Placentia",
+    "state": "CA",
+    "zip": "92870",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8601968981324,
+    "lng": -117.874101526717,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185815",
+    "name": "Anaheim Family YMCA",
+    "category": "Food",
+    "description": "Anaheim Family YMCA location providing after school meal program services",
+    "address": "240 South Euclid St.",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92802",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8299476,
+    "lng": -117.9407352,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186466",
+    "name": "St. Mary SVDP",
+    "category": "Food",
+    "description": "Food pantry distribution location at St. Mary's in Fullerton",
+    "address": "400 W. Commonwealth Avenue",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92832",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8693925,
+    "lng": -117.9318797,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189449",
+    "name": "Ponderosa Park Family Resource Center",
+    "category": "Food",
+    "description": "Main facility location for Ponderosa Park Family Resource Center",
+    "address": "320 E. Orangewood Ave.",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92802",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7959774,
+    "lng": -117.9039187,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206845",
+    "name": "First Lutheran Church Fullerton",
+    "category": "Food",
+    "description": "Food pantry and meal program distribution site. Caring Hands Ministries location.",
+    "address": "215 N. Lemon Street",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92832",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8721206,
+    "lng": -117.9200582,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208622",
+    "name": "7th Day Adventist Church - Anaheim",
+    "category": "Food",
+    "description": "7th Day Adventist Church food pantry location in Anaheim.",
+    "address": "900 Sunkist Street",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92806",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8277216,
+    "lng": -117.8795841,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-209455",
+    "name": "West Anaheim United Methodist",
+    "category": "Food",
+    "description": "Food distribution location for seniors in Orange County",
+    "address": "2045 W Ball Road",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92804",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8180899,
+    "lng": -117.9534343,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-4631376401",
+    "name": "UCI Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6433883,
+    "lng": -117.8428865,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5455520099",
+    "name": "Gazebo at the Park",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6528905,
+    "lng": -117.7538815,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169488",
+    "name": "La Puente Branch County of Los Angeles Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Central Avenue 15920",
+    "city": "La Puente",
+    "state": "CA",
+    "zip": "91744",
+    "phone": "(626) 968-4613",
+    "hours": "",
+    "lat": 34.0191781,
+    "lng": -117.950897,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169515",
+    "name": "Rivera Branch County of Los Angeles Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Serapis Avenue 7828",
+    "city": "Pico Rivera",
+    "state": "CA",
+    "zip": "90660",
+    "phone": "(562) 949-5485",
+    "hours": "Sa-Su off; Mo 10:00-18:00; Tu-We 12:00-20:00; Th-Fr 10:00-18:00",
+    "lat": 33.9689269,
+    "lng": -118.1009606,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169516",
+    "name": "Pico Rivera Branch County of Los Angeles Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Mines Avenue 9001",
+    "city": "Pico Rivera",
+    "state": "CA",
+    "zip": "90660",
+    "phone": "(562) 942-7394",
+    "hours": "Su-Mo off; Tu-We 12:00-20:00; Th-Sa 10:00-18:00",
+    "lat": 33.9919574,
+    "lng": -118.0892349,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169517",
+    "name": "Los Nietos Branch County of Los Angeles Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Duchess Drive 8511",
+    "city": "Whittier",
+    "state": "CA",
+    "zip": "90606",
+    "phone": "(562) 695-0708",
+    "hours": "Su off; Mo-We 10:00-20:00; Fr-Sa 10:00-18:00",
+    "lat": 33.9650917,
+    "lng": -118.0723363,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169524",
+    "name": "Alondra Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Alondra Boulevard 11949",
+    "city": "Norwalk",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8879282,
+    "lng": -118.0783079,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169535",
+    "name": "La Mirada Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "La Mirada Boulevard 13800",
+    "city": "La Mirada",
+    "state": "CA",
+    "zip": "90638",
+    "phone": "(562) 943-0277",
+    "hours": "",
+    "lat": 33.9058963,
+    "lng": -118.0107894,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169586",
+    "name": "Brea Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "(714) 671-1722",
+    "hours": "Mo-Th 10:00-19:00; Fr-Sa 09:00-17:00; Su off",
+    "lat": 33.9172311,
+    "lng": -117.8892041,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169594",
+    "name": "Leisure World Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7738158,
+    "lng": -118.0877512,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170083",
+    "name": "Euclid Branch Anaheim Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8142981,
+    "lng": -117.9410031,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170101",
+    "name": "Banning Branch Huntington Beach Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6436151,
+    "lng": -117.9656302,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1722470075",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Brea Boulevard 634",
+    "city": "Brea",
+    "state": "CA",
+    "zip": "92821",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9102875,
+    "lng": -117.902775,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3700666338",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Westminster Boulevard 6741",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92683",
+    "phone": "(714) 705-6584",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "lat": 33.7612594,
+    "lng": -118.0099192,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5158348122",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Su 10:00-18:00",
+    "lat": 33.8595788,
+    "lng": -118.1067366,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5567919855",
+    "name": "Habitat for Humanity of Orange County ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Katella Avenue 1656",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92802",
+    "phone": "(714) 434-6266",
+    "hours": "",
+    "lat": 33.8020266,
+    "lng": -117.9395604,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5665024733",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "recycling",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8020818,
+    "lng": -117.938334,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6343747035",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Thrift store",
+    "address": "Bristol Street 2118",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92704",
+    "phone": "(714) 444-4749",
+    "hours": "Mo-Sa 09:00-19:00; Su 11:00-19:00",
+    "lat": 33.7186859,
+    "lng": -117.886502,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6580499388",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.837807,
+    "lng": -117.886827,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6993991021",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9982545,
+    "lng": -117.8452066,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7983332220",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East 1st Street 502",
+    "city": "Tustin",
+    "state": "CA",
+    "zip": "92780",
+    "phone": "(714) 716-2126",
+    "hours": "Mo-Su 10:00-20:00; Su 10:00-19:00",
+    "lat": 33.7449506,
+    "lng": -117.818227,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9681558384",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9060979,
+    "lng": -117.843886,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-anaheim-hygiene",
+    "name": "La Puente Branch County of Los Angeles Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "Central Avenue 15920",
+    "city": "La Puente",
+    "state": "CA",
+    "zip": "91744",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0191781,
+    "lng": -117.950897,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

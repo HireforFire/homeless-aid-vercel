@@ -1,0 +1,603 @@
+[
+  {
+    "id": "fa-175041",
+    "name": "City Rescue Mission",
+    "category": "Food",
+    "description": "Food distribution location for City Rescue Mission",
+    "address": "234 W. State St.",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32202",
+    "phone": "",
+    "hours": "",
+    "lat": 30.3335731,
+    "lng": -81.6596259,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184887",
+    "name": "Downtown Ecumenical Services Council (DESC) - Jacksonville",
+    "category": "Food",
+    "description": "Main food pantry and clothing distribution location for DESC in downtown Jacksonville.",
+    "address": "215 N. Ocean St.",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32202",
+    "phone": "",
+    "hours": "",
+    "lat": 30.3277084,
+    "lng": -81.6561095,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192367",
+    "name": "Clara White Mission",
+    "category": "Food",
+    "description": "Food distribution location in Jacksonville",
+    "address": "613 West Ashley Street",
+    "city": "Downtown",
+    "state": "FL",
+    "zip": "32202",
+    "phone": "",
+    "hours": "",
+    "lat": 30.3327133,
+    "lng": -81.6642528,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-454917",
+    "name": "Don Brewer Early Learning Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (34 funded slots)",
+    "address": "1095 A Philip Randolph Blvd Ste 1",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32206",
+    "phone": "(904) 423-8637",
+    "hours": "",
+    "lat": 30.335503,
+    "lng": -81.642251,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-458513",
+    "name": "8th Street",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (72 funded slots)",
+    "address": "20 W 8th St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32206",
+    "phone": "(1) 904-674",
+    "hours": "",
+    "lat": 30.345611,
+    "lng": -81.654756,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-459019",
+    "name": "Robert F. Kennedy",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
+    "address": "1133 Ionia St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32206",
+    "phone": "(1) 904-674",
+    "hours": "",
+    "lat": 30.33674,
+    "lng": -81.646845,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-181638",
+    "name": "I.M. SULZBACHER",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "611 East Adams Street",
+    "city": "Downtown",
+    "state": "FL",
+    "zip": "32202",
+    "phone": "",
+    "hours": "",
+    "lat": 30.3266392,
+    "lng": -81.64957009999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204091",
+    "name": "Salvation Army (The) - NE Florida Area Command",
+    "category": "Food",
+    "description": "Salvation Army food distribution location in Jacksonville",
+    "address": "900 W. Adams St.",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32204",
+    "phone": "",
+    "hours": "",
+    "lat": 30.32999,
+    "lng": -81.66938,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205457",
+    "name": "Evergreen Missionary Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Evergreen Missionary Baptist Church",
+    "address": "1100 Logan St.",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32204",
+    "phone": "",
+    "hours": "",
+    "lat": 30.3359571,
+    "lng": -81.6720983,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-364",
+    "name": "Catholic Charities - Jacksonville",
+    "category": "Food",
+    "description": "Duval County residents",
+    "address": "134 E Church St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32202",
+    "phone": "(904) 354-4846",
+    "hours": "",
+    "lat": 30.3283,
+    "lng": -81.6583,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-171949",
+    "name": "The Well Church",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "2001 Ernest St.",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32204",
+    "phone": "(904) 800-9350",
+    "hours": "",
+    "lat": 30.3192587,
+    "lng": -81.6833278,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173668",
+    "name": "Spring Park Redevelopment Corporation",
+    "category": "Food",
+    "description": "Food distribution location with air conditioning",
+    "address": "2606 San Diego Road",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32207",
+    "phone": "(904) 396-3072",
+    "hours": "",
+    "lat": 30.29958,
+    "lng": -81.63743,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-way-326836858",
+    "name": "Trinity Rescue Mission",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.3335536,
+    "lng": -81.6596399,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823869",
+    "name": "Mandarin Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2007113,
+    "lng": -81.6193253,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367824098",
+    "name": "Kent Campus Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 08:00-21:00, Fr,Sa 08:00-15:00",
+    "lat": 30.30118,
+    "lng": -81.718361,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367824100",
+    "name": "Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.429224,
+    "lng": -81.71854,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367824102",
+    "name": "FSCJ Deerwood Center Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.221846,
+    "lng": -81.553543,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367824105",
+    "name": "Saint Luke's Hospital Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.25339,
+    "lng": -81.585278,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367824107",
+    "name": "Saint Vincent's Medical Center Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.30712,
+    "lng": -81.68949,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12551975911",
+    "name": "Orange Park Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Plainfield Avenue 2054",
+    "city": "Orange Park",
+    "state": "FL",
+    "zip": "32073-5482",
+    "phone": "(904) 278-4750",
+    "hours": "",
+    "lat": 30.1645079,
+    "lng": -81.7072732,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-92643878",
+    "name": "Thomas G Carpenter Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2691767,
+    "lng": -81.5084096,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-229650331",
+    "name": "Jacksonville Public Library - Argyle Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2012598,
+    "lng": -81.8212061,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-262643542",
+    "name": "West Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Chaffee Road South 1425",
+    "city": "Jacksonviile",
+    "state": "FL",
+    "zip": "32221-1119",
+    "phone": "(904) 255-2665",
+    "hours": "",
+    "lat": 30.2944087,
+    "lng": -81.8477779,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2300143578",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Dunn Avenue 4243",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32218",
+    "phone": "(904) 768-3814",
+    "hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
+    "lat": 30.4390636,
+    "lng": -81.715296,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6245847810",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2211765,
+    "lng": -81.5510942,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6992464435",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.3194529,
+    "lng": -81.7235012,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9508040285",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.1975826,
+    "lng": -81.62185,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-609349330",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "San Jose Boulevard 11524",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32223",
+    "phone": "",
+    "hours": "",
+    "lat": 30.1639,
+    "lng": -81.63357,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-663379253",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Old Saint Augustine Road 13720",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32258",
+    "phone": "",
+    "hours": "",
+    "lat": 30.1419002,
+    "lng": -81.5536949,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-809413425",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.1930513,
+    "lng": -81.8314577,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-jacksonville-hygiene",
+    "name": "Mandarin Regional Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 30.2007113,
+    "lng": -81.6193253,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

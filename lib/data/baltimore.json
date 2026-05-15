@@ -1,0 +1,659 @@
+[
+  {
+    "id": "fa-172958",
+    "name": "Redemporist Fathers",
+    "category": "Food",
+    "description": "Food distribution location at 901 East Eager Street in Baltimore, Maryland.",
+    "address": "901 East Eager Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21202",
+    "phone": "(202) 529-4410",
+    "hours": "",
+    "lat": 39.3011633,
+    "lng": -76.6045669,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173786",
+    "name": "Maryland Access Point (MAP) - Downtown Baltimore Office",
+    "category": "Food",
+    "description": "Main office location for Maryland Access Point (MAP) home food delivery service",
+    "address": "100 Holliday Street",
+    "city": "Downtown",
+    "state": "MD",
+    "zip": "21202",
+    "phone": "(410) 396-2273",
+    "hours": "",
+    "lat": 39.2908475,
+    "lng": -76.6105378,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177013",
+    "name": "Beans and Bread",
+    "category": "Food",
+    "description": "Food assistance facility providing breakfast and lunch services",
+    "address": "400 S Bond St",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21231",
+    "phone": "",
+    "hours": "",
+    "lat": 39.286347059201,
+    "lng": -76.595590997765,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186116",
+    "name": "The Salvation Army Food Pantry - Federal Hill",
+    "category": "Food",
+    "description": "Food pantry location in Federal Hill area of Baltimore, Maryland.",
+    "address": "814 Light Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21230",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2792439,
+    "lng": -76.6132008,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189713",
+    "name": "City Place on the Avenue",
+    "category": "Food",
+    "description": "Food distribution location in Seton Hill neighborhood",
+    "address": "610 Pennsylvania Avenue",
+    "city": "Seton Hill",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2959777,
+    "lng": -76.62634489999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199250",
+    "name": "Ebenezer Outreach",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "20 W. Montgomery",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21230",
+    "phone": "",
+    "hours": "",
+    "lat": 39.280083,
+    "lng": -76.6153098,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201954",
+    "name": "Baltimore American Indian Center",
+    "category": "Food",
+    "description": "Main location of Baltimore American Indian Center",
+    "address": "113 South Broadway",
+    "city": "Upper Fells Point",
+    "state": "MD",
+    "zip": "21231",
+    "phone": "",
+    "hours": "",
+    "lat": 39.28997409999999,
+    "lng": -76.5932531,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203006",
+    "name": "South Baltimore Emergency - Federal Hill-Montgomery",
+    "category": "Food",
+    "description": "Emergency food assistance distribution location in Federal Hill-Montgomery.",
+    "address": "110 East West Street",
+    "city": "Federal Hill-Montgomery",
+    "state": "MD",
+    "zip": "21230",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2760916,
+    "lng": -76.6123241,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204164",
+    "name": "Carter Memorial Church",
+    "category": "Food",
+    "description": "Food pantry location at Carter Memorial Church",
+    "address": "745 West Fayette Street",
+    "city": "Poppleton",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "",
+    "hours": "",
+    "lat": 39.28986099999999,
+    "lng": -76.6287026,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205636",
+    "name": "Land of Kush - Bromo Arts District",
+    "category": "Food",
+    "description": "Food distribution location in Bromo Arts District",
+    "address": "840 North Eutaw Street",
+    "city": "Bromo Arts District",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "",
+    "hours": "",
+    "lat": 39.3001979,
+    "lng": -76.6215814,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206319",
+    "name": "Grace and Hope Mission",
+    "category": "Food",
+    "description": "Main distribution location for Grace and Hope Mission",
+    "address": "4 South Gay Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.289445,
+    "lng": -76.609226,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207541",
+    "name": "Lexington Poe",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "206 North Fremont Avenue",
+    "city": "Poppleton",
+    "state": "MD",
+    "zip": "21202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2918417,
+    "lng": -76.63116699999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-367797707",
+    "name": "William H Welch Medical Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-18:00; Sa 10:00-16:00",
+    "lat": 39.2987182,
+    "lng": -76.5902441,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367797823",
+    "name": "Turners Station Branch Baltimore County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2376079,
+    "lng": -76.5088513,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367797831",
+    "name": "Loch Raven Branch Baltimore County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "(410) 887-4444",
+    "hours": "Mo-Th 09:00-20:00; Fr,Sa 09:00-17:00; Su off",
+    "lat": 39.384408,
+    "lng": -76.5731454,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3031071011",
+    "name": "Sollers Point Branch - Baltimore County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sollers Point Road 323",
+    "city": "Dundalk",
+    "state": "MD",
+    "zip": "21222",
+    "phone": "(410) 288-3123",
+    "hours": "",
+    "lat": 39.2438118,
+    "lng": -76.5087933,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3033317379",
+    "name": "Arbutus Branch Baltimore County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sulphur Spring Road 855",
+    "city": "Halethorpe",
+    "state": "MD",
+    "zip": "21227",
+    "phone": "(410) 887-1451",
+    "hours": "",
+    "lat": 39.2416568,
+    "lng": -76.7104323,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3827702498",
+    "name": "Baltimore County Public Library Owings Mills Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Grand Central Avenue 10302",
+    "city": "Owings Mills",
+    "state": "MD",
+    "zip": "21117",
+    "phone": "(410) 887-2092",
+    "hours": "Fr,Sa 09:00-17:00; Su 13:00-17:00; Mo-Th 09:00-20:00",
+    "lat": 39.4069691,
+    "lng": -76.7820759,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3938433913",
+    "name": "Cherry Hill Branch Enoch Pratt Free Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Cherry Hill Road 606",
+    "city": "Brooklyn",
+    "state": "MD",
+    "zip": "21225",
+    "phone": "(410) 396-1168",
+    "hours": "Mo,Th 10:00-19:00; Tu,We 10:00-17:30; Fr,Sa 10:00-17:00; Su, PH off",
+    "lat": 39.2505284,
+    "lng": -76.6223205,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6290489001",
+    "name": "Robert L. Bogomolny Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Maryland Avenue 1420",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "",
+    "hours": "",
+    "lat": 39.3063512,
+    "lng": -76.6179713,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9358732867",
+    "name": "George Peabody Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2972016,
+    "lng": -76.6150479,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9358732868",
+    "name": "Arthur Friedheim Music Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2972456,
+    "lng": -76.6142596,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-78456490",
+    "name": "Hollofield Campground Bathhouse",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2869769,
+    "lng": -76.7887039,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1677666331",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Old Mill Road 674",
+    "city": "Millersville",
+    "state": "MD",
+    "zip": "21108",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1185164,
+    "lng": -76.6337298,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1940086902",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Baltimore National Pike 6600",
+    "city": "Catonsville",
+    "state": "MD",
+    "zip": "21228",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2873898,
+    "lng": -76.7651742,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2973851561",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Belair Road 8818",
+    "city": "Nottingham",
+    "state": "MD",
+    "zip": "21236",
+    "phone": "",
+    "hours": "",
+    "lat": 39.3943699,
+    "lng": -76.486898,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3432414110",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Greenmount Avenue 3101",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21218",
+    "phone": "",
+    "hours": "",
+    "lat": 39.3262326,
+    "lng": -76.6092625,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3646234061",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Assateague Drive 7351",
+    "city": "Jessup",
+    "state": "MD",
+    "zip": "20794",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1698445,
+    "lng": -76.786545,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3648071656",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.3587542,
+    "lng": -76.5955696,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4775186887",
+    "name": "Paul's Place",
+    "category": "Clothing & Supplies",
+    "description": "Emergency Food Pantry and Daily Hot Lunch",
+    "address": "Ward Street 1118",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21223",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2819967,
+    "lng": -76.6328189,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5405407849",
+    "name": "Goodwill Retail Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Broadway 715",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21231",
+    "phone": "",
+    "hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
+    "lat": 39.2831395,
+    "lng": -76.5930656,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8740328142",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1701923,
+    "lng": -76.6179012,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10697829837",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.3625082,
+    "lng": -76.7098298,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-baltimore-shelter",
+    "name": "Baltimore Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

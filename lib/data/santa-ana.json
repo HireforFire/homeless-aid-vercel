@@ -1,0 +1,667 @@
+[
+  {
+    "id": "fa-173648",
+    "name": "7th Day Adventist Church",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "1314 N. Broadway",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92706",
+    "phone": "(714) 425-5100",
+    "hours": "",
+    "lat": 33.7562841,
+    "lng": -117.870199,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-213893",
+    "name": "7th Day Adventist Church",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "117 West McFadden",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92707",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7347521,
+    "lng": -117.8685045,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220765",
+    "name": "Veterans First",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1611 N Broadway",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92706",
+    "phone": "(714) 547-0615",
+    "hours": "",
+    "lat": 33.7592545,
+    "lng": -117.8692932,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-449592",
+    "name": "Katherine Irvine Day School (KIDS) Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (36 funded slots)",
+    "address": "1002 W 2nd St",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92703",
+    "phone": "(714) 541-8164",
+    "hours": "",
+    "lat": 33.74624,
+    "lng": -117.878757,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-449607",
+    "name": "Broadway Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (18 funded slots)",
+    "address": "321 W Washington Ave",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92706",
+    "phone": "(714) 241-8920",
+    "hours": "",
+    "lat": 33.755941,
+    "lng": -117.870863,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-191610",
+    "name": "Iglesia Vida Abundante",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1701 N Main St",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92706",
+    "phone": "",
+    "hours": "",
+    "lat": 33.760376,
+    "lng": -117.867203,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-215706",
+    "name": "Homeless Christian Fellowship",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "600 N. Main",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92701",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7501027,
+    "lng": -117.8683219,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-467",
+    "name": "Community Action Partnership OC",
+    "category": "Food",
+    "description": "Orange County",
+    "address": "1000 E Santa Ana Blvd",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92701",
+    "phone": "(714) 953-1932",
+    "hours": "",
+    "lat": 33.7461,
+    "lng": -117.8561,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-468",
+    "name": "St. Vincent de Paul Orange",
+    "category": "Food",
+    "description": "Orange County",
+    "address": "1200 N Main St",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92701",
+    "phone": "(714) 547-9952",
+    "hours": "",
+    "lat": 33.7561,
+    "lng": -117.8661,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-172374",
+    "name": "Companerismo Rey de Reyes",
+    "category": "Food",
+    "description": "Food pantry location at 940 W. Wilshire Ave., Santa Ana, CA 92707",
+    "address": "940 W. Wilshire Ave.",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92707",
+    "phone": "(714) 850-1952",
+    "hours": "",
+    "lat": 33.7304236,
+    "lng": -117.8785311,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180801",
+    "name": "Southwest Community Center",
+    "category": "Food",
+    "description": "Main location providing food pantry and meal services. Service area: Orange County.",
+    "address": "1601 W. Second Street",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92703",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7464165,
+    "lng": -117.8901588,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183265",
+    "name": "Love Community Outreach Food Pantry",
+    "category": "Food",
+    "description": "Love Community Outreach food pantry location in Santa Ana. Best to reach out on Facebook. They have no phone line.",
+    "address": "1920 W Chestnut Ave",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92703",
+    "phone": "",
+    "hours": "",
+    "lat": 33.742509988948015,
+    "lng": -117.89577403007809,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-4631376401",
+    "name": "UCI Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6433883,
+    "lng": -117.8428865,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5455520099",
+    "name": "Gazebo at the Park",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6528905,
+    "lng": -117.7538815,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169535",
+    "name": "La Mirada Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "La Mirada Boulevard 13800",
+    "city": "La Mirada",
+    "state": "CA",
+    "zip": "90638",
+    "phone": "(562) 943-0277",
+    "hours": "",
+    "lat": 33.9058963,
+    "lng": -118.0107894,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368169586",
+    "name": "Brea Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "(714) 671-1722",
+    "hours": "Mo-Th 10:00-19:00; Fr-Sa 09:00-17:00; Su off",
+    "lat": 33.9172311,
+    "lng": -117.8892041,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170069",
+    "name": "Corona del Mar Branch Newport Beach Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5961682,
+    "lng": -117.8694152,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170083",
+    "name": "Euclid Branch Anaheim Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8142981,
+    "lng": -117.9410031,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170101",
+    "name": "Banning Branch Huntington Beach Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6436151,
+    "lng": -117.9656302,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170812",
+    "name": "William T Boyce Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8756008,
+    "lng": -117.9182657,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170856",
+    "name": "Rinker Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7930556,
+    "lng": -117.8538889,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1233397192",
+    "name": "Hunt Libary",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.869186,
+    "lng": -117.9550555,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3088548281",
+    "name": "Anaheim Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8688356,
+    "lng": -117.7465455,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5982049387",
+    "name": "Buena Park Library District",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "La Palma Avenue 7150",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "90620",
+    "phone": "(714) 826-4100",
+    "hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-17:00",
+    "lat": 33.8464373,
+    "lng": -118.0084493,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1722470075",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Brea Boulevard 634",
+    "city": "Brea",
+    "state": "CA",
+    "zip": "92821",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9102875,
+    "lng": -117.902775,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3700666338",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Westminster Boulevard 6741",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92683",
+    "phone": "(714) 705-6584",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "lat": 33.7612594,
+    "lng": -118.0099192,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5567919855",
+    "name": "Habitat for Humanity of Orange County ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Katella Avenue 1656",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92802",
+    "phone": "(714) 434-6266",
+    "hours": "",
+    "lat": 33.8020266,
+    "lng": -117.9395604,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5665024733",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "recycling",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8020818,
+    "lng": -117.938334,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6343747035",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Thrift store",
+    "address": "Bristol Street 2118",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92704",
+    "phone": "(714) 444-4749",
+    "hours": "Mo-Sa 09:00-19:00; Su 11:00-19:00",
+    "lat": 33.7186859,
+    "lng": -117.886502,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6580499388",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.837807,
+    "lng": -117.886827,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7983332220",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East 1st Street 502",
+    "city": "Tustin",
+    "state": "CA",
+    "zip": "92780",
+    "phone": "(714) 716-2126",
+    "hours": "Mo-Su 10:00-20:00; Su 10:00-19:00",
+    "lat": 33.7449506,
+    "lng": -117.818227,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9681558384",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9060979,
+    "lng": -117.843886,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10759848529",
+    "name": "Goodwill Boutique",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Rockfield Boulevard 23740",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92630",
+    "phone": "(949) 470-2040",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 33.6161204,
+    "lng": -117.7028945,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10759848530",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Donation center closes at 7:00 PM.",
+    "address": "Rockfield Boulevard 23740",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92630",
+    "phone": "(949) 470-2040",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "lat": 33.6162529,
+    "lng": -117.7028245,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-santa-ana-hygiene",
+    "name": "La Mirada Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "La Mirada Boulevard 13800",
+    "city": "La Mirada",
+    "state": "CA",
+    "zip": "90638",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9058963,
+    "lng": -118.0107894,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

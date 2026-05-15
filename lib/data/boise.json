@@ -1,0 +1,591 @@
+[
+  {
+    "id": "fa-219107",
+    "name": "Friendship Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "950 W State St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 345-3441",
+    "hours": "",
+    "lat": 43.6198158,
+    "lng": -116.2020416,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219122",
+    "name": "Giraffe Laugh",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1191 Grand Ave.",
+    "city": "Boise,",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 424-3387",
+    "hours": "",
+    "lat": 43.6147232,
+    "lng": -116.2123947,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219360",
+    "name": "Giraffe Laugh 1",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "901 Resseguie St.",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 342-1239",
+    "hours": "",
+    "lat": 43.6263847,
+    "lng": -116.1988983,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220169",
+    "name": "Supportive Housing and Innovative Partnerships",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1405 W Grove St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 559-2612",
+    "hours": "",
+    "lat": 43.6184578,
+    "lng": -116.21138,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221092",
+    "name": "St John's Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "815 W Hays St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 345-3424",
+    "hours": "",
+    "lat": 43.6209221,
+    "lng": -116.1969452,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221692",
+    "name": "Boise Rescue Mission Warehouse",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "308 S 24th St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 343-2389",
+    "hours": "",
+    "lat": 43.6199799,
+    "lng": -116.2192993,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224892",
+    "name": "ALPHA Choice Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "537 W Bannock St",
+    "city": "STE 100, Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 424-7799",
+    "hours": "",
+    "lat": 43.6155586,
+    "lng": -116.1991348,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-447293",
+    "name": "Lincoln Early Learning Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
+    "address": "300 W Fort St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 854-5522",
+    "hours": "",
+    "lat": 43.617041,
+    "lng": -116.192601,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-179322",
+    "name": "Boise Rescue Mission River of Life - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Boise, Idaho.",
+    "address": "575 S 13th St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6155186,
+    "lng": -116.2144256,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210970",
+    "name": "Idaho Hunger Action Council - Food Distribution Center",
+    "category": "Food",
+    "description": "Main food distribution center location in Boise.",
+    "address": "1311 W Jefferson St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6209376,
+    "lng": -116.20782919999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177519",
+    "name": "St. Vincent de Paul - Council",
+    "category": "Food",
+    "description": "Main food pantry location",
+    "address": "3209 W Overland Rd",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83705",
+    "phone": "",
+    "hours": "",
+    "lat": 43.58962247781,
+    "lng": -116.221593728392,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188950",
+    "name": "El-ada Vista - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Boise offering walk-up food pantry services.",
+    "address": "2250 S Vista Ave",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83705",
+    "phone": "",
+    "hours": "",
+    "lat": 43.582084699999996,
+    "lng": -116.2134181,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-6845774639",
+    "name": "The Eyrie",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6149986,
+    "lng": -116.2255579,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6877048301",
+    "name": "Franklin Park Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6013028,
+    "lng": -116.244936,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8331644225",
+    "name": "Ada Community Library Lake Hazel Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Lake Hazel Road 10489",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83709",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5451978,
+    "lng": -116.312488,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8343020811",
+    "name": "Ada Community Library Hidden Springs Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Hidden Springs Drive 5868",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "",
+    "phone": "(208) 229-2665",
+    "hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00",
+    "lat": 43.7255726,
+    "lng": -116.2623931,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8343075845",
+    "name": "Garden City Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.660042,
+    "lng": -116.280754,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-229497047",
+    "name": "Albertsons Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Cesar Chavez Lane 1865",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83706",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6042425,
+    "lng": -116.2033373,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-247278054",
+    "name": "Idaho State Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West State Street 325",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6154986,
+    "lng": -116.1953915,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-292327896",
+    "name": "The Peregrine Fund Research Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Flying Hawk Lane 5668",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83709",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5181336,
+    "lng": -116.2560084,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-609747823",
+    "name": "Boise Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Capitol Boulevard 715",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 972-8200",
+    "hours": "Mo-Th 10:00-20:00; Fr 10:00-18:00; Sa-Su 10:00-14:00",
+    "lat": 43.6104634,
+    "lng": -116.2078927,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-666811332",
+    "name": "Library! at Bown Crossing",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Riverwalk Drive 2153",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83706",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5746508,
+    "lng": -116.1562923,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-667257431",
+    "name": "Library! at Collister",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West State Street 4724",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83703",
+    "phone": "",
+    "hours": "",
+    "lat": 43.649863,
+    "lng": -116.247316,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-727839532",
+    "name": "Eagle Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Stierman Way 100",
+    "city": "Eagle",
+    "state": "ID",
+    "zip": "83616",
+    "phone": "",
+    "hours": "",
+    "lat": 43.696186,
+    "lng": -116.3469295,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8331631698",
+    "name": "Idaho Youth Ranch",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Overland Road 10448",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83709",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5916887,
+    "lng": -116.3120975,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-492879468",
+    "name": "Idaho Youth Ranch",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Main Street 1417",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6194151,
+    "lng": -116.2116805,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-666735312",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Vinnell Way 1465",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83709",
+    "phone": "",
+    "hours": "",
+    "lat": 43.591301,
+    "lng": -116.2875994,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-667257455",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West State Street 7000",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83714",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6675806,
+    "lng": -116.2754498,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-782234420",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Main Street 213",
+    "city": "Meridian",
+    "state": "ID",
+    "zip": "83642",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6054655,
+    "lng": -116.392435,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1384240847",
+    "name": "Deseret Industries",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Fairview Avenue 10740",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83713",
+    "phone": "",
+    "hours": "Tu-Sa 10:00-18:00",
+    "lat": 43.6204948,
+    "lng": -116.316304,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-boise-hygiene",
+    "name": "Ada Community Library Lake Hazel Branch - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "West Lake Hazel Road 10489",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83709",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5451978,
+    "lng": -116.312488,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

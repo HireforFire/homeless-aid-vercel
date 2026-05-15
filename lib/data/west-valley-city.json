@@ -1,0 +1,572 @@
+[
+  {
+    "id": "fa-173491",
+    "name": "Utah Community Action (Redwood Food and Resource Center)",
+    "category": "Food",
+    "description": "Redwood Food and Resource Center - Food pantry serving Salt Lake County residents",
+    "address": "3060 Lester St.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84119",
+    "phone": "(801) 359-2444",
+    "hours": "",
+    "lat": 40.7056481,
+    "lng": -111.9380897,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179431",
+    "name": "Maverik Center (In the overflow parking lot)",
+    "category": "Food",
+    "description": "Mobile pantry distribution location at Maverik Center overflow parking lot",
+    "address": "3100 S 2050 W",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84119",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7039364,
+    "lng": -111.9455338,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172384",
+    "name": "Comunidades Unidas - West Valley City",
+    "category": "Food",
+    "description": "Food assistance distribution location",
+    "address": "1750 Research Way",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84119",
+    "phone": "(385) 415-9785",
+    "hours": "",
+    "lat": 40.7113899,
+    "lng": -111.9399689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173566",
+    "name": "Bible Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Bible Baptist Church in Taylorsville",
+    "address": "3769 West 4700 South",
+    "city": "Taylorsville",
+    "state": "UT",
+    "zip": "84118",
+    "phone": "(801) 964-2888",
+    "hours": "",
+    "lat": 40.666948,
+    "lng": -111.9810883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184605",
+    "name": "Sunnyvale Park",
+    "category": "Food",
+    "description": "Mobile pantry distribution location at Sunnyvale Park",
+    "address": "4013 S 700 W",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84123",
+    "phone": "",
+    "hours": "",
+    "lat": 40.68462,
+    "lng": -111.91022,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185766",
+    "name": "Burton Mobile Pantry - LDS Parking Lot",
+    "category": "Food",
+    "description": "Mobile pantry distribution site at LDS Parking Lot",
+    "address": "2702 S Main St.",
+    "city": "South Salt Lake",
+    "state": "UT",
+    "zip": "84115",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7120101,
+    "lng": -111.8914381,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189654",
+    "name": "Granger Food Pantry - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in West Valley City.",
+    "address": "3200 W 4100 S",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84119",
+    "phone": "",
+    "hours": "",
+    "lat": 40.682457,
+    "lng": -111.9678417,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191782",
+    "name": "House of His Glory Pantry",
+    "category": "Food",
+    "description": "Food pantry located at Redeemed Christian Church of God in Murray, Utah",
+    "address": "213 4800 S",
+    "city": "Murray",
+    "state": "UT",
+    "zip": "84107",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6670992,
+    "lng": -111.8971216,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193729",
+    "name": "The Church of Jesus Christ of Latter-day Saints - West Valley City",
+    "category": "Food",
+    "description": "Church facility located in West Valley City, Utah",
+    "address": "3175 S 3450 W",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84120",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7025179,
+    "lng": -111.97286509999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200157",
+    "name": "Tongan United Methodist Church Pantry",
+    "category": "Food",
+    "description": "Food distribution location at Tongan United Methodist Church",
+    "address": "1553 W Crystal Ave.",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84119",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7138684,
+    "lng": -111.935775,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200451",
+    "name": "Taylorsville Senior Center",
+    "category": "Food",
+    "description": "Senior center providing food distribution services through the CSFP program.",
+    "address": "4743 S Plymouth View Dr.",
+    "city": "Salt Lake County",
+    "state": "UT",
+    "zip": "84123",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6660606,
+    "lng": -111.937787,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201201",
+    "name": "Calvary Salt Lake",
+    "category": "Food",
+    "description": "Main food pantry location",
+    "address": "460 Century Dr W",
+    "city": "Murray",
+    "state": "UT",
+    "zip": "84123",
+    "phone": "",
+    "hours": "",
+    "lat": 40.677988,
+    "lng": -111.904135,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-356682323",
+    "name": "Rescue Mission of Salt Lake Men's Facility",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "South 400 West 363",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "(801) 355-1302",
+    "hours": "",
+    "lat": 40.7590671,
+    "lng": -111.9022463,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6852371242",
+    "name": "Prospect Point Terrace",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.767756,
+    "lng": -111.8233404,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366385677",
+    "name": "Saint Marks Hospital Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6860692,
+    "lng": -111.8571532,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366385695",
+    "name": "Millcreek Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Evergreen Avenue 2266",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84109",
+    "phone": "(385) 468-1380",
+    "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-18:00",
+    "lat": 40.6962,
+    "lng": -111.8267,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2251329945",
+    "name": "Holladay Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Murray Holladay Road 2150",
+    "city": "Holladay",
+    "state": "UT",
+    "zip": "84117",
+    "phone": "(801) 943-4643",
+    "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-18:00",
+    "lat": 40.6661762,
+    "lng": -111.828693,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2350425061",
+    "name": "Abraham Markosian Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6725015,
+    "lng": -111.944333,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9842121618",
+    "name": "Granite Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South 500 East 3331",
+    "city": "South Salt Lake",
+    "state": "UT",
+    "zip": "84106",
+    "phone": "",
+    "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-18:00",
+    "lat": 40.6992601,
+    "lng": -111.875931,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11535037172",
+    "name": "Magna Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South 8950 West 2675",
+    "city": "Magna",
+    "state": "UT",
+    "zip": "84044",
+    "phone": "(801) 943-4636",
+    "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-18:00",
+    "lat": 40.7112637,
+    "lng": -112.1043204,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-33153617",
+    "name": "Church History Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East North Temple Street 15",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84103",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7720814,
+    "lng": -111.8904251,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-33162725",
+    "name": "Family History Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Temple 32",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84150",
+    "phone": "(801) 240-6996",
+    "hours": "Tu-Th 09:00-20:00; Mo,Fr,Sa 09:00-18:00",
+    "lat": 40.7701892,
+    "lng": -111.8944896,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-33194160",
+    "name": "Salt Lake City Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East 400 South 210",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 524-8200",
+    "hours": "Mo-Th 10:00-20:00; Fr,Sa 10:00-18:00; Su 11:00-17:00",
+    "lat": 40.7597641,
+    "lng": -111.884354,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6603330484",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South State Street 6042",
+    "city": "Murray",
+    "state": "UT",
+    "zip": "84107",
+    "phone": "",
+    "hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
+    "lat": 40.6396195,
+    "lng": -111.890472,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7928632801",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "",
+    "phone": "(801) 263-0136",
+    "hours": "Tu-Sa 10:00-17:30",
+    "lat": 40.7420683,
+    "lng": -111.90591,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9698564594",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Redwood Road 6980",
+    "city": "West Jordan",
+    "state": "UT",
+    "zip": "84084",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6245531,
+    "lng": -111.9405334,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9698962432",
+    "name": "Deseret Industries",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6208187,
+    "lng": -111.9398662,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-154377484",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South 900 East 4545",
+    "city": "Millcreek",
+    "state": "UT",
+    "zip": "84117",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 40.6731765,
+    "lng": -111.8648045,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-195059059",
+    "name": "Deseret Industries",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Glen Eagle Drive 2994",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84128",
+    "phone": "(801) 963-3907",
+    "hours": "Mo-Sa 09:00-18:00; Su off",
+    "lat": 40.7060622,
+    "lng": -112.0275905,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-west-valley-city-hygiene",
+    "name": "Saint Marks Hospital Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6860692,
+    "lng": -111.8571532,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

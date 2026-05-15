@@ -1,0 +1,660 @@
+[
+  {
+    "id": "fa-186349",
+    "name": "Smokey's Pantry at UTK",
+    "category": "Food",
+    "description": "Smokey's Pantry: A FISH Hospitality Pantry located at the University of Tennessee, Knoxville campus on Melrose Pl.",
+    "address": "Melrose Pl",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37916",
+    "phone": "",
+    "hours": "",
+    "lat": 35.955755499999995,
+    "lng": -83.931671,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220069",
+    "name": "Food in The Fort",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1642 Highland Ave",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37916",
+    "phone": "(865) 237-8166",
+    "hours": "",
+    "lat": 35.9602127,
+    "lng": -83.9337845,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225508",
+    "name": "FBC Knox Food Co-Op",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "510 Main St.",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37921",
+    "phone": "(865) 246-4661",
+    "hours": "",
+    "lat": 35.9603996,
+    "lng": -83.918396,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-130624",
+    "name": "Knox County",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "912 SOUTH GAY ST",
+    "city": "KNOXVILLE",
+    "state": "TN",
+    "zip": "37902",
+    "phone": "(865) 594-1620",
+    "hours": "",
+    "lat": 35.961283,
+    "lng": -83.915806,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-178872",
+    "name": "Salvation Army - Knoxville",
+    "category": "Food",
+    "description": "Salvation Army food assistance location in Knoxville",
+    "address": "409 N. Broadway",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37917",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9707333,
+    "lng": -83.9245141,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183027",
+    "name": "Knox Area Rescue Ministries - Knoxville",
+    "category": "Food",
+    "description": "Main location of Knox Area Rescue Ministries in Knoxville",
+    "address": "418 N Broadway",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37917",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9714011,
+    "lng": -83.92347319999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192041",
+    "name": "First Baptist Church Knoxville (FISH)",
+    "category": "Food",
+    "description": "Food distribution location at First Baptist Church Knoxville",
+    "address": "510 W. Main St.",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37902",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9602288,
+    "lng": -83.9183776,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214844",
+    "name": "First Presbyterian Church",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "620 State Street",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37902",
+    "phone": "",
+    "hours": "",
+    "lat": 35.964272,
+    "lng": -83.9160722,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179142",
+    "name": "FISH Hospitality Pantry – East Knoxville",
+    "category": "Food",
+    "description": "Food pantry location at St. Luke's Episcopal Church in East Knoxville.",
+    "address": "600 S Chestnut St",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37914",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9809501,
+    "lng": -83.8905115,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187351",
+    "name": "Montgomery Village Baptist Center",
+    "category": "Food",
+    "description": "Food distribution center at Montgomery Village Baptist Center",
+    "address": "4601 Joe Lewis Road",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37920",
+    "phone": "",
+    "hours": "",
+    "lat": 35.920955,
+    "lng": -83.9220068,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195493",
+    "name": "Soul Harvest Church of God",
+    "category": "Food",
+    "description": "Soul Harvest Church of God located at 1706 Cecil Ave., Knoxville, TN",
+    "address": "1706 Cecil Ave.",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37917",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9924364,
+    "lng": -83.9157213,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-217762",
+    "name": "The Salvation Army - N Broadway St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "409 N Broadway St",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37917",
+    "phone": "(865) 525-9401",
+    "hours": "",
+    "lat": 36.00156,
+    "lng": -83.91265,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-11642911396",
+    "name": "Knox County Parks & Rec",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.90331,
+    "lng": -83.9398907,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5166136566",
+    "name": "Pendergrass Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "",
+    "phone": "(865) 974-7338",
+    "hours": "",
+    "lat": 35.9464615,
+    "lng": -83.9406863,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-155024530",
+    "name": "John C. Hodges Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Volunteer Boulevard 1015",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37996",
+    "phone": "",
+    "hours": "Fr 00:00-20:00, Sa 10:00-20:00, Su 10:00-24:00, Mo-Th 00:00-18:00+",
+    "lat": 35.9550547,
+    "lng": -83.9298395,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-155024531",
+    "name": "Hoskins Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 08:00-16:00",
+    "lat": 35.9587895,
+    "lng": -83.9279577,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-174521802",
+    "name": "Karns Branch Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Oak Ridge Highway;Oak Ridge Hwy 7516",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37931-3333;37931",
+    "phone": "(865) 470-8663",
+    "hours": "",
+    "lat": 35.9812469,
+    "lng": -84.0976605,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-268154191",
+    "name": "Lawson McGhee Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Church Avenue 500",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37902",
+    "phone": "(865) 215-8750",
+    "hours": "Mo-Th 09:00-20:00; Fr 09:00-17:30; Sa 10:00-17:00; Su 13:00-17:00",
+    "lat": 35.9622899,
+    "lng": -83.9194934,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-295037958",
+    "name": "Williams Family Seymour Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Macon Lane 137",
+    "city": "Seymour",
+    "state": "TN",
+    "zip": "37865;37865-4772",
+    "phone": "(865) 573-0728",
+    "hours": "",
+    "lat": 35.8777642,
+    "lng": -83.7779678,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-477953659",
+    "name": "Halls Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Emory Road 4518",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37938;37938-3701",
+    "phone": "(865) 922-2552",
+    "hours": "",
+    "lat": 36.0850116,
+    "lng": -83.923358,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-486671938",
+    "name": "Norwood Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Merchants Drive 1110",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37912-4704",
+    "phone": "(865) 688-2454",
+    "hours": "",
+    "lat": 36.0026579,
+    "lng": -83.9831633,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-528545198",
+    "name": "Alumni Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9704748,
+    "lng": -83.9415245,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-807283413",
+    "name": "Knox County Library - Cedar Bluff",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Cross Park Drive 9045",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37923",
+    "phone": "(865) 470-7033",
+    "hours": "",
+    "lat": 35.9236433,
+    "lng": -84.0840525,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3257149005",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Kingston Pike 5307",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37919",
+    "phone": "(865) 588-8567",
+    "hours": "Mo-Sa 09:00-18:00",
+    "lat": 35.9385143,
+    "lng": -83.9906864,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4438809728",
+    "name": "KARM Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Merchant Drive 314",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37912",
+    "phone": "(865) 521-0770",
+    "hours": "Mo-Sa 09:00-21:00",
+    "lat": 36.0079024,
+    "lng": -83.9736839,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4984923683",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Charles G Seivers Boulevard 1115",
+    "city": "Clinton",
+    "state": "TN",
+    "zip": "37716",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1174415,
+    "lng": -84.1168635,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10740567834",
+    "name": "KARM Stores",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Maynardville Pike 6840",
+    "city": "Halls Crossroads",
+    "state": "TN",
+    "zip": "37918",
+    "phone": "(865) 521-0770",
+    "hours": "Mo-Sa 9:00-21:00",
+    "lat": 36.0713472,
+    "lng": -83.9256159,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12013247769",
+    "name": "KARM",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Hall Road 131",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37701",
+    "phone": "+18655210770 ext. 170",
+    "hours": "Mo-Sa 09:00-21:00",
+    "lat": 35.7670118,
+    "lng": -83.9742457,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12271105323",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.8686426,
+    "lng": -83.7527404,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12271158440",
+    "name": "Live It Thrift",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.8598013,
+    "lng": -83.7399304,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12342814769",
+    "name": "KARM Stores",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Emory Road 3501",
+    "city": "Powell",
+    "state": "TN",
+    "zip": "37849",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00",
+    "lat": 36.0203109,
+    "lng": -84.050556,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12342814772",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Clinton Highway 7623",
+    "city": "Powell",
+    "state": "TN",
+    "zip": "37849",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-18:00",
+    "lat": 36.0203901,
+    "lng": -84.0564193,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12708034901",
+    "name": "KARM Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Mountain Grove Drive 7604",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37920",
+    "phone": "+1-865-521-0770x332",
+    "hours": "Mo-Sa 09:00-21:00",
+    "lat": 35.9035129,
+    "lng": -83.8384084,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-knoxville-hygiene",
+    "name": "Pendergrass Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 35.9464615,
+    "lng": -83.9406863,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

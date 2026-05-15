@@ -1,0 +1,448 @@
+[
+  {
+    "id": "fa-209495",
+    "name": "Christian Outreach of Baton Rouge",
+    "category": "Food",
+    "description": "Main location of Christian Outreach of Baton Rouge",
+    "address": "1427 Main St.",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4520767,
+    "lng": -91.1751379,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179705",
+    "name": "East Baton Rouge Council on Aging",
+    "category": "Food",
+    "description": "Main location of East Baton Rouge Council on Aging providing food distribution services.",
+    "address": "1701 Main St.",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4522267,
+    "lng": -91.1715369,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184563",
+    "name": "St. Agnes (Missionaries of Charity)",
+    "category": "Food",
+    "description": "Food distribution location at St. Agnes",
+    "address": "749 E. Blvd.",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4413361,
+    "lng": -91.1797497,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190880",
+    "name": "St. Joseph Baptist Church Outreach Ministries",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "412 North St.",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4519487,
+    "lng": -91.1869442,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192373",
+    "name": "Catholic Charities - Baton Rouge",
+    "category": "Food",
+    "description": "Catholic Charities location in Baton Rouge providing food assistance and community services.",
+    "address": "1750 Laurel St.",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4506114,
+    "lng": -91.1703131,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206091",
+    "name": "St. James Episcopal Church",
+    "category": "Food",
+    "description": "Food distribution location at St. James Episcopal Church",
+    "address": "205 N. Fourth Street",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70801",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4484638,
+    "lng": -91.1866952,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211872",
+    "name": "Travail 6:33, Inc.",
+    "category": "Food",
+    "description": "Food distribution location in Baton Rouge, Louisiana",
+    "address": "1120 Government St. Bldg. H",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4432303,
+    "lng": -91.1762889,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226201",
+    "name": "Junior League of Baton Rouge Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Baton Rouge, LA",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70801",
+    "phone": "",
+    "hours": "",
+    "lat": 30.44954,
+    "lng": -91.18608,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-172405",
+    "name": "True Light Multi Center",
+    "category": "Food",
+    "description": "Food distribution site operated by Greater Baton Rouge Food Bank",
+    "address": "3836 N. St.",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70806",
+    "phone": "(225) 383-3912",
+    "hours": "",
+    "lat": 30.4532577,
+    "lng": -91.1511592,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210308",
+    "name": "Port Allen Food Pantry",
+    "category": "Food",
+    "description": "Food Distribution location in West Baton Rouge Parish",
+    "address": "850 7th St.",
+    "city": "Port Allen",
+    "state": "LA",
+    "zip": "70767",
+    "phone": "",
+    "hours": "",
+    "lat": 30.46028,
+    "lng": -91.2083,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211214",
+    "name": "St. Paul Catholic Church",
+    "category": "Food",
+    "description": "Food distribution location at St. Paul Catholic Church in Baton Rouge.",
+    "address": "3912 Gus Young Ave.",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4616512,
+    "lng": -91.150953,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-215623",
+    "name": "Catholic Charities - Baton Rouge",
+    "category": "Food",
+    "description": "Main food distribution location for Catholic Charities in Baton Rouge, serving East Baton Rouge Parish.",
+    "address": "1900 S. Acadian Thruway",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70808",
+    "phone": "",
+    "hours": "",
+    "lat": 30.43077,
+    "lng": -91.15487,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-9125398411",
+    "name": "BREC",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.3464847,
+    "lng": -90.9888815,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367132693",
+    "name": "Iberville Parish Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70764",
+    "phone": "",
+    "hours": "",
+    "lat": 30.265362,
+    "lng": -91.2476343,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10938737992",
+    "name": "River Center Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Boulevard 250",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4466678,
+    "lng": -91.1879228,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-155026537",
+    "name": "Hill Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4143856,
+    "lng": -91.1815122,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-155026562",
+    "name": "Middleton Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4144305,
+    "lng": -91.1800949,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-295180930",
+    "name": "Louisiana State Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North 4th Street 701",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "",
+    "lat": 30.453847,
+    "lng": -91.1879914,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-493768965",
+    "name": "Main Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Goodwood Boulevard 7711",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "",
+    "phone": "(225) 231-3740",
+    "hours": "",
+    "lat": 30.4438841,
+    "lng": -91.1072618,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-497449678",
+    "name": "Carver Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Terrace Avenue 720",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-18:00; Su 14:00-18:00",
+    "lat": 30.4359509,
+    "lng": -91.1827017,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8172806730",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "College Drive 3121",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4183325,
+    "lng": -91.1401005,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1051197095",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "O'Neal Lane 2435",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4329552,
+    "lng": -91.0069527,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-baton-rouge-hygiene",
+    "name": "Iberville Parish Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70764",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 30.265362,
+    "lng": -91.2476343,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

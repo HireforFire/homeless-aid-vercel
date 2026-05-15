@@ -1,0 +1,546 @@
+[
+  {
+    "id": "fa-174648",
+    "name": "Sacred Heart Church",
+    "category": "Food",
+    "description": "Sacred Heart Church food pantry distribution location",
+    "address": "231 E. Father Rahm Ave.",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "(915) 861-1037",
+    "hours": "",
+    "lat": 31.7535197,
+    "lng": -106.4862806,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198450",
+    "name": "Opportunity Center for the Homeless",
+    "category": "Food",
+    "description": "Main facility providing meals and services for homeless individuals",
+    "address": "1208 Myrtle Ave.",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "",
+    "hours": "",
+    "lat": 31.7640523,
+    "lng": -106.4766163,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-449691",
+    "name": "Southside HS/EHS",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (48 funded slots)",
+    "address": "609 S Tays St",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "(915) 791-4877",
+    "hours": "",
+    "lat": 31.755458,
+    "lng": -106.476449,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-130762",
+    "name": "EL PASO LEADERSHIP ACADEMY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "216 EAST OVERLAND",
+    "city": "EL PASO",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "(650) 248-6627",
+    "hours": "",
+    "lat": 31.757209,
+    "lng": -106.487343,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-177313",
+    "name": "Kelly Center for Hunger Relief",
+    "category": "Food",
+    "description": "Main food distribution location in El Paso",
+    "address": "915 Florence",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79902",
+    "phone": "",
+    "hours": "",
+    "lat": 31.766509340036,
+    "lng": -106.488816098538,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178519",
+    "name": "Alamito STREAM Center",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "508 S Virginia",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "",
+    "hours": "",
+    "lat": 31.75582128193,
+    "lng": -106.479358461909,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193553",
+    "name": "Houchen Community Center",
+    "category": "Food",
+    "description": "Food pantry distribution location at Houchen Community Center",
+    "address": "609 Tays St.",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "",
+    "hours": "",
+    "lat": 31.7556429,
+    "lng": -106.4765934,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191",
+    "name": "Rescate Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1220 E Paisano Dr",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79905",
+    "phone": "(915) 532-2575",
+    "hours": "",
+    "lat": 31.7533,
+    "lng": -106.4733,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-226337",
+    "name": "Her Pantry Ministries",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "El Paso, TX",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "",
+    "hours": "",
+    "lat": 31.7597,
+    "lng": -106.48049,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-623",
+    "name": "El Paso Community Action",
+    "category": "Food",
+    "description": "El Paso area",
+    "address": "303 N Oregon Street",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "(915) 577-0050",
+    "hours": "",
+    "lat": 31.7584,
+    "lng": -106.4883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-13580",
+    "name": "Dame La Mano Crisis Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1014 S. Virginia Street",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "(915) 546-4040",
+    "hours": "",
+    "lat": 31.7597,
+    "lng": -106.48049,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-193",
+    "name": "Proyecto Bravo",
+    "category": "Food",
+    "description": "Downtown El Paso",
+    "address": "100 N Stanton St",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "(915) 532-4021",
+    "hours": "",
+    "lat": 31.7583,
+    "lng": -106.4883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "osm-node-3998433061",
+    "name": "Smoke Pit",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 31.8014986,
+    "lng": -106.4307342,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3998435754",
+    "name": "Smoke Pit",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 31.8040634,
+    "lng": -106.4355152,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9136446734",
+    "name": "Pan De Vida, Buen Pastor",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 31.7664312,
+    "lng": -106.5518514,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-255632101",
+    "name": "Casa del Migrante",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Calle Neptuno 1855",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "+52 656 687 0676",
+    "hours": "",
+    "lat": 31.6830587,
+    "lng": -106.3791704,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2390685201",
+    "name": "Dorris Van Doren Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 31.8614982,
+    "lng": -106.5644195,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5910771658",
+    "name": "Biblioteca Regional El Correo",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Avenida Lerdo 205",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "32001",
+    "phone": "",
+    "hours": "",
+    "lat": 31.7381146,
+    "lng": -106.481744,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10125274851",
+    "name": "Biblioteca Pública No. 7912 \"Rómulo y Numa Escobar Zerman\"",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "32659",
+    "phone": "+52 656 170 4618",
+    "hours": "",
+    "lat": 31.6873472,
+    "lng": -106.4264142,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10755214333",
+    "name": "El Paso Public Library Richard Burges Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 31.886692,
+    "lng": -106.4154634,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10755218094",
+    "name": "El Paso Public Library Enrique Moreno Valle Bajo Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 31.742256,
+    "lng": -106.3787414,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12456448825",
+    "name": "Chamizal Express Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Cypress Avenue 2101",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79905",
+    "phone": "(915) 212-0780",
+    "hours": "",
+    "lat": 31.7682961,
+    "lng": -106.4629782,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12777068581",
+    "name": "Mickelson Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 31.8045377,
+    "lng": -106.436063,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13286170057",
+    "name": "Ysleta Del Sur Pueblo Education Library Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Santos Sanchez Street 11100",
+    "city": "Socorro",
+    "state": "Texas",
+    "zip": "79927",
+    "phone": "",
+    "hours": "",
+    "lat": 31.6226014,
+    "lng": -106.2935504,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13325145093",
+    "name": "Eisenberg Medical Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 31.7719048,
+    "lng": -106.4313429,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13728546644",
+    "name": "El Paso Public Library Memorial Park",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Copper Avenue 3200",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "(915) 212-0448",
+    "hours": "",
+    "lat": 31.7901909,
+    "lng": -106.4554199,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5879253485",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 31.8287928,
+    "lng": -106.5299217,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-el-paso-hygiene",
+    "name": "Dorris Van Doren Branch - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 31.8614982,
+    "lng": -106.5644195,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "id": "fa-197078",
+    "name": "Volunteers of America Youth Resource Center",
+    "category": "Food",
+    "description": "Youth Resource Center providing meal services for homeless and at-risk youth. Handicapped accessible.",
+    "address": "888 S. 400 W.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7500854,
+    "lng": -111.9031027,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-451413",
+    "name": "Central City",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
+    "address": "615 S 300 E",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(385) 468-1558",
+    "hours": "",
+    "lat": 40.755609,
+    "lng": -111.881839,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-131019",
+    "name": "ALIANZA ACADEMY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "420 EAST SOUTH TEMPLE",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 363-0946",
+    "hours": "",
+    "lat": 40.768746,
+    "lng": -111.879669,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-131046",
+    "name": "OPEN CLASSROOM",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "134 D ST",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "zip": "84103",
+    "phone": "(801) 578-8144",
+    "hours": "",
+    "lat": 40.772246,
+    "lng": -111.879069,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-131051",
+    "name": "SALT LAKE SCHOOL DISTRICT",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "440 EAST 100 SOUTH",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 578-8599",
+    "hours": "",
+    "lat": 40.766646,
+    "lng": -111.879869,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-189173",
+    "name": "Justice Economic Dignity: Independence For Women - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center location",
+    "address": "352 Denver St Suite 100",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7615342,
+    "lng": -111.8785367,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201259",
+    "name": "Ebenezer Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location providing food distribution services",
+    "address": "820 S 300 E",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7513268,
+    "lng": -111.8828576,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202156",
+    "name": "Liberty Senior Center",
+    "category": "Food",
+    "description": "Senior center location providing food distribution services.",
+    "address": "251 East 700 South",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7545444,
+    "lng": -111.8837659,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226251",
+    "name": "Utah Food Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance.",
+    "address": "Salt Lake City, UT",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "",
+    "hours": "",
+    "lat": 40.75628,
+    "lng": -111.89996,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-182762",
+    "name": "Tenth East Senior Center",
+    "category": "Food",
+    "description": "Senior meal site serving lunch to seniors 60 years and older. Handicapped accessible facility.",
+    "address": "237 S. 1000 E.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84102",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7639553,
+    "lng": -111.8618424,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184203",
+    "name": "St. Paul's Episcopal Church Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at St. Paul's Episcopal Church",
+    "address": "261 S 900 E",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84102",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7634864,
+    "lng": -111.8653408,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194455",
+    "name": "Salt Lake City Mission",
+    "category": "Food",
+    "description": "Food pantry location serving Davis, Salt Lake, Utah, and Weber County residents.",
+    "address": "1151 South Redwood Rd.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84104",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7441755,
+    "lng": -111.9383692,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-356682323",
+    "name": "Rescue Mission of Salt Lake Men's Facility",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "South 400 West 363",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "(801) 355-1302",
+    "hours": "",
+    "lat": 40.7590671,
+    "lng": -111.9022463,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6852371242",
+    "name": "Prospect Point Terrace",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.767756,
+    "lng": -111.8233404,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366385677",
+    "name": "Saint Marks Hospital Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6860692,
+    "lng": -111.8571532,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366385695",
+    "name": "Millcreek Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Evergreen Avenue 2266",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84109",
+    "phone": "(385) 468-1380",
+    "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-18:00",
+    "lat": 40.6962,
+    "lng": -111.8267,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2251329945",
+    "name": "Holladay Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Murray Holladay Road 2150",
+    "city": "Holladay",
+    "state": "UT",
+    "zip": "84117",
+    "phone": "(801) 943-4643",
+    "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-18:00",
+    "lat": 40.6661762,
+    "lng": -111.828693,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2350425061",
+    "name": "Abraham Markosian Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6725015,
+    "lng": -111.944333,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9842121618",
+    "name": "Granite Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South 500 East 3331",
+    "city": "South Salt Lake",
+    "state": "UT",
+    "zip": "84106",
+    "phone": "",
+    "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-18:00",
+    "lat": 40.6992601,
+    "lng": -111.875931,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-33153617",
+    "name": "Church History Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East North Temple Street 15",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84103",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7720814,
+    "lng": -111.8904251,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-33162725",
+    "name": "Family History Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Temple 32",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84150",
+    "phone": "(801) 240-6996",
+    "hours": "Tu-Th 09:00-20:00; Mo,Fr,Sa 09:00-18:00",
+    "lat": 40.7701892,
+    "lng": -111.8944896,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-33194160",
+    "name": "Salt Lake City Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East 400 South 210",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 524-8200",
+    "hours": "Mo-Th 10:00-20:00; Fr,Sa 10:00-18:00; Su 11:00-17:00",
+    "lat": 40.7597641,
+    "lng": -111.884354,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-33632388",
+    "name": "J. Willard Marriott Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South 1500 East 295",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 07:30-20:00; Sa 09:00-20:00; Su 12:00-20:00",
+    "lat": 40.7624828,
+    "lng": -111.8461786,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6603330484",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South State Street 6042",
+    "city": "Murray",
+    "state": "UT",
+    "zip": "84107",
+    "phone": "",
+    "hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
+    "lat": 40.6396195,
+    "lng": -111.890472,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7928632801",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "",
+    "phone": "(801) 263-0136",
+    "hours": "Tu-Sa 10:00-17:30",
+    "lat": 40.7420683,
+    "lng": -111.90591,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9698564594",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Redwood Road 6980",
+    "city": "West Jordan",
+    "state": "UT",
+    "zip": "84084",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6245531,
+    "lng": -111.9405334,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9698962432",
+    "name": "Deseret Industries",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6208187,
+    "lng": -111.9398662,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-154377484",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South 900 East 4545",
+    "city": "Millcreek",
+    "state": "UT",
+    "zip": "84117",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 40.6731765,
+    "lng": -111.8648045,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-195059059",
+    "name": "Deseret Industries",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Glen Eagle Drive 2994",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84128",
+    "phone": "(801) 963-3907",
+    "hours": "Mo-Sa 09:00-18:00; Su off",
+    "lat": 40.7060622,
+    "lng": -112.0275905,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-salt-lake-city-hygiene",
+    "name": "Saint Marks Hospital Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6860692,
+    "lng": -111.8571532,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

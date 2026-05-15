@@ -1,0 +1,515 @@
+[
+  {
+    "id": "fa-172788",
+    "name": "First Presbyterian Church - Bakersfield",
+    "category": "Food",
+    "description": "Food distribution location at First Presbyterian Church",
+    "address": "1705 17th Street",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "(661) 325-9419",
+    "hours": "",
+    "lat": 35.3740889,
+    "lng": -119.0220112,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175589",
+    "name": "Catholic Charities, Northeast-Commodity",
+    "category": "Food",
+    "description": "Catholic Charities commodity food distribution location in Northeast Bakersfield.",
+    "address": "809 Chester Ave.",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "",
+    "hours": "",
+    "lat": 35.365025706294,
+    "lng": -119.019270920669,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208061",
+    "name": "Village Park Place",
+    "category": "Food",
+    "description": "Senior food distribution location in Bakersfield",
+    "address": "2300 R Street",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3806672,
+    "lng": -119.0091665,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218697",
+    "name": "The Salvation Army - 19Th Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "200 19th Street",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "(661) 325-8626",
+    "hours": "",
+    "lat": 35.38428,
+    "lng": -119.02057,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224956",
+    "name": "First Presbyterian Church Food pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1705 17th Street",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "(661) 325-9419",
+    "hours": "",
+    "lat": 35.3743439,
+    "lng": -119.0220108,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-447899",
+    "name": "CLEO FORAN CDC",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (15 funded slots)",
+    "address": "1410 11th St",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93304",
+    "phone": "(661) 336-5272",
+    "hours": "",
+    "lat": 35.367736,
+    "lng": -119.01797,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-447914",
+    "name": "18th St HB",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (60 funded slots)",
+    "address": "1300 18th St Ste 200",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "(661) 336-5236",
+    "hours": "",
+    "lat": 35.375534,
+    "lng": -119.016756,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-447936",
+    "name": "GARDEN PATHWAYS",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (11 funded slots)",
+    "address": "1130 17th St",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "(661) 633-2302",
+    "hours": "",
+    "lat": 35.374597,
+    "lng": -119.014995,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-175337",
+    "name": "The River - Vineyard Christian",
+    "category": "Food",
+    "description": "The River - Vineyard Christian facility located in Bakersfield, California.",
+    "address": "928 17th St",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "",
+    "hours": "",
+    "lat": 35.374557690404,
+    "lng": -119.01253329544,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175472",
+    "name": "CAPK Energy Program",
+    "category": "Food",
+    "description": "Main office location of CAPK Energy Program in Bakersfield, California.",
+    "address": "300 19th St.",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "",
+    "hours": "",
+    "lat": 35.376440559223,
+    "lng": -119.005250092133,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176023",
+    "name": "Hope Now Inc.",
+    "category": "Food",
+    "description": "Main distribution location for Hope Now Inc.",
+    "address": "1514 California Ave",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93306",
+    "phone": "",
+    "hours": "",
+    "lat": 35.368806489449,
+    "lng": -119.019426153516,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176087",
+    "name": "Goodness & Mercy Ministries",
+    "category": "Food",
+    "description": "Main facility for Goodness & Mercy Ministries located in Bakersfield.",
+    "address": "1111 California Ave.",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93304",
+    "phone": "",
+    "hours": "",
+    "lat": 35.368065193933,
+    "lng": -119.014401621658,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-way-230491573",
+    "name": "Flying J",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.5318013,
+    "lng": -119.1877059,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-230491574",
+    "name": "Flying J",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.5312359,
+    "lng": -119.1874739,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-251120745",
+    "name": "Westdale Park Picnic Sheltered Patio",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3707279,
+    "lng": -119.1615174,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-319020220",
+    "name": "Richardson Child Development Center",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3499861,
+    "lng": -118.9800434,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170154",
+    "name": "Rathbun Branch Kern County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.4263464,
+    "lng": -119.0239897,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170155",
+    "name": "Baker Street Branch Kern County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3832916,
+    "lng": -118.9906558,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170158",
+    "name": "Eleanor N Wilson Branch Kern County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3319042,
+    "lng": -119.023991,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170159",
+    "name": "Kern County Hall of Records Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3741254,
+    "lng": -119.0173235,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170228",
+    "name": "Arvin Branch Kern County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2096845,
+    "lng": -118.8289866,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170229",
+    "name": "Mercy Hospital Medical Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3727366,
+    "lng": -119.0273239,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170230",
+    "name": "Kern County Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3724588,
+    "lng": -119.0181569,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170231",
+    "name": "Holloway-Gonzale Branch Kern County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3541257,
+    "lng": -118.9987121,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170232",
+    "name": "Lamont Branch Kern County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2566279,
+    "lng": -118.9117666,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13337804254",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3406893,
+    "lng": -119.0490546,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-bakersfield-hygiene",
+    "name": "Rathbun Branch Kern County Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.4263464,
+    "lng": -119.0239897,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

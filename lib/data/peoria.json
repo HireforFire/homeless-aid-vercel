@@ -1,0 +1,641 @@
+[
+  {
+    "id": "fa-174798",
+    "name": "Peoria Friendship House",
+    "category": "Food",
+    "description": "Peoria Friendship House location providing food distribution services",
+    "address": "800 NE Madison Ave.",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61603",
+    "phone": "(309) 671-5200",
+    "hours": "",
+    "lat": 40.699023,
+    "lng": -89.5826954,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190698",
+    "name": "Bethel UMC",
+    "category": "Food",
+    "description": "Bethel United Methodist Church - food pantry and meal site location",
+    "address": "210 N. Richard Pryor Pl.",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61605",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6907349,
+    "lng": -89.6031261,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195082",
+    "name": "Sophia's Kitchen",
+    "category": "Food",
+    "description": "Main facility providing soup kitchen, pet pantry, and food pantry services.",
+    "address": "105 S. Richard Pryor Pl.",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61605",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6890747,
+    "lng": -89.6043037,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173601",
+    "name": "Jerry Colgan Memorial FP",
+    "category": "Food",
+    "description": "Jerry Colgan Memorial Food Pantry",
+    "address": "1316 W. Columbia Terrace",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61606",
+    "phone": "(309) 673-1330",
+    "hours": "",
+    "lat": 40.7029032,
+    "lng": -89.6142152,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-222980",
+    "name": "The Salvation Army Peoria",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "414 NE Jefferson St",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61603",
+    "phone": "(309) 655-7272",
+    "hours": "",
+    "lat": 40.6953599,
+    "lng": -89.5860596,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-448367",
+    "name": "CityLink Early Learning Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (55 funded slots)",
+    "address": "415 SW Adams St",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61602",
+    "phone": "(309) 671-3960",
+    "hours": "",
+    "lat": 40.689019,
+    "lng": -89.5943,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-187458",
+    "name": "Grace Baptist Church - Hands of Grace",
+    "category": "Food",
+    "description": "Food pantry location at Grace Baptist Church",
+    "address": "405 North Richard Pryor Place",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61605",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6858293,
+    "lng": -89.6038034,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211318",
+    "name": "Unity House of Prayer",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "815 NE Perry Ave.",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61603",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7017339,
+    "lng": -89.5844843,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172022",
+    "name": "House of Hope Peoria, Inc.",
+    "category": "Food",
+    "description": "Main food pantry distribution location",
+    "address": "514 S. Shelley St.",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61605",
+    "phone": "(309) 922-9390",
+    "hours": "",
+    "lat": 40.682452,
+    "lng": -89.6170393,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172438",
+    "name": "Mt. Zion Baptist Church",
+    "category": "Food",
+    "description": "Mt. Zion Baptist Church food pantry location",
+    "address": "305 S. Madison Park Terrace",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61605",
+    "phone": "(309) 674-4379",
+    "hours": "",
+    "lat": 40.6855823,
+    "lng": -89.626599,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185448",
+    "name": "West Mark Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location in Peoria",
+    "address": "1420 W. Moss Ave.",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61606",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6930831,
+    "lng": -89.615354,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188761",
+    "name": "Neighborhood House",
+    "category": "Food",
+    "description": "Food pantry, soup kitchen, and meal service location",
+    "address": "1020 S. Matthew St.",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61605",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6768007,
+    "lng": -89.6190249,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-1467829836",
+    "name": "Tremont Park District Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.5285767,
+    "lng": -89.4896082,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5619782970",
+    "name": "Villas of Holly Brook Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7199463,
+    "lng": -89.4403751,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12421680495",
+    "name": "Harold J. Rust Transitional Center - Pekin Salvation Army",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.5568741,
+    "lng": -89.656417,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-63522316",
+    "name": "Prairie Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7559416,
+    "lng": -89.6948003,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6568971445",
+    "name": "Fondulac District Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Richland Street 400",
+    "city": "East Peoria",
+    "state": "IL",
+    "zip": "61611",
+    "phone": "(309) 699-3917",
+    "hours": "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su 13:00-17:00",
+    "lat": 40.6706789,
+    "lng": -89.5858284,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9351717656",
+    "name": "Illinois Prairie District Public Library Germantown Hills",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Woodland Knolls Road 509",
+    "city": "Germantown Hills",
+    "state": "IL",
+    "zip": "61548",
+    "phone": "",
+    "hours": "Mo-Th 10:00-19:00; Fr 10:00-17:00; Sa 10:00-15:00",
+    "lat": 40.7673482,
+    "lng": -89.4743744,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12874281256",
+    "name": "Marquette Heights Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Lincoln Road 715",
+    "city": "Marquette Heights",
+    "state": "IL",
+    "zip": "61554",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6170335,
+    "lng": -89.602412,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12878190719",
+    "name": "Washington District Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Washington Plaza 16",
+    "city": "Washington",
+    "state": "IL",
+    "zip": "61571",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6926827,
+    "lng": -89.481235,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-63728260",
+    "name": "McClure Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West McClure Avenue 315",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61604",
+    "phone": "",
+    "hours": "",
+    "lat": 40.717929,
+    "lng": -89.5981347,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-63906085",
+    "name": "Lakeview Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Lake Avenue 1137",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "",
+    "phone": "(309) 497-2200",
+    "hours": "Mo-We 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-17:00",
+    "lat": 40.7409928,
+    "lng": -89.6118566,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-64504803",
+    "name": "Cullom-Davis Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Bradley Avenue 1511",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61625",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6968562,
+    "lng": -89.6166801,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-65051611",
+    "name": "Lincoln Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Lincoln Avenue 1312",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61605",
+    "phone": "",
+    "hours": "Mo-Tu, Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-17:00",
+    "lat": 40.6806938,
+    "lng": -89.6143957,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-65927633",
+    "name": "Alpha Park Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Airport Road 3527",
+    "city": "Bartonville",
+    "state": "IL",
+    "zip": "61607",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6459373,
+    "lng": -89.6809583,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-203259390",
+    "name": "Peoria Public Library—North Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Grand Parkway 3001",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61515",
+    "phone": "",
+    "hours": "Mo 10:00-20:00,We 10:00-20:00,Th 10:00-20:00,Fr 10:00-18:00,Sa 10:00-18:00,Su 12:00-17:00",
+    "lat": 40.8006049,
+    "lng": -89.6390056,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12398884749",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.547788,
+    "lng": -89.6035515,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12414282673",
+    "name": "Tara Beeney Blessing Room",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.5564071,
+    "lng": -89.6561043,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12805712210",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Douglas Street 931",
+    "city": "Peoria",
+    "state": "il",
+    "zip": "61606",
+    "phone": "(309) 676-6729",
+    "hours": "Tu-Sa 09:00-17:00",
+    "lat": 40.6994891,
+    "lng": -89.6053377,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13583460301",
+    "name": "Forever Home Resale Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Sterling Avenue 3809",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61615",
+    "phone": "(309) 446-9721",
+    "hours": "Tu-Sa 11:00-16:00",
+    "lat": 40.73399,
+    "lng": -89.632495,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-238913761",
+    "name": "Upscale Resale",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Main Street 109",
+    "city": "Morton",
+    "state": "IL",
+    "zip": "61550",
+    "phone": "(309) 266-6089",
+    "hours": "",
+    "lat": 40.6102757,
+    "lng": -89.4622557,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-247559011",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Cummings Lane 301",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61571",
+    "phone": "(309) 444-9232",
+    "hours": "Mo-Sa 09:00-20:00; Su 11:00-17:00",
+    "lat": 40.7084349,
+    "lng": -89.4449101,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-peoria-hygiene",
+    "name": "Fondulac District Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Richland Street 400",
+    "city": "East Peoria",
+    "state": "IL",
+    "zip": "61611",
+    "phone": "",
+    "hours": "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su 13:00-17:00",
+    "lat": 40.6706789,
+    "lng": -89.5858284,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

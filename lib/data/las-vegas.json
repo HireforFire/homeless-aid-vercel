@@ -1,0 +1,649 @@
+[
+  {
+    "id": "fa-170379",
+    "name": "Veteran's Village",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "1150 S Las Vegas Blvd.",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89104",
+    "phone": "(702) 222-1680",
+    "hours": "",
+    "lat": 36.1573758,
+    "lng": -115.1486598,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170418",
+    "name": "Restoration & Recovery",
+    "category": "Food",
+    "description": "Food pantry location serving Clark County residents",
+    "address": "1721 E Charleston Blvd.",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89104",
+    "phone": "(702) 302-4288",
+    "hours": "",
+    "lat": 36.1591135,
+    "lng": -115.1280498,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170512",
+    "name": "Church on the Street",
+    "category": "Food",
+    "description": "Food pantry location serving Clark County residents",
+    "address": "919 E Ogden Ave.",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89101",
+    "phone": "(702) 474-4439",
+    "hours": "",
+    "lat": 36.1681776,
+    "lng": -115.1343731,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170615",
+    "name": "St. Joseph Catholic Church",
+    "category": "Food",
+    "description": "Food pantry location at St. Joseph Catholic Church. Drive-through and walk-up access available. Handicapped accessible.",
+    "address": "131 N 9th St.",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89101",
+    "phone": "(702) 384-1223",
+    "hours": "",
+    "lat": 36.1683746,
+    "lng": -115.1356826,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171218",
+    "name": "Las Vegas Rescue Mission",
+    "category": "Food",
+    "description": "Main food pantry location providing food assistance services.",
+    "address": "480 W Bonanza Rd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89106",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1775497,
+    "lng": -115.1475945,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171263",
+    "name": "Mt. Liberty Missionary Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Mt. Liberty Missionary Baptist Church. Handicapped accessible.",
+    "address": "330 N 9th St.",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89101",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1707192,
+    "lng": -115.1336783,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171436",
+    "name": "Greater New Jerusalem Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Greater New Jerusalem Baptist Church",
+    "address": "308 Jefferson Ave.",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89106",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1831558,
+    "lng": -115.1465101,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171480",
+    "name": "Changing Direction Community Food Pantry - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center providing pantry services to the community.",
+    "address": "1431 E Charleston Blvd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89104",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1595812,
+    "lng": -115.13263359999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-222493",
+    "name": "Changing Direction Outreach Ministry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "1431 E. Charleston Blvd suite 17",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89104",
+    "phone": "(702) 444-6862",
+    "hours": "",
+    "lat": 36.15942,
+    "lng": -115.1329117,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-170350",
+    "name": "Consulate of Mexico - Las Vegas",
+    "category": "Food",
+    "description": "Food pantry location offering drive-thru service",
+    "address": "823 S 6th St.",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89101",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1594884,
+    "lng": -115.1453636,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170996",
+    "name": "Iglesia Beraca USA",
+    "category": "Food",
+    "description": "Food pantry location in Las Vegas",
+    "address": "1203 E Charleston Blvd.",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89104",
+    "phone": "",
+    "hours": "",
+    "lat": 36.159636,
+    "lng": -115.1363883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171582",
+    "name": "Reconciliation Apostolic Ministries",
+    "category": "Food",
+    "description": "Food pantry location serving Clark County residents",
+    "address": "911 G St.",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89106",
+    "phone": "",
+    "hours": "",
+    "lat": 36.181048,
+    "lng": -115.1509907,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-302150967",
+    "name": "Sahara West Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.145271,
+    "lng": -115.3047067,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-303572100",
+    "name": "Rainbow Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Cheyenne Avenue 3150",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89128",
+    "phone": "(702) 507-3710",
+    "hours": "Mo-Th 10:00-18:00; Fr-Su 10:00-20:00",
+    "lat": 36.2173101,
+    "lng": -115.259304,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366087912",
+    "name": "Meadows Village Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.146986,
+    "lng": -115.1601158,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1699968678",
+    "name": "Windmill Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Windmill Lane 7060",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89113",
+    "phone": "(702) 507-6030",
+    "hours": "Mo-Th 10:00-20:00; Fr-Su 10:00-18:00",
+    "lat": 36.042411,
+    "lng": -115.246324,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3054878931",
+    "name": "Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0381931,
+    "lng": -115.2470688,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5250921239",
+    "name": "Nuclear Testing Archive-Public Reading Facility",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.114062,
+    "lng": -115.1480681,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-27503892",
+    "name": "Spring Valley Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Jones Boulevard 4280",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89103",
+    "phone": "(702) 507-3820",
+    "hours": "Mo-Th 10:00-20:00; Fr-Su 10:00-18:00",
+    "lat": 36.1114055,
+    "lng": -115.2242835,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-27525255",
+    "name": "Lied Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1071336,
+    "lng": -115.1423638,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-130194183",
+    "name": "Sunrise Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Harris Avenue 5400",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89110",
+    "phone": "(702) 507-3900",
+    "hours": "",
+    "lat": 36.1783638,
+    "lng": -115.0547828,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-130208309",
+    "name": "North Las Vegas Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.2004057,
+    "lng": -115.1177733,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-455235121",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0502825,
+    "lng": -115.1711801,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3190959292",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Tropicana Avenue 3345",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89121",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0988737,
+    "lng": -115.1029969,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5358997543",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Eastern Avenue 9230",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89123",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0213225,
+    "lng": -115.1170868,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8747365117",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Su 10:00-19:00",
+    "lat": 36.1454006,
+    "lng": -115.203423,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8749827289",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00",
+    "lat": 36.1453908,
+    "lng": -115.203177,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9760216107",
+    "name": "Faith Lutheran Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Rainbow Boulevard 2211",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89146",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1475969,
+    "lng": -115.2440086,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9981891011",
+    "name": "Donation Drop Spot",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0275611,
+    "lng": -115.0855523,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-372750495",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1660014,
+    "lng": -115.060564,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-555028884",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "American Pacific Drive 1390",
+    "city": "Henderson",
+    "state": "NV",
+    "zip": "89074",
+    "phone": "(702) 214-2097",
+    "hours": "",
+    "lat": 36.042279,
+    "lng": -115.0459654,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-839524408",
+    "name": "YMCA",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.168745,
+    "lng": -115.196448,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-las-vegas-shelter",
+    "name": "Las Vegas Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24/7",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-las-vegas-hygiene",
+    "name": "Sahara West Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.145271,
+    "lng": -115.3047067,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

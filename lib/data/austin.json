@@ -1,0 +1,661 @@
+[
+  {
+    "id": "fa-192919",
+    "name": "Austin Baptist Chapel",
+    "category": "Food",
+    "description": "Hot/Cold Meal Program location affiliated with Central Texas Food Bank.",
+    "address": "908 E. Cesar Chavez St.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "phone": "",
+    "hours": "",
+    "lat": 30.26096,
+    "lng": -97.7348,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212890",
+    "name": "Austin Public Library- Backpack Program",
+    "category": "Food",
+    "description": "Austin Public Library location providing children's backpack program distribution.",
+    "address": "710 W. Cesar Chavez St.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2657085,
+    "lng": -97.7519092,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-455269",
+    "name": "Sanchez Elementary School",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (17 funded slots)",
+    "address": "73 San Marcos St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "phone": "(512) 414-4423",
+    "hours": "",
+    "lat": 30.257992,
+    "lng": -97.735056,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-178911",
+    "name": "Austin Public Library",
+    "category": "Food",
+    "description": "Food distribution location at Austin Public Library.",
+    "address": "710 West Cesar Chavez Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "",
+    "hours": "",
+    "lat": 30.265697,
+    "lng": -97.75178,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192792",
+    "name": "HACA - Lakeside",
+    "category": "Food",
+    "description": "HACA - Lakeside older adult food program location affiliated with Central Texas Food Bank.",
+    "address": "85 Trinity St.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "",
+    "hours": "",
+    "lat": 30.261563,
+    "lng": -97.740741,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196945",
+    "name": "Trinity Center",
+    "category": "Food",
+    "description": "Trinity Center meal service location in downtown Austin",
+    "address": "304 East 7th Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "",
+    "hours": "",
+    "lat": 30.268379,
+    "lng": -97.739814,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205642",
+    "name": "Our Lady of Guadalupe Catholic Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at Our Lady of Guadalupe Catholic Church",
+    "address": "1206 E. 9th St.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "phone": "",
+    "hours": "",
+    "lat": 30.266776,
+    "lng": -97.7278793,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-163",
+    "name": "Salvation Army - Austin",
+    "category": "Food",
+    "description": "Walk-ins welcome",
+    "address": "501 E 8th St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 476-1111",
+    "hours": "",
+    "lat": 30.2677,
+    "lng": -97.739,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-169",
+    "name": "Trinity Center",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "304 E 7th St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 472-1231",
+    "hours": "",
+    "lat": 30.2683,
+    "lng": -97.7383,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-172237",
+    "name": "Pathways at Goodrich Place",
+    "category": "Food",
+    "description": "Senior food distribution site (Seniors Only)",
+    "address": "2126 Goodrich Ave.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78704",
+    "phone": "(855) 366-3401",
+    "hours": "",
+    "lat": 30.2484012,
+    "lng": -97.7750068,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175143",
+    "name": "Foundation Communities - M Station",
+    "category": "Food",
+    "description": "Food Pantry located outside of leasing office at M Station",
+    "address": "2906 E. Martin Luther King Blvd.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "phone": "(512) 617-3037",
+    "hours": "",
+    "lat": 30.2830432,
+    "lng": -97.7079826,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189904",
+    "name": "East Austin Neighborhood Center",
+    "category": "Food",
+    "description": "City of Austin neighborhood center providing food distribution services",
+    "address": "211 Comal St.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2594978,
+    "lng": -97.7274974,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-368162040",
+    "name": "Texas State Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2762364,
+    "lng": -97.741983,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2667102948",
+    "name": "Garfield Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.1878834,
+    "lng": -97.5605691,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4826271539",
+    "name": "Lantana Free Tiny Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2481061,
+    "lng": -97.874167,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8093097715",
+    "name": "Westlake Highschool Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2760098,
+    "lng": -97.8140618,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9891844033",
+    "name": "Bee Cave Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Galleria Parkway 4000",
+    "city": "Bee Cave",
+    "state": "TX",
+    "zip": "78738",
+    "phone": "",
+    "hours": "Tu, Th-Sa 10:00-17:00; We 10:00-19:00",
+    "lat": 30.3085389,
+    "lng": -97.9398508,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9956137736",
+    "name": "Austin Public Library - St. John Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Blessing Avenue 7500",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78752",
+    "phone": "",
+    "hours": "",
+    "lat": 30.332052,
+    "lng": -97.6937228,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10767442605",
+    "name": "Buda Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Loop Street 405",
+    "city": "Buda",
+    "state": "TX",
+    "zip": "78610",
+    "phone": "(512) 295-5899",
+    "hours": "",
+    "lat": 30.0868596,
+    "lng": -97.8371606,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12827359564",
+    "name": "Library Box",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2718597,
+    "lng": -97.7746477,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12923867753",
+    "name": "Perry-Castañeda Library Map Collection",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East 21st Street 101",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78712",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2828335,
+    "lng": -97.7385054,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-25795473",
+    "name": "Perry-Castañeda Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East 21st Street 101",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78705",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2827575,
+    "lng": -97.7381944,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1706120116",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Parmer Lane 1700",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78727",
+    "phone": "(512) 719-4119",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+    "lat": 30.4128571,
+    "lng": -97.687312,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2644083875",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Pleasant Valley Road 1819",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78741",
+    "phone": "(512) 389-0547",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+    "lat": 30.2343907,
+    "lng": -97.7207296,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3332363595",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Lamar Boulevard suite #B100 5555",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78751",
+    "phone": "(512) 451-2306",
+    "hours": "",
+    "lat": 30.3239455,
+    "lng": -97.726421,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5268865302",
+    "name": "Goodwill Distribution Center - North Outlet",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Scarbrough Drive 2300",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4635403,
+    "lng": -97.6716043,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6125550591",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Su 10:00-20:00",
+    "lat": 30.2353445,
+    "lng": -97.7913827,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8282184612",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Anderson Lane 2900",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78757",
+    "phone": "(512) 637-7521",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+    "lat": 30.3601455,
+    "lng": -97.7369254,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8336335012",
+    "name": "Society of St. Vincent de Paul Boutique and Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Braker Lane 901",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78753",
+    "phone": "(512) 442-5652",
+    "hours": "Mo-Sa 09:00-19:00",
+    "lat": 30.3821977,
+    "lng": -97.6894127,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11180357614",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Lake Austin Boulevard 2411",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.278212,
+    "lng": -97.7731642,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-52718288",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Congress Avenue 4216",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78745",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2208168,
+    "lng": -97.7668995,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-72463713",
+    "name": "Goodwill / Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4389267,
+    "lng": -97.780759,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-austin-shelter",
+    "name": "Austin Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-austin-hygiene",
+    "name": "Texas State Law Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 30.2762364,
+    "lng": -97.741983,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

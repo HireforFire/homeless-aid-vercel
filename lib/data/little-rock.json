@@ -1,0 +1,573 @@
+[
+  {
+    "id": "fa-174701",
+    "name": "Holy Temple Church of God in Christ",
+    "category": "Food",
+    "description": "Food pantry location at Holy Temple Church of God in Christ",
+    "address": "1322 S. Pulaski St.",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72202",
+    "phone": "(501) 372-8662",
+    "hours": "",
+    "lat": 34.7376457,
+    "lng": -92.287428,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206129",
+    "name": "Allison Presbyterian Church",
+    "category": "Food",
+    "description": "Food pantry location at Allison Presbyterian Church",
+    "address": "922 Wright Ave.",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72206",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7320384,
+    "lng": -92.2841427,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211929",
+    "name": "Philander Smith College",
+    "category": "Food",
+    "description": "Food distribution location at Philander Smith College",
+    "address": "900 W. Daisy L. Bates Dr.",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72202",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7359274,
+    "lng": -92.2975183,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174256",
+    "name": "St John Baptist Church - LR",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "2501 S. Main St.",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72204",
+    "phone": "(501) 529-9206",
+    "hours": "",
+    "lat": 34.7240069,
+    "lng": -92.2738762,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194058",
+    "name": "Union AME Church",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1825 S. Pulaski St.",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72206",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7322457,
+    "lng": -92.2877147,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196493",
+    "name": "Liberty Hill Missionary Baptist - LR",
+    "category": "Food",
+    "description": "Food distribution location at Liberty Hill Missionary Baptist church in Little Rock",
+    "address": "1215 Schiller St",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72202",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7390027,
+    "lng": -92.2959932,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172546",
+    "name": "Next Step Inc",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1923 S. Arch St.",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72206",
+    "phone": "(501) 350-4170",
+    "hours": "",
+    "lat": 34.7297745,
+    "lng": -92.2796274,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173145",
+    "name": "St Johns Baptist Church- East",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "1920 E. 6th St.",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72202",
+    "phone": "(501) 940-7479",
+    "hours": "",
+    "lat": 34.741787,
+    "lng": -92.2491919,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173221",
+    "name": "Holy Cross MED",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "4821 W. 11th St.",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72204",
+    "phone": "(501) 666-2060",
+    "hours": "",
+    "lat": 34.7412034,
+    "lng": -92.3280004,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174419",
+    "name": "Quapaw Quarter UMC",
+    "category": "Food",
+    "description": "Main location for community meals and sack lunch services at Quapaw Quarter United Methodist Church.",
+    "address": "1601 S. Louisiana St.",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72206",
+    "phone": "(501) 375-1600",
+    "hours": "",
+    "lat": 34.7332309,
+    "lng": -92.2741426,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190335",
+    "name": "River City Ministry",
+    "category": "Food",
+    "description": "Food distribution and meal program location",
+    "address": "1021 E. Washington Ave.",
+    "city": "North Little Rock",
+    "state": "AR",
+    "zip": "72114",
+    "phone": "",
+    "hours": "",
+    "lat": 34.754067,
+    "lng": -92.25623,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192893",
+    "name": "Pilgrim Progress Baptist Church",
+    "category": "Food",
+    "description": "Main food distribution and meal service location",
+    "address": "1401 N. Magnolia St.",
+    "city": "North Little Rock",
+    "state": "AR",
+    "zip": "72114",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7672933,
+    "lng": -92.2651951,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-367130964",
+    "name": "Bryant Branch Saline County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.5981487,
+    "lng": -92.4887691,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5579254359",
+    "name": "Millie Brooks Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.6291355,
+    "lng": -92.2231295,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10707946872",
+    "name": "Little Rock Air Force Base Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.8958171,
+    "lng": -92.1387784,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-130061671",
+    "name": "Central Arkansas Library System - Main Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Rock Street 100",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72201",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7469833,
+    "lng": -92.2674172,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-265700525",
+    "name": "Argenta Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Main Street 420",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72114",
+    "phone": "(501) 687-1061",
+    "hours": "",
+    "lat": 34.7577856,
+    "lng": -92.2673887,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-278870520",
+    "name": "A. W. Young Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Pine Street 700",
+    "city": "North Little Rock",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7601699,
+    "lng": -92.2601246,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-297754201",
+    "name": "Ottenheimer Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South University Avenue 2801",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72204",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7232713,
+    "lng": -92.3397224,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-436811415",
+    "name": "Oley E. Rooker Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72210",
+    "phone": "",
+    "hours": "",
+    "lat": 34.6588528,
+    "lng": -92.4261672,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-436811417",
+    "name": "Hillary Rodham Clinton Children's Library & Learning Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West 10th Street 4800",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72204",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7436508,
+    "lng": -92.3281518,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-446329943",
+    "name": "John Gould Fletcher Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Buchanan Street 823",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72205",
+    "phone": "",
+    "hours": "Mo 09:00-20:00; Tu 09:00-18:00; We 09:00-20:00; Th-Sa 09:00-18:00",
+    "lat": 34.7591136,
+    "lng": -92.3383196,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7234483816",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "North Little Rock",
+    "state": "AR",
+    "zip": "72116",
+    "phone": "",
+    "hours": "",
+    "lat": 34.8204696,
+    "lng": -92.2375445,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13046007258",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "T P White Drive 1309",
+    "city": "Jacksonville",
+    "state": "AR",
+    "zip": "72076",
+    "phone": "(501) 985-2645",
+    "hours": "",
+    "lat": 34.880039,
+    "lng": -92.1112419,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-376465191",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Cantrell Road 7001",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72207",
+    "phone": "(501) 280-0863",
+    "hours": "Mo-Sa 08:00-19:00; Su 10:00-18:00",
+    "lat": 34.7691686,
+    "lng": -92.3531469,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-380400767",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Markham Street 1111",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72201",
+    "phone": "(501) 374-9296",
+    "hours": "Mo-Fr 08:30-16:00",
+    "lat": 34.7495295,
+    "lng": -92.283026,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1167673055",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South University Avenue 6700",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72209",
+    "phone": "(501) 771-9494",
+    "hours": "Tu-Sa 09:00-17:00",
+    "lat": 34.6881612,
+    "lng": -92.3494989,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1217210338",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7432765,
+    "lng": -92.407786,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-little-rock-shelter",
+    "name": "Little Rock Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "address": "",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24/7",
+    "lat": 34.7465,
+    "lng": -92.2896,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-little-rock-hygiene",
+    "name": "Bryant Branch Saline County Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.5981487,
+    "lng": -92.4887691,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

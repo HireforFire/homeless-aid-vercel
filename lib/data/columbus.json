@@ -1,0 +1,679 @@
+[
+  {
+    "id": "fa-172035",
+    "name": "Holy Family Soup Kitchen - Main Location",
+    "category": "Food",
+    "description": "Temporarily located at 588 W. Scott St., Columbus, Ohio. Provides to-go meal distribution.",
+    "address": "588 Scott Street",
+    "city": "Franklinton",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "(614) 221-4323",
+    "hours": "",
+    "lat": 39.9618141,
+    "lng": -83.0167173,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190995",
+    "name": "Pantry",
+    "category": "Food",
+    "description": "Food pantry distribution location in Columbus",
+    "address": "524 W BROAD ST",
+    "city": "COLUMBUS",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "",
+    "lat": 39.96062234,
+    "lng": -83.01438026,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191054",
+    "name": "Student Pantry at CSCC",
+    "category": "Food",
+    "description": "Student food pantry location at Columbus State Community College",
+    "address": "400 GROVE ST",
+    "city": "COLUMBUS",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9704974,
+    "lng": -82.9912394,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195699",
+    "name": "Livingston United Methodist Church",
+    "category": "Food",
+    "description": "Food pantry location at Livingston United Methodist Church",
+    "address": "200 East Livingston Avenue",
+    "city": "South Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9529654,
+    "lng": -82.9936225,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206607",
+    "name": "Home for Families",
+    "category": "Food",
+    "description": "Food pantry location serving Franklin County",
+    "address": "33 North Grubb Street",
+    "city": "Franklinton",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9610473,
+    "lng": -83.0182714,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210041",
+    "name": "St. Lawrence Haven",
+    "category": "Food",
+    "description": "Food distribution location at 200 South 5th Street, Downtown Columbus",
+    "address": "200 South 5th Street",
+    "city": "Downtown",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9588228,
+    "lng": -82.9932288,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210354",
+    "name": "Community Meal Service Location",
+    "category": "Food",
+    "description": "Location where community meals are served.",
+    "address": "428 E MAIN ST",
+    "city": "COLUMBUS",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9580166,
+    "lng": -82.9879731,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220473",
+    "name": "YWCA Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "65 S. 4th St.",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "(614) 224-9121",
+    "hours": "",
+    "lat": 39.9611816,
+    "lng": -82.9964294,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220940",
+    "name": "Matthew 25:35 Ministry Soup Kitchen",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "649 West Broad Street",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "(614) 441-6341",
+    "hours": "",
+    "lat": 39.9599152,
+    "lng": -83.0179901,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221174",
+    "name": "Broad Street Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "760 East Broad Street",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43205",
+    "phone": "(614) 461-4557",
+    "hours": "",
+    "lat": 39.9650078,
+    "lng": -82.9800491,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-452128",
+    "name": "The Center for Early Learning at Columbus State",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (37 funded slots)",
+    "address": "320 N Grant Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "(614) 287-5878",
+    "hours": "",
+    "lat": 39.970042,
+    "lng": -82.99142,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-452148",
+    "name": "Nationwide Children's Hospital TIP Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (24 funded slots)",
+    "address": "255 E Main St",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "(614) 431-2168",
+    "hours": "",
+    "lat": 39.956593,
+    "lng": -82.992609,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "osm-node-1604431541",
+    "name": "Tinnapple Park Shelter House",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0131707,
+    "lng": -83.1599962,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5789054676",
+    "name": "The Open Shelter",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "East Mound Street 61",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "24/7",
+    "lat": 39.9545545,
+    "lng": -82.9974429,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368152459",
+    "name": "Hilltop Branch Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.954508,
+    "lng": -83.0793529,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368152664",
+    "name": "Hilltonia Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9336748,
+    "lng": -83.0557408,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368153046",
+    "name": "Josiah H Blackmore Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9567309,
+    "lng": -82.9376804,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368153105",
+    "name": "James Kilbourne Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0895081,
+    "lng": -83.0174064,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-371316453",
+    "name": "Southwest Public Libraries (Westland Branch)",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9537736,
+    "lng": -83.1273851,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5788001117",
+    "name": "Franklin County Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South High Street 369",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "(614) 525-4971",
+    "hours": "Mo-Fr 08:00-17:00",
+    "lat": 39.9541566,
+    "lng": -82.9994841,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5892042327",
+    "name": "Geology Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Oval Drive 155",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43210",
+    "phone": "(614) 292-2428",
+    "hours": "",
+    "lat": 39.9983975,
+    "lng": -83.0117693,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6245285685",
+    "name": "Biological Sciences and Pharmacy Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43210",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9969011,
+    "lng": -83.0203844,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6978362038",
+    "name": "Worthington Park Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.1231373,
+    "lng": -82.980452,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11759509014",
+    "name": "Architecture Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0037373,
+    "lng": -83.0163936,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6916850536",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.97269,
+    "lng": -82.8949224,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7968410933",
+    "name": "Dress for Success",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North High Street 1204",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43201",
+    "phone": "(614) 680-3491",
+    "hours": "",
+    "lat": 39.9869575,
+    "lng": -83.0052696,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8040139079",
+    "name": "Out of the Closet",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North High Street 1230",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43201",
+    "phone": "",
+    "hours": "Su 10:00-18:00; Mo-Sa 10:00-19:00",
+    "lat": 39.9872811,
+    "lng": -83.0052777,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9787010127",
+    "name": "HEART Mid-Ohio Food Bank",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9540236,
+    "lng": -82.824283,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9812853769",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0102913,
+    "lng": -82.8653066,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-233544569",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Bethel Road 2136",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0641636,
+    "lng": -83.0865703,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-426929489",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Sawmill Road 6525",
+    "city": "Dublin",
+    "state": "OH",
+    "zip": "43017",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "lat": 40.1002784,
+    "lng": -83.0933653,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-477191125",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.1564435,
+    "lng": -83.0948176,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-546696899",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0142551,
+    "lng": -83.0102073,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-607970601",
+    "name": "Volunteers of America",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.952612,
+    "lng": -83.1500212,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-columbus-hygiene",
+    "name": "Hilltop Branch Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 39.954508,
+    "lng": -83.0793529,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

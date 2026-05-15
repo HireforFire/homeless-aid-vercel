@@ -1,0 +1,660 @@
+[
+  {
+    "id": "fa-174990",
+    "name": "St. Mary's Catholic Church",
+    "category": "Food",
+    "description": "St. Mary's Catholic Church soup kitchen location in Memphis.",
+    "address": "155 Market St.",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38105",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1514118,
+    "lng": -90.0480067,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190467",
+    "name": "First Presbyterian Church",
+    "category": "Food",
+    "description": "Food pantry and meal distribution location",
+    "address": "166 Poplar Ave.",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38103",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1499561,
+    "lng": -90.0483957,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194656",
+    "name": "Calvary Episcopal Church",
+    "category": "Food",
+    "description": "Calvary Episcopal Church community ministry location",
+    "address": "102 N. 2nd St.",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38103",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1475349,
+    "lng": -90.0500718,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195104",
+    "name": "St. Patrick's Catholic Church",
+    "category": "Food",
+    "description": "St. Patrick's Catholic Church food assistance location in Memphis, Tennessee.",
+    "address": "287 S. 4th St.",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38126",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1369235,
+    "lng": -90.0503762,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216762",
+    "name": "The Salvation Army - Jackson Ave Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "696 Jackson Ave",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38105",
+    "phone": "(901) 365-6128",
+    "hours": "",
+    "lat": 35.1512,
+    "lng": -90.03541,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-452233",
+    "name": "Southwest Community College-Union Campus",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
+    "address": "737 Union Ave",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38103",
+    "phone": "(901) 333-5000",
+    "hours": "",
+    "lat": 35.138451,
+    "lng": -90.036899,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-197596",
+    "name": "Constance Abbey Inc.",
+    "category": "Food",
+    "description": "Main location of Constance Abbey Inc. providing food pantry and meal services.",
+    "address": "209 Hamlin Place",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38103",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1476219,
+    "lng": -90.0388092,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179192",
+    "name": "Grace-St. Luke's Episcopal Church",
+    "category": "Food",
+    "description": "Main location of Grace-St. Luke's Episcopal Church providing food pantry and prepared meal services.",
+    "address": "1720 Peabody Ave.",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1331523,
+    "lng": -90.0044444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201843",
+    "name": "St. John Baptist Church",
+    "category": "Food",
+    "description": "St. John Baptist Church food pantry distribution location",
+    "address": "640 Vance Ave.",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38126",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1348302,
+    "lng": -90.040432,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206818",
+    "name": "MIFA Food Pantry Vouchers Office",
+    "category": "Food",
+    "description": "MIFA office location providing food pantry voucher services",
+    "address": "910 Vance Avenue",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38216",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1345234,
+    "lng": -90.0315594,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-209023",
+    "name": "Society of St. Vincent de Paul - Memphis",
+    "category": "Food",
+    "description": "Main location for prepared meal distribution services.",
+    "address": "1306 Monroe Ave.",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1381696,
+    "lng": -90.0177413,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-217495",
+    "name": "The Salvation Army - E Parkway S",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 E Parkway S",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104",
+    "phone": "(901) 729-8007",
+    "hours": "",
+    "lat": 35.13253,
+    "lng": -90.00435,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-4397522550",
+    "name": "Alpha Omega Veterans Services - Court",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "War Memorial Drive 1463",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104",
+    "phone": "(901) 725-7030",
+    "hours": "07:30-16:30",
+    "lat": 35.1393853,
+    "lng": -90.0124221,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4397527118",
+    "name": "Alpha Omega Veterans Services, Inc.",
+    "category": "Shelter",
+    "description": "Transitional supportive housing facility for homeless and disabled military veterans.",
+    "address": "Madison Avenue 1183",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104",
+    "phone": "(901) 726-5066",
+    "hours": "24/7",
+    "lat": 35.1392536,
+    "lng": -90.021832,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4397533178",
+    "name": "Alpha Omega Veterans Services - Vinton",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Vinton Avenue 1266",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104",
+    "phone": "(901) 726-9737",
+    "hours": "08:00-16:00",
+    "lat": 35.1309621,
+    "lng": -90.019526,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4397537190",
+    "name": "Alpha Omega Veterans Services - Depot",
+    "category": "Shelter",
+    "description": "Transitional and permanent supportive housing facilities that serve homeless and disabled military veterans.",
+    "address": "Ball Road 2226",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38114",
+    "phone": "(901) 774-6768",
+    "hours": "07:30-16:30",
+    "lat": 35.0817623,
+    "lng": -89.9882006,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4397539928",
+    "name": "Alpha Omega Veterans Services - Life House",
+    "category": "Shelter",
+    "description": "Hospice and palliative care facility serving homeless and disabled military veterans.",
+    "address": "Central Avenue 1154",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104",
+    "phone": "(901) 726-4155",
+    "hours": "07:30-16:30",
+    "lat": 35.1269089,
+    "lng": -90.0233303,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6077450628",
+    "name": "Calvary Rescue Mission",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1211559,
+    "lng": -90.0547835,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367134575",
+    "name": "Dye Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Memphis",
+    "state": "MS",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.9623162,
+    "lng": -90.0473141,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368157398",
+    "name": "Hyde Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0987494,
+    "lng": -89.855486,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368157425",
+    "name": "Saint Marys Episcopal School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.129453,
+    "lng": -89.908068,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5495173508",
+    "name": "St. Jude Biomedical Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1541419,
+    "lng": -90.0424036,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5744453873",
+    "name": "Bronstein Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1295314,
+    "lng": -89.8599324,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5744453917",
+    "name": "Powell Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1294349,
+    "lng": -89.8599295,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-126631958",
+    "name": "Ned R McWherter Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Norriswood Avenue 3785",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38152-3250",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1208573,
+    "lng": -89.9361493,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-129776379",
+    "name": "Benjamin L. Hooks Central Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Poplar Avenue 3030",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38111;38111-3527",
+    "phone": "(901) 415-2700",
+    "hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 13:00-17:00",
+    "lat": 35.1333711,
+    "lng": -89.9608047,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-129970012",
+    "name": "Cossitt-Goodwyn Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Front Street 33",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38103-2409",
+    "phone": "(901) 415-2766",
+    "hours": "",
+    "lat": 35.1450108,
+    "lng": -90.054924,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-227222929",
+    "name": "Plough Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.127968,
+    "lng": -89.982118,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7604103059",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3475584,
+    "lng": -89.9060082,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10751841306",
+    "name": "Hope Missions",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.9849415,
+    "lng": -90.0182061,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-241070258",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Poplar Avenue 3109",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38111",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1311939,
+    "lng": -89.9582633,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-761768159",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1370359,
+    "lng": -89.9966994,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1013100864",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-17:00",
+    "lat": 34.9630623,
+    "lng": -89.9630174,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-memphis-hygiene",
+    "name": "Dye Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Memphis",
+    "state": "MS",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 34.9623162,
+    "lng": -90.0473141,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

@@ -1,0 +1,639 @@
+[
+  {
+    "id": "fa-184496",
+    "name": "Our Calling Soup Kitchen",
+    "category": "Food",
+    "description": "Main soup kitchen location",
+    "address": "1702 S. Cesar Chavez Blvd.",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75215",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7744318,
+    "lng": -96.7834177,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172393",
+    "name": "Wesley Rankin Community Center",
+    "category": "Food",
+    "description": "Senior services facility providing congregate meals and food distribution.",
+    "address": "3100 Crossman Ave.",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75212",
+    "phone": "(214) 742-6674",
+    "hours": "",
+    "lat": 32.7796585,
+    "lng": -96.8405867,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-454274",
+    "name": "Vogal Alcove Childcare",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (46 funded slots)",
+    "address": "1738 Gano St",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75215",
+    "phone": "(214) 368-8686",
+    "hours": "",
+    "lat": 32.772274,
+    "lng": -96.787594,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-195992",
+    "name": "DALLAS LIFE FOUNDATION",
+    "category": "Food",
+    "description": "Main office and service location for DALLAS LIFE FOUNDATION providing shelter services, SNAP application assistance, and TEFAP program services.",
+    "address": "1100 CADIZ",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75215",
+    "phone": "",
+    "hours": "",
+    "lat": 32.771972,
+    "lng": -96.798408,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-95",
+    "name": "Dallas Life Foundation",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1100 Cadiz St",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75215",
+    "phone": "(214) 421-1380",
+    "hours": "",
+    "lat": 32.7733,
+    "lng": -96.7883,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-226197",
+    "name": "Hope Supply Co.",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Dallas, TX",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201",
+    "phone": "",
+    "hours": "",
+    "lat": 32.78826,
+    "lng": -96.79953,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-172642",
+    "name": "Oak Lawn United Methodist Church",
+    "category": "Food",
+    "description": "Food pantry, soup kitchen, and clothing distribution location at Oak Lawn United Methodist Church.",
+    "address": "3014 Oak Lawn Ave.",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75219",
+    "phone": "(214) 521-5197",
+    "hours": "",
+    "lat": 32.8083057,
+    "lng": -96.8084737,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174201",
+    "name": "Oak Cliff Churches For Emergency Aid",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "123 N. Llewellyn Ave.",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75208",
+    "phone": "(214) 943-7757",
+    "hours": "",
+    "lat": 32.7458949,
+    "lng": -96.8323384,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199993",
+    "name": "The Well Ministries - Hamilton",
+    "category": "Food",
+    "description": "Food distribution and SNAP application assistance location in Dallas.",
+    "address": "4419 Hamilton Ave.",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75210",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7784578,
+    "lng": -96.7474531,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220228",
+    "name": "Oak Cliff United Methodist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "549 East Jefferson Boulevard",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75203",
+    "phone": "(214) 943-4326",
+    "hours": "",
+    "lat": 32.747406,
+    "lng": -96.8161545,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222184",
+    "name": "Well Community",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "125 Sunset Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75208",
+    "phone": "(214) 235-3163",
+    "hours": "",
+    "lat": 32.7441254,
+    "lng": -96.8232498,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222291",
+    "name": "SoupMobile",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2423 S Good Latimer Expressway",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75215",
+    "phone": "(214) 655-6396",
+    "hours": "",
+    "lat": 32.7703018,
+    "lng": -96.7774048,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-368161343",
+    "name": "Safe Haven Homes",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "East Illinois Avenue 2816",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75216",
+    "phone": "(972) 375-7179",
+    "hours": "",
+    "lat": 32.716289,
+    "lng": -96.779541,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4848895226",
+    "name": "Lorenzo Hotel",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7717262,
+    "lng": -96.7980666,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4631438787",
+    "name": "Duncanville Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.6493963,
+    "lng": -96.9073908,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5298397672",
+    "name": "George W. Bush Presidential Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8412443,
+    "lng": -96.7781963,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6336538842",
+    "name": "East Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Nursery Road 440",
+    "city": "Irving",
+    "state": "TX",
+    "zip": "75060",
+    "phone": "(972) 721-3722",
+    "hours": "Mo,We 12:00-20:00; Tu,Th 10:00-18:00; Sa 12:00-18:00",
+    "lat": 32.8099052,
+    "lng": -96.9340535,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13570401724",
+    "name": "Cedar Hill Library in a Park",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Pioneer Trail 450",
+    "city": "Cedar Hill",
+    "state": "TX",
+    "zip": "75104",
+    "phone": "(972) 291-7323",
+    "hours": "Mo,Tu,Th 10:00-21:00; We,Fr 10:00-18:00; Sa 10:00-17:00",
+    "lat": 32.5949249,
+    "lng": -96.9498458,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13741750379",
+    "name": "Bookmarks",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8685822,
+    "lng": -96.7737062,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-28015805",
+    "name": "J. Erik Jonsson Central Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Young Street 1515",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "",
+    "phone": "(214) 670-1400",
+    "hours": "Mo off; Tu 09:00-20:00; We 09:00-17:00; Th 09:00-20:00; Fr 09:00-17:00; Sa 09:00-16:00; Su 09:00-16:00",
+    "lat": 32.7783625,
+    "lng": -96.7970711,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-111962329",
+    "name": "Valley Ranch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Cimarron Trail 401",
+    "city": "Irving",
+    "state": "TX",
+    "zip": "75063",
+    "phone": "(972) 721-4669",
+    "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-18:00; Su 13:00-17:00",
+    "lat": 32.9341,
+    "lng": -96.9506408,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-221378901",
+    "name": "Dallas Public Library - Oak Lawn",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Cedar Springs Road 4100",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75219",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8123803,
+    "lng": -96.812414,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4018517689",
+    "name": "Design on a Nickle",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7490758,
+    "lng": -96.8286152,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6277056974",
+    "name": "Genesis Benefit Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Knight Street 3419",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75219",
+    "phone": "(214) 520-6644",
+    "hours": "Mo-Fr 10:00-17:30; Sa 10:00-17:00; Su 13:00-17:00",
+    "lat": 32.8147158,
+    "lng": -96.8099766,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9062347374",
+    "name": "Plaid Door",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8959095,
+    "lng": -96.8062851,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9424022704",
+    "name": "Out of the Closet",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Cedar Springs Road 3920",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75219",
+    "phone": "(214) 599-2173",
+    "hours": "Mo-Sa 10:00-19:00; Su 10:00-18:00",
+    "lat": 32.8106982,
+    "lng": -96.810533,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9811730308",
+    "name": "Family Place Resale Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Marsh Lane 11722",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "",
+    "phone": "(214) 358-0381",
+    "hours": "Mo-Sa 10:00-17:30; Su 12:00-17:00",
+    "lat": 32.908489,
+    "lng": -96.8520738,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11304375580",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Forest Lane 3546",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75234",
+    "phone": "(972) 685-7585",
+    "hours": "",
+    "lat": 32.9086694,
+    "lng": -96.859623,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11782072990",
+    "name": "White Rock Center of Hope",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Garland Road 10021",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8395721,
+    "lng": -96.6959665,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12033610260",
+    "name": "Simply Grace Thrift",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Arapaho Road 580",
+    "city": "Richardson",
+    "state": "TX",
+    "zip": "75080",
+    "phone": "",
+    "hours": "Mo-Sa 11:00-18:00",
+    "lat": 32.9645469,
+    "lng": -96.7370945,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-343082129",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Hampton Road 2800",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "",
+    "phone": "(214) 678-2360",
+    "hours": "M-Fr 9:00-18:00; Sa-Su 11:00-18:00",
+    "lat": 32.7773472,
+    "lng": -96.8556082,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-427082490",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Belt Line Road 2116",
+    "city": "Carrollton",
+    "state": "TX",
+    "zip": "75006",
+    "phone": "(972) 416-6051",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-07:00",
+    "lat": 32.952877,
+    "lng": -96.8823188,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-dallas-hygiene",
+    "name": "Duncanville Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 32.6493963,
+    "lng": -96.9073908,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

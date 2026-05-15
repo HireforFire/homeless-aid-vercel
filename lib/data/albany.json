@@ -1,0 +1,584 @@
+[
+  {
+    "id": "fa-174250",
+    "name": "Women's Health Center at Albany Medical College - WIC Office",
+    "category": "Food",
+    "description": "WIC Office location at Albany Medical College providing Women, Infants, and Children program services",
+    "address": "220 Green St",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12202",
+    "phone": "(518) 432-4033",
+    "hours": "",
+    "lat": 42.6397931,
+    "lng": -73.7553505,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181472",
+    "name": "St. John's/St. Ann's Center",
+    "category": "Food",
+    "description": "Food pantry and soup kitchen facility located on Fourth Avenue in Albany. Offers walk-up and curbside pick-up options.",
+    "address": "88 Fourth Avenue",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12202",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6387988,
+    "lng": -73.7575752,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182483",
+    "name": "Legal Aid Society of Northeastern New York",
+    "category": "Food",
+    "description": "Legal Aid Society office providing SNAP registration assistance",
+    "address": "95 Central Avenue",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12206",
+    "phone": "",
+    "hours": "",
+    "lat": 42.65981,
+    "lng": -73.766187,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186516",
+    "name": "Whitney M Young Jr. Health Center - Main Office",
+    "category": "Food",
+    "description": "Main office location for WIC services. Closed 12-1 for lunch.",
+    "address": "920 Lark Drive",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12207",
+    "phone": "",
+    "hours": "",
+    "lat": 42.661783,
+    "lng": -73.748213,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188590",
+    "name": "St. Mary's Outreach Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at St. Mary's Outreach. Please use Steuben St. entrance. Walk-in service with limited capacity inside the building.",
+    "address": "10 Lodge Street",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12207",
+    "phone": "",
+    "hours": "",
+    "lat": 42.651857,
+    "lng": -73.752801,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188970",
+    "name": "Westminster Presbyterian Church",
+    "category": "Food",
+    "description": "Community meal program location providing breakfast and bagged lunch services",
+    "address": "85 Chestnut Street",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12210",
+    "phone": "",
+    "hours": "",
+    "lat": 42.653453,
+    "lng": -73.761531,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194390",
+    "name": "Israel AME Church - Main Office",
+    "category": "Food",
+    "description": "Main office location for Israel AME Church community meal services",
+    "address": "381 Hamilton Street",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12210",
+    "phone": "",
+    "hours": "",
+    "lat": 42.652708,
+    "lng": -73.765941,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201266",
+    "name": "Sweet Pilgrim Baptist Church",
+    "category": "Food",
+    "description": "Community meal distribution location at Sweet Pilgrim Missionary Baptist Church.",
+    "address": "2-4 Ten Broeck Street",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12210",
+    "phone": "",
+    "hours": "",
+    "lat": 42.65531815746331,
+    "lng": -73.75146373677063,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202950",
+    "name": "Emmanuel Baptist Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at Emmanuel Baptist Church in Albany",
+    "address": "262 State Street",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12110",
+    "phone": "",
+    "hours": "",
+    "lat": 42.654319,
+    "lng": -73.761047,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212224",
+    "name": "Arbor Hill Pantry",
+    "category": "Food",
+    "description": "Food pantry location in Arbor Hill neighborhood of Albany",
+    "address": "47 Lark Street",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12210",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6617178,
+    "lng": -73.7575836,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220982",
+    "name": "Food4Life",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "927 Broadway",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12207",
+    "phone": "(518) 434-4686",
+    "hours": "",
+    "lat": 42.6617851,
+    "lng": -73.744072,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221509",
+    "name": "FOCUS Interfaith Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "275 State St.",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12210",
+    "phone": "(518) 443-0460",
+    "hours": "",
+    "lat": 42.6544037,
+    "lng": -73.7609634,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-2121617788",
+    "name": "Education Center",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8037693,
+    "lng": -73.8574535,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368050275",
+    "name": "James Wheelock Clark Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.7276627,
+    "lng": -73.692566,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368050279",
+    "name": "Marvin Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6963889,
+    "lng": -73.6861111,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368050283",
+    "name": "Dietel Library & Archives",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Pawling Avenue 285",
+    "city": "Troy",
+    "state": "NY",
+    "zip": "12180",
+    "phone": "",
+    "hours": "",
+    "lat": 42.7119989,
+    "lng": -73.6625523,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051074",
+    "name": "Governor Thomas E Dewey Graduate Library for Public Affairs and Policy",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6602358,
+    "lng": -73.7705695,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051078",
+    "name": "Charles R Joy Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6616312,
+    "lng": -73.7714263,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051109",
+    "name": "John A Howe Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8176034,
+    "lng": -73.945062,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051159",
+    "name": "Grems-Doolittle Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8171741,
+    "lng": -73.9496411,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-373330595",
+    "name": "North Greenbush Public LIbrary",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6961022,
+    "lng": -73.6393128,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543625413",
+    "name": "Rcs Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 106",
+    "city": "Ravena",
+    "state": "NY",
+    "zip": "12143",
+    "phone": "",
+    "hours": "",
+    "lat": 42.47218,
+    "lng": -73.80939,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543625475",
+    "name": "Voorheesville Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "School Road 51",
+    "city": "Voorheesville",
+    "state": "NY",
+    "zip": "12186",
+    "phone": "",
+    "hours": "",
+    "lat": 42.65689,
+    "lng": -73.93965,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1022887319",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Fuller Road 71",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6992914,
+    "lng": -73.8239105,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-399565851",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "2145",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.757544,
+    "lng": -73.8775022,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-469738025",
+    "name": "Goodwill Donation Express",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.7436327,
+    "lng": -73.6434886,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-469738026",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.7438089,
+    "lng": -73.6437527,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-668570693",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "N Broadway 115",
+    "city": "Schenectady",
+    "state": "NY",
+    "zip": "12305",
+    "phone": "(518) 395-3412",
+    "hours": "Tu-We 10:00-15:00, Th-Fr 10:00-18:00, Sa 10:00-15:00",
+    "lat": 42.8144514,
+    "lng": -73.9416142,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-751181201",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Troy Schenectady Road 190",
+    "city": "Latham",
+    "state": "NY",
+    "zip": "12110",
+    "phone": "(800) 728-7825",
+    "hours": "",
+    "lat": 42.7381419,
+    "lng": -73.7336787,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-albany-hygiene",
+    "name": "James Wheelock Clark Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 42.7276627,
+    "lng": -73.692566,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

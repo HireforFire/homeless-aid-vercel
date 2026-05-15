@@ -1,0 +1,661 @@
+[
+  {
+    "id": "fa-171960",
+    "name": "Freeway Ministries",
+    "category": "Food",
+    "description": "USDA/TEFAP food distribution location",
+    "address": "1030 S 24th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68108",
+    "phone": "(417) 693-5237",
+    "hours": "",
+    "lat": 41.249296,
+    "lng": -95.948062,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172303",
+    "name": "St. Peter's Food Pantry, St. Vincent De Paul (SVDP)",
+    "category": "Food",
+    "description": "St. Vincent De Paul Society food pantry location",
+    "address": "709 S. 28th St.",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68105",
+    "phone": "(402) 350-0888",
+    "hours": "",
+    "lat": 41.2530023,
+    "lng": -95.9529024,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179113",
+    "name": "Kountze Memorial Lutheran Church Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Kountze Memorial Lutheran Church",
+    "address": "2665 Douglas St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68131",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2584315,
+    "lng": -95.9510832,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181257",
+    "name": "Salvation Army (SA) Men's Center",
+    "category": "Food",
+    "description": "Meal service location at the Salvation Army Men's Center",
+    "address": "2551 Dodge St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68131",
+    "phone": "",
+    "hours": "",
+    "lat": 41.259583,
+    "lng": -95.949638,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189502",
+    "name": "Together, Inc (Omaha Location)",
+    "category": "Food",
+    "description": "Food pantry location in Omaha providing food assistance services.",
+    "address": "812 S 24th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68108",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2518436,
+    "lng": -95.9473286,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194791",
+    "name": "Siena Francis House",
+    "category": "Food",
+    "description": "USDA/TEFAP meal provider location",
+    "address": "1702 Nicholas St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68101",
+    "phone": "",
+    "hours": "",
+    "lat": 41.270245,
+    "lng": -95.938784,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-224949",
+    "name": "Youth Street Outreach",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2062 Harney St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "(402) 502-1636",
+    "hours": "",
+    "lat": 41.2568912,
+    "lng": -95.9430326,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-442053",
+    "name": "Liberty",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (32 funded slots)",
+    "address": "2021 Saint Marys Ave",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "(531) 299-1740",
+    "hours": "",
+    "lat": 41.253807,
+    "lng": -95.942925,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-183906",
+    "name": "Yes Street Outreach Pantry",
+    "category": "Food",
+    "description": "Main food pantry location",
+    "address": "2602 Harney St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68131",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2569948,
+    "lng": -95.9507964,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191331",
+    "name": "Nebraska Urban Indian Health Coalition",
+    "category": "Food",
+    "description": "Main meal service location for Nebraska Urban Indian Health Coalition.",
+    "address": "2240 Landon Ct",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "",
+    "hours": "",
+    "lat": 41.254923,
+    "lng": -95.946353,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194288",
+    "name": "Fricke Episcopal Community Ministry",
+    "category": "Food",
+    "description": "Main food pantry location offering walk-up food assistance services",
+    "address": "113 N 18th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "",
+    "hours": "",
+    "lat": 41.260363,
+    "lng": -95.93932199999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195989",
+    "name": "Youth Street Outreach - Food Distribution Center",
+    "category": "Food",
+    "description": "Main food distribution center location",
+    "address": "2057 Harney St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "",
+    "hours": "",
+    "lat": 41.256326699999995,
+    "lng": -95.94486769999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-366490306",
+    "name": "Bio-Information Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2664344,
+    "lng": -95.953708,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366491303",
+    "name": "La Vista Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Giles Road 9110",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "(402) 537-3900",
+    "hours": "",
+    "lat": 41.1771322,
+    "lng": -96.0542654,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366491327",
+    "name": "Freeman-Lozier Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 07:30-22:30; Sa 08:00-17:00; Su 10:00-19:00",
+    "lat": 41.1502051,
+    "lng": -95.9174454,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366491330",
+    "name": "Springfield Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0814594,
+    "lng": -96.1278635,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366491344",
+    "name": "A V Sorenson Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Cass Street 4808",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68132",
+    "phone": "(402) 444-5274",
+    "hours": "",
+    "lat": 41.2635223,
+    "lng": -95.9865188,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366491356",
+    "name": "Metropolitan Community College - Fort Omaha Campus Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.3092941,
+    "lng": -95.9586104,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366491362",
+    "name": "Ralston Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2058322,
+    "lng": -96.0364054,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366491370",
+    "name": "Klutznick Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "(402) 280-5541",
+    "hours": "Mo-Th 07:00-23:00, Fr 07:00-19:00, Sa 10:00-19:00, Su 10:00-23:00",
+    "lat": 41.2644982,
+    "lng": -95.9443333,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366491376",
+    "name": "South Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2112776,
+    "lng": -95.9459022,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-366491381",
+    "name": "Hollis and Helen Baright Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2021639,
+    "lng": -96.0310798,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2726967950",
+    "name": "For The Wild Birds",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Spring Street 8310",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68124",
+    "phone": "(402) 397-8484",
+    "hours": "",
+    "lat": 41.2316019,
+    "lng": -96.0423779,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2727445371",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Center Road 8457",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68124",
+    "phone": "(402) 397-0542",
+    "hours": "",
+    "lat": 41.2330564,
+    "lng": -96.0468049,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3326075239",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1393219,
+    "lng": -96.0506091,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3917844096",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1169626,
+    "lng": -95.9454426,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3962645908",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.285111,
+    "lng": -96.0045693,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4285202361",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1417615,
+    "lng": -95.9124532,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4540443021",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1758836,
+    "lng": -96.0465496,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5202692079",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "Tu-Th 12:00-18:00; Fr 09:00-18:00; Sa 09:00-17:00",
+    "lat": 41.1779707,
+    "lng": -95.9244014,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7246531936",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Thrift store",
+    "address": "N 78th St, Omaha NE 68114 201",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "(402) 393-2800",
+    "hours": "",
+    "lat": 41.2613134,
+    "lng": -96.0356526,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9654399341",
+    "name": "Goodwill Outlet",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South 72nd Street 4115",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68127",
+    "phone": "(402) 731-4888",
+    "hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+    "lat": 41.2187342,
+    "lng": -96.0232478,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-omaha-shelter",
+    "name": "Omaha Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-omaha-hygiene",
+    "name": "Bio-Information Center - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 41.2664344,
+    "lng": -95.953708,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

@@ -1,0 +1,660 @@
+[
+  {
+    "id": "fa-192312",
+    "name": "Women Of the Village Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location in New Haven, Connecticut.",
+    "address": "26 Charles St",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "",
+    "hours": "",
+    "lat": 41.319064399999995,
+    "lng": -72.9350987,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193397",
+    "name": "St. Paul & St. James Episcopal Church",
+    "category": "Food",
+    "description": "Food pantry location at St. Paul & St. James Episcopal Church in New Haven.",
+    "address": "57 Olive St",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "",
+    "hours": "",
+    "lat": 41.3035463,
+    "lng": -72.9200529,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197537",
+    "name": "Community Soup Kitchen",
+    "category": "Food",
+    "description": "Main location for Community Soup Kitchen in New Haven",
+    "address": "84 Broadway",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "",
+    "hours": "",
+    "lat": 41.311617399999996,
+    "lng": -72.9318619,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201482",
+    "name": "The Salvation Army of New Haven",
+    "category": "Food",
+    "description": "Main location for The Salvation Army food assistance services in New Haven.",
+    "address": "450 George St",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "",
+    "hours": "",
+    "lat": 41.307383699999995,
+    "lng": -72.93659099999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203023",
+    "name": "Aids Project New Haven - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located on Chapel Street in New Haven.",
+    "address": "1302 Chapel St",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "",
+    "hours": "",
+    "lat": 41.3097327,
+    "lng": -72.9383522,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211370",
+    "name": "Cornell Scott Hill Health Center",
+    "category": "Food",
+    "description": "Mobile Food Pantry distribution location",
+    "address": "428 Columbus Ave",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06519",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2975541,
+    "lng": -72.939891,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220262",
+    "name": "Immanuel Baptist Church Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1324 Chapel Street",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "(203) 777-8744",
+    "hours": "",
+    "lat": 41.3100357,
+    "lng": -72.9390106,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221193",
+    "name": "Ed LeDuc Memorial Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1302 Chapel Street",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "(203) 624-0947",
+    "hours": "",
+    "lat": 41.3099289,
+    "lng": -72.9382782,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-450465",
+    "name": "Fay Miller Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (17 funded slots)",
+    "address": "250 Cedar St",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06519",
+    "phone": "(203) 836-5850",
+    "hours": "",
+    "lat": 41.299641,
+    "lng": -72.933145,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-450483",
+    "name": "Dr Reginald Mayo School",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (255 funded slots)",
+    "address": "185 Goffe St",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "(475) 220-7900",
+    "hours": "",
+    "lat": 41.317461,
+    "lng": -72.935935,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-450495",
+    "name": "Hill Central Music Academy",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (17 funded slots)",
+    "address": "140 Dewitt St",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06519",
+    "phone": "(475) 220-6100",
+    "hours": "",
+    "lat": 41.295165,
+    "lng": -72.936099,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-128923",
+    "name": "New Haven School Lunch",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "140 DEWITT ST",
+    "city": "NEW HAVEN",
+    "state": "CT",
+    "zip": "06513",
+    "phone": "(203) 946-8888",
+    "hours": "",
+    "lat": 41.295397,
+    "lng": -72.935747,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "osm-node-9533589336",
+    "name": "Leatherman Cave",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.4147163,
+    "lng": -72.9380755,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138358",
+    "name": "New Haven Free Public Library Stetson Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Dixwell Avenue 197",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "(203) 946-8119",
+    "hours": "",
+    "lat": 41.3181865,
+    "lng": -72.9332765,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138360",
+    "name": "Taylor Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Broad Street 5",
+    "city": "Milford",
+    "state": "CT",
+    "zip": "06460",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2224111,
+    "lng": -73.0570803,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138361",
+    "name": "Temple Emanuel Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2999233,
+    "lng": -73.0070873,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138403",
+    "name": "Piantino Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2961469,
+    "lng": -72.9590822,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138406",
+    "name": "Mary and James Dimeo Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.3667613,
+    "lng": -72.9484004,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138571",
+    "name": "Stratford Library Association",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2134302,
+    "lng": -73.1267762,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138598",
+    "name": "Miller Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.3832676,
+    "lng": -72.9045521,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138600",
+    "name": "The Institute Library",
+    "category": "Public Resources",
+    "description": "The Institute Library is a membership library in New Haven, Connecticut. Founded in 1826 in the tradition of Mechanics' Institutes, it is New Haven's oldest community library and one of the few membership libraries now remaining in North America",
+    "address": "Chapel Street 847",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06510",
+    "phone": "(203) 562-4045",
+    "hours": "",
+    "lat": 41.3058793,
+    "lng": -72.9250778,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138603",
+    "name": "Allington Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2962241,
+    "lng": -72.9591382,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138608",
+    "name": "Beacon Falls Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Maple Avenue 10",
+    "city": "Beacon Falls",
+    "state": "CT",
+    "zip": "06403",
+    "phone": "(203) 729-1441",
+    "hours": "",
+    "lat": 41.4455635,
+    "lng": -73.0602213,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2844565040",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Colony Road",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 09:00-18:00",
+    "lat": 41.5017573,
+    "lng": -72.8114336,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4139127714",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2655539,
+    "lng": -73.0035122,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4706498160",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.4216932,
+    "lng": -73.1075863,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5233338773",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2948877,
+    "lng": -73.1107129,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5586327628",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.3215107,
+    "lng": -72.8700699,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7747874441",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Dixwell Avenue 2369",
+    "city": "Hamden",
+    "state": "CT",
+    "zip": "06514",
+    "phone": "",
+    "hours": "",
+    "lat": 41.374784,
+    "lng": -72.9150841,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7757091309",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.3360499,
+    "lng": -72.9774713,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9390762446",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "State Street 2901",
+    "city": "Hamden",
+    "state": "CT",
+    "zip": "06517",
+    "phone": "",
+    "hours": "",
+    "lat": 41.3599429,
+    "lng": -72.8880796,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9919524547",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.4799571,
+    "lng": -72.9069347,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-208082790",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Boston Post Road 1712",
+    "city": "Milford",
+    "state": "CT",
+    "zip": "06460",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2491684,
+    "lng": -73.0241492,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-new-haven-hygiene",
+    "name": "New Haven Free Public Library Stetson Branch - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Dixwell Avenue 197",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 41.3181865,
+    "lng": -72.9332765,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

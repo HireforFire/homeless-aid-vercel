@@ -1,0 +1,364 @@
+[
+  {
+    "id": "fa-170501",
+    "name": "St. Mark's Episcopal Church",
+    "category": "Food",
+    "description": "Food pantry location at St. Mark's Episcopal Church in downtown Cheyenne.",
+    "address": "1908 Central Ave",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 634-7709",
+    "hours": "",
+    "lat": 41.135953199999996,
+    "lng": -104.8163783,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170680",
+    "name": "Salvation Army - Cheyenne",
+    "category": "Food",
+    "description": "Food distribution center offering food boxes, perishable goods, hot meals, hygiene products, and social services. Features air conditioning.",
+    "address": "601 E 20th St",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 634-2769",
+    "hours": "",
+    "lat": 41.13862,
+    "lng": -104.8103968,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170704",
+    "name": "NEEDS Inc. - Central Avenue",
+    "category": "Food",
+    "description": "Main food pantry location providing food assistance to Laramie County residents. Handicapped accessible facility.",
+    "address": "900 Central Ave",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82007",
+    "phone": "(307) 632-4132",
+    "hours": "",
+    "lat": 41.1270472,
+    "lng": -104.8104652,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171429",
+    "name": "Comea Shelter",
+    "category": "Food",
+    "description": "Main shelter facility",
+    "address": "1421 W Lincolnway",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1272971,
+    "lng": -104.8290887,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171781",
+    "name": "United Way-Laramie County Main Office",
+    "category": "Food",
+    "description": "Main office location for United Way of Laramie County",
+    "address": "1007 E Lincolnway",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1368544,
+    "lng": -104.80364469999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-224669",
+    "name": "Needs, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "900 Central Avenue",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82007",
+    "phone": "(307) 632-4132",
+    "hours": "",
+    "lat": 41.1270065,
+    "lng": -104.8103714,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-171794",
+    "name": "Little Free Food Pantry Cheyenne WY",
+    "category": "Food",
+    "description": "Little free food pantry with walk-up access to food items.",
+    "address": "218 E 19th St",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "",
+    "hours": "",
+    "lat": 41.136794599999995,
+    "lng": -104.81419369999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170442",
+    "name": "True Vine Community Church",
+    "category": "Food",
+    "description": "Food distribution location at True Vine Community Church. Currently operating with limited capacity.",
+    "address": "110 Central Ave",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82007",
+    "phone": "(307) 220-1824",
+    "hours": "",
+    "lat": 41.11925,
+    "lng": -104.80923,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170626",
+    "name": "St. Joseph's Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location in Cheyenne, Wyoming. Walk-up access available.",
+    "address": "206 Van Lennen Ave",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82007",
+    "phone": "(307) 275-0567",
+    "hours": "",
+    "lat": 41.1225573,
+    "lng": -104.80207829999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170925",
+    "name": "Wyoming Coalition For The Homeless - Food Distribution Center",
+    "category": "Food",
+    "description": "Main food distribution center in Cheyenne, Wyoming.",
+    "address": "907 Logan Ave",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "",
+    "hours": "",
+    "lat": 41.134051899999996,
+    "lng": -104.79251769999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170965",
+    "name": "Community Action of Laramie County Inc. - Main Office",
+    "category": "Food",
+    "description": "Main office location in Cheyenne",
+    "address": "1700 Westland Rd",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1251633,
+    "lng": -104.8394503,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171313",
+    "name": "Element Church Food Pantry",
+    "category": "Food",
+    "description": "Element Church food pantry location in Cheyenne, Wyoming.",
+    "address": "600 E Carlson St #201",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82009",
+    "phone": "",
+    "hours": "",
+    "lat": 41.172084999999996,
+    "lng": -104.819845,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-way-231120012",
+    "name": "Laramie County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Pioneer Avenue 2000",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 634-3561",
+    "hours": "Mo-Th 09:00-20:00; Fr-Su 10:00-17:00; ",
+    "lat": 41.1374304,
+    "lng": -104.8217978,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-236023526",
+    "name": "LCCC Ludden Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East College Drive 1400",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82007",
+    "phone": "",
+    "hours": "Mo-Th 08:00-20:00; Fr 08:00-16:00; Su 12:00-16:00",
+    "lat": 41.1042775,
+    "lng": -104.7787035,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-548429022",
+    "name": "Wyoming State Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Central Avenue 2800",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 777-6333",
+    "hours": "Mo-Fr 08:00-17:00",
+    "lat": 41.1441278,
+    "lng": -104.8220181,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-537350444",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Nationway 3301",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1354941,
+    "lng": -104.7700565,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-878473818",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Mason Way 2131",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 459-6464",
+    "hours": "",
+    "lat": 41.1615808,
+    "lng": -104.7877849,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-cheyenne-shelter",
+    "name": "Cheyenne Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement. Free, confidential, 24/7.",
+    "address": "",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24/7",
+    "lat": 41.14,
+    "lng": -104.8202,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-cheyenne-hygiene",
+    "name": "Laramie County Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "Pioneer Avenue 2000",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "",
+    "hours": "Mo-Th 09:00-20:00; Fr-Su 10:00-17:00; ",
+    "lat": 41.1374304,
+    "lng": -104.8217978,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

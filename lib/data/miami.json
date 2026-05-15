@@ -1,0 +1,623 @@
+[
+  {
+    "id": "fa-217004",
+    "name": "The Salvation Army - W Flagler St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "911 W Flagler St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33130",
+    "phone": "(305) 545-9164",
+    "hours": "",
+    "lat": 25.76805,
+    "lng": -80.20291,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-443450",
+    "name": "Centro Mater East II HS",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (80 funded slots)",
+    "address": "421 SW 4th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33130",
+    "phone": "(305) 545-6049",
+    "hours": "",
+    "lat": 25.770155,
+    "lng": -80.201471,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-451322",
+    "name": "Rainbow Intergenerational Child Care",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (40 funded slots)",
+    "address": "700 SW 8th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33130",
+    "phone": "(305) 858-0887",
+    "hours": "",
+    "lat": 25.765914,
+    "lng": -80.205927,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-455009",
+    "name": "Centro Mater East I EHS",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (40 funded slots)",
+    "address": "418 SW 4th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33130",
+    "phone": "(305) 545-6049",
+    "hours": "",
+    "lat": 25.769608,
+    "lng": -80.201093,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-455010",
+    "name": "Centro Mater East I Home Based",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (67 funded slots)",
+    "address": "420 SW 4th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33130",
+    "phone": "(305) 545-6049",
+    "hours": "",
+    "lat": 25.769596,
+    "lng": -80.201149,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-224955",
+    "name": "MDC WOLFSON SHARK PANTRY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "300 NE 2nd Ave",
+    "city": "suite 3108, Miami",
+    "state": "FL",
+    "zip": "33132",
+    "phone": "(305) 237-3007",
+    "hours": "",
+    "lat": 25.7776199,
+    "lng": -80.1909088,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-3879",
+    "name": "Salvation Army Adult Rehab Ctr",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2236 NW Miami Ct",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "",
+    "phone": "(513) 248-0033",
+    "hours": "",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-3882",
+    "name": "Miami Peniel Church Nazarene",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "5801 NE 2nd Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33137 ",
+    "phone": "(305) 770-1960",
+    "hours": "",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-443398",
+    "name": "United Way Center of Excellence HS/EHS/Home Based",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (32 funded slots)",
+    "address": "3250 SW 3rd Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33129",
+    "phone": "(305) 631-7600",
+    "hours": "",
+    "lat": 25.752161,
+    "lng": -80.213826,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443402",
+    "name": "Sunflowers Academy HS #5",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (40 funded slots)",
+    "address": "1102 SW 27th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33135",
+    "phone": "(305) 644-0024",
+    "hours": "",
+    "lat": 25.761959,
+    "lng": -80.238998,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443405",
+    "name": "Easter Seals Culmer HS",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (60 funded slots)",
+    "address": "1600 NW 3rd Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33136",
+    "phone": "(305) 438-8605",
+    "hours": "",
+    "lat": 25.790592,
+    "lng": -80.200856,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443442",
+    "name": "MDCPS-Paul Laurence Dunbar K-8",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (37 funded slots)",
+    "address": "505 NW 20th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33127",
+    "phone": "(305) 573-2344",
+    "hours": "",
+    "lat": 25.795852,
+    "lng": -80.203154,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "osm-node-367823332",
+    "name": "Culmer-Overtown Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Northwest 13th Street 350",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33136",
+    "phone": "(305) 579-5322",
+    "hours": "Mo-Th 09:30-20:00; Fr-Sa 09:30-18:00",
+    "lat": 25.7863162,
+    "lng": -80.2012591,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823340",
+    "name": "Grapeland Heights Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 25.7868816,
+    "lng": -80.256491,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823345",
+    "name": "Florida Memorial College Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 25.9166667,
+    "lng": -80.2711111,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823363",
+    "name": "Hispanic Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 25.7719444,
+    "lng": -80.2308333,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823419",
+    "name": "Allapattah Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Northwest 35th Street 1799",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33142",
+    "phone": "(305) 638-6086",
+    "hours": "",
+    "lat": 25.808751,
+    "lng": -80.2256375,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823429",
+    "name": "Civic Center Library Kiosk",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 25.7868988,
+    "lng": -80.2170582,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823514",
+    "name": "Fairchild Tropical Gardens Montgomery Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 25.678564,
+    "lng": -80.273674,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823516",
+    "name": "University of Miami School of Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Miller Road 1311",
+    "city": "Coral Gables",
+    "state": "FL",
+    "zip": "33146",
+    "phone": "",
+    "hours": "",
+    "lat": 25.720568,
+    "lng": -80.2800543,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823540",
+    "name": "Hialeah Gardens Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 25.875857,
+    "lng": -80.340007,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823541",
+    "name": "Hialeah Hospital George H Wessel Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 25.845438,
+    "lng": -80.269029,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4587214217",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southwest 8th Street 982",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33130",
+    "phone": "(305) 858-4583",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "lat": 25.7657744,
+    "lng": -80.2108923,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6020061550",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southwest 40th Street 6842",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33155",
+    "phone": "",
+    "hours": "",
+    "lat": 25.7327006,
+    "lng": -80.3057425,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6082731048",
+    "name": "Bargain Box Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Flagler Street 1350",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33135",
+    "phone": "",
+    "hours": "Tu-Sa 10:00-17:00",
+    "lat": 25.7732581,
+    "lng": -80.2173833,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6369437728",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Northeast Miami Gardens Drive 1780",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33179",
+    "phone": "",
+    "hours": "",
+    "lat": 25.9447628,
+    "lng": -80.1644751,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6594606195",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Northwest 23rd Street 2236",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33127",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-18:00",
+    "lat": 25.7990244,
+    "lng": -80.1965719,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9704076517",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Northeast 81st Street 441",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33138",
+    "phone": "",
+    "hours": "",
+    "lat": 25.849048,
+    "lng": -80.1870125,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10279424210",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southwest 8th Street 9772",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33174",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 25.7608844,
+    "lng": -80.3533149,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-278805856",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 25.6729719,
+    "lng": -80.3202659,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-miami-shelter",
+    "name": "Miami Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-miami-hygiene",
+    "name": "Culmer-Overtown Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Northwest 13th Street 350",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33136",
+    "phone": "",
+    "hours": "Mo-Th 09:30-20:00; Fr-Sa 09:30-18:00",
+    "lat": 25.7863162,
+    "lng": -80.2012591,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

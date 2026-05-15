@@ -1,0 +1,508 @@
+[
+  {
+    "id": "fa-172537",
+    "name": "Urban Ministry, Inc.",
+    "category": "Food",
+    "description": "Food pantry and soup kitchen location in Birmingham, Alabama.",
+    "address": "1229 Cotton Ave. SW.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35211",
+    "phone": "(205) 781-0517",
+    "hours": "",
+    "lat": 33.4923348,
+    "lng": -86.852031,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220356",
+    "name": "YWCA Central Alabama",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "309 North 23rd Street",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35203",
+    "phone": "(205) 322-9922",
+    "hours": "",
+    "lat": 33.5185738,
+    "lng": -86.8028336,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-128137",
+    "name": "Birmingham City Board of Education",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2015 PARK PLACE",
+    "city": "BIRMINGHAM",
+    "state": "AL",
+    "zip": "35022",
+    "phone": "(205) 231-4220",
+    "hours": "",
+    "lat": 33.520105,
+    "lng": -86.80909,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-178802",
+    "name": "Daniel Cason Ministries - Bread of Life Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location providing food assistance services.",
+    "address": "538 7th St. N.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35203",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5113933,
+    "lng": -86.8260347,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192718",
+    "name": "Twenty-Third Street Missionary Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at the church facility.",
+    "address": "331 23rd St. S.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35233",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5114092,
+    "lng": -86.79767,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208170",
+    "name": "Brother Bryan Mission",
+    "category": "Food",
+    "description": "Brother Bryan Mission meal service location.",
+    "address": "1608 2nd Ave N",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35203",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5131486,
+    "lng": -86.8116009,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211499",
+    "name": "Greater Birmingham Ministries Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location serving the Birmingham area.",
+    "address": "2304 12th Ave. N.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35234",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5294097,
+    "lng": -86.8098083,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226157",
+    "name": "Bundles of Hope Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Birmingham, AL",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35201",
+    "phone": "",
+    "hours": "",
+    "lat": 33.51856,
+    "lng": -86.80842,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-172347",
+    "name": "South Highland Presbyterian Church",
+    "category": "Food",
+    "description": "Food pantry location at South Highland Presbyterian Church",
+    "address": "2035 Highland Ave.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35205",
+    "phone": "(205) 933-0790",
+    "hours": "",
+    "lat": 33.4993448,
+    "lng": -86.7943734,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172376",
+    "name": "Grace Klein Community - Jefferson County Family Court House",
+    "category": "Food",
+    "description": "Mobile food pantry distribution location at Jefferson County Family Court House",
+    "address": "120 2nd Ct. N.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35204",
+    "phone": "(205) 490-7516",
+    "hours": "",
+    "lat": 33.5049423,
+    "lng": -86.8339309,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173863",
+    "name": "St. Andrew's Episcopal Church",
+    "category": "Food",
+    "description": "St. Andy's Pantry food distribution location",
+    "address": "1024 12th Street South",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35205",
+    "phone": "(205) 639-9652",
+    "hours": "",
+    "lat": 33.49555,
+    "lng": -86.80812,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174336",
+    "name": "Community Kitchens at Eleventh Avenue COGIC",
+    "category": "Food",
+    "description": "Soup kitchen location at Eleventh Avenue COGIC in Birmingham, Alabama.",
+    "address": "4408 10th Ave. N.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35212",
+    "phone": "(205) 251-3569",
+    "hours": "",
+    "lat": 33.5424554,
+    "lng": -86.770757,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-367931580",
+    "name": "Harwell G Davis Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4656623,
+    "lng": -86.7922114,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367931595",
+    "name": "Lucille Stewart Beeson Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4667238,
+    "lng": -86.7913475,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12590626628",
+    "name": "Clarence B. Hanson, Jr. Library & Archives",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "Tu-Fr 10:00-16:00",
+    "lat": 33.5223913,
+    "lng": -86.8095577,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-54778075",
+    "name": "Birmingham Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Park Place 2100",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35203",
+    "phone": "(205) 226-3600",
+    "hours": "Mo 09:00-18:00; Tu 09:00-20:00; We-Sa 09:00-18:00",
+    "lat": 33.5210121,
+    "lng": -86.8077584,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-54778076",
+    "name": "Linn Hinley Research Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.520604,
+    "lng": -86.8084842,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-55652997",
+    "name": "Hoover Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Municipal Lane 200",
+    "city": "Hoover",
+    "state": "AL",
+    "zip": "35216;35216-5510",
+    "phone": "(205) 444-7800",
+    "hours": "",
+    "lat": 33.3879843,
+    "lng": -86.8046375,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-259692783",
+    "name": "Mervyn H. Sterne Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "13th Street South 917",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35294",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4981806,
+    "lng": -86.8067606,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-491849487",
+    "name": "Harwell G. Davis University Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4658177,
+    "lng": -86.7921034,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-583363219",
+    "name": "Avondale Regional Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "40th Street South 509",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35222",
+    "phone": "(205) 226-4000",
+    "hours": "",
+    "lat": 33.5207924,
+    "lng": -86.7737201,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4839324602",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4618497,
+    "lng": -86.8174618,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5554667964",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Crestwood Boulevard 7952",
+    "city": "Irondale",
+    "state": "AL",
+    "zip": "35210",
+    "phone": "(205) 951-1234",
+    "hours": "Mo-Fr 08:00-19:00, Sa 08:00-17:00",
+    "lat": 33.5324243,
+    "lng": -86.7112783,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7293300713",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Green Springs Highway South 2530",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35205",
+    "phone": "(205) 323-6331",
+    "hours": "Mo-Sa 08:00-18:00; Su 11:00-16:00",
+    "lat": 33.4788474,
+    "lng": -86.8257145,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-birmingham-shelter",
+    "name": "Birmingham Homeless Services Hotline",
+    "category": "Shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 33.5186,
+    "lng": -86.8104,
+    "tags": [
+      "shelter",
+      "hotline",
+      "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-birmingham-hygiene",
+    "name": "Harwell G Davis Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 33.4656623,
+    "lng": -86.7922114,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

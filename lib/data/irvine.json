@@ -1,0 +1,686 @@
+[
+  {
+    "id": "fa-174163",
+    "name": "Lakeview Senior Center",
+    "category": "Food",
+    "description": "Senior center providing meals and food distribution services for homebound seniors in Irvine",
+    "address": "20 Lake Rd",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92604",
+    "phone": "(949) 724-6910",
+    "hours": "",
+    "lat": 33.6760367,
+    "lng": -117.8029787,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192525",
+    "name": "Delhi Center",
+    "category": "Food",
+    "description": "Delhi Center location providing senior food distribution and grocery services.",
+    "address": "505 E Central Ave.",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92707",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7142602,
+    "lng": -117.8611932,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194868",
+    "name": "UCI FRESH Basic Needs Hub",
+    "category": "Food",
+    "description": "UCI FRESH Basic Needs Hub located at the end of parking lot 5 on Mesa Road",
+    "address": "4079 Mesa Rd.",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92617",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6538622,
+    "lng": -117.8438356,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199517",
+    "name": "Walking Shield",
+    "category": "Food",
+    "description": "Main office location for Walking Shield food assistance services",
+    "address": "3100 Airway Avenue",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "zip": "92626",
+    "phone": "",
+    "hours": "",
+    "lat": 33.673959,
+    "lng": -117.8743193,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220199",
+    "name": "Guru Nanak Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "14511 Franklin Avenue #160",
+    "city": "Tustin",
+    "state": "CA",
+    "zip": "92780",
+    "phone": "(949) 425-2401",
+    "hours": "",
+    "lat": 33.7172546,
+    "lng": -117.8077087,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221504",
+    "name": "AIDS Services Foundation Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "17982 Sky Park Circle Suite J",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92614",
+    "phone": "(949) 809-5770",
+    "hours": "",
+    "lat": 33.6897125,
+    "lng": -117.8594284,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224672",
+    "name": "St. Vincent de Paul Society - St. Elizabeth Ann Seton",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "9 Hillgate",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92612",
+    "phone": "(949) 854-1000",
+    "hours": "",
+    "lat": 33.6505737,
+    "lng": -117.8184433,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-465",
+    "name": "Orange County Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1 Hope Dr",
+    "city": "Tustin",
+    "state": "CA",
+    "zip": "92782",
+    "phone": "(714) 247-4300",
+    "hours": "",
+    "lat": 33.7261,
+    "lng": -117.8261,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-449600",
+    "name": "Home Base",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (19 funded slots)",
+    "address": "2501 Pullman St Ste 100",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92705",
+    "phone": "(714) 241-8920",
+    "hours": "",
+    "lat": 33.712044,
+    "lng": -117.846966,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-194188",
+    "name": "St. Elizabeth Ann Seton SVDP",
+    "category": "Food",
+    "description": "St. Vincent de Paul Society food assistance location in Irvine",
+    "address": "9 Hillgaten'a",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92612",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6505114,
+    "lng": -117.818458,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195880",
+    "name": "Radiant Health",
+    "category": "Food",
+    "description": "Main location for Radiant Health food pantry services",
+    "address": "17982 Sky Park Circle",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92614",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6897114,
+    "lng": -117.8594399,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-221924",
+    "name": "Boys Hope Girls Hope of Southern California",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "17701 Cowan Ave",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92614",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6954346,
+    "lng": -117.8576965,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-1454146985",
+    "name": "Town Center Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5647646,
+    "lng": -117.6332208,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1454147082",
+    "name": "sheltered picnic area",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.564293,
+    "lng": -117.6334541,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4631376401",
+    "name": "UCI Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6433883,
+    "lng": -117.8428865,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5455520099",
+    "name": "Gazebo at the Park",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6528905,
+    "lng": -117.7538815,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170069",
+    "name": "Corona del Mar Branch Newport Beach Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5961682,
+    "lng": -117.8694152,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170079",
+    "name": "Laguna Niguel Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "(949) 249-5252",
+    "hours": "Mo-Th 10:00-19:00; Fr-Su 09:00-17:00",
+    "lat": 33.5225668,
+    "lng": -117.7169476,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170083",
+    "name": "Euclid Branch Anaheim Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8142981,
+    "lng": -117.9410031,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170101",
+    "name": "Banning Branch Huntington Beach Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6436151,
+    "lng": -117.9656302,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170812",
+    "name": "William T Boyce Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8756008,
+    "lng": -117.9182657,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170856",
+    "name": "Rinker Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7930556,
+    "lng": -117.8538889,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1233397192",
+    "name": "Hunt Libary",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.869186,
+    "lng": -117.9550555,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3088548281",
+    "name": "Anaheim Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8688356,
+    "lng": -117.7465455,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5982049387",
+    "name": "Buena Park Library District",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "La Palma Avenue 7150",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "90620",
+    "phone": "(714) 826-4100",
+    "hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-17:00",
+    "lat": 33.8464373,
+    "lng": -118.0084493,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3700666338",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Westminster Boulevard 6741",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92683",
+    "phone": "(714) 705-6584",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "lat": 33.7612594,
+    "lng": -118.0099192,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5567919855",
+    "name": "Habitat for Humanity of Orange County ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Katella Avenue 1656",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92802",
+    "phone": "(714) 434-6266",
+    "hours": "",
+    "lat": 33.8020266,
+    "lng": -117.9395604,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5665024733",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "recycling",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8020818,
+    "lng": -117.938334,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6343747035",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Thrift store",
+    "address": "Bristol Street 2118",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92704",
+    "phone": "(714) 444-4749",
+    "hours": "Mo-Sa 09:00-19:00; Su 11:00-19:00",
+    "lat": 33.7186859,
+    "lng": -117.886502,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6580499388",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.837807,
+    "lng": -117.886827,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7982801061",
+    "name": "Goodwill OC Boutique San Juan Capistrano",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Plaza Drive 31892",
+    "city": "San Juan Capistrano",
+    "state": "CA",
+    "zip": "92675",
+    "phone": "(949) 272-0505",
+    "hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
+    "lat": 33.496581,
+    "lng": -117.6606432,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7983332220",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East 1st Street 502",
+    "city": "Tustin",
+    "state": "CA",
+    "zip": "92780",
+    "phone": "(714) 716-2126",
+    "hours": "Mo-Su 10:00-20:00; Su 10:00-19:00",
+    "lat": 33.7449506,
+    "lng": -117.818227,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10759848529",
+    "name": "Goodwill Boutique",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Rockfield Boulevard 23740",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92630",
+    "phone": "(949) 470-2040",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 33.6161204,
+    "lng": -117.7028945,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10759848530",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Donation center closes at 7:00 PM.",
+    "address": "Rockfield Boulevard 23740",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92630",
+    "phone": "(949) 470-2040",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "lat": 33.6162529,
+    "lng": -117.7028245,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13010043756",
+    "name": "Discovery Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6031519,
+    "lng": -117.8729668,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-irvine-hygiene",
+    "name": "Corona del Mar Branch Newport Beach Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5961682,
+    "lng": -117.8694152,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

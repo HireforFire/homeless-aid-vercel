@@ -1,0 +1,534 @@
+[
+  {
+    "id": "fa-190015",
+    "name": "SDA Modesto Central - Church Office",
+    "category": "Food",
+    "description": "Church office address for SDA Modesto Central",
+    "address": "1614 H Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.64307,
+    "lng": -120.99173,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190257",
+    "name": "Salvation Army Social Services - Modesto",
+    "category": "Food",
+    "description": "Food pantry location providing emergency food assistance",
+    "address": "601 Ninth Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.635915,
+    "lng": -120.9966779,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-223900",
+    "name": "MoPride's People's Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "400 12th Street suite 2",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "(209) 567-2124",
+    "hours": "",
+    "lat": 37.63699,
+    "lng": -120.9918443,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-450712",
+    "name": "Tom Changnon Education Center (TCEC)",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (5 funded slots)",
+    "address": "1325 H St",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "(209) 238-6300",
+    "hours": "",
+    "lat": 37.64127,
+    "lng": -120.994844,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-450725",
+    "name": "Pearson Elementary",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
+    "address": "500 Locust St",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95351",
+    "phone": "(209) 576-4392",
+    "hours": "",
+    "lat": 37.640339,
+    "lng": -121.013019,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-128609",
+    "name": "Modesto City Elementary School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "426 LOCUST ST",
+    "city": "MODESTO",
+    "state": "CA",
+    "zip": "95356",
+    "phone": "(209) 576-4011",
+    "hours": "",
+    "lat": 37.63963,
+    "lng": -121.013645,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-190447",
+    "name": "Victory in Praise",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "720 G Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6357893,
+    "lng": -120.9987,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196193",
+    "name": "United Pentecostal Church",
+    "category": "Food",
+    "description": "Food distribution location at United Pentecostal Church",
+    "address": "825 7th Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6369362,
+    "lng": -121.0018812,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201208",
+    "name": "Parent Resource Center",
+    "category": "Food",
+    "description": "Main location of Parent Resource Center",
+    "address": "811 5th Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95351",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6352117,
+    "lng": -121.003539,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214765",
+    "name": "The Father's House",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "346 Burney Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6431402,
+    "lng": -120.988592,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-453",
+    "name": "Modesto Gospel Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1400 Yosemite Blvd",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "(209) 529-8259",
+    "hours": "",
+    "lat": 37.6461,
+    "lng": -121.0061,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-175238",
+    "name": "Ceres Partnership",
+    "category": "Food",
+    "description": "Ceres Partnership family resource center location",
+    "address": "1317 Grandview Ave",
+    "city": "Ceres",
+    "state": "CA",
+    "zip": "95307",
+    "phone": "(209) 541-0101",
+    "hours": "",
+    "lat": 37.607105,
+    "lng": -120.97354229999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-5521495816",
+    "name": "Ceres High School Gazebo",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.5949442,
+    "lng": -120.956394,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-553647534",
+    "name": "Shade",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.4688176,
+    "lng": -121.1496959,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170347",
+    "name": "Modesto Junior College Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6517688,
+    "lng": -121.0099423,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170350",
+    "name": "Salida Branch Stanislaus County Free Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7084206,
+    "lng": -121.078313,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170351",
+    "name": "Keyes Branch Stanislaus County Free Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.5520738,
+    "lng": -120.9096469,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170352",
+    "name": "Ceres Branch Stanislaus County Free Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.5929696,
+    "lng": -120.955007,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170355",
+    "name": "Patterson Branch Stanislaus County Free Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.4717777,
+    "lng": -121.1316033,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170356",
+    "name": "Oakdale Branch Stanislaus County Free Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7646502,
+    "lng": -120.8488212,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170393",
+    "name": "Emanuel Medical Center Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.5113232,
+    "lng": -120.8388164,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170394",
+    "name": "Hughson Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "3rd Street 2412",
+    "city": "Hughson",
+    "state": "CA",
+    "zip": "95326",
+    "phone": "(209) 883-2293",
+    "hours": "Tu-Th 10:00-18:00; Fr-Sa 10:00-17:00",
+    "lat": 37.5961992,
+    "lng": -120.8664635,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170461",
+    "name": "Ripon Branch Stockton-San Joaquin County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7396131,
+    "lng": -121.1264324,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6042956059",
+    "name": "Rose Avenue Elementary School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6582889,
+    "lng": -120.965978,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3524713025",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6763592,
+    "lng": -120.9952562,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-281221372",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Tegner Road 3000",
+    "city": "Turlock",
+    "state": "CA",
+    "zip": "95380",
+    "phone": "(209) 507-8930",
+    "hours": "11:00-20:00",
+    "lat": 37.5198429,
+    "lng": -120.8856947,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1146755878",
+    "name": "Sacred Heart Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Avenue 1388",
+    "city": "Turlock",
+    "state": "CA",
+    "zip": "95380",
+    "phone": "(209) 634-8780",
+    "hours": "Tu-Sa 09:00-16:00",
+    "lat": 37.492104,
+    "lng": -120.8355943,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-modesto-hygiene",
+    "name": "Modesto Junior College Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6517688,
+    "lng": -121.0099423,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

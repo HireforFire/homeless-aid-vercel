@@ -1,0 +1,458 @@
+[
+  {
+    "id": "fa-218669",
+    "name": "The Salvation Army - Ave Fernandez Juncos Puerto De Tierra",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance.",
+    "address": "Ave Fernandez Juncos Puerto de Tierra",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "00901",
+    "phone": "(787) 722-3301",
+    "hours": "",
+    "lat": 18.46478,
+    "lng": -66.10277,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-442740",
+    "name": "EHS/HS Puerta de Tierra",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (18 funded slots)",
+    "address": "Res. Puerta de Tierra II, Ave. Fernndez Juncos (PR-1) Bo. San Juan Antiguo Pda. 5",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "00901",
+    "phone": "(787) 480-4559",
+    "hours": "",
+    "lat": 18.465116,
+    "lng": -66.105775,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-442751",
+    "name": "EHS Casa Cuna",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
+    "address": "Avenida Constitucin #405 Puerta De Tierra",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "00901",
+    "phone": "(787) 480-4565",
+    "hours": "",
+    "lat": 18.46512,
+    "lng": -66.094049,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-444285",
+    "name": "La Providencia II",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (29 funded slots)",
+    "address": "Calle Marina, Esq. Providencia 1 Res. Luis Llorns Torres",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "00915",
+    "phone": "(787) 592-4963",
+    "hours": "",
+    "lat": 18.463988,
+    "lng": -66.109929,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-443331",
+    "name": "Centro Caparra EHS",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
+    "address": "130 Ave De Diego Urb. La Riviera",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "00921",
+    "phone": "(787) 754-0248",
+    "hours": "",
+    "lat": 18.451081,
+    "lng": -66.064429,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-444458",
+    "name": "Centro Head Start Juana Matos",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (37 funded slots)",
+    "address": "Residencial Juana Matos I",
+    "city": "Catano",
+    "state": "PR",
+    "zip": "00962",
+    "phone": "(787) 275-3124",
+    "hours": "",
+    "lat": 18.436335,
+    "lng": -66.128778,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-444543",
+    "name": "Centro Figueroa (Escuela Dr. Hernandez y Gaetan)",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (16 funded slots)",
+    "address": "1113 Callejn La Rosa",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "00907",
+    "phone": "(787) 952-3310",
+    "hours": "",
+    "lat": 18.445571,
+    "lng": -66.077832,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-444821",
+    "name": "Caparra EHS",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (48 funded slots)",
+    "address": "130 Ave De Diego Urb. L Riviera",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "00921",
+    "phone": "(787) 754-0248",
+    "hours": "",
+    "lat": 18.451081,
+    "lng": -66.064429,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-444823",
+    "name": "Embarazada CW",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
+    "address": "1579 Ave Ponce De Leon",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "00926",
+    "phone": "(1) 787-754",
+    "hours": "",
+    "lat": 18.444682,
+    "lng": -66.066441,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-452597",
+    "name": "Centro Esperanza",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (65 funded slots)",
+    "address": "900 Calle Cerra Centro Mas Salud Dr. Gualberto Rabell 2do piso",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "00907",
+    "phone": "(787) 952-3301",
+    "hours": "",
+    "lat": 18.447173,
+    "lng": -66.081984,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-459198",
+    "name": "Mundo de Colores Mega Centro Head Start & EHS",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (35 funded slots)",
+    "address": "200 Las Nereidas Avenue",
+    "city": "Catano",
+    "state": "PR",
+    "zip": "00962",
+    "phone": "(787) 753-9082",
+    "hours": "",
+    "lat": 18.441266,
+    "lng": -66.124837,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-459203",
+    "name": "Mundo de Colores Mega HS & EHS Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (35 funded slots)",
+    "address": "114 Las Nereidas Avenue",
+    "city": "Catao",
+    "state": "PR",
+    "zip": "00962",
+    "phone": "(787) 753-9082",
+    "hours": "",
+    "lat": 18.441299,
+    "lng": -66.125147,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "osm-node-2057195306",
+    "name": "Colegio de la Inmaculada",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 18.4415617,
+    "lng": -66.062452,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367769275",
+    "name": "Biblioteca Municipal",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 18.3997468,
+    "lng": -66.1587718,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367769508",
+    "name": "Presbyterian Community Hospital Learning Resources Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 18.4555929,
+    "lng": -66.0651201,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367769838",
+    "name": "Biblioteca Legislativa Tomás Bonilla Feliciano",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 18.4671423,
+    "lng": -66.1041939,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367769843",
+    "name": "Department of Veteran Affairs Hospital Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 18.3903555,
+    "lng": -66.079317,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367769859",
+    "name": "Metropolitan Campus Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 18.4210956,
+    "lng": -66.0565417,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367769862",
+    "name": "Biblioteca HURRA",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 18.3680054,
+    "lng": -66.1543336,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367769865",
+    "name": "Biblioteca UCC",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 18.3662006,
+    "lng": -66.1536156,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2983728483",
+    "name": "Biblioteca Escuela de Derecho",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 18.4065425,
+    "lng": -66.0477295,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8025915587",
+    "name": "Biblioteca Prof. Rafael Picó Santiago",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Avenida Juan Ponce de León",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "00925",
+    "phone": "",
+    "hours": "",
+    "lat": 18.4035938,
+    "lng": -66.0522814,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-425372864",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 18.3948568,
+    "lng": -65.9920878,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-san-juan-hygiene",
+    "name": "Biblioteca Municipal - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 18.3997468,
+    "lng": -66.1587718,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

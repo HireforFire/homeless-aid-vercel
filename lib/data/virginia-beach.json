@@ -1,0 +1,563 @@
+[
+  {
+    "id": "fa-174390",
+    "name": "Virginia Beach United Methodist Church",
+    "category": "Food",
+    "description": "United Methodist Church located in Virginia Beach",
+    "address": "212 19th St",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "(757) 428-7727",
+    "hours": "",
+    "lat": 36.8467139,
+    "lng": -75.9754988,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184493",
+    "name": "Star of the Sea Catholic Church",
+    "category": "Food",
+    "description": "Food assistance distribution location at Star of the Sea Catholic Church",
+    "address": "1404 Pacific Ave.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8425615,
+    "lng": -75.9756247,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207842",
+    "name": "5 Loaves 2 Fish Ministry",
+    "category": "Food",
+    "description": "Main distribution location",
+    "address": "2014 Atlantic Ave",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8488298,
+    "lng": -75.975449,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-453493",
+    "name": "Mile High Kids Head Start Virginia Beach - Atlantis Campus",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
+    "address": "999 Atlantis Dr",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "(757) 226-7111",
+    "hours": "",
+    "lat": 36.839115,
+    "lng": -75.993656,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-178303",
+    "name": "Creating Legacies Inc.",
+    "category": "Food",
+    "description": "Creating Legacies Inc. service location in Crawford County, Kansas",
+    "address": "Creating Legacies Inc.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "",
+    "hours": "",
+    "lat": 36.846505,
+    "lng": -76.004757,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194368",
+    "name": "Good Shepherd Lutheran Church",
+    "category": "Food",
+    "description": "Good Shepherd Lutheran Church food pantry location",
+    "address": "1489 Laskin Rd.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8504974,
+    "lng": -76.013305,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-14234",
+    "name": "Judeo-Christian Outreach Center Food Pantry",
+    "category": "Food",
+    "description": "appointment",
+    "address": "1053 Virginia Beach Blvd",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "(757) 491-2846",
+    "hours": "",
+    "lat": 36.87175,
+    "lng": -76.00689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-14235",
+    "name": "Chapel Pantry",
+    "category": "Food",
+    "description": "once per month",
+    "address": "2020 Laskin Road",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "(757) 428-6763",
+    "hours": "",
+    "lat": 36.83216,
+    "lng": -76.02616,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-223461",
+    "name": "Foundry United Methodist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2801 Virginia Beach Boulevard",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23452",
+    "phone": "(757) 348-2221",
+    "hours": "",
+    "lat": 36.8427138,
+    "lng": -76.0672926,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223868",
+    "name": "The Chapel Pantry/Eastern Shore Chapel",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2020 Laskin Rd.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "(757) 428-6763",
+    "hours": "",
+    "lat": 36.8465195,
+    "lng": -76.0381317,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-192632",
+    "name": "Outreach for Christ",
+    "category": "Food",
+    "description": "Main location providing food pantry services.",
+    "address": "2425 Bowland Pkwy",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8254907,
+    "lng": -76.0552736,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195085",
+    "name": "Church of the Holy Family Catholic Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at Church of the Holy Family Catholic Church",
+    "address": "1279 N. Great Neck Rd.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8732758,
+    "lng": -76.0407534,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-3188922286",
+    "name": "Samaritan House",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Southern Boulevard 2620",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23452",
+    "phone": "(757) 763-1071",
+    "hours": "",
+    "lat": 36.8398911,
+    "lng": -76.0629964,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4637812567",
+    "name": "Marlwood Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8275257,
+    "lng": -76.1502174,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5276397205",
+    "name": "Lago Mar Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.7528782,
+    "lng": -75.9784724,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7990000129",
+    "name": "Luke Bede Eagle Scout Project",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8627802,
+    "lng": -76.1214891,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-402255721",
+    "name": "Bayside Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Independence Boulevard 936",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23455",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8697982,
+    "lng": -76.1327539,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-402408632",
+    "name": "Oceanfront Area Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Virginia Beach Boulevard 700",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8444377,
+    "lng": -75.9835667,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-402419460",
+    "name": "Great Neck Area Branch Virginia Beach Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Bayne Drive 1251",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8657197,
+    "lng": -76.0357244,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-402438758",
+    "name": "Windsor Woods Area Branch Virginia Beach Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Plaza Trail 3612",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23452",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8302326,
+    "lng": -76.0970713,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-402552479",
+    "name": "Princess Anne Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Nimmo Parkway 1444",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23456",
+    "phone": "",
+    "hours": "",
+    "lat": 36.7643673,
+    "lng": -76.0219331,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-402738468",
+    "name": "Kempsville Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Kempsville Road 832",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23464",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8152949,
+    "lng": -76.1634659,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-402750760",
+    "name": "Joint-Use Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Michael La Bouve Drive 1788",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23453",
+    "phone": "",
+    "hours": "",
+    "lat": 36.786098,
+    "lng": -76.095679,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1339755774",
+    "name": "Wahab Public Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Nimmo Parkway 2425",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23456",
+    "phone": "(757) 385-4419",
+    "hours": "Mo-Fr 08:30-16:30; Sa-Su off",
+    "lat": 36.7535633,
+    "lng": -76.0602136,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2061752475",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8207522,
+    "lng": -76.0747641,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8203081364",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.7514494,
+    "lng": -76.0114686,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-407422627",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Virginia Beach Boulevard 5524",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23462",
+    "phone": "(757) 499-0032",
+    "hours": "Mo-Sa 09:00-19:00",
+    "lat": 36.8531505,
+    "lng": -76.1726613,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-837281660",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8125346,
+    "lng": -76.1693246,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-virginia-beach-hygiene",
+    "name": "Bayside Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Independence Boulevard 936",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23455",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 36.8697982,
+    "lng": -76.1327539,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

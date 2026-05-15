@@ -1,0 +1,564 @@
+[
+  {
+    "id": "fa-194944",
+    "name": "St. Benedict's Chapel",
+    "category": "Food",
+    "description": "Soup kitchen location at St. Benedict's Chapel",
+    "address": "1615 28th St.",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79411",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5689153,
+    "lng": -101.8547361,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216940",
+    "name": "The Salvation Army - 16Th St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1111 16th St",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79401",
+    "phone": "(806) 765-9434",
+    "hours": "",
+    "lat": 33.58683,
+    "lng": -101.85179,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-460445",
+    "name": "Bean Elementary",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (39 funded slots)",
+    "address": "3001 Avenue N",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79411",
+    "phone": "(806) 219-5100",
+    "hours": "",
+    "lat": 33.567651,
+    "lng": -101.849926,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-460454",
+    "name": "Ramirez Elementary",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (14 funded slots)",
+    "address": "702 Avenue T",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79401",
+    "phone": "(806) 219-6500",
+    "hours": "",
+    "lat": 33.589017,
+    "lng": -101.861284,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-130864",
+    "name": "LUBBOCK ISD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1628 19TH ST",
+    "city": "LUBBOCK",
+    "state": "TX",
+    "zip": "79401",
+    "phone": "(806) 766-1000",
+    "hours": "",
+    "lat": 33.578285,
+    "lng": -101.855044,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-202",
+    "name": "Catholic Charities - Lubbock",
+    "category": "Food",
+    "description": "Lubbock County",
+    "address": "102 N Avenue P",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79401",
+    "phone": "(806) 765-8475",
+    "hours": "",
+    "lat": 33.5783,
+    "lng": -101.8683,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-203",
+    "name": "Salvation Army - Lubbock",
+    "category": "Food",
+    "description": "Emergency assistance",
+    "address": "1603 19th St",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79401",
+    "phone": "(806) 765-6234",
+    "hours": "",
+    "lat": 33.5783,
+    "lng": -101.8483,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-181794",
+    "name": "East Lubbock Art House",
+    "category": "Food",
+    "description": "Free outdoor food pantry location in East Lubbock",
+    "address": "405 M.L.K. Jr Blvd. Suite B",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79403",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6027843,
+    "lng": -101.8192136,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207704",
+    "name": "Susie's Closet",
+    "category": "Food",
+    "description": "Food pantry location in Lubbock, TX",
+    "address": "1701 Parkway Dr.",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79403",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5947042,
+    "lng": -101.8167588,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-222587",
+    "name": "South Plains Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "4612 Locust Ave.",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79404",
+    "phone": "(806) 763-3003",
+    "hours": "",
+    "lat": 33.5511322,
+    "lng": -101.8247452,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-13717",
+    "name": "Lubbock Dream Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1111 30th Street",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79411",
+    "phone": "(806) 793-3336",
+    "hours": "",
+    "lat": 33.57012,
+    "lng": -101.85773,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13719",
+    "name": "Hope Community of Shalom",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "2005 Avenue T",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79411",
+    "phone": "(806) 762-0829",
+    "hours": "",
+    "lat": 33.57012,
+    "lng": -101.85773,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "osm-node-5588825322",
+    "name": "Fountains Apartments Gazebo, North",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5482994,
+    "lng": -101.9301166,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5588849366",
+    "name": "Ratliff Park Gazebo",
+    "category": "Shelter",
+    "description": "Gazeebo with picnic tables, grills and trash bins. Wheelchair access from the north.",
+    "address": "",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5491424,
+    "lng": -101.9321121,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-75508850",
+    "name": "Texas Tech University Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "18th Street 2802",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79409",
+    "phone": "",
+    "hours": "Mo-Sa 06:00-02:00, Su 10:00-02:00; PH off",
+    "lat": 33.5814113,
+    "lng": -101.8763814,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-77697918",
+    "name": "Southwest Collection/Special Collection Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "15th Street 2805",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79409",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-17:00; PH off",
+    "lat": 33.5819323,
+    "lng": -101.8770441,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-443517689",
+    "name": "Godeke Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Frankford Avenue 5034",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79424",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5457539,
+    "lng": -101.9405302,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-465335918",
+    "name": "Groves Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "19th Street 5520",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79407",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5782958,
+    "lng": -101.9330131,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-470110281",
+    "name": "City of Wolfforth Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Highway 62 508",
+    "city": "Wolfforth",
+    "state": "TX",
+    "zip": "79382",
+    "phone": "",
+    "hours": "",
+    "lat": 33.515097,
+    "lng": -101.9995565,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-472206417",
+    "name": "T J Patterson Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Parkway Drive 1836",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79403",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5943969,
+    "lng": -101.8130527,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-488771475",
+    "name": "Mahon Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "9th Street 1306",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79401",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5880438,
+    "lng": -101.8490878,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-511825869",
+    "name": "LCU Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5761408,
+    "lng": -101.9345168,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-649341030",
+    "name": "Study Lounge",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "24/7",
+    "lat": 33.6010801,
+    "lng": -101.9139361,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-422748187",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "34th Street 1940",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79411",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5636734,
+    "lng": -101.8591526,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-443520845",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Spur 327 5710",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79424",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5395981,
+    "lng": -101.9378957,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-462467635",
+    "name": "Kitchen of Hope",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Interstate 27 6604",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79412",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5330897,
+    "lng": -101.8455226,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-464428179",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "34th Street 714",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79404",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5639536,
+    "lng": -101.8429249,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-470453477",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Highway 62 702",
+    "city": "Wolfforth",
+    "state": "TX",
+    "zip": "79382",
+    "phone": "",
+    "hours": "",
+    "lat": 33.50111,
+    "lng": -102.014768,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-lubbock-hygiene",
+    "name": "Texas Tech University Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "18th Street 2802",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79409",
+    "phone": "",
+    "hours": "Mo-Sa 06:00-02:00, Su 10:00-02:00; PH off",
+    "lat": 33.5814113,
+    "lng": -101.8763814,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

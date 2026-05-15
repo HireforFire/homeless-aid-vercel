@@ -1,0 +1,458 @@
+[
+  {
+    "id": "fa-170449",
+    "name": "Billings Food Bank",
+    "category": "Food",
+    "description": "Main food bank location in Billings",
+    "address": "2112 4th Ave N",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "(406) 259-2856",
+    "hours": "",
+    "lat": 45.7880551,
+    "lng": -108.49980219999999,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170533",
+    "name": "Montana Rescue Mission",
+    "category": "Food",
+    "description": "Main facility providing daily meal services.",
+    "address": "2902 Minnesota Ave.",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "(406) 259-3800",
+    "hours": "",
+    "lat": 45.779516,
+    "lng": -108.50535100000002,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170594",
+    "name": "South Park Senior Citizens Center",
+    "category": "Food",
+    "description": "Senior citizens center providing meal programs.",
+    "address": "901 S. 30th St.",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "(406) 256-6413",
+    "hours": "",
+    "lat": 45.7714287,
+    "lng": -108.4982931,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171000",
+    "name": "Friendship House of Christian Service",
+    "category": "Food",
+    "description": "Meal program distribution location in Billings, Montana.",
+    "address": "3123 8th Ave. South",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.771584,
+    "lng": -108.50208399999997,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171015",
+    "name": "Billings First United Methodist Church",
+    "category": "Food",
+    "description": "Food pantry location at Billings First United Methodist Church.",
+    "address": "2800 4th Ave. North",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.784243,
+    "lng": -108.5084619,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171198",
+    "name": "Off the Streets",
+    "category": "Food",
+    "description": "24/7 shelter providing meal programs and emergency services.",
+    "address": "2601 4th Ave. North",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7858579,
+    "lng": -108.5062089,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171626",
+    "name": "Tumbleweed Runaway Program - Billings",
+    "category": "Food",
+    "description": "Main location of Tumbleweed Runaway Program in Billings, Montana. Walk-up services available during operating hours.",
+    "address": "505 N 24th St",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.788199,
+    "lng": -108.5041868,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171670",
+    "name": "Office of Public Assistance-Billings",
+    "category": "Food",
+    "description": "Office location providing SNAP Application Assistance and public assistance services",
+    "address": "111 North 31 Street",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7798834,
+    "lng": -108.50851820000003,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-445517",
+    "name": "Head Start, Inc. - North Park Site",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (132 funded slots)",
+    "address": "615 N 19th St",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "(406) 245-7233",
+    "hours": "",
+    "lat": 45.792427,
+    "lng": -108.498669,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-456485",
+    "name": "The Family Tree Nurturing Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (10 funded slots)",
+    "address": "2520 5th Ave S",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "(406) 252-9799",
+    "hours": "",
+    "lat": 45.777195,
+    "lng": -108.496785,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-171125",
+    "name": "Montana Rescue Mission - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Billings, Montana",
+    "address": "2822 Minnesota Ave",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7796962,
+    "lng": -108.50491369999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171214",
+    "name": "Dinner Church",
+    "category": "Food",
+    "description": "Dinner Church meal program location",
+    "address": "420 South 30th Street",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7749981,
+    "lng": -108.502699,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-12583436738",
+    "name": "Casa Village",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7608719,
+    "lng": -108.5799965,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12719904240",
+    "name": "MET Transit",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7677014,
+    "lng": -108.5820085,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12719912425",
+    "name": "MET Transit",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7679704,
+    "lng": -108.5819967,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7874564604",
+    "name": "Billings Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7857533,
+    "lng": -108.5106577,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-543133828",
+    "name": "Billings Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Broadway 510",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7858779,
+    "lng": -108.5103779,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-736370136",
+    "name": "University Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "University Drive 1500",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "Mo-Th 07:30-22:00; Fr 07:30-17:00; Su 02:00-22:00",
+    "lat": 45.7968975,
+    "lng": -108.5230956,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-842944694",
+    "name": "Paul M. Adams Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7965076,
+    "lng": -108.5541313,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1276580310",
+    "name": "Shepherd School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.942081,
+    "lng": -108.3442476,
+    "tags": [
+      "library",
+      "wifi"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-562900897",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7818477,
+    "lng": -108.5031562,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-844093748",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7525753,
+    "lng": -108.5863394,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-851664648",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.8294721,
+    "lng": -108.4720374,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-billings-hygiene",
+    "name": "Billings Public Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms and water fountain.",
+    "address": "",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7857533,
+    "lng": -108.5106577,
+    "tags": [
+      "restroom",
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  }
+]

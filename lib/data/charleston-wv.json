@@ -228,61 +228,375 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-charleston-wv-shelter",
-    "name": "Charleston Homeless Services Hotline",
+    "id": "osm-node-13469071117",
+    "name": "Picnic Shelter 6",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Charleston",
     "state": "WV",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 38.3498,
-    "lng": -81.6326,
+    "phone": "",
+    "hours": "",
+    "lat": 38.2427465,
+    "lng": -81.6544448,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13469071118",
+    "name": "Picnic Shelter 8",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2425476,
+    "lng": -81.6539566,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13469071119",
+    "name": "Picnic Shelter 7",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2421244,
+    "lng": -81.6540119,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13469071120",
+    "name": "Picnic Shelter 9",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2433676,
+    "lng": -81.6545723,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13469071121",
+    "name": "Picnic Shelter 10",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2438796,
+    "lng": -81.6542652,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13469218544",
+    "name": "picnic shelter 4",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.273089,
+    "lng": -81.6582527,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13469218545",
+    "name": "picnic shelter 3",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2723265,
+    "lng": -81.6590595,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13469218548",
+    "name": "picnic shelter 5",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.264639,
+    "lng": -81.668837,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367808123",
+    "name": "West Virginia Legislative Reference Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.3363345,
+    "lng": -81.6126492,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-334108462",
+    "name": "Shoenbaum Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25304",
+    "phone": "(304) 357-4779",
+    "hours": "",
+    "lat": 38.3334769,
+    "lng": -81.6166486,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-334628681",
+    "name": "Kanawha County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Capitol Street 123",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25301-2609",
+    "phone": "(304) 343-4646",
+    "hours": "",
+    "lat": 38.350057,
+    "lng": -81.6356502,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-377805108",
+    "name": "Elk Valley Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "The Crossings Mall 313",
+    "city": "Elkview",
+    "state": "WV",
+    "zip": "25071",
+    "phone": "(304) 965-3636",
+    "hours": "",
+    "lat": 38.4571723,
+    "lng": -81.5026393,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-379036706",
+    "name": "South Charleston Branch Kanawha County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "4Th Avenue 312",
+    "city": "South Charleston",
+    "state": "WV",
+    "zip": "25303-1228",
+    "phone": "(304) 744-6561",
+    "hours": "",
+    "lat": 38.3662037,
+    "lng": -81.6938279,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-381683365",
+    "name": "Dunbar Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "12th Street 301",
+    "city": "Dunbar",
+    "state": "WV",
+    "zip": "25064",
+    "phone": "(304) 766-7161",
+    "hours": "",
+    "lat": 38.3592684,
+    "lng": -81.7400301,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-542715871",
+    "name": "Kanawha County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Big Tyler Road 5449",
+    "city": "Cross Lanes",
+    "state": "WV",
+    "zip": "25313-1133",
+    "phone": "(304) 776-5999",
+    "hours": "",
+    "lat": 38.4267883,
+    "lng": -81.7842329,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-548655499",
+    "name": "Drain-Jordan Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.3814634,
+    "lng": -81.7642959,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-565157382",
+    "name": "Poca Branch - Putnam County Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Charleston Road 2858",
+    "city": "Poca",
+    "state": "WV",
+    "zip": "25159",
+    "phone": "(304) 755-3241",
+    "hours": "",
+    "lat": 38.4757643,
+    "lng": -81.81321,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-905275634",
+    "name": "Marmet Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Oregon Avenue 9303",
+    "city": "Marmet",
+    "state": "WV",
+    "zip": "25315",
+    "phone": "(304) 949-6628",
+    "hours": "",
+    "lat": 38.245863,
+    "lng": -81.5683259,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-charleston-wv-hygiene",
-    "name": "Charleston Public Restroom Information",
+    "name": "West Virginia Legislative Reference Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Charleston",
     "state": "WV",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 38.3498,
-    "lng": -81.6326,
+    "hours": "During library hours",
+    "lat": 38.3363345,
+    "lng": -81.6126492,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-charleston-wv-library",
-    "name": "Charleston Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 38.3498,
-    "lng": -81.6326,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

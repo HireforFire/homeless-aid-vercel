@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-577432",
+    "name": "Positive Community Kitchen",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "120 Shelton McMurphey Boulevard",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "(541) 249-4942",
+    "hours": "",
+    "lat": 44.0557234,
+    "lng": -123.0943021,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-219523",
     "name": "Eugene Salvation Army",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 44.038175,
     "lng": -123.089436,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176014",
-    "name": "Catholic Community Services (CCS) – Eugene",
-    "category": "Food",
-    "description": "Food pantry distribution location in Eugene, Oregon.",
-    "address": "1464 W 6th Avenue",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97402",
-    "phone": "",
-    "hours": "",
-    "lat": 44.052986197198,
-    "lng": -123.114888585692,
     "tags": [
       "food pantry",
       "walk-in"

@@ -228,61 +228,337 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "fallback-columbus-shelter",
-    "name": "Columbus Homeless Services Hotline",
+    "id": "osm-node-1604431541",
+    "name": "Tinnapple Park Shelter House",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Columbus",
     "state": "OH",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 39.9612,
-    "lng": -82.9988,
+    "phone": "",
+    "hours": "",
+    "lat": 40.0131707,
+    "lng": -83.1599962,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5789054676",
+    "name": "The Open Shelter",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "East Mound Street 61",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "24/7",
+    "lat": 39.9545545,
+    "lng": -82.9974429,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368152459",
+    "name": "Hilltop Branch Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.954508,
+    "lng": -83.0793529,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368152664",
+    "name": "Hilltonia Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9336748,
+    "lng": -83.0557408,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368153046",
+    "name": "Josiah H Blackmore Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9567309,
+    "lng": -82.9376804,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368153105",
+    "name": "James Kilbourne Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0895081,
+    "lng": -83.0174064,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-371316453",
+    "name": "Southwest Public Libraries (Westland Branch)",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9537736,
+    "lng": -83.1273851,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5788001117",
+    "name": "Franklin County Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South High Street 369",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "(614) 525-4971",
+    "hours": "Mo-Fr 08:00-17:00",
+    "lat": 39.9541566,
+    "lng": -82.9994841,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5892042327",
+    "name": "Geology Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Oval Drive 155",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43210",
+    "phone": "(614) 292-2428",
+    "hours": "",
+    "lat": 39.9983975,
+    "lng": -83.0117693,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6245285685",
+    "name": "Biological Sciences and Pharmacy Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43210",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9969011,
+    "lng": -83.0203844,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6978362038",
+    "name": "Worthington Park Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.1231373,
+    "lng": -82.980452,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11759509014",
+    "name": "Architecture Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0037373,
+    "lng": -83.0163936,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7968410933",
+    "name": "Dress for Success",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North High Street 1204",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43201",
+    "phone": "(614) 680-3491",
+    "hours": "",
+    "lat": 39.9869575,
+    "lng": -83.0052696,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8040139079",
+    "name": "Out of the Closet",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North High Street 1230",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43201",
+    "phone": "",
+    "hours": "Su 10:00-18:00; Mo-Sa 10:00-19:00",
+    "lat": 39.9872811,
+    "lng": -83.0052777,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-233544569",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Bethel Road 2136",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0641636,
+    "lng": -83.0865703,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-426929489",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Sawmill Road 6525",
+    "city": "Dublin",
+    "state": "OH",
+    "zip": "43017",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "lat": 40.1002784,
+    "lng": -83.0933653,
+    "tags": [
+      "thrift",
+      "charity"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-columbus-hygiene",
-    "name": "Columbus Public Restroom Information",
+    "name": "Hilltop Branch Public Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Columbus",
     "state": "OH",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 39.9612,
-    "lng": -82.9988,
+    "hours": "During library hours",
+    "lat": 39.954508,
+    "lng": -83.0793529,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-columbus-library",
-    "name": "Columbus Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Columbus",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 39.9612,
-    "lng": -82.9988,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

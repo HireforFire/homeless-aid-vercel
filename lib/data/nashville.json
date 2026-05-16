@@ -228,6 +228,282 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-way-77766610",
+    "name": "Beaman Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1049163,
+    "lng": -86.8004615,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-112916695",
+    "name": "Tennessee State Library and Archives",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1654864,
+    "lng": -86.7852589,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-247456058",
+    "name": "Thompson Lane Branch Nashville Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Thompson Lane 380",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37211-2453",
+    "phone": "(615) 862-5873",
+    "hours": "",
+    "lat": 36.1111036,
+    "lng": -86.7432766,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-364563262",
+    "name": "Goodlettsville Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Rivergate Parkway 205",
+    "city": "Goodlettsville",
+    "state": "TN",
+    "zip": "37072;37072-2034",
+    "phone": "(615) 862-5862",
+    "hours": "",
+    "lat": 36.3141793,
+    "lng": -86.7104136,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-463653434",
+    "name": "Vanderbilt University Special Collections and Archives",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "19th Avenue South 1101",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37212",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1456132,
+    "lng": -86.7977479,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-510204324",
+    "name": "Eskind Biomedical Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Garland Avenue 2209",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37240",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1431533,
+    "lng": -86.8024587,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-520116252",
+    "name": "Edgehill Branch Nashville and Davidson Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "12Th Avenue, South 1409",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37203-4907",
+    "phone": "(615) 862-5861",
+    "hours": "",
+    "lat": 36.1394928,
+    "lng": -86.7880036,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-531446836",
+    "name": "Martha M Brown-Lois H Daniel Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Alameda Street 3408",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1655828,
+    "lng": -86.8283629,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-544413710",
+    "name": "Jean & Alexander Heard Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.145725,
+    "lng": -86.8002435,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-544597178",
+    "name": "Peabody Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1424944,
+    "lng": -86.7992021,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8064065462",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Highway 70 S 7663",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37221",
+    "phone": "(615) 981-8810",
+    "hours": "Mo-Fr 08:00-19:00; Sa 08:00-20:00; Su 12:00-18:00",
+    "lat": 36.0777794,
+    "lng": -86.952647,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8364624838",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Harding Place 414",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37211",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0803486,
+    "lng": -86.7290137,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13829892001",
+    "name": "Goodwill Donation Express Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9993168,
+    "lng": -86.6894225,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1043293172",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Retail Store",
+    "address": "Indian Lake Boulevard 205a",
+    "city": "Hendersonville",
+    "state": "TN",
+    "zip": "37075",
+    "phone": "(615) 346-1808",
+    "hours": "",
+    "lat": 36.3200069,
+    "lng": -86.6023862,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-nashville-shelter",
     "name": "Nashville Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +525,22 @@
   },
   {
     "id": "fallback-nashville-hygiene",
-    "name": "Nashville Public Restroom Information",
+    "name": "Beaman Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Nashville",
     "state": "TN",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 36.1627,
-    "lng": -86.7816,
+    "hours": "During library hours",
+    "lat": 36.1049163,
+    "lng": -86.8004615,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-nashville-library",
-    "name": "Nashville Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 36.1627,
-    "lng": -86.7816,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

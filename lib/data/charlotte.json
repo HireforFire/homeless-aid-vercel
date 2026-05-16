@@ -228,6 +228,339 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-6717446624",
+    "name": "Johnson & Wales University Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Trade Street 801",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "phone": "",
+    "hours": "Mo-Th 08:30-17:00; Fr 08:30-16:00; Sa,Su off",
+    "lat": 35.2334208,
+    "lng": -80.8502056,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7527844148",
+    "name": "Harper Campus Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Hebron Street 315",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28273",
+    "phone": "(704) 330-4418",
+    "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-17:00; Su off",
+    "lat": 35.1289977,
+    "lng": -80.894242,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11533270784",
+    "name": "Hagemeyer Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Elizabeth Avenue 1201",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28204",
+    "phone": "",
+    "hours": "Mo-Th 07:30-20:30; Fr 07:30-17:00; Sa 09:00-13:00",
+    "lat": 35.2177005,
+    "lng": -80.8299581,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11954986663",
+    "name": "Charlotte Mecklenburg Public Library - Pineville Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 505",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134",
+    "phone": "(704) 416-3200",
+    "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-17:00; Su off",
+    "lat": 35.0864709,
+    "lng": -80.8927556,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12085456145",
+    "name": "Media Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.170614,
+    "lng": -80.8352541,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12421861670",
+    "name": "Founders Hall Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Tryon Street 100",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "phone": "(704) 416-0300",
+    "hours": "Mo-Fr 08:00-16:00",
+    "lat": 35.2267345,
+    "lng": -80.8422318,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13146085913",
+    "name": "The Asian Herald Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2110241,
+    "lng": -80.8344007,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-183386561",
+    "name": "Steele Creek Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Steele Creek Road 13620",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28273",
+    "phone": "(704) 416-6800",
+    "hours": "",
+    "lat": 35.1068389,
+    "lng": -80.9889481,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-256708062",
+    "name": "Abbot Vincent Taylor Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.25951,
+    "lng": -81.0429643,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-297810915",
+    "name": "Matthews Library Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Matthews Station Street 230",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105",
+    "phone": "(704) 416-5000",
+    "hours": "",
+    "lat": 35.1159089,
+    "lng": -80.7184111,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8491855469",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Wendover Road 1133",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28211",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-16:00",
+    "lat": 35.1945084,
+    "lng": -80.7951361,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8518897711",
+    "name": "ZABS Place",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Trade Street 100",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1159676,
+    "lng": -80.7221303,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8558581429",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Wilkinson Boulevard 3326",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28208",
+    "phone": "(704) 295-4495",
+    "hours": "",
+    "lat": 35.2257887,
+    "lng": -80.8959318,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8558587652",
+    "name": "Habitat Charlotte Pineville ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Carolina Place Parkway 11812",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134",
+    "phone": "(704) 376-7718",
+    "hours": "",
+    "lat": 35.0731245,
+    "lng": -80.8817371,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13446131801",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Wendover Road 921",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28211",
+    "phone": "(980) 484-2001",
+    "hours": "Mo 10:00-21:00; Tu 09:00-21:00; We-Sa 10:00-21:00; Su 10:00-19:00",
+    "lat": 35.1919771,
+    "lng": -80.7972556,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13448331301",
+    "name": "The WearHouse",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Stetson Drive 127",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28262",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-18:00; Sa 10:00-17:00",
+    "lat": 35.2879345,
+    "lng": -80.7611778,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-322786025",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Plantation Center Drive 2515",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105",
+    "phone": "",
+    "hours": "",
+    "lat": 35.084361,
+    "lng": -80.7334897,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-charlotte-shelter",
     "name": "Charlotte Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +582,22 @@
   },
   {
     "id": "fallback-charlotte-hygiene",
-    "name": "Charlotte Public Restroom Information",
+    "name": "Johnson & Wales University Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "West Trade Street 801",
     "city": "Charlotte",
     "state": "NC",
-    "zip": "",
+    "zip": "28202",
     "phone": "",
-    "hours": "Varies",
-    "lat": 35.2271,
-    "lng": -80.8431,
+    "hours": "Mo-Th 08:30-17:00; Fr 08:30-16:00; Sa,Su off",
+    "lat": 35.2334208,
+    "lng": -80.8502056,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-charlotte-library",
-    "name": "Charlotte Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 35.2271,
-    "lng": -80.8431,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

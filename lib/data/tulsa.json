@@ -228,6 +228,320 @@
     "lastUpdated": "2026-01-18"
   },
   {
+    "id": "osm-node-13358104360",
+    "name": "Tulsa City-County Library Express",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Outlet Drive South 801",
+    "city": "Jenks",
+    "state": "OK",
+    "zip": "74037",
+    "phone": "(918) 549-7323",
+    "hours": "24/7",
+    "lat": 36.0142789,
+    "lng": -95.9606175,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-195669020",
+    "name": "Rudisill Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Hartford Avenue East 1520",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74106",
+    "phone": "",
+    "hours": "Su 13:00-17:00; Mo-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-17:00",
+    "lat": 36.1776039,
+    "lng": -95.9848044,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-203195986",
+    "name": "Judy Z. Kishner Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Cincinnati Avenue 10150",
+    "city": "Sperry",
+    "state": "OK",
+    "zip": "74070",
+    "phone": "(918) 549-7577",
+    "hours": "Mo-Tu 12:00-19:00; We 10:00-17:00; Th 12:00-19:00; Fr 12:00-17:00; Sa 10:00-17:00",
+    "lat": 36.3012465,
+    "lng": -95.992296,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-244743138",
+    "name": "Schusterman Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East 41st Street South 4502",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "",
+    "phone": "(918) 660-3220",
+    "hours": "Mo-Fr 08:00-21:00; Sa-Su 13:00-18:00; PH off",
+    "lat": 36.1014203,
+    "lng": -95.9229707,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-249968939",
+    "name": "Owasso Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.2663792,
+    "lng": -95.8554817,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-250492418",
+    "name": "Central Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Civic Center 400",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74103",
+    "phone": "(918) 549-7323",
+    "hours": "Su 13:00-17:00; Mo-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-17:00",
+    "lat": 36.1505702,
+    "lng": -95.9943119,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-251212055",
+    "name": "McFarlin Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1522636,
+    "lng": -95.9462344,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-334859360",
+    "name": "Hardesty Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East 93rd Street South 8316",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74133",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0265747,
+    "lng": -95.8828633,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-462195810",
+    "name": "Peggy V. Helmerich Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0323604,
+    "lng": -95.9187254,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-496199357",
+    "name": "Kendall-Whittier Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Lewis Avenue East 21",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74104",
+    "phone": "",
+    "hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00",
+    "lat": 36.1590458,
+    "lng": -95.9578131,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10756028094",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Main Street South 3014",
+    "city": "Jenks",
+    "state": "OK",
+    "zip": "74037",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0232448,
+    "lng": -96.0088699,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12758896520",
+    "name": "Goodwill Donation Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0621244,
+    "lng": -95.9037031,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13515781366",
+    "name": "Only Okie",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Sheridan Road East 2606",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74129",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1258684,
+    "lng": -95.9050421,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-235401497",
+    "name": "The Pencil Box",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East 6th Street South 2002",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74104",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1516953,
+    "lng": -95.9630311,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-477968468",
+    "name": "Second Thought Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East 11th Street South 5710",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74112",
+    "phone": "",
+    "hours": "",
+    "lat": 36.147535,
+    "lng": -95.9132405,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-873205715",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Harvard Avenue East 3807",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74135",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1075824,
+    "lng": -95.9398709,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-tulsa-shelter",
     "name": "Tulsa Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +563,22 @@
   },
   {
     "id": "fallback-tulsa-hygiene",
-    "name": "Tulsa Public Restroom Information",
+    "name": "Tulsa City-County Library Express - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Tulsa",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "East Outlet Drive South 801",
+    "city": "Jenks",
     "state": "OK",
-    "zip": "",
+    "zip": "74037",
     "phone": "",
-    "hours": "Varies",
-    "lat": 36.154,
-    "lng": -95.9928,
+    "hours": "24/7",
+    "lat": 36.0142789,
+    "lng": -95.9606175,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-tulsa-library",
-    "name": "Tulsa Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Tulsa",
-    "state": "OK",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 36.154,
-    "lng": -95.9928,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

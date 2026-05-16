@@ -114,23 +114,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-223511",
-    "name": "St. Leo Food Connection",
+    "id": "fa-577561",
+    "name": "St Leo Food Connection",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1323 S. Yakima Ave.",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1323 South Yakima Avenue",
     "city": "Tacoma",
     "state": "WA",
     "zip": "98405",
     "phone": "(253) 383-5048",
     "hours": "",
-    "lat": 47.2496681,
-    "lng": -122.4464188,
+    "lat": 47.2497242,
+    "lng": -122.4463104,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-443050",

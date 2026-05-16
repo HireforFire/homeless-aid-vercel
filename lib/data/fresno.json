@@ -228,22 +228,21 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-fresno-shelter",
-    "name": "Fresno Homeless Services Hotline",
+    "id": "osm-node-13599259405",
+    "name": "EOC Sanctuary Transitional Living Center",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
+    "description": "social_facility",
+    "address": "T Street 1046",
     "city": "Fresno",
     "state": "CA",
-    "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 36.7378,
-    "lng": -119.7871,
+    "zip": "93721",
+    "phone": "(559) 268-1045",
+    "hours": "",
+    "lat": 36.7420313,
+    "lng": -119.7804956,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

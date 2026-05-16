@@ -228,61 +228,432 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fallback-milwaukee-shelter",
-    "name": "Milwaukee Homeless Services Hotline",
+    "id": "osm-node-4379285800",
+    "name": "Center Street Park Shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Milwaukee",
     "state": "WI",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 43.0389,
-    "lng": -87.9065,
+    "phone": "",
+    "hours": "",
+    "lat": 43.0666692,
+    "lng": -87.9928497,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-663008302",
+    "name": "Father Gene’s Help Center",
+    "category": "Clothing & Supplies",
+    "description": "social_facility",
+    "address": "West National Avenue 5919",
+    "city": "West Allis",
+    "state": "WI",
+    "zip": "53214",
+    "phone": "(414) 258-4357",
+    "hours": "",
+    "lat": 43.017327,
+    "lng": -87.9867358,
+    "tags": [
+      "clothing",
+      "free"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1289199575",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Howell Avenue 8201",
+    "city": "Oak Creek",
+    "state": "WI",
+    "zip": "53154",
+    "phone": "(414) 563-0134",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "lat": 42.8954178,
+    "lng": -87.9134328,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1318506228",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Broadway 190",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53202",
+    "phone": "",
+    "hours": "Mo-Sa 10:00-20:00; Su 10:00-17:00",
+    "lat": 43.0325421,
+    "lng": -87.9068785,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2343735655",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Lincoln Avenue 2320",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53215",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0032993,
+    "lng": -87.9431914,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10230144027",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South 108th Street 4476",
+    "city": "Greenfield",
+    "state": "WI",
+    "zip": "53228",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9619779,
+    "lng": -88.04576,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13786103060",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South 108th Street 5317",
+    "city": "Hales Corners",
+    "state": "WI",
+    "zip": "53130",
+    "phone": "",
+    "hours": "mo-sa 09:00-20:00",
+    "lat": 42.9482245,
+    "lng": -88.0492792,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-218114074",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Oklahoma Avenue 153",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53207-2601",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9863041,
+    "lng": -87.9113665,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-393471537",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Oakland Avenue 2830",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53211",
+    "phone": "(414) 962-3281",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "lat": 43.0702507,
+    "lng": -87.8875563,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-395703569",
+    "name": "Saint Paul's Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Marshall Street 1324",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53202",
+    "phone": "",
+    "hours": "Tu 10:00-15:00; Sa[1,3] 09:00-12:00",
+    "lat": 43.0475743,
+    "lng": -87.9006657,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-449145417",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Palmer Street 3900",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53212",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0880511,
+    "lng": -87.9091418,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-293559085",
+    "name": "North Shore Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1401189,
+    "lng": -87.91211,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367808891",
+    "name": "East Branch West Allis Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0068734,
+    "lng": -87.9963509,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367808932",
+    "name": "Elm Grove Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0471776,
+    "lng": -88.0831507,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3957469448",
+    "name": "Milwaukee Public Library East Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Cramer Street 2320",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53211",
+    "phone": "",
+    "hours": "Mo 10:00-20:00; Tu-We 12:00-20:00; Th-Fr 10:00-18:00; Sa 10:00-17:00",
+    "lat": 43.0605261,
+    "lng": -87.8866881,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4019063297",
+    "name": "MATC Downtown Milwaukee Campus Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 07:30-21:00; Fr 07:30-16:00; Sa 09:00-13:00",
+    "lat": 43.0431464,
+    "lng": -87.9210167,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4256956927",
+    "name": "Dorothea Music Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo 12:00-17:00; Tu-We 12:00-20:00; Th 12:00-16:00",
+    "lat": 43.0504222,
+    "lng": -87.8924694,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4326439962",
+    "name": "Oak Creek Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South 6th Street 8040",
+    "city": "Oak Creek",
+    "state": "WI",
+    "zip": "53154",
+    "phone": "(414) 766-7900",
+    "hours": "",
+    "lat": 42.8984224,
+    "lng": -87.9180834,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4379443545",
+    "name": "Wauwatosa Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0600605,
+    "lng": -88.0085915,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4551524865",
+    "name": "Menomonee Falls Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-17:00",
+    "lat": 43.1713622,
+    "lng": -88.1015539,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5421269734",
+    "name": "Harry H. Anderson Research Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:30-17:00; PH closed",
+    "lat": 43.042016,
+    "lng": -87.9142767,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-milwaukee-hygiene",
-    "name": "Milwaukee Public Restroom Information",
+    "name": "North Shore Public Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Milwaukee",
     "state": "WI",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 43.0389,
-    "lng": -87.9065,
+    "hours": "During library hours",
+    "lat": 43.1401189,
+    "lng": -87.91211,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-milwaukee-library",
-    "name": "Milwaukee Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 43.0389,
-    "lng": -87.9065,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

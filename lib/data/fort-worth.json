@@ -228,6 +228,301 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "osm-node-4304622599",
+    "name": "Southlake Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.9428989,
+    "lng": -97.1314625,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10195537818",
+    "name": "J. Ardis Bell Library, TCC Northeast Campus",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Harwood Road 828",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76054",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8464323,
+    "lng": -97.1918177,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13265575767",
+    "name": "Fort Worth Public Library - Clifford Crossing",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7660975,
+    "lng": -97.4796455,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-13990575",
+    "name": "North Richland Hills Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Grand Avenue 9015",
+    "city": "North Richland Hills",
+    "state": "TX",
+    "zip": "76180",
+    "phone": "(817) 427-6800",
+    "hours": "Mo-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-17:00",
+    "lat": 32.8550176,
+    "lng": -97.1925232,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-49342307",
+    "name": "Summerglen Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Basswood Boulevard 4205",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76137",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8738938,
+    "lng": -97.2925539,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-51208283",
+    "name": "Billie Hamilton Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Blue Mound Road 301",
+    "city": "Blue Mound",
+    "state": "TX",
+    "zip": "76131",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8588714,
+    "lng": -97.3425792,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-56027535",
+    "name": "Diamond Hill/Jarvis Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Northeast 35th Street 1300",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76106",
+    "phone": "",
+    "hours": "",
+    "lat": 32.8088212,
+    "lng": -97.339058,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-152712107",
+    "name": "Southwest Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Library Lane 4001",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76109",
+    "phone": "",
+    "hours": "",
+    "lat": 32.6891132,
+    "lng": -97.3941303,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-286206098",
+    "name": "West Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7329312,
+    "lng": -97.2795588,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-321939109",
+    "name": "Gibson D Lewis Health Science Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Camp Bowie Boulevard 3500",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76107",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7498816,
+    "lng": -97.3691269,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7054875104",
+    "name": "Nu2U Resale",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Park Row Drive 2220",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76013",
+    "phone": "(817) 795-6379",
+    "hours": "Mo-Sa 10:00-18:00",
+    "lat": 32.7208526,
+    "lng": -97.1434685,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9244049833",
+    "name": "The Goodwill Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Benbrook Boulevard 8502",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "(817) 769-4040",
+    "hours": "Mo-Sa 09:00-19:00; Su 11:00-19:00",
+    "lat": 32.6835689,
+    "lng": -97.4622532,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9525363999",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Cooper Street 4621",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76017",
+    "phone": "",
+    "hours": "",
+    "lat": 32.67096,
+    "lng": -97.1320415,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9698119494",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Interstate 20 5600",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76140",
+    "phone": "(817) 476-5960",
+    "hours": "Mo-Sa 09:00-19:00; Su 11:00-19:00",
+    "lat": 32.6655787,
+    "lng": -97.239823,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-497506799",
+    "name": "Tarrant Area Food Bank",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Cullen Street 2600",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "",
+    "phone": "(817) 857-7101",
+    "hours": "Mo-Fr 08:30-17:00",
+    "lat": 32.7622267,
+    "lng": -97.3539682,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-fort-worth-shelter",
     "name": "Fort Worth Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +544,22 @@
   },
   {
     "id": "fallback-fort-worth-hygiene",
-    "name": "Fort Worth Public Restroom Information",
+    "name": "Southlake Public Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Fort Worth",
     "state": "TX",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 32.7555,
-    "lng": -97.3308,
+    "hours": "During library hours",
+    "lat": 32.9428989,
+    "lng": -97.1314625,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-fort-worth-library",
-    "name": "Fort Worth Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 32.7555,
-    "lng": -97.3308,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

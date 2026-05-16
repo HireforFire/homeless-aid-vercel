@@ -228,61 +228,489 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fallback-greenville-sc-shelter",
-    "name": "Greenville Homeless Services Hotline",
+    "id": "osm-node-666363110",
+    "name": "Picnic Shelter C",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Greenville",
     "state": "SC",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 34.8526,
-    "lng": -82.394,
+    "phone": "",
+    "hours": "",
+    "lat": 34.718217,
+    "lng": -82.234501,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-666363127",
+    "name": "Picnic Shelter B",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7188166,
+    "lng": -82.2346278,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-666363166",
+    "name": "Picnic Shelter A",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7192971,
+    "lng": -82.2342472,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-666363178",
+    "name": "Gazebo Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7182431,
+    "lng": -82.2338747,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-666363243",
+    "name": "Corporate Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7196488,
+    "lng": -82.2344316,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-800778331",
+    "name": "Shelter #7",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.8486918,
+    "lng": -82.3826439,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-734178430",
+    "name": "The Storehouse",
+    "category": "Clothing & Supplies",
+    "description": "clothing_bank",
+    "address": "Geer Highway 2926",
+    "city": "Marietta",
+    "state": "SC",
+    "zip": "29661",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0228934,
+    "lng": -82.5020329,
+    "tags": [
+      "clothing",
+      "free"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-491509306",
+    "name": "Miracle Hill Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Woodruff Road 1818",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29607",
+    "phone": "",
+    "hours": "",
+    "lat": 34.818286,
+    "lng": -82.2688739,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3281375781",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Street 915",
+    "city": "Simpsonville",
+    "state": "SC",
+    "zip": "29681",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7226478,
+    "lng": -82.2546925,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3653142059",
+    "name": "Miracle Hill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Roe Center Court 552",
+    "city": "Travelers Rest",
+    "state": "SC",
+    "zip": "29690",
+    "phone": "",
+    "hours": "",
+    "lat": 34.9595839,
+    "lng": -82.4376531,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5794617063",
+    "name": "Endtime Harvest Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Wade Hampton Boulevard 740",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29609",
+    "phone": "",
+    "hours": "",
+    "lat": 34.8686884,
+    "lng": -82.3755138,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8450789523",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East North Street 2402",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29615",
+    "phone": "",
+    "hours": "",
+    "lat": 34.8680683,
+    "lng": -82.3571213,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8477273663",
+    "name": "Compass of Carolina",
+    "category": "Clothing & Supplies",
+    "description": "501.3(c) Charity specializing in domestic violence and representative payee programs",
+    "address": "Rutherford Road 1100",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29609",
+    "phone": "(864) 467-3434",
+    "hours": "Mo-Fr 09:30-12:00, 13:00-16:30",
+    "lat": 34.8829293,
+    "lng": -82.3783264,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9905096971",
+    "name": "Carol's Hope Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Wade Hampton Boulevard 3245",
+    "city": "Taylors",
+    "state": "SC",
+    "zip": "29687",
+    "phone": "",
+    "hours": "",
+    "lat": 34.9176268,
+    "lng": -82.3179498,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-37912728",
+    "name": "Mack Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Library Drive 1700",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29614",
+    "phone": "",
+    "hours": "Jan-May: Mo-Th 07:45-22:00; Jan-May: Fr 07:45-19:00; Jan-May: Sa 11:00-19:00; Aug-Dec: Mo-Th 07:45-22:00; Aug-Dec: Fr 07:45-19:00; Aug-Dec: Sa 10:00-19:00; May-Aug: Mo-Fr 11:00-15:00",
+    "lat": 34.8739094,
+    "lng": -82.3659005,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-39216032",
+    "name": "W. Jack Greer Mauldin Library Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Butler Road 800",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29607",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7759003,
+    "lng": -82.3264134,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-41433764",
+    "name": "Augusta Road - Ramsey Family Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Lydia Street 100",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29605",
+    "phone": "",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-18:00",
+    "lat": 34.804035,
+    "lng": -82.3781059,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-59433912",
+    "name": "James Buchanan Duke Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.9246346,
+    "lng": -82.4390947,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-121951805",
+    "name": "Kerry Ann Younts Culp Library of Fountain Inn",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Main Street 311",
+    "city": "Fountain Inn",
+    "state": "SC",
+    "zip": "29644",
+    "phone": "",
+    "hours": "",
+    "lat": 34.6958198,
+    "lng": -82.2034049,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-219906750",
+    "name": "Pelham Road Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Pelham Road 1508",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29615",
+    "phone": "(864) 288-6688",
+    "hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-18:00",
+    "lat": 34.85699,
+    "lng": -82.3000135,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-306417936",
+    "name": "Taylors Burdette Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Main Street 316",
+    "city": "Taylors",
+    "state": "SC",
+    "zip": "29687",
+    "phone": "(864) 268-5955",
+    "hours": "",
+    "lat": 34.9200898,
+    "lng": -82.308228,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-404713834",
+    "name": "Greer Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Pennsylvania Avenue 505",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29650",
+    "phone": "(864) 877-8722",
+    "hours": "",
+    "lat": 34.9402043,
+    "lng": -82.2479548,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-484748951",
+    "name": "Captain Kimberly Hampton Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Biltmore Road 304",
+    "city": "Easley",
+    "state": "SC",
+    "zip": "29640",
+    "phone": "(864) 850-7077",
+    "hours": "",
+    "lat": 34.8248935,
+    "lng": -82.5805091,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-549588351",
+    "name": "Five Forks Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sunnydale Drive 104",
+    "city": "Simpsonville",
+    "state": "SC",
+    "zip": "29681",
+    "phone": "",
+    "hours": "Mo-Th 09:00-21:00,Fr-Sa 09:00-18:00, Su 14:00-18:00",
+    "lat": 34.8082337,
+    "lng": -82.2220156,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-greenville-sc-hygiene",
-    "name": "Greenville Public Restroom Information",
+    "name": "Mack Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Library Drive 1700",
     "city": "Greenville",
     "state": "SC",
-    "zip": "",
+    "zip": "29614",
     "phone": "",
-    "hours": "Varies",
-    "lat": 34.8526,
-    "lng": -82.394,
+    "hours": "Jan-May: Mo-Th 07:45-22:00; Jan-May: Fr 07:45-19:00; Jan-May: Sa 11:00-19:00; Aug-Dec: Mo-Th 07:45-22:00; Aug-Dec: Fr 07:45-19:00; Aug-Dec: Sa 10:00-19:00; May-Aug: Mo-Fr 11:00-15:00",
+    "lat": 34.8739094,
+    "lng": -82.3659005,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-greenville-sc-library",
-    "name": "Greenville Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Greenville",
-    "state": "SC",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 34.8526,
-    "lng": -82.394,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

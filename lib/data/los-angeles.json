@@ -228,22 +228,21 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fallback-los-angeles-shelter",
-    "name": "Los Angeles Homeless Services Hotline",
+    "id": "osm-node-2507944080",
+    "name": "St. Vincent's Cardinal Manning Center",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "social_facility",
     "address": "",
     "city": "Los Angeles",
     "state": "CA",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 34.0522,
-    "lng": -118.2437,
+    "phone": "",
+    "hours": "",
+    "lat": 34.0460094,
+    "lng": -118.2461804,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

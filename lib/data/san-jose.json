@@ -228,22 +228,97 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-san-jose-shelter",
-    "name": "San Jose Homeless Services Hotline",
+    "id": "osm-node-8170644168",
+    "name": "Homefirst Services SCC - Mabury Bridge Housing Community",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
+    "description": "social_facility",
+    "address": "Mabury Road 1410",
     "city": "San Jose",
     "state": "CA",
-    "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 37.3382,
-    "lng": -121.8863,
+    "zip": "95133",
+    "phone": "",
+    "hours": "",
+    "lat": 37.3633158,
+    "lng": -121.8735592,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8174242227",
+    "name": "HomeFirst Services Santa Clara County",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Hamlin Court 999",
+    "city": "Sunnyvale",
+    "state": "CA",
+    "zip": "94089",
+    "phone": "",
+    "hours": "",
+    "lat": 37.4016723,
+    "lng": -122.0298576,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8174292302",
+    "name": "HomeFirst Services Santa Clara County",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Monterey Road 6066",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95138",
+    "phone": "",
+    "hours": "",
+    "lat": 37.2391225,
+    "lng": -121.7733209,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8174307546",
+    "name": "HomeFirst Services Santa Clara County",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Little Orchard Street 2011",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95125",
+    "phone": "",
+    "hours": "",
+    "lat": 37.3035461,
+    "lng": -121.8705932,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8174311997",
+    "name": "HomeFirst Services Santa Clara County",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "Rue Ferrari 5898",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95138",
+    "phone": "",
+    "hours": "",
+    "lat": 37.246617,
+    "lng": -121.773241,
+    "tags": [
+      "shelter",
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

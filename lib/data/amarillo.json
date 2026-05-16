@@ -228,22 +228,59 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-amarillo-shelter",
-    "name": "Amarillo Homeless Services Hotline",
+    "id": "osm-node-13114351101",
+    "name": "Faith City Shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "social_facility",
+    "address": "North Tyler Street 600",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79107",
+    "phone": "",
+    "hours": "24/7",
+    "lat": 35.2197908,
+    "lng": -101.835616,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13279243022",
+    "name": "Transformation park",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "West 5th Avenue 1501",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2104255,
+    "lng": -101.8538875,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-579724520",
+    "name": "Faith City Mission",
+    "category": "Shelter",
+    "description": "social_facility",
     "address": "",
     "city": "Amarillo",
     "state": "TX",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 35.2072,
-    "lng": -101.8313,
+    "phone": "",
+    "hours": "",
+    "lat": 35.2115811,
+    "lng": -101.831452,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

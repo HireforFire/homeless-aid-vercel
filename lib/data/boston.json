@@ -266,41 +266,413 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "fallback-boston-hygiene",
-    "name": "Boston Public Restroom Information",
-    "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "",
-    "phone": "",
-    "hours": "Varies",
-    "lat": 42.3601,
-    "lng": -71.0589,
-    "tags": [
-      "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-boston-library",
-    "name": "Boston Public Library System",
+    "id": "osm-node-257535578",
+    "name": "Campbell Resource Center Library",
     "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Boston",
+    "description": "library",
+    "address": "Dorchester Avenue 1216",
+    "city": "Dorchester",
     "state": "MA",
-    "zip": "",
+    "zip": "02125",
     "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 42.3601,
-    "lng": -71.0589,
+    "hours": "",
+    "lat": 42.3088801,
+    "lng": -71.0561422,
     "tags": [
       "library",
       "wifi",
       "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-257535610",
+    "name": "Morton R. Godine Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Huntington Avenue 621",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3368236,
+    "lng": -71.098744,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-257535635",
+    "name": "New England School of Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Stuart Street 154",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3508011,
+    "lng": -71.0665318,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-257535636",
+    "name": "WGBH Media Library and Archives",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Guest Street 1",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02135",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3570746,
+    "lng": -71.148036,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-257535644",
+    "name": "Treadwell Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Fruit Street 55",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3627265,
+    "lng": -71.0674149,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-257535666",
+    "name": "Medical Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Randolph Street 3",
+    "city": "Canton",
+    "state": "MA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.1753235,
+    "lng": -71.1255479,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-257535672",
+    "name": "Massachusetts State Transportation Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Park Plaza 10",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02116",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3517086,
+    "lng": -71.0674336,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-257535676",
+    "name": "W. Van Alan Clark, Jr. Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Fenway 230",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02115",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3388012,
+    "lng": -71.0967338,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-257535693",
+    "name": "Charlestown High School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Medford Street 240",
+    "city": "Charlestown",
+    "state": "MA",
+    "zip": "02129",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3812739,
+    "lng": -71.0608723,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-257535701",
+    "name": "Corcoran Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "William T. Morrissey Boulevard 150",
+    "city": "Dorchester",
+    "state": "MA",
+    "zip": "02125",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3167344,
+    "lng": -71.0456409,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1546690479",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Elm Street 230",
+    "city": "Somerville",
+    "state": "MA",
+    "zip": "02144",
+    "phone": "(617) 628-3618",
+    "hours": "Mo-We 10:00-18:00; Th-Sa 10:00-19:00; Su 12:00-18:00",
+    "lat": 42.3947393,
+    "lng": -71.1216433,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2298266051",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Centre Street 678",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "",
+    "phone": "(617) 522-1415",
+    "hours": "Mo-We 9:00-18:00; Th-Sa 9:00-19:00; Su 12:00-18:00",
+    "lat": 42.312046,
+    "lng": -71.1140475,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2707308542",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Massachusetts Avenue 520",
+    "city": "Cambridge",
+    "state": "MA",
+    "zip": "02139",
+    "phone": "(617) 868-6330",
+    "hours": "Mo-Sa 11:00-18:00",
+    "lat": 42.3641243,
+    "lng": -71.101937,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3400360738",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Commonwealth Avenue 965",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02215",
+    "phone": "(617) 254-0112",
+    "hours": "Mo-Sa 10:00-19:00; Su 12:00-18:00",
+    "lat": 42.3518055,
+    "lng": -71.1193275,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3400368765",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Harrison Avenue 1010",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "",
+    "phone": "(617) 541-1270",
+    "hours": "Mo-Sa 09:00-18:00",
+    "lat": 42.331177,
+    "lng": -71.0801264,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3400374541",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Broadway 470",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02127",
+    "phone": "(617) 307-6367",
+    "hours": "Mo-Sa 10:00-18:00",
+    "lat": 42.3360032,
+    "lng": -71.0460386,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5923056124",
+    "name": "Mission of Deeds",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Chapin Avenue 6",
+    "city": "Reading",
+    "state": "MA",
+    "zip": "01867",
+    "phone": "(781) 944-9797",
+    "hours": "",
+    "lat": 42.5226925,
+    "lng": -71.1026236,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9683283046",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+    "address": "Southern Artery 625",
+    "city": "Quincy",
+    "state": "MA",
+    "zip": "02169",
+    "phone": "(617) 745-4144",
+    "hours": "",
+    "lat": 42.2522661,
+    "lng": -70.9893479,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11161916061",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "River Street 892",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "",
+    "phone": "(617) 752-8500",
+    "hours": "Mo-We 9:00-18:00; Th-Sa 9:00-19:00; Su 12:00-18:00",
+    "lat": 42.262071,
+    "lng": -71.1085238,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12163724901",
+    "name": "The Market - The Salem Pantry",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "01970",
+    "phone": "(978) 552-3954",
+    "hours": "Tu, Th-Fr 10:00-12:00, 13:00-16:30; We 16:00-20:00; Sa 10:00-14:00",
+    "lat": 42.5150991,
+    "lng": -70.8897648,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-boston-hygiene",
+    "name": "Campbell Resource Center Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Dorchester Avenue 1216",
+    "city": "Dorchester",
+    "state": "MA",
+    "zip": "02125",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 42.3088801,
+    "lng": -71.0561422,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

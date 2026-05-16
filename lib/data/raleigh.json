@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-577013",
+    "name": "Wake Relief",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "4 North Blount Street",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27601",
+    "phone": "(919) 307-8748",
+    "hours": "",
+    "lat": 35.7806725,
+    "lng": -78.6361168,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-226031",
     "name": "Foundation of Truth Food Bank",
     "category": "Food",
@@ -209,23 +228,337 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-202012",
-    "name": "Judy D. Zelnak Center of Hope",
-    "category": "Food",
-    "description": "Salvation Army food pantry distribution location",
-    "address": "902 Wake Forest Road",
+    "id": "osm-node-367909237",
+    "name": "Finch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
     "city": "Raleigh",
     "state": "NC",
-    "zip": "27604",
+    "zip": "",
     "phone": "",
     "hours": "",
-    "lat": 35.7924542,
-    "lng": -78.6318548,
+    "lat": 35.7883,
+    "lng": -78.6372,
     "tags": [
-      "food pantry",
-      "walk-in"
+      "library",
+      "wifi",
+      "computers"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5808092229",
+    "name": "The North Carolina State Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.7828436,
+    "lng": -78.6370105,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8951225636",
+    "name": "Howell Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6498994,
+    "lng": -78.704971,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-32075289",
+    "name": "Eva Perry Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Shepherds Vineyard Drive 2100",
+    "city": "Apex",
+    "state": "NC",
+    "zip": "27502;27502-6409",
+    "phone": "(919) 387-2100",
+    "hours": "Mo-Th 09:00-21:00, Fr-Sa 10:00-19:00, Su 13:00-17:00",
+    "lat": 35.7438293,
+    "lng": -78.8251704,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-47663680",
+    "name": "Richard B. Harrison Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "New Bern Avenue 1313",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27610",
+    "phone": "(919) 856-5720",
+    "hours": "Mo-Th 09:00-21:00, Fr-Sa 10:00-18:00, Su 13:00-17:00",
+    "lat": 35.7803075,
+    "lng": -78.6182362,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-47732310",
+    "name": "Olivia Raney Local History Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Carya Drive 4016",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27610",
+    "phone": "(919) 250-1196",
+    "hours": "",
+    "lat": 35.76863,
+    "lng": -78.5696851,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-47732447",
+    "name": "Erdahl Cloyd Wing",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.7877371,
+    "lng": -78.6705712,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-47776374",
+    "name": "Governor Morehead School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.7780377,
+    "lng": -78.6594374,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-47776788",
+    "name": "Prezell R Robinson Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Prezell R Robinson Library Circle 580",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27610",
+    "phone": "",
+    "hours": "",
+    "lat": 35.785444,
+    "lng": -78.621303,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-47837465",
+    "name": "Carlyle Cambell Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.7993101,
+    "lng": -78.6899715,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2344426901",
+    "name": "Thrift 'n Gift",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southeast Maynard Road 1381",
+    "city": "Cary",
+    "state": "NC",
+    "zip": "27511",
+    "phone": "",
+    "hours": "Mo-Fr 10:00-16:00;Sa 10:00-14:00",
+    "lat": 35.7886706,
+    "lng": -78.764482,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5967938428",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "T W Alexander Drive 2121",
+    "city": "Morrisville",
+    "state": "NC",
+    "zip": "27560",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9203177,
+    "lng": -78.8119148,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6643339479",
+    "name": "Pizazz",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Main Street 132",
+    "city": "Clayton",
+    "state": "NC",
+    "zip": "27520",
+    "phone": "(919) 550-1915",
+    "hours": "Tu-Th 11:00-16:00; Fr 11:00-17:00; Sa 10:00-14:00",
+    "lat": 35.6524734,
+    "lng": -78.4587095,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7430895429",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "High House Road 181",
+    "city": "Cary",
+    "state": "NC",
+    "zip": "27511",
+    "phone": "",
+    "hours": "Mo-Su 11:00-17:00",
+    "lat": 35.7816195,
+    "lng": -78.7984904,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7447493060",
+    "name": "Habitat Wake ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Main Street 1352",
+    "city": "Fuquay-Varina",
+    "state": "NC",
+    "zip": "27526",
+    "phone": "",
+    "hours": "",
+    "lat": 35.590574,
+    "lng": -78.7751994,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7502328917",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Baileywick Road 9005",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27615",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9025628,
+    "lng": -78.6539804,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7725513612",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Sunset Lake Road",
+    "city": "Holly Springs",
+    "state": "NC",
+    "zip": "27539",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6650447,
+    "lng": -78.7959853,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-raleigh-shelter",
@@ -249,40 +582,22 @@
   },
   {
     "id": "fallback-raleigh-hygiene",
-    "name": "Raleigh Public Restroom Information",
+    "name": "Finch Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Raleigh",
     "state": "NC",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 35.7796,
-    "lng": -78.6382,
+    "hours": "During library hours",
+    "lat": 35.7883,
+    "lng": -78.6372,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-raleigh-library",
-    "name": "Raleigh Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Raleigh",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 35.7796,
-    "lng": -78.6382,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

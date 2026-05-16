@@ -38,6 +38,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-577499",
+    "name": "Green Urban Lunchbox Community Fridge",
+    "category": "Food",
+    "description": "Free community fridge providing food assistance. Open to all.",
+    "address": "3188 South 1100 West",
+    "city": "South Salt Lake",
+    "state": "UT",
+    "zip": "84119",
+    "phone": "",
+    "hours": "",
+    "lat": 40.701734,
+    "lng": -111.9228923,
+    "tags": [
+      "community fridge",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-172384",
     "name": "Comunidades Unidas - West Valley City",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 40.6660606,
     "lng": -111.937787,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-201201",
-    "name": "Calvary Salt Lake",
-    "category": "Food",
-    "description": "Main food pantry location",
-    "address": "460 Century Dr W",
-    "city": "Murray",
-    "state": "UT",
-    "zip": "84123",
-    "phone": "",
-    "hours": "",
-    "lat": 40.677988,
-    "lng": -111.904135,
     "tags": [
       "food pantry",
       "walk-in"

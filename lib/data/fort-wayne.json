@@ -228,6 +228,320 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-way-30793775",
+    "name": "Allen County Public Library - Main",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Library Plaza 900",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46802",
+    "phone": "",
+    "hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-18:00; Su 12:00-17:00",
+    "lat": 41.0770964,
+    "lng": -85.1432119,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-30812418",
+    "name": "Churubusco Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Mulberry Street 116",
+    "city": "Churubusco",
+    "state": "IN",
+    "zip": "46723",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2307018,
+    "lng": -85.3204612,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-30908572",
+    "name": "Helmke Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1171329,
+    "lng": -85.1090441,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-81987146",
+    "name": "Georgetown Branch ACPL.",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East State Boullevard 6600",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 10:00-21:00; Fr,Sa 10:00-18:00",
+    "lat": 41.1020836,
+    "lng": -85.056845,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-110313885",
+    "name": "Allen County Public Library - Dupont Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Dupont Road 536",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46825",
+    "phone": "",
+    "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-18:00",
+    "lat": 41.1776706,
+    "lng": -85.1348481,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-121774270",
+    "name": "Wayne and Barbara Kroemer Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Clinton Street 6600",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46825",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1378955,
+    "lng": -85.1093727,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-526524322",
+    "name": "Allen County Public Library - Waynedale Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Lower Huntington Road 2200",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46819",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0207383,
+    "lng": -85.1649608,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-560003367",
+    "name": "Allen County Public Library - Aboite Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Coventry Lane 5630",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46804",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0356687,
+    "lng": -85.2598512,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-563180305",
+    "name": "Allen County Public Library - Tecumseh Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East State Boulevard 1411",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46805",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0970533,
+    "lng": -85.1208841,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-835572628",
+    "name": "Allen County Public Library - Little Turtle Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sherman Boulevard 2201",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46808",
+    "phone": "(260) 421-1335",
+    "hours": "Tu-Fr 10:00-18:00; Sa 10:00-13:00",
+    "lat": 41.0953504,
+    "lng": -85.1545723,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5292831227",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Maysville Road 10540",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1301532,
+    "lng": -85.0058267,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5438578995",
+    "name": "The Franciscan Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Coliseum Boulevard 925",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1180683,
+    "lng": -85.1271021,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10764258606",
+    "name": "Franciscan Center Family Thrift",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.119126,
+    "lng": -85.1348614,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-314635508",
+    "name": "Salvation Army Family Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1343698,
+    "lng": -85.1618083,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-475964765",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Fairfield Avenue 1021",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46802",
+    "phone": "(260) 247-2076",
+    "hours": "Mo-Sa 09:00-20:00",
+    "lat": 41.0755784,
+    "lng": -85.1447227,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-885350870",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Lofty Drive 2727",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46808",
+    "phone": "(260) 471-5081",
+    "hours": "Mo-Fr 09:00-16:30, Sa 10:00-14:00, Su closed",
+    "lat": 41.0910028,
+    "lng": -85.1763028,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-fort-wayne-shelter",
     "name": "Fort Wayne Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +563,22 @@
   },
   {
     "id": "fallback-fort-wayne-hygiene",
-    "name": "Fort Wayne Public Restroom Information",
+    "name": "Allen County Public Library - Main - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Library Plaza 900",
     "city": "Fort Wayne",
     "state": "IN",
-    "zip": "",
+    "zip": "46802",
     "phone": "",
-    "hours": "Varies",
-    "lat": 41.0793,
-    "lng": -85.1394,
+    "hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-18:00; Su 12:00-17:00",
+    "lat": 41.0770964,
+    "lng": -85.1432119,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-fort-wayne-library",
-    "name": "Fort Wayne Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Fort Wayne",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 41.0793,
-    "lng": -85.1394,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

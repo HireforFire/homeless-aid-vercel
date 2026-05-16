@@ -228,61 +228,394 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-greensboro-shelter",
-    "name": "Greensboro Homeless Services Hotline",
+    "id": "osm-node-12133841095",
+    "name": "Shelter 3",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Greensboro",
     "state": "NC",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 36.0726,
-    "lng": -79.792,
+    "phone": "",
+    "hours": "",
+    "lat": 36.1239228,
+    "lng": -79.8335827,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-301673581",
+    "name": "Jackson Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "College Avenue 320",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0681988,
+    "lng": -79.809715,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-363213073",
+    "name": "Jamestown Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Main Street 200",
+    "city": "Jamestown",
+    "state": "NC",
+    "zip": "27282",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9931835,
+    "lng": -79.939191,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-411854108",
+    "name": "Greensboro Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Church Street 219",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27401",
+    "phone": "(336) 373-2474",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-18:00; Su 14:00-18:00",
+    "lat": 36.0748776,
+    "lng": -79.7872318,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-570724803",
+    "name": "McGirt-Horton Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Phillips Avenue 2501",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27405",
+    "phone": "(336) 373-5810",
+    "hours": "",
+    "lat": 36.0952139,
+    "lng": -79.7445285,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-570813712",
+    "name": "Kathleen Clay Edwards Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Price Park Greenway 1420",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27410-2044",
+    "phone": "(336) 373-2923",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-18:00; Su 14:00-18:00",
+    "lat": 36.1057252,
+    "lng": -79.8776452,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-678038217",
+    "name": "Hemphill Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Vandalia Road 2301",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27407-7623",
+    "phone": "(336) 373-2925",
+    "hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-18:00; Su 14:00-18:00",
+    "lat": 36.0190476,
+    "lng": -79.8473409,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-706096464",
+    "name": "Hege Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0929116,
+    "lng": -79.8895716,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-865434792",
+    "name": "Vance H. Chavis Lifelong Learning Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Benbow Road 900",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27406",
+    "phone": "(336) 373-5838",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-18:00; Su 14:00-18:00",
+    "lat": 36.064071,
+    "lng": -79.771464,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-877319921",
+    "name": "Benjamin Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Benjamin Parkway 1530",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27408",
+    "phone": "(336) 373-7540",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-18:00",
+    "lat": 36.1035053,
+    "lng": -79.8301365,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-887591013",
+    "name": "Glenn McNairy Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Lake Jeanette Road 4860",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27455",
+    "phone": "(336) 373-2015",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-18:00",
+    "lat": 36.1435041,
+    "lng": -79.8129746,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3416855528",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Main Street 10102",
+    "city": "Archdale",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9005633,
+    "lng": -79.9498819,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3417622775",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Gate City Boulevard 3739",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0380695,
+    "lng": -79.8540647,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10278438455",
+    "name": "Triad Goodwill Store & Donation Center",
+    "category": "Clothing & Supplies",
+    "description": "Located in The Shoppes at Stoney Creek",
+    "address": "Golf House Road West 954",
+    "city": "Whitsett",
+    "state": "NC",
+    "zip": "27377",
+    "phone": "(336) 447-4850",
+    "hours": "",
+    "lat": 36.0630308,
+    "lng": -79.6027232,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10278438456",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Located in The Shoppes at Stoney Creek",
+    "address": "Golf House Road West 954",
+    "city": "Whitsett",
+    "state": "NC",
+    "zip": "27377",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0630178,
+    "lng": -79.602801,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12338129268",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Battleground Avenue 3921",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "",
+    "phone": "(336) 545-1212",
+    "hours": "Mo-Sa 10:00-20:00; Su 13:00-18:00",
+    "lat": 36.1446095,
+    "lng": -79.8688807,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12511119502",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Market Street 4808",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "",
+    "phone": "(336) 676-6694",
+    "hours": "Mo-Sa 10:00-20:00; Su 13:00-18:00",
+    "lat": 36.0698177,
+    "lng": -79.8710468,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13110885771",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Samet Drive 5301",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0281143,
+    "lng": -79.9633245,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13530251082",
+    "name": "Family Room",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Westgate Drive 204",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "",
+    "phone": "(336) 900-0878",
+    "hours": "",
+    "lat": 36.0672309,
+    "lng": -79.8612019,
+    "tags": [
+      "thrift",
+      "charity"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-greensboro-hygiene",
-    "name": "Greensboro Public Restroom Information",
+    "name": "Jackson Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "College Avenue 320",
     "city": "Greensboro",
     "state": "NC",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 36.0726,
-    "lng": -79.792,
+    "hours": "During library hours",
+    "lat": 36.0681988,
+    "lng": -79.809715,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-greensboro-library",
-    "name": "Greensboro Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 36.0726,
-    "lng": -79.792,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

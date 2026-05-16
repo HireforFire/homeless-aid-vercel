@@ -228,61 +228,432 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-syracuse-shelter",
-    "name": "Syracuse Homeless Services Hotline",
+    "id": "osm-node-2904793728",
+    "name": "Willow Bay Shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
+    "address": "Onondaga Lake Park Trail 7199",
+    "city": "Liverpool",
+    "state": "NY",
+    "zip": "13088",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1160709,
+    "lng": -76.2409017,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4464001978",
+    "name": "Woods Trail Shelter",
+    "category": "Shelter",
+    "description": "shelter",
     "address": "",
     "city": "Syracuse",
     "state": "NY",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 43.0481,
-    "lng": -76.1474,
+    "phone": "",
+    "hours": "Jun-Aug 10:00-20:00 \"by reservation\"",
+    "lat": 42.9334054,
+    "lng": -75.9961703,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543601604",
+    "name": "LaFayette Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Route 11 North 2577",
+    "city": "LaFayette",
+    "state": "NY",
+    "zip": "13084",
+    "phone": "(315) 677-3782",
+    "hours": "Mo-Tu 10:00-20:00; We 10:00-17:00; Th 12:00-20:00; Fr 10:00-17:00; Sa 10:00-14:00; Jul 1-Sep Mo[1]: Sa off; Jan 1 off; Jul 4 off; Dec 24-25 off",
+    "lat": 42.8968285,
+    "lng": -76.1072454,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543601737",
+    "name": "Maxwell Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Genesee Street 14",
+    "city": "Camillus",
+    "state": "NY",
+    "zip": "13031",
+    "phone": "(315) 672-3661",
+    "hours": "Mo-We 10:00-20:00; Th-Fr 10:00-17:00; Sa 10:00-15:00; Jan 01 off; Jul 04 off; Dec 31 off",
+    "lat": 43.0393053,
+    "lng": -76.3062959,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543601840",
+    "name": "Solvay Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Woods Road 615",
+    "city": "Solvay",
+    "state": "NY",
+    "zip": "13209",
+    "phone": "(315) 468-2441",
+    "hours": "Mo-We 09:00-20:00; Th-Fr 09:00-17:00; Sa 10:00-17:00; Su 13:00-17:00; Jun Su[-1]-Sep Mo[1]: Sa 09:00-13:00; Jun Su[-1]-Sep Mo[1]: Su off; Jan 1 off; Jul 4 off; Dec 24-25 off; Dec 31 off",
+    "lat": 43.0576587,
+    "lng": -76.2070646,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543602157",
+    "name": "NOPL at North Syracuse",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Trolley Barn Lane 100",
+    "city": "North Syracuse",
+    "state": "NY",
+    "zip": "13212",
+    "phone": "(315) 458-6184",
+    "hours": "Mo-Th 09:30-20:00; Fr-Sa 09:30-17:00; Su 12:00-17:00; Jul-Aug Su off",
+    "lat": 43.1362149,
+    "lng": -76.1257163,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543623761",
+    "name": "Phoenix Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Elm Street 34",
+    "city": "Phoenix",
+    "state": "NY",
+    "zip": "13135",
+    "phone": "(315) 695-4355",
+    "hours": "",
+    "lat": 43.2331974,
+    "lng": -76.2924559,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1774218076",
+    "name": "Minoa Free Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Main Street 242",
+    "city": "Minoa",
+    "state": "NY",
+    "zip": "13116",
+    "phone": "(315) 656-7401",
+    "hours": "Mo-Th 10:00-20:00; Fr 10:00-17:00; Sa 10:00-15:00; Jun Sa[3]-Sep Mo[1]: Sa off; Jan 1 off; Jul 4 off; Dec 24-25 off",
+    "lat": 43.0774861,
+    "lng": -76.0005041,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1783140538",
+    "name": "Northeast Community Center Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Hawley Avenue 716",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13203",
+    "phone": "",
+    "hours": "Mo-Fr 10:00-17:00",
+    "lat": 43.0551316,
+    "lng": -76.1318883,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1783140539",
+    "name": "Central Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Salina Street 447",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13202",
+    "phone": "",
+    "hours": "Mo 08:30-16:55; Tu-We 08:30-19:25; Th-Fr 08:30-16:55; Sa 09:00-16:55",
+    "lat": 43.0458411,
+    "lng": -76.1520594,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1783140540",
+    "name": "Syracuse Community Connections Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Avenue 401",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13204",
+    "phone": "",
+    "hours": "Mo-Th 11:00-17:00",
+    "lat": 43.0348085,
+    "lng": -76.1585706,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2987720133",
+    "name": "NOPL at Cicero",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Knowledge Lane 8686",
+    "city": "Cicero",
+    "state": "NY",
+    "zip": "13039",
+    "phone": "(315) 699-2032",
+    "hours": "Mo-Th 09:30-20:00; Fr-Sa 09:30-17:00",
+    "lat": 43.1905989,
+    "lng": -76.1271608,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1757370709",
+    "name": "Thrifty Shopper",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Manlius Street 112",
+    "city": "East Syracuse",
+    "state": "NY",
+    "zip": "13057",
+    "phone": "(315) 432-8560",
+    "hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+    "lat": 43.0632942,
+    "lng": -76.0698015,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2109633374",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Onondaga Boulevard",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 43.0317718,
+    "lng": -76.190638,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2584563991",
+    "name": "Thrifty Shopper",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Seneca Turnpike 436",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13207",
+    "phone": "(315) 492-0802",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-18:00",
+    "lat": 43.0027986,
+    "lng": -76.1544663,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3574909743",
+    "name": "Thrifty Shopper",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Old Liverpool Road 680",
+    "city": "Liverpool",
+    "state": "NY",
+    "zip": "13088",
+    "phone": "",
+    "hours": "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00",
+    "lat": 43.0948772,
+    "lng": -76.1953616,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7044331785",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Genesee Street 514",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13204",
+    "phone": "(315) 475-9172",
+    "hours": "Mo-Sa 09:00-16:30",
+    "lat": 43.0537848,
+    "lng": -76.1593689,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8787524023",
+    "name": "Thrify Shopper",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Genesee Street 2214",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13219",
+    "phone": "",
+    "hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+    "lat": 43.0478718,
+    "lng": -76.2004925,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12666580572",
+    "name": "Encore Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Mill Street 118",
+    "city": "Fayetteville",
+    "state": "NY",
+    "zip": "13066",
+    "phone": "(315) 637-6133",
+    "hours": "Tu-Fr 11:00-16:00; Sa 11:00-14:00",
+    "lat": 43.0285685,
+    "lng": -76.0126327,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-157284262",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Erie Boulevard East",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13224",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00",
+    "lat": 43.0542825,
+    "lng": -76.1053784,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-219844709",
+    "name": "Nearly New Consignment Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Chapel Street 115",
+    "city": "Fayetteville",
+    "state": "NY",
+    "zip": "13066",
+    "phone": "",
+    "hours": "Tu-Fr 10:00-17:00; Sa 10:00-15:00",
+    "lat": 43.0284477,
+    "lng": -76.0062345,
+    "tags": [
+      "thrift",
+      "charity"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-syracuse-hygiene",
-    "name": "Syracuse Public Restroom Information",
+    "name": "LaFayette Public Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Syracuse",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Route 11 North 2577",
+    "city": "LaFayette",
     "state": "NY",
-    "zip": "",
+    "zip": "13084",
     "phone": "",
-    "hours": "Varies",
-    "lat": 43.0481,
-    "lng": -76.1474,
+    "hours": "Mo-Tu 10:00-20:00; We 10:00-17:00; Th 12:00-20:00; Fr 10:00-17:00; Sa 10:00-14:00; Jul 1-Sep Mo[1]: Sa off; Jan 1 off; Jul 4 off; Dec 24-25 off",
+    "lat": 42.8968285,
+    "lng": -76.1072454,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-syracuse-library",
-    "name": "Syracuse Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Syracuse",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 43.0481,
-    "lng": -76.1474,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -228,6 +228,185 @@
     "lastUpdated": "2026-04-25"
   },
   {
+    "id": "osm-node-368161404",
+    "name": "Temple Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.8997451,
+    "lng": -97.3419365,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3629857724",
+    "name": "Ben F. McDonald Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Greenwood Drive 4044",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78416",
+    "phone": "(361) 826-2356",
+    "hours": "Mo 09:00-20:00; Tu-We 10:00-20:00; Th-Sa 10:00-18:00; Su off",
+    "lat": 27.7587135,
+    "lng": -97.4311795,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-146509943",
+    "name": "Bell/Whittington Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Memorial Parkway 2400",
+    "city": "Portland",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9005845,
+    "lng": -97.3148114,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-172431378",
+    "name": "Mary and Jeff Bell Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Ocean Drive 6300",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78412",
+    "phone": "(361) 825-2609",
+    "hours": "Mo-Th 08:00-23:00; Fr 08:00-17:00; Sa 12:00-18:00; Su 10:00-18:00; PH off",
+    "lat": 27.7135558,
+    "lng": -97.3247366,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-262142760",
+    "name": "Janet F Harte Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Th 10:00-20:00; Fr,Sa 10:00-18:00",
+    "lat": 27.6439972,
+    "lng": -97.2968168,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-386573550",
+    "name": "Dr. Clotilde P. Garcia Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Brockhampton Street 5930",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78414",
+    "phone": "",
+    "hours": "",
+    "lat": 27.6692132,
+    "lng": -97.3808482,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-425393517",
+    "name": "Parkdale Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.728645,
+    "lng": -97.3846805,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-485797423",
+    "name": "La Retama Corpus Christi Central Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Comanche Street 805",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "",
+    "hours": "Th-Sa 09:00-18:00; Tu,We 10:00-18:00",
+    "lat": 27.7927667,
+    "lng": -97.3990876,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-840364586",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Port Avenue 2961",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78405",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7674201,
+    "lng": -97.4207959,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-corpus-christi-shelter",
     "name": "Corpus Christi Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +428,22 @@
   },
   {
     "id": "fallback-corpus-christi-hygiene",
-    "name": "Corpus Christi Public Restroom Information",
+    "name": "Temple Public Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Corpus Christi",
     "state": "TX",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 27.8006,
-    "lng": -97.3964,
+    "hours": "During library hours",
+    "lat": 27.8997451,
+    "lng": -97.3419365,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-corpus-christi-library",
-    "name": "Corpus Christi Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Corpus Christi",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 27.8006,
-    "lng": -97.3964,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

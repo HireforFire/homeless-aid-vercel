@@ -228,61 +228,432 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-st-petersburg-shelter",
-    "name": "St. Petersburg Homeless Services Hotline",
+    "id": "osm-node-2365930011",
+    "name": "Shelter 1",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "St. Petersburg",
     "state": "FL",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 27.7676,
-    "lng": -82.6403,
+    "phone": "",
+    "hours": "",
+    "lat": 27.7860769,
+    "lng": -82.7381104,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2367357658",
+    "name": "Shelter 1",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.714596,
+    "lng": -82.6537301,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2367357666",
+    "name": "Shelter 2",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7147548,
+    "lng": -82.6537398,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2367357673",
+    "name": "Shelter 3",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7147094,
+    "lng": -82.6534739,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2367357679",
+    "name": "Shelter 4",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7148569,
+    "lng": -82.6534803,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2367357685",
+    "name": "Shelter 5",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7150043,
+    "lng": -82.6534771,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367824809",
+    "name": "Saint Petersburg Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.782249,
+    "lng": -82.6734327,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3121995142",
+    "name": "Stetson University College of Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7565639,
+    "lng": -82.7176718,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12551975760",
+    "name": "East Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Drew Street 2465",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33765-2816",
+    "phone": "(727) 562-4970",
+    "hours": "",
+    "lat": 27.96517,
+    "lng": -82.736125,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12551975848",
+    "name": "James J. Lunsford Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Twiggs Street 701",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33602-4006",
+    "phone": "(813) 273-3652",
+    "hours": "",
+    "lat": 27.9502707,
+    "lng": -82.4548788,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-25906732",
+    "name": "John F. Germany Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Ashley Drive 900",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-We 10:00-21:00; Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:30-17:00",
+    "lat": 27.9509742,
+    "lng": -82.4621791,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-25913702",
+    "name": "Macdonald-Kelce Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "UT University Drive 405",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33606",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9484873,
+    "lng": -82.464849,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-39652802",
+    "name": "Mirror Lake Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "5th Street North 280",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "(727) 893-7268",
+    "hours": "Mo,We 10:00-19:00; Tu,Th,Fr 10:00-18:00; Sa 09:00-17:00",
+    "lat": 27.774834,
+    "lng": -82.6402954,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-70794224",
+    "name": "Gulf Beaches Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Municipal Drive 200",
+    "city": "Madeira Beach",
+    "state": "FL",
+    "zip": "33708",
+    "phone": "(727) 391-2828",
+    "hours": "",
+    "lat": 27.8038324,
+    "lng": -82.8013751,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-108000906",
+    "name": "Childs Park Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "43rd Street South 691",
+    "city": "Saint Petersburg;St. Petersburg",
+    "state": "FL",
+    "zip": "33711;33711-1907",
+    "phone": "(727) 893-7714",
+    "hours": "",
+    "lat": 27.7631504,
+    "lng": -82.6922224,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-165667672",
+    "name": "West Community Library at Saint Petersburg College",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "8th Avenue North 6700",
+    "city": "Saint Petersburg;St. Petersburg",
+    "state": "FL",
+    "zip": "33710",
+    "phone": "(727) 341-7199",
+    "hours": "",
+    "lat": 27.778992,
+    "lng": -82.7315153,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1424504725",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "4th Street North",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33703",
+    "phone": "",
+    "hours": "",
+    "lat": 27.820726,
+    "lng": -82.637835,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3014582333",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "2250",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.960823,
+    "lng": -82.743976,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-189254493",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 27.8267663,
+    "lng": -82.7278988,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-192547467",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "34th Street North 180",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33713",
+    "phone": "(727) 328-2730",
+    "hours": "Mo-Sa 10:00-18:00",
+    "lat": 27.7725479,
+    "lng": -82.6798878,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1019339258",
+    "name": "Out of the Closet - Saint Petersburg",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "26th Avenue South 3400",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "",
+    "phone": "(727) 321-1145",
+    "hours": "",
+    "lat": 27.7442719,
+    "lng": -82.679728,
+    "tags": [
+      "thrift",
+      "charity"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-st-petersburg-hygiene",
-    "name": "St. Petersburg Public Restroom Information",
+    "name": "Saint Petersburg Public Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "St. Petersburg",
     "state": "FL",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 27.7676,
-    "lng": -82.6403,
+    "hours": "During library hours",
+    "lat": 27.782249,
+    "lng": -82.6734327,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-st-petersburg-library",
-    "name": "St. Petersburg Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "St. Petersburg",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 27.7676,
-    "lng": -82.6403,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

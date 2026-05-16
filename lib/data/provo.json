@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-577493",
+    "name": "Community Action Services and Food Bank",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "815 South Freedom Boulevard",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84601",
+    "phone": "",
+    "hours": "",
+    "lat": 40.2233825,
+    "lng": -111.6617901,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-455343",
     "name": "Provo",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 40.167755,
     "lng": -111.636755,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-131050",
-    "name": "RONALD REAGAN ACADEMY",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1143 WEST CENTER",
-    "city": "SPRINGVILLE",
-    "state": "UT",
-    "zip": "84663",
-    "phone": "(801) 489-7828",
-    "hours": "",
-    "lat": 40.166755,
-    "lng": -111.629454,
     "tags": [
       "food pantry",
       "walk-in"

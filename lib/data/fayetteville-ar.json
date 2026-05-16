@@ -228,61 +228,314 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fallback-fayetteville-ar-shelter",
-    "name": "Fayetteville Homeless Services Hotline",
+    "id": "osm-node-6977480935",
+    "name": "Seven Hills Homeless Shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "social_facility",
     "address": "",
     "city": "Fayetteville",
     "state": "AR",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 36.0626,
-    "lng": -94.1604,
+    "phone": "",
+    "hours": "",
+    "lat": 36.0443858,
+    "lng": -94.1648658,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6977480936",
+    "name": "Seven Hills Homeless Center",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0440919,
+    "lng": -94.1649613,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12146673132",
+    "name": "Prairie Grove Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Buchanan Street 881",
+    "city": "Prairie Grove",
+    "state": "AR",
+    "zip": "72753",
+    "phone": "",
+    "hours": "Mo,We,Fr 09:30-17:30; Tu,Th 09:30-18:30",
+    "lat": 35.9716814,
+    "lng": -94.3306134,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13360425501",
+    "name": "Greenland Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Ross Street 8",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9968313,
+    "lng": -94.1731397,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-449256609",
+    "name": "David W. Mullins Library",
+    "category": "Public Resources",
+    "description": "The library system of the University of Arkansas, Fayetteville, includes the David W. Mullins Library, the main research facility on campus.",
+    "address": "North McIlroy Avenue 365",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.068681,
+    "lng": -94.1738309,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-468931335",
+    "name": "Fayetteville Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Mountain Street 401",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "(479) 856-7000",
+    "hours": "Mo-Th 09:00-20:00; Fr,Sa 09:00-17:00; Su 13:00-17:00",
+    "lat": 36.0615493,
+    "lng": -94.1649973,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-796282852",
+    "name": "Springdale Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Pleasant Street 405",
+    "city": "Springdale",
+    "state": "AR",
+    "zip": "72764",
+    "phone": "(479) 750-8180",
+    "hours": "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su 13:00-17:00",
+    "lat": 36.180895,
+    "lng": -94.1424102,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1368482351",
+    "name": "Farmington Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Cimarron Way 175",
+    "city": "Farmington",
+    "state": "AR",
+    "zip": "72730",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0399326,
+    "lng": -94.24871,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3782765352",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Martin Luther King Junior Boulevard 3105",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72704",
+    "phone": "(479) 575-9587",
+    "hours": "Mo-Sa 09:00-20:00, Su 10:00-18:00",
+    "lat": 36.0499924,
+    "lng": -94.2044783,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5032912199",
+    "name": "Peace at Home Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "",
+    "phone": "(479) 973-9571",
+    "hours": "Tu-Sa 10:00-18:00",
+    "lat": 36.0784515,
+    "lng": -94.1738114,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6977480937",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0475985,
+    "lng": -94.1625618,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10088167886",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Steamboat Drive 1189",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72704",
+    "phone": "(479) 287-4770",
+    "hours": "Mo-Sa 08:00-19:00, Su 10:00-18:00",
+    "lat": 36.0794049,
+    "lng": -94.2042796,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-474255548",
+    "name": "Beautiful Lives Thrift Boutique",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Township Street 245",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72703",
+    "phone": "(479) 301-2256",
+    "hours": "Mo-Sa 10:00-18:00",
+    "lat": 36.0947045,
+    "lng": -94.1549596,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-481896336",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Appleby Road 705",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72703",
+    "phone": "(479) 695-0048",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 36.1048248,
+    "lng": -94.1480902,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1117518578",
+    "name": "Free Geek Arkansas",
+    "category": "Clothing & Supplies",
+    "description": "recycling",
+    "address": "West Ash Street 521",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72703",
+    "phone": "(479) 966-9512",
+    "hours": "We-Fr 12:00-18:00; Sa 11:00-18:00",
+    "lat": 36.0862436,
+    "lng": -94.1657119,
+    "tags": [
+      "thrift",
+      "charity"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-fayetteville-ar-hygiene",
-    "name": "Fayetteville Public Restroom Information",
+    "name": "Prairie Grove Public Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Fayetteville",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "West Buchanan Street 881",
+    "city": "Prairie Grove",
     "state": "AR",
-    "zip": "",
+    "zip": "72753",
     "phone": "",
-    "hours": "Varies",
-    "lat": 36.0626,
-    "lng": -94.1604,
+    "hours": "Mo,We,Fr 09:30-17:30; Tu,Th 09:30-18:30",
+    "lat": 35.9716814,
+    "lng": -94.3306134,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-fayetteville-ar-library",
-    "name": "Fayetteville Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Fayetteville",
-    "state": "AR",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 36.0626,
-    "lng": -94.1604,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

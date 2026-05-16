@@ -228,6 +228,263 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "osm-node-11310738067",
+    "name": "Kolwych Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1010775,
+    "lng": -85.2371789,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-66981744",
+    "name": "Chattanooga Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Broad Street 1001",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37402;37402-2620",
+    "phone": "(423) 643-7700",
+    "hours": "Mo-Th 9:00-20:00; Fr-Sa 9:00-18:00; Su off",
+    "lat": 35.0443671,
+    "lng": -85.310829,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-93614266",
+    "name": "South Chattanooga Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West 39Th Street 925",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37410-1501",
+    "phone": "(423) 643-7780",
+    "hours": "",
+    "lat": 35.0086715,
+    "lng": -85.3205404,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-93614268",
+    "name": "Eastgate Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Marlin Road 5705",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37411-5508",
+    "phone": "(423) 643-7770",
+    "hours": "",
+    "lat": 35.0087076,
+    "lng": -85.2111323,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-139170874",
+    "name": "Kresge Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.9638552,
+    "lng": -85.3751907,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-172468487",
+    "name": "Northgate Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Northgate Mall Drive 275",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37415",
+    "phone": "(423) 643-7785",
+    "hours": "",
+    "lat": 35.1316103,
+    "lng": -85.2370558,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-193485580",
+    "name": "East Ridge City Library & City Hall",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Tombras Avenue 1517",
+    "city": "East Ridge",
+    "state": "TN",
+    "zip": "37412-2767",
+    "phone": "(423) 867-7323",
+    "hours": "",
+    "lat": 34.9944079,
+    "lng": -85.2423589,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-309137786",
+    "name": "UTC Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Douglas Street 600",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37403",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0473968,
+    "lng": -85.300134,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-482746207",
+    "name": "Chickamauga Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Cove Road 306",
+    "city": "Chickamauga",
+    "state": "GA",
+    "zip": "30707-1411",
+    "phone": "(706) 375-3004",
+    "hours": "",
+    "lat": 34.8693007,
+    "lng": -85.2934935,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-627464455",
+    "name": "Signal Mountain Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "James Boulevard 1114",
+    "city": "Signal Mountain",
+    "state": "TN",
+    "zip": "37377-2509",
+    "phone": "(423) 886-7323",
+    "hours": "",
+    "lat": 35.1333567,
+    "lng": -85.3357017,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13782747847",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Northpoint Boulevard",
+    "city": "Hixson",
+    "state": "TN",
+    "zip": "37343",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1362571,
+    "lng": -85.2420109,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-504470890",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Battlefield Parkway 518",
+    "city": "Fort Oglethorpe",
+    "state": "GA",
+    "zip": "30742",
+    "phone": "",
+    "hours": "",
+    "lat": 34.953364,
+    "lng": -85.2575901,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-703256032",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Nashville Street 6659",
+    "city": "Ringgold",
+    "state": "GA",
+    "zip": "30736",
+    "phone": "",
+    "hours": "",
+    "lat": 34.9202908,
+    "lng": -85.1266911,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-chattanooga-shelter",
     "name": "Chattanooga Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +506,22 @@
   },
   {
     "id": "fallback-chattanooga-hygiene",
-    "name": "Chattanooga Public Restroom Information",
+    "name": "Kolwych Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Chattanooga",
     "state": "TN",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 35.0456,
-    "lng": -85.3097,
+    "hours": "During library hours",
+    "lat": 35.1010775,
+    "lng": -85.2371789,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-chattanooga-library",
-    "name": "Chattanooga Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Chattanooga",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 35.0456,
-    "lng": -85.3097,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

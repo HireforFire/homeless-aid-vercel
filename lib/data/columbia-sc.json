@@ -228,61 +228,318 @@
     "lastUpdated": "2025-01-01"
   },
   {
-    "id": "fallback-columbia-sc-shelter",
-    "name": "Columbia Homeless Services Hotline",
+    "id": "osm-node-1300146278",
+    "name": "Shelter #3",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Columbia",
     "state": "SC",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 34.0007,
-    "lng": -81.0348,
+    "phone": "",
+    "hours": "",
+    "lat": 34.0825999,
+    "lng": -80.9049753,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12487472762",
+    "name": "South Carolina Center for Community Literacy",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0006717,
+    "lng": -81.0282208,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12494462375",
+    "name": "South Carolina State Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Senate Street 1500",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "phone": "(803) 734-8666",
+    "hours": "Mo-Fr 08:30-17:00",
+    "lat": 34.0011665,
+    "lng": -81.0275861,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-36982006",
+    "name": "Lexington County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Augusta Road 5440",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9757054,
+    "lng": -81.2199483,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-108351420",
+    "name": "South Caroliniana Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sumter Street 910",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9983863,
+    "lng": -81.0299687,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-110607885",
+    "name": "Richland Library Main",
+    "category": "Public Resources",
+    "description": "Richland County Public Library. It has 11 branches including its 242,000 sq ft (22,500 m2) Main Library. In 2001, it was named the National Library of the Year by the Library Journal and the Gale Group.",
+    "address": "Assembly Street 1431",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201-3101",
+    "phone": "(803) 799-9084",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-18:00; Su 14:00-18:00",
+    "lat": 34.0041763,
+    "lng": -81.0374249,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-130133688",
+    "name": "Richland Library Northeast",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Parklane Road 7490",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29223",
+    "phone": "(803) 736-6575",
+    "hours": "Mo-Th 9:00-21:00; Fr-Sa 9:00-18:00",
+    "lat": 34.0755752,
+    "lng": -80.9575483,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-294236416",
+    "name": "Thomas Cooper Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Greene Street 1322",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9950439,
+    "lng": -81.0280747,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-352603798",
+    "name": "Richland Library Cooper",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Trenholm Road;N. Trenholm Road 5317",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29206-3211",
+    "phone": "(803) 787-3462",
+    "hours": "",
+    "lat": 34.0215437,
+    "lng": -80.9671848,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-404746776",
+    "name": "Joseph Simeon Flipper Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0103658,
+    "lng": -81.0200932,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-405178580",
+    "name": "Richland Library St. Andrews",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Broad River Road 2916",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29210",
+    "phone": "(803) 772-6675",
+    "hours": "Su 14:00-18:00; Mo-Th 9:00-21:00; Fr-Sa 9:00-18:00",
+    "lat": 34.0478193,
+    "lng": -81.1026067,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4284486579",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Decker Boulevard 2744",
+    "city": "Forest Acres",
+    "state": "SC",
+    "zip": "29206",
+    "phone": "(803) 509-6053",
+    "hours": "Mo-Sa 9:00-21:00, Su 11:00-19:00",
+    "lat": 34.0637922,
+    "lng": -80.9532392,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-381206008",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Garners Ferry Road 6642",
+    "city": "Colub",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9788835,
+    "lng": -80.9580891,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-509118308",
+    "name": "Oliver Gospel Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Two Notch Road 10012",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29223",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-17:00; Su off",
+    "lat": 34.1121058,
+    "lng": -80.893093,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-557519656",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Knoll Station Dr 118",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29073",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9138073,
+    "lng": -81.2250471,
+    "tags": [
+      "thrift",
+      "charity"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-columbia-sc-hygiene",
-    "name": "Columbia Public Restroom Information",
+    "name": "South Carolina Center for Community Literacy - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Columbia",
     "state": "SC",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 34.0007,
-    "lng": -81.0348,
+    "hours": "During library hours",
+    "lat": 34.0006717,
+    "lng": -81.0282208,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-columbia-sc-library",
-    "name": "Columbia Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Columbia",
-    "state": "SC",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

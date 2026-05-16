@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-576738",
+    "name": "Idaho Falls Food Bank",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "245 North Placer Avenue",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83402",
+    "phone": "(208) 524-0994",
+    "hours": "",
+    "lat": 43.4894781,
+    "lng": -112.0349926,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-219187",
     "name": "Idaho Falls Community Food Bank",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-182774",
-    "name": "Falls Valley Elementary - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center at Falls Valley Elementary School",
-    "address": "2455 Virlow St",
-    "city": "Idaho Falls",
-    "state": "ID",
-    "zip": "83401",
-    "phone": "",
-    "hours": "",
-    "lat": 43.4976206,
-    "lng": -111.98481439999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-idaho-falls-shelter",

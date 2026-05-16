@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-577491",
+    "name": "Crossroads Urban Center Downtown Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "347 South 400 East",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "+1 801-364-7765;+1 888-747-8482",
+    "hours": "",
+    "lat": 40.7616004,
+    "lng": -111.8792777,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-451413",
     "name": "Central City",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 40.7634864,
     "lng": -111.8653408,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194455",
-    "name": "Salt Lake City Mission",
-    "category": "Food",
-    "description": "Food pantry location serving Davis, Salt Lake, Utah, and Weber County residents.",
-    "address": "1151 South Redwood Rd.",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84104",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7441755,
-    "lng": -111.9383692,
     "tags": [
       "food pantry",
       "walk-in"

@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-226251",
-    "name": "Utah Food Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Salt Lake City, UT",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84101",
-    "phone": "",
-    "hours": "",
-    "lat": 40.75628,
-    "lng": -111.89996,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-182762",
     "name": "Tenth East Senior Center",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 40.7634864,
     "lng": -111.8653408,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194455",
+    "name": "Salt Lake City Mission",
+    "category": "Food",
+    "description": "Food pantry location serving Davis, Salt Lake, Utah, and Weber County residents.",
+    "address": "1151 South Redwood Rd.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84104",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7441755,
+    "lng": -111.9383692,
     "tags": [
       "food pantry",
       "walk-in"

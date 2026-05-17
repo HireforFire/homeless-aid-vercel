@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-226220",
-    "name": "Nashville Diaper Connection",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Nashville, TN",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "37201",
-    "phone": "",
-    "hours": "",
-    "lat": 36.16662,
-    "lng": -86.77799,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-180720",
     "name": "The Little Pantry that Could",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 36.1448157,
     "lng": -86.7870731,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206738",
+    "name": "St. Paul's Lutheran Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at St. Paul's Lutheran Church",
+    "address": "1628 8th Ave. North",
+    "city": "Nashville-Davidson",
+    "state": "TN",
+    "zip": "37208",
+    "phone": "",
+    "hours": "",
+    "lat": 36.137023,
+    "lng": -86.7785348,
     "tags": [
       "food pantry",
       "walk-in"

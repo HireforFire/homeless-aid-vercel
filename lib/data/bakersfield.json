@@ -228,22 +228,40 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-bakersfield-shelter",
-    "name": "Bakersfield Homeless Services Hotline",
+    "id": "osm-way-251120745",
+    "name": "Westdale Park Picnic Sheltered Patio",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Bakersfield",
     "state": "CA",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 35.3733,
-    "lng": -119.0187,
+    "phone": "",
+    "hours": "",
+    "lat": 35.3707279,
+    "lng": -119.1615174,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-319020220",
+    "name": "Richardson Child Development Center",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3499861,
+    "lng": -118.9800434,
+    "tags": [
+      "shelter",
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

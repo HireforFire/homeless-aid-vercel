@@ -323,41 +323,411 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "fallback-san-jose-hygiene",
-    "name": "San Jose Public Restroom Information",
-    "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "Varies",
-    "lat": 37.3382,
-    "lng": -121.8863,
-    "tags": [
-      "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-san-jose-library",
-    "name": "San Jose Public Library System",
+    "id": "osm-node-368169016",
+    "name": "Newark Branch Alameda County Library",
     "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "description": "library",
     "address": "",
     "city": "San Jose",
     "state": "CA",
     "zip": "",
     "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 37.3382,
-    "lng": -121.8863,
+    "hours": "",
+    "lat": 37.5345784,
+    "lng": -122.030384,
     "tags": [
       "library",
       "wifi",
       "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170115",
+    "name": "Almaden Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Camden Avenue 6445",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95120-2823",
+    "phone": "(408) 808-3040",
+    "hours": "Mo 13:00-19:00; Tu-Th 10:00-19:00; Fr 12:00-18:00; Sa 10:00-18:00",
+    "lat": 37.2213583,
+    "lng": -121.8697466,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170147",
+    "name": "Saint Thomas Episcopal Church Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Tu-Fr 10:00-13:00,14:00-15:00; Su 12:00-13:00",
+    "lat": 37.3775957,
+    "lng": -122.043276,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368170148",
+    "name": "Milpitas Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.4334312,
+    "lng": -121.8984208,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1257135026",
+    "name": "California Province of the Society of Jesus Jesuit Center Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.213697,
+    "lng": -121.9821641,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1700633024",
+    "name": "Milpitas Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Main Street 160",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95035",
+    "phone": "",
+    "hours": "",
+    "lat": 37.4324266,
+    "lng": -121.9070434,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4608063472",
+    "name": "Columbia Neighborhood center library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.3949448,
+    "lng": -122.0187511,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4641748422",
+    "name": "Inez Jackson Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.34345,
+    "lng": -121.8884607,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4908231765",
+    "name": "Reading Room",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.2206247,
+    "lng": -121.9764255,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5821093916",
+    "name": "Leigh Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.242398,
+    "lng": -121.9215169,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11393077058",
+    "name": "Bay Spa",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "El Camino Real 2908",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95051",
+    "phone": "(669) 230-3934",
+    "hours": "Mo-Fr 10:00-22:00; Sa-Su 09:00-22:00",
+    "lat": 37.3515648,
+    "lng": -121.978689,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2094321004",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Blossom Hill Road 461",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95123",
+    "phone": "",
+    "hours": "",
+    "lat": 37.2516679,
+    "lng": -121.832395,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3711250774",
+    "name": "Goodwill of Silicon Valley Silver Creek Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Capitol Expressway 1640",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95121",
+    "phone": "",
+    "hours": "",
+    "lat": 37.305475,
+    "lng": -121.8108591,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3748100546",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West San Carlos Street 1691",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95128",
+    "phone": "",
+    "hours": "",
+    "lat": 37.3239724,
+    "lng": -121.9216635,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4921432586",
+    "name": "American Cancer Society Discovery Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Main Street 39",
+    "city": "Los Gatos",
+    "state": "CA",
+    "zip": "95030",
+    "phone": "(408) 354-5917",
+    "hours": "Tu-Sa 10:00-17:00",
+    "lat": 37.221558,
+    "lng": -121.980419,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5125093466",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.3570364,
+    "lng": -122.0599288,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5402514203",
+    "name": "Thrift Box",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Lincoln Avenue 1362",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95125",
+    "phone": "+1-408-294-4490; +1-408-277-8900",
+    "hours": "Mo-Tu,Su off; We-Sa 10:00-16:00; Jan 01-06,Dec 14-31 off",
+    "lat": 37.3041843,
+    "lng": -121.8975279,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5840826406",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "",
+    "phone": "(408) 933-3608",
+    "hours": "We-Su 09:00-17:00",
+    "lat": 37.360027,
+    "lng": -121.868033,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6677866694",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South De Anza Boulevard 1125",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95129",
+    "phone": "(408) 252-3193",
+    "hours": "",
+    "lat": 37.3052252,
+    "lng": -122.032752,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8219032640",
+    "name": "Charity Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "recycling",
+    "address": "Lafayette Street 2725",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95050",
+    "phone": "(408) 748-0081",
+    "hours": "",
+    "lat": 37.3708614,
+    "lng": -121.9492773,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9326204793",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Almaden Expressway 3060",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95118",
+    "phone": "",
+    "hours": "",
+    "lat": 37.2775098,
+    "lng": -121.8787615,
+    "tags": [
+      "thrift",
+      "charity"
     ],
     "lastUpdated": "2026-05-14"
   }

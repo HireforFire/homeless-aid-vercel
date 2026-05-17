@@ -228,22 +228,40 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-oakland-shelter",
-    "name": "Oakland Homeless Services Hotline",
+    "id": "osm-node-3009189224",
+    "name": "Women's Drop-In Center",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
-    "city": "Oakland",
+    "description": "social_facility",
+    "address": "13th Street 211",
+    "city": "San Francisco",
     "state": "CA",
-    "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 37.8044,
-    "lng": -122.2712,
+    "zip": "94103",
+    "phone": "",
+    "hours": "24/7",
+    "lat": 37.7698358,
+    "lng": -122.4193302,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4003389390",
+    "name": "Normandie Hotel",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "9th Street 251",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94103",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7744267,
+    "lng": -122.4122526,
+    "tags": [
+      "shelter",
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

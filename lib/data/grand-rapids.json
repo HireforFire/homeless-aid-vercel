@@ -228,263 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-1745709073",
-    "name": "KDL Library - Kentwood",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8740341,
-    "lng": -85.5959256,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2295927803",
-    "name": "Madison Square Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Madison Avenue Southeast 1201",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "49507",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9410688,
-    "lng": -85.659265,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2436118654",
-    "name": "Kent District Library: Grandville Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9077743,
-    "lng": -85.7646318,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10212917276",
-    "name": "Georgetown Township Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9083844,
-    "lng": -85.8195568,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11849804380",
-    "name": "Miller Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "(616) 222-1458",
-    "hours": "Mo-Fr 08:00-22:00; Sa-Su 12:00-20:00",
-    "lat": 42.9815008,
-    "lng": -85.5929139,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-162746981",
-    "name": "Grand Rapids Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Library Street Northeast 111",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "49503",
-    "phone": "",
-    "hours": "Su 13:00-17:00; Mo-Th 09:00-19:00; Fr-Sa 09:00-18:00",
-    "lat": 42.9649179,
-    "lng": -85.6659539,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-186978282",
-    "name": "KDL Walker Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Remembrance Road Northwest 4293",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "49544",
-    "phone": "(616) 784-2007",
-    "hours": "",
-    "lat": 43.0075503,
-    "lng": -85.7741394,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-224430589",
-    "name": "West Leonard Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Leonard Street Northwest 1017",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "49504",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9856952,
-    "lng": -85.6939022,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-225518689",
-    "name": "Hekman Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Th 08:00-20:00; Fr 08:00-16:30; Sa 11:00-15:00",
-    "lat": 42.9297916,
-    "lng": -85.5873726,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-226376430",
-    "name": "Seymour Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Eastern Avenue Southeast 2350",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "49507",
-    "phone": "",
-    "hours": "Mo,Tu 12:00-20:00; We-Sa 10:00-18:00; Fr off",
-    "lat": 42.9204627,
-    "lng": -85.6472129,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7243058391",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 43.037497,
-    "lng": -85.6109955,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11068176895",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9132615,
-    "lng": -85.5621274,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-889303133",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Ivanrest Avenue Southwest 4640",
-    "city": "Grandville",
-    "state": "MI",
-    "zip": "49418",
-    "phone": "(616) 588-2205",
-    "hours": "",
-    "lat": 42.8795643,
-    "lng": -85.742576,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-grand-rapids-shelter",
     "name": "Grand Rapids Homeless Services Hotline",
     "category": "Shelter",
@@ -506,22 +249,40 @@
   },
   {
     "id": "fallback-grand-rapids-hygiene",
-    "name": "KDL Library - Kentwood - Restroom Access",
+    "name": "Grand Rapids Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Grand Rapids",
     "state": "MI",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 42.8740341,
-    "lng": -85.5959256,
+    "hours": "Varies",
+    "lat": 42.9634,
+    "lng": -85.6681,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-grand-rapids-library",
+    "name": "Grand Rapids Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 42.9634,
+    "lng": -85.6681,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

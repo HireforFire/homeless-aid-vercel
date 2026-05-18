@@ -190,6 +190,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-128744",
+    "name": "Stockton Unified School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "701 NORTH MADISON ST",
+    "city": "STOCKTON",
+    "state": "CA",
+    "zip": "95205",
+    "phone": "(209) 933-7000",
+    "hours": "",
+    "lat": 37.959024,
+    "lng": -121.296758,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-447930",
     "name": "CALIFORNIA STREET EHS",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 37.958054,
     "lng": -121.286096,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-447937",
-    "name": "HUNTER ADMINISTRATIVE OFFICE",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (80 funded slots)",
-    "address": "1145 N Hunter St",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95202",
-    "phone": "(209) 242-9540",
-    "hours": "",
-    "lat": 37.964594,
-    "lng": -121.291906,
     "tags": [
       "head start",
       "walk-in"

@@ -228,339 +228,6 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "osm-node-367823332",
-    "name": "Culmer-Overtown Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Northwest 13th Street 350",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33136",
-    "phone": "(305) 579-5322",
-    "hours": "Mo-Th 09:30-20:00; Fr-Sa 09:30-18:00",
-    "lat": 25.7863162,
-    "lng": -80.2012591,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367823340",
-    "name": "Grapeland Heights Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 25.7868816,
-    "lng": -80.256491,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367823345",
-    "name": "Florida Memorial College Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 25.9166667,
-    "lng": -80.2711111,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367823363",
-    "name": "Hispanic Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 25.7719444,
-    "lng": -80.2308333,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367823419",
-    "name": "Allapattah Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Northwest 35th Street 1799",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33142",
-    "phone": "(305) 638-6086",
-    "hours": "",
-    "lat": 25.808751,
-    "lng": -80.2256375,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367823429",
-    "name": "Civic Center Library Kiosk",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 25.7868988,
-    "lng": -80.2170582,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367823514",
-    "name": "Fairchild Tropical Gardens Montgomery Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 25.678564,
-    "lng": -80.273674,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367823516",
-    "name": "University of Miami School of Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Miller Road 1311",
-    "city": "Coral Gables",
-    "state": "FL",
-    "zip": "33146",
-    "phone": "",
-    "hours": "",
-    "lat": 25.720568,
-    "lng": -80.2800543,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367823540",
-    "name": "Hialeah Gardens Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 25.875857,
-    "lng": -80.340007,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367823541",
-    "name": "Hialeah Hospital George H Wessel Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 25.845438,
-    "lng": -80.269029,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4587214217",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Southwest 8th Street 982",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33130",
-    "phone": "(305) 858-4583",
-    "hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
-    "lat": 25.7657744,
-    "lng": -80.2108923,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6020061550",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Southwest 40th Street 6842",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33155",
-    "phone": "",
-    "hours": "",
-    "lat": 25.7327006,
-    "lng": -80.3057425,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6082731048",
-    "name": "Bargain Box Thrift Shop",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Flagler Street 1350",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33135",
-    "phone": "",
-    "hours": "Tu-Sa 10:00-17:00",
-    "lat": 25.7732581,
-    "lng": -80.2173833,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6369437728",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Northeast Miami Gardens Drive 1780",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33179",
-    "phone": "",
-    "hours": "",
-    "lat": 25.9447628,
-    "lng": -80.1644751,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6594606195",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Northwest 23rd Street 2236",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33127",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-18:00",
-    "lat": 25.7990244,
-    "lng": -80.1965719,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9704076517",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Northeast 81st Street 441",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33138",
-    "phone": "",
-    "hours": "",
-    "lat": 25.849048,
-    "lng": -80.1870125,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10279424210",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Southwest 8th Street 9772",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33174",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
-    "lat": 25.7608844,
-    "lng": -80.3533149,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-miami-shelter",
     "name": "Miami Homeless Services Hotline",
     "category": "Shelter",
@@ -622,22 +289,20 @@
   },
   {
     "id": "fallback-miami-hygiene",
-    "name": "Culmer-Overtown Library - Restroom Access",
+    "name": "Miami Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Northwest 13th Street 350",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Miami",
     "state": "FL",
-    "zip": "33136",
+    "zip": "",
     "phone": "",
-    "hours": "Mo-Th 09:30-20:00; Fr-Sa 09:30-18:00",
-    "lat": 25.7863162,
-    "lng": -80.2012591,
+    "hours": "Varies",
+    "lat": 25.7617,
+    "lng": -80.1918,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
     ],
     "lastUpdated": "2026-05-14"
   },
@@ -658,6 +323,26 @@
       "showers",
       "hygiene kits",
       "mail services"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-miami-library",
+    "name": "Miami Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

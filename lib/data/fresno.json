@@ -228,279 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-13599259405",
-    "name": "EOC Sanctuary Transitional Living Center",
+    "id": "fallback-fresno-shelter",
+    "name": "Fresno Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "T Street 1046",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
     "city": "Fresno",
     "state": "CA",
-    "zip": "93721",
-    "phone": "(559) 268-1045",
-    "hours": "",
-    "lat": 36.7420313,
-    "lng": -119.7804956,
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 36.7378,
+    "lng": -119.7871,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169933",
-    "name": "Clovis Regional Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "5th Street 1155",
-    "city": "Clovis",
-    "state": "CA",
-    "zip": "93612",
-    "phone": "(559) 600-9531",
-    "hours": "",
-    "lat": 36.8243943,
-    "lng": -119.6948635,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170303",
-    "name": "Fresno County Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7371749,
-    "lng": -119.7892962,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170313",
-    "name": "Community Hospitals of Central California Medical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7430048,
-    "lng": -119.784311,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170314",
-    "name": "Fresno Central Library and California History & Genealogy Room",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7379613,
-    "lng": -119.7862743,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170318",
-    "name": "Selma Branch Fresno County Free Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.5674505,
-    "lng": -119.6092985,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3483479950",
-    "name": "Caruthers Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Henderson Road 13382",
-    "city": "Caruthers",
-    "state": "CA",
-    "zip": "93609",
-    "phone": "(559) 864-8766",
-    "hours": "",
-    "lat": 36.5422022,
-    "lng": -119.8314474,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4622537301",
-    "name": "Mosqueda Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7280839,
-    "lng": -119.742923,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9930851112",
-    "name": "West Fresno Branch Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7201979,
-    "lng": -119.8105116,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10212568194",
-    "name": "Teague Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8035618,
-    "lng": -119.8890588,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13235256796",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Blackstone Avenue 6574",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "93710",
-    "phone": "(559) 435-5783",
-    "hours": "",
-    "lat": 36.833087,
-    "lng": -119.7894546,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1153071810",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Shaw Avenue 239",
-    "city": "Clovis",
-    "state": "CA",
-    "zip": "93612",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8107628,
-    "lng": -119.7147663,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1426684455",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Shaw Avenue 3702",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "93711",
-    "phone": "(559) 274-1512",
-    "hours": "Mo-Su 10:00-20:00",
-    "lat": 36.8089952,
-    "lng": -119.8610762,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-fresno-hygiene",
-    "name": "Clovis Regional Library - Restroom Access",
+    "name": "Fresno Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "5th Street 1155",
-    "city": "Clovis",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Fresno",
     "state": "CA",
-    "zip": "93612",
+    "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 36.8243943,
-    "lng": -119.6948635,
+    "hours": "Varies",
+    "lat": 36.7378,
+    "lng": -119.7871,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-fresno-library",
+    "name": "Fresno Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 36.7378,
+    "lng": -119.7871,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

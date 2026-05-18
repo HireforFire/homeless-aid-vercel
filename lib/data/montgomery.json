@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-128179",
+    "name": "Montgomery County Board of Education",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "307 SOUTH DECATUR ST",
+    "city": "MONTGOMERY",
+    "state": "AL",
+    "zip": "36104",
+    "phone": "(334) 223-6710",
+    "hours": "",
+    "lat": 32.374038,
+    "lng": -86.302269,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-454450",
     "name": "RSA COMPOSITE",
     "category": "Food",
@@ -74,25 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-128179",
-    "name": "Montgomery County Board of Education",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "307 SOUTH DECATUR ST",
-    "city": "MONTGOMERY",
-    "state": "AL",
-    "zip": "36104",
-    "phone": "(334) 223-6710",
-    "hours": "",
-    "lat": 32.374038,
-    "lng": -86.302269,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-180718",
@@ -228,206 +228,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-way-128681744",
-    "name": "Montgomery City-County Public Library - Juliette Hampton Mor",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "High Street 245",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36104-4603",
-    "phone": "(334) 625-4999",
-    "hours": "",
-    "lat": 32.3725275,
-    "lng": -86.3054619,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-320564536",
-    "name": "Air University Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.3852259,
-    "lng": -86.3454849,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-967478886",
-    "name": "Ida Belle Young Library Tower",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.3677447,
-    "lng": -86.1776292,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1196172629",
-    "name": "Autauga - Prattville Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Doster Street 254",
-    "city": "Prattville",
-    "state": "AL",
-    "zip": "36067-3933",
-    "phone": "(334) 365-3396",
-    "hours": "",
-    "lat": 32.4565722,
-    "lng": -86.4692617,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1344415447",
-    "name": "Millbrook Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Grandview Road 3650",
-    "city": "Millbrook",
-    "state": "AL",
-    "zip": "36054",
-    "phone": "(334) 285-6688",
-    "hours": "",
-    "lat": 32.4766118,
-    "lng": -86.3625933,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1346908525",
-    "name": "Montgomery City-County Public Library - Coliseum Boulevard B",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Coliseum Boulevard 840",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36108-1208",
-    "phone": "(334) 625-4834",
-    "hours": "",
-    "lat": 32.4001069,
-    "lng": -86.258853,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1346908826",
-    "name": "Montgomery City-County Public Library - Bertha P. Williams L",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Rosa Parks Avenue 1276",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36108-3070",
-    "phone": "(334) 625-4979",
-    "hours": "",
-    "lat": 32.359192,
-    "lng": -86.3171335,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1346908876",
-    "name": "Montgomery City-County Public Library - Rufus A. Lewis Regio",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Mobile Highway 3095",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36108-4002",
-    "phone": "(334) 625-4848",
-    "hours": "",
-    "lat": 32.3471507,
-    "lng": -86.3380989,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1346909067",
-    "name": "Governor`s Square Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East South Boulevard;B East South Boulevard 2885;2885-B",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36116-2513;36111-2513",
-    "phone": "+1 334-625-4837;+1 334-625-4843",
-    "hours": "",
-    "lat": 32.329133,
-    "lng": -86.248881,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1346909206",
-    "name": "El Lowder Regional Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Bell Road 3950",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36116",
-    "phone": "(334) 625-4844",
-    "hours": "",
-    "lat": 32.3436503,
-    "lng": -86.1953695,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-montgomery-shelter",
     "name": "Montgomery Homeless Services Hotline",
     "category": "Shelter",
@@ -449,22 +249,40 @@
   },
   {
     "id": "fallback-montgomery-hygiene",
-    "name": "Montgomery City-County Public Library - Juliette Hampton Mor - Restroom Access",
+    "name": "Montgomery Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "High Street 245",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Montgomery",
     "state": "AL",
-    "zip": "36104-4603",
+    "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 32.3725275,
-    "lng": -86.3054619,
+    "hours": "Varies",
+    "lat": 32.3668,
+    "lng": -86.3,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-montgomery-library",
+    "name": "Montgomery Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 32.3668,
+    "lng": -86.3,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   },

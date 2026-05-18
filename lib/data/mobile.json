@@ -228,263 +228,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-367931437",
-    "name": "Fairhope Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.5243608,
-    "lng": -87.9063818,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12719523389",
-    "name": "Parkway Branch Mobile Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Dauphin Island Parkway 1924",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36602-3004",
-    "phone": "(251) 470-7766",
-    "hours": "",
-    "lat": 30.6302081,
-    "lng": -88.0894228,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-167237950",
-    "name": "Marx Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.6975103,
-    "lng": -88.1788137,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-242352160",
-    "name": "Toulminville Branch Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Stanton Road 601",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36602-2209",
-    "phone": "(251) 494-4982",
-    "hours": "",
-    "lat": 30.7088949,
-    "lng": -88.0973726,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-297271713",
-    "name": "Charles M. Baugh Biomedical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.6988578,
-    "lng": -88.1758799,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-333574220",
-    "name": "Mobile Public Library - Moorer/Spring Hill Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "McGregor Court 4",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36633-1827",
-    "phone": "(251) 494-4140",
-    "hours": "",
-    "lat": 30.6951856,
-    "lng": -88.1439222,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-353941382",
-    "name": "Minnie Slade Bishop Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.6941152,
-    "lng": -88.0576851,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-354669559",
-    "name": "Ben May Main Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Government Street 701",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36602",
-    "phone": "(251) 340-1535",
-    "hours": "",
-    "lat": 30.6866744,
-    "lng": -88.0505674,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-356107953",
-    "name": "Mobile West Regional Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Grelot Road 5555",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36602-3643",
-    "phone": "(251) 340-8555",
-    "hours": "",
-    "lat": 30.6615247,
-    "lng": -88.1719202,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-360369606",
-    "name": "Trinity Gardens Community Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Berkley Avenue 2668",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36602-1704",
-    "phone": "(251) 457-5954",
-    "hours": "",
-    "lat": 30.7331423,
-    "lng": -88.1132133,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10102270335",
-    "name": "Goodwill Donation Center",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.6910676,
-    "lng": -88.1191599,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-346051104",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Airport Boulevard 3712",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36608",
-    "phone": "",
-    "hours": "",
-    "lat": 30.67705,
-    "lng": -88.1363179,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-642058207",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Airport Boulevard 7431",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36608",
-    "phone": "",
-    "hours": "",
-    "lat": 30.6860133,
-    "lng": -88.2157319,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-mobile-shelter",
     "name": "Mobile Homeless Services Hotline",
     "category": "Shelter",
@@ -506,22 +249,40 @@
   },
   {
     "id": "fallback-mobile-hygiene",
-    "name": "Fairhope Public Library - Restroom Access",
+    "name": "Mobile Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Mobile",
     "state": "AL",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 30.5243608,
-    "lng": -87.9063818,
+    "hours": "Varies",
+    "lat": 30.6944,
+    "lng": -88.0431,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-mobile-library",
+    "name": "Mobile Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 30.6944,
+    "lng": -88.0431,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

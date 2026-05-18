@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-442386",
-    "name": "2nd Street/Blooming Minds EHS Home Visiting Program",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (104 funded slots)",
-    "address": "1510 E 2nd St N",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67214",
-    "phone": "(316) 269-1990",
-    "hours": "",
-    "lat": 37.690147,
-    "lng": -97.320354,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-129103",
     "name": "Wichita",
     "category": "Food",
@@ -209,6 +190,25 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-442386",
+    "name": "2nd Street/Blooming Minds EHS Home Visiting Program",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (104 funded slots)",
+    "address": "1510 E 2nd St N",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67214",
+    "phone": "(316) 269-1990",
+    "hours": "",
+    "lat": 37.690147,
+    "lng": -97.320354,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
     "id": "fa-200243",
     "name": "Salvation Army ICT - Emergency Services",
     "category": "Food",
@@ -226,262 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "osm-node-366764178",
-    "name": "Haysville Community Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Hays Avenue 210",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67206",
-    "phone": "",
-    "hours": "Mo-Th 09:00-20:00; Fr,Sa 10:00-17:00; Su 13:00-17:00",
-    "lat": 37.5630087,
-    "lng": -97.3504257,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366764181",
-    "name": "Wichita Public Library - Ford Rockwell Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.700616,
-    "lng": -97.267281,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366764215",
-    "name": "Clearwater Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.504439,
-    "lng": -97.505674,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366764246",
-    "name": "Wichita Public Library - Evergreen Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.730289,
-    "lng": -97.345524,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366764536",
-    "name": "Park City Community Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.796204,
-    "lng": -97.319565,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366764546",
-    "name": "Wichita Public Library - Maya Angelou Northeast Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.722304,
-    "lng": -97.300282,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1660335091",
-    "name": "Wichita Public Library (Walters Branch)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Harry Street 4195",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67218-3725",
-    "phone": "(316) 337-9125",
-    "hours": "Mo 13:00-20:00; Tu-Fr 11:00-18:00",
-    "lat": 37.6642757,
-    "lng": -97.2877684,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5641813631",
-    "name": "Advanced Learning Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West 2nd Street North 711",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67201",
-    "phone": "(316) 261-8500",
-    "hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 13:00-17:00",
-    "lat": 37.687425,
-    "lng": -97.3473426,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-402998186",
-    "name": "Edmund Stanley Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6784778,
-    "lng": -97.3669307,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-399133618",
-    "name": "Value Center",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6863142,
-    "lng": -97.3319116,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-665986297",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Broadway Avenue 5025",
-    "city": "Witchita",
-    "state": "KS",
-    "zip": "67216",
-    "phone": "(316) 522-1234",
-    "hours": "Mo-Sa 10:00-20:00; Su 12:00-06:00",
-    "lat": 37.604119,
-    "lng": -97.334678,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-669660580",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Rainbow Drive 1247",
-    "city": "Derby",
-    "state": "KS",
-    "zip": "67037",
-    "phone": "",
-    "hours": "",
-    "lat": 37.5581363,
-    "lng": -97.2459765,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1338166539",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Maize Road 3737",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67205",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7505808,
-    "lng": -97.4639404,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-wichita-shelter",
@@ -505,22 +249,40 @@
   },
   {
     "id": "fallback-wichita-hygiene",
-    "name": "Haysville Community Library - Restroom Access",
+    "name": "Wichita Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Hays Avenue 210",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Wichita",
     "state": "KS",
-    "zip": "67206",
+    "zip": "",
     "phone": "",
-    "hours": "Mo-Th 09:00-20:00; Fr,Sa 10:00-17:00; Su 13:00-17:00",
-    "lat": 37.5630087,
-    "lng": -97.3504257,
+    "hours": "Varies",
+    "lat": 37.6872,
+    "lng": -97.3301,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-wichita-library",
+    "name": "Wichita Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 37.6872,
+    "lng": -97.3301,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

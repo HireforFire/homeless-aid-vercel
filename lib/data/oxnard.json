@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-448285",
-    "name": "Jeff Davis Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (6 funded slots)",
-    "address": "601 Hill St",
-    "city": "Oxnard",
-    "state": "CA",
-    "zip": "93033",
-    "phone": "(805) 485-7878",
-    "hours": "",
-    "lat": 34.186703,
-    "lng": -119.185423,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-128647",
     "name": "Oxnard School District",
     "category": "Food",
@@ -131,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-448285",
+    "name": "Jeff Davis Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (6 funded slots)",
+    "address": "601 Hill St",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93033",
+    "phone": "(805) 485-7878",
+    "hours": "",
+    "lat": 34.186703,
+    "lng": -119.185423,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fa-177611",

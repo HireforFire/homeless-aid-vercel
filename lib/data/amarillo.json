@@ -228,277 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-13114351101",
-    "name": "Faith City Shelter",
+    "id": "fallback-amarillo-shelter",
+    "name": "Amarillo Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "North Tyler Street 600",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79107",
-    "phone": "",
-    "hours": "24/7",
-    "lat": 35.2197908,
-    "lng": -101.835616,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13279243022",
-    "name": "Transformation park",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "West 5th Avenue 1501",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79106",
-    "phone": "",
-    "hours": "",
-    "lat": 35.2104255,
-    "lng": -101.8538875,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-579724520",
-    "name": "Faith City Mission",
-    "category": "Shelter",
-    "description": "social_facility",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Amarillo",
     "state": "TX",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.2115811,
-    "lng": -101.831452,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 35.2072,
+    "lng": -101.8313,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-611285552",
-    "name": "Amarillo Public Library Northwest Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Southwest 9th Avenue 6100",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79106",
-    "phone": "(806) 359-2035",
-    "hours": "Su 14:00-18:00; Mo-Th 09:00-19:30; Fr-Sa 09:00-18:00",
-    "lat": 35.2065334,
-    "lng": -101.904519,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13495354694",
-    "name": "East Amarillo Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Southeast 27th Avenue 2232",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79103",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1852353,
-    "lng": -101.8101793,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13519248961",
-    "name": "Amarillo Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Southeast 4th Avenue 413",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79101",
-    "phone": "",
-    "hours": "",
-    "lat": 35.2098326,
-    "lng": -101.8321437,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13715920800",
-    "name": "Amarillo Public Library North Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Martin Luther King Boulevard/NE 24th Ave 1500",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.2358385,
-    "lng": -101.8160916,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-212887905",
-    "name": "Southwest Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1605847,
-    "lng": -101.9128535,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-353923233",
-    "name": "Ware Student Commons",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Washington Street 2201",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79109",
-    "phone": "",
-    "hours": "",
-    "lat": 35.187843,
-    "lng": -101.8470672,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-403692954",
-    "name": "Potter County Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Fillmore Street 500",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79101",
-    "phone": "",
-    "hours": "",
-    "lat": 35.2077373,
-    "lng": -101.8353472,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10744268905",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Paramount Boulevard 2626",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1850928,
-    "lng": -101.8754389,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10744378705",
-    "name": "America’s thrift store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Plains Boulevard 3015",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79102",
-    "phone": "",
-    "hours": "",
-    "lat": 35.2034477,
-    "lng": -101.8705924,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13658181021",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Bell Street 1904",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79106",
-    "phone": "(806) 331-6890",
-    "hours": "",
-    "lat": 35.1917009,
-    "lng": -101.9030506,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-amarillo-hygiene",
-    "name": "Amarillo Public Library Northwest Branch Library - Restroom Access",
+    "name": "Amarillo Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Southwest 9th Avenue 6100",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Amarillo",
     "state": "TX",
-    "zip": "79106",
+    "zip": "",
     "phone": "",
-    "hours": "Su 14:00-18:00; Mo-Th 09:00-19:30; Fr-Sa 09:00-18:00",
-    "lat": 35.2065334,
-    "lng": -101.904519,
+    "hours": "Varies",
+    "lat": 35.2072,
+    "lng": -101.8313,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-amarillo-library",
+    "name": "Amarillo Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 35.2072,
+    "lng": -101.8313,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

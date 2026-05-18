@@ -133,44 +133,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-439299",
-    "name": "Rucker Rest Holdings LLC dba Jack in The Box 138",
-    "category": "Food",
-    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
-    "address": "141 N Arizona Ave",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85224",
-    "phone": "",
-    "hours": "",
-    "lat": 33.30539,
-    "lng": -111.8411,
-    "tags": [
-      "rmp restaurant",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-440290",
-    "name": "McDONALD'S   11552",
-    "category": "Food",
-    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
-    "address": "990 N. ARIZONA  AVENUE",
-    "city": "CHANDLER",
-    "state": "AZ",
-    "zip": "85224",
-    "phone": "",
-    "hours": "",
-    "lat": 33.32016,
-    "lng": -111.8424,
-    "tags": [
-      "rmp restaurant",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-222662",
     "name": "cornerstone",
     "category": "Food",
@@ -218,6 +180,44 @@
     "state": "AZ",
     "zip": "85225",
     "phone": "(480) 963-7698",
+    "hours": "",
+    "lat": 33.31748,
+    "lng": -111.83167,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2007",
+    "name": "Salvation Army - Chandler",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "85 E. Saragosa St",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "(480) 963-2041",
+    "hours": "",
+    "lat": 33.31748,
+    "lng": -111.83167,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2008",
+    "name": "Food Bank at Matthew's Crossing",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1368 N. Arizona Ave",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "(480) 857-2296",
     "hours": "",
     "lat": 33.31748,
     "lng": -111.83167,

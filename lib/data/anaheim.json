@@ -228,206 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-368169488",
-    "name": "La Puente Branch County of Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Central Avenue 15920",
-    "city": "La Puente",
-    "state": "CA",
-    "zip": "91744",
-    "phone": "(626) 968-4613",
-    "hours": "",
-    "lat": 34.0191781,
-    "lng": -117.950897,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169515",
-    "name": "Rivera Branch County of Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Serapis Avenue 7828",
-    "city": "Pico Rivera",
-    "state": "CA",
-    "zip": "90660",
-    "phone": "(562) 949-5485",
-    "hours": "Sa-Su off; Mo 10:00-18:00; Tu-We 12:00-20:00; Th-Fr 10:00-18:00",
-    "lat": 33.9689269,
-    "lng": -118.1009606,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169516",
-    "name": "Pico Rivera Branch County of Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Mines Avenue 9001",
-    "city": "Pico Rivera",
-    "state": "CA",
-    "zip": "90660",
-    "phone": "(562) 942-7394",
-    "hours": "Su-Mo off; Tu-We 12:00-20:00; Th-Sa 10:00-18:00",
-    "lat": 33.9919574,
-    "lng": -118.0892349,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169517",
-    "name": "Los Nietos Branch County of Los Angeles Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Duchess Drive 8511",
-    "city": "Whittier",
-    "state": "CA",
-    "zip": "90606",
-    "phone": "(562) 695-0708",
-    "hours": "Su off; Mo-We 10:00-20:00; Fr-Sa 10:00-18:00",
-    "lat": 33.9650917,
-    "lng": -118.0723363,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169524",
-    "name": "Alondra Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Alondra Boulevard 11949",
-    "city": "Norwalk",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.8879282,
-    "lng": -118.0783079,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169535",
-    "name": "La Mirada Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "La Mirada Boulevard 13800",
-    "city": "La Mirada",
-    "state": "CA",
-    "zip": "90638",
-    "phone": "(562) 943-0277",
-    "hours": "",
-    "lat": 33.9058963,
-    "lng": -118.0107894,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169586",
-    "name": "Brea Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "",
-    "phone": "(714) 671-1722",
-    "hours": "Mo-Th 10:00-19:00; Fr-Sa 09:00-17:00; Su off",
-    "lat": 33.9172311,
-    "lng": -117.8892041,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368169594",
-    "name": "Leisure World Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.7738158,
-    "lng": -118.0877512,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170083",
-    "name": "Euclid Branch Anaheim Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.8142981,
-    "lng": -117.9410031,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170101",
-    "name": "Banning Branch Huntington Beach Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.6436151,
-    "lng": -117.9656302,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-anaheim-shelter",
     "name": "Anaheim Homeless Services Hotline",
     "category": "Shelter",
@@ -449,22 +249,40 @@
   },
   {
     "id": "fallback-anaheim-hygiene",
-    "name": "La Puente Branch County of Los Angeles Public Library - Restroom Access",
+    "name": "Anaheim Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Central Avenue 15920",
-    "city": "La Puente",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Anaheim",
     "state": "CA",
-    "zip": "91744",
+    "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 34.0191781,
-    "lng": -117.950897,
+    "hours": "Varies",
+    "lat": 33.8366,
+    "lng": -117.9143,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-anaheim-library",
+    "name": "Anaheim Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 33.8366,
+    "lng": -117.9143,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

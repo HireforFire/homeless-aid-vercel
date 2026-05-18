@@ -228,413 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-4377800094",
-    "name": "Tornado Shelter",
+    "id": "fallback-st-louis-shelter",
+    "name": "St. Louis Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "St. Louis",
     "state": "MO",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7444595,
-    "lng": -90.3677249,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 38.627,
+    "lng": -90.1994,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4377946490",
-    "name": "Tornado Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7430121,
-    "lng": -90.3668281,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4377980991",
-    "name": "Tornado Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7449502,
-    "lng": -90.3682105,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368067071",
-    "name": "Madison Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "St. Louis",
-    "state": "IL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.6808835,
-    "lng": -90.1517758,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1852329089",
-    "name": "Jamestown Bluffs Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.8173666,
-    "lng": -90.2784888,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1978028411",
-    "name": "St. Louis County Library, Natural Bridge Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7049283,
-    "lng": -90.3020021,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2924791852",
-    "name": "Prairie Commons Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7828098,
-    "lng": -90.3776747,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3843348045",
-    "name": "Charing Cross Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Skinker Boulevard 356",
-    "city": "Saint Louis",
-    "state": "MO",
-    "zip": "63112",
-    "phone": "(314) 726-2653",
-    "hours": "Tu-Sa 10:00-12:00, 13:00-18:00",
-    "lat": 38.6515,
-    "lng": -90.3001367,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4217523983",
-    "name": "Richardson Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.6388753,
-    "lng": -90.2953861,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5837793049",
-    "name": "UHSP Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.6369149,
-    "lng": -90.2607651,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6148868308",
-    "name": "Fairmont City Library Center",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Collinsville Road 4444",
-    "city": "Fairmont City",
-    "state": "IL",
-    "zip": "62201",
-    "phone": "",
-    "hours": "",
-    "lat": 38.6504822,
-    "lng": -90.1039946,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6779562800",
-    "name": "Belleville Public LIbrary West Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Main Street 3414",
-    "city": "Belleville",
-    "state": "IL",
-    "zip": "62226",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5325343,
-    "lng": -90.0156546,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7146916059",
-    "name": "St. Louis County Library, Lewis and Clark Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Lewis and Clark Boulevard 9909",
-    "city": "Moline Acres",
-    "state": "MO",
-    "zip": "63136",
-    "phone": "",
-    "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-17:00",
-    "lat": 38.7479533,
-    "lng": -90.2404769,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2275859362",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Baptist Church Road 10570",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "63128",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5241066,
-    "lng": -90.3606363,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-7100097588",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Lindbergh Boulevard 770",
-    "city": "Florissant",
-    "state": "MO",
-    "zip": "63031",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7990929,
-    "lng": -90.3343419,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9630417380",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Tenbrook Road 2110",
-    "city": "Arnold",
-    "state": "MO",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.4485666,
-    "lng": -90.3675439,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9966694009",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Christy Boulevard 4928",
-    "city": "Saint Louis",
-    "state": "MO",
-    "zip": "63116",
-    "phone": "",
-    "hours": "",
-    "lat": 38.5856101,
-    "lng": -90.2739484,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12196371628",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Saint Charles Rock Road 10585",
-    "city": "Saint Ann",
-    "state": "MO",
-    "zip": "63074",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7313288,
-    "lng": -90.3867411,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12259782970",
-    "name": "Treasure Shoppe",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Key West Drive 2024",
-    "city": "Arnold",
-    "state": "MO",
-    "zip": "63010",
-    "phone": "",
-    "hours": "Mo-Fr 09:00-15:00; Sa 10:00-13:00",
-    "lat": 38.4405609,
-    "lng": -90.3858244,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-239084341",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Nameoki Road 3451",
-    "city": "Granite City",
-    "state": "IL",
-    "zip": "62040",
-    "phone": "",
-    "hours": "",
-    "lat": 38.7244968,
-    "lng": -90.1257046,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-st-louis-hygiene",
-    "name": "Madison Public Library - Restroom Access",
+    "name": "St. Louis Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "St. Louis",
-    "state": "IL",
+    "state": "MO",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 38.6808835,
-    "lng": -90.1517758,
+    "hours": "Varies",
+    "lat": 38.627,
+    "lng": -90.1994,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-st-louis-library",
+    "name": "St. Louis Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 38.627,
+    "lng": -90.1994,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

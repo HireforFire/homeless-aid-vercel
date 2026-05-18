@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-450388",
-    "name": "CAPNA - Downtown YMCA ECE Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "2000 Vernon Ave SW Ste A",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35805",
-    "phone": "(256) 536-8131",
-    "hours": "",
-    "lat": 34.723688,
-    "lng": -86.596448,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-128163",
     "name": "Huntsville City Board of Education",
     "category": "Food",
@@ -131,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-450388",
+    "name": "CAPNA - Downtown YMCA ECE Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
+    "address": "2000 Vernon Ave SW Ste A",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35805",
+    "phone": "(256) 536-8131",
+    "hours": "",
+    "lat": 34.723688,
+    "lng": -86.596448,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fa-173905",
@@ -228,280 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-8494155215",
-    "name": "Rest Shelter",
+    "id": "fallback-huntsville-shelter",
+    "name": "Huntsville Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Huntsville",
     "state": "AL",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7276885,
-    "lng": -86.5050834,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 34.7304,
+    "lng": -86.5861,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8853984667",
-    "name": "Sanford Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7496049,
-    "lng": -86.5124007,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-87450644",
-    "name": "M. Louis Salmon Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7297307,
-    "lng": -86.6400445,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-100305529",
-    "name": "Huntsville - Madison County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Monroe Street Southwest;Monroe Street 915",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35801",
-    "phone": "(256) 532-5940",
-    "hours": "09:00-20:00, Sa 09:00-17:00, Su 13:00-17:00",
-    "lat": 34.7227967,
-    "lng": -86.5896131,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-388522584",
-    "name": "J.F. Drake Learning Resources Center (LRC)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7835585,
-    "lng": -86.5701979,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-405539843",
-    "name": "Huntsville Public - Cavalry Hills Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Poplar Avenue 2800",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35816-3230",
-    "phone": "(256) 970-6313",
-    "hours": "",
-    "lat": 34.738412,
-    "lng": -86.612735,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-468887993",
-    "name": "Bailey Cove Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Weatherly Plaza Southeast 1409",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35803",
-    "phone": "(256) 881-0257",
-    "hours": "",
-    "lat": 34.6449892,
-    "lng": -86.5411683,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-599004850",
-    "name": "Monrovia Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Allen Drake Drive;Allen Drake Road 254",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35806;35806-1314",
-    "phone": "(256) 489-3392",
-    "hours": "Mo-Th 09:00-20:00; Sa-Su 09:00-17:00",
-    "lat": 34.8114228,
-    "lng": -86.7163287,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-612795745",
-    "name": "Huntsville Public - Madison Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Plaza Boulevard;Plaza Drive 142",
-    "city": "Madison",
-    "state": "AL",
-    "zip": "35758;35758-1160",
-    "phone": "(256) 461-0046",
-    "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-17:00; Su 13:00-17:00",
-    "lat": 34.7108312,
-    "lng": -86.7441243,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-766582174",
-    "name": "Triana Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Record Street;Record Road 357",
-    "city": "Triana;Madison",
-    "state": "AL",
-    "zip": "35756;35756-8200",
-    "phone": "(256) 772-9943",
-    "hours": "",
-    "lat": 34.582549,
-    "lng": -86.734053,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1111873939",
-    "name": "South Huntsville Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Bailey Cove Road Southeast;Bailey Cove Road 7901-L",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35802;35802-3303",
-    "phone": "(256) 881-0257",
-    "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-17:00; Su 13:00-17:00",
-    "lat": 34.6623663,
-    "lng": -86.5384543,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11089390524",
-    "name": "A New Leash On Life-Huntsville Thrift Store & Boutique",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Andrew Jackson Way Northeast 707",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo,Su off; Tu-Sa 10:00-16:00",
-    "lat": 34.7435898,
-    "lng": -86.5771188,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-604663573",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Whitesburg Drive South 8501",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35802",
-    "phone": "",
-    "hours": "",
-    "lat": 34.6527979,
-    "lng": -86.565617,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-huntsville-hygiene",
-    "name": "Sanford Library - Restroom Access",
+    "name": "Huntsville Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Huntsville",
     "state": "AL",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 34.7496049,
-    "lng": -86.5124007,
+    "hours": "Varies",
+    "lat": 34.7304,
+    "lng": -86.5861,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-huntsville-library",
+    "name": "Huntsville Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 34.7304,
+    "lng": -86.5861,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

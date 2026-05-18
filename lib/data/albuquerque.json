@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-453943",
-    "name": "NAPPR EHS Child Care Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (72 funded slots)",
-    "address": "801 Girard Blvd NE",
-    "city": "Albuquerque",
-    "state": "NM",
-    "zip": "87106",
-    "phone": "(505) 345-6289",
-    "hours": "",
-    "lat": 35.088492,
-    "lng": -106.613438,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-130145",
     "name": "MEDIA ARTS COLLABORATIVE CHARTER SCHOOL",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-453943",
+    "name": "NAPPR EHS Child Care Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (72 funded slots)",
+    "address": "801 Girard Blvd NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87106",
+    "phone": "(505) 345-6289",
+    "hours": "",
+    "lat": 35.088492,
+    "lng": -106.613438,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fa-184908",

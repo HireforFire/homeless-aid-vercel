@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-442928",
-    "name": "First United Methodist Church",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "15 E 1st Ave # 1",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85201",
-    "phone": "(602) 372-3700",
-    "hours": "",
-    "lat": 33.412919,
-    "lng": -111.831294,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-128301",
     "name": "Concordia Charter School, Inc.",
     "category": "Food",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-442928",
+    "name": "First United Methodist Church",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
+    "address": "15 E 1st Ave # 1",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85201",
+    "phone": "(602) 372-3700",
+    "hours": "",
+    "lat": 33.412919,
+    "lng": -111.831294,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fa-188669",

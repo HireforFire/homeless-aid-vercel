@@ -228,282 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-367130964",
-    "name": "Bryant Branch Saline County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.5981487,
-    "lng": -92.4887691,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5579254359",
-    "name": "Millie Brooks Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.6291355,
-    "lng": -92.2231295,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10707946872",
-    "name": "Little Rock Air Force Base Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.8958171,
-    "lng": -92.1387784,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-130061671",
-    "name": "Central Arkansas Library System - Main Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Rock Street 100",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "72201",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7469833,
-    "lng": -92.2674172,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-265700525",
-    "name": "Argenta Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Main Street 420",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "72114",
-    "phone": "(501) 687-1061",
-    "hours": "",
-    "lat": 34.7577856,
-    "lng": -92.2673887,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-278870520",
-    "name": "A. W. Young Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Pine Street 700",
-    "city": "North Little Rock",
-    "state": "AR",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7601699,
-    "lng": -92.2601246,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-297754201",
-    "name": "Ottenheimer Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South University Avenue 2801",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "72204",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7232713,
-    "lng": -92.3397224,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-436811415",
-    "name": "Oley E. Rooker Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "72210",
-    "phone": "",
-    "hours": "",
-    "lat": 34.6588528,
-    "lng": -92.4261672,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-436811417",
-    "name": "Hillary Rodham Clinton Children's Library & Learning Center",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West 10th Street 4800",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "72204",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7436508,
-    "lng": -92.3281518,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-446329943",
-    "name": "John Gould Fletcher Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Buchanan Street 823",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "72205",
-    "phone": "",
-    "hours": "Mo 09:00-20:00; Tu 09:00-18:00; We 09:00-20:00; Th-Sa 09:00-18:00",
-    "lat": 34.7591136,
-    "lng": -92.3383196,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13046007258",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "T P White Drive 1309",
-    "city": "Jacksonville",
-    "state": "AR",
-    "zip": "72076",
-    "phone": "(501) 985-2645",
-    "hours": "",
-    "lat": 34.880039,
-    "lng": -92.1112419,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-376465191",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Cantrell Road 7001",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "72207",
-    "phone": "(501) 280-0863",
-    "hours": "Mo-Sa 08:00-19:00; Su 10:00-18:00",
-    "lat": 34.7691686,
-    "lng": -92.3531469,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-380400767",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Markham Street 1111",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "72201",
-    "phone": "(501) 374-9296",
-    "hours": "Mo-Fr 08:30-16:00",
-    "lat": 34.7495295,
-    "lng": -92.283026,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1167673055",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South University Avenue 6700",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "72209",
-    "phone": "(501) 771-9494",
-    "hours": "Tu-Sa 09:00-17:00",
-    "lat": 34.6881612,
-    "lng": -92.3494989,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-little-rock-shelter",
     "name": "Little Rock Homeless Services Hotline",
     "category": "Shelter",
@@ -525,22 +249,40 @@
   },
   {
     "id": "fallback-little-rock-hygiene",
-    "name": "Bryant Branch Saline County Public Library - Restroom Access",
+    "name": "Little Rock Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Little Rock",
     "state": "AR",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 34.5981487,
-    "lng": -92.4887691,
+    "hours": "Varies",
+    "lat": 34.7465,
+    "lng": -92.2896,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-little-rock-library",
+    "name": "Little Rock Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 34.7465,
+    "lng": -92.2896,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

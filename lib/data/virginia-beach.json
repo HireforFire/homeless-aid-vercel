@@ -228,259 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-3188922286",
-    "name": "Samaritan House",
+    "id": "fallback-virginia-beach-shelter",
+    "name": "Virginia Beach Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "Southern Boulevard 2620",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23452",
-    "phone": "(757) 763-1071",
-    "hours": "",
-    "lat": 36.8398911,
-    "lng": -76.0629964,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4637812567",
-    "name": "Marlwood Shelter",
-    "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Virginia Beach",
     "state": "VA",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8275257,
-    "lng": -76.1502174,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 36.8529,
+    "lng": -75.978,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5276397205",
-    "name": "Lago Mar Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7528782,
-    "lng": -75.9784724,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-402255721",
-    "name": "Bayside Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Independence Boulevard 936",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23455",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8697982,
-    "lng": -76.1327539,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-402408632",
-    "name": "Oceanfront Area Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Virginia Beach Boulevard 700",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23451",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8444377,
-    "lng": -75.9835667,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-402419460",
-    "name": "Great Neck Area Branch Virginia Beach Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Bayne Drive 1251",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23454",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8657197,
-    "lng": -76.0357244,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-402438758",
-    "name": "Windsor Woods Area Branch Virginia Beach Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Plaza Trail 3612",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23452",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8302326,
-    "lng": -76.0970713,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-402552479",
-    "name": "Princess Anne Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Nimmo Parkway 1444",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23456",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7643673,
-    "lng": -76.0219331,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-402738468",
-    "name": "Kempsville Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Kempsville Road 832",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23464",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8152949,
-    "lng": -76.1634659,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-402750760",
-    "name": "Joint-Use Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Michael La Bouve Drive 1788",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23453",
-    "phone": "",
-    "hours": "",
-    "lat": 36.786098,
-    "lng": -76.095679,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1339755774",
-    "name": "Wahab Public Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Nimmo Parkway 2425",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23456",
-    "phone": "(757) 385-4419",
-    "hours": "Mo-Fr 08:30-16:30; Sa-Su off",
-    "lat": 36.7535633,
-    "lng": -76.0602136,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-407422627",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Virginia Beach Boulevard 5524",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23462",
-    "phone": "(757) 499-0032",
-    "hours": "Mo-Sa 09:00-19:00",
-    "lat": 36.8531505,
-    "lng": -76.1726613,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-virginia-beach-hygiene",
-    "name": "Bayside Library - Restroom Access",
+    "name": "Virginia Beach Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Independence Boulevard 936",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Virginia Beach",
     "state": "VA",
-    "zip": "23455",
+    "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 36.8697982,
-    "lng": -76.1327539,
+    "hours": "Varies",
+    "lat": 36.8529,
+    "lng": -75.978,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-virginia-beach-library",
+    "name": "Virginia Beach Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 36.8529,
+    "lng": -75.978,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

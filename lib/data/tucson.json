@@ -114,44 +114,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-446109",
-    "name": "Santa Rosa",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (53 funded slots)",
-    "address": "1065 S 10th Ave",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85701",
-    "phone": "(520) 382-1500",
-    "hours": "",
-    "lat": 32.208586,
-    "lng": -110.974584,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-446145",
-    "name": "Blake-Children's Achievement Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (9 funded slots)",
-    "address": "330 N Commerce Park Loop Ste 100",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85745",
-    "phone": "(520) 325-6495",
-    "hours": "",
-    "lat": 32.224822,
-    "lng": -110.983081,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-128302",
     "name": "CPLC Community Schools dba Hiaki High School",
     "category": "Food",
@@ -188,6 +150,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-446109",
+    "name": "Santa Rosa",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (53 funded slots)",
+    "address": "1065 S 10th Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "(520) 382-1500",
+    "hours": "",
+    "lat": 32.208586,
+    "lng": -110.974584,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-446145",
+    "name": "Blake-Children's Achievement Center",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (9 funded slots)",
+    "address": "330 N Commerce Park Loop Ste 100",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85745",
+    "phone": "(520) 325-6495",
+    "hours": "",
+    "lat": 32.224822,
+    "lng": -110.983081,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fa-186328",

@@ -57,6 +57,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-128609",
+    "name": "Modesto City Elementary School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "426 LOCUST ST",
+    "city": "MODESTO",
+    "state": "CA",
+    "zip": "95356",
+    "phone": "(209) 576-4011",
+    "hours": "",
+    "lat": 37.63963,
+    "lng": -121.013645,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-450712",
     "name": "Tom Changnon Education Center (TCEC)",
     "category": "Food",
@@ -93,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-128609",
-    "name": "Modesto City Elementary School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "426 LOCUST ST",
-    "city": "MODESTO",
-    "state": "CA",
-    "zip": "95356",
-    "phone": "(209) 576-4011",
-    "hours": "",
-    "lat": 37.63963,
-    "lng": -121.013645,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-190447",

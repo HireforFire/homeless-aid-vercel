@@ -228,375 +228,61 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-4397522550",
-    "name": "Alpha Omega Veterans Services - Court",
+    "id": "fallback-memphis-shelter",
+    "name": "Memphis Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "War Memorial Drive 1463",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
     "city": "Memphis",
     "state": "TN",
-    "zip": "38104",
-    "phone": "(901) 725-7030",
-    "hours": "07:30-16:30",
-    "lat": 35.1393853,
-    "lng": -90.0124221,
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 35.1495,
+    "lng": -90.049,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4397527118",
-    "name": "Alpha Omega Veterans Services, Inc.",
-    "category": "Shelter",
-    "description": "Transitional supportive housing facility for homeless and disabled military veterans.",
-    "address": "Madison Avenue 1183",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38104",
-    "phone": "(901) 726-5066",
-    "hours": "24/7",
-    "lat": 35.1392536,
-    "lng": -90.021832,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4397533178",
-    "name": "Alpha Omega Veterans Services - Vinton",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "Vinton Avenue 1266",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38104",
-    "phone": "(901) 726-9737",
-    "hours": "08:00-16:00",
-    "lat": 35.1309621,
-    "lng": -90.019526,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4397537190",
-    "name": "Alpha Omega Veterans Services - Depot",
-    "category": "Shelter",
-    "description": "Transitional and permanent supportive housing facilities that serve homeless and disabled military veterans.",
-    "address": "Ball Road 2226",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38114",
-    "phone": "(901) 774-6768",
-    "hours": "07:30-16:30",
-    "lat": 35.0817623,
-    "lng": -89.9882006,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4397539928",
-    "name": "Alpha Omega Veterans Services - Life House",
-    "category": "Shelter",
-    "description": "Hospice and palliative care facility serving homeless and disabled military veterans.",
-    "address": "Central Avenue 1154",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38104",
-    "phone": "(901) 726-4155",
-    "hours": "07:30-16:30",
-    "lat": 35.1269089,
-    "lng": -90.0233303,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6077450628",
-    "name": "Calvary Rescue Mission",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1211559,
-    "lng": -90.0547835,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367134575",
-    "name": "Dye Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Memphis",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.9623162,
-    "lng": -90.0473141,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368157398",
-    "name": "Hyde Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.0987494,
-    "lng": -89.855486,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368157425",
-    "name": "Saint Marys Episcopal School Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.129453,
-    "lng": -89.908068,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5495173508",
-    "name": "St. Jude Biomedical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1541419,
-    "lng": -90.0424036,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5744453873",
-    "name": "Bronstein Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1295314,
-    "lng": -89.8599324,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5744453917",
-    "name": "Powell Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1294349,
-    "lng": -89.8599295,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-126631958",
-    "name": "Ned R McWherter Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Norriswood Avenue 3785",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38152-3250",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1208573,
-    "lng": -89.9361493,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-129776379",
-    "name": "Benjamin L. Hooks Central Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Poplar Avenue 3030",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38111;38111-3527",
-    "phone": "(901) 415-2700",
-    "hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 13:00-17:00",
-    "lat": 35.1333711,
-    "lng": -89.9608047,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-129970012",
-    "name": "Cossitt-Goodwyn Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Front Street 33",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38103-2409",
-    "phone": "(901) 415-2766",
-    "hours": "",
-    "lat": 35.1450108,
-    "lng": -90.054924,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-227222929",
-    "name": "Plough Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 35.127968,
-    "lng": -89.982118,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10751841306",
-    "name": "Hope Missions",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.9849415,
-    "lng": -90.0182061,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-241070258",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Poplar Avenue 3109",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38111",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1311939,
-    "lng": -89.9582633,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-memphis-hygiene",
-    "name": "Dye Library - Restroom Access",
+    "name": "Memphis Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Memphis",
-    "state": "MS",
+    "state": "TN",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 34.9623162,
-    "lng": -90.0473141,
+    "hours": "Varies",
+    "lat": 35.1495,
+    "lng": -90.049,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-memphis-library",
+    "name": "Memphis Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 35.1495,
+    "lng": -90.049,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

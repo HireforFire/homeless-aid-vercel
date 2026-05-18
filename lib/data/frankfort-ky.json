@@ -228,162 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-11364198025",
-    "name": "Model Airplane Shelter",
+    "id": "fallback-frankfort-ky-shelter",
+    "name": "Frankfort Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Frankfort",
     "state": "KY",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.0492667,
-    "lng": -84.7663143,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 38.2009,
+    "lng": -84.8733,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-255555106",
-    "name": "Paul Sawyier Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Wapping Street 319",
-    "city": "Frankfort",
-    "state": "KY",
-    "zip": "40601;40601-2605",
-    "phone": "(520) 352-2665",
-    "hours": "Mo-Th 10:00-20:00, Sa 10:00-16:00, Su 13:00-17:00",
-    "lat": 38.197648,
-    "lng": -84.8799386,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-817613567",
-    "name": "Paul G. Blazer Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Jackson Drive 110",
-    "city": "Frankfort",
-    "state": "KY",
-    "zip": "40601",
-    "phone": "(502) 597-6851",
-    "hours": "Mo-Th 08:00-22:00; Fr 08:00-17:00; Sa 11:00-15:00; Su 14:00-21:00",
-    "lat": 38.2031943,
-    "lng": -84.8572206,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1051416255",
-    "name": "Woodford County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Main Street 115",
-    "city": "Versailles",
-    "state": "KY",
-    "zip": "40383-1203",
-    "phone": "(859) 873-5191",
-    "hours": "",
-    "lat": 38.0534064,
-    "lng": -84.7305895,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1342255618",
-    "name": "Anderson County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Main Street 114",
-    "city": "Lawrenceburg",
-    "state": "KY",
-    "zip": "40342-1193",
-    "phone": "(502) 839-6420",
-    "hours": "",
-    "lat": 38.0383856,
-    "lng": -84.8963265,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1342485771",
-    "name": "Midway Branch Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Northside Drive 400",
-    "city": "Midway",
-    "state": "KY",
-    "zip": "40347;40347-1132",
-    "phone": "(859) 846-4014",
-    "hours": "",
-    "lat": 38.1512259,
-    "lng": -84.6788284,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1348570028",
-    "name": "Little Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Stephens Street 512",
-    "city": "Midway",
-    "state": "KY",
-    "zip": "40347",
-    "phone": "",
-    "hours": "",
-    "lat": 38.1460993,
-    "lng": -84.6781101,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-frankfort-ky-hygiene",
-    "name": "Paul Sawyier Public Library - Restroom Access",
+    "name": "Frankfort Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Wapping Street 319",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Frankfort",
     "state": "KY",
-    "zip": "40601;40601-2605",
+    "zip": "",
     "phone": "",
-    "hours": "Mo-Th 10:00-20:00, Sa 10:00-16:00, Su 13:00-17:00",
-    "lat": 38.197648,
-    "lng": -84.8799386,
+    "hours": "Varies",
+    "lat": 38.2009,
+    "lng": -84.8733,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-frankfort-ky-library",
+    "name": "Frankfort Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Frankfort",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 38.2009,
+    "lng": -84.8733,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

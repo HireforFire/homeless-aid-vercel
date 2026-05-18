@@ -190,25 +190,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-455350",
-    "name": "Timpanogos Child Development Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (49 funded slots)",
-    "address": "275 W Center St",
-    "city": "Orem",
-    "state": "UT",
-    "zip": "84057",
-    "phone": "(801) 375-7981",
-    "hours": "",
-    "lat": 40.296422,
-    "lng": -111.702956,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-131039",
     "name": "MERIT COLLEGE PREPARATORY ACADEMY",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 40.167755,
     "lng": -111.636755,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-131050",
+    "name": "RONALD REAGAN ACADEMY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1143 WEST CENTER",
+    "city": "SPRINGVILLE",
+    "state": "UT",
+    "zip": "84663",
+    "phone": "(801) 489-7828",
+    "hours": "",
+    "lat": 40.166755,
+    "lng": -111.629454,
     "tags": [
       "food pantry",
       "walk-in"

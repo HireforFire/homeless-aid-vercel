@@ -228,470 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-1688056819",
-    "name": "Shelter 5",
+    "id": "fallback-indianapolis-shelter",
+    "name": "Indianapolis Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Indianapolis",
     "state": "IN",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6861941,
-    "lng": -85.9610601,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 39.7684,
+    "lng": -86.1581,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1688056916",
-    "name": "Shelter 6",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6844929,
-    "lng": -85.9609632,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1688057598",
-    "name": "Shelter 4",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6862726,
-    "lng": -85.9607489,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1688057609",
-    "name": "Shelter 3",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6863303,
-    "lng": -85.9598585,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1688057610",
-    "name": "Shelter 2",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6864191,
-    "lng": -85.9586946,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1692244974",
-    "name": "Shelter C",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.8713838,
-    "lng": -86.2863151,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367792849",
-    "name": "Wayne Branch Indianapolis-Marion County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Girls School Road 198",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46231",
-    "phone": "(317) 275-4530",
-    "hours": "",
-    "lat": 39.7611111,
-    "lng": -86.2897222,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367792850",
-    "name": "West Indianapolis Branch Indianapolis-Marion County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Kappes Street 1216",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46221",
-    "phone": "(317) 275-4540",
-    "hours": "",
-    "lat": 39.7507642,
-    "lng": -86.1946891,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367792852",
-    "name": "East Washington Branch Indianapolis-Marion County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Washington Street 2822",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46201",
-    "phone": "(317) 275-4360",
-    "hours": "",
-    "lat": 39.7686213,
-    "lng": -86.1157696,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367792854",
-    "name": "Pike Branch Indianapolis-Marion County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Zionsville Road 6525",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46268",
-    "phone": "(317) 275-4480",
-    "hours": "",
-    "lat": 39.8747222,
-    "lng": -86.2591667,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367792855",
-    "name": "Spades Park Branch Indianapolis-Marion County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Nowland Avenue 1801",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46201",
-    "phone": "(317) 275-4520",
-    "hours": "",
-    "lat": 39.7849361,
-    "lng": -86.1289479,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367792860",
-    "name": "Infozone Branch Indianapolis-Marion County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Meridian Street 3000",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46208",
-    "phone": "(317) 275-4430",
-    "hours": "",
-    "lat": 39.8109507,
-    "lng": -86.1571375,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367792862",
-    "name": "Dorothy Everett Professional Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7694444,
-    "lng": -86.1591667,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367792864",
-    "name": "Indianapolis Public Library - Flanner House Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Dr Martin Luther King Street 2424",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46208",
-    "phone": "(317) 275-4370",
-    "hours": "",
-    "lat": 39.8014353,
-    "lng": -86.1715703,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367792866",
-    "name": "Nora Branch Indianapolis-Marion County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Guilford Avenue 8625",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46240",
-    "phone": "(317) 275-4470",
-    "hours": "",
-    "lat": 39.9132433,
-    "lng": -86.1416121,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367792873",
-    "name": "Franklin Road Branch Indianapolis-Marion County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Franklin Road 5550",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46239",
-    "phone": "(317) 275-4380",
-    "hours": "Mo,Tu 10:00-20:00; We-Fr 10:00-18:00; Sa 10:00-17:00; PH,Su off",
-    "lat": 39.6875,
-    "lng": -86.018889,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2658950796",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Fishers Station Drive 7440",
-    "city": "Fishers",
-    "state": "IN",
-    "zip": "46038",
-    "phone": "(317) 845-9264",
-    "hours": "Mo-Sa 09:00-21:00, Su 11:00-19:00",
-    "lat": 39.9587699,
-    "lng": -86.0383044,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4929498716",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Walnut Creek Drive 10491",
-    "city": "Carmel",
-    "state": "IN",
-    "zip": "46032",
-    "phone": "",
-    "hours": "",
-    "lat": 39.9387027,
-    "lng": -86.23372,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4966158713",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Keystone Way 1122",
-    "city": "Carmel",
-    "state": "IN",
-    "zip": "46032",
-    "phone": "",
-    "hours": "",
-    "lat": 39.9609758,
-    "lng": -86.1157604,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4995733642",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East Washington Street 10499",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46229",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7748181,
-    "lng": -85.9804404,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5020785020",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East 86th Street 1520",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46240",
-    "phone": "",
-    "hours": "",
-    "lat": 39.9138031,
-    "lng": -86.133667,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5273777830",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East 82nd Street 6302",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46250",
-    "phone": "",
-    "hours": "Mo-Sa 09:00-21:00; Su 11:00-19:00",
-    "lat": 39.908272,
-    "lng": -86.0596247,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8339845843",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7492764,
-    "lng": -86.1395792,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-indianapolis-hygiene",
-    "name": "Wayne Branch Indianapolis-Marion County Public Library - Restroom Access",
+    "name": "Indianapolis Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "South Girls School Road 198",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Indianapolis",
     "state": "IN",
-    "zip": "46231",
+    "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 39.7611111,
-    "lng": -86.2897222,
+    "hours": "Varies",
+    "lat": 39.7684,
+    "lng": -86.1581,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-indianapolis-library",
+    "name": "Indianapolis Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

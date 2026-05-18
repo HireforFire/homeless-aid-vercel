@@ -38,25 +38,6 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "fa-451413",
-    "name": "Central City",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
-    "address": "615 S 300 E",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84111",
-    "phone": "(385) 468-1558",
-    "hours": "",
-    "lat": 40.755609,
-    "lng": -111.881839,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-131019",
     "name": "ALIANZA ACADEMY",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-451413",
+    "name": "Central City",
+    "category": "Food",
+    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
+    "address": "615 S 300 E",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(385) 468-1558",
+    "hours": "",
+    "lat": 40.755609,
+    "lng": -111.881839,
+    "tags": [
+      "head start",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fa-189173",

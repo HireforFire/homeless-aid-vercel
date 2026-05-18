@@ -228,299 +228,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-way-326836858",
-    "name": "Trinity Rescue Mission",
+    "id": "fallback-jacksonville-shelter",
+    "name": "Jacksonville Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Jacksonville",
     "state": "FL",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.3335536,
-    "lng": -81.6596399,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 30.3322,
+    "lng": -81.6557,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367823869",
-    "name": "Mandarin Regional Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2007113,
-    "lng": -81.6193253,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367824098",
-    "name": "Kent Campus Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Th 08:00-21:00, Fr,Sa 08:00-15:00",
-    "lat": 30.30118,
-    "lng": -81.718361,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367824100",
-    "name": "Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.429224,
-    "lng": -81.71854,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367824102",
-    "name": "FSCJ Deerwood Center Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.221846,
-    "lng": -81.553543,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367824105",
-    "name": "Saint Luke's Hospital Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.25339,
-    "lng": -81.585278,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367824107",
-    "name": "Saint Vincent's Medical Center Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.30712,
-    "lng": -81.68949,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12551975911",
-    "name": "Orange Park Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Plainfield Avenue 2054",
-    "city": "Orange Park",
-    "state": "FL",
-    "zip": "32073-5482",
-    "phone": "(904) 278-4750",
-    "hours": "",
-    "lat": 30.1645079,
-    "lng": -81.7072732,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-92643878",
-    "name": "Thomas G Carpenter Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2691767,
-    "lng": -81.5084096,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-229650331",
-    "name": "Jacksonville Public Library - Argyle Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2012598,
-    "lng": -81.8212061,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-262643542",
-    "name": "West Regional Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Chaffee Road South 1425",
-    "city": "Jacksonviile",
-    "state": "FL",
-    "zip": "32221-1119",
-    "phone": "(904) 255-2665",
-    "hours": "",
-    "lat": 30.2944087,
-    "lng": -81.8477779,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2300143578",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Dunn Avenue 4243",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "32218",
-    "phone": "(904) 768-3814",
-    "hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
-    "lat": 30.4390636,
-    "lng": -81.715296,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-609349330",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "San Jose Boulevard 11524",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "32223",
-    "phone": "",
-    "hours": "",
-    "lat": 30.1639,
-    "lng": -81.63357,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-663379253",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Old Saint Augustine Road 13720",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "32258",
-    "phone": "",
-    "hours": "",
-    "lat": 30.1419002,
-    "lng": -81.5536949,
-    "tags": [
-      "thrift",
-      "charity"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-jacksonville-hygiene",
-    "name": "Mandarin Regional Library - Restroom Access",
+    "name": "Jacksonville Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Jacksonville",
     "state": "FL",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 30.2007113,
-    "lng": -81.6193253,
+    "hours": "Varies",
+    "lat": 30.3322,
+    "lng": -81.6557,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-jacksonville-library",
+    "name": "Jacksonville Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

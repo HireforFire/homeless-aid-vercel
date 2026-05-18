@@ -228,206 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-368170233",
-    "name": "La Sierra Branch Riverside Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.91548,
-    "lng": -117.4866278,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170234",
-    "name": "SSgt. Salvador J. Lara Casa Blanca Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.9303237,
-    "lng": -117.3998405,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170235",
-    "name": "Norco Branch Riverside City and County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.9389673,
-    "lng": -117.5573993,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170242",
-    "name": "Highgrove Branch Riverside City and County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0153579,
-    "lng": -117.3232311,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170244",
-    "name": "Arlington Branch Riverside Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 33.9194336,
-    "lng": -117.4473635,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170251",
-    "name": "Norman F. Feldheym Central Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "W 6th Street 555",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo, Tu 12:00-20:00; We, Th, Sa 10:00-18:00",
-    "lat": 34.1094927,
-    "lng": -117.2954709,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170253",
-    "name": "San Bernardino Sun Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.1080672,
-    "lng": -117.2917097,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170255",
-    "name": "Samuel E Adams Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0886233,
-    "lng": -117.3130992,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170258",
-    "name": "Carnegie Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0686239,
-    "lng": -117.323655,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170266",
-    "name": "Grand Terrace Branch San Bernardino County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Barton Road 22795",
-    "city": "Grand Terrace",
-    "state": "CA",
-    "zip": "92313",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0352851,
-    "lng": -117.3069935,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-riverside-shelter",
     "name": "Riverside Homeless Services Hotline",
     "category": "Shelter",
@@ -449,22 +249,40 @@
   },
   {
     "id": "fallback-riverside-hygiene",
-    "name": "La Sierra Branch Riverside Public Library - Restroom Access",
+    "name": "Riverside Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Riverside",
     "state": "CA",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 33.91548,
-    "lng": -117.4866278,
+    "hours": "Varies",
+    "lat": 33.9533,
+    "lng": -117.3961,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-riverside-library",
+    "name": "Riverside Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 33.9533,
+    "lng": -117.3961,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

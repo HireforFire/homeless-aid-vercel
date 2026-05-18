@@ -228,320 +228,6 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "osm-way-53335109",
-    "name": "Mary Magdalen House",
-    "category": "Clothing & Supplies",
-    "description": "social_facility",
-    "address": "Republic Street 1629",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45202",
-    "phone": "(513) 721-4811",
-    "hours": "Mo-Fr 08:30-16:00; Sa 08:30-12:00",
-    "lat": 39.1137699,
-    "lng": -84.5171768,
-    "tags": [
-      "clothing",
-      "free"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2875324020",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Donnermeyer Drive 15",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "41073",
-    "phone": "(859) 291-1333",
-    "hours": "Mo-Su 10:00-18:00",
-    "lat": 39.0990023,
-    "lng": -84.4839635,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10078985779",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Alexandria Pike 3970",
-    "city": "Cold Spring",
-    "state": "KY",
-    "zip": "41076",
-    "phone": "(859) 572-2640",
-    "hours": "Mo-Sa 10:00-19:00; Su 12:00-18:00",
-    "lat": 39.0236577,
-    "lng": -84.4430074,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13048506403",
-    "name": "Saint Vincent de Paul Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Turfway Road 7110",
-    "city": "Florence",
-    "state": "KY",
-    "zip": "41042",
-    "phone": "",
-    "hours": "Mo-Sa 10:00-19:00",
-    "lat": 39.0057442,
-    "lng": -84.6208612,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13048529270",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Turfway Road 7102",
-    "city": "Florence",
-    "state": "KY",
-    "zip": "41042",
-    "phone": "",
-    "hours": "",
-    "lat": 39.0053778,
-    "lng": -84.6205624,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-39242480",
-    "name": "Goodwill Montgomery Boutique",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Montgomery Road 9820",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45242",
-    "phone": "",
-    "hours": "",
-    "lat": 39.2345968,
-    "lng": -84.3507115,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368152949",
-    "name": "Mercantile Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Walnut Street 414",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45202",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1006371,
-    "lng": -84.5109365,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368153328",
-    "name": "John H. Holmes Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1181147,
-    "lng": -84.6043893,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368153330",
-    "name": "Cincinnati Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1074657,
-    "lng": -84.5102903,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2406030524",
-    "name": "CECH Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "University Circle 2610",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1301685,
-    "lng": -84.5197135,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2406031240",
-    "name": "Geology-Mathematics-Physics Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1329901,
-    "lng": -84.518251,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2457528975",
-    "name": "DAAP Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1344516,
-    "lng": -84.5192644,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3358836528",
-    "name": "College of Engineering & Applied Science Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1330016,
-    "lng": -84.5167741,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4455960090",
-    "name": "Greenhills Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.2671483,
-    "lng": -84.5207604,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6632342675",
-    "name": "Chemistry-Biology Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1339696,
-    "lng": -84.5167116,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6702739768",
-    "name": "Elmwood Place Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Vine Street 6118",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1869982,
-    "lng": -84.4875335,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-cincinnati-shelter",
     "name": "Cincinnati Homeless Services Hotline",
     "category": "Shelter",
@@ -563,22 +249,40 @@
   },
   {
     "id": "fallback-cincinnati-hygiene",
-    "name": "Mercantile Library - Restroom Access",
+    "name": "Cincinnati Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Walnut Street 414",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Cincinnati",
     "state": "OH",
-    "zip": "45202",
+    "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 39.1006371,
-    "lng": -84.5109365,
+    "hours": "Varies",
+    "lat": 39.1031,
+    "lng": -84.512,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-cincinnati-library",
+    "name": "Cincinnati Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 39.1031,
+    "lng": -84.512,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

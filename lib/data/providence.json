@@ -152,44 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-438288",
-    "name": "Subway #39351",
-    "category": "Food",
-    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
-    "address": "2 Kennedy Plz",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "02903",
-    "phone": "",
-    "hours": "",
-    "lat": 41.82476,
-    "lng": -71.4127,
-    "tags": [
-      "rmp restaurant",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-439330",
-    "name": "Eshay Corp  Subway",
-    "category": "Food",
-    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
-    "address": "719 Westminster St",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "02903",
-    "phone": "",
-    "hours": "",
-    "lat": 41.81838,
-    "lng": -71.41994,
-    "tags": [
-      "rmp restaurant",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-218793",
     "name": "The Salvation Army - Pitman Street",
     "category": "Food",
@@ -228,222 +190,42 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-257536398",
-    "name": "Blackstone Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Main Street 86",
-    "city": "Blackstone",
-    "state": "RI",
-    "zip": "01504",
-    "phone": "(508) 883-1931",
-    "hours": "Mo 09:00-20:00; Tu,Th 12:00-20:00; Fr,Sa 10:00-14:00",
-    "lat": 42.0194749,
-    "lng": -71.535281,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257536578",
-    "name": "Richards Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Washington Street 118",
-    "city": "North Attleborough",
-    "state": "MA",
-    "zip": "02760",
-    "phone": "(508) 699-0122",
-    "hours": "",
-    "lat": 41.9852932,
-    "lng": -71.3324581,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257537107",
-    "name": "Blanding Free Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Bay State Road 124",
-    "city": "Rehoboth",
-    "state": "MA",
-    "zip": "02769",
-    "phone": "",
-    "hours": "",
-    "lat": 41.8413315,
-    "lng": -71.2495669,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257537540",
-    "name": "Plainville Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South Street 198",
-    "city": "Plainville",
-    "state": "MA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.0098816,
-    "lng": -71.3396292,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366689148",
-    "name": "Bristol Historical and Preservation Society Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
+    "id": "fa-218992",
+    "name": "Smith Hill Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "110 Ruggles Street",
     "city": "Providence",
     "state": "RI",
-    "zip": "",
-    "phone": "",
+    "zip": "02908",
+    "phone": "(401) 455-3880",
     "hours": "",
-    "lat": 41.6695769,
-    "lng": -71.2751712,
+    "lat": 41.8378944,
+    "lng": -71.4286194,
     "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "food pantry",
+      "walk-in"
     ],
-    "lastUpdated": "2026-05-14"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-366689178",
-    "name": "Kent County Memorial Hospital Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
+    "id": "fa-220387",
+    "name": "Interim House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "49 trenton st",
     "city": "Providence",
     "state": "RI",
-    "zip": "",
-    "phone": "",
+    "zip": "02906",
+    "phone": "(401) 831-4570",
     "hours": "",
-    "lat": 41.7049809,
-    "lng": -71.4776795,
+    "lat": 41.8209114,
+    "lng": -71.3912277,
     "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "food pantry",
+      "walk-in"
     ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366689448",
-    "name": "Providence Community Library: Olneyville Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Olneyville Square 1",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "02909",
-    "phone": "(401) 421-4084",
-    "hours": "",
-    "lat": 41.8166237,
-    "lng": -71.4429811,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366689486",
-    "name": "Department of Veterans Affairs Health Sciences Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.8320444,
-    "lng": -71.4328353,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-366689501",
-    "name": "Austin T and June Rockwell Levy Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7926007,
-    "lng": -71.3669985,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11500596560",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7003586,
-    "lng": -71.5294354,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-555524852",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7206501,
-    "lng": -71.4647099,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-providence-shelter",
@@ -467,22 +249,40 @@
   },
   {
     "id": "fallback-providence-hygiene",
-    "name": "Blackstone Public Library - Restroom Access",
+    "name": "Providence Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Main Street 86",
-    "city": "Blackstone",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Providence",
     "state": "RI",
-    "zip": "01504",
+    "zip": "",
     "phone": "",
-    "hours": "Mo 09:00-20:00; Tu,Th 12:00-20:00; Fr,Sa 10:00-14:00",
-    "lat": 42.0194749,
-    "lng": -71.535281,
+    "hours": "Varies",
+    "lat": 41.824,
+    "lng": -71.4128,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-providence-library",
+    "name": "Providence Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 41.824,
+    "lng": -71.4128,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

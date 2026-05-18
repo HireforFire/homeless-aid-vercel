@@ -228,205 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-367134521",
-    "name": "A E Wood Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.335211,
-    "lng": -90.3155592,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2303800895",
-    "name": "G. Chastine Flynt Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Winners Circle 103",
-    "city": "Flowood",
-    "state": "MS",
-    "zip": "39232",
-    "phone": "",
-    "hours": "",
-    "lat": 32.3487589,
-    "lng": -90.0637074,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-261043310",
-    "name": "Madison County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.4581954,
-    "lng": -90.111768,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-264462328",
-    "name": "Millsaps-Wilson Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.3215738,
-    "lng": -90.179357,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-437968771",
-    "name": "G. Chastine Flynt Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.3486973,
-    "lng": -90.06381,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-480776701",
-    "name": "Ridgeland Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.4209966,
-    "lng": -90.1344076,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-512357562",
-    "name": "Brandon Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West Government Street 1475",
-    "city": "Brandon",
-    "state": "MS",
-    "zip": "39042",
-    "phone": "(601) 825-2672",
-    "hours": "",
-    "lat": 32.2830485,
-    "lng": -90.0169701,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-517720123",
-    "name": "Pearl Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Old Brandon Road 2416",
-    "city": "Pearl",
-    "state": "MS",
-    "zip": "39208",
-    "phone": "",
-    "hours": "",
-    "lat": 32.2753033,
-    "lng": -90.1330639,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-651933034",
-    "name": "Mississippi Library Commission",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Eastwood Drive 3881",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "39211",
-    "phone": "",
-    "hours": "Mo-Fr 08:00-17:00",
-    "lat": 32.3396338,
-    "lng": -90.1470602,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1313532045",
-    "name": "Samaritan's Heart Resale Shop",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Price Street 102",
-    "city": "Florence",
-    "state": "MS",
-    "zip": "39073",
-    "phone": "",
-    "hours": "Tu-Sa 11:00-16:00",
-    "lat": 32.1545948,
-    "lng": -90.1317357,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-jackson-ms-shelter",
     "name": "Jackson Homeless Services Hotline",
     "category": "Shelter",
@@ -448,22 +249,40 @@
   },
   {
     "id": "fallback-jackson-ms-hygiene",
-    "name": "A E Wood Memorial Library - Restroom Access",
+    "name": "Jackson Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Jackson",
     "state": "MS",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 32.335211,
-    "lng": -90.3155592,
+    "hours": "Varies",
+    "lat": 32.2988,
+    "lng": -90.1848,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-jackson-ms-library",
+    "name": "Jackson Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 32.2988,
+    "lng": -90.1848,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

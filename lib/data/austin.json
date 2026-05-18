@@ -228,377 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-368162040",
-    "name": "Texas State Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2762364,
-    "lng": -97.741983,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2667102948",
-    "name": "Garfield Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.1878834,
-    "lng": -97.5605691,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4826271539",
-    "name": "Lantana Free Tiny Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2481061,
-    "lng": -97.874167,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8093097715",
-    "name": "Westlake Highschool Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2760098,
-    "lng": -97.8140618,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9891844033",
-    "name": "Bee Cave Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Galleria Parkway 4000",
-    "city": "Bee Cave",
-    "state": "TX",
-    "zip": "78738",
-    "phone": "",
-    "hours": "Tu, Th-Sa 10:00-17:00; We 10:00-19:00",
-    "lat": 30.3085389,
-    "lng": -97.9398508,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9956137736",
-    "name": "Austin Public Library - St. John Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Blessing Avenue 7500",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78752",
-    "phone": "",
-    "hours": "",
-    "lat": 30.332052,
-    "lng": -97.6937228,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10767442605",
-    "name": "Buda Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Loop Street 405",
-    "city": "Buda",
-    "state": "TX",
-    "zip": "78610",
-    "phone": "(512) 295-5899",
-    "hours": "",
-    "lat": 30.0868596,
-    "lng": -97.8371606,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12827359564",
-    "name": "Library Box",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2718597,
-    "lng": -97.7746477,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12923867753",
-    "name": "Perry-Castañeda Library Map Collection",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East 21st Street 101",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78712",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2828335,
-    "lng": -97.7385054,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-25795473",
-    "name": "Perry-Castañeda Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East 21st Street 101",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78705",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2827575,
-    "lng": -97.7381944,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-1706120116",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Parmer Lane 1700",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78727",
-    "phone": "(512) 719-4119",
-    "hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
-    "lat": 30.4128571,
-    "lng": -97.687312,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2644083875",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Pleasant Valley Road 1819",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78741",
-    "phone": "(512) 389-0547",
-    "hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
-    "lat": 30.2343907,
-    "lng": -97.7207296,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-3332363595",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Lamar Boulevard suite #B100 5555",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78751",
-    "phone": "(512) 451-2306",
-    "hours": "",
-    "lat": 30.3239455,
-    "lng": -97.726421,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5268865302",
-    "name": "Goodwill Distribution Center - North Outlet",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Scarbrough Drive 2300",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4635403,
-    "lng": -97.6716043,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8282184612",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Anderson Lane 2900",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78757",
-    "phone": "(512) 637-7521",
-    "hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
-    "lat": 30.3601455,
-    "lng": -97.7369254,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-8336335012",
-    "name": "Society of St. Vincent de Paul Boutique and Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West Braker Lane 901",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78753",
-    "phone": "(512) 442-5652",
-    "hours": "Mo-Sa 09:00-19:00",
-    "lat": 30.3821977,
-    "lng": -97.6894127,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11180357614",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Lake Austin Boulevard 2411",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.278212,
-    "lng": -97.7731642,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-52718288",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Congress Avenue 4216",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78745",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2208168,
-    "lng": -97.7668995,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-72463713",
-    "name": "Goodwill / Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4389267,
-    "lng": -97.780759,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-austin-shelter",
     "name": "Austin Homeless Services Hotline",
     "category": "Shelter",
@@ -620,22 +249,40 @@
   },
   {
     "id": "fallback-austin-hygiene",
-    "name": "Texas State Law Library - Restroom Access",
+    "name": "Austin Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Austin",
     "state": "TX",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 30.2762364,
-    "lng": -97.741983,
+    "hours": "Varies",
+    "lat": 30.2672,
+    "lng": -97.7431,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-austin-library",
+    "name": "Austin Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

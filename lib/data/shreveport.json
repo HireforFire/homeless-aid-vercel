@@ -228,282 +228,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-367132777",
-    "name": "Henry Aulds Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.481879,
-    "lng": -93.6688397,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-463686144",
-    "name": "Noel Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.4282028,
-    "lng": -93.7069964,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-597376602",
-    "name": "Shreve Memorial Library Broadmoor Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.4704433,
-    "lng": -93.7085969,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-617427329",
-    "name": "Magdale Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.4838322,
-    "lng": -93.7303913,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-750316573",
-    "name": "Bossier Parish Libraries - Central Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Beckett Street 2206",
-    "city": "Bossier City",
-    "state": "LA",
-    "zip": "71111",
-    "phone": "",
-    "hours": "",
-    "lat": 32.5257074,
-    "lng": -93.7161374,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-817776758",
-    "name": "University Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.5456435,
-    "lng": -93.834656,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-957902202",
-    "name": "Barksdale Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "",
-    "phone": "",
-    "hours": "Mo-Fr 10:00-16:00",
-    "lat": 32.4941277,
-    "lng": -93.6821726,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-977651383",
-    "name": "Bossier Parish Libraries - East 80 Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Bellevue Road 1050",
-    "city": "Haughton",
-    "state": "LA",
-    "zip": "71037",
-    "phone": "",
-    "hours": "Mo-Fr 09:00-18:00",
-    "lat": 32.5577782,
-    "lng": -93.6134032,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1009698890",
-    "name": "Shreve Memorial Library - West Shreveport Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Pines Road 4380",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "71119",
-    "phone": "",
-    "hours": "",
-    "lat": 32.4579197,
-    "lng": -93.8662604,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1017457289",
-    "name": "Shreve Memorial Library - North Shreveport Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Market Street 4844",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "71107",
-    "phone": "",
-    "hours": "Mo-We 09:00-20:00, Th-Sa 09:00-18:00",
-    "lat": 32.5872701,
-    "lng": -93.8117198,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13567104001",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Shreveport Barksdale Highway 1291",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "71105",
-    "phone": "(318) 861-1003",
-    "hours": "Mo-Sa 10:00-19:00; Su 10:00-18:00",
-    "lat": 32.4870648,
-    "lng": -93.7035338,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1027119701",
-    "name": "Rolling Hills Ministries Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Benton Road 517",
-    "city": "Bossier City",
-    "state": "LA",
-    "zip": "71111",
-    "phone": "(318) 562-3880",
-    "hours": "Mo-Fr 08:30-17:30, Sa 08:30-15:00",
-    "lat": 32.5214655,
-    "lng": -93.7168166,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1195038293",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Airline Drive 4000",
-    "city": "Bossier City",
-    "state": "LA",
-    "zip": "71111",
-    "phone": "(318) 212-0633",
-    "hours": "Mo-Sa 10:00-18:00, Su 10:00-17:00",
-    "lat": 32.5731829,
-    "lng": -93.7121702,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1339123186",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Highway 80 1085",
-    "city": "Haughton",
-    "state": "LA",
-    "zip": "71037",
-    "phone": "(318) 949-6330",
-    "hours": "Mo-Sa 10:00-18:00, Su 10:00-16:00",
-    "lat": 32.5570754,
-    "lng": -93.611555,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-shreveport-shelter",
     "name": "Shreveport Homeless Services Hotline",
     "category": "Shelter",
@@ -525,22 +249,40 @@
   },
   {
     "id": "fallback-shreveport-hygiene",
-    "name": "Henry Aulds Branch Library - Restroom Access",
+    "name": "Shreveport Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Shreveport",
     "state": "LA",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 32.481879,
-    "lng": -93.6688397,
+    "hours": "Varies",
+    "lat": 32.5252,
+    "lng": -93.7502,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-shreveport-library",
+    "name": "Shreveport Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 32.5252,
+    "lng": -93.7502,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -228,262 +228,6 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "osm-node-368068015",
-    "name": "Illinois State Historical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 39.8012481,
-    "lng": -89.6484204,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-9962258618",
-    "name": "Lincoln Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South 7th Street 326",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62701",
-    "phone": "(217) 753-4900",
-    "hours": "",
-    "lat": 39.7985906,
-    "lng": -89.6458775,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-12879758730",
-    "name": "Riverton Village Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Riverton Road 1200",
-    "city": "Riverton",
-    "state": "IL",
-    "zip": "62561",
-    "phone": "",
-    "hours": "",
-    "lat": 39.8594843,
-    "lng": -89.5315294,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-85656568",
-    "name": "Illinois State Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "South 2nd Street 300",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62702",
-    "phone": "(217) 785-5600",
-    "hours": "",
-    "lat": 39.7989491,
-    "lng": -89.652755,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-105482987",
-    "name": "Abraham Lincoln Presidential Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North 6th Street 112",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62701",
-    "phone": "(217) 558-8844",
-    "hours": "",
-    "lat": 39.8023419,
-    "lng": -89.6474156,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-313416965",
-    "name": "Norris L. Brookens Library (BRK)",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "University Plaza 1",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62703",
-    "phone": "(217) 206-6605",
-    "hours": "",
-    "lat": 39.729431,
-    "lng": -89.6167724,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-403124248",
-    "name": "Rochester Village Hall;Rochester Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Community Drive 1",
-    "city": "Rochester",
-    "state": "IL",
-    "zip": "62563",
-    "phone": "(217) 498-8454",
-    "hours": "Mo-Th 10:00-20:00; Fr 10:00-17:00; Sa 10:00-16:00",
-    "lat": 39.7447814,
-    "lng": -89.5265788,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-445513146",
-    "name": "Village of Jerome Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Reed Avenue 1614",
-    "city": "Jerome",
-    "state": "IL",
-    "zip": "62704",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7673779,
-    "lng": -89.6813665,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-592872099",
-    "name": "Athens Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Hargrave Street 410",
-    "city": "Athens",
-    "state": "IL",
-    "zip": "62625",
-    "phone": "(217) 636-8047",
-    "hours": "Mo-Th 10:00-19:00; Su 12:00-16:00",
-    "lat": 39.9603852,
-    "lng": -89.7180254,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4723423746",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Wabash Avenue 2001",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62704",
-    "phone": "(217) 787-7236",
-    "hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
-    "lat": 39.765629,
-    "lng": -89.6902484,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6214006947",
-    "name": "Habitat for Humanity of Sangamon County ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South 6th Street 2744",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62703",
-    "phone": "(217) 523-2710",
-    "hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00",
-    "lat": 39.7659545,
-    "lng": -89.6471615,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6504837771",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "North Dirksen Parkway 2531",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62702",
-    "phone": "(217) 679-7845",
-    "hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
-    "lat": 39.8372781,
-    "lng": -89.6052495,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6904157885",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Plummer Boulevard 75",
-    "city": "Chatham",
-    "state": "IL",
-    "zip": "62629",
-    "phone": "(217) 220-9431",
-    "hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
-    "lat": 39.6865218,
-    "lng": -89.7072882,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-springfield-il-shelter",
     "name": "Springfield Homeless Services Hotline",
     "category": "Shelter",
@@ -505,22 +249,40 @@
   },
   {
     "id": "fallback-springfield-il-hygiene",
-    "name": "Illinois State Historical Library - Restroom Access",
+    "name": "Springfield Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Springfield",
     "state": "IL",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 39.8012481,
-    "lng": -89.6484204,
+    "hours": "Varies",
+    "lat": 39.7817,
+    "lng": -89.6501,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-springfield-il-library",
+    "name": "Springfield Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 39.7817,
+    "lng": -89.6501,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

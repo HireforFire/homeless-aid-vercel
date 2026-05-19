@@ -247,21 +247,21 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-way-609736375",
-    "name": "True REST Float Spa",
+    "id": "fallback-washington-dc-hygiene",
+    "name": "Washington Public Restroom Information",
     "category": "Hygiene",
-    "description": "public_bath",
-    "address": "Belle View Boulevard 1640",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Washington",
-    "state": "VA",
-    "zip": "22307",
-    "phone": "(347) 564-4628",
-    "hours": "",
-    "lat": 38.7755724,
-    "lng": -77.0619346,
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "Varies",
+    "lat": 38.9072,
+    "lng": -77.0369,
     "tags": [
-      "showers",
-      "bath"
+      "restroom",
+      "hygiene"
     ],
     "lastUpdated": "2026-05-14"
   },

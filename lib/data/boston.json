@@ -266,223 +266,41 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "osm-node-257535578",
-    "name": "Campbell Resource Center Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Dorchester Avenue 1216",
-    "city": "Dorchester",
-    "state": "MA",
-    "zip": "02125",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3088801,
-    "lng": -71.0561422,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257535610",
-    "name": "Morton R. Godine Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Huntington Avenue 621",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3368236,
-    "lng": -71.098744,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257535635",
-    "name": "New England School of Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Stuart Street 154",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3508011,
-    "lng": -71.0665318,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257535636",
-    "name": "WGBH Media Library and Archives",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Guest Street 1",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "02135",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3570746,
-    "lng": -71.148036,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257535644",
-    "name": "Treadwell Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Fruit Street 55",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3627265,
-    "lng": -71.0674149,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257535666",
-    "name": "Medical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Randolph Street 3",
-    "city": "Canton",
-    "state": "MA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.1753235,
-    "lng": -71.1255479,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257535672",
-    "name": "Massachusetts State Transportation Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Park Plaza 10",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "02116",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3517086,
-    "lng": -71.0674336,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257535676",
-    "name": "W. Van Alan Clark, Jr. Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Fenway 230",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "02115",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3388012,
-    "lng": -71.0967338,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257535693",
-    "name": "Charlestown High School Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Medford Street 240",
-    "city": "Charlestown",
-    "state": "MA",
-    "zip": "02129",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3812739,
-    "lng": -71.0608723,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-257535701",
-    "name": "Corcoran Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "William T. Morrissey Boulevard 150",
-    "city": "Dorchester",
-    "state": "MA",
-    "zip": "02125",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3167344,
-    "lng": -71.0456409,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-boston-hygiene",
-    "name": "Campbell Resource Center Library - Restroom Access",
+    "name": "Boston Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Dorchester Avenue 1216",
-    "city": "Dorchester",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Boston",
     "state": "MA",
-    "zip": "02125",
+    "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 42.3088801,
-    "lng": -71.0561422,
+    "hours": "Varies",
+    "lat": 42.3601,
+    "lng": -71.0589,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-boston-library",
+    "name": "Boston Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

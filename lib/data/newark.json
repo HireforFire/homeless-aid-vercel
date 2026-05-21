@@ -1,5 +1,138 @@
 [
   {
+    "id": "fa-220136",
+    "name": "canaan evangelical church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "205 thomas st",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07114",
+    "phone": "(973) 465-0226",
+    "hours": "",
+    "lat": 40.7214165,
+    "lng": -74.1717072,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220185",
+    "name": "Newark Emergency Services for Families, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "982 Broad Street",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 639-2100",
+    "hours": "",
+    "lat": 40.7297516,
+    "lng": -74.1753311,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220708",
+    "name": "New Community",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "220 Bruce St",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07103",
+    "phone": "(973) 623-6114",
+    "hours": "",
+    "lat": 40.7360954,
+    "lng": -74.1912689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221002",
+    "name": "St. Clares Social Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "77 Academy Street",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 643-0400",
+    "hours": "",
+    "lat": 40.7382812,
+    "lng": -74.1745911,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222822",
+    "name": "Covenant House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "330 Washington Street",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 286-3552",
+    "hours": "",
+    "lat": 40.7334137,
+    "lng": -74.17659,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223745",
+    "name": "St. James Social Service Emergency Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "604 Martin Luther King Jr  Blvd",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 624-4007",
+    "hours": "",
+    "lat": 40.7322239,
+    "lng": -74.180992,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225649",
+    "name": "Hispanic Development Corporation",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "441 Broad St.",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 268-1236",
+    "hours": "",
+    "lat": 40.7464943,
+    "lng": -74.1706696,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-172081",
     "name": "Oliver Street School",
     "category": "Food",
@@ -88,139 +221,6 @@
     "hours": "",
     "lat": 40.7432906,
     "lng": -74.17717189999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-179718",
-    "name": "Pantry+ at Rutgers Newark - PRCC 226",
-    "category": "Food",
-    "description": "Food pantry location in PRCC building, room 226. This is where online orders are picked up.",
-    "address": "350 Doctor Martin Luther King Junior Boulevard",
-    "city": "University Heights",
-    "state": "NJ",
-    "zip": "07103",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7420327,
-    "lng": -74.176058,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-184467",
-    "name": "Mend on the move The Leaguers, Inc - Springfield/Belmont",
-    "category": "Food",
-    "description": "Fresh produce distribution location",
-    "address": "405-425 University Avenue",
-    "city": "Springfield/Belmont",
-    "state": "NJ",
-    "zip": "07102",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7334641,
-    "lng": -74.1784006,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-184695",
-    "name": "NJ Leep Inc. - Central Ward",
-    "category": "Food",
-    "description": "Main food distribution location in Central Ward, Newark NJ",
-    "address": "12 Lombardy Street",
-    "city": "Central Ward",
-    "state": "NJ",
-    "zip": "07102",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7429267,
-    "lng": -74.16868389999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-185073",
-    "name": "Link Community Charter School",
-    "category": "Food",
-    "description": "Food distribution location at Link Community Charter School",
-    "address": "23 Pennsylvania Avenue",
-    "city": "South Broad Street",
-    "state": "NJ",
-    "zip": "07114",
-    "phone": "",
-    "hours": "",
-    "lat": 40.724579,
-    "lng": -74.1800378,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194504",
-    "name": "Oscar Miles Distribution Site",
-    "category": "Food",
-    "description": "Food distribution location in Springfield/Belmont area",
-    "address": "130 Court Street",
-    "city": "Springfield/Belmont",
-    "state": "NJ",
-    "zip": "07103",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7330845,
-    "lng": -74.18179099999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194597",
-    "name": "Pennington Court (Center of Hope)",
-    "category": "Food",
-    "description": "Food distribution center",
-    "address": "190 South Street",
-    "city": "South Ironbound",
-    "state": "NJ",
-    "zip": "07114",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7219358,
-    "lng": -74.1704127,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-198438",
-    "name": "South Street School East Ward",
-    "category": "Food",
-    "description": "Service location for emergency shutdown assistance program",
-    "address": "44 Hermon Street",
-    "city": "South Ironbound",
-    "state": "NJ",
-    "zip": "07105",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7238,
-    "lng": -74.1707321,
     "tags": [
       "food pantry",
       "walk-in"

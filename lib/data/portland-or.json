@@ -1,119 +1,5 @@
 [
   {
-    "id": "fa-173457",
-    "name": "Trinity Episcopal Cathedral Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location at Trinity Episcopal Cathedral",
-    "address": "147 NW 19th Avenue",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97209",
-    "phone": "",
-    "hours": "",
-    "lat": 45.5245579,
-    "lng": -122.6910166,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175468",
-    "name": "Lift Up - Preston's Pantry",
-    "category": "Food",
-    "description": "Food pantry location providing free groceries",
-    "address": "1838 SW Jefferson",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97201",
-    "phone": "",
-    "hours": "",
-    "lat": 45.517530280872,
-    "lng": -122.693529474872,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177489",
-    "name": "Outside In Cafe",
-    "category": "Food",
-    "description": "Free meal distribution site",
-    "address": "1132 SW 13th Ave.",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97205",
-    "phone": "",
-    "hours": "",
-    "lat": 45.517582039124,
-    "lng": -122.686562856048,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177889",
-    "name": "City Team Ministries",
-    "category": "Food",
-    "description": "Free meal service location",
-    "address": "526 SE Grand Ave",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97214",
-    "phone": "",
-    "hours": "",
-    "lat": 45.51894581668,
-    "lng": -122.660415760549,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-192655",
-    "name": "Potluck in the Park - Hawthorne Bridge Site",
-    "category": "Food",
-    "description": "Food distribution site located under the Hawthorne Bridge.",
-    "address": "Under the Hawthorne Bridge Site is on NW Glisan between 8th Ave and Park Ave, one block west of Broadway and one block south of the Main Post Office",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97201",
-    "phone": "",
-    "hours": "",
-    "lat": 45.5275599,
-    "lng": -122.6782675,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-203403",
-    "name": "Potluck in the Park",
-    "category": "Food",
-    "description": "Community meal service location in Portland",
-    "address": "798 NW Glisan",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97209",
-    "phone": "",
-    "hours": "",
-    "lat": 45.5265859,
-    "lng": -122.679213,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-222732",
     "name": "NW Portland Ministies, Inc.",
     "category": "Food",
@@ -226,6 +112,120 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224814",
+    "name": "Urban Gleaners",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "15 South East Sixth Avenue",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "phone": "(503) 226-8061",
+    "hours": "",
+    "lat": 45.522587,
+    "lng": -122.6600419,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-173457",
+    "name": "Trinity Episcopal Cathedral Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Trinity Episcopal Cathedral",
+    "address": "147 NW 19th Avenue",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97209",
+    "phone": "",
+    "hours": "",
+    "lat": 45.5245579,
+    "lng": -122.6910166,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175468",
+    "name": "Lift Up - Preston's Pantry",
+    "category": "Food",
+    "description": "Food pantry location providing free groceries",
+    "address": "1838 SW Jefferson",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97201",
+    "phone": "",
+    "hours": "",
+    "lat": 45.517530280872,
+    "lng": -122.693529474872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177489",
+    "name": "Outside In Cafe",
+    "category": "Food",
+    "description": "Free meal distribution site",
+    "address": "1132 SW 13th Ave.",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97205",
+    "phone": "",
+    "hours": "",
+    "lat": 45.517582039124,
+    "lng": -122.686562856048,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177889",
+    "name": "City Team Ministries",
+    "category": "Food",
+    "description": "Free meal service location",
+    "address": "526 SE Grand Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "phone": "",
+    "hours": "",
+    "lat": 45.51894581668,
+    "lng": -122.660415760549,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192655",
+    "name": "Potluck in the Park - Hawthorne Bridge Site",
+    "category": "Food",
+    "description": "Food distribution site located under the Hawthorne Bridge.",
+    "address": "Under the Hawthorne Bridge Site is on NW Glisan between 8th Ave and Park Ave, one block west of Broadway and one block south of the Main Post Office",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97201",
+    "phone": "",
+    "hours": "",
+    "lat": 45.5275599,
+    "lng": -122.6782675,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-portland-or-shelter",

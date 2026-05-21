@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-577432",
+    "name": "Positive Community Kitchen",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "120 Shelton McMurphey Boulevard",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "(541) 249-4942",
+    "hours": "",
+    "lat": 44.0557234,
+    "lng": -123.0943021,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-219523",
+    "name": "Eugene Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "640 W 7th Avenue",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "(541) 343-3328",
+    "hours": "",
+    "lat": 44.0518341,
+    "lng": -123.1025085,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-176177",
     "name": "Hearth and Table",
     "category": "Food",
@@ -112,44 +150,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-577432",
-    "name": "Positive Community Kitchen",
-    "category": "Food",
-    "description": "Free soup kitchen providing food assistance. Open to all.",
-    "address": "120 Shelton McMurphey Boulevard",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97401",
-    "phone": "(541) 249-4942",
-    "hours": "",
-    "lat": 44.0557234,
-    "lng": -123.0943021,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
-    "id": "fa-219523",
-    "name": "Eugene Salvation Army",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "640 W 7th Avenue",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97402",
-    "phone": "(541) 343-3328",
-    "hours": "",
-    "lat": 44.0518341,
-    "lng": -123.1025085,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-456672",

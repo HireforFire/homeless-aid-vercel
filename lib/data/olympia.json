@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-223580",
+    "name": "Thurston County Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "220 Thurston Ave. NE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "(360) 352-8597",
+    "hours": "",
+    "lat": 47.0478195,
+    "lng": -122.9000403,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-181835",
     "name": "Catholic Community Services: The Community Kitchen - Food Distribution Center",
     "category": "Food",
@@ -76,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-223580",
-    "name": "Thurston County Food Bank",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "220 Thurston Ave. NE",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "98501",
-    "phone": "(360) 352-8597",
-    "hours": "",
-    "lat": 47.0478195,
-    "lng": -122.9000403,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-131278",
     "name": "Olympia School District",
     "category": "Food",
@@ -112,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-829",
+    "name": "Olympia Union Gospel Mission",
+    "category": "Food",
+    "description": "Thurston County",
+    "address": "413 Franklin St NE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98506",
+    "phone": "(360) 357-9419",
+    "hours": "",
+    "lat": 47.0514,
+    "lng": -122.8914,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-181173",
@@ -204,25 +223,6 @@
     "lng": -122.9241721,
     "tags": [
       "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-208918",
-    "name": "TOGETHER! Tumwater Location",
-    "category": "Food",
-    "description": "Main food assistance distribution location in Tumwater, Thurston County.",
-    "address": "1520 A Irving St SW",
-    "city": "Tumwater",
-    "state": "WA",
-    "zip": "98512",
-    "phone": "",
-    "hours": "",
-    "lat": 47.0231367,
-    "lng": -122.9209443,
-    "tags": [
-      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

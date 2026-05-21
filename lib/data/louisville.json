@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-210240",
-    "name": "Franciscan Kitchen",
-    "category": "Food",
-    "description": "Franciscan Kitchen lunch program location",
-    "address": "748 S. Prestion St.",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40203",
-    "phone": "",
-    "hours": "",
-    "lat": 38.243301,
-    "lng": -85.7481781,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-217750",
     "name": "The Salvation Army - S Brook St Corps",
     "category": "Food",
@@ -114,6 +95,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-210240",
+    "name": "Franciscan Kitchen",
+    "category": "Food",
+    "description": "Franciscan Kitchen lunch program location",
+    "address": "748 S. Prestion St.",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "",
+    "hours": "",
+    "lat": 38.243301,
+    "lng": -85.7481781,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-451371",
     "name": "Developing Young Minds",
     "category": "Food",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172477",
-    "name": "Baxter Avenue Baptist Church",
+    "id": "fa-223466",
+    "name": "Family Scholar House",
     "category": "Food",
-    "description": "Food distribution location at Baxter Avenue Baptist Church",
-    "address": "522 Baxter Ave.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "403 Reg Smith Circle",
     "city": "Louisville",
     "state": "KY",
-    "zip": "40204",
-    "phone": "(502) 583-4123",
+    "zip": "40208",
+    "phone": "(502) 584-8090",
     "hours": "",
-    "lat": 38.246878,
-    "lng": -85.7299457,
+    "lat": 38.2230453,
+    "lng": -85.7637024,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-173230",
-    "name": "Walnut Street Baptist Church",
+    "id": "fa-224443",
+    "name": "Neighborhood House",
     "category": "Food",
-    "description": "Food pantry location at Walnut Street Baptist Church",
-    "address": "220 W. St. Catherine",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "201 N.25th Street",
     "city": "Louisville",
     "state": "KY",
-    "zip": "40203",
-    "phone": "(502) 589-3454",
+    "zip": "40212",
+    "phone": "(502) 774-2322",
     "hours": "",
-    "lat": 38.2370182,
-    "lng": -85.7577243,
+    "lat": 38.2620641,
+    "lng": -85.7906244,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-louisville-shelter",

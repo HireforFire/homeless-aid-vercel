@@ -57,25 +57,6 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "fa-195992",
-    "name": "DALLAS LIFE FOUNDATION",
-    "category": "Food",
-    "description": "Main office and service location for DALLAS LIFE FOUNDATION providing shelter services, SNAP application assistance, and TEFAP program services.",
-    "address": "1100 CADIZ",
-    "city": "DALLAS",
-    "state": "TX",
-    "zip": "75215",
-    "phone": "",
-    "hours": "",
-    "lat": 32.771972,
-    "lng": -96.798408,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-95",
     "name": "Dallas Life Foundation",
     "category": "Food",
@@ -95,63 +76,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-172642",
-    "name": "Oak Lawn United Methodist Church",
-    "category": "Food",
-    "description": "Food pantry, soup kitchen, and clothing distribution location at Oak Lawn United Methodist Church.",
-    "address": "3014 Oak Lawn Ave.",
-    "city": "Dallas",
-    "state": "TX",
-    "zip": "75219",
-    "phone": "(214) 521-5197",
-    "hours": "",
-    "lat": 32.8083057,
-    "lng": -96.8084737,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-174201",
-    "name": "Oak Cliff Churches For Emergency Aid",
-    "category": "Food",
-    "description": "Main food distribution location",
-    "address": "123 N. Llewellyn Ave.",
-    "city": "Dallas",
-    "state": "TX",
-    "zip": "75208",
-    "phone": "(214) 943-7757",
-    "hours": "",
-    "lat": 32.7458949,
-    "lng": -96.8323384,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-199993",
-    "name": "The Well Ministries - Hamilton",
-    "category": "Food",
-    "description": "Food distribution and SNAP application assistance location in Dallas.",
-    "address": "4419 Hamilton Ave.",
-    "city": "Dallas",
-    "state": "TX",
-    "zip": "75210",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7784578,
-    "lng": -96.7474531,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-226197",
     "name": "Hope Supply Co.",
     "category": "Food",
@@ -169,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-195992",
+    "name": "DALLAS LIFE FOUNDATION",
+    "category": "Food",
+    "description": "Main office and service location for DALLAS LIFE FOUNDATION providing shelter services, SNAP application assistance, and TEFAP program services.",
+    "address": "1100 CADIZ",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75215",
+    "phone": "",
+    "hours": "",
+    "lat": 32.771972,
+    "lng": -96.798408,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-220228",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225457",
+    "name": "Bibleway Family Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3322 Navaro St",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75115",
+    "phone": "(214) 630-3195",
+    "hours": "",
+    "lat": 32.782547,
+    "lng": -96.8463821,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-216860",
+    "name": "The Salvation Army - W Jefferson Blvd Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1617 W Jefferson Blvd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75208",
+    "phone": "(214) 941-5911",
+    "hours": "",
+    "lat": 32.75409,
+    "lng": -96.83943,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-172642",
+    "name": "Oak Lawn United Methodist Church",
+    "category": "Food",
+    "description": "Food pantry, soup kitchen, and clothing distribution location at Oak Lawn United Methodist Church.",
+    "address": "3014 Oak Lawn Ave.",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75219",
+    "phone": "(214) 521-5197",
+    "hours": "",
+    "lat": 32.8083057,
+    "lng": -96.8084737,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-dallas-shelter",

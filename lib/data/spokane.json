@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-192501",
-    "name": "City Gate Fellowship",
-    "category": "Food",
-    "description": "City Gate Fellowship food distribution location",
-    "address": "170 S Madison St",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99201",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6548297,
-    "lng": -117.4282556,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-223521",
     "name": "The Campus Kitchen at Gonzaga University",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-192501",
+    "name": "City Gate Fellowship",
+    "category": "Food",
+    "description": "City Gate Fellowship food distribution location",
+    "address": "170 S Madison St",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99201",
+    "phone": "",
+    "hours": "",
+    "lat": 47.6548297,
+    "lng": -117.4282556,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-131309",
@@ -114,63 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-178922",
-    "name": "Mending Fences Fellowship",
-    "category": "Food",
-    "description": "Food pantry location",
-    "address": "1906 E Sprague Ave",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99202",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6570183,
-    "lng": -117.3824993,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-193157",
-    "name": "Dr. Martin Luther King Jr. Food Bank",
-    "category": "Food",
-    "description": "Main food pantry location in Spokane",
-    "address": "500 S Stone St",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99202",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6513274,
-    "lng": -117.3777413,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-211567",
-    "name": "St. Ann's Catholic Church",
-    "category": "Food",
-    "description": "St. Ann's Sunday Lunch distribution location",
-    "address": "2120 E 1st Ave",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99202",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6560016,
-    "lng": -117.3784288,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-217856",
     "name": "The Salvation Army - N Division St",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-178922",
+    "name": "Mending Fences Fellowship",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "1906 E Sprague Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "",
+    "hours": "",
+    "lat": 47.6570183,
+    "lng": -117.3824993,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193157",
+    "name": "Dr. Martin Luther King Jr. Food Bank",
+    "category": "Food",
+    "description": "Main food pantry location in Spokane",
+    "address": "500 S Stone St",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "",
+    "hours": "",
+    "lat": 47.6513274,
+    "lng": -117.3777413,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211567",
+    "name": "St. Ann's Catholic Church",
+    "category": "Food",
+    "description": "St. Ann's Sunday Lunch distribution location",
+    "address": "2120 E 1st Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "",
+    "hours": "",
+    "lat": 47.6560016,
+    "lng": -117.3784288,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-spokane-shelter",

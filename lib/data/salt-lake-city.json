@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-197078",
-    "name": "Volunteers of America Youth Resource Center",
-    "category": "Food",
-    "description": "Youth Resource Center providing meal services for homeless and at-risk youth. Handicapped accessible.",
-    "address": "888 S. 400 W.",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84101",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7500854,
-    "lng": -111.9031027,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-577491",
     "name": "Crossroads Urban Center Downtown Pantry",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-197078",
+    "name": "Volunteers of America Youth Resource Center",
+    "category": "Food",
+    "description": "Youth Resource Center providing meal services for homeless and at-risk youth. Handicapped accessible.",
+    "address": "888 S. 400 W.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7500854,
+    "lng": -111.9031027,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-131019",
@@ -114,6 +114,63 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-577490",
+    "name": "Somali Community Self-Management Agency Food Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1578 West 1700 South",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84104",
+    "phone": "(801) 487-0822",
+    "hours": "",
+    "lat": 40.7335206,
+    "lng": -111.9351604,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-577494",
+    "name": "Crossroads Westside Food Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1358 West Indiana Avenue",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84104",
+    "phone": "(801) 935-4079",
+    "hours": "",
+    "lat": 40.7515624,
+    "lng": -111.9298418,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-226251",
+    "name": "Utah Food Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Salt Lake City, UT",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "",
+    "hours": "",
+    "lat": 40.75628,
+    "lng": -111.89996,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-189173",
     "name": "Justice Economic Dignity: Independence For Women - Food Distribution Center",
     "category": "Food",
@@ -164,63 +221,6 @@
     "hours": "",
     "lat": 40.7545444,
     "lng": -111.8837659,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-182762",
-    "name": "Tenth East Senior Center",
-    "category": "Food",
-    "description": "Senior meal site serving lunch to seniors 60 years and older. Handicapped accessible facility.",
-    "address": "237 S. 1000 E.",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84102",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7639553,
-    "lng": -111.8618424,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-184203",
-    "name": "St. Paul's Episcopal Church Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location at St. Paul's Episcopal Church",
-    "address": "261 S 900 E",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84102",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7634864,
-    "lng": -111.8653408,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194455",
-    "name": "Salt Lake City Mission",
-    "category": "Food",
-    "description": "Food pantry location serving Davis, Salt Lake, Utah, and Weber County residents.",
-    "address": "1151 South Redwood Rd.",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84104",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7441755,
-    "lng": -111.9383692,
     "tags": [
       "food pantry",
       "walk-in"

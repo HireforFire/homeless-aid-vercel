@@ -190,6 +190,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-218837",
+    "name": "The Salvation Army - Bill Frey Dr Ne",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1865 Bill Frey Dr. N.E.",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "(503) 566-5762",
+    "hours": "",
+    "lat": 44.94948,
+    "lng": -123.00439,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-174617",
     "name": "Capital Park Food Pantry",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 44.9311577,
     "lng": -123.019648,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175289",
-    "name": "Life Essentials at Life Church",
-    "category": "Food",
-    "description": "Food pantry location at Life Church",
-    "address": "255 College Drive Northwest",
-    "city": "West Salem",
-    "state": "OR",
-    "zip": "97304",
-    "phone": "(503) 362-0362",
-    "hours": "",
-    "lat": 44.9330882,
-    "lng": -123.0798554,
     "tags": [
       "food pantry",
       "walk-in"

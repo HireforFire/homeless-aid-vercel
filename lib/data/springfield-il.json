@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-223121",
+    "name": "St Martin de Porres",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1725 South Grand Ave East",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62561",
+    "phone": "(217) 299-7921",
+    "hours": "",
+    "lat": 39.7874908,
+    "lng": -89.6319046,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-191036",
     "name": "St. Martin Deporres Center",
     "category": "Food",
@@ -36,25 +55,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-223121",
-    "name": "St Martin de Porres",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1725 South Grand Ave East",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62561",
-    "phone": "(217) 299-7921",
-    "hours": "",
-    "lat": 39.7874908,
-    "lng": -89.6319046,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-450663",
@@ -95,6 +95,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-576756",
+    "name": "Kumler Outreach Ministries",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "303 North Grand Avenue East",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62702",
+    "phone": "(217) 523-2269",
+    "hours": "",
+    "lat": 39.8164403,
+    "lng": -89.6516242,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-199955",
     "name": "Family Guidance Center",
     "category": "Food",
@@ -133,99 +152,80 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-185452",
-    "name": "Helping Hands of Springfield",
+    "id": "fa-219831",
+    "name": "Mini O'Beirne Crisis Nursery",
     "category": "Food",
-    "description": "Main location providing shelter support and sit-down meal services with air conditioning.",
-    "address": "2200 Shale St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1011 N. 7th St.",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62702",
+    "phone": "(217) 525-6800",
+    "hours": "",
+    "lat": 39.8124924,
+    "lng": -89.6461182,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221549",
+    "name": "Lawrence Av. Ch. Christ",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1400 E. Lawrence Av.",
     "city": "Springfield",
     "state": "IL",
     "zip": "62703",
-    "phone": "",
+    "phone": "(618) 920-6006",
     "hours": "",
-    "lat": 39.7788885,
-    "lng": -89.610296,
+    "lat": 39.7937202,
+    "lng": -89.6367188,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-195185",
-    "name": "Grace Lutheran Church",
+    "id": "fa-222710",
+    "name": "SJWUM",
     "category": "Food",
-    "description": "Food pantry services location. Near public transit. Food pantry services will be closed on Thanksgiving Day, November 27th.",
-    "address": "714 E. Capitol",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2027 S. GRAND AVENUE",
     "city": "Springfield",
     "state": "IL",
-    "zip": "62701",
-    "phone": "",
+    "zip": "62703",
+    "phone": "(217) 753-0430",
     "hours": "",
-    "lat": 39.7980724,
-    "lng": -89.6460879,
+    "lat": 39.7873306,
+    "lng": -89.6272125,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-200652",
-    "name": "Salvation Army Citadel-Springfield",
+    "id": "fa-223639",
+    "name": "Salvation Army",
     "category": "Food",
-    "description": "Food distribution center offering food pantry and hot meals services.",
-    "address": "1600 East Clear Lake",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1600 E Clear Lake",
     "city": "Springfield",
     "state": "IL",
-    "zip": "62705",
-    "phone": "",
+    "zip": "62703",
+    "phone": "(217) 525-2196",
     "hours": "",
-    "lat": 39.8020968,
-    "lng": -89.6320101,
+    "lat": 39.8020554,
+    "lng": -89.632019,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-201086",
-    "name": "St. John's Breadline",
-    "category": "Food",
-    "description": "St. John's Breadline meal service location in Springfield, affiliated with Central Illinois Foodbank.",
-    "address": "430 N. 5th St.",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62702",
-    "phone": "",
-    "hours": "",
-    "lat": 39.8060545,
-    "lng": -89.6487992,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-576756",
-    "name": "Kumler Outreach Ministries",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "303 North Grand Avenue East",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62702",
-    "phone": "(217) 523-2269",
-    "hours": "",
-    "lat": 39.8164403,
-    "lng": -89.6516242,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-springfield-il-shelter",

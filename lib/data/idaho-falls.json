@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-195233",
-    "name": "Community Food Basket",
-    "category": "Food",
-    "description": "Food pickup location at 351 W 14th St, Idaho Falls",
-    "address": "Offices Donations",
-    "city": "Idaho Falls",
-    "state": "ID",
-    "zip": "83402",
-    "phone": "",
-    "hours": "",
-    "lat": 43.4851509,
-    "lng": -112.039487,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-576738",
     "name": "Idaho Falls Food Bank",
     "category": "Food",
@@ -114,6 +95,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-195233",
+    "name": "Community Food Basket",
+    "category": "Food",
+    "description": "Food pickup location at 351 W 14th St, Idaho Falls",
+    "address": "Offices Donations",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83402",
+    "phone": "",
+    "hours": "",
+    "lat": 43.4851509,
+    "lng": -112.039487,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-455377",
     "name": "El Castillito CCI MSHS Center",
     "category": "Food",
@@ -131,25 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-173915",
-    "name": "EICAP Main Office",
-    "category": "Food",
-    "description": "EICAP main office and service location in Idaho Falls",
-    "address": "935 E Lincoln Rd",
-    "city": "Idaho Falls",
-    "state": "ID",
-    "zip": "83401",
-    "phone": "(208) 522-5391",
-    "hours": "",
-    "lat": 43.511915599999995,
-    "lng": -112.0115345,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-222564",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-173915",
+    "name": "EICAP Main Office",
+    "category": "Food",
+    "description": "EICAP main office and service location in Idaho Falls",
+    "address": "935 E Lincoln Rd",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83401",
+    "phone": "(208) 522-5391",
+    "hours": "",
+    "lat": 43.511915599999995,
+    "lng": -112.0115345,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-443754",

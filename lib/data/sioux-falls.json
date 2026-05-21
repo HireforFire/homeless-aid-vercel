@@ -57,6 +57,44 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-150535",
+    "name": "Salvation Army - Sioux Falls",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 N Cliff Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "(605) 338-6649",
+    "hours": "",
+    "lat": 43.5516,
+    "lng": -96.7241,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-150536",
+    "name": "St Francis House",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "901 E 8th St",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "(605) 334-3879",
+    "hours": "",
+    "lat": 43.5413,
+    "lng": -96.7173,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-176620",
     "name": "Feeding SD at First United Methodist Church",
     "category": "Food",
@@ -152,80 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173314",
-    "name": "The Community Outreach",
-    "category": "Food",
-    "description": "Main office location for The Community Outreach in Sioux Falls.",
-    "address": "1915 E 8th St Suite 105",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57103",
-    "phone": "(605) 331-3935",
-    "hours": "",
-    "lat": 43.5469206,
-    "lng": -96.702456,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176382",
-    "name": "Feeding SD at Faith Lutheran Church",
-    "category": "Food",
-    "description": "Mobile food distribution site at Faith Lutheran Church",
-    "address": "601 N Cliff Ave.",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57103",
-    "phone": "",
-    "hours": "",
-    "lat": 43.554349124224,
-    "lng": -96.712297758419,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-199691",
-    "name": "Kids Against Hunger - Sioux Falls",
-    "category": "Food",
-    "description": "Kids Against Hunger food assistance location in Sioux Falls.",
-    "address": "1701 N Louise Dr",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57107",
-    "phone": "",
-    "hours": "",
-    "lat": 43.565895,
-    "lng": -96.77155359999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-150535",
-    "name": "Salvation Army - Sioux Falls",
+    "id": "fa-221415",
+    "name": "Faith In Action",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "800 N Cliff Ave",
+    "address": "821 S. Cloudas Ave.",
     "city": "Sioux Falls",
     "state": "SD",
     "zip": "57103",
-    "phone": "(605) 338-6649",
+    "phone": "(605) 338-7596",
     "hours": "",
-    "lat": 43.5516,
-    "lng": -96.7241,
+    "lat": 43.5406036,
+    "lng": -96.6891327,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224915",
+    "name": "Faith Temple Food Giveaway",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2121 W. 33rd St.",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57105",
+    "phone": "(605) 332-2303",
+    "hours": "",
+    "lat": 43.521862,
+    "lng": -96.752121,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-sioux-falls-shelter",

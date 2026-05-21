@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-226294",
+    "name": "Junior League of Fort Worth Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Fort Worth, TX",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.75944,
+    "lng": -97.32912,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-184535",
     "name": "Bread Basket",
     "category": "Food",
@@ -95,6 +114,63 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-218796",
+    "name": "The Salvation Army - Ne 28Th St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2901 NE 28th St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76111",
+    "phone": "(817) 834-6271",
+    "hours": "",
+    "lat": 32.7804,
+    "lng": -97.30116,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221729",
+    "name": "Northside Inter-Community Agency",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1600 Circle Park Blvd.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76164",
+    "phone": "(817) 626-1102",
+    "hours": "",
+    "lat": 32.7784119,
+    "lng": -97.3536224,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225411",
+    "name": "world missionary baptist church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1200 e bessie st",
+    "city": "Ft.Worth",
+    "state": "TX",
+    "zip": "76104",
+    "phone": "(817) 332-1202",
+    "hours": "",
+    "lat": 32.7399712,
+    "lng": -97.3118744,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-172939",
     "name": "Union Gospel Mission",
     "category": "Food",
@@ -150,82 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-213712",
-    "name": "Mercy Culture Food Bank",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "1701 Oakhurst Scenic Dr.",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76111",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7852562,
-    "lng": -97.3195916,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-226294",
-    "name": "Junior League of Fort Worth Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Fort Worth, TX",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.75944,
-    "lng": -97.32912,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
-    "id": "fa-218796",
-    "name": "The Salvation Army - Ne 28Th St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2901 NE 28th St",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76111",
-    "phone": "(817) 834-6271",
-    "hours": "",
-    "lat": 32.7804,
-    "lng": -97.30116,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-221729",
-    "name": "Northside Inter-Community Agency",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1600 Circle Park Blvd.",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76164",
-    "phone": "(817) 626-1102",
-    "hours": "",
-    "lat": 32.7784119,
-    "lng": -97.3536224,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-fort-worth-shelter",

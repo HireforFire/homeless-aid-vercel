@@ -57,6 +57,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-223836",
+    "name": "Wyoming Food For Thought Project",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "420 West First Street",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 267-2421",
+    "hours": "",
+    "lat": 42.8503523,
+    "lng": -106.3299155,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225648",
+    "name": "Oasis",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1927 S Walnut",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 224-4111",
+    "hours": "",
+    "lat": 42.8311729,
+    "lng": -106.3332825,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-170390",
     "name": "Strong Tower Family Church",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 42.8410412,
     "lng": -106.3283987,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-170935",
-    "name": "The Salvation Army Goodstein Hope Center",
-    "category": "Food",
-    "description": "Food pantry location in downtown Casper.",
-    "address": "441 S Center St",
-    "city": "Casper",
-    "state": "WY",
-    "zip": "82601",
-    "phone": "",
-    "hours": "",
-    "lat": 42.846025399999995,
-    "lng": -106.3248816,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-170984",
-    "name": "Joshua's Storehouse",
-    "category": "Food",
-    "description": "Joshua's Storehouse and Distribution Center located in Casper, Wyoming. Facility features air conditioning and provides indoor service.",
-    "address": "334 S Wolcott St",
-    "city": "Casper",
-    "state": "WY",
-    "zip": "82601",
-    "phone": "",
-    "hours": "",
-    "lat": 42.84672,
-    "lng": -106.32408,
     "tags": [
       "food pantry",
       "walk-in"

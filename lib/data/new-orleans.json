@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-219118",
+    "name": "Liberty House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2020 S. Liberty St.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "(504) 412-3914",
+    "hours": "",
+    "lat": 29.9408321,
+    "lng": -90.0841904,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-201337",
     "name": "St. Jude Community Center",
     "category": "Food",
@@ -74,25 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-219118",
-    "name": "Liberty House",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2020 S. Liberty St.",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip": "70113",
-    "phone": "(504) 412-3914",
-    "hours": "",
-    "lat": 29.9408321,
-    "lng": -90.0841904,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-129224",
@@ -152,6 +152,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-226205",
+    "name": "Junior League of New Orleans",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "New Orleans, LA",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70112",
+    "phone": "",
+    "hours": "",
+    "lat": 29.95608,
+    "lng": -90.07733,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-179460",
     "name": "Living Witness Ministry",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 29.95709,
     "lng": -90.0816486,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194743",
-    "name": "Cosmopolitan Evangelistic Baptist Church",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "1929 Bienville St.",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip": "70112",
-    "phone": "",
-    "hours": "",
-    "lat": 29.9625798,
-    "lng": -90.078564,
     "tags": [
       "food pantry",
       "walk-in"

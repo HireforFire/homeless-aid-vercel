@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-220378",
+    "name": "Dorothy Day",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "183 Old Sixth Street",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "55102",
+    "phone": "(612) 647-3244",
+    "hours": "",
+    "lat": 44.9465866,
+    "lng": -93.1012421,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220384",
+    "name": "Union Gospel Mission",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "435 University Ave E",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "55130",
+    "phone": "(651) 789-7595",
+    "hours": "",
+    "lat": 44.957943,
+    "lng": -93.0853653,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-174976",
     "name": "Hunger Solutions Minnesota - St Paul Office",
     "category": "Food",
@@ -55,44 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-220378",
-    "name": "Dorothy Day",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "183 Old Sixth Street",
-    "city": "St. Paul",
-    "state": "MN",
-    "zip": "55102",
-    "phone": "(612) 647-3244",
-    "hours": "",
-    "lat": 44.9465866,
-    "lng": -93.1012421,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220384",
-    "name": "Union Gospel Mission",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "435 University Ave E",
-    "city": "St. Paul",
-    "state": "MN",
-    "zip": "55130",
-    "phone": "(651) 789-7595",
-    "hours": "",
-    "lat": 44.957943,
-    "lng": -93.0853653,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-450527",
@@ -152,80 +152,80 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-174710",
-    "name": "Faith Lutheran Church - Frogtown Neighborhood Mission of Faith",
+    "id": "fa-133923",
+    "name": "Merrick Community Services Food Shelf / Food Pantry",
     "category": "Food",
-    "description": "Food pantry location operated by Faith Lutheran Church through the Frogtown Neighborhood Mission of Faith. Handicapped accessible.",
-    "address": "499 Charles Ave.",
-    "city": "St Paul",
-    "state": "MN",
-    "zip": "55103",
-    "phone": "(651) 227-5299",
-    "hours": "",
-    "lat": 44.9577299,
-    "lng": -93.1208675,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175954",
-    "name": "Shobis Table @ Frogtown – Faith Lutheran",
-    "category": "Food",
-    "description": "Pay-as-you-can food truck location serving fresh cooked lunches in St Paul",
-    "address": "499 Charles Avenue",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1669 Arcade Street North, Door 3",
     "city": "Saint Paul",
     "state": "MN",
     "zip": "55101",
-    "phone": "",
+    "phone": "(651) 287-2088",
     "hours": "",
-    "lat": 44.957819476238,
-    "lng": -93.120366927758,
+    "lat": 44.95111,
+    "lng": -93.08739,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-02-12"
   },
   {
-    "id": "fa-183456",
-    "name": "Loaves & Fishes at St. Matthews",
+    "id": "fa-218931",
+    "name": "Liberty Plaza",
     "category": "Food",
-    "description": "Free meal service location at St. Matthews Catholic Church",
-    "address": "510 Hall Ave",
-    "city": "St. Paul",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "290 Arundel St",
+    "city": "Saint Paul",
     "state": "MN",
-    "zip": "55107",
-    "phone": "",
+    "zip": "55103",
+    "phone": "(651) 224-5303",
     "hours": "",
-    "lat": 44.9306464,
-    "lng": -93.086366,
+    "lat": 44.9494629,
+    "lng": -93.1186447,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-187217",
-    "name": "Fruit of the Vine St. Paul Food Shelf",
+    "id": "fa-219794",
+    "name": "Bills Pantry",
     "category": "Food",
-    "description": "Food pantry location at 1280 Arcade St in St Paul, MN.",
-    "address": "1280 Arcade St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "217 Mackubin",
     "city": "St Paul",
     "state": "MN",
-    "zip": "55106",
-    "phone": "",
+    "zip": "55104",
+    "phone": "(651) 228-0370",
     "hours": "",
-    "lat": 44.9798231,
-    "lng": -93.0653229,
+    "lat": 44.9477158,
+    "lng": -93.1218262,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219886",
+    "name": "The Salvation Army Eastside",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1019 Payne Avenue",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55130",
+    "phone": "(651) 776-2653",
+    "hours": "",
+    "lat": 44.9717865,
+    "lng": -93.0738831,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-st-paul-shelter",

@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-223948",
+    "name": "Boston Rescue Mission",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "39 Kingston St.",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02111",
+    "phone": "(617) 338-9000",
+    "hours": "",
+    "lat": 42.35355,
+    "lng": -71.0594559,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-174363",
     "name": "Boston Common (near Park Street T)",
     "category": "Food",
@@ -55,25 +74,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-223948",
-    "name": "Boston Rescue Mission",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "39 Kingston St.",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "02111",
-    "phone": "(617) 338-9000",
-    "hours": "",
-    "lat": 42.35355,
-    "lng": -71.0594559,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-194489",
@@ -171,61 +171,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172387",
-    "name": "ICNA Relief Boston - Roxbury",
+    "id": "fa-217384",
+    "name": "The Salvation Army - Broadway",
     "category": "Food",
-    "description": "Main food distribution location in Roxbury offering halal food and baby essentials.",
-    "address": "1234 Columbus Avenue",
-    "city": "Roxbury",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "483 Broadway",
+    "city": "Somerville",
     "state": "MA",
-    "zip": "02119",
-    "phone": "(857) 302-4958",
+    "zip": "02145",
+    "phone": "(800) 728-7825",
     "hours": "",
-    "lat": 42.3302303,
-    "lng": -71.0952279,
+    "lat": 42.39206,
+    "lng": -71.0895,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-173020",
-    "name": "The Women's Inn",
+    "id": "fa-219331",
+    "name": "The Campus Kitchen at UMass Boston",
     "category": "Food",
-    "description": "Meal service location for women 18+",
-    "address": "363 Albany Street",
-    "city": "South End",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "100 Morrissey Boulevard",
+    "city": "Boston",
     "state": "MA",
-    "zip": "02118",
-    "phone": "",
+    "zip": "02125",
+    "phone": "(617) 287-7909",
     "hours": "",
-    "lat": 42.342601,
-    "lng": -71.062862,
+    "lat": 42.3196373,
+    "lng": -71.0472717,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-173575",
-    "name": "Liberty Plaza Mobile Market",
+    "id": "fa-220269",
+    "name": "The Salvation Army",
     "category": "Food",
-    "description": "Mobile market distribution location at Liberty Plaza",
-    "address": "216 Border Street",
-    "city": "Central Square",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "258 Chestnut Street",
+    "city": "Chelsea",
     "state": "MA",
-    "zip": "02128",
-    "phone": "(617) 567-8857",
+    "zip": "02150",
+    "phone": "(617) 884-0260",
     "hours": "",
-    "lat": 42.3756473,
-    "lng": -71.0406127,
+    "lat": 42.3938332,
+    "lng": -71.0348053,
     "tags": [
-      "mobile pantry",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "osm-node-1019015211",

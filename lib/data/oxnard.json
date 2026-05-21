@@ -133,6 +133,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-226289",
+    "name": "Food Share's Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Oxnard, CA",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2051,
+    "lng": -119.1753,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-177611",
     "name": "Wilson Senior Center",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 34.2123427,
     "lng": -119.178902,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-187829",
-    "name": "Church of The Nazarene",
-    "category": "Food",
-    "description": "Food pantry and senior food box distribution location",
-    "address": "1630 Saviers Rd.",
-    "city": "Oxnard",
-    "state": "CA",
-    "zip": "93033",
-    "phone": "",
-    "hours": "",
-    "lat": 34.1833355,
-    "lng": -119.17728,
     "tags": [
       "food pantry",
       "walk-in"

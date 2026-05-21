@@ -19,63 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-192525",
-    "name": "Delhi Center",
-    "category": "Food",
-    "description": "Delhi Center location providing senior food distribution and grocery services.",
-    "address": "505 E Central Ave.",
-    "city": "Santa Ana",
-    "state": "CA",
-    "zip": "92707",
-    "phone": "",
-    "hours": "",
-    "lat": 33.7142602,
-    "lng": -117.8611932,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194868",
-    "name": "UCI FRESH Basic Needs Hub",
-    "category": "Food",
-    "description": "UCI FRESH Basic Needs Hub located at the end of parking lot 5 on Mesa Road",
-    "address": "4079 Mesa Rd.",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92617",
-    "phone": "",
-    "hours": "",
-    "lat": 33.6538622,
-    "lng": -117.8438356,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-199517",
-    "name": "Walking Shield",
-    "category": "Food",
-    "description": "Main office location for Walking Shield food assistance services",
-    "address": "3100 Airway Avenue",
-    "city": "Costa Mesa",
-    "state": "CA",
-    "zip": "92626",
-    "phone": "",
-    "hours": "",
-    "lat": 33.673959,
-    "lng": -117.8743193,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-220199",
     "name": "Guru Nanak Food Pantry",
     "category": "Food",
@@ -133,6 +76,63 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-192525",
+    "name": "Delhi Center",
+    "category": "Food",
+    "description": "Delhi Center location providing senior food distribution and grocery services.",
+    "address": "505 E Central Ave.",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92707",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7142602,
+    "lng": -117.8611932,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194868",
+    "name": "UCI FRESH Basic Needs Hub",
+    "category": "Food",
+    "description": "UCI FRESH Basic Needs Hub located at the end of parking lot 5 on Mesa Road",
+    "address": "4079 Mesa Rd.",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92617",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6538622,
+    "lng": -117.8438356,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199517",
+    "name": "Walking Shield",
+    "category": "Food",
+    "description": "Main office location for Walking Shield food assistance services",
+    "address": "3100 Airway Avenue",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "zip": "92626",
+    "phone": "",
+    "hours": "",
+    "lat": 33.673959,
+    "lng": -117.8743193,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-465",
     "name": "Orange County Rescue Mission",
     "category": "Food",
@@ -171,6 +171,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-221924",
+    "name": "Boys Hope Girls Hope of Southern California",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "17701 Cowan Ave",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92614",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6954346,
+    "lng": -117.8576965,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-194188",
     "name": "St. Elizabeth Ann Seton SVDP",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-221924",
-    "name": "Boys Hope Girls Hope of Southern California",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "17701 Cowan Ave",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92614",
-    "phone": "",
-    "hours": "",
-    "lat": 33.6954346,
-    "lng": -117.8576965,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-irvine-shelter",

@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-222025",
+    "name": "MUTEH",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "201 W. Capitol St.",
+    "city": "Suite 400, Jackson",
+    "state": "MS",
+    "zip": "39201",
+    "phone": "(601) 714-1555",
+    "hours": "",
+    "lat": 32.3002014,
+    "lng": -90.1895599,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-186925",
     "name": "We Will Go Ministries",
     "category": "Food",
@@ -19,23 +38,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-222025",
-    "name": "MUTEH",
+    "id": "fa-226365",
+    "name": "Magnolia medical Foundation",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "201 W. Capitol St.",
-    "city": "Suite 400, Jackson",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Jackson, MS",
+    "city": "Jackson",
     "state": "MS",
     "zip": "39201",
-    "phone": "(601) 714-1555",
+    "phone": "",
     "hours": "",
-    "lat": 32.3002014,
-    "lng": -90.1895599,
+    "lat": 32.28981,
+    "lng": -90.18398,
     "tags": [
-      "food pantry",
+      "diaper bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-180814",
@@ -95,6 +114,82 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-219231",
+    "name": "Mississippi Food Network",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "440 W. Beatty Street",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39201",
+    "phone": "(601) 353-7215",
+    "hours": "",
+    "lat": 32.2851753,
+    "lng": -90.1933975,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221964",
+    "name": "Greater Mt Calvary",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1400 Robinson Street",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39203",
+    "phone": "(601) 353-8585",
+    "hours": "",
+    "lat": 32.3053513,
+    "lng": -90.2094498,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222771",
+    "name": "Southside Assembly of God",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "655 Raymond Rd.",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39204",
+    "phone": "(601) 373-0529",
+    "hours": "",
+    "lat": 32.2830429,
+    "lng": -90.2255859,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225162",
+    "name": "wells methodist church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2019 bailey ave.",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39213",
+    "phone": "(601) 573-8292",
+    "hours": "",
+    "lat": 32.3245888,
+    "lng": -90.1948242,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-180098",
     "name": "Berean Seventh Day Adventist",
     "category": "Food",
@@ -126,101 +221,6 @@
     "hours": "",
     "lat": 32.293964,
     "lng": -90.212419,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-184560",
-    "name": "Stewpot Community Services - Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location providing food distribution and meal programs.",
-    "address": "1100 W. Capitol St.",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "39203",
-    "phone": "",
-    "hours": "",
-    "lat": 32.306919,
-    "lng": -90.200245,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-186183",
-    "name": "New Horizon",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "1770 Ellis Ave",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "39204",
-    "phone": "",
-    "hours": "",
-    "lat": 32.2947694,
-    "lng": -90.2279222,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-188730",
-    "name": "Jackson Revival Center Church",
-    "category": "Food",
-    "description": "Food distribution location at Jackson Revival Center Church",
-    "address": "1515 Robinson St",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "39204",
-    "phone": "",
-    "hours": "",
-    "lat": 32.304789,
-    "lng": -90.210006,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-190172",
-    "name": "Pearl Street Comm. Dev. Corp.",
-    "category": "Food",
-    "description": "Food distribution location near public transit",
-    "address": "2519 Robinson St",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "39209",
-    "phone": "",
-    "hours": "",
-    "lat": 32.305174,
-    "lng": -90.227444,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-197163",
-    "name": "My Brother's Keeper",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "805 River Place Dr",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "39202",
-    "phone": "",
-    "hours": "",
-    "lat": 32.306375,
-    "lng": -90.164271,
     "tags": [
       "food pantry",
       "walk-in"

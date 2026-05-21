@@ -19,6 +19,82 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-576699",
+    "name": "CCD Swooper Market",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "900 Auraria Parkway",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 352-6532",
+    "hours": "",
+    "lat": 39.7449753,
+    "lng": -105.0055096,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-220735",
+    "name": "Wishing Well",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1075 Galapago Street",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 504-6804",
+    "hours": "",
+    "lat": 39.7332993,
+    "lng": -104.9970016,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220818",
+    "name": "Food For Thought - Denver",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1190 Auraria Pkwy",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 817-4672",
+    "hours": "",
+    "lat": 39.7474976,
+    "lng": -105.0038681,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221684",
+    "name": "The Salvation Army - Harbor Light",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2136 Champa Street",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80205",
+    "phone": "(720) 305-4656",
+    "hours": "",
+    "lat": 39.7514725,
+    "lng": -104.9870453,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-181363",
     "name": "MSU Denver Student Food Bank- Rowdy's Corner",
     "category": "Food",
@@ -147,82 +223,6 @@
     "lng": -105.0020727,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-210138",
-    "name": "Capitol Hill Comm Serv",
-    "category": "Food",
-    "description": "Food pantry and hot meals distribution location",
-    "address": "1820 Broadway",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80202",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7451214,
-    "lng": -104.9870291,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214700",
-    "name": "Metropolitan Community Church",
-    "category": "Food",
-    "description": "Food pantry location offering TEFAP Program services.",
-    "address": "980 N Clarkson St",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80218",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7318392,
-    "lng": -104.9773133,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-216042",
-    "name": "We Don't Waste - Mobile Food Market - La Alma Recreation Center",
-    "category": "Food",
-    "description": "Free mobile pantry providing food assistance. Open to all.",
-    "address": "1325 W 11th Ave",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "phone": "(720) 943-2699",
-    "hours": "",
-    "lat": 39.734127,
-    "lng": -105.004189,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-216316",
-    "name": "Denver Inner City Parish - Mobile Food Market - Thomas Bean Towers",
-    "category": "Food",
-    "description": "Free mobile pantry providing food assistance. Open to all.",
-    "address": "2350 Cleveland Pl",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80205",
-    "phone": "(303) 629-0636",
-    "hours": "",
-    "lat": 39.748692,
-    "lng": -104.978821,
-    "tags": [
-      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

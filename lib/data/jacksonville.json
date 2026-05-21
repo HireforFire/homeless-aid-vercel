@@ -114,6 +114,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-364",
+    "name": "Catholic Charities - Jacksonville",
+    "category": "Food",
+    "description": "Duval County residents",
+    "address": "134 E Church St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32202",
+    "phone": "(904) 354-4846",
+    "hours": "",
+    "lat": 30.3283,
+    "lng": -81.6583,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-181638",
     "name": "I.M. SULZBACHER",
     "category": "Food",
@@ -171,61 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-364",
-    "name": "Catholic Charities - Jacksonville",
+    "id": "fa-3817",
+    "name": "Downtown Ecumenical Services Council  DESC Food Pantry",
     "category": "Food",
-    "description": "Duval County residents",
-    "address": "134 E Church St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "215 N Ocean Street",
     "city": "Jacksonville",
     "state": "FL",
     "zip": "32202",
-    "phone": "(904) 354-4846",
+    "phone": "(904) 358-7955",
     "hours": "",
-    "lat": 30.3283,
-    "lng": -81.6583,
+    "lat": 30.32505,
+    "lng": -81.64786,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2025-12-02"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-171949",
-    "name": "The Well Church",
+    "id": "fa-632",
+    "name": "Jacksonville Rescue Mission",
     "category": "Food",
-    "description": "Food distribution location",
-    "address": "2001 Ernest St.",
+    "description": "Jacksonville",
+    "address": "234 W State Street",
     "city": "Jacksonville",
     "state": "FL",
-    "zip": "32204",
-    "phone": "(904) 800-9350",
+    "zip": "32202",
+    "phone": "(904) 387-4762",
     "hours": "",
-    "lat": 30.3192587,
-    "lng": -81.6833278,
+    "lat": 30.3299,
+    "lng": -81.6517,
     "tags": [
-      "food pantry",
+      "soup kitchen",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173668",
-    "name": "Spring Park Redevelopment Corporation",
-    "category": "Food",
-    "description": "Food distribution location with air conditioning",
-    "address": "2606 San Diego Road",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "32207",
-    "phone": "(904) 396-3072",
-    "hours": "",
-    "lat": 30.29958,
-    "lng": -81.63743,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-jacksonville-shelter",

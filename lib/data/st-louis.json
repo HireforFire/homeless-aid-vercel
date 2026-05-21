@@ -114,6 +114,63 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-5274",
+    "name": "St Patrick Center - Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 North Tucker",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63101",
+    "phone": "(314) 802-0700",
+    "hours": "",
+    "lat": 38.63127,
+    "lng": -90.19275,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-219916",
+    "name": "joint neighborhood ministry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2911 McNair",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63118",
+    "phone": "(314) 771-3987",
+    "hours": "",
+    "lat": 38.5996704,
+    "lng": -90.2207184,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220241",
+    "name": "Society of St. Vincent de Paul Conference @ St. Francis de Sales Oratory",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2653 Ohio Avenue",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63118",
+    "phone": "(314) 289-6101",
+    "hours": "",
+    "lat": 38.6040154,
+    "lng": -90.2257156,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-172845",
     "name": "St. Cronan Church Food Pantry",
     "category": "Food",
@@ -166,63 +223,6 @@
     "lng": -90.2252173,
     "tags": [
       "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-193574",
-    "name": "New Horizons United Methodist Church",
-    "category": "Food",
-    "description": "Church sponsored food pantry located in Central West End area offering pre-packed food bags and clothing ministry",
-    "address": "4234 Washington Blvd.",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63108",
-    "phone": "",
-    "hours": "",
-    "lat": 38.645631,
-    "lng": -90.2467412,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-198390",
-    "name": "Wilhelmina Hardin Food Pantry",
-    "category": "Food",
-    "description": "Food pantry located in the gym, which is in the rear of the building just off of Cook.",
-    "address": "1118 N. Grand Blvd.",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63106",
-    "phone": "",
-    "hours": "",
-    "lat": 38.6439561,
-    "lng": -90.2277273,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200194",
-    "name": "FOCUS Gateway City",
-    "category": "Food",
-    "description": "FOCUS Gateway City food distribution location at 1901 Ann Ave in St. Louis, MO",
-    "address": "1901 Ann Ave.",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63104",
-    "phone": "",
-    "hours": "",
-    "lat": 38.6082574,
-    "lng": -90.2143266,
-    "tags": [
-      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

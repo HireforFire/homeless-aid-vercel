@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-223759",
+    "name": "First Shiloh Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "15 Pine Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "(716) 847-6555",
+    "hours": "",
+    "lat": 42.8804512,
+    "lng": -78.8648758,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-190435",
     "name": "BUFFALO URBAN LEAGUE PANTRY",
     "category": "Food",
@@ -76,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-223759",
-    "name": "First Shiloh Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "15 Pine Street",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14204",
-    "phone": "(716) 847-6555",
-    "hours": "",
-    "lat": 42.8804512,
-    "lng": -78.8648758,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-130206",
     "name": "Buffalo City SD",
     "category": "Food",
@@ -133,6 +133,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-226181",
+    "name": "Every Bottom Covered",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Buffalo, NY",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14201",
+    "phone": "",
+    "hours": "",
+    "lat": 42.89706,
+    "lng": -78.88752,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-190561",
     "name": "CITIZENS COMMUNITY DEVELOPMENT - Buffalo",
     "category": "Food",
@@ -152,80 +171,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-179659",
-    "name": "B.L.E.S. Food Pantry",
+    "id": "fa-10647",
+    "name": "Fulton St Brigid Pantry",
     "category": "Food",
-    "description": "Food pantry location in Buffalo providing emergency food assistance.",
-    "address": "900 GENESEE STREET",
-    "city": "BUFFALO",
-    "state": "NY",
-    "zip": "14211",
-    "phone": "",
-    "hours": "",
-    "lat": 42.900688,
-    "lng": -78.844179,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-182169",
-    "name": "ANTIOCH BAPTIST FOOD PANTRY",
-    "category": "Food",
-    "description": "Food pantry location in Buffalo, NY",
-    "address": "1327 N. FILLMORE AVENUE",
-    "city": "BUFFALO",
-    "state": "NY",
-    "zip": "14211",
-    "phone": "",
-    "hours": "",
-    "lat": 42.90974,
-    "lng": -78.83815,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-183354",
-    "name": "C.A.O. OF ERIE COUNTY PANTRY",
-    "category": "Food",
-    "description": "Main food pantry location in Buffalo, NY",
-    "address": "347 EAST FERRY ST",
-    "city": "BUFFALO",
-    "state": "NY",
-    "zip": "14208",
-    "phone": "",
-    "hours": "",
-    "lat": 42.914455,
-    "lng": -78.8513,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-183519",
-    "name": "TASTE OF FAITH FOOD PANTRY",
-    "category": "Food",
-    "description": "Mobile food pantry distribution location",
-    "address": "594 Winslow Ave",
+    "description": "proof of address, appointment",
+    "address": "170 Fulton Street",
     "city": "Buffalo",
     "state": "NY",
-    "zip": "14211",
-    "phone": "",
+    "zip": "14204",
+    "phone": "(716) 853-4456",
     "hours": "",
-    "lat": 42.91308,
-    "lng": -78.83066,
+    "lat": 42.882,
+    "lng": -78.8614,
     "tags": [
-      "mobile pantry",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-10651",
+    "name": "First Presbyterian Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1 Symphony Circle",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14201",
+    "phone": "(716) 884-7250",
+    "hours": "",
+    "lat": 42.89706,
+    "lng": -78.88752,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-536",
+    "name": "Msgr. Carr Institute",
+    "category": "Food",
+    "description": "Buffalo area",
+    "address": "402 Swan Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "(716) 854-0288",
+    "hours": "",
+    "lat": 42.8889,
+    "lng": -78.8689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-buffalo-shelter",

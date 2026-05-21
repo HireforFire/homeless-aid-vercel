@@ -57,6 +57,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-222598",
+    "name": "handfuls on purpose",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1520D Harke Keagan Dr",
+    "city": "Frankfort",
+    "state": "KY",
+    "zip": "40601",
+    "phone": "",
+    "hours": "",
+    "lat": 38.1972733,
+    "lng": -84.8631134,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-182806",
     "name": "Kentucky State University",
     "category": "Food",
@@ -112,25 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-222598",
-    "name": "handfuls on purpose",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1520D Harke Keagan Dr",
-    "city": "Frankfort",
-    "state": "KY",
-    "zip": "40601",
-    "phone": "",
-    "hours": "",
-    "lat": 38.1972733,
-    "lng": -84.8631134,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-225110",

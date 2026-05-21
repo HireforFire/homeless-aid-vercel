@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-218541",
+    "name": "The Salvation Army - S Harrison St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "400-420 S Harrison St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "(806) 373-6631",
+    "hours": "",
+    "lat": 35.20605,
+    "lng": -101.83946,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-174757",
     "name": "Central Church of Christ",
     "category": "Food",
@@ -76,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218541",
-    "name": "The Salvation Army - S Harrison St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "400-420 S Harrison St",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79101",
-    "phone": "(806) 373-6631",
-    "hours": "",
-    "lat": 35.20605,
-    "lng": -101.83946,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-456020",
     "name": "Opportunity School Edwards Campus",
     "category": "Food",
@@ -152,6 +152,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-210",
+    "name": "Salvation Army - Amarillo",
+    "category": "Food",
+    "description": "Emergency assistance",
+    "address": "411 SE 11th Ave",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "(806) 376-4709",
+    "hours": "",
+    "lat": 35.2083,
+    "lng": -101.8283,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-189846",
     "name": "Acts Community",
     "category": "Food",
@@ -190,42 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-210",
-    "name": "Salvation Army - Amarillo",
+    "id": "fa-217590",
+    "name": "The Salvation Army - Se 27Th Ave",
     "category": "Food",
-    "description": "Emergency assistance",
-    "address": "411 SE 11th Ave",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1211 SE 27th Ave",
     "city": "Amarillo",
     "state": "TX",
-    "zip": "79101",
-    "phone": "(806) 376-4709",
+    "zip": "79103",
+    "phone": "(806) 373-6631",
     "hours": "",
-    "lat": 35.2083,
-    "lng": -101.8283,
+    "lat": 35.18297,
+    "lng": -101.7999,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2025-12-02"
-  },
-  {
-    "id": "fa-172220",
-    "name": "Cornerstone Outreach-Amarillo",
-    "category": "Food",
-    "description": "Food distribution location for Cornerstone Outreach-Amarillo, affiliated with High Plains Food Bank.",
-    "address": "1111 N Buchanan St",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79107",
-    "phone": "(806) 381-2131",
-    "hours": "",
-    "lat": 35.2258199,
-    "lng": -101.8299242,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-amarillo-shelter",

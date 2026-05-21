@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-218697",
+    "name": "The Salvation Army - 19Th Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200 19th Street",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "(661) 325-8626",
+    "hours": "",
+    "lat": 35.38428,
+    "lng": -119.02057,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224956",
+    "name": "First Presbyterian Church Food pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1705 17th Street",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "(661) 325-9419",
+    "hours": "",
+    "lat": 35.3743439,
+    "lng": -119.0220108,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-172788",
     "name": "First Presbyterian Church - Bakersfield",
     "category": "Food",
@@ -55,44 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-218697",
-    "name": "The Salvation Army - 19Th Street",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200 19th Street",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "93301",
-    "phone": "(661) 325-8626",
-    "hours": "",
-    "lat": 35.38428,
-    "lng": -119.02057,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224956",
-    "name": "First Presbyterian Church Food pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1705 17th Street",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "93301",
-    "phone": "(661) 325-9419",
-    "hours": "",
-    "lat": 35.3743439,
-    "lng": -119.0220108,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-447899",
@@ -152,6 +152,44 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-454",
+    "name": "Bakersfield Homeless Center",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1600 E California Ave",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93307",
+    "phone": "(661) 322-9199",
+    "hours": "",
+    "lat": 35.3761,
+    "lng": -119.0061,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-455",
+    "name": "Community Action Partnership Kern",
+    "category": "Food",
+    "description": "Kern County",
+    "address": "5005 Business Park N",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93309",
+    "phone": "(661) 336-5236",
+    "hours": "",
+    "lat": 35.3861,
+    "lng": -119.0161,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-175337",
     "name": "The River - Vineyard Christian",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 35.376440559223,
     "lng": -119.005250092133,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176023",
-    "name": "Hope Now Inc.",
-    "category": "Food",
-    "description": "Main distribution location for Hope Now Inc.",
-    "address": "1514 California Ave",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "93306",
-    "phone": "",
-    "hours": "",
-    "lat": 35.368806489449,
-    "lng": -119.019426153516,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176087",
-    "name": "Goodness & Mercy Ministries",
-    "category": "Food",
-    "description": "Main facility for Goodness & Mercy Ministries located in Bakersfield.",
-    "address": "1111 California Ave.",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "93304",
-    "phone": "",
-    "hours": "",
-    "lat": 35.368065193933,
-    "lng": -119.014401621658,
     "tags": [
       "food pantry",
       "walk-in"

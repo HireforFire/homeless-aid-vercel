@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-218867",
+    "name": "The Salvation Army - 14Th Ave S",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "340 14th Ave S",
+    "city": "St Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "(727) 550-8080",
+    "hours": "",
+    "lat": 27.7705,
+    "lng": -82.63566,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222929",
+    "name": "Ronald McDonald House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "401 7th Avenue South",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "(727) 767-7685",
+    "hours": "",
+    "lat": 27.7632771,
+    "lng": -82.6389999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-180170",
     "name": "Pinellas Community Law Program - St. Petersburg Office",
     "category": "Food",
@@ -171,61 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218867",
-    "name": "The Salvation Army - 14Th Ave S",
+    "id": "fa-334",
+    "name": "St. Vincent de Paul - St. Petersburg",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "340 14th Ave S",
-    "city": "St Petersburg",
-    "state": "FL",
-    "zip": "33701",
-    "phone": "(727) 550-8080",
-    "hours": "",
-    "lat": 27.7705,
-    "lng": -82.63566,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222929",
-    "name": "Ronald McDonald House",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "401 7th Avenue South",
+    "description": "Pinellas County",
+    "address": "1055 4th St N",
     "city": "St. Petersburg",
     "state": "FL",
     "zip": "33701",
-    "phone": "(727) 767-7685",
+    "phone": "(727) 823-2516",
     "hours": "",
-    "lat": 27.7632771,
-    "lng": -82.6389999,
+    "lat": 27.7733,
+    "lng": -82.6433,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-182450",
-    "name": "THE SUNSHINE CENTER",
-    "category": "Food",
-    "description": "The Sunshine Center located in Downtown St. Petersburg, providing senior services and programs.",
-    "address": "330 5th Street North",
-    "city": "Downtown",
-    "state": "FL",
-    "zip": "33701",
-    "phone": "",
-    "hours": "",
-    "lat": 27.7757334,
-    "lng": -82.6402836,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fallback-st-petersburg-shelter",

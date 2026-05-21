@@ -57,44 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173940",
-    "name": "Our Lady's Pantry of Piedmont - Greenville",
-    "category": "Food",
-    "description": "Main location of Our Lady's Pantry of Piedmont in Greenville, South Carolina. Serves the Upstate region including Occonee, Pickens, Greenville, Spartanburg, Cherokee, Anderson, Laurens, Union, Abbeville, Greenwood, Newberry, and McCormick counties.",
-    "address": "2300 Old Buncombe Rd.",
-    "city": "Greenville",
-    "state": "SC",
-    "zip": "29609",
-    "phone": "",
-    "hours": "",
-    "lat": 34.8754366,
-    "lng": -82.415454,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-203689",
-    "name": "First Christian Fellowship",
-    "category": "Food",
-    "description": "Food pantry location at First Christian Fellowship church",
-    "address": "110 Montana St.",
-    "city": "Greenville",
-    "state": "SC",
-    "zip": "29611",
-    "phone": "",
-    "hours": "",
-    "lat": 34.8625907,
-    "lng": -82.4295275,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-12987",
     "name": "Project Host",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224192",
+    "name": "NHOC' Extended Hands of God Servants",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "307 West Morgan Street",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29611",
+    "phone": "(864) 686-0640",
+    "hours": "",
+    "lat": 34.86029,
+    "lng": -82.4286499,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-173940",
+    "name": "Our Lady's Pantry of Piedmont - Greenville",
+    "category": "Food",
+    "description": "Main location of Our Lady's Pantry of Piedmont in Greenville, South Carolina. Serves the Upstate region including Occonee, Pickens, Greenville, Spartanburg, Cherokee, Anderson, Laurens, Union, Abbeville, Greenwood, Newberry, and McCormick counties.",
+    "address": "2300 Old Buncombe Rd.",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29609",
+    "phone": "",
+    "hours": "",
+    "lat": 34.8754366,
+    "lng": -82.415454,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-greenville-sc-shelter",

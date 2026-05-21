@@ -95,6 +95,101 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-7685",
+    "name": "Central United Methodist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "23 E. Adams Avenue",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48226",
+    "phone": "(313) 965-5422",
+    "hours": "",
+    "lat": 42.33182,
+    "lng": -83.05034,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-7692",
+    "name": "Christian Gospel Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "19901 Kentucky",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48231",
+    "phone": "(313) 345-9160",
+    "hours": "",
+    "lat": 42.33123,
+    "lng": -83.0488,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-7699",
+    "name": "Fort Street Presbyterian Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "631 W. Fort Street",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48226",
+    "phone": "(313) 961-4533",
+    "hours": "",
+    "lat": 42.33182,
+    "lng": -83.05034,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-218823",
+    "name": "The Salvation Army - Lawton St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3737 Lawton St",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48208",
+    "phone": "(313) 361-6136",
+    "hours": "",
+    "lat": 42.34844,
+    "lng": -83.09173,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219377",
+    "name": "ksc",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "404 east grand blvd",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48207",
+    "phone": "(313) 478-1537",
+    "hours": "",
+    "lat": 42.3550377,
+    "lng": -83.0063553,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-179974",
     "name": "Franklin Wright Settlements - Emergency Assistance",
     "category": "Food",
@@ -126,101 +221,6 @@
     "hours": "",
     "lat": 42.304879,
     "lng": -83.09129,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-195492",
-    "name": "Fresh Market at Western International High School",
-    "category": "Food",
-    "description": "Mobile food pantry distribution location at Western International High School",
-    "address": "1500 Scotten Street",
-    "city": "Hubbard Farms",
-    "state": "MI",
-    "zip": "48209",
-    "phone": "",
-    "hours": "",
-    "lat": 42.31921790000001,
-    "lng": -83.0920481,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-199903",
-    "name": "Capuchin Soup Kitchen - Islandview",
-    "category": "Food",
-    "description": "Main soup kitchen location providing hot meals.",
-    "address": "1740 Mount Elliott Street",
-    "city": "Islandview",
-    "state": "MI",
-    "zip": "48207",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3508415,
-    "lng": -83.01440889999999,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200389",
-    "name": "The W Food Pantry",
-    "category": "Food",
-    "description": "The W Food Pantry located in Detroit, Michigan",
-    "address": "703 West Kirby Street",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "48202",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3579657,
-    "lng": -83.0730047,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-204461",
-    "name": "Genesis Hope",
-    "category": "Food",
-    "description": "Genesis Lutheran Church food distribution location. Line begins on Field St.",
-    "address": "7200 Mack Avenue",
-    "city": "Islandview",
-    "state": "MI",
-    "zip": "48214",
-    "phone": "",
-    "hours": "",
-    "lat": 42.364229,
-    "lng": -83.012406,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-206839",
-    "name": "Salvation Army - Fort Street",
-    "category": "Food",
-    "description": "Salvation Army food distribution location on Fort Street",
-    "address": "1627 West Fort Street",
-    "city": "West Side Industrial",
-    "state": "MI",
-    "zip": "48216",
-    "phone": "",
-    "hours": "",
-    "lat": 42.323208,
-    "lng": -83.06373889999999,
     "tags": [
       "food pantry",
       "walk-in"

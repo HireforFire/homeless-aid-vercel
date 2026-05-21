@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-174927",
-    "name": "Tulare Street Baptist Center",
-    "category": "Food",
-    "description": "Food assistance distribution location",
-    "address": "8179 W. Tulare St.",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "93706",
-    "phone": "(559) 266-2406",
-    "hours": "",
-    "lat": 36.7324687,
-    "lng": -119.7922256,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218642",
     "name": "The Salvation Army - Fulton Street 1",
     "category": "Food",
@@ -95,6 +76,25 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-174927",
+    "name": "Tulare Street Baptist Center",
+    "category": "Food",
+    "description": "Food assistance distribution location",
+    "address": "8179 W. Tulare St.",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93706",
+    "phone": "(559) 266-2406",
+    "hours": "",
+    "lat": 36.7324687,
+    "lng": -119.7922256,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-448",
     "name": "Poverello House",
     "category": "Food",
@@ -131,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-450",
+    "name": "Catholic Charities Fresno",
+    "category": "Food",
+    "description": "Fresno County",
+    "address": "149 N Fulton St",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93701",
+    "phone": "(559) 237-0851",
+    "hours": "",
+    "lat": 36.7461,
+    "lng": -119.7761,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-172224",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 36.747532834647,
     "lng": -119.794014338308,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-179764",
-    "name": "Via Church",
-    "category": "Food",
-    "description": "Via Church food pantry location",
-    "address": "2120 Kern St",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "93721",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7339433,
-    "lng": -119.7872288,
     "tags": [
       "food pantry",
       "walk-in"

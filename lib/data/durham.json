@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-183717",
-    "name": "Fisher Memorial United Holy Church",
-    "category": "Food",
-    "description": "Food pantry location at Fisher Memorial United Holy Church",
-    "address": "410 E. Piedmont Ave.",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27707",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9839619,
-    "lng": -78.9004784,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-189004",
-    "name": "Nehemiah Christian Center",
-    "category": "Food",
-    "description": "Soup Kitchen location at Nehemiah Christian Center",
-    "address": "514 N. Mangum St.",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "",
-    "hours": "",
-    "lat": 35.998691,
-    "lng": -78.8970779,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218743",
     "name": "The Salvation Army - N Alston Ave",
     "category": "Food",
@@ -76,6 +38,44 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-183717",
+    "name": "Fisher Memorial United Holy Church",
+    "category": "Food",
+    "description": "Food pantry location at Fisher Memorial United Holy Church",
+    "address": "410 E. Piedmont Ave.",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27707",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9839619,
+    "lng": -78.9004784,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189004",
+    "name": "Nehemiah Christian Center",
+    "category": "Food",
+    "description": "Soup Kitchen location at Nehemiah Christian Center",
+    "address": "514 N. Mangum St.",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "",
+    "hours": "",
+    "lat": 35.998691,
+    "lng": -78.8970779,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-451279",
     "name": "Leathers Meachem Head Start",
     "category": "Food",
@@ -112,6 +112,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-690",
+    "name": "Urban Ministries Durham",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "410 Liberty St",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "(919) 682-0538",
+    "hours": "",
+    "lat": 35.9914,
+    "lng": -78.9014,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-226174",
+    "name": "Diaper Bank of NC Triangle",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Durham, NC",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "",
+    "hours": "",
+    "lat": 35.99858,
+    "lng": -78.89872,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-184874",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 35.9816049,
     "lng": -78.8925971,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-195481",
-    "name": "Faith Temple House of Prayer (FTHOP)",
-    "category": "Food",
-    "description": "Food pantry location at Faith Temple House of Prayer",
-    "address": "700 S Mangum St",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9891571,
-    "lng": -78.9035691,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-196599",
-    "name": "CAARE, Inc. - Downtown Location",
-    "category": "Food",
-    "description": "Main location of CAARE, Inc. at 205 Broadway Street",
-    "address": "205 Broadway Street",
-    "city": "Downtown",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0007623,
-    "lng": -78.8980795,
     "tags": [
       "food pantry",
       "walk-in"

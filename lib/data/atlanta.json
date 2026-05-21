@@ -152,6 +152,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-771",
+    "name": "Central Outreach and Advocacy",
+    "category": "Food",
+    "description": "Downtown Atlanta",
+    "address": "65 Luckie St NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30303",
+    "phone": "(404) 614-5605",
+    "hours": "",
+    "lat": 33.7614,
+    "lng": -84.3914,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-181859",
     "name": "SafeHouse Outreach - Peachtree Center",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 33.7558503,
     "lng": -84.380344,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-191646",
-    "name": "ReNew Atlanta Main Location",
-    "category": "Food",
-    "description": "Primary location for ReNew Atlanta food pantry services",
-    "address": "256 Memorial Drive Southwest",
-    "city": "South Downtown",
-    "state": "GA",
-    "zip": "30303",
-    "phone": "",
-    "hours": "",
-    "lat": 33.7465789,
-    "lng": -84.3961714,
     "tags": [
       "food pantry",
       "walk-in"

@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-221251",
+    "name": "St. Joseph House of Hospitality",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1635 Bedford Avenue",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15219",
+    "phone": "(412) 471-0666",
+    "hours": "",
+    "lat": 40.4451942,
+    "lng": -79.9872284,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-197716",
     "name": "Jubilee Association, Inc. Soup Kitchen",
     "category": "Food",
@@ -36,25 +55,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-221251",
-    "name": "St. Joseph House of Hospitality",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1635 Bedford Avenue",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "15219",
-    "phone": "(412) 471-0666",
-    "hours": "",
-    "lat": 40.4451942,
-    "lng": -79.9872284,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-445565",

@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-219652",
+    "name": "My Sister's Place Lodge",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "111 West Mulberry Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "(410) 528-9002",
+    "hours": "",
+    "lat": 39.293766,
+    "lng": -76.6174774,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-226088",
+    "name": "Earl’s Place",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1400 E.  Lombard Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21231",
+    "phone": "(410) 522-0225",
+    "hours": "",
+    "lat": 39.2903294,
+    "lng": -76.5984185,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-172958",
     "name": "Redemporist Fathers",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 39.3001979,
     "lng": -76.6215814,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-206319",
-    "name": "Grace and Hope Mission",
-    "category": "Food",
-    "description": "Main distribution location for Grace and Hope Mission",
-    "address": "4 South Gay Street",
-    "city": "Baltimore",
-    "state": "MD",
-    "zip": "21202",
-    "phone": "",
-    "hours": "",
-    "lat": 39.289445,
-    "lng": -76.609226,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-207541",
-    "name": "Lexington Poe",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "206 North Fremont Avenue",
-    "city": "Poppleton",
-    "state": "MD",
-    "zip": "21202",
-    "phone": "",
-    "hours": "",
-    "lat": 39.2918417,
-    "lng": -76.63116699999999,
     "tags": [
       "food pantry",
       "walk-in"

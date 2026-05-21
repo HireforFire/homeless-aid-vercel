@@ -133,82 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172704",
-    "name": "MACH-PALSS - Palmetto AIDS Life Support Services",
-    "category": "Food",
-    "description": "Food pantry location at MACH-PALSS in Columbia, SC",
-    "address": "2638 Two Notch Rd.",
-    "city": "Columbia",
-    "state": "SC",
-    "zip": "29204",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0289714,
-    "lng": -81.0051495,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200912",
-    "name": "Brookland Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "1066 Sunset Blvd.",
-    "city": "West Columbia",
-    "state": "SC",
-    "zip": "29169",
-    "phone": "",
-    "hours": "",
-    "lat": 33.9982315,
-    "lng": -81.0736546,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200976",
-    "name": "St. John's Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location at St. John's Baptist Church",
-    "address": "3404 W. Beltline",
-    "city": "Columbia",
-    "state": "SC",
-    "zip": "29203",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0313829,
-    "lng": -81.0233169,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-211786",
-    "name": "Operation Veteran Support",
-    "category": "Food",
-    "description": "Main food distribution location for Operation Veteran Support.",
-    "address": "3600 Colonial Dr.",
-    "city": "Columbia",
-    "state": "SC",
-    "zip": "29203",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0330718,
-    "lng": -81.0281062,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-851",
     "name": "Harvest Hope Food Bank",
     "category": "Food",
@@ -226,6 +150,82 @@
       "walk-in"
     ],
     "lastUpdated": "2025-01-01"
+  },
+  {
+    "id": "fa-217687",
+    "name": "The Salvation Army - N Millwood Ave",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1312 N Millwood Ave",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29204",
+    "phone": "(803) 748-9964",
+    "hours": "",
+    "lat": 34.02938,
+    "lng": -81.00008,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220183",
+    "name": "Compassionate Hearts Emergency Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3950 Clement Road",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29203",
+    "phone": "(803) 254-3532",
+    "hours": "",
+    "lat": 34.0371208,
+    "lng": -81.0593262,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221761",
+    "name": "Bethlehem Baptist",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1218 Lyon Street",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29204",
+    "phone": "(803) 254-5651",
+    "hours": "",
+    "lat": 34.0090942,
+    "lng": -81.0124893,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172704",
+    "name": "MACH-PALSS - Palmetto AIDS Life Support Services",
+    "category": "Food",
+    "description": "Food pantry location at MACH-PALSS in Columbia, SC",
+    "address": "2638 Two Notch Rd.",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29204",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0289714,
+    "lng": -81.0051495,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-columbia-sc-shelter",

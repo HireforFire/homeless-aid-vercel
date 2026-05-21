@@ -1,5 +1,62 @@
 [
   {
+    "id": "fa-222708",
+    "name": "The Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "301 Tennessee Avenue",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25302",
+    "phone": "(304) 343-4548",
+    "hours": "",
+    "lat": 38.359024,
+    "lng": -81.6451874,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223450",
+    "name": "Manna Meal, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1105 Quarrier St",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25301",
+    "phone": "(304) 345-7121",
+    "hours": "",
+    "lat": 38.3473473,
+    "lng": -81.6318359,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224082",
+    "name": "Covenant House Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "600 Shrewbury St.",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25301",
+    "phone": "(304) 344-8053",
+    "hours": "",
+    "lat": 38.3515257,
+    "lng": -81.6281767,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-172878",
     "name": "Salvation Army - Charleston",
     "category": "Food",
@@ -76,63 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-222708",
-    "name": "The Salvation Army",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "301 Tennessee Avenue",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25302",
-    "phone": "(304) 343-4548",
-    "hours": "",
-    "lat": 38.359024,
-    "lng": -81.6451874,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223450",
-    "name": "Manna Meal, Inc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1105 Quarrier St",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25301",
-    "phone": "(304) 345-7121",
-    "hours": "",
-    "lat": 38.3473473,
-    "lng": -81.6318359,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224082",
-    "name": "Covenant House Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "600 Shrewbury St.",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25301",
-    "phone": "(304) 344-8053",
-    "hours": "",
-    "lat": 38.3515257,
-    "lng": -81.6281767,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-445127",
     "name": "Piedmont Elementary",
     "category": "Food",
@@ -150,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-221550",
+    "name": "Trinity's Table",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1600 Kanawha Blvd",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25311",
+    "phone": "(304) 539-4345",
+    "hours": "",
+    "lat": 38.3377151,
+    "lng": -81.6185303,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-174257",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 38.3736332,
     "lng": -81.6633802,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-203344",
-    "name": "Mountain Mission - Charleston",
-    "category": "Food",
-    "description": "Mountain Mission food distribution center located in Charleston, West Virginia.",
-    "address": "1620 7th Avenue",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25387",
-    "phone": "",
-    "hours": "",
-    "lat": 38.3717361,
-    "lng": -81.6625978,
     "tags": [
       "food pantry",
       "walk-in"

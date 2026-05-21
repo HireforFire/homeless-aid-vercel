@@ -114,6 +114,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-224950",
+    "name": "Our House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "302 E. Roosevelt",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72206",
+    "phone": "(501) 374-7383",
+    "hours": "",
+    "lat": 34.7244987,
+    "lng": -92.2691345,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225799",
+    "name": "The Salvation ArmyNLR",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1505 W. 18th St.",
+    "city": "North Little Rock",
+    "state": "AR",
+    "zip": "72215",
+    "phone": "(501) 758-7297",
+    "hours": "",
+    "lat": 34.772419,
+    "lng": -92.2829819,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-172546",
     "name": "Next Step Inc",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 34.7332309,
     "lng": -92.2741426,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-190335",
-    "name": "River City Ministry",
-    "category": "Food",
-    "description": "Food distribution and meal program location",
-    "address": "1021 E. Washington Ave.",
-    "city": "North Little Rock",
-    "state": "AR",
-    "zip": "72114",
-    "phone": "",
-    "hours": "",
-    "lat": 34.754067,
-    "lng": -92.25623,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-192893",
-    "name": "Pilgrim Progress Baptist Church",
-    "category": "Food",
-    "description": "Main food distribution and meal service location",
-    "address": "1401 N. Magnolia St.",
-    "city": "North Little Rock",
-    "state": "AR",
-    "zip": "72114",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7672933,
-    "lng": -92.2651951,
     "tags": [
       "food pantry",
       "walk-in"

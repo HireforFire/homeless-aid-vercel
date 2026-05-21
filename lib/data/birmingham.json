@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-172537",
-    "name": "Urban Ministry, Inc.",
-    "category": "Food",
-    "description": "Food pantry and soup kitchen location in Birmingham, Alabama.",
-    "address": "1229 Cotton Ave. SW.",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35211",
-    "phone": "(205) 781-0517",
-    "hours": "",
-    "lat": 33.4923348,
-    "lng": -86.852031,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-220356",
     "name": "YWCA Central Alabama",
     "category": "Food",
@@ -38,6 +19,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-172537",
+    "name": "Urban Ministry, Inc.",
+    "category": "Food",
+    "description": "Food pantry and soup kitchen location in Birmingham, Alabama.",
+    "address": "1229 Cotton Ave. SW.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35211",
+    "phone": "(205) 781-0517",
+    "hours": "",
+    "lat": 33.4923348,
+    "lng": -86.852031,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-128137",
     "name": "Birmingham City Board of Education",
     "category": "Food",
@@ -55,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-226157",
+    "name": "Bundles of Hope Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Birmingham, AL",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35201",
+    "phone": "",
+    "hours": "",
+    "lat": 33.51856,
+    "lng": -86.80842,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-178802",
@@ -133,99 +152,80 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172347",
-    "name": "South Highland Presbyterian Church",
+    "id": "fa-218788",
+    "name": "The Salvation Army - Fl Shuttlesworth Dr",
     "category": "Food",
-    "description": "Food pantry location at South Highland Presbyterian Church",
-    "address": "2035 Highland Ave.",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35205",
-    "phone": "(205) 933-0790",
-    "hours": "",
-    "lat": 33.4993448,
-    "lng": -86.7943734,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172376",
-    "name": "Grace Klein Community - Jefferson County Family Court House",
-    "category": "Food",
-    "description": "Mobile food pantry distribution location at Jefferson County Family Court House",
-    "address": "120 2nd Ct. N.",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35204",
-    "phone": "(205) 490-7516",
-    "hours": "",
-    "lat": 33.5049423,
-    "lng": -86.8339309,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173863",
-    "name": "St. Andrew's Episcopal Church",
-    "category": "Food",
-    "description": "St. Andy's Pantry food distribution location",
-    "address": "1024 12th Street South",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35205",
-    "phone": "(205) 639-9652",
-    "hours": "",
-    "lat": 33.49555,
-    "lng": -86.80812,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-174336",
-    "name": "Community Kitchens at Eleventh Avenue COGIC",
-    "category": "Food",
-    "description": "Soup kitchen location at Eleventh Avenue COGIC in Birmingham, Alabama.",
-    "address": "4408 10th Ave. N.",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35212",
-    "phone": "(205) 251-3569",
-    "hours": "",
-    "lat": 33.5424554,
-    "lng": -86.770757,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-174809",
-    "name": "The Salvation Army - Birmingham Center of Hope",
-    "category": "Food",
-    "description": "Main location providing food pantry and soup kitchen services in Birmingham.",
-    "address": "2015 26th Ave. N.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1401 Fl Shuttlesworth Dr",
     "city": "Birmingham",
     "state": "AL",
     "zip": "35234",
-    "phone": "(205) 328-2420",
+    "phone": "(205) 252-8151",
     "hours": "",
-    "lat": 33.544802,
-    "lng": -86.8243215,
+    "lat": 33.54005,
+    "lng": -86.80382,
     "tags": [
-      "soup kitchen",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220463",
+    "name": "Pathways",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1135 14th Ave South",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35215",
+    "phone": "(205) 324-5220",
+    "hours": "",
+    "lat": 33.492733,
+    "lng": -86.8088379,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221487",
+    "name": "Birmingham AIDS Outreach Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "205 32nd St. South",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35233",
+    "phone": "(205) 322-4197",
+    "hours": "",
+    "lat": 33.5185432,
+    "lng": -86.7864532,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221592",
+    "name": "The Community Kitchens of Birmingham",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1024 12th St. S",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35205",
+    "phone": "(205) 251-3569",
+    "hours": "",
+    "lat": 33.4960938,
+    "lng": -86.8079071,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-birmingham-shelter",

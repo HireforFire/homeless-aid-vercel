@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-219268",
+    "name": "Revival Ministries",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3738 River Int'l Drive",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33610",
+    "phone": "(813) 464-4462",
+    "hours": "",
+    "lat": 27.9494362,
+    "lng": -82.4651413,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223241",
+    "name": "Cornerstone Kids, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2078 North Central Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33602",
+    "phone": "(813) 293-1284",
+    "hours": "",
+    "lat": 27.9633009,
+    "lng": -82.4555427,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-172179",
     "name": "Robert Saunders Library - Metropolitan Ministries",
     "category": "Food",
@@ -95,44 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-219268",
-    "name": "Revival Ministries",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3738 River Int'l Drive",
-    "city": "Tampa",
-    "state": "FL",
-    "zip": "33610",
-    "phone": "(813) 464-4462",
-    "hours": "",
-    "lat": 27.9494362,
-    "lng": -82.4651413,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223241",
-    "name": "Cornerstone Kids, Inc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2078 North Central Ave",
-    "city": "Tampa",
-    "state": "FL",
-    "zip": "33602",
-    "phone": "(813) 293-1284",
-    "hours": "",
-    "lat": 27.9633009,
-    "lng": -82.4555427,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-452835",
     "name": "Kimmins Head Start/Early Head Start",
     "category": "Food",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "fa-178883",
-    "name": "Palm Ave Baptist Tower Inc.",
+    "id": "fa-325",
+    "name": "Catholic Charities - Tampa",
     "category": "Food",
-    "description": "Main distribution location for Palm Ave Baptist Tower Inc.",
-    "address": "215 East Palm Avenue",
-    "city": "Tampa Heights",
-    "state": "FL",
-    "zip": "33602",
-    "phone": "",
-    "hours": "",
-    "lat": 27.961681,
-    "lng": -82.4586501,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-180753",
-    "name": "Rise Tampa",
-    "category": "Food",
-    "description": "Rise Tampa food distribution location in Tampa, Florida. Affiliated with Feeding Tampa Bay.",
-    "address": "411 N Franklin St",
+    "description": "Hillsborough County",
+    "address": "1625 E 7th Ave",
     "city": "Tampa",
     "state": "FL",
-    "zip": "33602",
-    "phone": "",
+    "zip": "33605",
+    "phone": "(813) 631-4370",
     "hours": "",
-    "lat": 27.948375,
-    "lng": -82.457779,
+    "lat": 27.9633,
+    "lng": -82.4483,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-226264",
+    "name": "Junior League of Tampa Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Tampa, FL",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33601",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9530012,
+    "lng": -82.4612975,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fallback-tampa-shelter",

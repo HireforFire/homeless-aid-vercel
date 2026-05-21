@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-186349",
-    "name": "Smokey's Pantry at UTK",
-    "category": "Food",
-    "description": "Smokey's Pantry: A FISH Hospitality Pantry located at the University of Tennessee, Knoxville campus on Melrose Pl.",
-    "address": "Melrose Pl",
-    "city": "Knoxville",
-    "state": "TN",
-    "zip": "37916",
-    "phone": "",
-    "hours": "",
-    "lat": 35.955755499999995,
-    "lng": -83.931671,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-220069",
     "name": "Food in The Fort",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-186349",
+    "name": "Smokey's Pantry at UTK",
+    "category": "Food",
+    "description": "Smokey's Pantry: A FISH Hospitality Pantry located at the University of Tennessee, Knoxville campus on Melrose Pl.",
+    "address": "Melrose Pl",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37916",
+    "phone": "",
+    "hours": "",
+    "lat": 35.955755499999995,
+    "lng": -83.931671,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-130624",
@@ -152,63 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-179142",
-    "name": "FISH Hospitality Pantry – East Knoxville",
-    "category": "Food",
-    "description": "Food pantry location at St. Luke's Episcopal Church in East Knoxville.",
-    "address": "600 S Chestnut St",
-    "city": "Knoxville",
-    "state": "TN",
-    "zip": "37914",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9809501,
-    "lng": -83.8905115,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-187351",
-    "name": "Montgomery Village Baptist Center",
-    "category": "Food",
-    "description": "Food distribution center at Montgomery Village Baptist Center",
-    "address": "4601 Joe Lewis Road",
-    "city": "Knoxville",
-    "state": "TN",
-    "zip": "37920",
-    "phone": "",
-    "hours": "",
-    "lat": 35.920955,
-    "lng": -83.9220068,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-195493",
-    "name": "Soul Harvest Church of God",
-    "category": "Food",
-    "description": "Soul Harvest Church of God located at 1706 Cecil Ave., Knoxville, TN",
-    "address": "1706 Cecil Ave.",
-    "city": "Knoxville",
-    "state": "TN",
-    "zip": "37917",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9924364,
-    "lng": -83.9157213,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-217762",
     "name": "The Salvation Army - N Broadway St Corps",
     "category": "Food",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 36.00156,
     "lng": -83.91265,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220086",
+    "name": "E Ave House Of Prayer",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "807 E Ave",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37920",
+    "phone": "(865) 237-9590",
+    "hours": "",
+    "lat": 35.9283638,
+    "lng": -83.9160538,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220348",
+    "name": "Eternal Life",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2410 Martin Luther King Jr. Ave.",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37915",
+    "phone": "(865) 971-1988",
+    "hours": "",
+    "lat": 35.9813194,
+    "lng": -83.8947067,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223960",
+    "name": "FISH Hospitality Pantries",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "122 W Scott Ave",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37917",
+    "phone": "(865) 207-8572",
+    "hours": "",
+    "lat": 35.9823647,
+    "lng": -83.9316847,
     "tags": [
       "food pantry",
       "walk-in"

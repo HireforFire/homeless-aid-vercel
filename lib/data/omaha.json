@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-224949",
+    "name": "Youth Street Outreach",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2062 Harney St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "(402) 502-1636",
+    "hours": "",
+    "lat": 41.2568912,
+    "lng": -95.9430326,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-171960",
     "name": "Freeway Ministries",
     "category": "Food",
@@ -114,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-224949",
-    "name": "Youth Street Outreach",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2062 Harney St",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68102",
-    "phone": "(402) 502-1636",
-    "hours": "",
-    "lat": 41.2568912,
-    "lng": -95.9430326,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-442053",
     "name": "Liberty",
     "category": "Food",
@@ -150,6 +150,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-226209",
+    "name": "Nebraska Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Omaha, NE",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68101",
+    "phone": "",
+    "hours": "",
+    "lat": 41.26219,
+    "lng": -95.93133,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-218891",
+    "name": "Together, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1616 Cass St.",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2640419,
+    "lng": -95.9378738,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-183906",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 41.254923,
     "lng": -95.946353,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194288",
-    "name": "Fricke Episcopal Community Ministry",
-    "category": "Food",
-    "description": "Main food pantry location offering walk-up food assistance services",
-    "address": "113 N 18th St",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68102",
-    "phone": "",
-    "hours": "",
-    "lat": 41.260363,
-    "lng": -95.93932199999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-195989",
-    "name": "Youth Street Outreach - Food Distribution Center",
-    "category": "Food",
-    "description": "Main food distribution center location",
-    "address": "2057 Harney St",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68102",
-    "phone": "",
-    "hours": "",
-    "lat": 41.256326699999995,
-    "lng": -95.94486769999999,
     "tags": [
       "food pantry",
       "walk-in"

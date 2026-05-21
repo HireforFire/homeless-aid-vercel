@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-191011",
-    "name": "San Diego Rescue Mission",
-    "category": "Food",
-    "description": "Main food distribution location",
-    "address": "120 Elm Street",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7243519,
-    "lng": -117.163483,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218915",
     "name": "Ladle Fellowship",
     "category": "Food",
@@ -95,6 +76,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-191011",
+    "name": "San Diego Rescue Mission",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "120 Elm Street",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7243519,
+    "lng": -117.163483,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-445302",
     "name": "Area 1 - City College Head Start",
     "category": "Food",
@@ -152,63 +152,6 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "fa-193586",
-    "name": "Third Avenue Charitable Organization",
-    "category": "Food",
-    "description": "Main food pantry location at Third Avenue in San Diego.",
-    "address": "1420 Third Avenue",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7200652,
-    "lng": -117.162274,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-196424",
-    "name": "Salvation Army Centre City",
-    "category": "Food",
-    "description": "Salvation Army Centre City food pantry location in downtown San Diego",
-    "address": "825 7th Avenue",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7138756,
-    "lng": -117.1580019,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200726",
-    "name": "Catholic Charities Diocese of San Diego - Cedar Street",
-    "category": "Food",
-    "description": "Main office and food assistance location",
-    "address": "349 Cedar Street",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7217579,
-    "lng": -117.1614928,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-432",
     "name": "Catholic Charities SD",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-433",
+    "name": "St. Vincent de Paul Village",
+    "category": "Food",
+    "description": "San Diego residents",
+    "address": "1501 Imperial Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "(619) 233-8500",
+    "hours": "",
+    "lat": 32.7111,
+    "lng": -117.1511,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-225706",
+    "name": "ethridge center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1053 10th ave.",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7164192,
+    "lng": -117.1553192,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-193586",
+    "name": "Third Avenue Charitable Organization",
+    "category": "Food",
+    "description": "Main food pantry location at Third Avenue in San Diego.",
+    "address": "1420 Third Avenue",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7200652,
+    "lng": -117.162274,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-san-diego-shelter",

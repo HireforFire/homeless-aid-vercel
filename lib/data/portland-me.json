@@ -1,62 +1,5 @@
 [
   {
-    "id": "fa-179259",
-    "name": "Catholic Charities Maine - Portland",
-    "category": "Food",
-    "description": "Main office and service location in Portland",
-    "address": "307 Congress St",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6614733,
-    "lng": -70.2540763,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-182203",
-    "name": "Sacred Heart Food Pantry - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located in Portland providing walk-up food pantry services.",
-    "address": "80 Sherman St",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6554216,
-    "lng": -70.2695442,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-191401",
-    "name": "Preble Street Teen Center",
-    "category": "Food",
-    "description": "Teen center located in Portland",
-    "address": "343 Cumberland Ave",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6579784,
-    "lng": -70.26169209999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-576896",
     "name": "Preble Street Resource Center",
     "category": "Food",
@@ -133,6 +76,63 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-179259",
+    "name": "Catholic Charities Maine - Portland",
+    "category": "Food",
+    "description": "Main office and service location in Portland",
+    "address": "307 Congress St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6614733,
+    "lng": -70.2540763,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182203",
+    "name": "Sacred Heart Food Pantry - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Portland providing walk-up food pantry services.",
+    "address": "80 Sherman St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6554216,
+    "lng": -70.2695442,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191401",
+    "name": "Preble Street Teen Center",
+    "category": "Food",
+    "description": "Teen center located in Portland",
+    "address": "343 Cumberland Ave",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6579784,
+    "lng": -70.26169209999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-445387",
     "name": "East End Child Development",
     "category": "Food",
@@ -171,6 +171,44 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-226217",
+    "name": "Michael Klahr Jewish Family Services",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Portland, ME",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6624,
+    "lng": -70.2586,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-225779",
+    "name": "Young Parent Program",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "22 Park Ave",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6575508,
+    "lng": -70.2670441,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-180940",
     "name": "Sacred Heart / St. Dominic Food Pantry",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 43.655433,
     "lng": -70.269386,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-181088",
-    "name": "The Opportunity Alliance - Portland",
-    "category": "Food",
-    "description": "Main location in Portland",
-    "address": "190 Lancaster St",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6595982,
-    "lng": -70.2620239,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-181751",
-    "name": "Wayside - Portland",
-    "category": "Food",
-    "description": "Walk-up food distribution location",
-    "address": "252 Oxford St",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6588139,
-    "lng": -70.2620405,
     "tags": [
       "food pantry",
       "walk-in"

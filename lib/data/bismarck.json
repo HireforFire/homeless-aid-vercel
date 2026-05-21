@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-176321",
-    "name": "Bismarck Emergency Food Pantry",
-    "category": "Food",
-    "description": "Emergency food pantry location in Bismarck, North Dakota",
-    "address": "220 W Front Ave",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "58504",
-    "phone": "",
-    "hours": "",
-    "lat": 46.804671886752,
-    "lng": -100.792621551451,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194233",
-    "name": "Welcome House",
-    "category": "Food",
-    "description": "Food pantry location serving Burleigh County residents and surrounding areas.",
-    "address": "617 N 17th St.",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "58501",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8112019,
-    "lng": -100.7663168,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-219110",
     "name": "Ruth Meiers Hospitality House",
     "category": "Food",
@@ -76,6 +38,44 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-176321",
+    "name": "Bismarck Emergency Food Pantry",
+    "category": "Food",
+    "description": "Emergency food pantry location in Bismarck, North Dakota",
+    "address": "220 W Front Ave",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504",
+    "phone": "",
+    "hours": "",
+    "lat": 46.804671886752,
+    "lng": -100.792621551451,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194233",
+    "name": "Welcome House",
+    "category": "Food",
+    "description": "Food pantry location serving Burleigh County residents and surrounding areas.",
+    "address": "617 N 17th St.",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58501",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8112019,
+    "lng": -100.7663168,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-442541",
     "name": "Richholt",
     "category": "Food",
@@ -93,6 +93,82 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-222671",
+    "name": "Open Door Community Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1140 South 12th Street",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504",
+    "phone": "(701) 222-3004",
+    "hours": "",
+    "lat": 46.7917786,
+    "lng": -100.7734604,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222731",
+    "name": "Community Action Program Region VII, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2105 Lee Avenue",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504",
+    "phone": "(701) 258-2240",
+    "hours": "",
+    "lat": 46.7919769,
+    "lng": -100.7591934,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224155",
+    "name": "Dream Center Bismarck Adopt-a-Block",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1805 Park Avenue",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58501",
+    "phone": "(701) 955-2150",
+    "hours": "",
+    "lat": 46.7909431,
+    "lng": -100.7649994,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225738",
+    "name": "Aid Inc Self Help Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "404 Airport Road",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58503",
+    "phone": "(701) 222-2620",
+    "hours": "",
+    "lat": 46.8017693,
+    "lng": -100.7628174,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-175387",
@@ -147,82 +223,6 @@
     "lng": -100.778024969985,
     "tags": [
       "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177244",
-    "name": "Comm. Action Program Reg. VII - Bismarck",
-    "category": "Food",
-    "description": "Community Action Program food distribution location in Bismarck",
-    "address": "2105 Lee Ave",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "58504",
-    "phone": "",
-    "hours": "",
-    "lat": 46.791768156361,
-    "lng": -100.758927557971,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-190078",
-    "name": "Adopt-A-Block - Tatley Place",
-    "category": "Food",
-    "description": "Food pantry located at the corner of West London Ave. and Manchester St., south of Tatley Meadows. Handicapped accessible.",
-    "address": "Corner of West London Ave. & Manchester St.",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "58504",
-    "phone": "",
-    "hours": "",
-    "lat": 46.772953,
-    "lng": -100.7982447,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-203234",
-    "name": "Dream Center Bismarck",
-    "category": "Food",
-    "description": "Main food pantry location providing walk-up food distribution services.",
-    "address": "1805 Park Ave",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "58504",
-    "phone": "",
-    "hours": "",
-    "lat": 46.7910901,
-    "lng": -100.765574,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-205947",
-    "name": "Aid Inc Self Help Center - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located at Airport Road in Bismarck",
-    "address": "404 Airport Rd",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "58504",
-    "phone": "",
-    "hours": "",
-    "lat": 46.80149,
-    "lng": -100.763278,
-    "tags": [
-      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

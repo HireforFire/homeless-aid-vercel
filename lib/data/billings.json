@@ -190,6 +190,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-171945",
+    "name": "Chinook Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "112 6th St W",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "(406) 357-3805",
+    "hours": "",
+    "lat": 45.771549,
+    "lng": -108.530655,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-171125",
     "name": "Montana Rescue Mission - Food Distribution Center",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 45.7796962,
     "lng": -108.50491369999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-171214",
-    "name": "Dinner Church",
-    "category": "Food",
-    "description": "Dinner Church meal program location",
-    "address": "420 South 30th Street",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "59101",
-    "phone": "",
-    "hours": "",
-    "lat": 45.7749981,
-    "lng": -108.502699,
     "tags": [
       "food pantry",
       "walk-in"

@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-222440",
+    "name": "New Hope Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "404 SW Polk",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66603",
+    "phone": "(785) 249-8283",
+    "hours": "",
+    "lat": 39.0563316,
+    "lng": -95.6803131,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-216525",
+    "name": "The Salvation Army - Se 6Th St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1320 SE 6th St",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66601",
+    "phone": "(785) 233-9648",
+    "hours": "",
+    "lat": 39.05711,
+    "lng": -95.67655,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-173666",
     "name": "Let's Help Inc. - Food Distribution Center",
     "category": "Food",
@@ -152,42 +190,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-222440",
-    "name": "New Hope Food Pantry",
+    "id": "fa-226207",
+    "name": "Community Action, Inc.",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "404 SW Polk",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66603",
-    "phone": "(785) 249-8283",
-    "hours": "",
-    "lat": 39.0563316,
-    "lng": -95.6803131,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-216525",
-    "name": "The Salvation Army - Se 6Th St Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1320 SE 6th St",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Topeka, KS",
     "city": "Topeka",
     "state": "KS",
     "zip": "66601",
-    "phone": "(785) 233-9648",
+    "phone": "",
     "hours": "",
     "lat": 39.05711,
     "lng": -95.67655,
     "tags": [
-      "food pantry",
+      "diaper bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-22"
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-174071",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 39.0457141,
     "lng": -95.6581608,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177840",
-    "name": "New Life Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "Topeka Turnaround Team",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66603",
-    "phone": "",
-    "hours": "",
-    "lat": 39.050976,
-    "lng": -95.670433,
     "tags": [
       "food pantry",
       "walk-in"

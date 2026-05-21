@@ -57,6 +57,44 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-125",
+    "name": "Arlington Life Shelter",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "325 W Division St",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76011",
+    "phone": "(817) 548-9885",
+    "hours": "",
+    "lat": 32.7383,
+    "lng": -97.1183,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-127",
+    "name": "First Baptist Church Arlington Pantry",
+    "category": "Food",
+    "description": "Arlington residents",
+    "address": "301 S Center St",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010",
+    "phone": "(817) 274-3387",
+    "hours": "",
+    "lat": 32.7283,
+    "lng": -97.1083,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-182765",
     "name": "Peer2Peer Whole Wellness - Fort Worth",
     "category": "Food",
@@ -152,80 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-125",
-    "name": "Arlington Life Shelter",
+    "id": "fa-577456",
+    "name": "The Pantry",
     "category": "Food",
-    "description": "Open to all",
-    "address": "325 W Division St",
-    "city": "Arlington",
-    "state": "TX",
-    "zip": "76011",
-    "phone": "(817) 548-9885",
-    "hours": "",
-    "lat": 32.7383,
-    "lng": -97.1183,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
-  },
-  {
-    "id": "fa-127",
-    "name": "First Baptist Church Arlington Pantry",
-    "category": "Food",
-    "description": "Arlington residents",
-    "address": "301 S Center St",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "520 West 1st Street",
     "city": "Arlington",
     "state": "TX",
     "zip": "76010",
-    "phone": "(817) 274-3387",
+    "phone": "",
     "hours": "",
-    "lat": 32.7283,
-    "lng": -97.1083,
+    "lat": 32.7319769,
+    "lng": -97.1075501,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-217978",
+    "name": "The Salvation Army - E Abram St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1301 E Abram St",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010",
+    "phone": "(817) 834-0322",
+    "hours": "",
+    "lat": 32.72271,
+    "lng": -97.08065,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2025-12-02"
-  },
-  {
-    "id": "fa-172228",
-    "name": "Iglesia Cafe Mobile - 2200 E Park Row Dr",
-    "category": "Food",
-    "description": "Mobile food distribution location in Arlington, Texas",
-    "address": "2200 E. Park Row Dr.",
-    "city": "Arlington",
-    "state": "TX",
-    "zip": "76010",
-    "phone": "(817) 459-3901",
-    "hours": "",
-    "lat": 32.72037,
-    "lng": -97.07089,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-174797",
-    "name": "Shepherd's Pantry - Shepherd of Life Ministry Offices",
-    "category": "Food",
-    "description": "Shepherd's Pantry is located in the Shepherd of Life Ministry Offices Building at the corner of E. Lamar Blvd and Madison Dr. Patrons enter through the doors on the west side of the building. Features air conditioning.",
-    "address": "715 E Lamar Blvd",
-    "city": "Arlington",
-    "state": "TX",
-    "zip": "76011",
-    "phone": "(817) 460-0631",
-    "hours": "",
-    "lat": 32.7653564,
-    "lng": -97.1007874,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-arlington-tx-shelter",

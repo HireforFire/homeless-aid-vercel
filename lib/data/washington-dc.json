@@ -1,5 +1,62 @@
 [
   {
+    "id": "fa-218493",
+    "name": "The Salvation Army - Harvard St Nw",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1434 Harvard St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20009",
+    "phone": "(202) 332-5000",
+    "hours": "",
+    "lat": 38.91986,
+    "lng": -77.03749,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222933",
+    "name": "Bread for the City",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1525 Seventh Street",
+    "city": "NW, Washington",
+    "state": "DC",
+    "zip": "20001",
+    "phone": "(202) 386-7601",
+    "hours": "",
+    "lat": 38.9103106,
+    "lng": -77.021587,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222944",
+    "name": "Marthas Table",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2114 14th Street NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20009",
+    "phone": "(202) 328-6608",
+    "hours": "",
+    "lat": 38.9185075,
+    "lng": -77.0323833,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-170215",
     "name": "James Apartments",
     "category": "Food",
@@ -166,63 +223,6 @@
     "lng": -77.0373422,
     "tags": [
       "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-170689",
-    "name": "Charlie's Place",
-    "category": "Food",
-    "description": "Clothing donation drop off location in Northwest Washington",
-    "address": "1820 Connecticut Avenue Northwest",
-    "city": "Northwest Washington",
-    "state": "DC",
-    "zip": "20009",
-    "phone": "",
-    "hours": "",
-    "lat": 38.9151238,
-    "lng": -77.04667630000002,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-170691",
-    "name": "St. Augustine Catholic Church",
-    "category": "Food",
-    "description": "St. Augustine Catholic Church located in Northwest Washington",
-    "address": "1419 V Street Northwest",
-    "city": "Northwest Washington",
-    "state": "DC",
-    "zip": "20009",
-    "phone": "(202) 265-1470",
-    "hours": "",
-    "lat": 38.9183275,
-    "lng": -77.032923,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-170696",
-    "name": "New York Avenue Presbyterian Church",
-    "category": "Food",
-    "description": "Main church location providing food distribution and community services.",
-    "address": "1313 New York Avenue Northwest",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "20005",
-    "phone": "(202) 393-3700",
-    "hours": "",
-    "lat": 38.8998368,
-    "lng": -77.03127640000001,
-    "tags": [
-      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

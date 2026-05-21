@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-177519",
-    "name": "St. Vincent de Paul - Council",
+    "id": "fa-219133",
+    "name": "Salvation Army-Boise",
     "category": "Food",
-    "description": "Main food pantry location",
-    "address": "3209 W Overland Rd",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "4308 W State St",
     "city": "Boise",
     "state": "ID",
-    "zip": "83705",
-    "phone": "",
+    "zip": "83703",
+    "phone": "(208) 433-4423",
     "hours": "",
-    "lat": 43.58962247781,
-    "lng": -116.221593728392,
+    "lat": 43.6352997,
+    "lng": -116.2283859,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-188950",
-    "name": "El-ada Vista - Food Distribution Center",
+    "id": "fa-219161",
+    "name": "St Mary's Church and Food Bank",
     "category": "Food",
-    "description": "Food distribution center located in Boise offering walk-up food pantry services.",
-    "address": "2250 S Vista Ave",
-    "city": "Boise",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2945 W Chinden",
+    "city": "Garden City",
     "state": "ID",
-    "zip": "83705",
-    "phone": "",
+    "zip": "83714",
+    "phone": "(208) 850-6818",
     "hours": "",
-    "lat": 43.582084699999996,
-    "lng": -116.2134181,
+    "lat": 43.6197586,
+    "lng": -116.2353668,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-boise-shelter",

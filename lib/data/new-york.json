@@ -38,6 +38,44 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-221412",
+    "name": "Sea of Galilee Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "166 Eldridge Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "(347) 949-6078",
+    "hours": "",
+    "lat": 40.7199936,
+    "lng": -73.9907532,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-226032",
+    "name": "New York Temple",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "132 West 14 Street (1 Fl)",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10011",
+    "phone": "(212) 337-7469",
+    "hours": "",
+    "lat": 40.7143517,
+    "lng": -74.0059738,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-173812",
     "name": "Project Hospitality - Canal Street",
     "category": "Food",
@@ -190,60 +228,40 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-211109",
-    "name": "Chinatown Community Fridge & Pantry",
-    "category": "Food",
-    "description": "Free, outdoor community fridge/pantry operated by local volunteers. Open 24/7.",
-    "address": "96 Baxter Street",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10013",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7171701,
-    "lng": -73.9997547,
-    "tags": [
-      "community fridge",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-211839",
-    "name": "Food Pantry at Pace University",
-    "category": "Food",
-    "description": "Pace University food pantry located at the main campus in lower Manhattan",
-    "address": "1 Pace Plaza",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10038",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7113533,
-    "lng": -74.00504269999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fallback-new-york-shelter",
-    "name": "New York Homeless Services Hotline",
+    "id": "osm-node-2629371810",
+    "name": "The Bentley Hotel",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
+    "description": "social_facility",
+    "address": "East 62nd Street 500",
     "city": "New York",
     "state": "NY",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 40.7128,
-    "lng": -74.006,
+    "phone": "(212) 644-6000",
+    "hours": "",
+    "lat": 40.7602216,
+    "lng": -73.9581709,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2765578547",
+    "name": "The Salvation Army Manhattan Citadel Corps Community Center",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "East 125th Street 145",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10035",
+    "phone": "",
+    "hours": "",
+    "lat": 40.8044048,
+    "lng": -73.9370707,
+    "tags": [
+      "shelter",
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

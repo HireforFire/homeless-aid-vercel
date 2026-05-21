@@ -133,6 +133,44 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-220015",
+    "name": "Adventist Community Service",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1705 Pulaski Pike",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35816",
+    "phone": "(265) 539-3626",
+    "hours": "",
+    "lat": 34.7433662,
+    "lng": -86.6068649,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225285",
+    "name": "Freedom house hope pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "403 treymore Avenue",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35811",
+    "phone": "(256) 293-7826",
+    "hours": "",
+    "lat": 34.7632599,
+    "lng": -86.5783463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-173905",
     "name": "Huntsville Central SDA Church",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 34.7334678,
     "lng": -86.6116167,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-191684",
-    "name": "Rose of Sharon",
-    "category": "Food",
-    "description": "Rose of Sharon food assistance and hot meal service location",
-    "address": "723 Arcadia Cir NW",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35810",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7469849,
-    "lng": -86.5989826,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-204383",
-    "name": "Ministerio Restauracion Internacional - Food Pantry",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "2998 University Dr. NW.",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35816",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7355666,
-    "lng": -86.6140969,
     "tags": [
       "food pantry",
       "walk-in"

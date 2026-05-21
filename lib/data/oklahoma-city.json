@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-219051",
+    "name": "Guild of St George",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "127 7th Street",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73102",
+    "phone": "(405) 232-2266",
+    "hours": "",
+    "lat": 35.4751663,
+    "lng": -97.5158081,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-199092",
     "name": "City Rescue Mission",
     "category": "Food",
@@ -38,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-219051",
-    "name": "Guild of St George",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "127 7th Street",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73102",
-    "phone": "(405) 232-2266",
-    "hours": "",
-    "lat": 35.4751663,
-    "lng": -97.5158081,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-448462",
     "name": "Emerson High School, Little Wonders",
     "category": "Food",
@@ -93,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-218786",
+    "name": "The Salvation Army - Nw 7Th St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2041 NW 7th St",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73106",
+    "phone": "(405) 236-3677",
+    "hours": "",
+    "lat": 35.4823,
+    "lng": -97.53662,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-172469",
@@ -204,25 +223,6 @@
     "lng": -97.4792426,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-192643",
-    "name": "Jesus House",
-    "category": "Food",
-    "description": "Jesus House - Soup Kitchen and Food Basket Program location",
-    "address": "1335 W. Sheridan Ave.",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73106",
-    "phone": "",
-    "hours": "",
-    "lat": 35.4667397,
-    "lng": -97.5366134,
-    "tags": [
-      "soup kitchen",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

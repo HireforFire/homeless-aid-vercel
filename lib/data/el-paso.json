@@ -76,6 +76,44 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-191",
+    "name": "Rescate Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1220 E Paisano Dr",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79905",
+    "phone": "(915) 532-2575",
+    "hours": "",
+    "lat": 31.7533,
+    "lng": -106.4733,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-226337",
+    "name": "Her Pantry Ministries",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "El Paso, TX",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "",
+    "hours": "",
+    "lat": 31.7597,
+    "lng": -106.48049,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-177313",
     "name": "Kelly Center for Hunger Relief",
     "category": "Food",
@@ -131,44 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-191",
-    "name": "Rescate Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "1220 E Paisano Dr",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "79905",
-    "phone": "(915) 532-2575",
-    "hours": "",
-    "lat": 31.7533,
-    "lng": -106.4733,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
-  },
-  {
-    "id": "fa-226337",
-    "name": "Her Pantry Ministries",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "El Paso, TX",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "79901",
-    "phone": "",
-    "hours": "",
-    "lat": 31.7597,
-    "lng": -106.48049,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-623",

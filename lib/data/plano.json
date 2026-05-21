@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-195927",
-    "name": "Minnie's Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location serving the Dallas/Fort Worth area.",
-    "address": "661 18th St.",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "75074",
-    "phone": "",
-    "hours": "",
-    "lat": 33.024704,
-    "lng": -96.7066229,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-225910",
     "name": "A Christian Food Pantry",
     "category": "Food",
@@ -38,6 +19,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-195927",
+    "name": "Minnie's Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location serving the Dallas/Fort Worth area.",
+    "address": "661 18th St.",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75074",
+    "phone": "",
+    "hours": "",
+    "lat": 33.024704,
+    "lng": -96.7066229,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-195435",
     "name": "Local Good Center",
     "category": "Food",
@@ -50,25 +50,6 @@
     "hours": "",
     "lat": 33.0292974,
     "lng": -96.7003225,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-174168",
-    "name": "St. Mark the Evangelist Catholic Church",
-    "category": "Food",
-    "description": "Catholic Charities food pantry operating location",
-    "address": "1100 W. 15th St.",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "75075",
-    "phone": "(972) 282-8077",
-    "hours": "",
-    "lat": 33.018947,
-    "lng": -96.7175415,
     "tags": [
       "food pantry",
       "walk-in"
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-174168",
+    "name": "St. Mark the Evangelist Catholic Church",
+    "category": "Food",
+    "description": "Catholic Charities food pantry operating location",
+    "address": "1100 W. 15th St.",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75075",
+    "phone": "(972) 282-8077",
+    "hours": "",
+    "lat": 33.018947,
+    "lng": -96.7175415,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-454876",

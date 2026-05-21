@@ -19,44 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-174823",
-    "name": "Central Downtown Food Basket",
-    "category": "Food",
-    "description": "Main food distribution location in downtown Sacramento",
-    "address": "1701 L St",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95811",
-    "phone": "(916) 761-5624",
-    "hours": "",
-    "lat": 38.575828,
-    "lng": -121.4843997,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-174676",
-    "name": "YCCA West Sacramento Family Resource Center",
-    "category": "Food",
-    "description": "Drive-through food distribution location at 1200 Anna Street.",
-    "address": "1200 Anna Street",
-    "city": "West Sacramento",
-    "state": "CA",
-    "zip": "95691",
-    "phone": "(530) 668-0690",
-    "hours": "",
-    "lat": 38.5960132,
-    "lng": -121.5318718,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218582",
     "name": "The Salvation Army - North B Street",
     "category": "Food",
@@ -95,6 +57,44 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-174823",
+    "name": "Central Downtown Food Basket",
+    "category": "Food",
+    "description": "Main food distribution location in downtown Sacramento",
+    "address": "1701 L St",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95811",
+    "phone": "(916) 761-5624",
+    "hours": "",
+    "lat": 38.575828,
+    "lng": -121.4843997,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174676",
+    "name": "YCCA West Sacramento Family Resource Center",
+    "category": "Food",
+    "description": "Drive-through food distribution location at 1200 Anna Street.",
+    "address": "1200 Anna Street",
+    "city": "West Sacramento",
+    "state": "CA",
+    "zip": "95691",
+    "phone": "(530) 668-0690",
+    "hours": "",
+    "lat": 38.5960132,
+    "lng": -121.5318718,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-451148",
     "name": "Washington",
     "category": "Food",
@@ -112,6 +112,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-441",
+    "name": "Francis House Center",
+    "category": "Food",
+    "description": "Sacramento residents",
+    "address": "431 12th St",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95814",
+    "phone": "(916) 443-2646",
+    "hours": "",
+    "lat": 38.5761,
+    "lng": -121.4861,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-226228",
+    "name": "Sacramento Food Bank & Family Services",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Sacramento, CA",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "94203",
+    "phone": "",
+    "hours": "",
+    "lat": 38.58435,
+    "lng": -121.49376,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-187524",
@@ -171,61 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-441",
-    "name": "Francis House Center",
+    "id": "fa-501",
+    "name": "Loaves & Fishes",
     "category": "Food",
-    "description": "Sacramento residents",
-    "address": "431 12th St",
+    "description": "No requirements",
+    "address": "1351 North C Street",
     "city": "Sacramento",
     "state": "CA",
-    "zip": "95814",
-    "phone": "(916) 443-2646",
+    "zip": "95811",
+    "phone": "(916) 446-0874",
     "hours": "",
-    "lat": 38.5761,
-    "lng": -121.4861,
+    "lat": 38.5916,
+    "lng": -121.4822,
     "tags": [
-      "food pantry",
+      "soup kitchen",
       "walk-in"
     ],
-    "lastUpdated": "2025-12-02"
-  },
-  {
-    "id": "fa-172678",
-    "name": "Shores of Hope - West Sacramento",
-    "category": "Food",
-    "description": "Food Closet location in West Sacramento. Call for current days and hours of operation.",
-    "address": "110 6th Street",
-    "city": "West Sacramento",
-    "state": "CA",
-    "zip": "95605",
-    "phone": "(916) 372-0200",
-    "hours": "",
-    "lat": 38.5911873,
-    "lng": -121.5140277,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-185802",
-    "name": "Shiloh Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location at Shiloh Baptist Church",
-    "address": "3565 9th Avenue",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95817",
-    "phone": "",
-    "hours": "",
-    "lat": 38.54433,
-    "lng": -121.46838,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-sacramento-shelter",

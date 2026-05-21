@@ -57,6 +57,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-783",
+    "name": "Greensboro Urban Ministry",
+    "category": "Food",
+    "description": "Guilford County",
+    "address": "305 W Gate City Blvd",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27406",
+    "phone": "(336) 271-5959",
+    "hours": "",
+    "lat": 36.0614,
+    "lng": -79.7914,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-187920",
     "name": "Room at the Inn of the Carolinas",
     "category": "Food",
@@ -74,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-225672",
+    "name": "Positive Direction for Youth and Families, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1523 Barto Place Suite E",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27405",
+    "phone": "(336) 273-8895",
+    "hours": "",
+    "lat": 36.0967293,
+    "lng": -79.7512512,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-177703",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 36.0525018,
     "lng": -79.7802986,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-212292",
-    "name": "Turning Point - Bread of Life",
-    "category": "Food",
-    "description": "Food pantry location providing groceries and food assistance.",
-    "address": "1606 Phillips Ave.",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "27405",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0985692,
-    "lng": -79.7624232,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-212472",
-    "name": "Bread of Life Food Pantry - Greensboro",
-    "category": "Food",
-    "description": "Food pantry location in Greensboro",
-    "address": "1606 Phillips Avenue",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "27405",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0985649,
-    "lng": -79.7625491,
     "tags": [
       "food pantry",
       "walk-in"

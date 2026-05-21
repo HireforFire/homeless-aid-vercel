@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-221584",
+    "name": "Southern Arizona AIDS Foundation (SAAF)",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "375 S. Euclid",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85719",
+    "phone": "(520) 547-6153",
+    "hours": "",
+    "lat": 32.2181244,
+    "lng": -110.9578857,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-173084",
     "name": "Trinity Presbyterian Church",
     "category": "Food",
@@ -95,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-221584",
-    "name": "Southern Arizona AIDS Foundation (SAAF)",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "375 S. Euclid",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85719",
-    "phone": "(520) 547-6153",
-    "hours": "",
-    "lat": 32.2181244,
-    "lng": -110.9578857,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-128302",
     "name": "CPLC Community Schools dba Hiaki High School",
     "category": "Food",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "fa-186328",
-    "name": "Neighbors Feeding Neighbors - Kitchen Location",
+    "id": "fa-739",
+    "name": "Gospel Rescue Mission Tucson",
     "category": "Food",
-    "description": "Food is available from the kitchen, which is accessible through the gate around the corner on 16th Street. The Church campus is on the corner of 5th Avenue and 16th Street, in the Armory Park neighborhood of Tucson. Near Public Transit.",
-    "address": "545 S 5th Ave",
+    "description": "Open to all",
+    "address": "707 S 2nd Ave",
     "city": "Tucson",
     "state": "AZ",
     "zip": "85701",
-    "phone": "",
+    "phone": "(520) 740-1501",
     "hours": "",
-    "lat": 32.21488,
-    "lng": -110.96669,
+    "lat": 32.2114,
+    "lng": -110.9714,
     "tags": [
-      "food pantry",
+      "soup kitchen",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-189484",
-    "name": "Caridad Community Kitchen",
+    "id": "fa-837",
+    "name": "Tucson Community Food Bank",
     "category": "Food",
-    "description": "Main location for Caridad Community Kitchen providing hot/cold meal programs and culinary classes.",
-    "address": "845 N Main Ave",
+    "description": "Downtown Tucson",
+    "address": "217 S 6th Ave",
     "city": "Tucson",
     "state": "AZ",
-    "zip": "85705",
-    "phone": "",
+    "zip": "85701",
+    "phone": "(520) 622-1545",
     "hours": "",
-    "lat": 32.2325493,
-    "lng": -110.9782796,
+    "lat": 32.2214,
+    "lng": -110.9614,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-tucson-shelter",

@@ -171,44 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173321",
-    "name": "MBA Love Loud Matthew 25 Ministries",
-    "category": "Food",
-    "description": "Food pantry location providing food assistance.",
-    "address": "1551 E. Ann St.",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36107",
-    "phone": "(334) 269-5726",
-    "hours": "",
-    "lat": 32.3621978,
-    "lng": -86.270493,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214189",
-    "name": "The Salvation Army - Montgomery",
-    "category": "Food",
-    "description": "The Salvation Army location providing food pantry and soup kitchen services.",
-    "address": "3460 Carter Hill Rd.",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36111",
-    "phone": "",
-    "hours": "",
-    "lat": 32.3787742,
-    "lng": -86.3266235,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218443",
     "name": "The Salvation Army - Crawford St",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224445",
+    "name": "Montgomery Area Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "521 Trade Center St.",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36108",
+    "phone": "(334) 263-3784",
+    "hours": "",
+    "lat": 32.3717918,
+    "lng": -86.3451385,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-216972",
+    "name": "The Salvation Army - Highland Ave Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2840 Highland Ave",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36107",
+    "phone": "(334) 265-0281",
+    "hours": "",
+    "lat": 32.38434,
+    "lng": -86.2795,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fallback-montgomery-shelter",

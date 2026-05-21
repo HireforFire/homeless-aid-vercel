@@ -57,6 +57,44 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-163",
+    "name": "Salvation Army - Austin",
+    "category": "Food",
+    "description": "Walk-ins welcome",
+    "address": "501 E 8th St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 476-1111",
+    "hours": "",
+    "lat": 30.2677,
+    "lng": -97.739,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-169",
+    "name": "Trinity Center",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "304 E 7th St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 472-1231",
+    "hours": "",
+    "lat": 30.2683,
+    "lng": -97.7383,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-178911",
     "name": "Austin Public Library",
     "category": "Food",
@@ -133,99 +171,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-163",
-    "name": "Salvation Army - Austin",
+    "id": "fa-13342",
+    "name": "Caritas of Austin",
     "category": "Food",
-    "description": "Walk-ins welcome",
-    "address": "501 E 8th St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "611 Neches Street",
     "city": "Austin",
     "state": "TX",
     "zip": "78701",
-    "phone": "(512) 476-1111",
+    "phone": "(512) 479-4610",
     "hours": "",
-    "lat": 30.2677,
-    "lng": -97.739,
+    "lat": 30.27022,
+    "lng": -97.74248,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2025-12-02"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-169",
-    "name": "Trinity Center",
+    "id": "fa-622",
+    "name": "Austin Resource Center",
     "category": "Food",
-    "description": "Open to all",
-    "address": "304 E 7th St",
+    "description": "Austin area",
+    "address": "500 E 7th Street",
     "city": "Austin",
     "state": "TX",
     "zip": "78701",
-    "phone": "(512) 472-1231",
+    "phone": "(512) 305-4100",
     "hours": "",
-    "lat": 30.2683,
-    "lng": -97.7383,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
-  },
-  {
-    "id": "fa-172237",
-    "name": "Pathways at Goodrich Place",
-    "category": "Food",
-    "description": "Senior food distribution site (Seniors Only)",
-    "address": "2126 Goodrich Ave.",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78704",
-    "phone": "(855) 366-3401",
-    "hours": "",
-    "lat": 30.2484012,
-    "lng": -97.7750068,
+    "lat": 30.2672,
+    "lng": -97.7361,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-175143",
-    "name": "Foundation Communities - M Station",
+    "id": "fa-219929",
+    "name": "Micah 6 of Austin",
     "category": "Food",
-    "description": "Food Pantry located outside of leasing office at M Station",
-    "address": "2906 E. Martin Luther King Blvd.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2203 San Antonio St",
     "city": "Austin",
     "state": "TX",
-    "zip": "78702",
-    "phone": "(512) 617-3037",
+    "zip": "78705",
+    "phone": "(512) 473-0088",
     "hours": "",
-    "lat": 30.2830432,
-    "lng": -97.7079826,
+    "lat": 30.2855015,
+    "lng": -97.7425766,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-189904",
-    "name": "East Austin Neighborhood Center",
-    "category": "Food",
-    "description": "City of Austin neighborhood center providing food distribution services",
-    "address": "211 Comal St.",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78702",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2594978,
-    "lng": -97.7274974,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-austin-shelter",

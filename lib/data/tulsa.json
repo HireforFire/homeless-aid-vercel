@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-184883",
-    "name": "Helping Hand Ministry",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "712 S. Boston Ave.",
-    "city": "Tulsa",
-    "state": "OK",
-    "zip": "74119",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1493958,
-    "lng": -95.9877896,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-174264",
-    "name": "Restore Hope Ministries, Inc.",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "2960 Charles Page Blvd.",
-    "city": "Tulsa",
-    "state": "OK",
-    "zip": "74127",
-    "phone": "(918) 582-5766",
-    "hours": "",
-    "lat": 36.151034,
-    "lng": -96.024499,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218542",
     "name": "The Salvation Army - N Denver Ave",
     "category": "Food",
@@ -114,6 +76,44 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-184883",
+    "name": "Helping Hand Ministry",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "712 S. Boston Ave.",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74119",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1493958,
+    "lng": -95.9877896,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174264",
+    "name": "Restore Hope Ministries, Inc.",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "2960 Charles Page Blvd.",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74127",
+    "phone": "(918) 582-5766",
+    "hours": "",
+    "lat": 36.151034,
+    "lng": -96.024499,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-204903",
     "name": "Tulsa Housing Authority - Pioneer Plaza",
     "category": "Food",
@@ -171,44 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-198038",
-    "name": "St Paul's Manna Meals",
-    "category": "Food",
-    "description": "St Paul's Manna Meals location affiliated with Food Bank of Eastern Oklahoma",
-    "address": "1442 S. Quaker Ave.",
-    "city": "Tulsa",
-    "state": "OK",
-    "zip": "74120",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1409647,
-    "lng": -95.9747897,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-207302",
-    "name": "John 3:16 Family Ministry",
-    "category": "Food",
-    "description": "Food pantry location providing groceries and household goods by appointment",
-    "address": "2027 MLK Jr Blvd.",
-    "city": "Tulsa",
-    "state": "OK",
-    "zip": "74106",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1832836,
-    "lng": -95.9930442,
-    "tags": [
-      "food pantry",
-      "appointment"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-12056",
     "name": "Iron Gate",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-222768",
+    "name": "John 3:16 Mission",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2027 N. Cincinnati Ave.",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74106",
+    "phone": "(928) 592-1186",
+    "hours": "",
+    "lat": 36.183403,
+    "lng": -95.9935989,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218747",
+    "name": "The Salvation Army - N Martin Luther King Jr Blvd",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3001 N Martin Luther King Jr Blvd",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74106",
+    "phone": "(918) 425-7534",
+    "hours": "",
+    "lat": 36.19191,
+    "lng": -95.98416,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-tulsa-shelter",

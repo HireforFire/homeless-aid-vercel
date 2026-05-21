@@ -38,6 +38,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-220980",
+    "name": "Needs Cleveland",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "7710 Lorain Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44102",
+    "phone": "(216) 400-8213",
+    "hours": "",
+    "lat": 41.4725189,
+    "lng": -81.7373581,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-175818",
     "name": "Hunger Network",
     "category": "Food",
@@ -93,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-220980",
-    "name": "Needs Cleveland",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "7710 Lorain Ave",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44102",
-    "phone": "(216) 400-8213",
-    "hours": "",
-    "lat": 41.4725189,
-    "lng": -81.7373581,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-442261",

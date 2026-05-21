@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-25"
   },
   {
-    "id": "fa-174475",
-    "name": "Brooks Worship Center",
-    "category": "Food",
-    "description": "Food pantry distribution location at Brooks Worship Center.",
-    "address": "2101 N. Port Ave.",
-    "city": "Corpus Christi",
-    "state": "TX",
-    "zip": "78401",
-    "phone": "(361) 452-6864",
-    "hours": "",
-    "lat": 27.8048196,
-    "lng": -97.4102119,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-186692",
     "name": "Oveal Williams Senior Center",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-174475",
+    "name": "Brooks Worship Center",
+    "category": "Food",
+    "description": "Food pantry distribution location at Brooks Worship Center.",
+    "address": "2101 N. Port Ave.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "(361) 452-6864",
+    "hours": "",
+    "lat": 27.8048196,
+    "lng": -97.4102119,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-173071",

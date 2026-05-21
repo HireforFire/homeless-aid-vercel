@@ -171,6 +171,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-220951",
+    "name": "The Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1905 Henderson",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "59601",
+    "phone": "(406) 442-8244",
+    "hours": "",
+    "lat": 46.6078758,
+    "lng": -112.0512009,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-170948",
     "name": "The Salvation Army - Helena Corps",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-220951",
-    "name": "The Salvation Army",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1905 Henderson",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "59601",
-    "phone": "(406) 442-8244",
-    "hours": "",
-    "lat": 46.6078758,
-    "lng": -112.0512009,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-helena-shelter",

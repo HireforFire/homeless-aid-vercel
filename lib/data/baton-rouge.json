@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-226201",
+    "name": "Junior League of Baton Rouge Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Baton Rouge, LA",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70801",
+    "phone": "",
+    "hours": "",
+    "lat": 30.44954,
+    "lng": -91.18608,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-179705",
     "name": "East Baton Rouge Council on Aging",
     "category": "Food",
@@ -133,6 +152,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-216796",
+    "name": "The Salvation Army - Airline Hwy Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "7361 Airline Hwy",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70805",
+    "phone": "(225) 355-4483",
+    "hours": "",
+    "lat": 30.48831,
+    "lng": -91.15951,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-172405",
     "name": "True Light Multi Center",
     "category": "Food",
@@ -188,44 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-215623",
-    "name": "Catholic Charities - Baton Rouge",
-    "category": "Food",
-    "description": "Main food distribution location for Catholic Charities in Baton Rouge, serving East Baton Rouge Parish.",
-    "address": "1900 S. Acadian Thruway",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "70808",
-    "phone": "",
-    "hours": "",
-    "lat": 30.43077,
-    "lng": -91.15487,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-226201",
-    "name": "Junior League of Baton Rouge Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Baton Rouge, LA",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "70801",
-    "phone": "",
-    "hours": "",
-    "lat": 30.44954,
-    "lng": -91.18608,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fallback-baton-rouge-shelter",

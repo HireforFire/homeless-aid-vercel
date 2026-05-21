@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-224669",
+    "name": "Needs, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "900 Central Avenue",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82007",
+    "phone": "(307) 632-4132",
+    "hours": "",
+    "lat": 41.1270065,
+    "lng": -104.8103714,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-170501",
     "name": "St. Mark's Episcopal Church",
     "category": "Food",
@@ -95,23 +114,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-224669",
-    "name": "Needs, Inc.",
+    "id": "fa-150553",
+    "name": "Comea Shelter",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "900 Central Avenue",
+    "address": "1504 Stinson Ave",
     "city": "Cheyenne",
     "state": "WY",
-    "zip": "82007",
-    "phone": "(307) 632-4132",
+    "zip": "82001",
+    "phone": "(307) 632-3174",
     "hours": "",
-    "lat": 41.1270065,
-    "lng": -104.8103714,
+    "lat": 41.14,
+    "lng": -104.8202,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-150554",
+    "name": "Feed a Family",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "601 E. 20th Street",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 632-2331",
+    "hours": "",
+    "lat": 41.14,
+    "lng": -104.8202,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-171794",
@@ -133,6 +171,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-150518",
+    "name": "Food Bank of Wyoming",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "2248 Reed Avenue",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 265-2172",
+    "hours": "",
+    "lat": 41.14,
+    "lng": -104.8202,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-225277",
+    "name": "God's Cupboard",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2602 Deming Blvd",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 632-4488",
+    "hours": "",
+    "lat": 41.1453171,
+    "lng": -104.7848206,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-170442",
     "name": "True Vine Community Church",
     "category": "Food",
@@ -145,82 +221,6 @@
     "hours": "",
     "lat": 41.11925,
     "lng": -104.80923,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-170626",
-    "name": "St. Joseph's Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location in Cheyenne, Wyoming. Walk-up access available.",
-    "address": "206 Van Lennen Ave",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82007",
-    "phone": "(307) 275-0567",
-    "hours": "",
-    "lat": 41.1225573,
-    "lng": -104.80207829999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-170925",
-    "name": "Wyoming Coalition For The Homeless - Food Distribution Center",
-    "category": "Food",
-    "description": "Main food distribution center in Cheyenne, Wyoming.",
-    "address": "907 Logan Ave",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "",
-    "hours": "",
-    "lat": 41.134051899999996,
-    "lng": -104.79251769999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-170965",
-    "name": "Community Action of Laramie County Inc. - Main Office",
-    "category": "Food",
-    "description": "Main office location in Cheyenne",
-    "address": "1700 Westland Rd",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "",
-    "hours": "",
-    "lat": 41.1251633,
-    "lng": -104.8394503,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-171313",
-    "name": "Element Church Food Pantry",
-    "category": "Food",
-    "description": "Element Church food pantry location in Cheyenne, Wyoming.",
-    "address": "600 E Carlson St #201",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82009",
-    "phone": "",
-    "hours": "",
-    "lat": 41.172084999999996,
-    "lng": -104.819845,
     "tags": [
       "food pantry",
       "walk-in"

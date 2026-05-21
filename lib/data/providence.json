@@ -114,44 +114,6 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "fa-187893",
-    "name": "Camp Street Ministries - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located on Camp Street in Providence.",
-    "address": "190 1/2 Camp St",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "02906",
-    "phone": "",
-    "hours": "",
-    "lat": 41.843798799999995,
-    "lng": -71.40232569999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-188301",
-    "name": "East Bay Baptist Church",
-    "category": "Food",
-    "description": "Food pantry location at East Bay Baptist Church",
-    "address": "10 James St",
-    "city": "East Providence",
-    "state": "RI",
-    "zip": "02914",
-    "phone": "",
-    "hours": "",
-    "lat": 41.8199561,
-    "lng": -71.3753613,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218793",
     "name": "The Salvation Army - Pitman Street",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 41.8209114,
     "lng": -71.3912277,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220554",
+    "name": "Louis & Goldie Chester Full Plate Kosher Food Paantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "100 Niantic Ave.",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02860",
+    "phone": "(401) 621-5374",
+    "hours": "",
+    "lat": 41.7999191,
+    "lng": -71.4387207,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221746",
+    "name": "Project Outreach",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1520 Broad Street",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02908",
+    "phone": "(401) 941-2212",
+    "hours": "",
+    "lat": 41.7860756,
+    "lng": -71.4013748,
     "tags": [
       "food pantry",
       "walk-in"

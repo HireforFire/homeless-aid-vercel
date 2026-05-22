@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-457689",
-    "name": "Lowell Elementary School",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (25 funded slots)",
-    "address": "710 W 18th St",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57104",
-    "phone": "(605) 367-8378",
-    "hours": "",
-    "lat": 43.537071,
-    "lng": -96.735935,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-150535",
     "name": "Salvation Army - Sioux Falls",
     "category": "Food",
@@ -164,6 +145,25 @@
     "hours": "",
     "lat": 43.551881994843,
     "lng": -96.714772934427,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178490",
+    "name": "Lowell Elementary",
+    "category": "Food",
+    "description": "Lowell Elementary school location providing BackPack Program services.",
+    "address": "710 W 18th St.",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "",
+    "hours": "",
+    "lat": 43.536995734804,
+    "lng": -96.73612030071,
     "tags": [
       "food pantry",
       "walk-in"

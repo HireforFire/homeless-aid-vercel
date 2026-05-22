@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-447293",
-    "name": "Lincoln Early Learning Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "300 W Fort St",
-    "city": "Boise",
-    "state": "ID",
-    "zip": "83702",
-    "phone": "(208) 854-5522",
-    "hours": "",
-    "lat": 43.617041,
-    "lng": -116.192601,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-179322",
     "name": "Boise Rescue Mission River of Life - Food Distribution Center",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 43.6197586,
     "lng": -116.2353668,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219173",
+    "name": "Community Support Center Advocates",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "716 N Orchard",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83706",
+    "phone": "(208) 429-0330",
+    "hours": "",
+    "lat": 43.6113052,
+    "lng": -116.2430649,
     "tags": [
       "food pantry",
       "walk-in"

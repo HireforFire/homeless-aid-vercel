@@ -190,25 +190,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-442386",
-    "name": "2nd Street/Blooming Minds EHS Home Visiting Program",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (104 funded slots)",
-    "address": "1510 E 2nd St N",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67214",
-    "phone": "(316) 269-1990",
-    "hours": "",
-    "lat": 37.690147,
-    "lng": -97.320354,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-200243",
     "name": "Salvation Army ICT - Emergency Services",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 37.6911575,
     "lng": -97.3365782,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201461",
+    "name": "Inter-Faith Inn (Ministries) - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Wichita, Kansas.",
+    "address": "320 E Central Ave",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67202",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6937125,
+    "lng": -97.33482769999999,
     "tags": [
       "food pantry",
       "walk-in"

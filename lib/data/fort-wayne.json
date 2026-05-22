@@ -114,44 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-452922",
-    "name": "East Wayne Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (68 funded slots)",
-    "address": "825 Francis St",
-    "city": "Fort Wayne",
-    "state": "IN",
-    "zip": "46803",
-    "phone": "(260) 422-6503",
-    "hours": "",
-    "lat": 41.080447,
-    "lng": -85.127736,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-452926",
-    "name": "Early Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (103 funded slots)",
-    "address": "227 E Washington Blvd",
-    "city": "Fort Wayne",
-    "state": "IN",
-    "zip": "46802",
-    "phone": "(260) 420-2833",
-    "hours": "",
-    "lat": 41.077902,
-    "lng": -85.136349,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-184432",
     "name": "Body of Christ 7th Day Adventist - Food Distribution Center",
     "category": "Food",
@@ -185,6 +147,25 @@
     "lng": -85.1262586,
     "tags": [
       "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189631",
+    "name": "Bright Point - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Fort Wayne.",
+    "address": "227 E Washington Blvd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46802",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0779017,
+    "lng": -85.136349,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218914",
+    "name": "Haven Missionary",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "845 West Creighton",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46807",
+    "phone": "(260) 744-9190",
+    "hours": "",
+    "lat": 41.0641022,
+    "lng": -85.1496658,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-fort-wayne-shelter",

@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-457384",
-    "name": "West Elementary",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (30 funded slots)",
-    "address": "4051 15th St",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "39501",
-    "phone": "(662) 325-3083",
-    "hours": "",
-    "lat": 30.368077,
-    "lng": -89.110023,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-210296",
     "name": "The Salvation Army Food Pantry - Gulf Port",
     "category": "Food",
@@ -131,101 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-453324",
-    "name": "Isiah Fredericks Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (334 funded slots)",
-    "address": "3410 Jackson St",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "39501",
-    "phone": "(228) 822-0755",
-    "hours": "",
-    "lat": 30.405232,
-    "lng": -89.102015,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-457379",
-    "name": "Gaston Point",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (37 funded slots)",
-    "address": "1526 Mills Ave",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "39501",
-    "phone": "(228) 731-3548",
-    "hours": "",
-    "lat": 30.369271,
-    "lng": -89.123698,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-457381",
-    "name": "Central Elementary",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (15 funded slots)",
-    "address": "1043 Pass Rd",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "39501",
-    "phone": "(662) 325-3083",
-    "hours": "",
-    "lat": 30.385183,
-    "lng": -89.070179,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-457383",
-    "name": "Twenty-Eighth Street Elementary",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (15 funded slots)",
-    "address": "3034 46th Ave",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "39501",
-    "phone": "(662) 325-3083",
-    "hours": "",
-    "lat": 30.389028,
-    "lng": -89.115652,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-445922",
-    "name": "Bayou View",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "55 Fifty First Street",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "39507",
-    "phone": "(228) 206-3515",
-    "hours": "",
-    "lat": 30.412921,
-    "lng": -89.049624,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fallback-gulfport-shelter",

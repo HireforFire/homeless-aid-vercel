@@ -114,25 +114,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-443872",
-    "name": "Holy Cross Main",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (110 funded slots)",
-    "address": "150 Maryland St",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14201",
-    "phone": "(716) 852-8373",
-    "hours": "",
-    "lat": 42.895004,
-    "lng": -78.886722,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-226181",
     "name": "Every Bottom Covered",
     "category": "Food",
@@ -218,6 +199,25 @@
     "state": "NY",
     "zip": "14204",
     "phone": "(716) 854-0288",
+    "hours": "",
+    "lat": 42.8889,
+    "lng": -78.8689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-588",
+    "name": "Catholic Charities Buffalo",
+    "category": "Food",
+    "description": "Buffalo area",
+    "address": "525 Washington Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14203",
+    "phone": "(716) 856-4494",
     "hours": "",
     "lat": 42.8889,
     "lng": -78.8689,

@@ -171,61 +171,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-449171",
-    "name": "Theodore M. Berry Center",
+    "id": "fa-663",
+    "name": "Freestore Foodbank",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (68 funded slots)",
-    "address": "880 W Court St",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45203",
-    "phone": "(513) 569-0123",
-    "hours": "",
-    "lat": 39.106376,
-    "lng": -84.529227,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-449190",
-    "name": "Rothenberg Preparatory Academy",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (36 funded slots)",
-    "address": "241 E Clifton Ave",
+    "description": "Southwest OH",
+    "address": "1141 Central Pkwy",
     "city": "Cincinnati",
     "state": "OH",
     "zip": "45202",
-    "phone": "(513) 363-5700",
+    "phone": "(513) 482-7550",
     "hours": "",
-    "lat": 39.113911,
-    "lng": -84.512731,
+    "lat": 39.1114,
+    "lng": -84.5214,
     "tags": [
-      "head start",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-449207",
-    "name": "Hays-Porter School",
+    "id": "fa-763",
+    "name": "Over the Rhine Community Food Pantry",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "1030 Cutter St",
+    "description": "Downtown",
+    "address": "1435 Vine St",
     "city": "Cincinnati",
     "state": "OH",
-    "zip": "45203",
-    "phone": "(513) 363-1000",
+    "zip": "45202",
+    "phone": "(513) 241-4135",
     "hours": "",
-    "lat": 39.105861,
-    "lng": -84.525588,
+    "lat": 39.1114,
+    "lng": -84.5164,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-226236",
+    "name": "Sweet Cheeks Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Cincinnati, OH",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45201",
+    "phone": "",
+    "hours": "",
+    "lat": 39.10879,
+    "lng": -84.50125,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fallback-cincinnati-shelter",

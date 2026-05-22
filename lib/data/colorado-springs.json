@@ -76,120 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-442130",
-    "name": "Early Connections ANTLERS PLACE",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (22 funded slots)",
-    "address": "108 Antlers Pl",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(719) 635-1536",
-    "hours": "",
-    "lat": 38.833274,
-    "lng": -104.827372,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-442132",
-    "name": "Early Connections RIO GRANDE",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (14 funded slots)",
-    "address": "104 E Rio Grande St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(719) 635-1536",
-    "hours": "",
-    "lat": 38.824493,
-    "lng": -104.823928,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-442142",
-    "name": "HUNT",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (30 funded slots)",
-    "address": "917 E Moreno Ave",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(719) 635-1536",
-    "hours": "",
-    "lat": 38.82463,
-    "lng": -104.807077,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-216200",
-    "name": "Trinity United Methodist Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "701 N 20th St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80909",
-    "phone": "(941) 625-3372",
-    "hours": "",
-    "lat": 38.84914,
-    "lng": -104.851433,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-216219",
-    "name": "Pike’s Peak Biker’s Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1505 E Monument St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80909",
-    "phone": "(719) 600-9894",
-    "hours": "",
-    "lat": 38.842571,
-    "lng": -104.798286,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-216227",
-    "name": "Food to Power",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1090 S Institute St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(719) 470-2737",
-    "hours": "",
-    "lat": 38.817623,
-    "lng": -104.809013,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-193978",
     "name": "Mill Street Neighborhood - Mobile Pantry Stop",
     "category": "Food",
@@ -226,6 +112,120 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200504",
+    "name": "Marian House Kitchen",
+    "category": "Food",
+    "description": "Hot/Cold Meal Program location",
+    "address": "14 W Bijou St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8374423,
+    "lng": -104.8263552,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-2793",
+    "name": "St. Johns Baptist Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "902 S. Prospect St.",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(388) 634-5687",
+    "hours": "",
+    "lat": 38.83249,
+    "lng": -104.81342,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2801",
+    "name": "Springs Rescue Mission",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "5 W Las Vegas Street",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(719) 632-1822",
+    "hours": "",
+    "lat": 38.83249,
+    "lng": -104.81342,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2807",
+    "name": "Marian House Kitchen and Marketplace Food Pantry",
+    "category": "Food",
+    "description": "appointment",
+    "address": "14 W Bijou Street",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(719) 475-7314",
+    "hours": "",
+    "lat": 38.83249,
+    "lng": -104.81342,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-220122",
+    "name": "Living Faith Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2120 King St.",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80904",
+    "phone": "(719) 217-9551",
+    "hours": "",
+    "lat": 38.857151,
+    "lng": -104.853035,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-216200",
+    "name": "Trinity United Methodist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "701 N 20th St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80909",
+    "phone": "(941) 625-3372",
+    "hours": "",
+    "lat": 38.84914,
+    "lng": -104.851433,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fallback-colorado-springs-shelter",

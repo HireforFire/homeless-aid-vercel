@@ -152,44 +152,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-446109",
-    "name": "Santa Rosa",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (53 funded slots)",
-    "address": "1065 S 10th Ave",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85701",
-    "phone": "(520) 382-1500",
-    "hours": "",
-    "lat": 32.208586,
-    "lng": -110.974584,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-446145",
-    "name": "Blake-Children's Achievement Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (9 funded slots)",
-    "address": "330 N Commerce Park Loop Ste 100",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85745",
-    "phone": "(520) 325-6495",
-    "hours": "",
-    "lat": 32.224822,
-    "lng": -110.983081,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-739",
     "name": "Gospel Rescue Mission Tucson",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-226176",
+    "name": "Diaper Bank of Southern Arizona",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Tucson, AZ",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "",
+    "hours": "",
+    "lat": 32.21702,
+    "lng": -110.97138,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-186328",
+    "name": "Neighbors Feeding Neighbors - Kitchen Location",
+    "category": "Food",
+    "description": "Food is available from the kitchen, which is accessible through the gate around the corner on 16th Street. The Church campus is on the corner of 5th Avenue and 16th Street, in the Armory Park neighborhood of Tucson. Near Public Transit.",
+    "address": "545 S 5th Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "",
+    "hours": "",
+    "lat": 32.21488,
+    "lng": -110.96669,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-tucson-shelter",

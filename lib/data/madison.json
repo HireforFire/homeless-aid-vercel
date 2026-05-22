@@ -152,80 +152,80 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-452331",
-    "name": "Great Beginnings Arbor Hills",
+    "id": "fa-226226",
+    "name": "Pregnancy Helpline, Inc. of Madison",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "2821 Todd Dr",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Madison, WI",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53701",
+    "phone": "",
+    "hours": "",
+    "lat": 43.07284,
+    "lng": -89.37928,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-175573",
+    "name": "Boys & Girls Club Taft Community",
+    "category": "Food",
+    "description": "Boys & Girls Club facility located on Taft Street in Madison, Wisconsin.",
+    "address": "2001 Taft St",
     "city": "Madison",
     "state": "WI",
     "zip": "53713",
-    "phone": "(608) 270-3485",
+    "phone": "",
     "hours": "",
-    "lat": 43.033734,
-    "lng": -89.422539,
+    "lat": 43.044124824481,
+    "lng": -89.392472491317,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-452332",
-    "name": "The Playing Field",
+    "id": "fa-175931",
+    "name": "DAIS: Domestic Abuse Intervention Services",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (16 funded slots)",
-    "address": "3910 Mineral Point Rd",
+    "description": "Main office location for DAIS",
+    "address": "2102 Fordem Ave.",
     "city": "Madison",
     "state": "WI",
-    "zip": "53705",
-    "phone": "(608) 213-3798",
+    "zip": "53704",
+    "phone": "",
     "hours": "",
-    "lat": 43.06126,
-    "lng": -89.440969,
+    "lat": 43.099447355186,
+    "lng": -89.36445103463,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-452333",
-    "name": "Pequenos Traviesos LLC",
+    "id": "fa-176338",
+    "name": "Catholic Multicultural Center (CMC) Food Pantry",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (20 funded slots)",
-    "address": "21 Nygard St",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53713",
-    "phone": "(608) 275-6740",
-    "hours": "",
-    "lat": 43.040651,
-    "lng": -89.385394,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-459683",
-    "name": "South Madison Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
-    "address": "3201 Latham Dr",
+    "description": "Food pantry location at the Catholic Multicultural Center.",
+    "address": "1862 Beld St.",
     "city": "Madison",
     "state": "WI",
     "zip": "53713",
-    "phone": "(608) 275-6740",
+    "phone": "",
     "hours": "",
-    "lat": 43.02971,
-    "lng": -89.403344,
+    "lat": 43.045932884815,
+    "lng": -89.393535400458,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-madison-shelter",

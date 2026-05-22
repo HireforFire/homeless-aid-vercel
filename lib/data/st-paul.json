@@ -95,23 +95,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-450527",
-    "name": "Mt Airy",
+    "id": "fa-175954",
+    "name": "Shobis Table @ Frogtown – Faith Lutheran",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (91 funded slots)",
-    "address": "91 Arch St E",
+    "description": "Pay-as-you-can food truck location serving fresh cooked lunches in St Paul",
+    "address": "499 Charles Avenue",
     "city": "Saint Paul",
     "state": "MN",
-    "zip": "55130",
-    "phone": "(651) 228-3196",
+    "zip": "55101",
+    "phone": "",
     "hours": "",
-    "lat": 44.960557,
-    "lng": -93.095681,
+    "lat": 44.957819476238,
+    "lng": -93.120366927758,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183456",
+    "name": "Loaves & Fishes at St. Matthews",
+    "category": "Food",
+    "description": "Free meal service location at St. Matthews Catholic Church",
+    "address": "510 Hall Ave",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "55107",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9306464,
+    "lng": -93.086366,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-177345",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 44.9477158,
     "lng": -93.1218262,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219886",
-    "name": "The Salvation Army Eastside",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1019 Payne Avenue",
-    "city": "Saint Paul",
-    "state": "MN",
-    "zip": "55130",
-    "phone": "(651) 776-2653",
-    "hours": "",
-    "lat": 44.9717865,
-    "lng": -93.0738831,
     "tags": [
       "food pantry",
       "walk-in"

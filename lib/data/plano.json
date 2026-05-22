@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-454876",
-    "name": "Plano ISD Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (146 funded slots)",
-    "address": "1600 Rigsbee Dr",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "75074",
-    "phone": "(469) 752-7160",
-    "hours": "",
-    "lat": 33.023346,
-    "lng": -96.676966,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-187274",
     "name": "God's Pantry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 33.03298,
     "lng": -96.67304,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13497",
+    "name": "Salvation Army Ridgewood Citadel Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "(718) 497-4356",
+    "city": "Collin County",
+    "state": "TX",
+    "zip": "75082",
+    "phone": "(718) 497-4356",
+    "hours": "",
+    "lat": 32.99208,
+    "lng": -96.66536,
     "tags": [
       "food pantry",
       "walk-in"

@@ -133,63 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-452835",
-    "name": "Kimmins Head Start/Early Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (18 funded slots)",
-    "address": "1502 E 2nd Ave",
-    "city": "Tampa",
-    "state": "FL",
-    "zip": "33605",
-    "phone": "(813) 272-6128",
-    "hours": "",
-    "lat": 27.956893,
-    "lng": -82.442343,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-452849",
-    "name": "Tampa Heights",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (60 funded slots)",
-    "address": "175 E Frances Ave",
-    "city": "Tampa",
-    "state": "FL",
-    "zip": "33602",
-    "phone": "(813) 209-1047",
-    "hours": "",
-    "lat": 27.965035,
-    "lng": -82.459806,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-452870",
-    "name": "Washington, BT",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "1407 Estelle St",
-    "city": "Tampa",
-    "state": "FL",
-    "zip": "33605",
-    "phone": "(813) 233-3720",
-    "hours": "",
-    "lat": 27.958979,
-    "lng": -82.450206,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-325",
     "name": "Catholic Charities - Tampa",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-178883",
+    "name": "Palm Ave Baptist Tower Inc.",
+    "category": "Food",
+    "description": "Main distribution location for Palm Ave Baptist Tower Inc.",
+    "address": "215 East Palm Avenue",
+    "city": "Tampa Heights",
+    "state": "FL",
+    "zip": "33602",
+    "phone": "",
+    "hours": "",
+    "lat": 27.961681,
+    "lng": -82.4586501,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180753",
+    "name": "Rise Tampa",
+    "category": "Food",
+    "description": "Rise Tampa food distribution location in Tampa, Florida. Affiliated with Feeding Tampa Bay.",
+    "address": "411 N Franklin St",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33602",
+    "phone": "",
+    "hours": "",
+    "lat": 27.948375,
+    "lng": -82.457779,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189098",
+    "name": "HARTPLUS PARATRANSIT",
+    "category": "Food",
+    "description": "HARTPLUS PARATRANSIT office and service location",
+    "address": "1201 East 7th Avenue",
+    "city": "Ybor City",
+    "state": "FL",
+    "zip": "33605",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9597748,
+    "lng": -82.446407,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-tampa-shelter",

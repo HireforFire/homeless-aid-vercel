@@ -76,25 +76,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-452692",
-    "name": "Ivory M. Conley Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (17 funded slots)",
-    "address": "1225 S Wood Ave",
-    "city": "Fayetteville",
-    "state": "AR",
-    "zip": "72701",
-    "phone": "(479) 571-4710",
-    "hours": "",
-    "lat": 36.05212,
-    "lng": -94.154189,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-186627",
     "name": "St. James Food Pantry",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220845",
+    "name": "The Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "219 W 15th St",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0474663,
+    "lng": -94.1623001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-fayetteville-ar-shelter",

@@ -209,18 +209,18 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-220269",
-    "name": "The Salvation Army",
+    "id": "fa-219631",
+    "name": "Cambridge Women's Center",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "258 Chestnut Street",
-    "city": "Chelsea",
+    "address": "46 Pleasant St.",
+    "city": "Cambridge",
     "state": "MA",
-    "zip": "02150",
-    "phone": "(617) 884-0260",
+    "zip": "02139",
+    "phone": "(617) 354-6394",
     "hours": "",
-    "lat": 42.3938332,
-    "lng": -71.0348053,
+    "lat": 42.3637276,
+    "lng": -71.1084824,
     "tags": [
       "food pantry",
       "walk-in"

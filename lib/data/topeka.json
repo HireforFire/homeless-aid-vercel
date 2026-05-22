@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-216525",
-    "name": "The Salvation Army - Se 6Th St Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1320 SE 6th St",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66601",
-    "phone": "(785) 233-9648",
-    "hours": "",
-    "lat": 39.05711,
-    "lng": -95.67655,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-173666",
     "name": "Let's Help Inc. - Food Distribution Center",
     "category": "Food",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216525",
+    "name": "The Salvation Army - Se 6Th St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1320 SE 6th St",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66601",
+    "phone": "(785) 233-9648",
+    "hours": "",
+    "lat": 39.05711,
+    "lng": -95.67655,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-226207",

@@ -38,63 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-442914",
-    "name": "Hamilton",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "130 N Hamilton St Ofc 26",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85225",
-    "phone": "(602) 372-3700",
-    "hours": "",
-    "lat": 33.305017,
-    "lng": -111.833374,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-442919",
-    "name": "Palm Lane",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "660 S Palm Ln",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85225",
-    "phone": "(602) 372-3700",
-    "hours": "",
-    "lat": 33.294145,
-    "lng": -111.846705,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-442930",
-    "name": "Sonrise",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (31 funded slots)",
-    "address": "800 W Galveston St",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85225",
-    "phone": "(602) 372-3700",
-    "hours": "",
-    "lat": 33.313757,
-    "lng": -111.85591,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-207908",
     "name": "Restoration Community Center",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-439299",
+    "name": "Rucker Rest Holdings LLC dba Jack in The Box 138",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "141 N Arizona Ave",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85224",
+    "phone": "",
+    "hours": "",
+    "lat": 33.30539,
+    "lng": -111.8411,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-440290",
+    "name": "McDONALD'S   11552",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "990 N. ARIZONA  AVENUE",
+    "city": "CHANDLER",
+    "state": "AZ",
+    "zip": "85224",
+    "phone": "",
+    "hours": "",
+    "lat": 33.32016,
+    "lng": -111.8424,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-128286",
+    "name": "Ball Charter Schools (Dobson)",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2207 NORTH DOBSON RD",
+    "city": "CHANDLER",
+    "state": "AZ",
+    "zip": "85224",
+    "phone": "(480) 855-6325",
+    "hours": "",
+    "lat": 33.339248,
+    "lng": -111.876296,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fallback-chandler-shelter",

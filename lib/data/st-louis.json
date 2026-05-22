@@ -19,44 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-442362",
-    "name": "LIFE WISE STL",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (18 funded slots)",
-    "address": "1321 S 11th St",
-    "city": "Saint Louis",
-    "state": "MO",
-    "zip": "63104",
-    "phone": "(314) 421-0400",
-    "hours": "",
-    "lat": 38.615268,
-    "lng": -90.202504,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-458840",
-    "name": "Flance Early Learning Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (38 funded slots)",
-    "address": "1908 Ofallon Street",
-    "city": "Saint Louis",
-    "state": "MO",
-    "zip": "63106",
-    "phone": "(314) 881-0881",
-    "hours": "",
-    "lat": 38.640376,
-    "lng": -90.204461,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-576404",
     "name": "St. Nicholas Church",
     "category": "Food",
@@ -223,6 +185,44 @@
     "lng": -90.2252173,
     "tags": [
       "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193574",
+    "name": "New Horizons United Methodist Church",
+    "category": "Food",
+    "description": "Church sponsored food pantry located in Central West End area offering pre-packed food bags and clothing ministry",
+    "address": "4234 Washington Blvd.",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63108",
+    "phone": "",
+    "hours": "",
+    "lat": 38.645631,
+    "lng": -90.2467412,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198390",
+    "name": "Wilhelmina Hardin Food Pantry",
+    "category": "Food",
+    "description": "Food pantry located in the gym, which is in the rear of the building just off of Cook.",
+    "address": "1118 N. Grand Blvd.",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63106",
+    "phone": "",
+    "hours": "",
+    "lat": 38.6439561,
+    "lng": -90.2277273,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

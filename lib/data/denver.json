@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-216087",
-    "name": "Denver Inner City Parish",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1212 Mariposa St",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "phone": "(303) 629-0636",
-    "hours": "",
-    "lat": 39.735558,
-    "lng": -105.002464,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-576699",
     "name": "CCD Swooper Market",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-216087",
+    "name": "Denver Inner City Parish",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1212 Mariposa St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 629-0636",
+    "hours": "",
+    "lat": 39.735558,
+    "lng": -105.002464,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-181363",

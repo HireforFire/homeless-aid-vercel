@@ -152,44 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-453339",
-    "name": "La Comunidad de los Ninos",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (16 funded slots)",
-    "address": "1121 Alto St",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87501",
-    "phone": "(505) 820-1604",
-    "hours": "",
-    "lat": 35.685591,
-    "lng": -105.961255,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-453356",
-    "name": "Santa Fe County Home Visiting",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (22 funded slots)",
-    "address": "1409 2nd St",
-    "city": "Santa Fe",
-    "state": "NM",
-    "zip": "87505",
-    "phone": "(505) 954-4601",
-    "hours": "",
-    "lat": 35.666271,
-    "lng": -105.968588,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-180572",
     "name": "Sangre De Cristo Apartments",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 35.65546,
     "lng": -105.97576,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183611",
+    "name": "Aspen Community School Student Pantry",
+    "category": "Food",
+    "description": "Student food pantry located at Aspen Community School serving enrolled students.",
+    "address": "450 La Madera St",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6842594,
+    "lng": -105.9625529,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191409",
+    "name": "Big Brothers Big Sisters Santa Fe",
+    "category": "Food",
+    "description": "Food pantry location in Santa Fe serving Santa Fe County residents.",
+    "address": "1229 S St. Francis Dr.",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87505",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6690106,
+    "lng": -105.9548178,
     "tags": [
       "food pantry",
       "walk-in"

@@ -114,44 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-459090",
-    "name": "Sheltering Arms Educare Atlanta EHS & PHS",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "404 Fulton St SW",
-    "city": "Atlanta",
-    "state": "GA",
-    "zip": "30312",
-    "phone": "(404) 582-9100",
-    "hours": "",
-    "lat": 33.742015,
-    "lng": -84.399437,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-459139",
-    "name": "Kidazzle (A.F.C.)",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (10 funded slots)",
-    "address": "61 Forsyth St SW",
-    "city": "Atlanta",
-    "state": "GA",
-    "zip": "30303",
-    "phone": "(404) 905-1810",
-    "hours": "",
-    "lat": 33.753782,
-    "lng": -84.394047,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-771",
     "name": "Central Outreach and Advocacy",
     "category": "Food",
@@ -223,6 +185,44 @@
     "lng": -84.380344,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191646",
+    "name": "ReNew Atlanta Main Location",
+    "category": "Food",
+    "description": "Primary location for ReNew Atlanta food pantry services",
+    "address": "256 Memorial Drive Southwest",
+    "city": "South Downtown",
+    "state": "GA",
+    "zip": "30303",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7465789,
+    "lng": -84.3961714,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192999",
+    "name": "Blessed Divas Corporation - Main Location",
+    "category": "Food",
+    "description": "Main food distribution center providing food bank services with grocery/client choice options for walk-in clients.",
+    "address": "477 Windsor St SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30312",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7412294,
+    "lng": -84.3996946,
+    "tags": [
+      "food bank",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

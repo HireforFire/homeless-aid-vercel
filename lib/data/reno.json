@@ -190,42 +190,42 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-448091",
-    "name": "Destiny Center",
+    "id": "fa-226357",
+    "name": "Women and Children's Center of the Sierra Diaper Bank",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (48 funded slots)",
-    "address": "790 Sutro St",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Reno, NV",
     "city": "Reno",
     "state": "NV",
-    "zip": "89512",
-    "phone": "(775) 786-6023",
+    "zip": "89501",
+    "phone": "",
     "hours": "",
-    "lat": 39.537058,
-    "lng": -119.798061,
+    "lat": 39.52602,
+    "lng": -119.81262,
     "tags": [
-      "head start",
+      "diaper bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-05-10"
   },
   {
-    "id": "fa-454747",
-    "name": "Sutro-Central Office",
+    "id": "fa-170665",
+    "name": "Children's Cabinet School",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (84 funded slots)",
-    "address": "1100 E 8th St",
+    "description": "Children's Cabinet School location providing meals and TEFAP services.",
+    "address": "777 Sinclair Street",
     "city": "Reno",
     "state": "NV",
-    "zip": "89512",
-    "phone": "(775) 786-6023",
+    "zip": "89501",
+    "phone": "",
     "hours": "",
-    "lat": 39.537096,
-    "lng": -119.799753,
+    "lat": 39.5187404,
+    "lng": -119.8071504,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-reno-shelter",

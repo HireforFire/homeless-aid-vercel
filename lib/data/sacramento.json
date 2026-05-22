@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-451148",
-    "name": "Washington",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "530 18th St",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95811",
-    "phone": "(916) 264-4186",
-    "hours": "",
-    "lat": 38.582537,
-    "lng": -121.480355,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-441",
     "name": "Francis House Center",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-220725",
+    "name": "Sacramento Food Bank & Family Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3333 3d Ave",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95820",
+    "phone": "(916) 456-1480",
+    "hours": "",
+    "lat": 38.552475,
+    "lng": -121.470314,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-sacramento-shelter",

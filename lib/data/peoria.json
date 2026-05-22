@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-448367",
-    "name": "CityLink Early Learning Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (55 funded slots)",
-    "address": "415 SW Adams St",
-    "city": "Peoria",
-    "state": "IL",
-    "zip": "61602",
-    "phone": "(309) 671-3960",
-    "hours": "",
-    "lat": 40.689019,
-    "lng": -89.5943,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-187458",
     "name": "Grace Baptist Church - Hands of Grace",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 40.682452,
     "lng": -89.6170393,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172438",
+    "name": "Mt. Zion Baptist Church",
+    "category": "Food",
+    "description": "Mt. Zion Baptist Church food pantry location",
+    "address": "305 S. Madison Park Terrace",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61605",
+    "phone": "(309) 674-4379",
+    "hours": "",
+    "lat": 40.6855823,
+    "lng": -89.626599,
     "tags": [
       "food pantry",
       "walk-in"

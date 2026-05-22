@@ -57,63 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-450663",
-    "name": "Cook Site",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (128 funded slots)",
-    "address": "1108 E Cook St",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62703",
-    "phone": "(217) 528-0893",
-    "hours": "",
-    "lat": 39.794773,
-    "lng": -89.640775,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-458614",
-    "name": "Tiki Tots Learning Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "101 E Allen St",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62704",
-    "phone": "(217)789-0893 - 1210",
-    "hours": "",
-    "lat": 39.789657,
-    "lng": -89.65477,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-576756",
-    "name": "Kumler Outreach Ministries",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "303 North Grand Avenue East",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62702",
-    "phone": "(217) 523-2269",
-    "hours": "",
-    "lat": 39.8164403,
-    "lng": -89.6516242,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-199955",
     "name": "Family Guidance Center",
     "category": "Food",
@@ -150,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-576756",
+    "name": "Kumler Outreach Ministries",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "303 North Grand Avenue East",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62702",
+    "phone": "(217) 523-2269",
+    "hours": "",
+    "lat": 39.8164403,
+    "lng": -89.6516242,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-219831",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-185452",
+    "name": "Helping Hands of Springfield",
+    "category": "Food",
+    "description": "Main location providing shelter support and sit-down meal services with air conditioning.",
+    "address": "2200 Shale St.",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62703",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7788885,
+    "lng": -89.610296,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195185",
+    "name": "Grace Lutheran Church",
+    "category": "Food",
+    "description": "Food pantry services location. Near public transit. Food pantry services will be closed on Thanksgiving Day, November 27th.",
+    "address": "714 E. Capitol",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62701",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7980724,
+    "lng": -89.6460879,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-springfield-il-shelter",

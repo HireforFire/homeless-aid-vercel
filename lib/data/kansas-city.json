@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-458007",
-    "name": "Columbus Park",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (34 funded slots)",
-    "address": "1100 E 4th St",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64106",
-    "phone": "(816) 418-2600",
-    "hours": "",
-    "lat": 39.112207,
-    "lng": -94.569894,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-184116",
     "name": "Don Bosco Community Centers",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 39.105697683574,
     "lng": -94.546384557405,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177769",
+    "name": "Mountaintop Inc",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "1700 E Linwood Boulevard",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64109",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0691766837,
+    "lng": -94.562733543367,
     "tags": [
       "food pantry",
       "walk-in"

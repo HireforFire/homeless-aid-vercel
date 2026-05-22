@@ -114,44 +114,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-451478",
-    "name": "Miami View",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (38 funded slots)",
-    "address": "215 Horace St",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "45402",
-    "phone": "(937) 228-1644",
-    "hours": "",
-    "lat": 39.752761,
-    "lng": -84.207889,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-451495",
-    "name": "On Purpose Academy",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (38 funded slots)",
-    "address": "51 Best St",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "45405",
-    "phone": "(937) 673-6988",
-    "hours": "",
-    "lat": 39.769507,
-    "lng": -84.193558,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-181213",
     "name": "Emergency Foodbank - Food Distribution Center",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 39.761134,
     "lng": -84.1841424,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196197",
+    "name": "Dayton Metro Library – Main Branch",
+    "category": "Food",
+    "description": "Main branch location of Dayton Metro Library providing emergency food box distribution.",
+    "address": "215 E. Third St.",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45402",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7606136,
+    "lng": -84.1877711,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197793",
+    "name": "St. John's Lutheran Church",
+    "category": "Food",
+    "description": "Food pantry location at St. John's Lutheran Church in Dayton, Ohio.",
+    "address": "141 S Ludlow St",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45402",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7566755,
+    "lng": -84.1933182,
     "tags": [
       "food pantry",
       "walk-in"

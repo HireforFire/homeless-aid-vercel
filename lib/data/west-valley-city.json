@@ -38,44 +38,6 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "fa-577488",
-    "name": "MOSAIC Inter-Faith Ministries Manna Pantry",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "20 West 2700 South",
-    "city": "South Salt Lake",
-    "state": "UT",
-    "zip": "84115",
-    "phone": "+1 801-588-0139;+1 877-388-5778;+1 801-721-2641",
-    "hours": "",
-    "lat": 40.712782,
-    "lng": -111.8916668,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
-    "id": "fa-577490",
-    "name": "Somali Community Self-Management Agency Food Pantry",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "1578 West 1700 South",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84104",
-    "phone": "(801) 487-0822",
-    "hours": "",
-    "lat": 40.7335206,
-    "lng": -111.9351604,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-179431",
     "name": "Maverik Center (In the overflow parking lot)",
     "category": "Food",
@@ -150,6 +112,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-577488",
+    "name": "MOSAIC Inter-Faith Ministries Manna Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "20 West 2700 South",
+    "city": "South Salt Lake",
+    "state": "UT",
+    "zip": "84115",
+    "phone": "+1 801-588-0139;+1 877-388-5778;+1 801-721-2641",
+    "hours": "",
+    "lat": 40.712782,
+    "lng": -111.8916668,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-577490",
+    "name": "Somali Community Self-Management Agency Food Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1578 West 1700 South",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84104",
+    "phone": "(801) 487-0822",
+    "hours": "",
+    "lat": 40.7335206,
+    "lng": -111.9351604,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-172384",

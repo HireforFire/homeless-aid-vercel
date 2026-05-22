@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-453745",
-    "name": "Family Building Blocks Helen's Place",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (70 funded slots)",
-    "address": "180 18th St NE",
-    "city": "Salem",
-    "state": "OR",
-    "zip": "97301",
-    "phone": "(503) 566-2132",
-    "hours": "",
-    "lat": 44.935337,
-    "lng": -123.018603,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-175369",
     "name": "HOAP Services (NW Human Services)",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 44.9311577,
     "lng": -123.019648,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175289",
+    "name": "Life Essentials at Life Church",
+    "category": "Food",
+    "description": "Food pantry location at Life Church",
+    "address": "255 College Drive Northwest",
+    "city": "West Salem",
+    "state": "OR",
+    "zip": "97304",
+    "phone": "(503) 362-0362",
+    "hours": "",
+    "lat": 44.9330882,
+    "lng": -123.0798554,
     "tags": [
       "food pantry",
       "walk-in"

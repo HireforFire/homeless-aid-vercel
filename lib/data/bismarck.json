@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-442541",
-    "name": "Richholt",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (119 funded slots)",
-    "address": "720 N 14th St",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "58501",
-    "phone": "(701) 323-4400",
-    "hours": "",
-    "lat": 46.812647,
-    "lng": -100.771467,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-222671",
     "name": "Open Door Community Center",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -100.778024969985,
     "tags": [
       "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177244",
+    "name": "Comm. Action Program Reg. VII - Bismarck",
+    "category": "Food",
+    "description": "Community Action Program food distribution location in Bismarck",
+    "address": "2105 Lee Ave",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504",
+    "phone": "",
+    "hours": "",
+    "lat": 46.791768156361,
+    "lng": -100.758927557971,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

@@ -95,44 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-452736",
-    "name": "MEMORIAL LUTHERAN HEAD START/E",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (32 funded slots)",
-    "address": "2700 E 28th St",
-    "city": "Vancouver",
-    "state": "WA",
-    "zip": "98661",
-    "phone": "(360) 836-5932",
-    "hours": "",
-    "lat": 45.641596,
-    "lng": -122.642067,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-457855",
-    "name": "Hough",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (16 funded slots)",
-    "address": "1801 Esther St",
-    "city": "Vancouver",
-    "state": "WA",
-    "zip": "98660",
-    "phone": "(360) 952-3466",
-    "hours": "",
-    "lat": 45.635104,
-    "lng": -122.675673,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-177332",
     "name": "The Foundation WA",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212538",
+    "name": "YWCA Safechoice",
+    "category": "Food",
+    "description": "YWCA Safechoice location providing food programs and support services",
+    "address": "3609 Main St",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98663",
+    "phone": "",
+    "hours": "",
+    "lat": 45.6476558,
+    "lng": -122.6675898,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-221727",
+    "name": "Clark County Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "6502 NE 47th Ave",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98661",
+    "phone": "(360) 693-0939",
+    "hours": "",
+    "lat": 45.6694717,
+    "lng": -122.6233215,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-vancouver-wa-shelter",

@@ -57,82 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-452633",
-    "name": "King Street Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (15 funded slots)",
-    "address": "87 King St",
-    "city": "Burlington",
-    "state": "VT",
-    "zip": "05401",
-    "phone": "(802) 862-6736",
-    "hours": "",
-    "lat": 44.474632,
-    "lng": -73.214972,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-452639",
-    "name": "Riverside Early Learning Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (16 funded slots)",
-    "address": "669 Riverside Ave",
-    "city": "Burlington",
-    "state": "VT",
-    "zip": "05401",
-    "phone": "(802) 651-4180",
-    "hours": "",
-    "lat": 44.489757,
-    "lng": -73.206615,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-452641",
-    "name": "Burlington Children's Space",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (10 funded slots)",
-    "address": "241 N Winooski Ave",
-    "city": "Burlington",
-    "state": "VT",
-    "zip": "05401",
-    "phone": "(802) 658-1500",
-    "hours": "",
-    "lat": 44.487112,
-    "lng": -73.209429,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-452652",
-    "name": "College Street Early Learning Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (20 funded slots)",
-    "address": "265 College St",
-    "city": "Burlington",
-    "state": "VT",
-    "zip": "05401",
-    "phone": "(802) 651-4180",
-    "hours": "",
-    "lat": 44.476923,
-    "lng": -73.209388,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-14327",
     "name": "Salvation Army Burlington",
     "category": "Food",
@@ -226,6 +150,82 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-131154",
+    "name": "Burlington School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "52 INSTITUTE RD",
+    "city": "BURLINGTON",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "(802) 864-8426",
+    "hours": "",
+    "lat": 44.497049,
+    "lng": -73.235473,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-131180",
+    "name": "South Burlington Town School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "500 DORSET ST",
+    "city": "SOUTH BURLINGTON",
+    "state": "VT",
+    "zip": "05403",
+    "phone": "(802) 652-7100",
+    "hours": "",
+    "lat": 44.45565,
+    "lng": -73.174271,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-131192",
+    "name": "Winooski School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "80 NORMAND ST",
+    "city": "WINOOSKI",
+    "state": "VT",
+    "zip": "05404",
+    "phone": "(802) 655-3530",
+    "hours": "",
+    "lat": 44.501249,
+    "lng": -73.180572,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-937",
+    "name": "Chittenden Emergency Food Shelf",
+    "category": "Food",
+    "description": "Chittenden County residents",
+    "address": "228 North Winooski Avenue",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "(802) 658-7939",
+    "hours": "",
+    "lat": 44.4817,
+    "lng": -73.2117,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fallback-burlington-shelter",

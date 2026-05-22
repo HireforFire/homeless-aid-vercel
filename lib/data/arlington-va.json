@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-216973",
-    "name": "The Salvation Army - S Glebe Rd Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "518 S Glebe Rd",
-    "city": "Arlington",
-    "state": "VA",
-    "zip": "22204",
-    "phone": "(703) 979-3380",
-    "hours": "",
-    "lat": 38.86076,
-    "lng": -77.09894,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-172049",
     "name": "Arlington Presbyterian Church",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 38.8615365,
     "lng": -77.0932588,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172317",
+    "name": "Park Shirlington Apartments",
+    "category": "Food",
+    "description": "Food distribution location at Park Shirlington Apartments",
+    "address": "4510 31st Street South",
+    "city": "Shirlington",
+    "state": "VA",
+    "zip": "22206",
+    "phone": "(202) 210-7025",
+    "hours": "",
+    "lat": 38.8375063,
+    "lng": -77.09320910000001,
     "tags": [
       "food pantry",
       "walk-in"

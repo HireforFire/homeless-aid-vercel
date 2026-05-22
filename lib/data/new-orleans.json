@@ -114,44 +114,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-457677",
-    "name": "Royal Castle",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (16 funded slots)",
-    "address": "2810 Martin Luther King Jr Blvd",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip": "70113",
-    "phone": "(504) 504-7572",
-    "hours": "",
-    "lat": 29.945273,
-    "lng": -90.087182,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-459729",
-    "name": "St. John the Baptist",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (77 funded slots)",
-    "address": "1920 Clio St",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip": "70113",
-    "phone": "(504) 259-2557",
-    "hours": "",
-    "lat": 29.943639,
-    "lng": -90.078075,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-226205",
     "name": "Junior League of New Orleans",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 29.95709,
     "lng": -90.0816486,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194743",
+    "name": "Cosmopolitan Evangelistic Baptist Church",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "1929 Bienville St.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70112",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9625798,
+    "lng": -90.078564,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202416",
+    "name": "Absolute Care, Inc",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1523 St. Charles Ave.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70130",
+    "phone": "",
+    "hours": "",
+    "lat": 29.938964,
+    "lng": -90.076599,
     "tags": [
       "food pantry",
       "walk-in"

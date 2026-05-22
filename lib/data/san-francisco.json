@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-576669",
-    "name": "Project Open Hand",
-    "category": "Food",
-    "description": "Free soup kitchen providing food assistance. Open to all.",
-    "address": "730 Polk Street",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94109",
-    "phone": "(415) 447-2300",
-    "hours": "",
-    "lat": 37.7839436,
-    "lng": -122.4192113,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-174243",
     "name": "Project Open Hand - San Francisco",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-576669",
+    "name": "Project Open Hand",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "730 Polk Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94109",
+    "phone": "(415) 447-2300",
+    "hours": "",
+    "lat": 37.7839436,
+    "lng": -122.4192113,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-218838",
@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-217033",
-    "name": "The Salvation Army - Ninth Street Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "445 Ninth Street",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94103",
-    "phone": "(415) 503-3000",
-    "hours": "",
-    "lat": 37.77299,
-    "lng": -122.41136,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-174239",
     "name": "GLIDE Daily Free Meals Program",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 37.7828241,
     "lng": -122.4323695,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190543",
+    "name": "City Team Food Pantry",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "164 6th St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94103",
+    "phone": "",
+    "hours": "",
+    "lat": 37.77996,
+    "lng": -122.40767,
     "tags": [
       "food pantry",
       "walk-in"

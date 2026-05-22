@@ -171,61 +171,61 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-450465",
-    "name": "Fay Miller Center",
+    "id": "fa-3021",
+    "name": "Saint Paul's And Saint James' Episcopal Church Community",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (17 funded slots)",
-    "address": "250 Cedar St",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "06519",
-    "phone": "(203) 836-5850",
-    "hours": "",
-    "lat": 41.299641,
-    "lng": -72.933145,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-450483",
-    "name": "Dr Reginald Mayo School",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (255 funded slots)",
-    "address": "185 Goffe St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "57 Olive Street",
     "city": "New Haven",
     "state": "CT",
     "zip": "06511",
-    "phone": "(475) 220-7900",
+    "phone": "(203) 562-2143",
     "hours": "",
-    "lat": 41.317461,
-    "lng": -72.935935,
+    "lat": 41.31663,
+    "lng": -72.92587,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-450495",
-    "name": "Hill Central Music Academy",
+    "id": "fa-3022",
+    "name": "Hill Development Corporation - Church St South Food Pantry",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (17 funded slots)",
-    "address": "140 Dewitt St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "34-C Cinque Green South",
     "city": "New Haven",
     "state": "CT",
     "zip": "06519",
-    "phone": "(475) 220-6100",
+    "phone": "(203) 562-0299",
     "hours": "",
-    "lat": 41.295165,
-    "lng": -72.936099,
+    "lat": 41.29597,
+    "lng": -72.93764,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-3264",
+    "name": "Newhallville Academy",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "246 Newhall Street",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "(203) 691-9494",
+    "hours": "",
+    "lat": 41.31663,
+    "lng": -72.92587,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-new-haven-shelter",

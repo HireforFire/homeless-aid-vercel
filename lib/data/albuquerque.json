@@ -57,25 +57,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-453943",
-    "name": "NAPPR EHS Child Care Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (72 funded slots)",
-    "address": "801 Girard Blvd NE",
-    "city": "Albuquerque",
-    "state": "NM",
-    "zip": "87106",
-    "phone": "(505) 345-6289",
-    "hours": "",
-    "lat": 35.088492,
-    "lng": -106.613438,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-184908",
     "name": "Ancora Transitional Services",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 35.08116,
     "lng": -106.64636,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219252",
+    "name": "La Mesa PTA",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "7500 Copper NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87108",
+    "phone": "(505) 363-5010",
+    "hours": "",
+    "lat": 35.0795364,
+    "lng": -106.5625305,
     "tags": [
       "food pantry",
       "walk-in"

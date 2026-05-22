@@ -114,82 +114,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-445808",
-    "name": "Southern NH Services - West High Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (32 funded slots)",
-    "address": "9 Notre Dame Ave",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "03102",
-    "phone": "(603) 668-8010",
-    "hours": "",
-    "lat": 42.986654,
-    "lng": -71.474832,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-445810",
-    "name": "Southern NH Services Child Development Program at MCC",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (18 funded slots)",
-    "address": "1066 Front St",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "03102",
-    "phone": "(603) 623-2332",
-    "hours": "",
-    "lat": 43.019248,
-    "lng": -71.480986,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-445811",
-    "name": "Southern New Hampshire Services Silver Street Child Development Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (68 funded slots)",
-    "address": "160 Silver St",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "03103",
-    "phone": "(603) 668-8010",
-    "hours": "",
-    "lat": 42.977366,
-    "lng": -71.458715,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-445815",
-    "name": "Northwest Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (30 funded slots)",
-    "address": "300 Youville St",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "03102",
-    "phone": "(603) 518-5824",
-    "hours": "",
-    "lat": 42.999765,
-    "lng": -71.483648,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-183401",
     "name": "St. Anthony Food Pantry",
     "category": "Food",
@@ -221,6 +145,82 @@
     "hours": "",
     "lat": 42.95536,
     "lng": -71.44463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9274",
+    "name": "Families in Transition Food Pantry",
+    "category": "Food",
+    "description": "once per month",
+    "address": "176 Lake Avenue",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 641-9441",
+    "hours": "",
+    "lat": 42.95536,
+    "lng": -71.44463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9295",
+    "name": "St Raphael's Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "103 Walker Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102",
+    "phone": "(603) 623-2604",
+    "hours": "",
+    "lat": 43.00797,
+    "lng": -71.49134,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9296",
+    "name": "Blessed Sacrament Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "14 Elm Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 622-5445",
+    "hours": "",
+    "lat": 42.95536,
+    "lng": -71.44463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9300",
+    "name": "St Vincent de Paul - Ste Marie's Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "378 Notre Dame Ave.",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102",
+    "phone": "(603) 622-4615",
+    "hours": "",
+    "lat": 43.00797,
+    "lng": -71.49134,
     "tags": [
       "food pantry",
       "walk-in"

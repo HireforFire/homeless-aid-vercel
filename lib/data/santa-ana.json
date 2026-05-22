@@ -57,44 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-449592",
-    "name": "Katherine Irvine Day School (KIDS) Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (36 funded slots)",
-    "address": "1002 W 2nd St",
-    "city": "Santa Ana",
-    "state": "CA",
-    "zip": "92703",
-    "phone": "(714) 541-8164",
-    "hours": "",
-    "lat": 33.74624,
-    "lng": -117.878757,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-449607",
-    "name": "Broadway Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (18 funded slots)",
-    "address": "321 W Washington Ave",
-    "city": "Santa Ana",
-    "state": "CA",
-    "zip": "92706",
-    "phone": "(714) 241-8920",
-    "hours": "",
-    "lat": 33.755941,
-    "lng": -117.870863,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-467",
     "name": "Community Action Partnership OC",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225300",
+    "name": "mental health assoc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2416 S. Main St",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92707",
+    "phone": "(714) 668-1530",
+    "hours": "",
+    "lat": 33.7141474,
+    "lng": -117.8683677,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172374",
+    "name": "Companerismo Rey de Reyes",
+    "category": "Food",
+    "description": "Food pantry location at 940 W. Wilshire Ave., Santa Ana, CA 92707",
+    "address": "940 W. Wilshire Ave.",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92707",
+    "phone": "(714) 850-1952",
+    "hours": "",
+    "lat": 33.7304236,
+    "lng": -117.8785311,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-santa-ana-shelter",

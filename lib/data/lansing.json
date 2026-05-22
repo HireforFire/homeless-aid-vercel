@@ -190,25 +190,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-441917",
-    "name": "PINE STREET HEAD START",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (53 funded slots)",
-    "address": "600 W Maple St Ste 1",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "48906",
-    "phone": "(517) 485-7012",
-    "hours": "",
-    "lat": 42.746123,
-    "lng": -84.559926,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-224591",
     "name": "Bethlehem Temple Bread House",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 42.7164078,
     "lng": -84.5535202,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225328",
+    "name": "Cristo Rey Community Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1717 N. High",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48906",
+    "phone": "(517) 372-4700",
+    "hours": "",
+    "lat": 42.753727,
+    "lng": -84.5395203,
     "tags": [
       "food pantry",
       "walk-in"

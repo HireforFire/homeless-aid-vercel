@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-449273",
-    "name": "Brandon's Place at Lincoln",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (32 funded slots)",
-    "address": "438 W Brevard St",
-    "city": "Tallahassee",
-    "state": "FL",
-    "zip": "32301",
-    "phone": "(850) 414-9815",
-    "hours": "",
-    "lat": 30.450208,
-    "lng": -84.287618,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-193058",
     "name": "ALARM International Church",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 30.47649066,
     "lng": -84.29489346,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175259",
+    "name": "Little Sunshine Pantries",
+    "category": "Food",
+    "description": "Food distribution location affiliated with Second Harvest of the Big Bend",
+    "address": "631 W. 8th Ave",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 270-8240",
+    "hours": "",
+    "lat": 30.458382,
+    "lng": -84.2906653,
     "tags": [
       "food pantry",
       "walk-in"

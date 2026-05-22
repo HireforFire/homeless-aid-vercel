@@ -95,63 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-456020",
-    "name": "Opportunity School Edwards Campus",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (48 funded slots)",
-    "address": "406 S Osage St",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79104",
-    "phone": "(806) 381-0551",
-    "hours": "",
-    "lat": 35.206554,
-    "lng": -101.813855,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-456022",
-    "name": "Amarillo Cleveland Street Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (148 funded slots)",
-    "address": "1601 S Cleveland St",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79102",
-    "phone": "(806) 677-5401",
-    "hours": "",
-    "lat": 35.194537,
-    "lng": -101.825442,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-456025",
-    "name": "Opportunity School at Gratitude House",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (16 funded slots)",
-    "address": "1101 S Harrison St Apt 19",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79101",
-    "phone": "(806) 372-3625",
-    "hours": "",
-    "lat": 35.20286,
-    "lng": -101.840571,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-210",
     "name": "Salvation Army - Amarillo",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219077",
+    "name": "Grand Avenue Baptist",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "904 N. Grand",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79107",
+    "phone": "(806) 383-7388",
+    "hours": "",
+    "lat": 35.2231522,
+    "lng": -101.7949677,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172220",
+    "name": "Cornerstone Outreach-Amarillo",
+    "category": "Food",
+    "description": "Food distribution location for Cornerstone Outreach-Amarillo, affiliated with High Plains Food Bank.",
+    "address": "1111 N Buchanan St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79107",
+    "phone": "(806) 381-2131",
+    "hours": "",
+    "lat": 35.2258199,
+    "lng": -101.8299242,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173379",
+    "name": "Mobile Harvest - Heal the City",
+    "category": "Food",
+    "description": "Mobile Food Pantry distribution location in Amarillo.",
+    "address": "609 S Carolina St.",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "(806) 231-0364",
+    "hours": "",
+    "lat": 35.2106185,
+    "lng": -101.8742852,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-amarillo-shelter",

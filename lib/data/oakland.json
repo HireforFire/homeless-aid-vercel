@@ -76,63 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-447380",
-    "name": "Thurgood Marshall Head Start and Early Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (16 funded slots)",
-    "address": "1117 10th St",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "94607",
-    "phone": "(510) 836-0543",
-    "hours": "",
-    "lat": 37.805876,
-    "lng": -122.285708,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-458336",
-    "name": "Broadway",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "2619 Broadway",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "94612",
-    "phone": "(510) 238-7091",
-    "hours": "",
-    "lat": 37.815206,
-    "lng": -122.26498,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-458359",
-    "name": "West Grand",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "1058 W Grand Ave",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "94607",
-    "phone": "(510) 238-2268",
-    "hours": "",
-    "lat": 37.815422,
-    "lng": -122.28238,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-180619",
     "name": "Saint Augustine's Episcopal Church - Food Distribution Center",
     "category": "Food",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 37.8003645,
     "lng": -122.2749817,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194087",
+    "name": "Covenant House of California - Oakland",
+    "category": "Food",
+    "description": "Main location of Covenant House of California in Oakland",
+    "address": "200 Harrison St",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607",
+    "phone": "",
+    "hours": "",
+    "lat": 37.794714,
+    "lng": -122.27228,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194254",
+    "name": "Friendship Christian Church Gerald Agee Ministries",
+    "category": "Food",
+    "description": "Food pantry location at Friendship Christian Church Gerald Agee Ministries in Oakland.",
+    "address": "1904 Adeline Ave",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607",
+    "phone": "",
+    "hours": "",
+    "lat": 37.8133806,
+    "lng": -122.2844843,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195931",
+    "name": "Taylor Memorial Church - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Oakland",
+    "address": "1188 12th St",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607",
+    "phone": "",
+    "hours": "",
+    "lat": 37.8085181,
+    "lng": -122.2872309,
     "tags": [
       "food pantry",
       "walk-in"

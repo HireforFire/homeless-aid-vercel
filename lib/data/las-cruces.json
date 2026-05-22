@@ -57,44 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-450405",
-    "name": "Hermosa Heights Elementary School-Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (16 funded slots)",
-    "address": "1655 E Amador Ave",
-    "city": "Las Cruces",
-    "state": "NM",
-    "zip": "88001",
-    "phone": "(575) 527-9530",
-    "hours": "",
-    "lat": 32.311645,
-    "lng": -106.761522,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-450413",
-    "name": "Booker T Washington Elementary School-Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (74 funded slots)",
-    "address": "755 E Chestnut Ave",
-    "city": "Las Cruces",
-    "state": "NM",
-    "zip": "88001",
-    "phone": "(575) 527-9595",
-    "hours": "",
-    "lat": 32.321295,
-    "lng": -106.774056,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-181656",
     "name": "El Calvario United Methodist Church",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 32.30713069,
     "lng": -106.7517289,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182500",
+    "name": "DACC Main",
+    "category": "Food",
+    "description": "Main distribution location for pop-up and mobile food resources.",
+    "address": "3400 S. Espina",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88011",
+    "phone": "",
+    "hours": "",
+    "lat": 32.27704,
+    "lng": -106.75465,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182635",
+    "name": "DACC East Mesa",
+    "category": "Food",
+    "description": "Pop-up/mobile food distribution location at DACC East Mesa in Las Cruces.",
+    "address": "2800 Sonoma Ranch Blvd",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88011",
+    "phone": "",
+    "hours": "",
+    "lat": 32.35398,
+    "lng": -106.73798,
     "tags": [
       "mobile pantry",
       "walk-in"

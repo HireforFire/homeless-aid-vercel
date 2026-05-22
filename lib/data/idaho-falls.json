@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-455377",
-    "name": "El Castillito CCI MSHS Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. aian head start. Call to enroll. (49 funded slots)",
-    "address": "350 G St",
-    "city": "Idaho Falls",
-    "state": "ID",
-    "zip": "83402",
-    "phone": "(208) 522-6236",
-    "hours": "",
-    "lat": 43.497655,
-    "lng": -112.037159,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-222564",
     "name": "Community Food Basket Idaho Falls",
     "category": "Food",
@@ -190,42 +171,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-443754",
-    "name": "Idaho Falls East Center",
+    "id": "fa-182774",
+    "name": "Falls Valley Elementary - Food Distribution Center",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (30 funded slots)",
-    "address": "2171 Alan St",
+    "description": "Food distribution center at Falls Valley Elementary School",
+    "address": "2455 Virlow St",
     "city": "Idaho Falls",
     "state": "ID",
-    "zip": "83404",
-    "phone": "(208) 524-1462",
+    "zip": "83401",
+    "phone": "",
     "hours": "",
-    "lat": 43.484339,
-    "lng": -111.990895,
+    "lat": 43.4976206,
+    "lng": -111.98481439999999,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-443993",
-    "name": "Hoopes Center",
+    "id": "fa-219154",
+    "name": "Idaho Falls Southern Baptist Church",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (40 funded slots)",
-    "address": "1465 Hoopes Ave",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "6070 15th E",
     "city": "Idaho Falls",
     "state": "ID",
     "zip": "83404",
-    "phone": "(208) 542-8170",
+    "phone": "(208) 552-3098",
     "hours": "",
-    "lat": 43.484411,
-    "lng": -111.9932,
+    "lat": 43.4392891,
+    "lng": -112.0037842,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219201",
+    "name": "Idaho Falls Hispanic Foursquare Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "211 S 45th W",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83401",
+    "phone": "(208) 419-1454",
+    "hours": "",
+    "lat": 43.4968567,
+    "lng": -112.1227951,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-idaho-falls-shelter",

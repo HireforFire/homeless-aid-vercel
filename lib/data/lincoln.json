@@ -133,63 +133,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-460093",
-    "name": "Community Action Head Start at K Street",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (119 funded slots)",
-    "address": "1821 K St Ste 100",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68508",
-    "phone": "(531) 289-6640",
-    "hours": "",
-    "lat": 40.808836,
-    "lng": -96.694819,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-460095",
-    "name": "Community Action Early Head Start Home-based",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (132 funded slots)",
-    "address": "210 O St",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68508",
-    "phone": "(402) 471-4515",
-    "hours": "",
-    "lat": 40.814231,
-    "lng": -96.718186,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-460096",
-    "name": "Community Action Head Start at 26th Street",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (72 funded slots)",
-    "address": "2615 O St Ste 4",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68510",
-    "phone": "(531) 254-5454",
-    "hours": "",
-    "lat": 40.813055,
-    "lng": -96.68348,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-178824",
     "name": "Nebraskans For Peace - Food Distribution Center",
     "category": "Food",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 40.8088863,
     "lng": -96.6945249,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186844",
+    "name": "St. Mary's Catholic Church",
+    "category": "Food",
+    "description": "Food pantry distribution site at St. Mary's Catholic Church",
+    "address": "1420 K St.",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68508",
+    "phone": "",
+    "hours": "",
+    "lat": 40.8095032,
+    "lng": -96.7008246,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191228",
+    "name": "Lincoln Fresh at Community Action Head Start",
+    "category": "Food",
+    "description": "Community Action Head Start location for Lincoln Fresh produce distribution",
+    "address": "2615 O Street",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68501",
+    "phone": "",
+    "hours": "",
+    "lat": 40.813262,
+    "lng": -96.6832124,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192017",
+    "name": "Food Fort",
+    "category": "Food",
+    "description": "Food Fort location in Lincoln, Nebraska",
+    "address": "2124 Y St #130",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68503",
+    "phone": "",
+    "hours": "",
+    "lat": 40.824751899999995,
+    "lng": -96.69046499999999,
     "tags": [
       "food pantry",
       "walk-in"

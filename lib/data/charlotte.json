@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-442010",
-    "name": "First Ward CDC",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (32 funded slots)",
-    "address": "600 E 7th St",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "28202",
-    "phone": "(704) 379-7924",
-    "hours": "",
-    "lat": 35.22451,
-    "lng": -80.834646,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-781",
     "name": "Loaves and Fishes Charlotte",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 35.2339059,
     "lng": -80.8347946,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201634",
+    "name": "Queen City Nerve - Main Location",
+    "category": "Food",
+    "description": "Main distribution location",
+    "address": "332 West Bland Street",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28203",
+    "phone": "",
+    "hours": "",
+    "lat": 35.220198,
+    "lng": -80.85815869999999,
     "tags": [
       "food pantry",
       "walk-in"

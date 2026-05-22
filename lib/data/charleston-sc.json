@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-442407",
-    "name": "Sanders Clyde Elementary HS/EHS",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (16 funded slots)",
-    "address": "805 Morrison Dr",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29403",
-    "phone": "(843) 724-7783",
-    "hours": "",
-    "lat": 32.801155,
-    "lng": -79.938298,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-184166",
     "name": "St. Barnabas Lutheran Church",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-12918",
+    "name": "Our Lady of Mercy Community Outreach - Neighborhood House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "77 America Street",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29403",
+    "phone": "(843) 805-8064",
+    "hours": "",
+    "lat": 32.80347,
+    "lng": -79.94561,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-charleston-sc-shelter",

@@ -57,6 +57,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-180381",
+    "name": "Christian Outreach in Action - Main Location",
+    "category": "Food",
+    "description": "Main facility for food pantry, warm meals, clothing bank, and diaper bank services.",
+    "address": "515 E. 3rd Street",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90802",
+    "phone": "",
+    "hours": "",
+    "lat": 33.770711991829,
+    "lng": -118.186049982061,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-169554",
     "name": "Adventures to Dreams Enrichment",
     "category": "Food",
@@ -171,61 +190,42 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-180381",
-    "name": "Christian Outreach in Action - Main Location",
+    "id": "fa-407",
+    "name": "Long Beach Rescue Mission",
     "category": "Food",
-    "description": "Main facility for food pantry, warm meals, clothing bank, and diaper bank services.",
-    "address": "515 E. 3rd Street",
+    "description": "Open to all",
+    "address": "1335 Pacific Ave",
     "city": "Long Beach",
     "state": "CA",
-    "zip": "90802",
-    "phone": "",
+    "zip": "90813",
+    "phone": "(562) 591-1292",
     "hours": "",
-    "lat": 33.770711991829,
-    "lng": -118.186049982061,
+    "lat": 33.7761,
+    "lng": -118.1861,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-2520",
+    "name": "Lutheran Social Services of South California - South Bay Area",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1611 Pine Ave",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90813",
+    "phone": "(562) 599-1321",
+    "hours": "",
+    "lat": 33.78237,
+    "lng": -118.19656,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-449411",
-    "name": "Elm",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (34 funded slots)",
-    "address": "1425 Elm Ave",
-    "city": "Long Beach",
-    "state": "CA",
-    "zip": "90813",
-    "phone": "(562) 218-6620",
-    "hours": "",
-    "lat": 33.784213,
-    "lng": -118.188198,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-449422",
-    "name": "Edison",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (34 funded slots)",
-    "address": "625 Maine Ave",
-    "city": "Long Beach",
-    "state": "CA",
-    "zip": "90802",
-    "phone": "(562) 590-8481",
-    "hours": "",
-    "lat": 33.773811,
-    "lng": -118.200619,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-long-beach-shelter",

@@ -57,63 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-445714",
-    "name": "FLORENCE HOWARD HEAD START CENTER",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (36 funded slots)",
-    "address": "957 Dr Martin L King Jr Ave",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36603",
-    "phone": "(251) 222-5562",
-    "hours": "",
-    "lat": 30.697177,
-    "lng": -88.057239,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-450384",
-    "name": "GULF REGIONAL - Dearborn YMCA Tot Time Preschool",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "321 N Warren St",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36603",
-    "phone": "(251) 432-4765",
-    "hours": "",
-    "lat": 30.694905,
-    "lng": -88.052754,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-456817",
-    "name": "Nina Nix Joseph Child Development Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (32 funded slots)",
-    "address": "209 S Washington Ave",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36602",
-    "phone": "(251) 433-1310",
-    "hours": "",
-    "lat": 30.684527,
-    "lng": -88.049008,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-226351",
     "name": "Junior League of Mobile Diaper Bank",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-187235",
+    "name": "Walk by Faith Christian Ministries",
+    "category": "Food",
+    "description": "Food pantry location at Texas Street in Mobile, Alabama.",
+    "address": "1110 Texas St.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36604",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6745084,
+    "lng": -88.041436,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199812",
+    "name": "Emmanuel SDA Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at Emmanuel SDA Church.",
+    "address": "2000 N. Dr Martin L King Jr Dr.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36617",
+    "phone": "",
+    "hours": "",
+    "lat": 30.7133917,
+    "lng": -88.0792968,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204015",
+    "name": "First Baptist Church of Baltimore Street",
+    "category": "Food",
+    "description": "Food pantry location at First Baptist Church of Baltimore Street",
+    "address": "1200 Baltimore St.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36605",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6668081,
+    "lng": -88.0652244,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-mobile-shelter",

@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-449601",
-    "name": "Franklin Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (36 funded slots)",
-    "address": "506 S Janss St",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "92805",
-    "phone": "(714) 399-2100",
-    "hours": "",
-    "lat": 33.829216,
-    "lng": -117.919685,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-181828",
     "name": "VFW Post 3173",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 33.8085345,
     "lng": -117.9300261,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179653",
+    "name": "Anaheim United Methodist Church",
+    "category": "Food",
+    "description": "Food pantry location at Anaheim United Methodist Church. Wagons are provided to gather and transport food to vehicles. Delivery of food boxes or transportation is not provided.",
+    "address": "1000 S. State College Boulevard",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92806",
+    "phone": "",
+    "hours": "",
+    "lat": 33.824620998383,
+    "lng": -117.888292008028,
     "tags": [
       "food pantry",
       "walk-in"

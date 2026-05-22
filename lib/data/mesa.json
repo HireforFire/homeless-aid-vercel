@@ -171,25 +171,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-442928",
-    "name": "First United Methodist Church",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "15 E 1st Ave # 1",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85201",
-    "phone": "(602) 372-3700",
-    "hours": "",
-    "lat": 33.412919,
-    "lng": -111.831294,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-833",
     "name": "Mesa United Way Food Bank",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 33.41798,
     "lng": -111.84521,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-215125",
+    "name": "Mesa First Presbyterian Church Food Cupboard",
+    "category": "Food",
+    "description": "Food cupboard location at Mesa First Presbyterian Church",
+    "address": "161 N. Mesa Dr.",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85201",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4194083,
+    "lng": -111.8226978,
     "tags": [
       "food pantry",
       "walk-in"

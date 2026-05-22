@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-448510",
-    "name": "Naqayeht'ana T'uh",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. aian early head start. Call to enroll. (120 funded slots)",
-    "address": "370 W 16th Avenue",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99501",
-    "phone": "(907) 433-1601",
-    "hours": "",
-    "lat": 61.206161,
-    "lng": -149.888795,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-218460",
     "name": "The Salvation Army - A Street",
     "category": "Food",
@@ -74,63 +55,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-444008",
-    "name": "Ridgeline Terrace",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (15 funded slots)",
-    "address": "185 Ridgeline Loop",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99501",
-    "phone": "(907) 344-1040",
-    "hours": "",
-    "lat": 61.220157,
-    "lng": -149.82149,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-444010",
-    "name": "Mt. View Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "3350 Commercial Dr",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99501",
-    "phone": "(907) 222-1222",
-    "hours": "",
-    "lat": 61.223637,
-    "lng": -149.817875,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-452268",
-    "name": "Clare Swan Early Learning Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. migrant seasonal early head start. Call to enroll. (72 funded slots)",
-    "address": "800 Northway Dr",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99508",
-    "phone": "(1) 907-793",
-    "hours": "",
-    "lat": 61.21461,
-    "lng": -149.812862,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fa-998",
@@ -223,6 +147,82 @@
     "lng": -149.85872,
     "tags": [
       "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-996",
+    "name": "Spenard Lions Club - Anchorage",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "2108 Roosevelt Dr",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99517",
+    "phone": "(907) 428-0832",
+    "hours": "",
+    "lat": 61.19018,
+    "lng": -149.93676,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-999",
+    "name": "Salvation Army - McKinnell House",
+    "category": "Food",
+    "description": "appointment",
+    "address": "1712 A Stret",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99501",
+    "phone": "(907) 277-2593",
+    "hours": "",
+    "lat": 61.22005,
+    "lng": -149.85872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-1000",
+    "name": "Shiloh Baptist Family Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1928 Juneau St",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99501",
+    "phone": "(907) 276-6673",
+    "hours": "",
+    "lat": 61.22005,
+    "lng": -149.85872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-1017",
+    "name": "Mobile Food Pantry - Fairview Recreation Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1121 E 10th Avenue",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99501",
+    "phone": "(907) 272-3663",
+    "hours": "",
+    "lat": 61.22005,
+    "lng": -149.85872,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"

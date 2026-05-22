@@ -209,23 +209,23 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-447930",
-    "name": "CALIFORNIA STREET EHS",
+    "id": "fa-451",
+    "name": "Stockton Shelter",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "425 N California St",
+    "description": "Open to all",
+    "address": "640 W Oak St",
     "city": "Stockton",
     "state": "CA",
-    "zip": "95202",
-    "phone": "(209) 242-9554",
+    "zip": "95203",
+    "phone": "(209) 466-8664",
     "hours": "",
-    "lat": 37.958054,
-    "lng": -121.286096,
+    "lat": 37.9611,
+    "lng": -121.3061,
     "tags": [
-      "head start",
+      "soup kitchen",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fallback-stockton-shelter",

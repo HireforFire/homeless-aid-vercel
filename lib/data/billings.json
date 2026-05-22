@@ -152,63 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-445517",
-    "name": "Head Start, Inc. - North Park Site",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (132 funded slots)",
-    "address": "615 N 19th St",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "59101",
-    "phone": "(406) 245-7233",
-    "hours": "",
-    "lat": 45.792427,
-    "lng": -108.498669,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-456485",
-    "name": "The Family Tree Nurturing Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (10 funded slots)",
-    "address": "2520 5th Ave S",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "59101",
-    "phone": "(406) 252-9799",
-    "hours": "",
-    "lat": 45.777195,
-    "lng": -108.496785,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-171945",
-    "name": "Chinook Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "112 6th St W",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "59101",
-    "phone": "(406) 357-3805",
-    "hours": "",
-    "lat": 45.771549,
-    "lng": -108.530655,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-171125",
     "name": "Montana Rescue Mission - Food Distribution Center",
     "category": "Food",
@@ -223,6 +166,63 @@
     "lng": -108.50491369999999,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171214",
+    "name": "Dinner Church",
+    "category": "Food",
+    "description": "Dinner Church meal program location",
+    "address": "420 South 30th Street",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7749981,
+    "lng": -108.502699,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171262",
+    "name": "Education Foundation Food Insecurity Programs - Main Office",
+    "category": "Food",
+    "description": "Main office for Education Foundation Food Insecurity Programs for Billings Public Schools",
+    "address": "415 North 30th Street",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7842497,
+    "lng": -108.5105613,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171625",
+    "name": "Billings Food Bank Distribution Center",
+    "category": "Food",
+    "description": "Main food bank distribution center location",
+    "address": "N 16th St",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59102",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7905324,
+    "lng": -108.4925636,
+    "tags": [
+      "food bank",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

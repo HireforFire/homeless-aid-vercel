@@ -38,63 +38,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-454450",
-    "name": "RSA COMPOSITE",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (80 funded slots)",
-    "address": "300 Monroe St",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36104",
-    "phone": "(334) 262-0266",
-    "hours": "",
-    "lat": 32.378734,
-    "lng": -86.305019,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-454453",
-    "name": "CULTURAL ARTS",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (80 funded slots)",
-    "address": "1400 Aaron St",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36104",
-    "phone": "(334) 386-4520",
-    "hours": "",
-    "lat": 32.359888,
-    "lng": -86.315699,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-454467",
-    "name": "ASU ZELIA STEPHENS HEAD START",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (100 funded slots)",
-    "address": "1100 Tuscaloosa St",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36104",
-    "phone": "(334) 229-4470",
-    "hours": "",
-    "lat": 32.366374,
-    "lng": -86.295702,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-180718",
     "name": "Bethany SDA Church",
     "category": "Food",
@@ -207,6 +150,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-173321",
+    "name": "MBA Love Loud Matthew 25 Ministries",
+    "category": "Food",
+    "description": "Food pantry location providing food assistance.",
+    "address": "1551 E. Ann St.",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36107",
+    "phone": "(334) 269-5726",
+    "hours": "",
+    "lat": 32.3621978,
+    "lng": -86.270493,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214189",
+    "name": "The Salvation Army - Montgomery",
+    "category": "Food",
+    "description": "The Salvation Army location providing food pantry and soup kitchen services.",
+    "address": "3460 Carter Hill Rd.",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36111",
+    "phone": "",
+    "hours": "",
+    "lat": 32.3787742,
+    "lng": -86.3266235,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-845",
+    "name": "Salvation Army - Montgomery",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "911 South Ripley Street",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36104",
+    "phone": "(334) 265-5438",
+    "hours": "",
+    "lat": 32.3683,
+    "lng": -86.3083,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fa-216972",

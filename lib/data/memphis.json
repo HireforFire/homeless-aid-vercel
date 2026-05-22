@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-216762",
-    "name": "The Salvation Army - Jackson Ave Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "696 Jackson Ave",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38105",
-    "phone": "(901) 365-6128",
-    "hours": "",
-    "lat": 35.1512,
-    "lng": -90.03541,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-174990",
     "name": "St. Mary's Catholic Church",
     "category": "Food",
@@ -95,23 +76,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-452233",
-    "name": "Southwest Community College-Union Campus",
+    "id": "fa-216762",
+    "name": "The Salvation Army - Jackson Ave Corps",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
-    "address": "737 Union Ave",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "696 Jackson Ave",
     "city": "Memphis",
     "state": "TN",
-    "zip": "38103",
-    "phone": "(901) 333-5000",
+    "zip": "38105",
+    "phone": "(901) 365-6128",
     "hours": "",
-    "lat": 35.138451,
-    "lng": -90.036899,
+    "lat": 35.1512,
+    "lng": -90.03541,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-197596",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-179192",
+    "name": "Grace-St. Luke's Episcopal Church",
+    "category": "Food",
+    "description": "Main location of Grace-St. Luke's Episcopal Church providing food pantry and prepared meal services.",
+    "address": "1720 Peabody Ave.",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1331523,
+    "lng": -90.0044444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-memphis-shelter",

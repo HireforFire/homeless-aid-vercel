@@ -152,25 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-456672",
-    "name": "U of O",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (16 funded slots)",
-    "address": "901 E 18th Ave",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97403",
-    "phone": "(541) 346-2646",
-    "hours": "",
-    "lat": 44.040029,
-    "lng": -123.079247,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-175995",
     "name": "Sacred Connections Community Church",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220862",
+    "name": "Catholic Community Services Eugene Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1464 W 6th Ave.",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "(541) 345-3628",
+    "hours": "",
+    "lat": 44.0529671,
+    "lng": -123.1148529,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-eugene-shelter",

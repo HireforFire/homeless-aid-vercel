@@ -76,44 +76,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-455507",
-    "name": "Children's Friend - Friendship Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (103 funded slots)",
-    "address": "350 Point St",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "02903",
-    "phone": "(401) 752-7600",
-    "hours": "",
-    "lat": 41.814306,
-    "lng": -71.416047,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-458212",
-    "name": "Children's Friend - Tempo",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (12 funded slots)",
-    "address": "53 George M Cohan Blvd",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "02903",
-    "phone": "(1) 401-721",
-    "hours": "",
-    "lat": 41.818546,
-    "lng": -71.397771,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-218793",
     "name": "The Salvation Army - Pitman Street",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 41.7860756,
     "lng": -71.4013748,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224157",
+    "name": "West EndFoodpantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "109 Bucklin Street",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02907",
+    "phone": "(401) 781-4242",
+    "hours": "",
+    "lat": 41.8044243,
+    "lng": -71.428688,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225420",
+    "name": "stVincentdepaul",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "178 Dexter St.",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02907",
+    "phone": "(401) 273-1108",
+    "hours": "",
+    "lat": 41.8115883,
+    "lng": -71.4289551,
     "tags": [
       "food pantry",
       "walk-in"

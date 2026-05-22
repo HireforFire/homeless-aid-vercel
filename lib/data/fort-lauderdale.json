@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-216368",
-    "name": "Fort Lauderdale Food Not Bombs",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "N Andrews Ave",
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "zip": "33301",
-    "phone": "(954) 371-0475",
-    "hours": "",
-    "lat": 26.128483,
-    "lng": -80.140984,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-219031",
     "name": "The Pantry of Broward, Inc.",
     "category": "Food",
@@ -57,23 +38,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-457169",
-    "name": "Walker Elementary",
+    "id": "fa-216368",
+    "name": "Fort Lauderdale Food Not Bombs",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (37 funded slots)",
-    "address": "1001 NW 4th St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "N Andrews Ave",
     "city": "Fort Lauderdale",
     "state": "FL",
-    "zip": "33311",
-    "phone": "(754) 322-8800",
+    "zip": "33301",
+    "phone": "(954) 371-0475",
     "hours": "",
-    "lat": 26.126467,
-    "lng": -80.155428,
+    "lat": 26.128483,
+    "lng": -80.140984,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-246",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 26.1356488,
     "lng": -80.156857,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210015",
+    "name": "Arthur Hall Memorial",
+    "category": "Food",
+    "description": "Food distribution location operated as part of Feeding South Florida network",
+    "address": "744 NW 12th Ave.",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33311",
+    "phone": "",
+    "hours": "",
+    "lat": 26.132743,
+    "lng": -80.1571187,
     "tags": [
       "food pantry",
       "walk-in"

@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-452128",
-    "name": "The Center for Early Learning at Columbus State",
+    "id": "fa-182528",
+    "name": "OH Association of Second Harvest Foodbanks - Main Office",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (37 funded slots)",
-    "address": "320 N Grant Ave",
-    "city": "Columbus",
+    "description": "Main office location. No food distribution at this location.",
+    "address": "51 North High Street",
+    "city": "Uptown District",
     "state": "OH",
     "zip": "43215",
-    "phone": "(614) 287-5878",
+    "phone": "",
     "hours": "",
-    "lat": 39.970042,
-    "lng": -82.99142,
+    "lat": 39.9633772,
+    "lng": -83.00113580000001,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-452148",
-    "name": "Nationwide Children's Hospital TIP Center",
+    "id": "fa-190902",
+    "name": "Jeff Ruby's Steakhouse, Columbus",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (24 funded slots)",
-    "address": "255 E Main St",
-    "city": "Columbus",
+    "description": "Fine dining steakhouse location in Uptown District",
+    "address": "89 East Nationwide Boulevard",
+    "city": "Uptown District",
     "state": "OH",
     "zip": "43215",
-    "phone": "(614) 431-2168",
+    "phone": "",
     "hours": "",
-    "lat": 39.956593,
-    "lng": -82.992609,
+    "lat": 39.9687266,
+    "lng": -82.9994159,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-columbus-shelter",

@@ -57,44 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-442627",
-    "name": "Crosby Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (74 funded slots)",
-    "address": "568 E Lenoir St Ste 213",
-    "city": "Raleigh",
-    "state": "NC",
-    "zip": "27601",
-    "phone": "(919) 856-5222",
-    "hours": "",
-    "lat": 35.771914,
-    "lng": -78.629676,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-577014",
-    "name": "Food Bank of Central and Eastern North Carolina",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "1924 Capital Boulevard",
-    "city": "Raleigh",
-    "state": "NC",
-    "zip": "27604",
-    "phone": "(919) 875-0707",
-    "hours": "",
-    "lat": 35.8043953,
-    "lng": -78.6152441,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-176937",
     "name": "Martin Street Baptist Church",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 35.7867077,
     "lng": -78.6484321,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195225",
+    "name": "Inter-Community Council - Copeland Center",
+    "category": "Food",
+    "description": "Food pantry location providing emergency food assistance.",
+    "address": "900 Haynes Street",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27604",
+    "phone": "",
+    "hours": "",
+    "lat": 35.7917395,
+    "lng": -78.6379826,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202012",
+    "name": "Judy D. Zelnak Center of Hope",
+    "category": "Food",
+    "description": "Salvation Army food pantry distribution location",
+    "address": "902 Wake Forest Road",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27604",
+    "phone": "",
+    "hours": "",
+    "lat": 35.7924542,
+    "lng": -78.6318548,
     "tags": [
       "food pantry",
       "walk-in"

@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-216978",
-    "name": "The Salvation Army - E Stoner Ave Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200 E Stoner Ave",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "71101",
-    "phone": "(318) 424-3200",
-    "hours": "",
-    "lat": 32.5062,
-    "lng": -93.74822,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-208925",
     "name": "Christian Services Program (Shreveport)",
     "category": "Food",
@@ -57,42 +38,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-444320",
-    "name": "Eddie Jones Head Start",
+    "id": "fa-216978",
+    "name": "The Salvation Army - E Stoner Ave Corps",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (111 funded slots)",
-    "address": "1729 Ford St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200 E Stoner Ave",
     "city": "Shreveport",
     "state": "LA",
     "zip": "71101",
-    "phone": "(318) 222-1655",
+    "phone": "(318) 424-3200",
     "hours": "",
-    "lat": 32.510723,
-    "lng": -93.766958,
+    "lat": 32.5062,
+    "lng": -93.74822,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-444326",
-    "name": "Arc of Caddo Bossier",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (20 funded slots)",
-    "address": "351 Jordan St",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "71101",
-    "phone": "(318) 221-8392",
-    "hours": "",
-    "lat": 32.497672,
-    "lng": -93.736167,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-226312",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-225800",
+    "name": "Reed Spring Christian Community",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2845 Kelsey St.",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71107",
+    "phone": "(318) 200-2481",
+    "hours": "",
+    "lat": 32.5391312,
+    "lng": -93.8238525,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-174309",
+    "name": "St. Luke Christian Methodist Church",
+    "category": "Food",
+    "description": "St. Luke Christian Methodist Church food assistance location",
+    "address": "2110 MLK Dr.",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71107",
+    "phone": "",
+    "hours": "",
+    "lat": 32.5440721,
+    "lng": -93.8075814,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-shreveport-shelter",

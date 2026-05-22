@@ -95,63 +95,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-452276",
-    "name": "Martin Luther King, Jr. Preschool Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (119 funded slots)",
-    "address": "900 Mosby St",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23223",
-    "phone": "(804) 648-5959",
-    "hours": "",
-    "lat": 37.540431,
-    "lng": -77.420081,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-452280",
-    "name": "Friends Association for Children",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (15 funded slots)",
-    "address": "1004 St John St",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23220",
-    "phone": "(804) 644-2357",
-    "hours": "",
-    "lat": 37.552119,
-    "lng": -77.437143,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-452298",
-    "name": "Richmond Success Academy",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (17 funded slots)",
-    "address": "119 W Leigh St",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23220",
-    "phone": "(804) 771-7150",
-    "hours": "",
-    "lat": 37.549278,
-    "lng": -77.441219,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-207457",
     "name": "St Paul's Episcopal Church",
     "category": "Food",
@@ -169,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-577515",
-    "name": "Downtown Community Fridge",
-    "category": "Food",
-    "description": "Free community fridge providing food assistance. Open to all.",
-    "address": "121 East Main Street",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23219",
-    "phone": "",
-    "hours": "",
-    "lat": 37.5420297,
-    "lng": -77.4428681,
-    "tags": [
-      "community fridge",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-218589",
@@ -226,6 +150,82 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222932",
+    "name": "St. Thomas' Episcopal Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3602 Hawthorne Avenue",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23222",
+    "phone": "(804) 873-5849",
+    "hours": "",
+    "lat": 37.5819016,
+    "lng": -77.4453583,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-176682",
+    "name": "Second Baptist Church Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Second Baptist Church",
+    "address": "1400 Idlewood Avenue",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23220",
+    "phone": "",
+    "hours": "",
+    "lat": 37.543143586974,
+    "lng": -77.459900582889,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177115",
+    "name": "United Nations Church",
+    "category": "Food",
+    "description": "Food pantry distribution site at United Nations Church in Swansboro, Richmond.",
+    "address": "214 Cowardin Avenue",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23224",
+    "phone": "",
+    "hours": "",
+    "lat": 37.520761013739,
+    "lng": -77.450426853006,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177638",
+    "name": "Meadowbridge Community Market",
+    "category": "Food",
+    "description": "Mutual Aid Disaster Relief distribution site at Meadowbridge Community Market",
+    "address": "3613 Meadowbridge Road",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23222",
+    "phone": "",
+    "hours": "",
+    "lat": 37.581650930262,
+    "lng": -77.422875201992,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-richmond-shelter",

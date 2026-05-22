@@ -19,82 +19,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-443450",
-    "name": "Centro Mater East II HS",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (80 funded slots)",
-    "address": "421 SW 4th St",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33130",
-    "phone": "(305) 545-6049",
-    "hours": "",
-    "lat": 25.770155,
-    "lng": -80.201471,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-451322",
-    "name": "Rainbow Intergenerational Child Care",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (40 funded slots)",
-    "address": "700 SW 8th St",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33130",
-    "phone": "(305) 858-0887",
-    "hours": "",
-    "lat": 25.765914,
-    "lng": -80.205927,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-455009",
-    "name": "Centro Mater East I EHS",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (40 funded slots)",
-    "address": "418 SW 4th Ave",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33130",
-    "phone": "(305) 545-6049",
-    "hours": "",
-    "lat": 25.769608,
-    "lng": -80.201093,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-455010",
-    "name": "Centro Mater East I Home Based",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (67 funded slots)",
-    "address": "420 SW 4th Ave",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33130",
-    "phone": "(305) 545-6049",
-    "hours": "",
-    "lat": 25.769596,
-    "lng": -80.201149,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-224955",
     "name": "MDC WOLFSON SHARK PANTRY",
     "category": "Food",
@@ -152,80 +76,156 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-443398",
-    "name": "United Way Center of Excellence HS/EHS/Home Based",
+    "id": "fa-226",
+    "name": "Catholic Charities - Miami",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (32 funded slots)",
-    "address": "3250 SW 3rd Ave",
+    "description": "Miami-Dade residents, ID required",
+    "address": "1505 NE 2nd Ave",
     "city": "Miami",
     "state": "FL",
-    "zip": "33129",
-    "phone": "(305) 631-7600",
+    "zip": "33132",
+    "phone": "(305) 558-1463",
     "hours": "",
-    "lat": 25.752161,
-    "lng": -80.213826,
+    "lat": 25.7896,
+    "lng": -80.1909,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-443402",
-    "name": "Sunflowers Academy HS #5",
+    "id": "fa-227",
+    "name": "Camillus House",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (40 funded slots)",
-    "address": "1102 SW 27th Ave",
+    "description": "Open to all",
+    "address": "336 NW 5th St",
     "city": "Miami",
     "state": "FL",
-    "zip": "33135",
-    "phone": "(305) 644-0024",
+    "zip": "33128",
+    "phone": "(305) 374-1065",
     "hours": "",
-    "lat": 25.761959,
-    "lng": -80.238998,
+    "lat": 25.7796,
+    "lng": -80.1983,
     "tags": [
-      "head start",
+      "soup kitchen",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-443405",
-    "name": "Easter Seals Culmer HS",
+    "id": "fa-226216",
+    "name": "Miami Diaper Bank",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (60 funded slots)",
-    "address": "1600 NW 3rd Ave",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Miami, FL",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33101",
+    "phone": "",
+    "hours": "",
+    "lat": 25.77976,
+    "lng": -80.19877,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-201351",
+    "name": "St. John Institutional MB Church",
+    "category": "Food",
+    "description": "Food pantry location at St. John Institutional MB Church",
+    "address": "1328 NW 3rd Ave.",
     "city": "Miami",
     "state": "FL",
     "zip": "33136",
-    "phone": "(305) 438-8605",
+    "phone": "",
     "hours": "",
-    "lat": 25.790592,
-    "lng": -80.200856,
+    "lat": 25.7873258,
+    "lng": -80.2001904,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-443442",
-    "name": "MDCPS-Paul Laurence Dunbar K-8",
+    "id": "fa-3567",
+    "name": "Holy Comforter Episcopal Church",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (37 funded slots)",
-    "address": "505 NW 20th St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "150 SW 13 Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33135",
+    "phone": "(305) 643-2711",
+    "hours": "",
+    "lat": 25.76657,
+    "lng": -80.23495,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-628",
+    "name": "Miami Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "2200 NW 1st Avenue",
     "city": "Miami",
     "state": "FL",
     "zip": "33127",
-    "phone": "(305) 573-2344",
+    "phone": "(305) 571-5603",
     "hours": "",
-    "lat": 25.795852,
-    "lng": -80.203154,
+    "lat": 25.7943,
+    "lng": -80.1997,
     "tags": [
-      "head start",
+      "soup kitchen",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-3571",
+    "name": "Missionaries of Charity",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "724 NW 17 St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33136",
+    "phone": "(305) 545-5699",
+    "hours": "",
+    "lat": 25.78703,
+    "lng": -80.20444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-3572",
+    "name": "Camillus House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1603 NW 7th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33136",
+    "phone": "(305) 374-1065",
+    "hours": "",
+    "lat": 25.78703,
+    "lng": -80.20444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-miami-shelter",

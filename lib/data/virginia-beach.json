@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-453493",
-    "name": "Mile High Kids Head Start Virginia Beach - Atlantis Campus",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "999 Atlantis Dr",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23451",
-    "phone": "(757) 226-7111",
-    "hours": "",
-    "lat": 36.839115,
-    "lng": -75.993656,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-178303",
     "name": "Creating Legacies Inc.",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 36.8732758,
     "lng": -76.0407534,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197395",
+    "name": "Freedom Fellowship",
+    "category": "Food",
+    "description": "Freedom Fellowship food pantry location",
+    "address": "836 Regency Dr.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8539344,
+    "lng": -76.0337965,
     "tags": [
       "food pantry",
       "walk-in"

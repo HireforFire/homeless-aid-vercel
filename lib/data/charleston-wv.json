@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-445127",
-    "name": "Piedmont Elementary",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "203 Bradford St",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25301",
-    "phone": "(304) 348-1910",
-    "hours": "",
-    "lat": 38.343956,
-    "lng": -81.626725,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-221550",
     "name": "Trinity's Table",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 38.3736332,
     "lng": -81.6633802,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203344",
+    "name": "Mountain Mission - Charleston",
+    "category": "Food",
+    "description": "Mountain Mission food distribution center located in Charleston, West Virginia.",
+    "address": "1620 7th Avenue",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25387",
+    "phone": "",
+    "hours": "",
+    "lat": 38.3717361,
+    "lng": -81.6625978,
     "tags": [
       "food pantry",
       "walk-in"

@@ -57,44 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-448462",
-    "name": "Emerson High School, Little Wonders",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (14 funded slots)",
-    "address": "715 N Walker Ave",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73102",
-    "phone": "(405) 228-3242",
-    "hours": "",
-    "lat": 35.474276,
-    "lng": -97.52131,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-454969",
-    "name": "Kiddie Village Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (96 funded slots)",
-    "address": "801 NE 2nd St",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73104",
-    "phone": "(405) 235-9833",
-    "hours": "",
-    "lat": 35.469546,
-    "lng": -97.498888,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-218786",
     "name": "The Salvation Army - Nw 7Th St",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 35.4938139,
     "lng": -97.4792426,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192643",
+    "name": "Jesus House",
+    "category": "Food",
+    "description": "Jesus House - Soup Kitchen and Food Basket Program location",
+    "address": "1335 W. Sheridan Ave.",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.4667397,
+    "lng": -97.5366134,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193728",
+    "name": "Homeless Alliance Day Shelter",
+    "category": "Food",
+    "description": "Main day shelter location providing free meals and services for homeless individuals.",
+    "address": "1729 NW 4th St.",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.472129,
+    "lng": -97.544723,
     "tags": [
       "food pantry",
       "walk-in"

@@ -95,63 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-445302",
-    "name": "Area 1 - City College Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (32 funded slots)",
-    "address": "1313 Park Blvd Bldg Ecc",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "(619) 388-3073",
-    "hours": "",
-    "lat": 32.718701,
-    "lng": -117.152536,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-445315",
-    "name": "Area 1 - NHA STEM Institute of Early Learning",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (32 funded slots)",
-    "address": "808 W Cedar St",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "(619) 239-1985",
-    "hours": "",
-    "lat": 32.722287,
-    "lng": -117.170491,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-445318",
-    "name": "Area 1 - Broadway Site",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (28 funded slots)",
-    "address": "475 W Broadway",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "(858) 634-3204",
-    "hours": "",
-    "lat": 32.715414,
-    "lng": -117.167076,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-432",
     "name": "Catholic Charities SD",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196424",
+    "name": "Salvation Army Centre City",
+    "category": "Food",
+    "description": "Salvation Army Centre City food pantry location in downtown San Diego",
+    "address": "825 7th Avenue",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7138756,
+    "lng": -117.1580019,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200726",
+    "name": "Catholic Charities Diocese of San Diego - Cedar Street",
+    "category": "Food",
+    "description": "Main office and food assistance location",
+    "address": "349 Cedar Street",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7217579,
+    "lng": -117.1614928,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218462",
+    "name": "The Salvation Army - 5Th Ave",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2320 5th Ave.",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "(619) 446-0271",
+    "hours": "",
+    "lat": 32.7162,
+    "lng": -117.18589,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-san-diego-shelter",

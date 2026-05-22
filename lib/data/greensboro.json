@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-459667",
-    "name": "MARTIN DIXON HOUSE EARLY LEARNING CENTER",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (50 funded slots)",
-    "address": "600 Gorrell St",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "27406",
-    "phone": "(336) 369-5178",
-    "hours": "",
-    "lat": 36.0664,
-    "lng": -79.781016,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-783",
     "name": "Greensboro Urban Ministry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 36.0525018,
     "lng": -79.7802986,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212292",
+    "name": "Turning Point - Bread of Life",
+    "category": "Food",
+    "description": "Food pantry location providing groceries and food assistance.",
+    "address": "1606 Phillips Ave.",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27405",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0985692,
+    "lng": -79.7624232,
     "tags": [
       "food pantry",
       "walk-in"

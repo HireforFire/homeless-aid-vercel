@@ -133,44 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-445387",
-    "name": "East End Child Development",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (15 funded slots)",
-    "address": "215 Congress St",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "(207) 553-5950",
-    "hours": "",
-    "lat": 43.6634,
-    "lng": -70.250925,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-445388",
-    "name": "Bayside Anchor",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (15 funded slots)",
-    "address": "81 E Oxford St.",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "(207) 553-5943",
-    "hours": "",
-    "lat": 43.663164,
-    "lng": -70.255438,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-226217",
     "name": "Michael Klahr Jewish Family Services",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 43.655433,
     "lng": -70.269386,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181088",
+    "name": "The Opportunity Alliance - Portland",
+    "category": "Food",
+    "description": "Main location in Portland",
+    "address": "190 Lancaster St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6595982,
+    "lng": -70.2620239,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181751",
+    "name": "Wayside - Portland",
+    "category": "Food",
+    "description": "Walk-up food distribution location",
+    "address": "252 Oxford St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6588139,
+    "lng": -70.2620405,
     "tags": [
       "food pantry",
       "walk-in"

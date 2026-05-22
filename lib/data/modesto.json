@@ -76,44 +76,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-450712",
-    "name": "Tom Changnon Education Center (TCEC)",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (5 funded slots)",
-    "address": "1325 H St",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "95354",
-    "phone": "(209) 238-6300",
-    "hours": "",
-    "lat": 37.64127,
-    "lng": -120.994844,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-450725",
-    "name": "Pearson Elementary",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "500 Locust St",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "95351",
-    "phone": "(209) 576-4392",
-    "hours": "",
-    "lat": 37.640339,
-    "lng": -121.013019,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-453",
     "name": "Modesto Gospel Mission",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 37.6236,
     "lng": -120.99828,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223862",
+    "name": "MJC Pirates' Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2201 Blue Gum Ave",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95358",
+    "phone": "(209) 575-7902",
+    "hours": "",
+    "lat": 37.6627211,
+    "lng": -121.0354933,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224388",
+    "name": "THE FOOD INITATIVE",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "120 Kerr Ave",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "(209) 572-3117",
+    "hours": "",
+    "lat": 37.6375559,
+    "lng": -120.9708268,
     "tags": [
       "food pantry",
       "walk-in"

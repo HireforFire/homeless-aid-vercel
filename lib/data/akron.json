@@ -152,25 +152,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-456712",
-    "name": "Head Start at Cedar",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (34 funded slots)",
-    "address": "442 Bell St",
-    "city": "Akron",
-    "state": "OH",
-    "zip": "44307",
-    "phone": "(330) 535-4746",
-    "hours": "",
-    "lat": 41.08196,
-    "lng": -81.536168,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-179060",
     "name": "Pantry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 41.0902537,
     "lng": -81.5335741,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196550",
+    "name": "Sarah's House Inc - Meal Distribution",
+    "category": "Food",
+    "description": "Meal service location at 414 Pine St",
+    "address": "414 Pine St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44307",
+    "phone": "",
+    "hours": "",
+    "lat": 41.07721873,
+    "lng": -81.52934226,
     "tags": [
       "food pantry",
       "walk-in"

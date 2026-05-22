@@ -114,63 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-451371",
-    "name": "Developing Young Minds",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (40 funded slots)",
-    "address": "517 W Breckinridge St",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40203",
-    "phone": "(502) 690-7185",
-    "hours": "",
-    "lat": 38.242436,
-    "lng": -85.761574,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-452224",
-    "name": "Family & Children's Place",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (60 funded slots)",
-    "address": "525 Zane St",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40203",
-    "phone": "(502) 893-3900",
-    "hours": "",
-    "lat": 38.238838,
-    "lng": -85.761898,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-453712",
-    "name": "Russell Head Start / Early Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (28 funded slots)",
-    "address": "1219 W Jefferson St Ste 104-105",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40203",
-    "phone": "(502) 220-8269",
-    "hours": "",
-    "lat": 38.255727,
-    "lng": -85.770576,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-179025",
     "name": "Wayside Christian Mission - Main Location",
     "category": "Food",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 38.2620641,
     "lng": -85.7906244,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224497",
+    "name": "Catholic Enrichment Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3146 West Broadway",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40211",
+    "phone": "(502) 776-0262",
+    "hours": "",
+    "lat": 38.2493286,
+    "lng": -85.8054962,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224755",
+    "name": "Cabbage Patch Summer Lunch Program",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1413 S 6th St",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40208",
+    "phone": "(502) 939-0544",
+    "hours": "",
+    "lat": 38.2288812,
+    "lng": -85.7644875,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225509",
+    "name": "Mt. Lebanon",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2224 W. Chestnut St",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40211",
+    "phone": "(502) 774-4990",
+    "hours": "",
+    "lat": 38.2523575,
+    "lng": -85.7889023,
     "tags": [
       "food pantry",
       "walk-in"

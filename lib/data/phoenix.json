@@ -133,44 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-449581",
-    "name": "Chicanos Por La Causa Inc. Via de Amistadt Early Head Start",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (88 funded slots)",
-    "address": "1402 S Central Ave",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85004",
-    "phone": "(602) 716-0157",
-    "hours": "",
-    "lat": 33.433641,
-    "lng": -112.074433,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-449896",
-    "name": "Lowell Elementary School",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (17 funded slots)",
-    "address": "1121 S 3rd Ave",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85003",
-    "phone": "(1) 602-2680",
-    "hours": "",
-    "lat": 33.436743,
-    "lng": -112.07684,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-734",
     "name": "Association of Arizona Food Banks",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-226173",
+    "name": "Diaper Bank of Southern Arizona",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Phoenix, AZ",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85001",
+    "phone": "",
+    "hours": "",
+    "lat": 33.44922,
+    "lng": -112.06921,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-182512",
+    "name": "Justa Center Inc",
+    "category": "Food",
+    "description": "Food distribution center with air conditioning. Indoor service available for walk-ins.",
+    "address": "1001 W Jefferson St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85007",
+    "phone": "",
+    "hours": "",
+    "lat": 33.446755,
+    "lng": -112.0861456,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-phoenix-shelter",

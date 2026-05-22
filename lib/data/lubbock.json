@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-216940",
-    "name": "The Salvation Army - 16Th St Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1111 16th St",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79401",
-    "phone": "(806) 765-9434",
-    "hours": "",
-    "lat": 33.58683,
-    "lng": -101.85179,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-194944",
     "name": "St. Benedict's Chapel",
     "category": "Food",
@@ -57,42 +38,23 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-460445",
-    "name": "Bean Elementary",
+    "id": "fa-216940",
+    "name": "The Salvation Army - 16Th St Corps",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (39 funded slots)",
-    "address": "3001 Avenue N",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79411",
-    "phone": "(806) 219-5100",
-    "hours": "",
-    "lat": 33.567651,
-    "lng": -101.849926,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-460454",
-    "name": "Ramirez Elementary",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (14 funded slots)",
-    "address": "702 Avenue T",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1111 16th St",
     "city": "Lubbock",
     "state": "TX",
     "zip": "79401",
-    "phone": "(806) 219-6500",
+    "phone": "(806) 765-9434",
     "hours": "",
-    "lat": 33.589017,
-    "lng": -101.861284,
+    "lat": 33.58683,
+    "lng": -101.85179,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-202",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13721",
+    "name": "Wreck Hunger Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "Texas Tech Graduate Center, Lubbock, TX 79415",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79409",
+    "phone": "(806) 553-0250",
+    "hours": "",
+    "lat": 33.58606,
+    "lng": -101.85381,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-625",
+    "name": "Lubbock Impact",
+    "category": "Food",
+    "description": "Lubbock area",
+    "address": "3511 Avenue A",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79404",
+    "phone": "(806) 740-1909",
+    "hours": "",
+    "lat": 33.576,
+    "lng": -101.8333,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-lubbock-shelter",

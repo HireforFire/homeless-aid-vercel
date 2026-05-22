@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-216924",
-    "name": "The Salvation Army - Liberty St Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "909 Liberty St",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "(919) 688-7306",
-    "hours": "",
-    "lat": 35.99858,
-    "lng": -78.89872,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-183717",
     "name": "Fisher Memorial United Holy Church",
     "category": "Food",
@@ -76,42 +57,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-451279",
-    "name": "Leathers Meachem Head Start",
+    "id": "fa-216924",
+    "name": "The Salvation Army - Liberty St Corps",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "908 Liberty St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "909 Liberty St",
     "city": "Durham",
     "state": "NC",
     "zip": "27701",
-    "phone": "(919) 536-5560",
+    "phone": "(919) 688-7306",
     "hours": "",
-    "lat": 35.992715,
-    "lng": -78.885657,
+    "lat": 35.99858,
+    "lng": -78.89872,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-451280",
-    "name": "Seminary /Main Site",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (32 funded slots)",
-    "address": "215 W Seminary St",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "(919) 688-5541",
-    "hours": "",
-    "lat": 35.99885,
-    "lng": -78.900303,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-690",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 35.9816049,
     "lng": -78.8925971,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195481",
+    "name": "Faith Temple House of Prayer (FTHOP)",
+    "category": "Food",
+    "description": "Food pantry location at Faith Temple House of Prayer",
+    "address": "700 S Mangum St",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9891571,
+    "lng": -78.9035691,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196599",
+    "name": "CAARE, Inc. - Downtown Location",
+    "category": "Food",
+    "description": "Main location of CAARE, Inc. at 205 Broadway Street",
+    "address": "205 Broadway Street",
+    "city": "Downtown",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0007623,
+    "lng": -78.8980795,
     "tags": [
       "food pantry",
       "walk-in"

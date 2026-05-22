@@ -95,63 +95,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-451413",
-    "name": "Central City",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
-    "address": "615 S 300 E",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84111",
-    "phone": "(385) 468-1558",
-    "hours": "",
-    "lat": 40.755609,
-    "lng": -111.881839,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-577490",
-    "name": "Somali Community Self-Management Agency Food Pantry",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "1578 West 1700 South",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84104",
-    "phone": "(801) 487-0822",
-    "hours": "",
-    "lat": 40.7335206,
-    "lng": -111.9351604,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
-    "id": "fa-577494",
-    "name": "Crossroads Westside Food Pantry",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "1358 West Indiana Avenue",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84104",
-    "phone": "(801) 935-4079",
-    "hours": "",
-    "lat": 40.7515624,
-    "lng": -111.9298418,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-226251",
     "name": "Utah Food Bank",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13898",
+    "name": "Hildegarde's Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "231 East 100 South",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 328-2303",
+    "hours": "",
+    "lat": 40.75575,
+    "lng": -111.88431,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13905",
+    "name": "Crossroads Urban Center Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "347 S 400 East",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 364-7765",
+    "hours": "",
+    "lat": 40.75575,
+    "lng": -111.88431,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-577490",
+    "name": "Somali Community Self-Management Agency Food Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1578 West 1700 South",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84104",
+    "phone": "(801) 487-0822",
+    "hours": "",
+    "lat": 40.7335206,
+    "lng": -111.9351604,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fallback-salt-lake-city-shelter",

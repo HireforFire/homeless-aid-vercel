@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-442053",
-    "name": "Liberty",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (32 funded slots)",
-    "address": "2021 Saint Marys Ave",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68102",
-    "phone": "(531) 299-1740",
-    "hours": "",
-    "lat": 41.253807,
-    "lng": -95.942925,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-226209",
     "name": "Nebraska Diaper Bank",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 41.254923,
     "lng": -95.946353,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194288",
+    "name": "Fricke Episcopal Community Ministry",
+    "category": "Food",
+    "description": "Main food pantry location offering walk-up food assistance services",
+    "address": "113 N 18th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "",
+    "hours": "",
+    "lat": 41.260363,
+    "lng": -95.93932199999999,
     "tags": [
       "food pantry",
       "walk-in"

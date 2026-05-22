@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-445252",
-    "name": "Bethlehem Community Center, Inc",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (17 funded slots)",
-    "address": "520 N Cleveland Ave",
-    "city": "Winston Salem",
-    "state": "NC",
-    "zip": "27101",
-    "phone": "(336) 722-6264",
-    "hours": "",
-    "lat": 36.10121,
-    "lng": -80.231871,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-177577",
     "name": "The Dwelling",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 36.110533,
     "lng": -80.2486848,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197009",
+    "name": "First Baptist of East Winston",
+    "category": "Food",
+    "description": "Main location at 700 Highland Avenue in Winston-Salem, NC",
+    "address": "700 Highland Avenue",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27101",
+    "phone": "",
+    "hours": "",
+    "lat": 36.10240599999999,
+    "lng": -80.2336789,
     "tags": [
       "food pantry",
       "walk-in"

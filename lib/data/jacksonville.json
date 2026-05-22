@@ -57,63 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-454917",
-    "name": "Don Brewer Early Learning Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (34 funded slots)",
-    "address": "1095 A Philip Randolph Blvd Ste 1",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "32206",
-    "phone": "(904) 423-8637",
-    "hours": "",
-    "lat": 30.335503,
-    "lng": -81.642251,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-458513",
-    "name": "8th Street",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (72 funded slots)",
-    "address": "20 W 8th St",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "32206",
-    "phone": "(1) 904-674",
-    "hours": "",
-    "lat": 30.345611,
-    "lng": -81.654756,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-459019",
-    "name": "Robert F. Kennedy",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "1133 Ionia St",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "32206",
-    "phone": "(1) 904-674",
-    "hours": "",
-    "lat": 30.33674,
-    "lng": -81.646845,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-364",
     "name": "Catholic Charities - Jacksonville",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-218981",
+    "name": "Second Harvest North Florida",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1502 Jessie St.",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32206",
+    "phone": "(904) 353-3663",
+    "hours": "",
+    "lat": 30.3333149,
+    "lng": -81.6359711,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219766",
+    "name": "Second Harvest of North Florida",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1502 Jessie Street",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32206",
+    "phone": "(904) 517-5562",
+    "hours": "",
+    "lat": 30.3333263,
+    "lng": -81.6359634,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219806",
+    "name": "UCCY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1061 Line Street",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32209",
+    "phone": "(904) 720-0339",
+    "hours": "",
+    "lat": 30.3383789,
+    "lng": -81.6972122,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-jacksonville-shelter",

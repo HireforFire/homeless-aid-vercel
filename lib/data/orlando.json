@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-458652",
-    "name": "CALLAHAN COMMUNITY CENTER",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (49 funded slots)",
-    "address": "101 N Parramore Ave",
-    "city": "Orlando",
-    "state": "FL",
-    "zip": "32801",
-    "phone": "(407) 836-6700",
-    "hours": "",
-    "lat": 28.544317,
-    "lng": -81.388044,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-181283",
     "name": "Shiloh Baptist Church of Orlando",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 28.5310154,
     "lng": -81.4002457,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221327",
+    "name": "The First Community Christian Pentecostal Church of God inc",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1877 South Orange Blossom TRL",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "(407) 860-8807",
+    "hours": "",
+    "lat": 28.5221252,
+    "lng": -81.3967133,
     "tags": [
       "food pantry",
       "walk-in"

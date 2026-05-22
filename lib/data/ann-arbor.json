@@ -57,44 +57,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-453573",
-    "name": "W. Scott Westerman Jr.,  Preschool and Family Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (98 funded slots)",
-    "address": "2775 Boardwalk St",
-    "city": "Ann Arbor",
-    "state": "MI",
-    "zip": "48104",
-    "phone": "(1) 734-994",
-    "hours": "",
-    "lat": 42.247289,
-    "lng": -83.734115,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-453577",
-    "name": "Gretchen's House",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (8 funded slots)",
-    "address": "1735 S Wagner Rd",
-    "city": "Ann Arbor",
-    "state": "MI",
-    "zip": "48103",
-    "phone": "(734)994-8100 - 1269",
-    "hours": "",
-    "lat": 42.261796,
-    "lng": -83.796411,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-218528",
     "name": "The Salvation Army - Packard",
     "category": "Food",
@@ -112,25 +74,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-453576",
-    "name": "Washtenaw Intermediate School District",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (56 funded slots)",
-    "address": "1819 S Wagner Rd",
-    "city": "Ann Arbor",
-    "state": "MI",
-    "zip": "48103",
-    "phone": "(1) 734-994",
-    "hours": "",
-    "lat": 42.260359,
-    "lng": -83.796948,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fa-696",

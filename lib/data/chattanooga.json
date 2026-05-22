@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-216989",
-    "name": "The Salvation Army - McCallie Ave Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "800 McCallie Ave",
-    "city": "Chattanooga",
-    "state": "TN",
-    "zip": "37403",
-    "phone": "(423) 756-1023",
-    "hours": "",
-    "lat": 35.0476,
-    "lng": -85.29448,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-212535",
     "name": "Wauhatchie United Methodist Church",
     "category": "Food",
@@ -57,23 +38,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-458079",
-    "name": "Newton Child Care Development Center",
+    "id": "fa-216989",
+    "name": "The Salvation Army - McCallie Ave Corps",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "1301 Grove Street Ct",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 McCallie Ave",
     "city": "Chattanooga",
     "state": "TN",
-    "zip": "37402",
-    "phone": "(423) 266-4341",
+    "zip": "37403",
+    "phone": "(423) 756-1023",
     "hours": "",
-    "lat": 35.043037,
-    "lng": -85.319143,
+    "lat": 35.0476,
+    "lng": -85.29448,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-226369",
@@ -171,61 +152,80 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-457391",
-    "name": "Avondale Head Start",
+    "id": "fa-181077",
+    "name": "Metropolitan Ministries",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (70 funded slots)",
-    "address": "2302 Ocoee St",
-    "city": "Chattanooga",
-    "state": "TN",
-    "zip": "37406",
-    "phone": "(423) 643-6533",
-    "hours": "",
-    "lat": 35.054512,
-    "lng": -85.258394,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-457393",
-    "name": "Orchard Knob Elementary",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (20 funded slots)",
-    "address": "2000 E 3rd St",
+    "description": "Main food bank location providing food bank vouchers.",
+    "address": "1112 McCallie Avenue",
     "city": "Chattanooga",
     "state": "TN",
     "zip": "37404",
-    "phone": "(423) 493-0385",
+    "phone": "",
     "hours": "",
-    "lat": 35.039699,
-    "lng": -85.270927,
+    "lat": 35.0392677,
+    "lng": -85.2845387,
     "tags": [
-      "head start",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-457395",
-    "name": "Calvin Donaldson Elementary",
+    "id": "fa-184980",
+    "name": "Faith United Baptist Church",
     "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (40 funded slots)",
-    "address": "927 W 37th St",
+    "description": "Faith United Baptist Church located in Chattanooga, Tennessee",
+    "address": "1800 Mulberry Street",
     "city": "Chattanooga",
     "state": "TN",
-    "zip": "37410",
-    "phone": "(423) 643-6537",
+    "zip": "37404",
+    "phone": "",
     "hours": "",
-    "lat": 35.011297,
-    "lng": -85.318924,
+    "lat": 35.0224086,
+    "lng": -85.2794718,
     "tags": [
-      "head start",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200882",
+    "name": "Cempa",
+    "category": "Food",
+    "description": "Food distribution location in Chattanooga with air conditioning.",
+    "address": "1000 E 3rd St",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37403",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0472644,
+    "lng": -85.2905001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203759",
+    "name": "Chattanooga Area Food Bank",
+    "category": "Food",
+    "description": "Main food bank facility",
+    "address": "2909 Curtain Pull Road",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37406",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0634058,
+    "lng": -85.2738969,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-chattanooga-shelter",

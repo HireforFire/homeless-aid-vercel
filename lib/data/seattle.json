@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-452988",
-    "name": "Yesler Terrace",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (30 funded slots)",
-    "address": "1215 E Fir St",
-    "city": "Seattle",
-    "state": "WA",
-    "zip": "98122",
-    "phone": "(206) 806-7395",
-    "hours": "",
-    "lat": 47.602486,
-    "lng": -122.315957,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-226257",
     "name": "WestSide Baby",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -122.344353,
     "tags": [
       "community fridge",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181545",
+    "name": "City Of Seattle Dept. Of Housing And Human Services - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center providing walk-up food services",
+    "address": "618 2nd Ave",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98104",
+    "phone": "",
+    "hours": "",
+    "lat": 47.6029352,
+    "lng": -122.3327947,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

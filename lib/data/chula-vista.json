@@ -95,63 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-445365",
-    "name": "ECS -- HS Homebase",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (84 funded slots)",
-    "address": "310 3rd Ave Ste A1",
-    "city": "Chula Vista",
-    "state": "CA",
-    "zip": "91910",
-    "phone": "(619) 796-7296",
-    "hours": "",
-    "lat": 32.640884,
-    "lng": -117.080374,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-445375",
-    "name": "ECS -- EHS Homebase",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (222 funded slots)",
-    "address": "310 3rd Ave Ste A2",
-    "city": "Chula Vista",
-    "state": "CA",
-    "zip": "91910",
-    "phone": "(619) 796-7895",
-    "hours": "",
-    "lat": 32.640884,
-    "lng": -117.080374,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-457862",
-    "name": "ECS -- 4th and D",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (16 funded slots)",
-    "address": "385 D St",
-    "city": "Chula Vista",
-    "state": "CA",
-    "zip": "91910",
-    "phone": "(619) 409-4200",
-    "hours": "",
-    "lat": 32.647737,
-    "lng": -117.086123,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-435",
     "name": "South Bay Community Services",
     "category": "Food",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 32.6378961,
     "lng": -117.0865103,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172343",
+    "name": "Oxford Terrace Apartments",
+    "category": "Food",
+    "description": "Emergency food assistance distribution site",
+    "address": "555 Oxford Street",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91911",
+    "phone": "(866) 350-3663",
+    "hours": "",
+    "lat": 32.6069971,
+    "lng": -117.0772477,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172462",
+    "name": "Us4Warriors",
+    "category": "Food",
+    "description": "Food pantry location serving Active Duty, Veterans, and their families",
+    "address": "1690 W. Frontage Road Suite 201",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91911",
+    "phone": "888-444-1415 ext. 4",
+    "hours": "",
+    "lat": 32.5974982,
+    "lng": -117.0901647,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174632",
+    "name": "Southport Christian Center",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "142 E. 16th Street",
+    "city": "National City",
+    "state": "CA",
+    "zip": "91950",
+    "phone": "(619) 474-2834",
+    "hours": "",
+    "lat": 32.6691954,
+    "lng": -117.1022536,
     "tags": [
       "food pantry",
       "walk-in"

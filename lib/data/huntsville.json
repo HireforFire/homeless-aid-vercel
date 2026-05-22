@@ -114,25 +114,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-450388",
-    "name": "CAPNA - Downtown YMCA ECE Center",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. early head start. Call to enroll. (24 funded slots)",
-    "address": "2000 Vernon Ave SW Ste A",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35805",
-    "phone": "(256) 536-8131",
-    "hours": "",
-    "lat": 34.723688,
-    "lng": -86.596448,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-220015",
     "name": "Adventist Community Service",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 34.7334678,
     "lng": -86.6116167,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191684",
+    "name": "Rose of Sharon",
+    "category": "Food",
+    "description": "Rose of Sharon food assistance and hot meal service location",
+    "address": "723 Arcadia Cir NW",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35810",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7469849,
+    "lng": -86.5989826,
     "tags": [
       "food pantry",
       "walk-in"

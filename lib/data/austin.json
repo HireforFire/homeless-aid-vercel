@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-455269",
-    "name": "Sanchez Elementary School",
-    "category": "Food",
-    "description": "Free preschool + meals for children of income-eligible families. head start. Call to enroll. (17 funded slots)",
-    "address": "73 San Marcos St",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78702",
-    "phone": "(512) 414-4423",
-    "hours": "",
-    "lat": 30.257992,
-    "lng": -97.735056,
-    "tags": [
-      "head start",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-163",
     "name": "Salvation Army - Austin",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 30.2855015,
     "lng": -97.7425766,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220677",
+    "name": "H.A.N.D. Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1640B East 2nd St. Ste 200",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "phone": "(512) 477-3796",
+    "hours": "",
+    "lat": 30.25914,
+    "lng": -97.7264481,
     "tags": [
       "food pantry",
       "walk-in"

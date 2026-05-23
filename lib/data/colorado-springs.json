@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-220075",
-    "name": "Care and Share Food Bank, Inc",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2605 Preamble Point",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80915",
-    "phone": "(719) 528-1247",
-    "hours": "",
-    "lat": 38.8338814,
-    "lng": -104.8213654,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225196",
-    "name": "linda west",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "6212 Roundbutte St.",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80925",
-    "phone": "(719) 205-2712",
-    "hours": "",
-    "lat": 38.8338814,
-    "lng": -104.8213654,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-176269",
     "name": "Unitarian Church of All Souls",
     "category": "Food",
@@ -74,6 +36,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220075",
+    "name": "Care and Share Food Bank, Inc",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2605 Preamble Point",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80915",
+    "phone": "(719) 528-1247",
+    "hours": "",
+    "lat": 38.8338814,
+    "lng": -104.8213654,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225196",
+    "name": "linda west",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "6212 Roundbutte St.",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80925",
+    "phone": "(719) 205-2712",
+    "hours": "",
+    "lat": 38.8338814,
+    "lng": -104.8213654,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-193978",
@@ -190,25 +190,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-220122",
-    "name": "Living Faith Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2120 King St.",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80904",
-    "phone": "(719) 217-9551",
-    "hours": "",
-    "lat": 38.857151,
-    "lng": -104.853035,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-216200",
     "name": "Trinity United Methodist Church",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 38.84914,
     "lng": -104.851433,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-216219",
+    "name": "Pike’s Peak Biker’s Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1505 E Monument St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80909",
+    "phone": "(719) 600-9894",
+    "hours": "",
+    "lat": 38.842571,
+    "lng": -104.798286,
     "tags": [
       "food pantry",
       "walk-in"

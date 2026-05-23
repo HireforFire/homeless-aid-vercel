@@ -1,100 +1,5 @@
 [
   {
-    "id": "fa-218609",
-    "name": "The Salvation Army - N Market",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "350 N Market",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67202",
-    "phone": "(316) 263-2196",
-    "hours": "",
-    "lat": 37.68668,
-    "lng": -97.33521,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220936",
-    "name": "The Salvation Army",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "350 N Market",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67202",
-    "phone": "(316) 263-2769",
-    "hours": "",
-    "lat": 37.6910439,
-    "lng": -97.3365555,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222611",
-    "name": "Catholic Charities Help Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "437 N Topeka",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67202",
-    "phone": "(316) 262-8898",
-    "hours": "",
-    "lat": 37.69244,
-    "lng": -97.3342972,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223016",
-    "name": "Breakthrough (Episcopal Social Services)",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1010 N Main St",
-    "city": "Wichita, KS, Wichita",
-    "state": "KS",
-    "zip": "67203",
-    "phone": "(316) 665-8616",
-    "hours": "",
-    "lat": 37.7005005,
-    "lng": -97.337738,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224523",
-    "name": "Messiah's Branch",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "900 S Broadway",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67211",
-    "phone": "(316) 619-4886",
-    "hours": "",
-    "lat": 37.6759134,
-    "lng": -97.3353522,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-185513",
     "name": "Table Of Hope - Wichita",
     "category": "Food",
@@ -188,6 +93,101 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-218609",
+    "name": "The Salvation Army - N Market",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "350 N Market",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67202",
+    "phone": "(316) 263-2196",
+    "hours": "",
+    "lat": 37.68668,
+    "lng": -97.33521,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220936",
+    "name": "The Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "350 N Market",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67202",
+    "phone": "(316) 263-2769",
+    "hours": "",
+    "lat": 37.6910439,
+    "lng": -97.3365555,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222611",
+    "name": "Catholic Charities Help Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "437 N Topeka",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67202",
+    "phone": "(316) 262-8898",
+    "hours": "",
+    "lat": 37.69244,
+    "lng": -97.3342972,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223016",
+    "name": "Breakthrough (Episcopal Social Services)",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1010 N Main St",
+    "city": "Wichita, KS, Wichita",
+    "state": "KS",
+    "zip": "67203",
+    "phone": "(316) 665-8616",
+    "hours": "",
+    "lat": 37.7005005,
+    "lng": -97.337738,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224523",
+    "name": "Messiah's Branch",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "900 S Broadway",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67211",
+    "phone": "(316) 619-4886",
+    "hours": "",
+    "lat": 37.6759134,
+    "lng": -97.3353522,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-200243",

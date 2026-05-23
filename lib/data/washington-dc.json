@@ -1,62 +1,5 @@
 [
   {
-    "id": "fa-218493",
-    "name": "The Salvation Army - Harvard St Nw",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1434 Harvard St NW",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "20009",
-    "phone": "(202) 332-5000",
-    "hours": "",
-    "lat": 38.91986,
-    "lng": -77.03749,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222933",
-    "name": "Bread for the City",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1525 Seventh Street",
-    "city": "NW, Washington",
-    "state": "DC",
-    "zip": "20001",
-    "phone": "(202) 386-7601",
-    "hours": "",
-    "lat": 38.9103106,
-    "lng": -77.021587,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222944",
-    "name": "Marthas Table",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2114 14th Street NW",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "20009",
-    "phone": "(202) 328-6608",
-    "hours": "",
-    "lat": 38.9185075,
-    "lng": -77.0323833,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-170215",
     "name": "James Apartments",
     "category": "Food",
@@ -228,6 +171,63 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-170689",
+    "name": "Charlie's Place",
+    "category": "Food",
+    "description": "Clothing donation drop off location in Northwest Washington",
+    "address": "1820 Connecticut Avenue Northwest",
+    "city": "Northwest Washington",
+    "state": "DC",
+    "zip": "20009",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9151238,
+    "lng": -77.04667630000002,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170691",
+    "name": "St. Augustine Catholic Church",
+    "category": "Food",
+    "description": "St. Augustine Catholic Church located in Northwest Washington",
+    "address": "1419 V Street Northwest",
+    "city": "Northwest Washington",
+    "state": "DC",
+    "zip": "20009",
+    "phone": "(202) 265-1470",
+    "hours": "",
+    "lat": 38.9183275,
+    "lng": -77.032923,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170696",
+    "name": "New York Avenue Presbyterian Church",
+    "category": "Food",
+    "description": "Main church location providing food distribution and community services.",
+    "address": "1313 New York Avenue Northwest",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20005",
+    "phone": "(202) 393-3700",
+    "hours": "",
+    "lat": 38.8998368,
+    "lng": -77.03127640000001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "osm-node-358961190",
     "name": "Emery Shelter Clinic",
     "category": "Shelter",
@@ -247,41 +247,373 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "fallback-washington-dc-hygiene",
-    "name": "Washington Public Restroom Information",
-    "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "",
-    "phone": "",
-    "hours": "Varies",
-    "lat": 38.9072,
-    "lng": -77.0369,
-    "tags": [
-      "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-washington-dc-library",
-    "name": "Washington Public Library System",
+    "id": "osm-node-367142107",
+    "name": "Riggs Library",
     "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "description": "library",
     "address": "",
     "city": "Washington",
     "state": "DC",
     "zip": "",
     "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 38.9072,
-    "lng": -77.0369,
+    "hours": "",
+    "lat": 38.9069563,
+    "lng": -77.0726504,
     "tags": [
       "library",
       "wifi",
       "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367142114",
+    "name": "Paul Himmelfarb Health Sciences Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9003,
+    "lng": -77.0506,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367142117",
+    "name": "Sister Helen Sheehan Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9266667,
+    "lng": -77.0052778,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367142119",
+    "name": "Business Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9241667,
+    "lng": -77.0222222,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367797662",
+    "name": "Beltsville Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sellman Road 4319",
+    "city": "Beltsville",
+    "state": "MD",
+    "zip": "20705",
+    "phone": "(301) 937-0294",
+    "hours": "Mo,Th,Fr 10:00-18:00;Tu,We 12:00-20:00;Sa 10:00-17:00;Su 13:00-17:00",
+    "lat": 39.034774,
+    "lng": -76.9189885,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367798086",
+    "name": "Takoma Park Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Philadelphia Avenue 101",
+    "city": "Takoma Park",
+    "state": "MD",
+    "zip": "20912",
+    "phone": "(301) 891-7259",
+    "hours": "",
+    "lat": 38.9814992,
+    "lng": -77.0108098,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986191",
+    "name": "George Mason Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8274394,
+    "lng": -77.1862359,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986365",
+    "name": "GMU Arlington Campus Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.885012,
+    "lng": -77.1001766,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986375",
+    "name": "George Mason University Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8851119,
+    "lng": -77.1002563,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986482",
+    "name": "Kingstowne Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo,Tu 10:00-21:00; We-Sa 10:00-18:00; Su off",
+    "lat": 38.7400386,
+    "lng": -77.1646166,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-609736375",
+    "name": "True REST Float Spa",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "Belle View Boulevard 1640",
+    "city": "Washington",
+    "state": "VA",
+    "zip": "22307",
+    "phone": "(347) 564-4628",
+    "hours": "",
+    "lat": 38.7755724,
+    "lng": -77.0619346,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4723528395",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8224766,
+    "lng": -77.1592592,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5210389722",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Columbia Pike 7031",
+    "city": "Annandale",
+    "state": "VA",
+    "zip": "22003",
+    "phone": "",
+    "hours": "Mo, We-Sa 10:00-21:00; Tu 09:00-21:00; Su 10:00-18:00",
+    "lat": 38.8322769,
+    "lng": -77.1886936,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6162249707",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Annandale Road",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8706585,
+    "lng": -77.1749391,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7526430508",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Arlington Boulevard 6136",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22044",
+    "phone": "(703) 533-1840",
+    "hours": "Mo-Sa 12:00-19:30; Su 10:00-17:00",
+    "lat": 38.8689394,
+    "lng": -77.1452812,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7546757954",
+    "name": "Capital Caring Thrift Store & Boutique",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Arlington Boulevard 6172",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22044",
+    "phone": "(571) 730-4311",
+    "hours": "Tu-Fr 10:00-15:00; Sa 10:00-16:30",
+    "lat": 38.8701136,
+    "lng": -77.1467063,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9991142065",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Richmond Highway 6220",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22303",
+    "phone": "",
+    "hours": "",
+    "lat": 38.7837045,
+    "lng": -77.0771266,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10206274576",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Gude Drive 1029",
+    "city": "Rockville",
+    "state": "MD",
+    "zip": "20850",
+    "phone": "(301) 947-3304",
+    "hours": "Tu-Sa 10:00-17:00; Su 11:00-17:00",
+    "lat": 39.0986242,
+    "lng": -77.1384718,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10879005187",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Telegraph Road 7558",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22315",
+    "phone": "(703) 310-6195",
+    "hours": "",
+    "lat": 38.7536248,
+    "lng": -77.1399494,
+    "tags": [
+      "thrift",
+      "charity"
     ],
     "lastUpdated": "2026-05-14"
   }

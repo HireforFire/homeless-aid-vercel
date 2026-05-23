@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-174927",
+    "name": "Tulare Street Baptist Center",
+    "category": "Food",
+    "description": "Food assistance distribution location",
+    "address": "8179 W. Tulare St.",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93706",
+    "phone": "(559) 266-2406",
+    "hours": "",
+    "lat": 36.7324687,
+    "lng": -119.7922256,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-448",
+    "name": "Poverello House",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "412 F St",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93706",
+    "phone": "(559) 498-6988",
+    "hours": "",
+    "lat": 36.7411,
+    "lng": -119.7961,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-218642",
     "name": "The Salvation Army - Fulton Street 1",
     "category": "Food",
@@ -55,44 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-174927",
-    "name": "Tulare Street Baptist Center",
-    "category": "Food",
-    "description": "Food assistance distribution location",
-    "address": "8179 W. Tulare St.",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "93706",
-    "phone": "(559) 266-2406",
-    "hours": "",
-    "lat": 36.7324687,
-    "lng": -119.7922256,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-448",
-    "name": "Poverello House",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "412 F St",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "93706",
-    "phone": "(559) 498-6988",
-    "hours": "",
-    "lat": 36.7411,
-    "lng": -119.7961,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-217110",

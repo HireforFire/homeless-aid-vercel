@@ -152,80 +152,80 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-219036",
-    "name": "East Nashville Cooperative Ministry",
+    "id": "fa-180720",
+    "name": "The Little Pantry that Could",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "807 Main St.",
-    "city": "Nashville",
+    "description": "Food pantry distribution location",
+    "address": "2011 24th Avenue North",
+    "city": "Nashville-Davidson",
     "state": "TN",
-    "zip": "37206",
-    "phone": "(615) 584-2512",
+    "zip": "37208",
+    "phone": "",
     "hours": "",
-    "lat": 36.175869,
-    "lng": -86.7583694,
+    "lat": 36.1835623,
+    "lng": -86.8161109,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-219250",
-    "name": "Pantry",
+    "id": "fa-188855",
+    "name": "McGruder Family Resource Center",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "68 Music Sq East",
-    "city": "Nashville",
+    "description": "Catholic Charities - North Nashville location providing food assistance and emergency services.",
+    "address": "2013 25th Ave North",
+    "city": "Nashville-Davidson",
     "state": "TN",
-    "zip": "37203",
-    "phone": "(615) 256-2124",
+    "zip": "37208",
+    "phone": "",
     "hours": "",
-    "lat": 36.1470108,
-    "lng": -86.7921295,
+    "lat": 36.182769,
+    "lng": -86.8181508,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-219311",
-    "name": "Edgehill Center",
+    "id": "fa-189078",
+    "name": "Connect Us Outreach Ministry",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "935 Edgehill Avenue",
+    "description": "Food pantry location at 804 Youngs Lane, Building 2, Nashville, Tennessee.",
+    "address": "804 Youngs Lane, Bldg. 2",
     "city": "Nashville",
     "state": "TN",
-    "zip": "37203",
-    "phone": "(615) 256-5108",
+    "zip": "37207",
+    "phone": "",
     "hours": "",
-    "lat": 36.1418304,
-    "lng": -86.7826004,
+    "lat": 36.2033571,
+    "lng": -86.7978726,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-220264",
-    "name": "Dismas House of Nashville",
+    "id": "fa-194337",
+    "name": "Watson Grove Missionary Baptist Church",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1513 16th Avenue South",
-    "city": "Nashville",
+    "description": "Main facility providing food assistance and emergency services.",
+    "address": "1415 Horton Ave",
+    "city": "Nashville-Davidson",
     "state": "TN",
     "zip": "37212",
-    "phone": "(615) 297-9287",
+    "phone": "",
     "hours": "",
-    "lat": 36.1389923,
-    "lng": -86.7943268,
+    "lat": 36.1401229,
+    "lng": -86.7907234,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-nashville-shelter",

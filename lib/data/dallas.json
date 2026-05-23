@@ -95,82 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-220228",
-    "name": "Oak Cliff United Methodist Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "549 East Jefferson Boulevard",
-    "city": "Dallas",
-    "state": "TX",
-    "zip": "75203",
-    "phone": "(214) 943-4326",
-    "hours": "",
-    "lat": 32.747406,
-    "lng": -96.8161545,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222184",
-    "name": "Well Community",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "125 Sunset Ave",
-    "city": "Dallas",
-    "state": "TX",
-    "zip": "75208",
-    "phone": "(214) 235-3163",
-    "hours": "",
-    "lat": 32.7441254,
-    "lng": -96.8232498,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222291",
-    "name": "SoupMobile",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2423 S Good Latimer Expressway",
-    "city": "Dallas",
-    "state": "TX",
-    "zip": "75215",
-    "phone": "(214) 655-6396",
-    "hours": "",
-    "lat": 32.7703018,
-    "lng": -96.7774048,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225457",
-    "name": "Bibleway Family Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3322 Navaro St",
-    "city": "Dallas",
-    "state": "TX",
-    "zip": "75115",
-    "phone": "(214) 630-3195",
-    "hours": "",
-    "lat": 32.782547,
-    "lng": -96.8463821,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172642",
     "name": "Oak Lawn United Methodist Church",
     "category": "Food",
@@ -226,6 +150,82 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13548",
+    "name": "The Stewpot",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1835 Young Street",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201",
+    "phone": "(214) 746-2785",
+    "hours": "",
+    "lat": 32.78826,
+    "lng": -96.79953,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-130740",
+    "name": "DALLAS ISD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3700 ROSS AVE",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75215",
+    "phone": "(972) 925-3700",
+    "hours": "",
+    "lat": 32.797429,
+    "lng": -96.787079,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-130986",
+    "name": "TEXANS CAN ACADEMIES",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "325 WEST 12TH",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75208",
+    "phone": "(214) 943-2244",
+    "hours": "",
+    "lat": 32.741731,
+    "lng": -96.82768,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-92",
+    "name": "East Dallas Community Organizations",
+    "category": "Food",
+    "description": "East Dallas residents",
+    "address": "1731 Gano St",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75215",
+    "phone": "(214) 421-7082",
+    "hours": "",
+    "lat": 32.7733,
+    "lng": -96.7683,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fallback-dallas-shelter",

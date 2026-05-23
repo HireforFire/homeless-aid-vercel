@@ -1,62 +1,5 @@
 [
   {
-    "id": "fa-219060",
-    "name": "Central Residents Council",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "642 Division Street",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "43602",
-    "phone": "(419) 246-3188",
-    "hours": "",
-    "lat": 41.6472778,
-    "lng": -83.5523605,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223692",
-    "name": "Friendly Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1324 N Superior",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "43604",
-    "phone": "(419) 243-1289",
-    "hours": "",
-    "lat": 41.6603928,
-    "lng": -83.5208435,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223715",
-    "name": "Cherry Street Mission Ministries",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1501 Monroe St",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "43604",
-    "phone": "(419) 214-3007",
-    "hours": "",
-    "lat": 41.6534882,
-    "lng": -83.5474167,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-174070",
     "name": "Historic Church of Saint Patrick",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-219060",
+    "name": "Central Residents Council",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "642 Division Street",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43602",
+    "phone": "(419) 246-3188",
+    "hours": "",
+    "lat": 41.6472778,
+    "lng": -83.5523605,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223692",
+    "name": "Friendly Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1324 N Superior",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "(419) 243-1289",
+    "hours": "",
+    "lat": 41.6603928,
+    "lng": -83.5208435,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223715",
+    "name": "Cherry Street Mission Ministries",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1501 Monroe St",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "(419) 214-3007",
+    "hours": "",
+    "lat": 41.6534882,
+    "lng": -83.5474167,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-toledo-shelter",

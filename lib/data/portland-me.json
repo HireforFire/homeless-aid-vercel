@@ -19,63 +19,6 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "fa-220315",
-    "name": "The Salvation Army Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "297 Cumberland Avenue",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "(207) 774-4172",
-    "hours": "",
-    "lat": 43.6592522,
-    "lng": -70.2593536,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222202",
-    "name": "Preble Street Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "252 Oxford St.",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "(207) 775-0026",
-    "hours": "",
-    "lat": 43.6587181,
-    "lng": -70.2621613,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224701",
-    "name": "The Root Cellar - Portland",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "94 Washington Ave.",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "(207) 774-3197",
-    "hours": "",
-    "lat": 43.6661339,
-    "lng": -70.2528763,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-179259",
     "name": "Catholic Charities Maine - Portland",
     "category": "Food",
@@ -133,6 +76,63 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-220315",
+    "name": "The Salvation Army Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "297 Cumberland Avenue",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 774-4172",
+    "hours": "",
+    "lat": 43.6592522,
+    "lng": -70.2593536,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222202",
+    "name": "Preble Street Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "252 Oxford St.",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 775-0026",
+    "hours": "",
+    "lat": 43.6587181,
+    "lng": -70.2621613,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224701",
+    "name": "The Root Cellar - Portland",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "94 Washington Ave.",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 774-3197",
+    "hours": "",
+    "lat": 43.6661339,
+    "lng": -70.2528763,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-226217",
     "name": "Michael Klahr Jewish Family Services",
     "category": "Food",
@@ -150,25 +150,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
-  },
-  {
-    "id": "fa-225779",
-    "name": "Young Parent Program",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "22 Park Ave",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6575508,
-    "lng": -70.2670441,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-180940",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 43.6588139,
     "lng": -70.2620405,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184683",
+    "name": "Maine Needs - Portland",
+    "category": "Food",
+    "description": "Main location for food assistance services",
+    "address": "332 Forest Ave",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6631218,
+    "lng": -70.2730504,
     "tags": [
       "food pantry",
       "walk-in"

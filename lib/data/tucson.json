@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-221584",
-    "name": "Southern Arizona AIDS Foundation (SAAF)",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "375 S. Euclid",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85719",
-    "phone": "(520) 547-6153",
-    "hours": "",
-    "lat": 32.2181244,
-    "lng": -110.9578857,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-173084",
     "name": "Trinity Presbyterian Church",
     "category": "Food",
@@ -152,6 +133,44 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-221584",
+    "name": "Southern Arizona AIDS Foundation (SAAF)",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "375 S. Euclid",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85719",
+    "phone": "(520) 547-6153",
+    "hours": "",
+    "lat": 32.2181244,
+    "lng": -110.9578857,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-2154",
+    "name": "Primavera Foundation Food Distribution Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "702 S 6th Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "(520) 882-9668",
+    "hours": "",
+    "lat": 32.21702,
+    "lng": -110.97138,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-739",
     "name": "Gospel Rescue Mission Tucson",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
-  },
-  {
-    "id": "fa-186328",
-    "name": "Neighbors Feeding Neighbors - Kitchen Location",
-    "category": "Food",
-    "description": "Food is available from the kitchen, which is accessible through the gate around the corner on 16th Street. The Church campus is on the corner of 5th Avenue and 16th Street, in the Armory Park neighborhood of Tucson. Near Public Transit.",
-    "address": "545 S 5th Ave",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85701",
-    "phone": "",
-    "hours": "",
-    "lat": 32.21488,
-    "lng": -110.96669,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-tucson-shelter",

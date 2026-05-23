@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-222598",
-    "name": "handfuls on purpose",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1520D Harke Keagan Dr",
-    "city": "Frankfort",
-    "state": "KY",
-    "zip": "40601",
-    "phone": "",
-    "hours": "",
-    "lat": 38.1972733,
-    "lng": -84.8631134,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-182806",
     "name": "Kentucky State University",
     "category": "Food",
@@ -114,18 +95,18 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-225110",
-    "name": "Franklin County Emeregency Food Pantry",
+    "id": "fa-222598",
+    "name": "handfuls on purpose",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "101 walnut Drive",
+    "address": "1520D Harke Keagan Dr",
     "city": "Frankfort",
     "state": "KY",
     "zip": "40601",
-    "phone": "(502) 695-6008",
+    "phone": "",
     "hours": "",
-    "lat": 38.2028885,
-    "lng": -84.8335953,
+    "lat": 38.1972733,
+    "lng": -84.8631134,
     "tags": [
       "food pantry",
       "walk-in"
@@ -150,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-225110",
+    "name": "Franklin County Emeregency Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "101 walnut Drive",
+    "city": "Frankfort",
+    "state": "KY",
+    "zip": "40601",
+    "phone": "(502) 695-6008",
+    "hours": "",
+    "lat": 38.2028885,
+    "lng": -84.8335953,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-216779",

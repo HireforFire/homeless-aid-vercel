@@ -1,62 +1,5 @@
 [
   {
-    "id": "fa-219008",
-    "name": "The Salvation Army of Syracuse Emergency Practical Assistance",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "677 South Salina St",
-    "city": "Syracuse",
-    "state": "NY",
-    "zip": "13202",
-    "phone": "(315) 479-1144",
-    "hours": "",
-    "lat": 43.0409279,
-    "lng": -76.1501846,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219931",
-    "name": "Liberty Resources at The Living Room",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "316 Catherine Street",
-    "city": "Syracuse",
-    "state": "NY",
-    "zip": "13203",
-    "phone": "(315) 701-0293",
-    "hours": "",
-    "lat": 43.0541916,
-    "lng": -76.1424713,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222871",
-    "name": "University United Methodist Church Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1085 E Genesee St",
-    "city": "Syracuse",
-    "state": "NY",
-    "zip": "12321",
-    "phone": "(315) 472-1715",
-    "hours": "",
-    "lat": 43.0468941,
-    "lng": -76.1346207,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172956",
     "name": "Samaritan Center",
     "category": "Food",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 43.047285,
     "lng": -76.147715,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204116",
+    "name": "Peace Inc. - Beech Street Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located on Beech Street in Syracuse providing emergency food assistance.",
+    "address": "202 S Beech St",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13210",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0490334,
+    "lng": -76.1280831,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204388",
+    "name": "Temple Concord Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location in Syracuse",
+    "address": "910 Madison Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "10001",
+    "phone": "",
+    "hours": "",
+    "lat": 43.04508,
+    "lng": -76.13353,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205886",
+    "name": "Assumption Church Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at 808 North Salina Street in Syracuse",
+    "address": "808 North Salina Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13208",
+    "phone": "",
+    "hours": "",
+    "lat": 43.062172,
+    "lng": -76.154013,
     "tags": [
       "food pantry",
       "walk-in"

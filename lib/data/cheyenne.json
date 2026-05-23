@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-224669",
-    "name": "Needs, Inc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "900 Central Avenue",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82007",
-    "phone": "(307) 632-4132",
-    "hours": "",
-    "lat": 41.1270065,
-    "lng": -104.8103714,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-170501",
     "name": "St. Mark's Episcopal Church",
     "category": "Food",
@@ -114,6 +95,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-224669",
+    "name": "Needs, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "900 Central Avenue",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82007",
+    "phone": "(307) 632-4132",
+    "hours": "",
+    "lat": 41.1270065,
+    "lng": -104.8103714,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-150553",
     "name": "Comea Shelter",
     "category": "Food",
@@ -190,25 +190,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-225277",
-    "name": "God's Cupboard",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2602 Deming Blvd",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "(307) 632-4488",
-    "hours": "",
-    "lat": 41.1453171,
-    "lng": -104.7848206,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-170442",
     "name": "True Vine Community Church",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 41.11925,
     "lng": -104.80923,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170626",
+    "name": "St. Joseph's Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location in Cheyenne, Wyoming. Walk-up access available.",
+    "address": "206 Van Lennen Ave",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82007",
+    "phone": "(307) 275-0567",
+    "hours": "",
+    "lat": 41.1225573,
+    "lng": -104.80207829999999,
     "tags": [
       "food pantry",
       "walk-in"

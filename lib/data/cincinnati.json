@@ -1,5 +1,81 @@
 [
   {
+    "id": "fa-175693",
+    "name": "Jerriel Baptist Church",
+    "category": "Food",
+    "description": "Food assistance distribution location at Jerriel Baptist Church.",
+    "address": "1018 Wesley Avenue",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45203",
+    "phone": "",
+    "hours": "",
+    "lat": 39.105946123184,
+    "lng": -84.524325991294,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175913",
+    "name": "St. Francis St. Joseph Catholic Worker House",
+    "category": "Food",
+    "description": "Main food assistance distribution location",
+    "address": "1437 Walnut Street",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.112292229716,
+    "lng": -84.514357645304,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176113",
+    "name": "Salvation Army: Department of Social Ministries",
+    "category": "Food",
+    "description": "Salvation Army Department of Social Ministries location providing food assistance",
+    "address": "120 East Central Parkway",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.107803762475,
+    "lng": -84.511834776267,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177874",
+    "name": "Prince of Peace Lutheran Church",
+    "category": "Food",
+    "description": "Food assistance distribution location",
+    "address": "1528 Race St",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.112408360984,
+    "lng": -84.517264908421,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-218884",
     "name": "5000 Club",
     "category": "Food",
@@ -93,82 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-175693",
-    "name": "Jerriel Baptist Church",
-    "category": "Food",
-    "description": "Food assistance distribution location at Jerriel Baptist Church.",
-    "address": "1018 Wesley Avenue",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45203",
-    "phone": "",
-    "hours": "",
-    "lat": 39.105946123184,
-    "lng": -84.524325991294,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175913",
-    "name": "St. Francis St. Joseph Catholic Worker House",
-    "category": "Food",
-    "description": "Main food assistance distribution location",
-    "address": "1437 Walnut Street",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45202",
-    "phone": "",
-    "hours": "",
-    "lat": 39.112292229716,
-    "lng": -84.514357645304,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176113",
-    "name": "Salvation Army: Department of Social Ministries",
-    "category": "Food",
-    "description": "Salvation Army Department of Social Ministries location providing food assistance",
-    "address": "120 East Central Parkway",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45202",
-    "phone": "",
-    "hours": "",
-    "lat": 39.107803762475,
-    "lng": -84.511834776267,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177874",
-    "name": "Prince of Peace Lutheran Church",
-    "category": "Food",
-    "description": "Food assistance distribution location",
-    "address": "1528 Race St",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45202",
-    "phone": "",
-    "hours": "",
-    "lat": 39.112408360984,
-    "lng": -84.517264908421,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-663",

@@ -190,42 +190,42 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-219929",
-    "name": "Micah 6 of Austin",
+    "id": "fa-172237",
+    "name": "Pathways at Goodrich Place",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2203 San Antonio St",
+    "description": "Senior food distribution site (Seniors Only)",
+    "address": "2126 Goodrich Ave.",
     "city": "Austin",
     "state": "TX",
-    "zip": "78705",
-    "phone": "(512) 473-0088",
+    "zip": "78704",
+    "phone": "(855) 366-3401",
     "hours": "",
-    "lat": 30.2855015,
-    "lng": -97.7425766,
+    "lat": 30.2484012,
+    "lng": -97.7750068,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-220677",
-    "name": "H.A.N.D. Food Pantry",
+    "id": "fa-175143",
+    "name": "Foundation Communities - M Station",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1640B East 2nd St. Ste 200",
+    "description": "Food Pantry located outside of leasing office at M Station",
+    "address": "2906 E. Martin Luther King Blvd.",
     "city": "Austin",
     "state": "TX",
     "zip": "78702",
-    "phone": "(512) 477-3796",
+    "phone": "(512) 617-3037",
     "hours": "",
-    "lat": 30.25914,
-    "lng": -97.7264481,
+    "lat": 30.2830432,
+    "lng": -97.7079826,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-austin-shelter",

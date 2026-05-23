@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-225910",
-    "name": "A Christian Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2010 G Avenue",
-    "city": "suite 904, Plano",
-    "state": "TX",
-    "zip": "75074",
-    "phone": "(972) 578-5730",
-    "hours": "",
-    "lat": 33.026989,
-    "lng": -96.7047882,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-195927",
     "name": "Minnie's Food Pantry",
     "category": "Food",
@@ -38,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-225910",
+    "name": "A Christian Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2010 G Avenue",
+    "city": "suite 904, Plano",
+    "state": "TX",
+    "zip": "75074",
+    "phone": "(972) 578-5730",
+    "hours": "",
+    "lat": 33.026989,
+    "lng": -96.7047882,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-195435",
     "name": "Local Good Center",
     "category": "Food",
@@ -50,6 +50,25 @@
     "hours": "",
     "lat": 33.0292974,
     "lng": -96.7003225,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174168",
+    "name": "St. Mark the Evangelist Catholic Church",
+    "category": "Food",
+    "description": "Catholic Charities food pantry operating location",
+    "address": "1100 W. 15th St.",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75075",
+    "phone": "(972) 282-8077",
+    "hours": "",
+    "lat": 33.018947,
+    "lng": -96.7175415,
     "tags": [
       "food pantry",
       "walk-in"
@@ -93,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-174168",
-    "name": "St. Mark the Evangelist Catholic Church",
-    "category": "Food",
-    "description": "Catholic Charities food pantry operating location",
-    "address": "1100 W. 15th St.",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "75075",
-    "phone": "(972) 282-8077",
-    "hours": "",
-    "lat": 33.018947,
-    "lng": -96.7175415,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-187274",

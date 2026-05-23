@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-223343",
-    "name": "The Salvation Army Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2019 22nd Street",
-    "city": "Gulfport",
-    "state": "MS",
-    "zip": "39501",
-    "phone": "(228) 868-1188",
-    "hours": "",
-    "lat": 30.3763218,
-    "lng": -89.0870438,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-191892",
     "name": "Feed My Sheep",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-223343",
+    "name": "The Salvation Army Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2019 22nd Street",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39501",
+    "phone": "(228) 868-1188",
+    "hours": "",
+    "lat": 30.3763218,
+    "lng": -89.0870438,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-210296",

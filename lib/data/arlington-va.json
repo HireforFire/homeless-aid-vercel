@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-220999",
-    "name": "La Cocina VA",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1500 N. Glebe Rd",
-    "city": "Arlington",
-    "state": "VA",
-    "zip": "22207",
-    "phone": "(571) 435-3785",
-    "hours": "",
-    "lat": 38.8890266,
-    "lng": -77.1193542,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-187246",
     "name": "Arlington Food Assistance Center at Gates of Ballston CC",
     "category": "Food",
@@ -57,6 +38,25 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-220999",
+    "name": "La Cocina VA",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1500 N. Glebe Rd",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22207",
+    "phone": "(571) 435-3785",
+    "hours": "",
+    "lat": 38.8890266,
+    "lng": -77.1193542,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-715",
     "name": "Capital Area Food Bank Arlington",
     "category": "Food",
@@ -74,120 +74,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-219874",
-    "name": "Virginia Medical and food pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3534 Carlin Springs rd #11",
-    "city": "Falls Church",
-    "state": "VA",
-    "zip": "22041",
-    "phone": "(703) 436-1626",
-    "hours": "",
-    "lat": 38.847908,
-    "lng": -77.1246109,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220313",
-    "name": "The Pantry @ Bon Air",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "800 N. Illinois St",
-    "city": "Arlington",
-    "state": "VA",
-    "zip": "22205",
-    "phone": "(703) 525-8079",
-    "hours": "",
-    "lat": 38.8755455,
-    "lng": -77.1269989,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222394",
-    "name": "Spend Yourself Food Pantry, Columbia Baptist Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3245 Glen Carlyn Road",
-    "city": "Falls Church",
-    "state": "VA",
-    "zip": "22041",
-    "phone": "(703) 820-6910",
-    "hours": "",
-    "lat": 38.8578186,
-    "lng": -77.1384964,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223440",
-    "name": "Arlington Food Assistance Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2708 S. Nelson Street",
-    "city": "Arlington",
-    "state": "VA",
-    "zip": "22206",
-    "phone": "(703) 845-8486",
-    "hours": "",
-    "lat": 38.8435669,
-    "lng": -77.0893631,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223443",
-    "name": "Our Lady Queen of Peace",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2700 S 19th St",
-    "city": "Arlington",
-    "state": "VA",
-    "zip": "22204",
-    "phone": "(703) 979-5580",
-    "hours": "",
-    "lat": 38.8541489,
-    "lng": -77.0827713,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224304",
-    "name": "Safe Haven",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "6165 Leesburg Pike",
-    "city": "Falls Church",
-    "state": "VA",
-    "zip": "22044",
-    "phone": "(703) 532-8220",
-    "hours": "",
-    "lat": 38.8635176,
-    "lng": -77.1499993,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-172049",
@@ -221,6 +107,120 @@
     "hours": "",
     "lat": 38.8375063,
     "lng": -77.09320910000001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173159",
+    "name": "Willston Multicultural Center",
+    "category": "Food",
+    "description": "Willston Multicultural Center located in Falls Church, VA.",
+    "address": "6131 Willston Drive",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22044",
+    "phone": "(703) 239-3575",
+    "hours": "",
+    "lat": 38.8703797,
+    "lng": -77.14884579999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175463",
+    "name": "West End Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location providing emergency food assistance",
+    "address": "5150 Fillmore Ave",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22311",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8386883,
+    "lng": -77.1177518,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177271",
+    "name": "Barcroft Elementary School",
+    "category": "Food",
+    "description": "Food distribution site at Barcroft Elementary School.",
+    "address": "700 S Buchanan St",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "",
+    "hours": "",
+    "lat": 38.860182,
+    "lng": -77.110653,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177601",
+    "name": "Arlington Bridge Builders - South Carlin Springs",
+    "category": "Food",
+    "description": "Main distribution location for Arlington Bridge Builders food services.",
+    "address": "790 South Carlin Springs Road",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "",
+    "hours": "",
+    "lat": 38.855145,
+    "lng": -77.123784,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182281",
+    "name": "Saint James United Methodist Church",
+    "category": "Food",
+    "description": "Saint James United Methodist Church located in Alexandria, Virginia",
+    "address": "5200 Fillmore Ave",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22311",
+    "phone": "",
+    "hours": "",
+    "lat": 38.838699,
+    "lng": -77.118235,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191868",
+    "name": "Mount Olive Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Mount Olive Baptist Church",
+    "address": "1601 13th Road South",
+    "city": "Arlington View",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8626534,
+    "lng": -77.07154799999999,
     "tags": [
       "food pantry",
       "walk-in"

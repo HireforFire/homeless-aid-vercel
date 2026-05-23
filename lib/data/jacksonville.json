@@ -171,61 +171,61 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-218981",
-    "name": "Second Harvest North Florida",
+    "id": "fa-171949",
+    "name": "The Well Church",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1502 Jessie St.",
+    "description": "Food distribution location",
+    "address": "2001 Ernest St.",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32204",
+    "phone": "(904) 800-9350",
+    "hours": "",
+    "lat": 30.3192587,
+    "lng": -81.6833278,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173668",
+    "name": "Spring Park Redevelopment Corporation",
+    "category": "Food",
+    "description": "Food distribution location with air conditioning",
+    "address": "2606 San Diego Road",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32207",
+    "phone": "(904) 396-3072",
+    "hours": "",
+    "lat": 30.29958,
+    "lng": -81.63743,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174141",
+    "name": "Greater Payne AME Church",
+    "category": "Food",
+    "description": "Food pantry location at Greater Payne AME Church",
+    "address": "1230 Claudia Spencer St.",
     "city": "Jacksonville",
     "state": "FL",
     "zip": "32206",
-    "phone": "(904) 353-3663",
+    "phone": "(904) 355-6015",
     "hours": "",
-    "lat": 30.3333149,
-    "lng": -81.6359711,
+    "lat": 30.3586438,
+    "lng": -81.6386184,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219766",
-    "name": "Second Harvest of North Florida",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1502 Jessie Street",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "32206",
-    "phone": "(904) 517-5562",
-    "hours": "",
-    "lat": 30.3333263,
-    "lng": -81.6359634,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219806",
-    "name": "UCCY",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1061 Line Street",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "32209",
-    "phone": "(904) 720-0339",
-    "hours": "",
-    "lat": 30.3383789,
-    "lng": -81.6972122,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-jacksonville-shelter",

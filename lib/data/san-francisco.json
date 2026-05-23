@@ -57,82 +57,6 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "fa-218838",
-    "name": "The Salvation Army - Ninth Street 1",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "407 Ninth Street",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94103",
-    "phone": "(415) 503-3029",
-    "hours": "",
-    "lat": 37.77299,
-    "lng": -122.41136,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-218842",
-    "name": "The Salvation Army - Turk Street",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "240 Turk Street",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94102",
-    "phone": "(415) 345-3400",
-    "hours": "",
-    "lat": 37.77956,
-    "lng": -122.41931,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-218844",
-    "name": "The Salvation Army - Harrison Street",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1275 Harrison Street",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94103",
-    "phone": "(415) 503-3071",
-    "hours": "",
-    "lat": 37.77299,
-    "lng": -122.41136,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225234",
-    "name": "Pacific Bay Inn",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "520 Jones Street",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94102",
-    "phone": "(415) 674-0762",
-    "hours": "",
-    "lat": 37.7861214,
-    "lng": -122.4129333,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-174239",
     "name": "GLIDE Daily Free Meals Program",
     "category": "Food",
@@ -221,6 +145,82 @@
     "hours": "",
     "lat": 37.77996,
     "lng": -122.40767,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199139",
+    "name": "S.F. Rescue Mission",
+    "category": "Food",
+    "description": "Main food distribution and meal service location",
+    "address": "140 Turk",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94102",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7834211,
+    "lng": -122.4115746,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201271",
+    "name": "Korean American Senior Center",
+    "category": "Food",
+    "description": "Korean American Senior Center serving seniors in San Francisco",
+    "address": "745 Buchanan St.",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94102",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7769329,
+    "lng": -122.428277,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205270",
+    "name": "Southeast Asian Community Center",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "875 O'Farrell St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94109",
+    "phone": "",
+    "hours": "",
+    "lat": 37.78478,
+    "lng": -122.41902,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206615",
+    "name": "Western Addition FRC Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Western Addition FRC. Distribution Day: Friday | Distribution Time: 10:30 am - 11:30 am | Enrollment Time: 11:30 am",
+    "address": "1530 Buchanan St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94115",
+    "phone": "",
+    "hours": "",
+    "lat": 37.78419,
+    "lng": -122.42916,
     "tags": [
       "food pantry",
       "walk-in"

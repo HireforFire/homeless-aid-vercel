@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-218541",
-    "name": "The Salvation Army - S Harrison St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "400-420 S Harrison St",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79101",
-    "phone": "(806) 373-6631",
-    "hours": "",
-    "lat": 35.20605,
-    "lng": -101.83946,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-174757",
     "name": "Central Church of Christ",
     "category": "Food",
@@ -95,6 +76,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-218541",
+    "name": "The Salvation Army - S Harrison St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "400-420 S Harrison St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "(806) 373-6631",
+    "hours": "",
+    "lat": 35.20605,
+    "lng": -101.83946,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-210",
     "name": "Salvation Army - Amarillo",
     "category": "Food",
@@ -152,44 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-217590",
-    "name": "The Salvation Army - Se 27Th Ave",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1211 SE 27th Ave",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79103",
-    "phone": "(806) 373-6631",
-    "hours": "",
-    "lat": 35.18297,
-    "lng": -101.7999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219077",
-    "name": "Grand Avenue Baptist",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "904 N. Grand",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79107",
-    "phone": "(806) 383-7388",
-    "hours": "",
-    "lat": 35.2231522,
-    "lng": -101.7949677,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172220",
     "name": "Cornerstone Outreach-Amarillo",
     "category": "Food",
@@ -223,6 +185,44 @@
     "lng": -101.8742852,
     "tags": [
       "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173602",
+    "name": "CSFP High Plains Food Bank",
+    "category": "Food",
+    "description": "High Plains Food Bank distribution location in Amarillo",
+    "address": "815 S Ross",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79102",
+    "phone": "(806) 374-8562",
+    "hours": "",
+    "lat": 35.1870871,
+    "lng": -101.81718,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173859",
+    "name": "Amarillo SDA",
+    "category": "Food",
+    "description": "Amarillo SDA food distribution location affiliated with High Plains Food Bank",
+    "address": "405 S Western",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "(806) 418-2541",
+    "hours": "",
+    "lat": 35.2115947,
+    "lng": -101.8832018,
+    "tags": [
+      "food bank",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

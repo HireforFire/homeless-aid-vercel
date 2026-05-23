@@ -1,5 +1,62 @@
 [
   {
+    "id": "fa-185125",
+    "name": "FIBCO Family Services Inc",
+    "category": "Food",
+    "description": "Main food distribution location. Features parking available. Affiliated with St. Mary's Food Bank.",
+    "address": "1141 E Jefferson St.",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85034",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4467484,
+    "lng": -112.0577904,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208064",
+    "name": "Mercy Hill Church",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "745 W. Fillmore St.",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85007",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4547413,
+    "lng": -112.083919,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210961",
+    "name": "Downtown Lincoln Family YMCA",
+    "category": "Food",
+    "description": "Downtown Lincoln Family YMCA facility",
+    "address": "350 N. 1st Ave.",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85003",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4530221,
+    "lng": -112.0755178,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-218641",
     "name": "The Salvation Army - N 4Th Avenue",
     "category": "Food",
@@ -74,63 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-185125",
-    "name": "FIBCO Family Services Inc",
-    "category": "Food",
-    "description": "Main food distribution location. Features parking available. Affiliated with St. Mary's Food Bank.",
-    "address": "1141 E Jefferson St.",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85034",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4467484,
-    "lng": -112.0577904,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-208064",
-    "name": "Mercy Hill Church",
-    "category": "Food",
-    "description": "Food pantry location",
-    "address": "745 W. Fillmore St.",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85007",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4547413,
-    "lng": -112.083919,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-210961",
-    "name": "Downtown Lincoln Family YMCA",
-    "category": "Food",
-    "description": "Downtown Lincoln Family YMCA facility",
-    "address": "350 N. 1st Ave.",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85003",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4530221,
-    "lng": -112.0755178,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-734",

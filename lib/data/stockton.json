@@ -1,62 +1,5 @@
 [
   {
-    "id": "fa-218639",
-    "name": "The Salvation Army - N Stanislaus Street",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "123 N. Stanislaus Street",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95202",
-    "phone": "(209) 463-4960",
-    "hours": "",
-    "lat": 37.95968,
-    "lng": -121.28772,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220294",
-    "name": "Emergency Food Bank of Stockton",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "7 West Scotts Avenue",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95203",
-    "phone": "(209) 464-7369",
-    "hours": "",
-    "lat": 37.9455147,
-    "lng": -121.2896042,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223280",
-    "name": "Emergenyc Food Bank",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "7  W. Scotts Avenue",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95203",
-    "phone": "(209) 464-7369",
-    "hours": "",
-    "lat": 37.9455921,
-    "lng": -121.2895478,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-179297",
     "name": "First Presbyterian Church",
     "category": "Food",
@@ -207,6 +150,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-218639",
+    "name": "The Salvation Army - N Stanislaus Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "123 N. Stanislaus Street",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "(209) 463-4960",
+    "hours": "",
+    "lat": 37.95968,
+    "lng": -121.28772,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220294",
+    "name": "Emergency Food Bank of Stockton",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "7 West Scotts Avenue",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95203",
+    "phone": "(209) 464-7369",
+    "hours": "",
+    "lat": 37.9455147,
+    "lng": -121.2896042,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223280",
+    "name": "Emergenyc Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "7  W. Scotts Avenue",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95203",
+    "phone": "(209) 464-7369",
+    "hours": "",
+    "lat": 37.9455921,
+    "lng": -121.2895478,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-451",

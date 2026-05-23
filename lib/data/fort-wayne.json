@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218914",
-    "name": "Haven Missionary",
+    "id": "fa-173199",
+    "name": "Saint Matthew Lutheran Church - Food Distribution Center",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "845 West Creighton",
+    "description": "Food distribution center at Saint Matthew Lutheran Church",
+    "address": "2305 Goshen Rd",
     "city": "Fort Wayne",
     "state": "IN",
-    "zip": "46807",
-    "phone": "(260) 744-9190",
+    "zip": "46808",
+    "phone": "(260) 483-9312",
     "hours": "",
-    "lat": 41.0641022,
-    "lng": -85.1496658,
+    "lat": 41.1094237,
+    "lng": -85.17233039999999,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-fort-wayne-shelter",

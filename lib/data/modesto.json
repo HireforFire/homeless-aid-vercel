@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-223900",
-    "name": "MoPride's People's Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "400 12th Street suite 2",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "95354",
-    "phone": "(209) 567-2124",
-    "hours": "",
-    "lat": 37.63699,
-    "lng": -120.9918443,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-190015",
     "name": "SDA Modesto Central - Church Office",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-223900",
+    "name": "MoPride's People's Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "400 12th Street suite 2",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "(209) 567-2124",
+    "hours": "",
+    "lat": 37.63699,
+    "lng": -120.9918443,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-453",
@@ -171,61 +171,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218549",
-    "name": "The Salvation Army - 9Th Street",
+    "id": "fa-175238",
+    "name": "Ceres Partnership",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "320 9th Street",
+    "description": "Ceres Partnership family resource center location",
+    "address": "1317 Grandview Ave",
+    "city": "Ceres",
+    "state": "CA",
+    "zip": "95307",
+    "phone": "(209) 541-0101",
+    "hours": "",
+    "lat": 37.607105,
+    "lng": -120.97354229999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178777",
+    "name": "Second Baptist Church",
+    "category": "Food",
+    "description": "Second Baptist Church food distribution location",
+    "address": "529 B California Ave.",
     "city": "Modesto",
     "state": "CA",
     "zip": "95351",
-    "phone": "(209) 525-8954",
+    "phone": "",
     "hours": "",
-    "lat": 37.6236,
-    "lng": -120.99828,
+    "lat": 37.6317822,
+    "lng": -121.0145606,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-223862",
-    "name": "MJC Pirates' Pantry",
+    "id": "fa-183058",
+    "name": "Modesto Love Center",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2201 Blue Gum Ave",
+    "description": "Main food pantry location in Modesto offering walk-up food distribution services.",
+    "address": "617 Winmoore Way F",
     "city": "Modesto",
     "state": "CA",
     "zip": "95358",
-    "phone": "(209) 575-7902",
+    "phone": "",
     "hours": "",
-    "lat": 37.6627211,
-    "lng": -121.0354933,
+    "lat": 37.60599,
+    "lng": -120.9853121,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224388",
-    "name": "THE FOOD INITATIVE",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "120 Kerr Ave",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "95354",
-    "phone": "(209) 572-3117",
-    "hours": "",
-    "lat": 37.6375559,
-    "lng": -120.9708268,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-modesto-shelter",

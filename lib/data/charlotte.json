@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-218403",
-    "name": "The Salvation Army - N College St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "406 N College St",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "28202",
-    "phone": "(704) 332-1171",
-    "hours": "",
-    "lat": 35.22773,
-    "lng": -80.8447,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222729",
-    "name": "Second Harvest Food Bank of Metrolina",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "500 Spratt St.",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "28206",
-    "phone": "(794) 376-1785",
-    "hours": "",
-    "lat": 35.2385406,
-    "lng": -80.8390427,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-186010",
     "name": "Catholic Charities",
     "category": "Food",
@@ -93,6 +55,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218403",
+    "name": "The Salvation Army - N College St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "406 N College St",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "phone": "(704) 332-1171",
+    "hours": "",
+    "lat": 35.22773,
+    "lng": -80.8447,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222729",
+    "name": "Second Harvest Food Bank of Metrolina",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "500 Spratt St.",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28206",
+    "phone": "(794) 376-1785",
+    "hours": "",
+    "lat": 35.2385406,
+    "lng": -80.8390427,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-781",

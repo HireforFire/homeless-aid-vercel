@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-220446",
-    "name": "The Joe and Jean Travis Food Bank",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "625 Truman NE",
-    "city": "Albuquerque",
-    "state": "NM",
-    "zip": "87110",
-    "phone": "(505) 938-7143",
-    "hours": "",
-    "lat": 35.0888443,
-    "lng": -106.5878143,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-204189",
     "name": "Campus Lobo Food Pantry - Advisement and Enrichment Center",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-220446",
+    "name": "The Joe and Jean Travis Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "625 Truman NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87110",
+    "phone": "(505) 938-7143",
+    "hours": "",
+    "lat": 35.0888443,
+    "lng": -106.5878143,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-184908",
@@ -171,61 +171,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-217861",
-    "name": "The Salvation Army - Silver Street Se",
+    "id": "fa-174722",
+    "name": "The Cathedral of St. John",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "4501 Silver Street SE",
-    "city": "Albuquerque",
-    "state": "NM",
-    "zip": "87108",
-    "phone": "(505) 254-1778",
-    "hours": "",
-    "lat": 35.07235,
-    "lng": -106.57835,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-217881",
-    "name": "The Salvation Army - Broadway Blvd Se 1",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "411 Broadway Blvd. SE",
+    "description": "Food pantry location serving Southwest Albuquerque residents. Handicapped accessible.",
+    "address": "318 Silver Ave. SW",
     "city": "Albuquerque",
     "state": "NM",
     "zip": "87102",
-    "phone": "(505) 765-5395",
+    "phone": "505-247-1581 ext. 101",
     "hours": "",
-    "lat": 35.08116,
-    "lng": -106.64636,
+    "lat": 35.0822185,
+    "lng": -106.6518349,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-219252",
-    "name": "La Mesa PTA",
+    "id": "fa-179555",
+    "name": "SteelBridge Ministries Meal Site",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "7500 Copper NE",
+    "description": "Meal site facility at 525 2nd St. SW, Albuquerque. Handicapped accessible.",
+    "address": "525 2nd St. SW",
     "city": "Albuquerque",
     "state": "NM",
-    "zip": "87108",
-    "phone": "(505) 363-5010",
+    "zip": "87102",
+    "phone": "",
     "hours": "",
-    "lat": 35.0795364,
-    "lng": -106.5625305,
+    "lat": 35.0795702,
+    "lng": -106.6504532,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180020",
+    "name": "Casa Esperanza, Inc.",
+    "category": "Food",
+    "description": "Main food pantry location for Casa Esperanza, Inc.",
+    "address": "1005 Yale Blvd. NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0937957,
+    "lng": -106.6214602,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-albuquerque-shelter",

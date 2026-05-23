@@ -19,63 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-220125",
-    "name": "Aurora Cares",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1300 S Potomac",
-    "city": "Aurora",
-    "state": "CO",
-    "zip": "80012",
-    "phone": "(303) 337-2431",
-    "hours": "",
-    "lat": 39.6932716,
-    "lng": -104.8313293,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223589",
-    "name": "Restoration Outreach Programs",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1540 Boston",
-    "city": "Aurora",
-    "state": "CO",
-    "zip": "80010",
-    "phone": "(720) 628-1256",
-    "hours": "",
-    "lat": 39.7409515,
-    "lng": -104.8795929,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225016",
-    "name": "Aurora Interchurch Task Force, Inc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1553 Clinton Street",
-    "city": "Aurora",
-    "state": "CO",
-    "zip": "80010",
-    "phone": "(303) 360-0260",
-    "hours": "",
-    "lat": 39.741188,
-    "lng": -104.8778992,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-216147",
     "name": "Project Worthmore",
     "category": "Food",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 39.697804,
     "lng": -104.8442367,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210624",
+    "name": "St. Therese Catholic Church - SVDP",
+    "category": "Food",
+    "description": "St. Therese Catholic Church's Society of St. Vincent de Paul food pantry location in Aurora, Colorado.",
+    "address": "1243 Kingston St.",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7361138,
+    "lng": -104.859554,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216036",
+    "name": "We Don't Waste - Mobile Food Market - North Middle School",
+    "category": "Food",
+    "description": "Free mobile pantry providing food assistance. Open to all.",
+    "address": "12095 E Montview Blvd",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "(720) 943-2699",
+    "hours": "",
+    "lat": 39.748528,
+    "lng": -104.848183,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216037",
+    "name": "Ansar Pantry - Colorado Muslim Community Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "16251 E Colfax Ave",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80011",
+    "phone": "(720) 480-5407",
+    "hours": "",
+    "lat": 39.740856,
+    "lng": -104.798813,
     "tags": [
       "food pantry",
       "walk-in"

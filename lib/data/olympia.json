@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-223580",
-    "name": "Thurston County Food Bank",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "220 Thurston Ave. NE",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "98501",
-    "phone": "(360) 352-8597",
-    "hours": "",
-    "lat": 47.0478195,
-    "lng": -122.9000403,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-181835",
     "name": "Catholic Community Services: The Community Kitchen - Food Distribution Center",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-223580",
+    "name": "Thurston County Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "220 Thurston Ave. NE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "(360) 352-8597",
+    "hours": "",
+    "lat": 47.0478195,
+    "lng": -122.9000403,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-829",

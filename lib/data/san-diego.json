@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-191011",
+    "name": "San Diego Rescue Mission",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "120 Elm Street",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7243519,
+    "lng": -117.163483,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-218915",
     "name": "Ladle Fellowship",
     "category": "Food",
@@ -76,25 +95,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-191011",
-    "name": "San Diego Rescue Mission",
-    "category": "Food",
-    "description": "Main food distribution location",
-    "address": "120 Elm Street",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7243519,
-    "lng": -117.163483,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-432",
     "name": "Catholic Charities SD",
     "category": "Food",
@@ -131,25 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
-  },
-  {
-    "id": "fa-225706",
-    "name": "ethridge center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1053 10th ave.",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7164192,
-    "lng": -117.1553192,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-193586",
@@ -209,23 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218462",
-    "name": "The Salvation Army - 5Th Ave",
+    "id": "fa-172424",
+    "name": "Masjidul Taqwa",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2320 5th Ave.",
+    "description": "Food pantry distribution location at Masjidul Taqwa.",
+    "address": "2575 Imperial Avenue",
     "city": "San Diego",
     "state": "CA",
-    "zip": "92101",
-    "phone": "(619) 446-0271",
+    "zip": "92154",
+    "phone": "(619) 239-6738",
     "hours": "",
-    "lat": 32.7162,
-    "lng": -117.18589,
+    "lat": 32.7061008,
+    "lng": -117.1384702,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172897",
+    "name": "Being Alive - Daniel's Market",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1051 University Ave.",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92103",
+    "phone": "(619) 291-1400",
+    "hours": "",
+    "lat": 32.7480817,
+    "lng": -117.1540716,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-san-diego-shelter",

@@ -114,44 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-217869",
-    "name": "The Salvation Army - E Idaho",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "220 E. Idaho",
-    "city": "Las Cruces",
-    "state": "NM",
-    "zip": "88001",
-    "phone": "(575) 524-4713",
-    "hours": "",
-    "lat": 32.29026,
-    "lng": -106.75318,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224627",
-    "name": "Casa de Peregrinos Inc",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "999 W Amador Ave Bldg. 1",
-    "city": "Las Cruces",
-    "state": "NM",
-    "zip": "88005",
-    "phone": "(575) 523-5542",
-    "hours": "",
-    "lat": 32.3019438,
-    "lng": -106.7891093,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-173435",
     "name": "Montana Meadows Apartments",
     "category": "Food",
@@ -223,6 +185,44 @@
     "lng": -106.73798,
     "tags": [
       "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184756",
+    "name": "Mira Vista Villa Apartments",
+    "category": "Food",
+    "description": "Pop-up food distribution location at Mira Vista Villa Apartments",
+    "address": "2141 North Solano Drive",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "phone": "",
+    "hours": "",
+    "lat": 32.32790998,
+    "lng": -106.779083,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185734",
+    "name": "The Ability Center",
+    "category": "Food",
+    "description": "Food pantry location serving Doña Ana County residents. Handicapped accessible facility.",
+    "address": "715 E Idaho Ave.",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2987792,
+    "lng": -106.7691251,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

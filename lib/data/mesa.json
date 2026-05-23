@@ -1,81 +1,5 @@
 [
   {
-    "id": "fa-221319",
-    "name": "A New Leaf: Autumn House",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "Confidential - please call to schedule delivery",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85203",
-    "phone": "(480) 835-5817",
-    "hours": "",
-    "lat": 33.4222679,
-    "lng": -111.8226395,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222670",
-    "name": "without walls christian center/ manna food bank",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "756 w. main st.",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85201",
-    "phone": "(480) 430-0439",
-    "hours": "",
-    "lat": 33.415081,
-    "lng": -111.8475723,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224861",
-    "name": "Saint Vincent de Paul-QOP",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "30 W 1st st",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85201",
-    "phone": "(602) 488-3488",
-    "hours": "",
-    "lat": 33.4176598,
-    "lng": -111.8326874,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225481",
-    "name": "Lutheran Social Services of the Southwest",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "142 North Date Street",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85201",
-    "phone": "(480) 284-1081",
-    "hours": "",
-    "lat": 33.4180336,
-    "lng": -111.8445969,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-198623",
     "name": "Mesa Salvation Army",
     "category": "Food",
@@ -169,6 +93,82 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-221319",
+    "name": "A New Leaf: Autumn House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "Confidential - please call to schedule delivery",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85203",
+    "phone": "(480) 835-5817",
+    "hours": "",
+    "lat": 33.4222679,
+    "lng": -111.8226395,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222670",
+    "name": "without walls christian center/ manna food bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "756 w. main st.",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85201",
+    "phone": "(480) 430-0439",
+    "hours": "",
+    "lat": 33.415081,
+    "lng": -111.8475723,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224861",
+    "name": "Saint Vincent de Paul-QOP",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "30 W 1st st",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85201",
+    "phone": "(602) 488-3488",
+    "hours": "",
+    "lat": 33.4176598,
+    "lng": -111.8326874,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225481",
+    "name": "Lutheran Social Services of the Southwest",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "142 North Date Street",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85201",
+    "phone": "(480) 284-1081",
+    "hours": "",
+    "lat": 33.4180336,
+    "lng": -111.8445969,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-833",

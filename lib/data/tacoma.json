@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-222060",
-    "name": "Eloise's Cooking Pot Food Bank",
+    "id": "fa-204860",
+    "name": "Bethlehem Lutheran Church",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3543 E. McKinley Avenue",
-    "city": "Tacoma",
+    "description": "Mobile food distribution location at Bethlehem Lutheran Church",
+    "address": "101 East 38th Street",
+    "city": "Eastside",
     "state": "WA",
     "zip": "98404",
-    "phone": "(253) 212-2778",
+    "phone": "",
     "hours": "",
-    "lat": 47.2288818,
-    "lng": -122.4203491,
+    "lat": 47.2233754,
+    "lng": -122.4309961,
     "tags": [
-      "food pantry",
+      "mobile pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-222749",
-    "name": "RDC Mobile Food Pantries",
+    "id": "fa-207440",
+    "name": "Saint Patrick's Parish - St. Vincent de Paul",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3801 S Union Ave.",
+    "description": "St. Vincent de Paul food distribution location at Saint Patrick's Parish",
+    "address": "1001 North J Street",
     "city": "Tacoma",
     "state": "WA",
-    "zip": "98409",
-    "phone": "(253) 473-7669",
+    "zip": "98403",
+    "phone": "",
     "hours": "",
-    "lat": 47.2216835,
-    "lng": -122.4826813,
+    "lat": 47.2654432,
+    "lng": -122.4635523,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-tacoma-shelter",

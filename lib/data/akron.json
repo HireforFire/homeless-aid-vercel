@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-224599",
-    "name": "Salvation Army Red Shield Community Choice Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "190 South Maple Street",
-    "city": "Akron",
-    "state": "OH",
-    "zip": "44302",
-    "phone": "(330) 762-8481",
-    "hours": "",
-    "lat": 41.0861855,
-    "lng": -81.528862,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-181085",
     "name": "St Bernard Meal Service",
     "category": "Food",
@@ -150,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-224599",
+    "name": "Salvation Army Red Shield Community Choice Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "190 South Maple Street",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44302",
+    "phone": "(330) 762-8481",
+    "hours": "",
+    "lat": 41.0861855,
+    "lng": -81.528862,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-179060",

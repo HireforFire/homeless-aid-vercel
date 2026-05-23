@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-223302",
-    "name": "Jane B. Gearhart Full Circle Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "324 Stadium Drive",
-    "city": "Fayetteville",
-    "state": "AR",
-    "zip": "72701",
-    "phone": "(479) 575-4365",
-    "hours": "",
-    "lat": 36.0675815,
-    "lng": -94.1768937,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223313",
-    "name": "LifeSource",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "600 suite 2  S. School Ave",
-    "city": "Fayetteville",
-    "state": "AR",
-    "zip": "72701",
-    "phone": "(479) 521-4000",
-    "hours": "",
-    "lat": 36.0557929,
-    "lng": -94.1638881,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-187501",
     "name": "Fayetteville Senior Center",
     "category": "Food",
@@ -74,6 +36,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-223302",
+    "name": "Jane B. Gearhart Full Circle Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "324 Stadium Drive",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "(479) 575-4365",
+    "hours": "",
+    "lat": 36.0675815,
+    "lng": -94.1768937,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223313",
+    "name": "LifeSource",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "600 suite 2  S. School Ave",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "(479) 521-4000",
+    "hours": "",
+    "lat": 36.0557929,
+    "lng": -94.1638881,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-186627",
@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-219643",
-    "name": "faith at the park",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "962s. Silverado Dr # 205",
-    "city": "Fayetteville",
-    "state": "AR",
-    "zip": "72701",
-    "phone": "(479) 935-7717",
-    "hours": "",
-    "lat": 36.0537148,
-    "lng": -94.1400223,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172994",
     "name": "Fayetteville Mobile Pantry",
     "category": "Food",
@@ -209,23 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-220845",
-    "name": "The Salvation Army",
+    "id": "fa-219643",
+    "name": "faith at the park",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "219 W 15th St",
+    "address": "962s. Silverado Dr # 205",
     "city": "Fayetteville",
     "state": "AR",
     "zip": "72701",
-    "phone": "",
+    "phone": "(479) 935-7717",
     "hours": "",
-    "lat": 36.0474663,
-    "lng": -94.1623001,
+    "lat": 36.0537148,
+    "lng": -94.1400223,
     "tags": [
       "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-189194",
+    "name": "Fayetteville Christian School",
+    "category": "Food",
+    "description": "Food distribution location in Northeast Fayetteville.",
+    "address": "2006 E. Mission Blvd.",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72703",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0888331,
+    "lng": -94.1307468,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-fayetteville-ar-shelter",

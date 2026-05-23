@@ -114,44 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218443",
-    "name": "The Salvation Army - Crawford St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2849 Crawford St",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36111",
-    "phone": "(334) 265-0281",
-    "hours": "",
-    "lat": 32.33755,
-    "lng": -86.27154,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224445",
-    "name": "Montgomery Area Food Bank",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "521 Trade Center St.",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36108",
-    "phone": "(334) 263-3784",
-    "hours": "",
-    "lat": 32.3717918,
-    "lng": -86.3451385,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-173321",
     "name": "MBA Love Loud Matthew 25 Ministries",
     "category": "Food",
@@ -207,6 +169,44 @@
       "walk-in"
     ],
     "lastUpdated": "2025-01-01"
+  },
+  {
+    "id": "fa-218443",
+    "name": "The Salvation Army - Crawford St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2849 Crawford St",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36111",
+    "phone": "(334) 265-0281",
+    "hours": "",
+    "lat": 32.33755,
+    "lng": -86.27154,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224445",
+    "name": "Montgomery Area Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "521 Trade Center St.",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36108",
+    "phone": "(334) 263-3784",
+    "hours": "",
+    "lat": 32.3717918,
+    "lng": -86.3451385,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-216972",

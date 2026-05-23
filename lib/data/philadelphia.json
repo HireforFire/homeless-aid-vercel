@@ -1,119 +1,5 @@
 [
   {
-    "id": "fa-218595",
-    "name": "The Salvation Army - N Broad Street 1",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "216 N. Broad Street",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "19107",
-    "phone": "(215) 825-4601",
-    "hours": "",
-    "lat": 39.9518,
-    "lng": -75.15864,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220317",
-    "name": "Food and Wellness Network",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "415 S. 15th St.",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "19146",
-    "phone": "(267) 236-1541",
-    "hours": "",
-    "lat": 39.9452286,
-    "lng": -75.1668015,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220673",
-    "name": "My Brothers House",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "609 S. 15TH ST",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "19146",
-    "phone": "(215) 545-3011",
-    "hours": "",
-    "lat": 39.9435616,
-    "lng": -75.1671524,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-221005",
-    "name": "James Parker Memorial Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1702 Fairmount Ave.",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "19130",
-    "phone": "(215) 820-7132",
-    "hours": "",
-    "lat": 39.966938,
-    "lng": -75.1656036,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222926",
-    "name": "Broad Street Ministry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "315 South Broad Street",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "19107",
-    "phone": "(215) 735-4847",
-    "hours": "",
-    "lat": 39.946167,
-    "lng": -75.1645813,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223770",
-    "name": "BEBASHI",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1235 Spring Garden Street",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "19123",
-    "phone": "(215) 769-3561",
-    "hours": "",
-    "lat": 39.9621954,
-    "lng": -75.158675,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-174158",
     "name": "Chosen 300 - Center City",
     "category": "Food",
@@ -228,6 +114,474 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-198790",
+    "name": "Philadelphia Legal Assistance - Center City East",
+    "category": "Food",
+    "description": "Main office location for Philadelphia Legal Assistance providing legal services to low income residents",
+    "address": "718 Arch Street",
+    "city": "Center City East",
+    "state": "PA",
+    "zip": "19106",
+    "phone": "",
+    "hours": "",
+    "lat": 39.952915,
+    "lng": -75.1523431,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200658",
+    "name": "Old First Reformed Church",
+    "category": "Food",
+    "description": "Free meals distribution location",
+    "address": "151 N. 4th St.",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19106",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9539054,
+    "lng": -75.1462235,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202418",
+    "name": "Mazzoni Center Food Bank",
+    "category": "Food",
+    "description": "Food bank distribution location at Mazzoni Center",
+    "address": "1348 Bainbridge Street",
+    "city": "Hawthorne",
+    "state": "PA",
+    "zip": "19147",
+    "phone": "",
+    "hours": "",
+    "lat": 39.94263460000001,
+    "lng": -75.1650837,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202849",
+    "name": "Union Baptist Church",
+    "category": "Food",
+    "description": "Union Baptist Church food distribution location",
+    "address": "1910 Fitzwater Street",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19146",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9426375,
+    "lng": -75.17446550000001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203193",
+    "name": "Hub of Hope - Center City",
+    "category": "Food",
+    "description": "General meal site offering ready-to-eat meals",
+    "address": "1401 John F Kennedy Boulevard",
+    "city": "Center City",
+    "state": "PA",
+    "zip": "19102",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9540977,
+    "lng": -75.16448729999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204545",
+    "name": "North Philadelphia Food Not Bombs - Center City",
+    "category": "Food",
+    "description": "Food distribution location in Center City Philadelphia",
+    "address": "222 North 20th Street",
+    "city": "Center City",
+    "state": "PA",
+    "zip": "19103",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9582109,
+    "lng": -75.17313469999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "osm-node-367693876",
+    "name": "Greenwich Township Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Philadelphia",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.8192,
+    "lng": -75.2676,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963842",
+    "name": "North Hills Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.1156,
+    "lng": -75.1728,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963850",
+    "name": "Joseph E. Coleman Northwest Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Chelten Avenue 68",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19144",
+    "phone": "(215) 685-2150",
+    "hours": "Mo-Tu 11:00-19:00; We-Fr 10:00-17:00; Sa,Su,PH off",
+    "lat": 40.0340605,
+    "lng": -75.1760528,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963860",
+    "name": "Huntingdon Valley Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Red Lion Road 625",
+    "city": "Huntingdon Valley",
+    "state": "PA",
+    "zip": "19006",
+    "phone": "(215) 947-5138",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 10:00-17:00; Su 13:00-17:00; PH unknown",
+    "lat": 40.1248147,
+    "lng": -75.061269,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963864",
+    "name": "Narberth Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Windsor Avenue 80",
+    "city": "Narberth",
+    "state": "PA",
+    "zip": "19072",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0055188,
+    "lng": -75.2654035,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963876",
+    "name": "La Mott Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0673855,
+    "lng": -75.1418309,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963983",
+    "name": "Frankford Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Frankford Avenue 4634",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19124",
+    "phone": "",
+    "hours": "Mo-Su off",
+    "lat": 40.0157688,
+    "lng": -75.0850782,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963995",
+    "name": "Glenolden Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.8996,
+    "lng": -75.293,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963998",
+    "name": "Glenside Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Keswick Avenue 215",
+    "city": "Glenside",
+    "state": "PA",
+    "zip": "19038",
+    "phone": "(215) 885-0455",
+    "hours": "Mo,We,Fr 10:00-18:00; Tu,Th 10:00-21:00; Sa 10:00-16:00; Su off",
+    "lat": 40.0971,
+    "lng": -75.1549,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5435855154",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Bustleton Avenue 9920",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19115",
+    "phone": "(215) 961-2208",
+    "hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+    "lat": 40.1013945,
+    "lng": -75.0299101,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6334666385",
+    "name": "Medical Mission Sisters Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0851701,
+    "lng": -75.0801649,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9429620824",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "DeKalb Pike 2708",
+    "city": "East Norriton",
+    "state": "PA",
+    "zip": "",
+    "phone": "(484) 680-7631",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "lat": 40.1376408,
+    "lng": -75.3127681,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13418229111",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Washington Avenue 2318",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19146",
+    "phone": "(215) 739-9300",
+    "hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
+    "lat": 39.9395545,
+    "lng": -75.1818886,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-104522663",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Baltimore Avenue 201",
+    "city": "Lansdowne",
+    "state": "PA",
+    "zip": "19050",
+    "phone": "(610) 623-2970",
+    "hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+    "lat": 39.9408861,
+    "lng": -75.2645701,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-443394944",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Marlton Pike West 5461",
+    "city": "Pennsauken Township",
+    "state": "NJ",
+    "zip": "08109",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9315278,
+    "lng": -75.0621731,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-572433819",
+    "name": "New Life Thrift",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Easton Road 800",
+    "city": "Glenside",
+    "state": "PA",
+    "zip": "19038",
+    "phone": "(215) 886-8619",
+    "hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00",
+    "lat": 40.114809,
+    "lng": -75.1400073,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-phl-broad-street-love",
+    "name": "Broad Street Love",
+    "category": "Clothing & Supplies",
+    "description": "Free clothing closet, personal care items, hygiene products, mail service, meals, case management, and legal aid.",
+    "address": "315 S Broad St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19107",
+    "phone": "(215) 735-4847",
+    "hours": "Mon-Wed 11:30 AM - 3:00 PM",
+    "lat": 39.9485,
+    "lng": -75.165,
+    "tags": [
+      "clothing",
+      "hygiene",
+      "meals",
+      "case management"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-phl-wardrobe",
+    "name": "The Wardrobe Philadelphia",
+    "category": "Clothing & Supplies",
+    "description": "Free clothing for job seekers and daily needs. Professional, casual, and formal wear. Walk-in shopping welcome.",
+    "address": "413 N 4th St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19123",
+    "phone": "(215) 568-6693",
+    "hours": "Mon-Sat 11:00 AM - 6:00 PM",
+    "lat": 39.9575,
+    "lng": -75.146,
+    "tags": [
+      "free clothing",
+      "professional wear",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-philadelphia-shelter",
     "name": "Philadelphia Homeless Services Hotline",
     "category": "Shelter",
@@ -310,20 +664,22 @@
   },
   {
     "id": "fallback-philadelphia-hygiene",
-    "name": "Philadelphia Public Restroom Information",
+    "name": "Greenwich Township Branch Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Philadelphia",
-    "state": "PA",
+    "state": "NJ",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 39.9526,
-    "lng": -75.1652,
+    "hours": "During library hours",
+    "lat": 39.8192,
+    "lng": -75.2676,
     "tags": [
       "restroom",
-      "hygiene"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   },
@@ -346,67 +702,6 @@
       "clothing",
       "meals",
       "men"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-philadelphia-library",
-    "name": "Philadelphia Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 39.9526,
-    "lng": -75.1652,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "spl-phl-broad-street-love",
-    "name": "Broad Street Love",
-    "category": "Clothing & Supplies",
-    "description": "Free clothing closet, personal care items, hygiene products, mail service, meals, case management, and legal aid.",
-    "address": "315 S Broad St",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "19107",
-    "phone": "(215) 735-4847",
-    "hours": "Mon-Wed 11:30 AM - 3:00 PM",
-    "lat": 39.9485,
-    "lng": -75.165,
-    "tags": [
-      "clothing",
-      "hygiene",
-      "meals",
-      "case management"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "spl-phl-wardrobe",
-    "name": "The Wardrobe Philadelphia",
-    "category": "Clothing & Supplies",
-    "description": "Free clothing for job seekers and daily needs. Professional, casual, and formal wear. Walk-in shopping welcome.",
-    "address": "413 N 4th St",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "19123",
-    "phone": "(215) 568-6693",
-    "hours": "Mon-Sat 11:00 AM - 6:00 PM",
-    "lat": 39.9575,
-    "lng": -75.146,
-    "tags": [
-      "free clothing",
-      "professional wear",
-      "walk-in"
     ],
     "lastUpdated": "2026-05-14"
   }

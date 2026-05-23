@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-218743",
-    "name": "The Salvation Army - N Alston Ave",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "810 N Alston Ave",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "(919) 688-7306",
-    "hours": "",
-    "lat": 35.99858,
-    "lng": -78.89872,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-183717",
     "name": "Fisher Memorial United Holy Church",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218743",
+    "name": "The Salvation Army - N Alston Ave",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "810 N Alston Ave",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "(919) 688-7306",
+    "hours": "",
+    "lat": 35.99858,
+    "lng": -78.89872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-216924",

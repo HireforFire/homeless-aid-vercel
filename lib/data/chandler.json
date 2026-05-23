@@ -76,44 +76,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-222662",
-    "name": "cornerstone",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1595 so alma school rd",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85286",
-    "phone": "(480) 570-2493",
-    "hours": "",
-    "lat": 33.2834206,
-    "lng": -111.8574219,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223587",
-    "name": "Matthews Crossing",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1368 N. Arizona Avenue",
-    "city": "Suite 112, Chandler",
-    "state": "AZ",
-    "zip": "85225",
-    "phone": "(480) 857-2296",
-    "hours": "",
-    "lat": 33.3269768,
-    "lng": -111.8424911,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-2006",
     "name": "Trinity Christian Fellowship",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-222662",
+    "name": "cornerstone",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1595 so alma school rd",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85286",
+    "phone": "(480) 570-2493",
+    "hours": "",
+    "lat": 33.2834206,
+    "lng": -111.8574219,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223587",
+    "name": "Matthews Crossing",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1368 N. Arizona Avenue",
+    "city": "Suite 112, Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "(480) 857-2296",
+    "hours": "",
+    "lat": 33.3269768,
+    "lng": -111.8424911,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-chandler-shelter",

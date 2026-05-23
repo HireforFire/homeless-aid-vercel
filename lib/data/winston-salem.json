@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-223363",
-    "name": "Samaritan Ministries Soup Kitchen",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "414 East Northwest Blvd",
-    "city": "Winston Salem",
-    "state": "NC",
-    "zip": "27105",
-    "phone": "(336) 748-1962",
-    "hours": "",
-    "lat": 36.1106003,
-    "lng": -80.2402869,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-175873",
     "name": "The Salvation Army - Trade St - Winston Salem",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-223363",
+    "name": "Samaritan Ministries Soup Kitchen",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "414 East Northwest Blvd",
+    "city": "Winston Salem",
+    "state": "NC",
+    "zip": "27105",
+    "phone": "(336) 748-1962",
+    "hours": "",
+    "lat": 36.1106003,
+    "lng": -80.2402869,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-177577",

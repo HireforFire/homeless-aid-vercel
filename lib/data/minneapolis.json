@@ -19,82 +19,6 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "fa-217341",
-    "name": "The Salvation Army - N 4Th St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "900 N. 4th St.",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55401",
-    "phone": "(651) 547-5690",
-    "hours": "",
-    "lat": 44.98526,
-    "lng": -93.26984,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219351",
-    "name": "Centro Food Shelf",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1915 Chicago Avenue South",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55404",
-    "phone": "(612) 874-1412",
-    "hours": "",
-    "lat": 44.9634743,
-    "lng": -93.2621078,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220381",
-    "name": "The Salvation Army CCO",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "53 Glenwood Ave",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55403",
-    "phone": "(612) 659-0711",
-    "hours": "",
-    "lat": 44.9786224,
-    "lng": -93.2794571,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224748",
-    "name": "Shelf of Hope",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "714 Park Ave",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55404",
-    "phone": "(612) 594-2026",
-    "hours": "",
-    "lat": 44.972589805438,
-    "lng": -93.262945516721,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-176691",
     "name": "Sharing and Caring Hands",
     "category": "Food",
@@ -188,6 +112,82 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-217341",
+    "name": "The Salvation Army - N 4Th St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "900 N. 4th St.",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55401",
+    "phone": "(651) 547-5690",
+    "hours": "",
+    "lat": 44.98526,
+    "lng": -93.26984,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219351",
+    "name": "Centro Food Shelf",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1915 Chicago Avenue South",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55404",
+    "phone": "(612) 874-1412",
+    "hours": "",
+    "lat": 44.9634743,
+    "lng": -93.2621078,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220381",
+    "name": "The Salvation Army CCO",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "53 Glenwood Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55403",
+    "phone": "(612) 659-0711",
+    "hours": "",
+    "lat": 44.9786224,
+    "lng": -93.2794571,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224748",
+    "name": "Shelf of Hope",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "714 Park Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55404",
+    "phone": "(612) 594-2026",
+    "hours": "",
+    "lat": 44.972589805438,
+    "lng": -93.262945516721,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-217272",

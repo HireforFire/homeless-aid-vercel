@@ -76,101 +76,6 @@
     "lastUpdated": "2026-04-25"
   },
   {
-    "id": "fa-219418",
-    "name": "The Salvation Army ARC",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1324 S. Flores",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78204",
-    "phone": "(210) 223-6877",
-    "hours": "",
-    "lat": 29.4109497,
-    "lng": -98.5005569,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219495",
-    "name": "Coker UMC Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3107 Mares Meadow",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78247",
-    "phone": "(210) 496-8088",
-    "hours": "",
-    "lat": 29.4241219,
-    "lng": -98.4936295,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220516",
-    "name": "Vista Verde Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "810 N. Frio",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78207",
-    "phone": "(210) 227-5377",
-    "hours": "",
-    "lat": 29.4340458,
-    "lng": -98.5047913,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222860",
-    "name": "SAMMinistries Shelter",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "910 W. Commerce St.",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78207",
-    "phone": "(210) 224-5838",
-    "hours": "",
-    "lat": 29.4226818,
-    "lng": -98.4832077,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223564",
-    "name": "Christian Assistance Ministry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "110 McCullough Avenue",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78215",
-    "phone": "(210) 467-7799",
-    "hours": "",
-    "lat": 29.4282951,
-    "lng": -98.4826355,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172645",
     "name": "Little Church of La Villita",
     "category": "Food",
@@ -221,6 +126,101 @@
     "hours": "",
     "lat": 29.4305724,
     "lng": -98.5247147,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-180728",
+    "name": "Dream Center SA",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "2903 W. Salinas St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78205",
+    "phone": "(210) 227-2347",
+    "hours": "",
+    "lat": 29.4216085,
+    "lng": -98.4706356,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-182424",
+    "name": "Smith Elementary - Community First Health Plans Food Pantry",
+    "category": "Food",
+    "description": "Self-serve food pantry located on the side of Smith Elementary School down Victoria Blvd",
+    "address": "823 S. Gevers St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78203",
+    "phone": "(210) 227-2347",
+    "hours": "",
+    "lat": 29.4113219,
+    "lng": -98.4572414,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-186380",
+    "name": "St. Vincent de Paul - Christ the King Catholic Church",
+    "category": "Food",
+    "description": "Food pantry location at Christ the King Catholic Church",
+    "address": "2623 Perez St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78207",
+    "phone": "(210) 227-2347",
+    "hours": "",
+    "lat": 29.4351361,
+    "lng": -98.5332673,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-189337",
+    "name": "House of Neighborly Service - San Antonio",
+    "category": "Food",
+    "description": "Main food service distribution location",
+    "address": "407 N. Calaveras",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78207",
+    "phone": "(210) 227-2347",
+    "hours": "",
+    "lat": 29.4309203,
+    "lng": -98.5245422,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-189718",
+    "name": "Baptist Temple Church - Community Assistance Network",
+    "category": "Food",
+    "description": "Food distribution location at Community Assistance Network building",
+    "address": "850 E. Drexel",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78210",
+    "phone": "(210) 227-2347",
+    "hours": "",
+    "lat": 29.400807,
+    "lng": -98.4562556,
     "tags": [
       "food pantry",
       "walk-in"

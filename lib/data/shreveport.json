@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-218583",
-    "name": "The Salvation Army - Cornwell Ave",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1207 Cornwell Ave",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "71101",
-    "phone": "(318) 424-3200",
-    "hours": "",
-    "lat": 32.5062,
-    "lng": -93.74822,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-208925",
     "name": "Christian Services Program (Shreveport)",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218583",
+    "name": "The Salvation Army - Cornwell Ave",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1207 Cornwell Ave",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71101",
+    "phone": "(318) 424-3200",
+    "hours": "",
+    "lat": 32.5062,
+    "lng": -93.74822,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-216978",

@@ -19,44 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218582",
-    "name": "The Salvation Army - North B Street",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1200 North B Street",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95811",
-    "phone": "(916) 442-0331",
-    "hours": "",
-    "lat": 38.58761,
-    "lng": -121.49077,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-218618",
-    "name": "The Salvation Army - D Street",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1615 \"D\" Street",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95814",
-    "phone": "(916) 441-5267",
-    "hours": "",
-    "lat": 38.58064,
-    "lng": -121.49488,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-174823",
     "name": "Central Downtown Food Basket",
     "category": "Food",
@@ -93,6 +55,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218582",
+    "name": "The Salvation Army - North B Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1200 North B Street",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95811",
+    "phone": "(916) 442-0331",
+    "hours": "",
+    "lat": 38.58761,
+    "lng": -121.49077,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218618",
+    "name": "The Salvation Army - D Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1615 \"D\" Street",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95814",
+    "phone": "(916) 441-5267",
+    "hours": "",
+    "lat": 38.58064,
+    "lng": -121.49488,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-441",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-220725",
-    "name": "Sacramento Food Bank & Family Services",
+    "id": "fa-172678",
+    "name": "Shores of Hope - West Sacramento",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3333 3d Ave",
-    "city": "Sacramento",
+    "description": "Food Closet location in West Sacramento. Call for current days and hours of operation.",
+    "address": "110 6th Street",
+    "city": "West Sacramento",
     "state": "CA",
-    "zip": "95820",
-    "phone": "(916) 456-1480",
+    "zip": "95605",
+    "phone": "(916) 372-0200",
     "hours": "",
-    "lat": 38.552475,
-    "lng": -121.470314,
+    "lat": 38.5911873,
+    "lng": -121.5140277,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-sacramento-shelter",

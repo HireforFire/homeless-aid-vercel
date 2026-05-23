@@ -133,99 +133,99 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-217954",
-    "name": "The Salvation Army - Washington Ave",
+    "id": "fa-173051",
+    "name": "Christian Hope Baptist Church",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2208 Washington Ave",
-    "city": "Houston",
-    "state": "TX",
-    "zip": "77007",
-    "phone": "(713) 869-3551",
-    "hours": "",
-    "lat": 29.77152,
-    "lng": -95.40919,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-218781",
-    "name": "The Salvation Army - Hemphill St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1015 Hemphill St",
-    "city": "Houston",
-    "state": "TX",
-    "zip": "77007",
-    "phone": "(713) 869-3551",
-    "hours": "",
-    "lat": 29.77152,
-    "lng": -95.40919,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219430",
-    "name": "Berean Adventist Community Services",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2119 St. Emanuel Street",
-    "city": "Houston",
-    "state": "TX",
-    "zip": "77003",
-    "phone": "(713) 654-8945",
-    "hours": "",
-    "lat": 29.7428875,
-    "lng": -95.3620911,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220225",
-    "name": "Boynton Chapel UMC",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2812 Milby Street",
+    "description": "Food pantry distribution location at the church facility",
+    "address": "3418 Anita St.",
     "city": "Houston",
     "state": "TX",
     "zip": "77004",
-    "phone": "(713) 392-2337",
+    "phone": "(832) 530-7038",
     "hours": "",
-    "lat": 29.7303371,
-    "lng": -95.3476868,
+    "lat": 29.7305166,
+    "lng": -95.3520467,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-220631",
-    "name": "DePelchin Children",
+    "id": "fa-179684",
+    "name": "Project Restoration Outreach Ministries",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "4950 Memorial Drive",
+    "description": "Food pantry location offering emergency food assistance and drive-thru food distribution services",
+    "address": "2804 McGowen St.",
     "city": "Houston",
     "state": "TX",
-    "zip": "77007",
-    "phone": "(713) 802-6342",
+    "zip": "77004",
+    "phone": "",
     "hours": "",
-    "lat": 29.7636738,
-    "lng": -95.4108734,
+    "lat": 29.7356894,
+    "lng": -95.3585829,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180075",
+    "name": "UST Celt Pantry",
+    "category": "Food",
+    "description": "Food pantry location at University of St. Thomas",
+    "address": "4219 Yoakum Blvd.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77006",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7346881,
+    "lng": -95.392176,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181072",
+    "name": "Gano Mission Center",
+    "category": "Food",
+    "description": "Main food pantry location providing client-choice food distribution services.",
+    "address": "1815 Gano St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77009",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7776796,
+    "lng": -95.3549254,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183398",
+    "name": "Jordan Grove Missionary Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Jordan Grove Missionary Baptist Church, a distributing partner of the Houston Food Bank.",
+    "address": "2814 Live Oak St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77004",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7355611,
+    "lng": -95.3618747,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-houston-shelter",

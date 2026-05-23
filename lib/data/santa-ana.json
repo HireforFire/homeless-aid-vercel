@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-220765",
-    "name": "Veterans First",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1611 N Broadway",
-    "city": "Santa Ana",
-    "state": "CA",
-    "zip": "92706",
-    "phone": "(714) 547-0615",
-    "hours": "",
-    "lat": 33.7592545,
-    "lng": -117.8692932,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-173648",
     "name": "7th Day Adventist Church",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220765",
+    "name": "Veterans First",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1611 N Broadway",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92706",
+    "phone": "(714) 547-0615",
+    "hours": "",
+    "lat": 33.7592545,
+    "lng": -117.8692932,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-467",
@@ -133,82 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-217946",
-    "name": "The Salvation Army - W 1St St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2603 W. 1st St.",
-    "city": "Santa Ana",
-    "state": "CA",
-    "zip": "92703",
-    "phone": "(714) 541-6726",
-    "hours": "",
-    "lat": 33.74853,
-    "lng": -117.90621,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224492",
-    "name": "Tustin Area Senior Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200  South C Street",
-    "city": "Tustin",
-    "state": "CA",
-    "zip": "92780",
-    "phone": "(714) 573-3352",
-    "hours": "",
-    "lat": 33.7439916,
-    "lng": -117.8257393,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224624",
-    "name": "Mitzvah Meals at Temple Beth Sholom",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2625 North Tustin Avenue",
-    "city": "Santa Ana",
-    "state": "CA",
-    "zip": "92705",
-    "phone": "(714) 400-7088",
-    "hours": "",
-    "lat": 33.7731743,
-    "lng": -117.8356552,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225300",
-    "name": "mental health assoc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2416 S. Main St",
-    "city": "Santa Ana",
-    "state": "CA",
-    "zip": "92707",
-    "phone": "(714) 668-1530",
-    "hours": "",
-    "lat": 33.7141474,
-    "lng": -117.8683677,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172374",
     "name": "Companerismo Rey de Reyes",
     "category": "Food",
@@ -221,6 +145,82 @@
     "hours": "",
     "lat": 33.7304236,
     "lng": -117.8785311,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180801",
+    "name": "Southwest Community Center",
+    "category": "Food",
+    "description": "Main location providing food pantry and meal services. Service area: Orange County.",
+    "address": "1601 W. Second Street",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92703",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7464165,
+    "lng": -117.8901588,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183265",
+    "name": "Love Community Outreach Food Pantry",
+    "category": "Food",
+    "description": "Love Community Outreach food pantry location in Santa Ana. Best to reach out on Facebook. They have no phone line.",
+    "address": "1920 W Chestnut Ave",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92703",
+    "phone": "",
+    "hours": "",
+    "lat": 33.742509988948015,
+    "lng": -117.89577403007809,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191062",
+    "name": "Project Access - Warwick Square",
+    "category": "Food",
+    "description": "Warwick Square distribution location for Project Access Kid's Cafe meal program.",
+    "address": "780 S. Lyon St.",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92705",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7373701,
+    "lng": -117.8455437,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192525",
+    "name": "Delhi Center",
+    "category": "Food",
+    "description": "Delhi Center location providing senior food distribution and grocery services.",
+    "address": "505 E Central Ave.",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92707",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7142602,
+    "lng": -117.8611932,
     "tags": [
       "food pantry",
       "walk-in"

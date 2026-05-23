@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-129705",
+    "name": "Lansing Public School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "519 WEST KALAMAZOO ST",
+    "city": "LANSING",
+    "state": "MI",
+    "zip": "48911",
+    "phone": "(517) 755-1010",
+    "hours": "",
+    "lat": 42.730035,
+    "lng": -84.559279,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-220203",
     "name": "Loaves and Fishes Ministries",
     "category": "Food",
@@ -171,61 +190,42 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-129705",
-    "name": "Lansing Public School District",
+    "id": "fa-189774",
+    "name": "The Salvation Army - Lansing Distribution Center",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "519 WEST KALAMAZOO ST",
-    "city": "LANSING",
-    "state": "MI",
-    "zip": "48911",
-    "phone": "(517) 755-1010",
-    "hours": "",
-    "lat": 42.730035,
-    "lng": -84.559279,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-224591",
-    "name": "Bethlehem Temple Bread House",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1518 S. Washington",
+    "description": "Main distribution center location for The Salvation Army in Lansing.",
+    "address": "3305 S Pennsylvania Ave",
     "city": "Lansing",
     "state": "MI",
     "zip": "48910",
-    "phone": "(517) 485-4209",
+    "phone": "",
     "hours": "",
-    "lat": 42.7164078,
-    "lng": -84.5535202,
+    "lat": 42.6983849,
+    "lng": -84.5375045,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-225328",
-    "name": "Cristo Rey Community Center",
+    "id": "fa-200700",
+    "name": "Give or Take Center",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1717 N. High",
-    "city": "Lansing",
+    "description": "Give or Take Center located in East Lansing, Michigan",
+    "address": "1460 Middlevale Rd. Suite 54",
+    "city": "East Lansing",
     "state": "MI",
-    "zip": "48906",
-    "phone": "(517) 372-4700",
+    "zip": "48823",
+    "phone": "",
     "hours": "",
-    "lat": 42.753727,
-    "lng": -84.5395203,
+    "lat": 42.717372,
+    "lng": -84.499104,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-lansing-shelter",

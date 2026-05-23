@@ -19,63 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-220199",
-    "name": "Guru Nanak Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "14511 Franklin Avenue #160",
-    "city": "Tustin",
-    "state": "CA",
-    "zip": "92780",
-    "phone": "(949) 425-2401",
-    "hours": "",
-    "lat": 33.7172546,
-    "lng": -117.8077087,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-221504",
-    "name": "AIDS Services Foundation Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "17982 Sky Park Circle Suite J",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92614",
-    "phone": "(949) 809-5770",
-    "hours": "",
-    "lat": 33.6897125,
-    "lng": -117.8594284,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224672",
-    "name": "St. Vincent de Paul Society - St. Elizabeth Ann Seton",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "9 Hillgate",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92612",
-    "phone": "(949) 854-1000",
-    "hours": "",
-    "lat": 33.6505737,
-    "lng": -117.8184433,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-192525",
     "name": "Delhi Center",
     "category": "Food",
@@ -152,18 +95,56 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-221924",
-    "name": "Boys Hope Girls Hope of Southern California",
+    "id": "fa-220199",
+    "name": "Guru Nanak Food Pantry",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "17701 Cowan Ave",
+    "address": "14511 Franklin Avenue #160",
+    "city": "Tustin",
+    "state": "CA",
+    "zip": "92780",
+    "phone": "(949) 425-2401",
+    "hours": "",
+    "lat": 33.7172546,
+    "lng": -117.8077087,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221504",
+    "name": "AIDS Services Foundation Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "17982 Sky Park Circle Suite J",
     "city": "Irvine",
     "state": "CA",
     "zip": "92614",
-    "phone": "",
+    "phone": "(949) 809-5770",
     "hours": "",
-    "lat": 33.6954346,
-    "lng": -117.8576965,
+    "lat": 33.6897125,
+    "lng": -117.8594284,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224672",
+    "name": "St. Vincent de Paul Society - St. Elizabeth Ann Seton",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "9 Hillgate",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92612",
+    "phone": "(949) 854-1000",
+    "hours": "",
+    "lat": 33.6505737,
+    "lng": -117.8184433,
     "tags": [
       "food pantry",
       "walk-in"
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-2363",
+    "name": "PEACE Center Food Pantry at  Saddleback Church Irvine South",
+    "category": "Food",
+    "description": "income verification",
+    "address": "18842 Teller Avenue",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92612",
+    "phone": "(949) 609-8210",
+    "hours": "",
+    "lat": 33.65984,
+    "lng": -117.82457,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-irvine-shelter",

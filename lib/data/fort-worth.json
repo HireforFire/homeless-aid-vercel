@@ -114,63 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218796",
-    "name": "The Salvation Army - Ne 28Th St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2901 NE 28th St",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76111",
-    "phone": "(817) 834-6271",
-    "hours": "",
-    "lat": 32.7804,
-    "lng": -97.30116,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-221729",
-    "name": "Northside Inter-Community Agency",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1600 Circle Park Blvd.",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76164",
-    "phone": "(817) 626-1102",
-    "hours": "",
-    "lat": 32.7784119,
-    "lng": -97.3536224,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225411",
-    "name": "world missionary baptist church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1200 e bessie st",
-    "city": "Ft.Worth",
-    "state": "TX",
-    "zip": "76104",
-    "phone": "(817) 332-1202",
-    "hours": "",
-    "lat": 32.7399712,
-    "lng": -97.3118744,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172939",
     "name": "Union Gospel Mission",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-213712",
+    "name": "Mercy Culture Food Bank",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "1701 Oakhurst Scenic Dr.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76111",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7852562,
+    "lng": -97.3195916,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13606",
+    "name": "First Presbyterian Church Of Ft. Worth",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1000 Penn St.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76102",
+    "phone": "(817) 335-1231",
+    "hours": "",
+    "lat": 32.75799,
+    "lng": -97.32858,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-117",
+    "name": "Fort Worth Community Food Pantry",
+    "category": "Food",
+    "description": "Fort Worth residents",
+    "address": "1625 Circle Park Blvd",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76164",
+    "phone": "(817) 496-0218",
+    "hours": "",
+    "lat": 32.7633,
+    "lng": -97.3283,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fallback-fort-worth-shelter",

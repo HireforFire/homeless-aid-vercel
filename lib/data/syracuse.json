@@ -228,22 +228,40 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-syracuse-shelter",
-    "name": "Syracuse Homeless Services Hotline",
+    "id": "osm-node-2904793728",
+    "name": "Willow Bay Shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
+    "address": "Onondaga Lake Park Trail 7199",
+    "city": "Liverpool",
+    "state": "NY",
+    "zip": "13088",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1160709,
+    "lng": -76.2409017,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4464001978",
+    "name": "Woods Trail Shelter",
+    "category": "Shelter",
+    "description": "shelter",
     "address": "",
     "city": "Syracuse",
     "state": "NY",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 43.0481,
-    "lng": -76.1474,
+    "phone": "",
+    "hours": "Jun-Aug 10:00-20:00 \"by reservation\"",
+    "lat": 42.9334054,
+    "lng": -75.9961703,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

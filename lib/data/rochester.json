@@ -228,6 +228,281 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-368050293",
+    "name": "Fairport Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Fairport Village Landing 1",
+    "city": "Fairport",
+    "state": "NY",
+    "zip": "14450",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1011697,
+    "lng": -77.4422881,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543618042",
+    "name": "East Rochester Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 317",
+    "city": "East Rochester",
+    "state": "NY",
+    "zip": "14445",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1125616,
+    "lng": -77.4856404,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1243545269",
+    "name": "Sibley Music Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1576451,
+    "lng": -77.601822,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2470438188",
+    "name": "Charlotte Whitney Allen Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.157426,
+    "lng": -77.587653,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8785742697",
+    "name": "Webster Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Ridge Road 980",
+    "city": "Webster",
+    "state": "NY",
+    "zip": "14580",
+    "phone": "",
+    "hours": "Mo-Th 09:00-20:00; Fr,Sa 10:00-17:00",
+    "lat": 43.2115442,
+    "lng": -77.4598511,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8785755454",
+    "name": "Sully Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Webster Avenue 530",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14609",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1700425,
+    "lng": -77.5711464,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8786022882",
+    "name": "Brighton Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Elmwood Avenue 2300",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14618",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1266898,
+    "lng": -77.5761684,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8786027132",
+    "name": "Chili Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Chili Avenue 3237",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14624",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1017831,
+    "lng": -77.7465938,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10557322820",
+    "name": "Media Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.1233915,
+    "lng": -77.5926907,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2398867658",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Ridge Road 1518",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14615",
+    "phone": "",
+    "hours": "",
+    "lat": 43.2073875,
+    "lng": -77.6670015,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6975367360",
+    "name": "AMVETS Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Jefferson Road 400",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14623",
+    "phone": "(585) 424-3730",
+    "hours": "Mo-Sa 09:00-21:00, Su 10:00-18:00",
+    "lat": 43.0907905,
+    "lng": -77.6401644,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7100589164",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Donation Center",
+    "address": "Brighton-Henrietta Town Line Road 2341",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14623",
+    "phone": "",
+    "hours": "Mo-Su 09:00-17:00",
+    "lat": 43.0944723,
+    "lng": -77.6143648,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9401333515",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Eastview Mall Drive 34",
+    "city": "Victor",
+    "state": "NY",
+    "zip": "14564",
+    "phone": "(800) 466-3945",
+    "hours": "",
+    "lat": 43.0260513,
+    "lng": -77.4409889,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12714843301",
+    "name": "Goodwill Donation Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14580",
+    "phone": "(888) 859-1606",
+    "hours": "Mo-Su 09:00-17:00",
+    "lat": 43.1889532,
+    "lng": -77.5029434,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-rochester-shelter",
     "name": "Rochester Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +524,22 @@
   },
   {
     "id": "fallback-rochester-hygiene",
-    "name": "Rochester Public Restroom Information",
+    "name": "Fairport Public Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Rochester",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Fairport Village Landing 1",
+    "city": "Fairport",
     "state": "NY",
-    "zip": "",
+    "zip": "14450",
     "phone": "",
-    "hours": "Varies",
-    "lat": 43.1566,
-    "lng": -77.6088,
+    "hours": "During library hours",
+    "lat": 43.1011697,
+    "lng": -77.4422881,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-rochester-library",
-    "name": "Rochester Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 43.1566,
-    "lng": -77.6088,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -228,6 +228,377 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-367136632",
+    "name": "Connecticut State Records Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Street 198",
+    "city": "Rocky Hill",
+    "state": "CT",
+    "zip": "06067",
+    "phone": "(860) 721-2041",
+    "hours": "",
+    "lat": 41.6527893,
+    "lng": -72.6475957,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138137",
+    "name": "Cromwell Belden Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Street 39",
+    "city": "Cromwell",
+    "state": "CT",
+    "zip": "06416",
+    "phone": "(860) 632-3460",
+    "hours": "",
+    "lat": 41.5977963,
+    "lng": -72.6526208,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138144",
+    "name": "East Hampton Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 105",
+    "city": "East Hampton",
+    "state": "CT",
+    "zip": "06424",
+    "phone": "(860) 267-6621",
+    "hours": "",
+    "lat": 41.573207,
+    "lng": -72.5003814,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138593",
+    "name": "Auerbach Art Library and Museum Archives",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 600",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06103",
+    "phone": "(860) 838-4116",
+    "hours": "",
+    "lat": 41.7637366,
+    "lng": -72.6734849,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138595",
+    "name": "Archbishop Henry J. O’Brien Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Bloomfield Avenue 467",
+    "city": "Bloomfield",
+    "state": "CT",
+    "zip": "06002",
+    "phone": "(860) 242-5573",
+    "hours": "",
+    "lat": 41.806893,
+    "lng": -72.733689,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138828",
+    "name": "Dwight Branch Hartford Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "New Park Avenue 7",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06106",
+    "phone": "(860) 695-7460",
+    "hours": "Mo-Th 11:00-18:00; Fr 12:00-17:00",
+    "lat": 41.756856,
+    "lng": -72.7069352,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138840",
+    "name": "Institute of Living Medical Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Retreat Avenue 200",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06114",
+    "phone": "(860) 972-2230",
+    "hours": "",
+    "lat": 41.7557513,
+    "lng": -72.6781866,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138862",
+    "name": "Hartford Public Library Ropkin/Sand Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 1750",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06120",
+    "phone": "(860) 695-7520",
+    "hours": "",
+    "lat": 41.7790683,
+    "lng": -72.6758474,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138869",
+    "name": "Thomas Jefferson Branch New Britain Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Horseplain Road 140",
+    "city": "New Britain",
+    "state": "CT",
+    "zip": "06053",
+    "phone": "(860) 225-4700",
+    "hours": "",
+    "lat": 41.69608,
+    "lng": -72.7996734,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367138926",
+    "name": "Connecticut Library for Accessible Books",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Street 198",
+    "city": "Rocky Hill",
+    "state": "CT",
+    "zip": "06067",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6528428,
+    "lng": -72.6472286,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7807321317",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Main Street 2709",
+    "city": "Glastonbury",
+    "state": "CT",
+    "zip": "06033",
+    "phone": "(860) 657-8195",
+    "hours": "",
+    "lat": 41.7166069,
+    "lng": -72.61276,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9368945859",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "Thrift store",
+    "address": "Hartford Turnpike 295",
+    "city": "Vernon",
+    "state": "CT",
+    "zip": "06066",
+    "phone": "(860) 872-5423",
+    "hours": "",
+    "lat": 41.8284976,
+    "lng": -72.4913299,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9673269150",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Columbus Boulevard 190",
+    "city": "New Britain",
+    "state": "CT",
+    "zip": "06051",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6664771,
+    "lng": -72.7747324,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11380692674",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Talcottville Road 369",
+    "city": "Vernon",
+    "state": "CT",
+    "zip": "06066",
+    "phone": "",
+    "hours": "",
+    "lat": 41.842093,
+    "lng": -72.4894362,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13003003269",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Town Line Road 80",
+    "city": "Rocky Hill",
+    "state": "CT",
+    "zip": "06067",
+    "phone": "(860) 529-6838",
+    "hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00",
+    "lat": 41.6818665,
+    "lng": -72.657744,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13863499669",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Hartford Road 615",
+    "city": "New Britain",
+    "state": "CT",
+    "zip": "06053",
+    "phone": "(860) 224-0885",
+    "hours": "",
+    "lat": 41.7144643,
+    "lng": -72.763074,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-151976525",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Cottage Grove Road 331",
+    "city": "Bloomfield",
+    "state": "CT",
+    "zip": "06002",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8159412,
+    "lng": -72.7163092,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-868123499",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "New Britain Avenue 349",
+    "city": "Plainville",
+    "state": "CT",
+    "zip": "06062",
+    "phone": "(860) 410-8090",
+    "hours": "10:00-19:00",
+    "lat": 41.6753346,
+    "lng": -72.8383653,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-885380856",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Asylum Avenue 855",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06105",
+    "phone": "(860) 702-0000",
+    "hours": "",
+    "lat": 41.7698168,
+    "lng": -72.693397,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-hartford-shelter",
     "name": "Hartford Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +620,22 @@
   },
   {
     "id": "fallback-hartford-hygiene",
-    "name": "Hartford Public Restroom Information",
+    "name": "Connecticut State Records Center - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Hartford",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "West Street 198",
+    "city": "Rocky Hill",
     "state": "CT",
-    "zip": "",
+    "zip": "06067",
     "phone": "",
-    "hours": "Varies",
-    "lat": 41.7658,
-    "lng": -72.6734,
+    "hours": "During library hours",
+    "lat": 41.6527893,
+    "lng": -72.6475957,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-hartford-library",
-    "name": "Hartford Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Hartford",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 41.7658,
-    "lng": -72.6734,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

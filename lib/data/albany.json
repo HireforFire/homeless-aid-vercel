@@ -228,61 +228,318 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fallback-albany-shelter",
-    "name": "Albany Homeless Services Hotline",
+    "id": "osm-node-2121617788",
+    "name": "Education Center",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Albany",
     "state": "NY",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 42.6526,
-    "lng": -73.7562,
+    "phone": "",
+    "hours": "",
+    "lat": 42.8037693,
+    "lng": -73.8574535,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368050275",
+    "name": "James Wheelock Clark Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.7276627,
+    "lng": -73.692566,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368050279",
+    "name": "Marvin Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6963889,
+    "lng": -73.6861111,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368050283",
+    "name": "Dietel Library & Archives",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Pawling Avenue 285",
+    "city": "Troy",
+    "state": "NY",
+    "zip": "12180",
+    "phone": "",
+    "hours": "",
+    "lat": 42.7119989,
+    "lng": -73.6625523,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051074",
+    "name": "Governor Thomas E Dewey Graduate Library for Public Affairs and Policy",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6602358,
+    "lng": -73.7705695,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051078",
+    "name": "Charles R Joy Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6616312,
+    "lng": -73.7714263,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051109",
+    "name": "John A Howe Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8176034,
+    "lng": -73.945062,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051159",
+    "name": "Grems-Doolittle Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8171741,
+    "lng": -73.9496411,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-373330595",
+    "name": "North Greenbush Public LIbrary",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6961022,
+    "lng": -73.6393128,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543625413",
+    "name": "Rcs Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 106",
+    "city": "Ravena",
+    "state": "NY",
+    "zip": "12143",
+    "phone": "",
+    "hours": "",
+    "lat": 42.47218,
+    "lng": -73.80939,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543625475",
+    "name": "Voorheesville Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "School Road 51",
+    "city": "Voorheesville",
+    "state": "NY",
+    "zip": "12186",
+    "phone": "",
+    "hours": "",
+    "lat": 42.65689,
+    "lng": -73.93965,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1022887319",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Fuller Road 71",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6992914,
+    "lng": -73.8239105,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-399565851",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "2145",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.757544,
+    "lng": -73.8775022,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-668570693",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "N Broadway 115",
+    "city": "Schenectady",
+    "state": "NY",
+    "zip": "12305",
+    "phone": "(518) 395-3412",
+    "hours": "Tu-We 10:00-15:00, Th-Fr 10:00-18:00, Sa 10:00-15:00",
+    "lat": 42.8144514,
+    "lng": -73.9416142,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-751181201",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Troy Schenectady Road 190",
+    "city": "Latham",
+    "state": "NY",
+    "zip": "12110",
+    "phone": "(800) 728-7825",
+    "hours": "",
+    "lat": 42.7381419,
+    "lng": -73.7336787,
+    "tags": [
+      "thrift",
+      "charity"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-albany-hygiene",
-    "name": "Albany Public Restroom Information",
+    "name": "James Wheelock Clark Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Albany",
     "state": "NY",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 42.6526,
-    "lng": -73.7562,
+    "hours": "During library hours",
+    "lat": 42.7276627,
+    "lng": -73.692566,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-albany-library",
-    "name": "Albany Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Albany",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 42.6526,
-    "lng": -73.7562,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

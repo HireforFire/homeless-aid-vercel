@@ -76,6 +76,44 @@
     "lastUpdated": "2026-04-25"
   },
   {
+    "id": "fa-174475",
+    "name": "Brooks Worship Center",
+    "category": "Food",
+    "description": "Food pantry distribution location at Brooks Worship Center.",
+    "address": "2101 N. Port Ave.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "(361) 452-6864",
+    "hours": "",
+    "lat": 27.8048196,
+    "lng": -97.4102119,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130732",
+    "name": "CORPUS CHRISTI ISD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "801 LEOPARD ST",
+    "city": "CORPUS CHRISTI",
+    "state": "TX",
+    "zip": "78408",
+    "phone": "(361) 695-7405",
+    "hours": "",
+    "lat": 27.796005,
+    "lng": -97.39947,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-186692",
     "name": "Oveal Williams Senior Center",
     "category": "Food",
@@ -152,23 +190,23 @@
     "lastUpdated": "2026-04-25"
   },
   {
-    "id": "fa-174475",
-    "name": "Brooks Worship Center",
+    "id": "fa-197",
+    "name": "Salvation Army - Corpus Christi",
     "category": "Food",
-    "description": "Food pantry distribution location at Brooks Worship Center.",
-    "address": "2101 N. Port Ave.",
+    "description": "Nueces County residents",
+    "address": "1224 Comanche St",
     "city": "Corpus Christi",
     "state": "TX",
     "zip": "78401",
-    "phone": "(361) 452-6864",
+    "phone": "(361) 883-8671",
     "hours": "",
-    "lat": 27.8048196,
-    "lng": -97.4102119,
+    "lat": 27.7933,
+    "lng": -97.4033,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-173071",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 27.7645002,
     "lng": -97.4058828,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-25"
-  },
-  {
-    "id": "fa-185794",
-    "name": "Zavala Senior Center",
-    "category": "Food",
-    "description": "Senior activity center providing congregate meals and lunch services",
-    "address": "510 Osage St.",
-    "city": "Corpus Christi",
-    "state": "TX",
-    "zip": "78405",
-    "phone": "(361) 882-3245",
-    "hours": "",
-    "lat": 27.7787151,
-    "lng": -97.427404,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-25"
-  },
-  {
-    "id": "fa-189017",
-    "name": "First Baptist Church",
-    "category": "Food",
-    "description": "Food pantry distribution location at First Baptist Church in Corpus Christi.",
-    "address": "3115 Ocean Drive",
-    "city": "Corpus Christi",
-    "state": "TX",
-    "zip": "78404",
-    "phone": "(361) 882-3245",
-    "hours": "",
-    "lat": 27.763729,
-    "lng": -97.383291,
     "tags": [
       "food pantry",
       "walk-in"

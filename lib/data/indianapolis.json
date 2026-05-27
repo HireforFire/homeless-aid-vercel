@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218539",
-    "name": "The Salvation Army - N Alabama",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "540 N. Alabama",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46204",
-    "phone": "(317) 637-5551",
-    "hours": "",
-    "lat": 39.77134,
-    "lng": -86.15703,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-223973",
     "name": "Second Helpings",
     "category": "Food",
@@ -69,6 +50,25 @@
     "hours": "",
     "lat": 39.7657166,
     "lng": -86.1394882,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218539",
+    "name": "The Salvation Army - N Alabama",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "540 N. Alabama",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46204",
+    "phone": "(317) 637-5551",
+    "hours": "",
+    "lat": 39.77134,
+    "lng": -86.15703,
     "tags": [
       "food pantry",
       "walk-in"

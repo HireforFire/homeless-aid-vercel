@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-171110",
-    "name": "Holy Cross Center",
-    "category": "Food",
-    "description": "Food pantry location offering TEFAP program items and grocery rescue items. Note: Starting August 25th, East K Street will be closed as well as the intersection of East K Street and North Lincoln Street. Access to this location will be from H Street.",
-    "address": "1030 N Lincoln St",
-    "city": "Casper",
-    "state": "WY",
-    "zip": "82601",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8605951,
-    "lng": -106.3153369,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-170420",
     "name": "The Manna Closet Ministry - Food Pantry",
     "category": "Food",
@@ -209,18 +190,37 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-170984",
-    "name": "Joshua's Storehouse",
+    "id": "fa-171045",
+    "name": "Community Action Partnership - Casper",
     "category": "Food",
-    "description": "Joshua's Storehouse and Distribution Center located in Casper, Wyoming. Facility features air conditioning and provides indoor service.",
-    "address": "334 S Wolcott St",
+    "description": "Main food pantry location in Casper, Wyoming. Walk-up access available.",
+    "address": "606 S David St",
     "city": "Casper",
     "state": "WY",
     "zip": "82601",
     "phone": "",
     "hours": "",
-    "lat": 42.84672,
-    "lng": -106.32408,
+    "lat": 42.8444333,
+    "lng": -106.3269265,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171190",
+    "name": "Grace Bible Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Grace Bible Baptist Church",
+    "address": "405 S Park St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8464824,
+    "lng": -106.3177596,
     "tags": [
       "food pantry",
       "walk-in"

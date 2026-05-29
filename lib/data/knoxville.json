@@ -38,25 +38,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-220069",
-    "name": "Food in The Fort",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1642 Highland Ave",
-    "city": "Knoxville",
-    "state": "TN",
-    "zip": "37916",
-    "phone": "(865) 237-8166",
-    "hours": "",
-    "lat": 35.9602127,
-    "lng": -83.9337845,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-225508",
     "name": "FBC Knox Food Co-Op",
     "category": "Food",
@@ -107,6 +88,25 @@
     "hours": "",
     "lat": 35.9714011,
     "lng": -83.92347319999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184361",
+    "name": "Food in the Fort",
+    "category": "Food",
+    "description": "Food in the Fort distribution location at 1642 Highland Avenue in Knoxville, TN",
+    "address": "1642 Highland Avenue",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37916",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9599238,
+    "lng": -83.9337785,
     "tags": [
       "food pantry",
       "walk-in"
@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-187351",
-    "name": "Montgomery Village Baptist Center",
-    "category": "Food",
-    "description": "Food distribution center at Montgomery Village Baptist Center",
-    "address": "4601 Joe Lewis Road",
-    "city": "Knoxville",
-    "state": "TN",
-    "zip": "37920",
-    "phone": "",
-    "hours": "",
-    "lat": 35.920955,
-    "lng": -83.9220068,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-195493",
     "name": "Soul Harvest Church of God",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-217762",
+    "name": "The Salvation Army - N Broadway St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "409 N Broadway St",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37917",
+    "phone": "(865) 525-9401",
+    "hours": "",
+    "lat": 36.00156,
+    "lng": -83.91265,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-knoxville-shelter",

@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-187210",
-    "name": "SVDP First Place Family Center",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "4060 Amazon Pkwy",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97405",
-    "phone": "",
-    "hours": "",
-    "lat": 44.038175,
-    "lng": -123.089436,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-176014",
     "name": "Catholic Community Services (CCS) – Eugene",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 44.052986197198,
     "lng": -123.114888585692,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176435",
+    "name": "Faith Center",
+    "category": "Food",
+    "description": "Faith Center food distribution location in Eugene, Oregon.",
+    "address": "1410 W 13th Avenue",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "",
+    "hours": "",
+    "lat": 44.04523733726,
+    "lng": -123.114295482223,
     "tags": [
       "food pantry",
       "walk-in"

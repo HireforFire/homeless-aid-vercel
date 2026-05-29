@@ -95,6 +95,25 @@
     "lastUpdated": "2026-01-18"
   },
   {
+    "id": "fa-213547",
+    "name": "Central Presbyterian Church",
+    "category": "Food",
+    "description": "Central Presbyterian Church food pantry location",
+    "address": "3501 Campbell St",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64109",
+    "phone": "",
+    "hours": "",
+    "lat": 39.062979299999995,
+    "lng": -94.57377369999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-173756",
     "name": "Morning Star Missionary Baptist Church/LINC",
     "category": "Food",
@@ -204,25 +223,6 @@
     "lng": -94.562733543367,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-178983",
-    "name": "The Salvation Army - Eastside",
-    "category": "Food",
-    "description": "Salvation Army Eastside food pantry and soup kitchen location",
-    "address": "3013 E 9th St",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64127",
-    "phone": "",
-    "hours": "",
-    "lat": 39.1021131,
-    "lng": -94.5461217,
-    "tags": [
-      "soup kitchen",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

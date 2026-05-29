@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-188848",
-    "name": "Highlands Community Ministries",
-    "category": "Food",
-    "description": "Main food pantry location in Louisville",
-    "address": "1228 E Breckinridge St",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40204",
-    "phone": "",
-    "hours": "",
-    "lat": 38.2397308,
-    "lng": -85.73107139999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-193251",
     "name": "West End Baptist Church",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 38.2288776,
     "lng": -85.7618182,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201501",
+    "name": "Centennial Olivet Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Centennial Olivet Baptist Church",
+    "address": "1541 B W. Oak St.",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40210",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2371934,
+    "lng": -85.7802398,
     "tags": [
       "food pantry",
       "walk-in"

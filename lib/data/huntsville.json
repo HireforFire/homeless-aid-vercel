@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-188164",
-    "name": "Life Church Huntsville",
-    "category": "Food",
-    "description": "Main distribution location for Life Church Huntsville food pantry",
-    "address": "2300 S. Memorial Parkway SW",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35801",
-    "phone": "",
-    "hours": "",
-    "lat": 34.716876,
-    "lng": -86.593453,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-188569",
     "name": "Holmes Street UMC",
     "category": "Food",
@@ -71,25 +52,6 @@
     "lng": -86.593769,
     "tags": [
       "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214169",
-    "name": "Lincoln Church of Christ Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location at Lincoln Church of Christ. Spanish language support available.",
-    "address": "1307 Meridian st.",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35801",
-    "phone": "",
-    "hours": "",
-    "lat": 34.730369,
-    "lng": -86.586104,
-    "tags": [
-      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 34.7242807,
     "lng": -86.604166,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206827",
+    "name": "Huntsville Bible Baptist",
+    "category": "Food",
+    "description": "Huntsville Bible Baptist food distribution location",
+    "address": "2400 Andrew Jackson Way NE",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35811",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7524146,
+    "lng": -86.5724968,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206971",
+    "name": "St. Paul United Methodist Church",
+    "category": "Food",
+    "description": "Food distribution location at St. Paul United Methodist Church",
+    "address": "3250 Dunn St. SW.",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35805",
+    "phone": "",
+    "hours": "",
+    "lat": 34.709209,
+    "lng": -86.610088,
     "tags": [
       "food pantry",
       "walk-in"

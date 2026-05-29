@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-181675",
-    "name": "Mission Arlington",
-    "category": "Food",
-    "description": "Main location for Mission Arlington emergency assistance services",
-    "address": "210 W. South St.",
-    "city": "Arlington",
-    "state": "TX",
-    "zip": "76010",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7347084,
-    "lng": -97.1092379,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-205871",
     "name": "The Salvation Army - Arlington",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -97.1178101,
     "tags": [
       "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181528",
+    "name": "Ebenezer Spanish SDA Church",
+    "category": "Food",
+    "description": "Food pantry location at Ebenezer Spanish SDA Church in Arlington, Texas.",
+    "address": "133 Luttrell St.",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7361725,
+    "lng": -97.0862789,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

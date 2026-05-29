@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-170246",
-    "name": "St. Vincent's Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location",
-    "address": "500 E. Fourth Street",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89512",
-    "phone": "(775) 322-7073",
-    "hours": "",
-    "lat": 39.5304475,
-    "lng": -119.8074527,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-170428",
     "name": "Washoe County Health District - Mobile Harvest",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 39.5187404,
     "lng": -119.8071504,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170693",
+    "name": "Northern Nevada HOPES - Main Office",
+    "category": "Food",
+    "description": "Main office and distribution location for Northern Nevada HOPES food services",
+    "address": "580 W. 5th St",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89503",
+    "phone": "",
+    "hours": "",
+    "lat": 39.529318,
+    "lng": -119.8214944,
     "tags": [
       "food pantry",
       "walk-in"

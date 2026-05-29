@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-220315",
-    "name": "The Salvation Army Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "297 Cumberland Avenue",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "(207) 774-4172",
-    "hours": "",
-    "lat": 43.6592522,
-    "lng": -70.2593536,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-222202",
     "name": "Preble Street Food Pantry",
     "category": "Food",
@@ -131,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-216680",
+    "name": "The Salvation Army - Cumberland Avenue Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "297 Cumberland Avenue",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 774-4172",
+    "hours": "",
+    "lat": 43.6624,
+    "lng": -70.2586,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-226217",

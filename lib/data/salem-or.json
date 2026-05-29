@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-175586",
-    "name": "FEED Salem",
-    "category": "Food",
-    "description": "Food distribution location in Salem, Oregon",
-    "address": "1268 Broadway St. NE",
-    "city": "Salem",
-    "state": "OR",
-    "zip": "97301",
-    "phone": "",
-    "hours": "",
-    "lat": 44.951662884537,
-    "lng": -123.030748694684,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-191033",
     "name": "Jason Lee Food Bank",
     "category": "Food",
@@ -33,6 +14,25 @@
     "lng": -123.0239788,
     "tags": [
       "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175586",
+    "name": "FEED Salem",
+    "category": "Food",
+    "description": "Food distribution location in Salem, Oregon",
+    "address": "1268 Broadway St. NE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "",
+    "hours": "",
+    "lat": 44.951662884537,
+    "lng": -123.030748694684,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

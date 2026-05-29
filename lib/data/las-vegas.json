@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-170512",
+    "name": "Church on the Street",
+    "category": "Food",
+    "description": "Food pantry location serving Clark County residents",
+    "address": "919 E Ogden Ave.",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89101",
+    "phone": "(702) 474-4439",
+    "hours": "",
+    "lat": 36.1681776,
+    "lng": -115.1343731,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-170379",
     "name": "Veteran's Village",
     "category": "Food",
@@ -38,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-170512",
-    "name": "Church on the Street",
-    "category": "Food",
-    "description": "Food pantry location serving Clark County residents",
-    "address": "919 E Ogden Ave.",
-    "city": "Las Vegas",
-    "state": "NV",
-    "zip": "89101",
-    "phone": "(702) 474-4439",
-    "hours": "",
-    "lat": 36.1681776,
-    "lng": -115.1343731,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-170615",
     "name": "St. Joseph Catholic Church",
     "category": "Food",
@@ -76,18 +76,18 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-171218",
-    "name": "Las Vegas Rescue Mission",
+    "id": "fa-170817",
+    "name": "Las Vegas Rescue Mission - Food Distribution Center",
     "category": "Food",
-    "description": "Main food pantry location providing food assistance services.",
+    "description": "Food distribution center located on West Bonanza Road in Las Vegas.",
     "address": "480 W Bonanza Rd",
     "city": "Las Vegas",
     "state": "NV",
     "zip": "89106",
-    "phone": "",
+    "phone": "(702) 382-1766",
     "hours": "",
-    "lat": 36.1775497,
-    "lng": -115.1475945,
+    "lat": 36.1776526,
+    "lng": -115.14789239999999,
     "tags": [
       "food pantry",
       "walk-in"

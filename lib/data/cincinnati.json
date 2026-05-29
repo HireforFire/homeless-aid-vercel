@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-221902",
-    "name": "West End Emergency Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "727 Ezzard Charles Dr",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45203",
-    "phone": "(513) 381-5882",
-    "hours": "",
-    "lat": 39.1091995,
-    "lng": -84.5265121,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-224290",
     "name": "TSA Emergency Pantry",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-178157",
+    "name": "POAH Communities - Cincinnati",
+    "category": "Food",
+    "description": "Food assistance distribution location",
+    "address": "21 W. 13th St",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.10919096745,
+    "lng": -84.516044084223,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fallback-cincinnati-shelter",

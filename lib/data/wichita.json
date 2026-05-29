@@ -171,23 +171,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-224523",
-    "name": "Messiah's Branch",
+    "id": "fa-191073",
+    "name": "Messiah's Branch - Food Distribution Center",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
+    "description": "Food distribution center located in Wichita, Kansas.",
     "address": "900 S Broadway",
     "city": "Wichita",
     "state": "KS",
     "zip": "67211",
-    "phone": "(316) 619-4886",
+    "phone": "",
     "hours": "",
-    "lat": 37.6759134,
-    "lng": -97.3353522,
+    "lat": 37.6758938,
+    "lng": -97.335331,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-200243",

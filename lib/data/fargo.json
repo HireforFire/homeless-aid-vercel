@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-182742",
-    "name": "Faith Food Ministry",
-    "category": "Food",
-    "description": "Faith-based food pantry location serving the Fargo to Moorhead area. Handicapped accessible facility.",
-    "address": "909 19th Ave N",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "58102",
-    "phone": "",
-    "hours": "",
-    "lat": 46.905148,
-    "lng": -96.7926288,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-191223",
     "name": "The Neighborhood Church & Community Center",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 46.8840752,
     "lng": -96.8249741,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223675",
+    "name": "FWC(Family Worship Center) Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1419 17th St S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103",
+    "phone": "(701) 235-0115",
+    "hours": "",
+    "lat": 46.8587532,
+    "lng": -96.8094406,
     "tags": [
       "food pantry",
       "walk-in"

@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-184889",
-    "name": "Living Independence For Everyone Life",
-    "category": "Food",
-    "description": "Main location of Living Independence For Everyone Life",
-    "address": "1304 Vine St.",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "39202",
-    "phone": "",
-    "hours": "",
-    "lat": 32.305633,
-    "lng": -90.1698735,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-214211",
     "name": "Healing Place",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 32.305174,
     "lng": -90.227444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197163",
+    "name": "My Brother's Keeper",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "805 River Place Dr",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39202",
+    "phone": "",
+    "hours": "",
+    "lat": 32.306375,
+    "lng": -90.164271,
     "tags": [
       "food pantry",
       "walk-in"

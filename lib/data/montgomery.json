@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-211516",
-    "name": "Community Action Agency - Montgomery",
-    "category": "Food",
-    "description": "Main office providing emergency food assistance services",
-    "address": "1066 Adams Ave.",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36104",
-    "phone": "",
-    "hours": "",
-    "lat": 32.3753273,
-    "lng": -86.2935716,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-128179",
     "name": "Montgomery County Board of Education",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-181515",
+    "name": "Holt Street Church of Christ",
+    "category": "Food",
+    "description": "Food pantry location at Holt Street Church of Christ in Montgomery.",
+    "address": "945 S. Holt St.",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36108",
+    "phone": "",
+    "hours": "",
+    "lat": 32.3639618,
+    "lng": -86.3202945,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-montgomery-shelter",

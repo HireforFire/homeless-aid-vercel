@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-224669",
-    "name": "Needs, Inc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "900 Central Avenue",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82007",
-    "phone": "(307) 632-4132",
-    "hours": "",
-    "lat": 41.1270065,
-    "lng": -104.8103714,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-150553",
     "name": "Comea Shelter",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 41.1225573,
     "lng": -104.80207829999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170925",
+    "name": "Wyoming Coalition For The Homeless - Food Distribution Center",
+    "category": "Food",
+    "description": "Main food distribution center in Cheyenne, Wyoming.",
+    "address": "907 Logan Ave",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "",
+    "hours": "",
+    "lat": 41.134051899999996,
+    "lng": -104.79251769999999,
     "tags": [
       "food pantry",
       "walk-in"

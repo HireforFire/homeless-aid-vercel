@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-172878",
-    "name": "Salvation Army - Charleston",
-    "category": "Food",
-    "description": "Salvation Army food assistance location in Charleston, West Virginia",
-    "address": "301 Tennessee Ave",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25302",
-    "phone": "(304) 343-4548",
-    "hours": "",
-    "lat": 38.3594182,
-    "lng": -81.6449763,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-186573",
     "name": "Hissom Inner City Mission",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-178747",
+    "name": "A More Excellent Way Life Center",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "519 CENTRAL AVE",
+    "city": "CHARLESTON",
+    "state": "WV",
+    "zip": "25302",
+    "phone": "",
+    "hours": "",
+    "lat": 38.362036458385,
+    "lng": -81.649668310606,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-charleston-wv-shelter",

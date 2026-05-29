@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172598",
-    "name": "St. Mark's Episcopal Church Food Pantry",
-    "category": "Food",
-    "description": "Food pantry located at St. Mark's Episcopal Church. Air conditioning available. Services available in English and Spanish with translation services available.",
-    "address": "322 N. Horne",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85203",
-    "phone": "480-380-47338",
-    "hours": "",
-    "lat": 33.4217092,
-    "lng": -111.8148843,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-128301",
     "name": "Concordia Charter School, Inc.",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-576543",
+    "name": "Society of St Vincent de Paul - Food Distribution Center",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "49 West Broadway Road",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85210",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4074533,
+    "lng": -111.8336038,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fallback-mesa-shelter",

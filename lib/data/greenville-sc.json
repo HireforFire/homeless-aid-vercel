@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-222691",
-    "name": "Eastside Baptist Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "12 Ebaugh Ave",
-    "city": "Greenville",
-    "state": "SC",
-    "zip": "29615",
-    "phone": "(864) 430-9226",
-    "hours": "",
-    "lat": 34.8505325,
-    "lng": -82.380867,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-181038",
     "name": "Triune Mercy Center",
     "category": "Food",
@@ -50,6 +31,25 @@
     "hours": "",
     "lat": 34.8620157,
     "lng": -82.4041859,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187816",
+    "name": "Eastside Baptist Center",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "12 Ebaugh Ave.",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29615",
+    "phone": "",
+    "hours": "",
+    "lat": 34.8513262,
+    "lng": -82.3809956,
     "tags": [
       "food pantry",
       "walk-in"

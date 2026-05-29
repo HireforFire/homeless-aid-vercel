@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-190435",
-    "name": "BUFFALO URBAN LEAGUE PANTRY",
-    "category": "Food",
-    "description": "Food pantry location in Buffalo, NY",
-    "address": "86 PINE STREET",
-    "city": "BUFFALO",
-    "state": "NY",
-    "zip": "14204",
-    "phone": "",
-    "hours": "",
-    "lat": 42.882364,
-    "lng": -78.864538,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-192203",
     "name": "EVERGREEN HEALTH SERVICES - Buffalo",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -78.8689,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-589",
+    "name": "Buffalo City Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "100 E Tupper Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14203",
+    "phone": "(716) 854-8181",
+    "hours": "",
+    "lat": 42.8939,
+    "lng": -78.8689,
+    "tags": [
+      "soup kitchen",
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"

@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-501",
-    "name": "Loaves & Fishes",
-    "category": "Food",
-    "description": "No requirements",
-    "address": "1351 North C Street",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95811",
-    "phone": "(916) 446-0874",
-    "hours": "",
-    "lat": 38.5916,
-    "lng": -121.4822,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-172678",
     "name": "Shores of Hope - West Sacramento",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 38.5911873,
     "lng": -121.5140277,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185802",
+    "name": "Shiloh Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Shiloh Baptist Church",
+    "address": "3565 9th Avenue",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95817",
+    "phone": "",
+    "hours": "",
+    "lat": 38.54433,
+    "lng": -121.46838,
     "tags": [
       "food pantry",
       "walk-in"

@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-221953",
-    "name": "Lutheran Social Services of Alaska",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1303 W 33rd Ave",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99503",
-    "phone": "(907) 272-0643",
-    "hours": "",
-    "lat": 61.1906853,
-    "lng": -149.9083862,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-217060",
     "name": "The Salvation Army - C Street Corps",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -149.85872,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-1020",
+    "name": "Downtown Soup Kitchen",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "240 E 3rd Ave",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99501",
+    "phone": "(907) 277-4302",
+    "hours": "",
+    "lat": 61.22005,
+    "lng": -149.85872,
+    "tags": [
+      "soup kitchen",
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"

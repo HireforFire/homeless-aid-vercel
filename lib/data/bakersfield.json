@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-224956",
-    "name": "First Presbyterian Church Food pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1705 17th Street",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "93301",
-    "phone": "(661) 325-9419",
-    "hours": "",
-    "lat": 35.3743439,
-    "lng": -119.0220108,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-454",
     "name": "Bakersfield Homeless Center",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 35.373960982717,
     "lng": -119.003483103124,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176663",
+    "name": "Bakersfield Southside SDA Church",
+    "category": "Food",
+    "description": "Bakersfield Southside SDA Church location",
+    "address": "1330 3rd St",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93304",
+    "phone": "",
+    "hours": "",
+    "lat": 35.359171366021,
+    "lng": -119.017427321066,
     "tags": [
       "food pantry",
       "walk-in"

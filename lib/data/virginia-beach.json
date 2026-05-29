@@ -171,6 +171,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-185191",
+    "name": "Freedom Fellowship",
+    "category": "Food",
+    "description": "Freedom Fellowship location in Virginia Beach",
+    "address": "836 Regency Dr",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8539384,
+    "lng": -76.03398349999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-192632",
     "name": "Outreach for Christ",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 36.8732758,
     "lng": -76.0407534,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-197395",
-    "name": "Freedom Fellowship",
-    "category": "Food",
-    "description": "Freedom Fellowship food pantry location",
-    "address": "836 Regency Dr.",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23454",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8539344,
-    "lng": -76.0337965,
     "tags": [
       "food pantry",
       "walk-in"

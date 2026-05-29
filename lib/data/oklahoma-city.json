@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-186688",
-    "name": "Baptist Mission Center",
-    "category": "Food",
-    "description": "Food distribution location in Oklahoma City",
-    "address": "2125 Exchange Ave.",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73108",
-    "phone": "",
-    "hours": "",
-    "lat": 35.4531158,
-    "lng": -97.5527897,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-188636",
     "name": "TrueSky Credit Union-New Bethel Baptist Church Food Pantry",
     "category": "Food",
@@ -218,6 +199,25 @@
     "state": "OK",
     "zip": "73102",
     "phone": "(405) 609-2401",
+    "hours": "",
+    "lat": 35.47065,
+    "lng": -97.5191,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-12015",
+    "name": "Downtown Baptist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "629 W. Main",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73102",
+    "phone": "(405) 232-6977",
     "hours": "",
     "lat": 35.47065,
     "lng": -97.5191,

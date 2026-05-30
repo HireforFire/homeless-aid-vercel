@@ -285,41 +285,337 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "fallback-pittsburgh-hygiene",
-    "name": "Pittsburgh Public Restroom Information",
-    "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "Varies",
-    "lat": 40.4406,
-    "lng": -79.9959,
-    "tags": [
-      "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-pittsburgh-library",
-    "name": "Pittsburgh Public Library System",
+    "id": "osm-node-367963499",
+    "name": "C.C Mellor Memorial Library",
     "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
+    "description": "library",
+    "address": "Pennwood Avenue 1",
     "city": "Pittsburgh",
     "state": "PA",
-    "zip": "",
+    "zip": "15218",
     "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 40.4406,
-    "lng": -79.9959,
+    "hours": "",
+    "lat": 40.4322919,
+    "lng": -79.8851496,
     "tags": [
       "library",
       "wifi",
       "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367964091",
+    "name": "Grace Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.4391667,
+    "lng": -79.9636111,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367964135",
+    "name": "Homeville Elementary School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.3883861,
+    "lng": -79.8744941,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367964137",
+    "name": "Homewood Montessori Elementary School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.4553117,
+    "lng": -79.8996942,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367964141",
+    "name": "Jefferson Hills Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.3008639,
+    "lng": -79.9396682,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367964142",
+    "name": "Jefferson Elementary School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.3824185,
+    "lng": -80.0607948,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367964151",
+    "name": "Hartwood Elementary School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.5766539,
+    "lng": -79.886448,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367964153",
+    "name": "Hampton Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.5858463,
+    "lng": -79.9339734,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367964162",
+    "name": "Highcliff Elementary School Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.5249022,
+    "lng": -80.0558234,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367964164",
+    "name": "Glenshaw Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.5296089,
+    "lng": -79.9550206,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2630025570",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Lincoln Highway 294",
+    "city": "North Versailles",
+    "state": "PA",
+    "zip": "15137",
+    "phone": "(412) 816-1420",
+    "hours": "Su 9:00-17:00;Mo-Sa 9:00-21:00",
+    "lat": 40.3857856,
+    "lng": -79.8268586,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4211587889",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Banksville Road 2866",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15216",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00, Su 11:00-19:00",
+    "lat": 40.4042567,
+    "lng": -80.040173,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4709063960",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "52nd Street 118",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15201",
+    "phone": "(412) 696-0092",
+    "hours": "Mo-Su 10:00-19:00; Mo-Su 10:00-11:00 unknown \"Only open for Seniors and At-Risk shoppers\"",
+    "lat": 40.4805241,
+    "lng": -79.955642,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7609821397",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Pittsburgh Street 1306",
+    "city": "Cheswick",
+    "state": "PA",
+    "zip": "15024",
+    "phone": "",
+    "hours": "",
+    "lat": 40.5402624,
+    "lng": -79.8018949,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9448792111",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Washington Road 3492",
+    "city": "McMurray",
+    "state": "PA",
+    "zip": "15317",
+    "phone": "(724) 941-5437",
+    "hours": "",
+    "lat": 40.2852871,
+    "lng": -80.1202463,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9755354454",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Urbano Way 3",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15205",
+    "phone": "(412) 490-3015",
+    "hours": "Mo-Th 10:00-19:00; Fr-Su 10:00-20:00",
+    "lat": 40.4574236,
+    "lng": -80.1654518,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-pittsburgh-hygiene",
+    "name": "C.C Mellor Memorial Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Pennwood Avenue 1",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15218",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 40.4322919,
+    "lng": -79.8851496,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

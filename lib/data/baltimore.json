@@ -228,6 +228,339 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-367797707",
+    "name": "William H Welch Medical Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-18:00; Sa 10:00-16:00",
+    "lat": 39.2987182,
+    "lng": -76.5902441,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367797823",
+    "name": "Turners Station Branch Baltimore County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2376079,
+    "lng": -76.5088513,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367797831",
+    "name": "Loch Raven Branch Baltimore County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "(410) 887-4444",
+    "hours": "Mo-Th 09:00-20:00; Fr,Sa 09:00-17:00; Su off",
+    "lat": 39.384408,
+    "lng": -76.5731454,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3031071011",
+    "name": "Sollers Point Branch - Baltimore County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sollers Point Road 323",
+    "city": "Dundalk",
+    "state": "MD",
+    "zip": "21222",
+    "phone": "(410) 288-3123",
+    "hours": "",
+    "lat": 39.2438118,
+    "lng": -76.5087933,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3033317379",
+    "name": "Arbutus Branch Baltimore County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sulphur Spring Road 855",
+    "city": "Halethorpe",
+    "state": "MD",
+    "zip": "21227",
+    "phone": "(410) 887-1451",
+    "hours": "",
+    "lat": 39.2416568,
+    "lng": -76.7104323,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3827702498",
+    "name": "Baltimore County Public Library Owings Mills Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Grand Central Avenue 10302",
+    "city": "Owings Mills",
+    "state": "MD",
+    "zip": "21117",
+    "phone": "(410) 887-2092",
+    "hours": "Fr,Sa 09:00-17:00; Su 13:00-17:00; Mo-Th 09:00-20:00",
+    "lat": 39.4069691,
+    "lng": -76.7820759,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3938433913",
+    "name": "Cherry Hill Branch Enoch Pratt Free Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Cherry Hill Road 606",
+    "city": "Brooklyn",
+    "state": "MD",
+    "zip": "21225",
+    "phone": "(410) 396-1168",
+    "hours": "Mo,Th 10:00-19:00; Tu,We 10:00-17:30; Fr,Sa 10:00-17:00; Su, PH off",
+    "lat": 39.2505284,
+    "lng": -76.6223205,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6290489001",
+    "name": "Robert L. Bogomolny Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Maryland Avenue 1420",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "",
+    "hours": "",
+    "lat": 39.3063512,
+    "lng": -76.6179713,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9358732867",
+    "name": "George Peabody Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2972016,
+    "lng": -76.6150479,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9358732868",
+    "name": "Arthur Friedheim Music Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2972456,
+    "lng": -76.6142596,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1677666331",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Old Mill Road 674",
+    "city": "Millersville",
+    "state": "MD",
+    "zip": "21108",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1185164,
+    "lng": -76.6337298,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1940086902",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Baltimore National Pike 6600",
+    "city": "Catonsville",
+    "state": "MD",
+    "zip": "21228",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2873898,
+    "lng": -76.7651742,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2973851561",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Belair Road 8818",
+    "city": "Nottingham",
+    "state": "MD",
+    "zip": "21236",
+    "phone": "",
+    "hours": "",
+    "lat": 39.3943699,
+    "lng": -76.486898,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3432414110",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Greenmount Avenue 3101",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21218",
+    "phone": "",
+    "hours": "",
+    "lat": 39.3262326,
+    "lng": -76.6092625,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3646234061",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Assateague Drive 7351",
+    "city": "Jessup",
+    "state": "MD",
+    "zip": "20794",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1698445,
+    "lng": -76.786545,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4775186887",
+    "name": "Paul's Place",
+    "category": "Clothing & Supplies",
+    "description": "Emergency Food Pantry and Daily Hot Lunch",
+    "address": "Ward Street 1118",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21223",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2819967,
+    "lng": -76.6328189,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5405407849",
+    "name": "Goodwill Retail Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Broadway 715",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21231",
+    "phone": "",
+    "hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
+    "lat": 39.2831395,
+    "lng": -76.5930656,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-baltimore-shelter",
     "name": "Baltimore Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +582,22 @@
   },
   {
     "id": "fallback-baltimore-hygiene",
-    "name": "Baltimore Public Restroom Information",
+    "name": "William H Welch Medical Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Baltimore",
     "state": "MD",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 39.2904,
-    "lng": -76.6122,
+    "hours": "Mo-Fr 09:00-18:00; Sa 10:00-16:00",
+    "lat": 39.2987182,
+    "lng": -76.5902441,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-baltimore-library",
-    "name": "Baltimore Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Baltimore",
-    "state": "MD",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 39.2904,
-    "lng": -76.6122,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

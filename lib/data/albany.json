@@ -228,22 +228,21 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fallback-albany-shelter",
-    "name": "Albany Homeless Services Hotline",
+    "id": "osm-node-2121617788",
+    "name": "Education Center",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Albany",
     "state": "NY",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 42.6526,
-    "lng": -73.7562,
+    "phone": "",
+    "hours": "",
+    "lat": 42.8037693,
+    "lng": -73.8574535,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

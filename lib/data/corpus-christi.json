@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-25"
   },
   {
-    "id": "fa-197",
-    "name": "Salvation Army - Corpus Christi",
-    "category": "Food",
-    "description": "Nueces County residents",
-    "address": "1224 Comanche St",
-    "city": "Corpus Christi",
-    "state": "TX",
-    "zip": "78401",
-    "phone": "(361) 883-8671",
-    "hours": "",
-    "lat": 27.7933,
-    "lng": -97.4033,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
-  },
-  {
     "id": "fa-173071",
     "name": "Del Mar College Viking Food Pantry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 27.7645002,
     "lng": -97.4058828,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-185794",
+    "name": "Zavala Senior Center",
+    "category": "Food",
+    "description": "Senior activity center providing congregate meals and lunch services",
+    "address": "510 Osage St.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78405",
+    "phone": "(361) 882-3245",
+    "hours": "",
+    "lat": 27.7787151,
+    "lng": -97.427404,
     "tags": [
       "food pantry",
       "walk-in"

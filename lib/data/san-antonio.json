@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-182",
-    "name": "Christian Assistance Ministry",
+    "id": "fa-174252",
+    "name": "Free Little Pantry SA",
     "category": "Food",
-    "description": "South side residents",
-    "address": "602 Nogalitos St",
+    "description": "Free outdoor food pantry located at 1802 E. Commerce St.",
+    "address": "1802 E. Commerce St.",
     "city": "San Antonio",
     "state": "TX",
-    "zip": "78204",
-    "phone": "(210) 226-2555",
+    "zip": "78203",
+    "phone": "(210) 227-2347",
     "hours": "",
-    "lat": 29.4183,
-    "lng": -98.5033,
+    "lat": 29.4192792,
+    "lng": -98.467817,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2025-12-02"
+    "lastUpdated": "2026-04-25"
   },
   {
     "id": "fallback-san-antonio-shelter",

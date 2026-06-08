@@ -95,25 +95,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-181794",
-    "name": "East Lubbock Art House",
-    "category": "Food",
-    "description": "Free outdoor food pantry location in East Lubbock",
-    "address": "405 M.L.K. Jr Blvd. Suite B",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79403",
-    "phone": "",
-    "hours": "",
-    "lat": 33.6027843,
-    "lng": -101.8192136,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-207704",
     "name": "Susie's Closet",
     "category": "Food",
@@ -126,6 +107,25 @@
     "hours": "",
     "lat": 33.5947042,
     "lng": -101.8167588,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181794",
+    "name": "East Lubbock Art House",
+    "category": "Food",
+    "description": "Free outdoor food pantry location in East Lubbock",
+    "address": "405 M.L.K. Jr Blvd. Suite B",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79403",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6027843,
+    "lng": -101.8192136,
     "tags": [
       "food pantry",
       "walk-in"

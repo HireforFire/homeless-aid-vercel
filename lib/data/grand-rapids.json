@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-226189",
-    "name": "Great Start Parent Coalition of Kent County",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Grand Rapids, MI",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "49501",
-    "phone": "",
-    "hours": "",
-    "lat": 42.96492,
-    "lng": -85.65854,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-172472",
     "name": "Mel Trotter",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -85.6692398,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188916",
+    "name": "Innovation Central High School - Bus Lane off College Ave.",
+    "category": "Food",
+    "description": "Mobile pantry distribution location at Innovation Central High School, bus lane off College Avenue.",
+    "address": "421 Fountain Street",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9659845,
+    "lng": -85.6586273,
+    "tags": [
+      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-226209",
-    "name": "Nebraska Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Omaha, NE",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68101",
-    "phone": "",
-    "hours": "",
-    "lat": 41.26219,
-    "lng": -95.93133,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-183906",
     "name": "Yes Street Outreach Pantry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 41.256326699999995,
     "lng": -95.94486769999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208604",
+    "name": "Together Inc. - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Omaha.",
+    "address": "1616 Cass St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "",
+    "hours": "",
+    "lat": 41.264043,
+    "lng": -95.93787499999999,
     "tags": [
       "food pantry",
       "walk-in"

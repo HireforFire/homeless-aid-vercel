@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-226157",
-    "name": "Bundles of Hope Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Birmingham, AL",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35201",
-    "phone": "",
-    "hours": "",
-    "lat": 33.51856,
-    "lng": -86.80842,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-178802",
     "name": "Daniel Cason Ministries - Bread of Life Food Pantry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 33.5424554,
     "lng": -86.770757,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174809",
+    "name": "The Salvation Army - Birmingham Center of Hope",
+    "category": "Food",
+    "description": "Main location providing food pantry and soup kitchen services in Birmingham.",
+    "address": "2015 26th Ave. N.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35234",
+    "phone": "(205) 328-2420",
+    "hours": "",
+    "lat": 33.544802,
+    "lng": -86.8243215,
     "tags": [
       "soup kitchen",
       "walk-in"

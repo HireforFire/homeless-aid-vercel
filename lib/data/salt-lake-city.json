@@ -95,25 +95,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-226251",
-    "name": "Utah Food Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Salt Lake City, UT",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84101",
-    "phone": "",
-    "hours": "",
-    "lat": 40.75628,
-    "lng": -111.89996,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-189173",
     "name": "Justice Economic Dignity: Independence For Women - Food Distribution Center",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 40.7335206,
     "lng": -111.9351604,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-577494",
+    "name": "Crossroads Westside Food Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1358 West Indiana Avenue",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84104",
+    "phone": "(801) 935-4079",
+    "hours": "",
+    "lat": 40.7515624,
+    "lng": -111.9298418,
     "tags": [
       "food bank",
       "walk-in"

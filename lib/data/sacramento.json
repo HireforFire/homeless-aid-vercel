@@ -114,25 +114,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-226228",
-    "name": "Sacramento Food Bank & Family Services",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Sacramento, CA",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "94203",
-    "phone": "",
-    "hours": "",
-    "lat": 38.58435,
-    "lng": -121.49376,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-187524",
     "name": "Sacramento Native American Health Center - Produce for All - Food Distribution Center",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -121.46838,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201496",
+    "name": "River City Food Bank - Midtown",
+    "category": "Food",
+    "description": "Food distribution location in Sacramento's Midtown area.",
+    "address": "1800 28th Street",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95816",
+    "phone": "",
+    "hours": "",
+    "lat": 38.5648935,
+    "lng": -121.4734221,
+    "tags": [
+      "food bank",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

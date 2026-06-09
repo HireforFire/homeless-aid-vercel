@@ -114,25 +114,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-226216",
-    "name": "Miami Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Miami, FL",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33101",
-    "phone": "",
-    "hours": "",
-    "lat": 25.77976,
-    "lng": -80.19877,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-201351",
     "name": "St. John Institutional MB Church",
     "category": "Food",
@@ -218,6 +199,25 @@
     "state": "FL",
     "zip": "33136",
     "phone": "(305) 374-1065",
+    "hours": "",
+    "lat": 25.78703,
+    "lng": -80.20444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-3875",
+    "name": "St John Baptist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1328 NW 3 Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33136",
+    "phone": "(305) 371-3212",
     "hours": "",
     "lat": 25.78703,
     "lng": -80.20444,

@@ -114,25 +114,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-226289",
-    "name": "Food Share's Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Oxnard, CA",
-    "city": "Oxnard",
-    "state": "CA",
-    "zip": "93030",
-    "phone": "",
-    "hours": "",
-    "lat": 34.2051,
-    "lng": -119.1753,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-177611",
     "name": "Wilson Senior Center",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 34.1833355,
     "lng": -119.17728,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188529",
+    "name": "Morning Star Church",
+    "category": "Food",
+    "description": "Morning Star Church food distribution location. Currently temporarily closed.",
+    "address": "427 Harrison St.",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2060451,
+    "lng": -119.1766084,
     "tags": [
       "food pantry",
       "walk-in"

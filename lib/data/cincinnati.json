@@ -190,25 +190,6 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-226236",
-    "name": "Sweet Cheeks Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Cincinnati, OH",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45201",
-    "phone": "",
-    "hours": "",
-    "lat": 39.10879,
-    "lng": -84.50125,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-178157",
     "name": "POAH Communities - Cincinnati",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-176402",
+    "name": "Christ Church Cathedral",
+    "category": "Food",
+    "description": "Food assistance distribution location",
+    "address": "318 East 4th Street",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.100925069815,
+    "lng": -84.507446766136,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-cincinnati-shelter",

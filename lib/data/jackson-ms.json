@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-226365",
-    "name": "Magnolia medical Foundation",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Jackson, MS",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "39201",
-    "phone": "",
-    "hours": "",
-    "lat": 32.28981,
-    "lng": -90.18398,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-180814",
     "name": "Gateway Rescue Mission",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 32.306375,
     "lng": -90.164271,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202440",
+    "name": "Grace Inspirations",
+    "category": "Food",
+    "description": "Grace Inspirations food distribution location",
+    "address": "1110 Grand Ave.",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39203",
+    "phone": "",
+    "hours": "",
+    "lat": 32.3068993,
+    "lng": -90.2035073,
     "tags": [
       "food pantry",
       "walk-in"

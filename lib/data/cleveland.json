@@ -133,25 +133,6 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-226296",
-    "name": "The Diaper Bank of Greater Cleveland",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Cleveland, OH",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44101",
-    "phone": "",
-    "hours": "",
-    "lat": 41.48988,
-    "lng": -81.6717,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-175542",
     "name": "Iglesia Sinai",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 41.467150711206,
     "lng": -81.712884540536,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176731",
+    "name": "St. Vincent Charity Med Ctr FAM MP",
+    "category": "Food",
+    "description": "Mobile food pantry distribution site at St. Vincent Charity Medical Center.",
+    "address": "2421 Community College Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44115",
+    "phone": "",
+    "hours": "",
+    "lat": 41.495603626359,
+    "lng": -81.671254309673,
     "tags": [
       "mobile pantry",
       "walk-in"

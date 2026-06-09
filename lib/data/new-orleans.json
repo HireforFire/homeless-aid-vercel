@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-226205",
-    "name": "Junior League of New Orleans",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "New Orleans, LA",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip": "70112",
-    "phone": "",
-    "hours": "",
-    "lat": 29.95608,
-    "lng": -90.07733,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-179460",
     "name": "Living Witness Ministry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 29.938964,
     "lng": -90.076599,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202695",
+    "name": "Peoples Community Organization",
+    "category": "Food",
+    "description": "Main location of Peoples Community Organization",
+    "address": "709 N. Robertson St.",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70116",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9633287,
+    "lng": -90.0723043,
     "tags": [
       "food pantry",
       "walk-in"

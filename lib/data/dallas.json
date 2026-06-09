@@ -57,25 +57,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-226197",
-    "name": "Hope Supply Co.",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Dallas, TX",
-    "city": "Dallas",
-    "state": "TX",
-    "zip": "75201",
-    "phone": "",
-    "hours": "",
-    "lat": 32.78826,
-    "lng": -96.79953,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-195992",
     "name": "DALLAS LIFE FOUNDATION",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226197",
+    "name": "Hope Supply Co.",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Dallas, TX",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201",
+    "phone": "",
+    "hours": "",
+    "lat": 32.78826,
+    "lng": -96.79953,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-130740",

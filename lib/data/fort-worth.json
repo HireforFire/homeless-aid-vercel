@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-226294",
-    "name": "Junior League of Fort Worth Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Fort Worth, TX",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.75944,
-    "lng": -97.32912,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-184535",
     "name": "Bread Basket",
     "category": "Food",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226294",
+    "name": "Junior League of Fort Worth Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Fort Worth, TX",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.75944,
+    "lng": -97.32912,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-130775",

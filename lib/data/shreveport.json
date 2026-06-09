@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-226312",
-    "name": "Basic Necessities",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Shreveport, LA",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "71101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.5062,
-    "lng": -93.74822,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-191969",
     "name": "St. George Episcopal Church",
     "category": "Food",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226312",
+    "name": "Basic Necessities",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Shreveport, LA",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.5062,
+    "lng": -93.74822,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-225800",

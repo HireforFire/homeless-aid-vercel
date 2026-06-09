@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-226351",
-    "name": "Junior League of Mobile Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Mobile, AL",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36601",
-    "phone": "",
-    "hours": "",
-    "lat": 30.69745,
-    "lng": -88.04988,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-176806",
     "name": "Mobile Hygiene Pantry",
     "category": "Food",
@@ -150,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226351",
+    "name": "Junior League of Mobile Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Mobile, AL",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36601",
+    "phone": "",
+    "hours": "",
+    "lat": 30.69745,
+    "lng": -88.04988,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-218559",

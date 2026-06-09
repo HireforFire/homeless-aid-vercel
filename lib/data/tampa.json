@@ -152,25 +152,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-226264",
-    "name": "Junior League of Tampa Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Tampa, FL",
-    "city": "Tampa",
-    "state": "FL",
-    "zip": "33601",
-    "phone": "",
-    "hours": "",
-    "lat": 27.9530012,
-    "lng": -82.4612975,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-178883",
     "name": "Palm Ave Baptist Tower Inc.",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -82.446407,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-209789",
+    "name": "Holy Trinity Presbyterian Church",
+    "category": "Food",
+    "description": "Holy Trinity Presbyterian Church location providing soup kitchen services.",
+    "address": "350 South Hyde Park Avenue",
+    "city": "Hyde Park",
+    "state": "FL",
+    "zip": "33606",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9392343,
+    "lng": -82.463549,
+    "tags": [
+      "soup kitchen",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

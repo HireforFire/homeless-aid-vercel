@@ -190,25 +190,6 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-226173",
-    "name": "Diaper Bank of Southern Arizona",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Phoenix, AZ",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85001",
-    "phone": "",
-    "hours": "",
-    "lat": 33.44922,
-    "lng": -112.06921,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-182512",
     "name": "Justa Center Inc",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 33.446755,
     "lng": -112.0861456,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187228",
+    "name": "Salvation Army (Laura Danieli Sr Activity Center)",
+    "category": "Food",
+    "description": "Salvation Army food distribution and meal service center with air conditioning, offering indoor service.",
+    "address": "613 N 4th Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85003",
+    "phone": "",
+    "hours": "",
+    "lat": 33.45542,
+    "lng": -112.07807,
     "tags": [
       "food pantry",
       "walk-in"

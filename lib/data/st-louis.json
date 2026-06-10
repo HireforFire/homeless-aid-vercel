@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-576404",
-    "name": "St. Nicholas Church",
-    "category": "Food",
-    "description": "Missouri food pantry distributing free groceries to families in need. Mon 12:00-1:30 Most pantries do not require ID or proof of income.",
-    "address": "701 North 18th Street",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "63017",
-    "phone": "(314) 231-2860",
-    "hours": "",
-    "lat": 38.634844,
-    "lng": -90.204285,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-220233",
     "name": "St. Vincent DePaul",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-576404",
+    "name": "St. Nicholas Church",
+    "category": "Food",
+    "description": "Missouri food pantry distributing free groceries to families in need. Mon 12:00-1:30 Most pantries do not require ID or proof of income.",
+    "address": "701 North 18th Street",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63017",
+    "phone": "(314) 231-2860",
+    "hours": "",
+    "lat": 38.634844,
+    "lng": -90.204285,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fa-197803",

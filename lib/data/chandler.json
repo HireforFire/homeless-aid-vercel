@@ -133,44 +133,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-439299",
-    "name": "Rucker Rest Holdings LLC dba Jack in The Box 138",
-    "category": "Food",
-    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
-    "address": "141 N Arizona Ave",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85224",
-    "phone": "",
-    "hours": "",
-    "lat": 33.30539,
-    "lng": -111.8411,
-    "tags": [
-      "rmp restaurant",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-440290",
-    "name": "McDONALD'S   11552",
-    "category": "Food",
-    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
-    "address": "990 N. ARIZONA  AVENUE",
-    "city": "CHANDLER",
-    "state": "AZ",
-    "zip": "85224",
-    "phone": "",
-    "hours": "",
-    "lat": 33.32016,
-    "lng": -111.8424,
-    "tags": [
-      "rmp restaurant",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-128286",
     "name": "Ball Charter Schools (Dobson)",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-439299",
+    "name": "Rucker Rest Holdings LLC dba Jack in The Box 138",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "141 N Arizona Ave",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85224",
+    "phone": "",
+    "hours": "",
+    "lat": 33.30539,
+    "lng": -111.8411,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-440290",
+    "name": "McDONALD'S   11552",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "990 N. ARIZONA  AVENUE",
+    "city": "CHANDLER",
+    "state": "AZ",
+    "zip": "85224",
+    "phone": "",
+    "hours": "",
+    "lat": 33.32016,
+    "lng": -111.8424,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fallback-chandler-shelter",

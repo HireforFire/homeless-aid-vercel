@@ -171,44 +171,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-438288",
-    "name": "Subway #39351",
-    "category": "Food",
-    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
-    "address": "2 Kennedy Plz",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "02903",
-    "phone": "",
-    "hours": "",
-    "lat": 41.82476,
-    "lng": -71.4127,
-    "tags": [
-      "rmp restaurant",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-439330",
-    "name": "Eshay Corp  Subway",
-    "category": "Food",
-    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
-    "address": "719 Westminster St",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "02903",
-    "phone": "",
-    "hours": "",
-    "lat": 41.81838,
-    "lng": -71.41994,
-    "tags": [
-      "rmp restaurant",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-218793",
     "name": "The Salvation Army - Pitman Street",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 41.83964,
     "lng": -71.38963,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218990",
+    "name": "Edgewood Pawtuxrt food closet",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1665 Broad St",
+    "city": "Cranston",
+    "state": "RI",
+    "zip": "02905",
+    "phone": "(401) 461-3142",
+    "hours": "",
+    "lat": 41.7811852,
+    "lng": -71.4014282,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218992",
+    "name": "Smith Hill Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "110 Ruggles Street",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02908",
+    "phone": "(401) 455-3880",
+    "hours": "",
+    "lat": 41.8378944,
+    "lng": -71.4286194,
     "tags": [
       "food pantry",
       "walk-in"

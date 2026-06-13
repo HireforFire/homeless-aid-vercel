@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-193251",
-    "name": "West End Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location at West End Baptist Church",
-    "address": "1400 South Fourth Street",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40208",
-    "phone": "",
-    "hours": "",
-    "lat": 38.2288776,
-    "lng": -85.7618182,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-172477",
     "name": "Baxter Avenue Baptist Church",
     "category": "Food",
@@ -202,6 +183,25 @@
     "hours": "",
     "lat": 38.2338758,
     "lng": -85.7498007,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193251",
+    "name": "West End Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at West End Baptist Church",
+    "address": "1400 South Fourth Street",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40208",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2288776,
+    "lng": -85.7618182,
     "tags": [
       "food pantry",
       "walk-in"

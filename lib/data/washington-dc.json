@@ -247,41 +247,223 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "fallback-washington-dc-hygiene",
-    "name": "Washington Public Restroom Information",
-    "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "",
-    "phone": "",
-    "hours": "Varies",
-    "lat": 38.9072,
-    "lng": -77.0369,
-    "tags": [
-      "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-washington-dc-library",
-    "name": "Washington Public Library System",
+    "id": "osm-node-367142107",
+    "name": "Riggs Library",
     "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "description": "library",
     "address": "",
     "city": "Washington",
     "state": "DC",
     "zip": "",
     "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 38.9072,
-    "lng": -77.0369,
+    "hours": "",
+    "lat": 38.9069563,
+    "lng": -77.0726504,
     "tags": [
       "library",
       "wifi",
       "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367142114",
+    "name": "Paul Himmelfarb Health Sciences Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9003,
+    "lng": -77.0506,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367142117",
+    "name": "Sister Helen Sheehan Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9266667,
+    "lng": -77.0052778,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367142119",
+    "name": "Business Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9241667,
+    "lng": -77.0222222,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367797662",
+    "name": "Beltsville Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Sellman Road 4319",
+    "city": "Beltsville",
+    "state": "MD",
+    "zip": "20705",
+    "phone": "(301) 937-0294",
+    "hours": "Mo,Th,Fr 10:00-18:00;Tu,We 12:00-20:00;Sa 10:00-17:00;Su 13:00-17:00",
+    "lat": 39.034774,
+    "lng": -76.9189885,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367798086",
+    "name": "Takoma Park Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Philadelphia Avenue 101",
+    "city": "Takoma Park",
+    "state": "MD",
+    "zip": "20912",
+    "phone": "(301) 891-7259",
+    "hours": "",
+    "lat": 38.9814992,
+    "lng": -77.0108098,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986191",
+    "name": "George Mason Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8274394,
+    "lng": -77.1862359,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986365",
+    "name": "GMU Arlington Campus Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.885012,
+    "lng": -77.1001766,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986375",
+    "name": "George Mason University Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8851119,
+    "lng": -77.1002563,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367986482",
+    "name": "Kingstowne Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Washington",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo,Tu 10:00-21:00; We-Sa 10:00-18:00; Su off",
+    "lat": 38.7400386,
+    "lng": -77.1646166,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-washington-dc-hygiene",
+    "name": "Riggs Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 38.9069563,
+    "lng": -77.0726504,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

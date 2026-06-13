@@ -76,6 +76,25 @@
     "lastUpdated": "2026-01-08"
   },
   {
+    "id": "fa-204752",
+    "name": "Columbia's Spend Yourself® Food Pantry and Gardens",
+    "category": "Food",
+    "description": "Food pantry and gardens located in Bailey's Crossroads neighborhood",
+    "address": "3245 Glen Carlyn Rd.",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22041",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8577329,
+    "lng": -77.1384695,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-172049",
     "name": "Arlington Presbyterian Church",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 38.838699,
     "lng": -77.118235,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-191868",
-    "name": "Mount Olive Baptist Church",
-    "category": "Food",
-    "description": "Food pantry location at Mount Olive Baptist Church",
-    "address": "1601 13th Road South",
-    "city": "Arlington View",
-    "state": "VA",
-    "zip": "22204",
-    "phone": "",
-    "hours": "",
-    "lat": 38.8626534,
-    "lng": -77.07154799999999,
     "tags": [
       "food pantry",
       "walk-in"

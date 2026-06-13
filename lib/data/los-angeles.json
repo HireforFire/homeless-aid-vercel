@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-190737",
-    "name": "Emmanuel Baptist Rescue Mission",
-    "category": "Food",
-    "description": "Main location providing free meals service",
-    "address": "530 E. 5th St.",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90013",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0433945,
-    "lng": -118.2431155,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-185052",
     "name": "Central City Neighborhood Partners - Main Location",
     "category": "Food",
@@ -31,6 +12,25 @@
     "hours": "",
     "lat": 34.05484199712744,
     "lng": -118.26168903068718,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190737",
+    "name": "Emmanuel Baptist Rescue Mission",
+    "category": "Food",
+    "description": "Main location providing free meals service",
+    "address": "530 E. 5th St.",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0433945,
+    "lng": -118.2431155,
     "tags": [
       "food pantry",
       "walk-in"

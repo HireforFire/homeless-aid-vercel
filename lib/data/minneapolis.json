@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-576947",
-    "name": "Community Emergency Service",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "1900 11th Avenue South",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55404",
-    "phone": "(612) 870-1125",
-    "hours": "",
-    "lat": 44.9637034,
-    "lng": -93.2585633,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-176691",
     "name": "Sharing and Caring Hands",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-576947",
+    "name": "Community Emergency Service",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1900 11th Avenue South",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55404",
+    "phone": "(612) 870-1125",
+    "hours": "",
+    "lat": 44.9637034,
+    "lng": -93.2585633,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-217341",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-576949",
-    "name": "Produce Distribution",
+    "id": "fa-176279",
+    "name": "Loring Nicollet Meals on Wheels",
     "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "420 15th Avenue South",
+    "description": "Senior Meals on Wheels distribution location",
+    "address": "618 E 17th Street",
     "city": "Minneapolis",
     "state": "MN",
-    "zip": "55454",
+    "zip": "55404",
     "phone": "",
     "hours": "",
-    "lat": 44.9706201,
-    "lng": -93.2503905,
+    "lat": 44.966354013871,
+    "lng": -93.267146960491,
     "tags": [
-      "food bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-15"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-minneapolis-shelter",

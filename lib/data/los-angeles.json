@@ -152,44 +152,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-576604",
-    "name": "Our Lady Queen of Angels Catholic Church",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "535 North Main Street",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90012",
-    "phone": "(213) 629-3101",
-    "hours": "",
-    "lat": 34.0571561,
-    "lng": -118.2397573,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
-    "id": "fa-576605",
-    "name": "Fred Jordan Mission",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "445 Towne Avenue",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90013",
-    "phone": "(213) 489-7763",
-    "hours": "",
-    "lat": 34.0433591,
-    "lng": -118.2420051,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-219607",
     "name": "Fred Jordan Missions",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 34.0436134,
     "lng": -118.2434464,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223358",
+    "name": "US Vets Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "512 South Main Sreet",
+    "city": "Los Angles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "(626) 277-3457",
+    "hours": "",
+    "lat": 34.0461251,
+    "lng": -118.2486193,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225957",
+    "name": "Los Angeles Catholic Worker",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "821 E 6th St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90021",
+    "phone": "(213) 614-9615",
+    "hours": "",
+    "lat": 34.0405693,
+    "lng": -118.2420273,
     "tags": [
       "food pantry",
       "walk-in"

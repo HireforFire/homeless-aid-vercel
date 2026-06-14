@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-577432",
-    "name": "Positive Community Kitchen",
-    "category": "Food",
-    "description": "Free soup kitchen providing food assistance. Open to all.",
-    "address": "120 Shelton McMurphey Boulevard",
-    "city": "Eugene",
-    "state": "OR",
-    "zip": "97401",
-    "phone": "(541) 249-4942",
-    "hours": "",
-    "lat": 44.0557234,
-    "lng": -123.0943021,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-176177",
     "name": "Hearth and Table",
     "category": "Food",
@@ -131,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-577432",
+    "name": "Positive Community Kitchen",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "120 Shelton McMurphey Boulevard",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "(541) 249-4942",
+    "hours": "",
+    "lat": 44.0557234,
+    "lng": -123.0943021,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-219523",

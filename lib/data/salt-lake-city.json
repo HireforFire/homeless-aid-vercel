@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-577491",
-    "name": "Crossroads Urban Center Downtown Pantry",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "347 South 400 East",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84111",
-    "phone": "+1 801-364-7765;+1 888-747-8482",
-    "hours": "",
-    "lat": 40.7616004,
-    "lng": -111.8792777,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-197078",
     "name": "Volunteers of America Youth Resource Center",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-577491",
+    "name": "Crossroads Urban Center Downtown Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "347 South 400 East",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "+1 801-364-7765;+1 888-747-8482",
+    "hours": "",
+    "lat": 40.7616004,
+    "lng": -111.8792777,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-189173",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-577490",
-    "name": "Somali Community Self-Management Agency Food Pantry",
+    "id": "fa-182762",
+    "name": "Tenth East Senior Center",
     "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "1578 West 1700 South",
+    "description": "Senior meal site serving lunch to seniors 60 years and older. Handicapped accessible facility.",
+    "address": "237 S. 1000 E.",
     "city": "Salt Lake City",
     "state": "UT",
-    "zip": "84104",
-    "phone": "(801) 487-0822",
+    "zip": "84102",
+    "phone": "",
     "hours": "",
-    "lat": 40.7335206,
-    "lng": -111.9351604,
+    "lat": 40.7639553,
+    "lng": -111.8618424,
     "tags": [
-      "food bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-15"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-577494",
-    "name": "Crossroads Westside Food Pantry",
+    "id": "fa-184203",
+    "name": "St. Paul's Episcopal Church Food Pantry",
     "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "1358 West Indiana Avenue",
+    "description": "Food pantry location at St. Paul's Episcopal Church",
+    "address": "261 S 900 E",
     "city": "Salt Lake City",
     "state": "UT",
-    "zip": "84104",
-    "phone": "(801) 935-4079",
+    "zip": "84102",
+    "phone": "",
     "hours": "",
-    "lat": 40.7515624,
-    "lng": -111.9298418,
+    "lat": 40.7634864,
+    "lng": -111.8653408,
     "tags": [
-      "food bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-15"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-salt-lake-city-shelter",

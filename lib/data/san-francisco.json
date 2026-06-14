@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-174243",
-    "name": "Project Open Hand - San Francisco",
-    "category": "Food",
-    "description": "Main food distribution location in San Francisco.",
-    "address": "730 Polk St",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94109",
-    "phone": "(415) 447-2300",
-    "hours": "",
-    "lat": 37.7836801,
-    "lng": -122.4190203,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-201281",
     "name": "Project Open Hand - Main Location",
     "category": "Food",
@@ -38,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-576669",
-    "name": "Project Open Hand",
-    "category": "Food",
-    "description": "Free soup kitchen providing food assistance. Open to all.",
-    "address": "730 Polk Street",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94109",
-    "phone": "(415) 447-2300",
-    "hours": "",
-    "lat": 37.7839436,
-    "lng": -122.4192113,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-174239",
     "name": "GLIDE Daily Free Meals Program",
     "category": "Food",
@@ -69,6 +31,25 @@
     "hours": "",
     "lat": 37.785137,
     "lng": -122.4116548,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174243",
+    "name": "Project Open Hand - San Francisco",
+    "category": "Food",
+    "description": "Main food distribution location in San Francisco.",
+    "address": "730 Polk St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94109",
+    "phone": "(415) 447-2300",
+    "hours": "",
+    "lat": 37.7836801,
+    "lng": -122.4190203,
     "tags": [
       "food pantry",
       "walk-in"
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 37.78419,
     "lng": -122.42916,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208650",
+    "name": "Church Street",
+    "category": "Food",
+    "description": "Food distribution location at Church Street in San Francisco.",
+    "address": "152 Church St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94114",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7686016,
+    "lng": -122.4294051,
     "tags": [
       "food pantry",
       "walk-in"

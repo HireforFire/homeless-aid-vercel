@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-576738",
-    "name": "Idaho Falls Food Bank",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "245 North Placer Avenue",
-    "city": "Idaho Falls",
-    "state": "ID",
-    "zip": "83402",
-    "phone": "(208) 524-0994",
-    "hours": "",
-    "lat": 43.4894781,
-    "lng": -112.0349926,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-195233",
     "name": "Community Food Basket",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-576738",
+    "name": "Idaho Falls Food Bank",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "245 North Placer Avenue",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83402",
+    "phone": "(208) 524-0994",
+    "hours": "",
+    "lat": 43.4894781,
+    "lng": -112.0349926,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-219187",

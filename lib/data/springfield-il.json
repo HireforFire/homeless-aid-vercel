@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-576756",
-    "name": "Kumler Outreach Ministries",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "303 North Grand Avenue East",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62702",
-    "phone": "(217) 523-2269",
-    "hours": "",
-    "lat": 39.8164403,
-    "lng": -89.6516242,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-185452",
     "name": "Helping Hands of Springfield",
     "category": "Food",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-576756",
+    "name": "Kumler Outreach Ministries",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "303 North Grand Avenue East",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62702",
+    "phone": "(217) 523-2269",
+    "hours": "",
+    "lat": 39.8164403,
+    "lng": -89.6516242,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-219831",

@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-200194",
+    "name": "FOCUS Gateway City",
+    "category": "Food",
+    "description": "FOCUS Gateway City food distribution location at 1901 Ann Ave in St. Louis, MO",
+    "address": "1901 Ann Ave.",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63104",
+    "phone": "",
+    "hours": "",
+    "lat": 38.6082574,
+    "lng": -90.2143266,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-576404",
     "name": "St. Nicholas Church",
     "category": "Food",
@@ -183,25 +202,6 @@
     "hours": "",
     "lat": 38.6439561,
     "lng": -90.2277273,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200194",
-    "name": "FOCUS Gateway City",
-    "category": "Food",
-    "description": "FOCUS Gateway City food distribution location at 1901 Ann Ave in St. Louis, MO",
-    "address": "1901 Ann Ave.",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63104",
-    "phone": "",
-    "hours": "",
-    "lat": 38.6082574,
-    "lng": -90.2143266,
     "tags": [
       "food pantry",
       "walk-in"

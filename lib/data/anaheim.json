@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-185490",
+    "name": "Neighborhood Services - Main Location",
+    "category": "Food",
+    "description": "Neighborhood Services food distribution center in Placentia",
+    "address": "900 South Melrose Street",
+    "city": "Placentia",
+    "state": "CA",
+    "zip": "92870",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8601968981324,
+    "lng": -117.874101526717,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-181828",
     "name": "VFW Post 3173",
     "category": "Food",
@@ -88,25 +107,6 @@
     "hours": "",
     "lat": 33.824620998383,
     "lng": -117.888292008028,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-185490",
-    "name": "Neighborhood Services - Main Location",
-    "category": "Food",
-    "description": "Neighborhood Services food distribution center in Placentia",
-    "address": "900 South Melrose Street",
-    "city": "Placentia",
-    "state": "CA",
-    "zip": "92870",
-    "phone": "",
-    "hours": "",
-    "lat": 33.8601968981324,
-    "lng": -117.874101526717,
     "tags": [
       "food pantry",
       "walk-in"

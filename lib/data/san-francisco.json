@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-201281",
-    "name": "Project Open Hand - Main Location",
-    "category": "Food",
-    "description": "Primary distribution location for Project Open Hand meals and grocery services.",
-    "address": "730 Polk",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94109",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7838531,
-    "lng": -122.4191138,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-174239",
     "name": "GLIDE Daily Free Meals Program",
     "category": "Food",
@@ -164,6 +145,25 @@
     "hours": "",
     "lat": 37.7769329,
     "lng": -122.428277,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201281",
+    "name": "Project Open Hand - Main Location",
+    "category": "Food",
+    "description": "Primary distribution location for Project Open Hand meals and grocery services.",
+    "address": "730 Polk",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94109",
+    "phone": "",
+    "hours": "",
+    "lat": 37.7838531,
+    "lng": -122.4191138,
     "tags": [
       "food pantry",
       "walk-in"

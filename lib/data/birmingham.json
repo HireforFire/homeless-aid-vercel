@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-172537",
-    "name": "Urban Ministry, Inc.",
-    "category": "Food",
-    "description": "Food pantry and soup kitchen location in Birmingham, Alabama.",
-    "address": "1229 Cotton Ave. SW.",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35211",
-    "phone": "(205) 781-0517",
-    "hours": "",
-    "lat": 33.4923348,
-    "lng": -86.852031,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-128137",
     "name": "Birmingham City Board of Education",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172537",
+    "name": "Urban Ministry, Inc.",
+    "category": "Food",
+    "description": "Food pantry and soup kitchen location in Birmingham, Alabama.",
+    "address": "1229 Cotton Ave. SW.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35211",
+    "phone": "(205) 781-0517",
+    "hours": "",
+    "lat": 33.4923348,
+    "lng": -86.852031,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-178802",

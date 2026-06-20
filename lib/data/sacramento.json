@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-174676",
-    "name": "YCCA West Sacramento Family Resource Center",
-    "category": "Food",
-    "description": "Drive-through food distribution location at 1200 Anna Street.",
-    "address": "1200 Anna Street",
-    "city": "West Sacramento",
-    "state": "CA",
-    "zip": "95691",
-    "phone": "(530) 668-0690",
-    "hours": "",
-    "lat": 38.5960132,
-    "lng": -121.5318718,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218582",
     "name": "The Salvation Army - North B Street",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-174676",
+    "name": "YCCA West Sacramento Family Resource Center",
+    "category": "Food",
+    "description": "Drive-through food distribution location at 1200 Anna Street.",
+    "address": "1200 Anna Street",
+    "city": "West Sacramento",
+    "state": "CA",
+    "zip": "95691",
+    "phone": "(530) 668-0690",
+    "hours": "",
+    "lat": 38.5960132,
+    "lng": -121.5318718,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-187524",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-185802",
-    "name": "Shiloh Baptist Church",
+    "id": "fa-226228",
+    "name": "Sacramento Food Bank & Family Services",
     "category": "Food",
-    "description": "Food distribution location at Shiloh Baptist Church",
-    "address": "3565 9th Avenue",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Sacramento, CA",
     "city": "Sacramento",
     "state": "CA",
-    "zip": "95817",
+    "zip": "94203",
     "phone": "",
     "hours": "",
-    "lat": 38.54433,
-    "lng": -121.46838,
+    "lat": 38.58435,
+    "lng": -121.49376,
     "tags": [
-      "food pantry",
+      "diaper bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-05-10"
   },
   {
-    "id": "fa-201496",
-    "name": "River City Food Bank - Midtown",
+    "id": "fa-439",
+    "name": "Loaves & Fishes",
     "category": "Food",
-    "description": "Food distribution location in Sacramento's Midtown area.",
-    "address": "1800 28th Street",
+    "description": "Open to all",
+    "address": "1351 North C St",
     "city": "Sacramento",
     "state": "CA",
-    "zip": "95816",
-    "phone": "",
+    "zip": "95811",
+    "phone": "(916) 446-0874",
     "hours": "",
-    "lat": 38.5648935,
-    "lng": -121.4734221,
+    "lat": 38.5911,
+    "lng": -121.4761,
     "tags": [
-      "food bank",
+      "soup kitchen",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fallback-sacramento-shelter",

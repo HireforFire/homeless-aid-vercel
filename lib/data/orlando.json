@@ -1,5 +1,62 @@
 [
   {
+    "id": "fa-218658",
+    "name": "The Salvation Army - Lake Dot Cir 1",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "633 Lake Dot Cir",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32801",
+    "phone": "(407) 843-5533",
+    "hours": "",
+    "lat": 28.542,
+    "lng": -81.37343,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218660",
+    "name": "The Salvation Army - Lake Dot Cir",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "625 Lake Dot Cir",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32801",
+    "phone": "(407) 650-8180",
+    "hours": "",
+    "lat": 28.542,
+    "lng": -81.37343,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220555",
+    "name": "CJS FOOD PANTRY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "212 SOUTH PARROMORE AVE",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "(407) 431-2453",
+    "hours": "",
+    "lat": 28.5400295,
+    "lng": -81.3890228,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-184500",
     "name": "Serenity's Grace",
     "category": "Food",
@@ -74,63 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-218658",
-    "name": "The Salvation Army - Lake Dot Cir 1",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "633 Lake Dot Cir",
-    "city": "Orlando",
-    "state": "FL",
-    "zip": "32801",
-    "phone": "(407) 843-5533",
-    "hours": "",
-    "lat": 28.542,
-    "lng": -81.37343,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-218660",
-    "name": "The Salvation Army - Lake Dot Cir",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "625 Lake Dot Cir",
-    "city": "Orlando",
-    "state": "FL",
-    "zip": "32801",
-    "phone": "(407) 650-8180",
-    "hours": "",
-    "lat": 28.542,
-    "lng": -81.37343,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220555",
-    "name": "CJS FOOD PANTRY",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "212 SOUTH PARROMORE AVE",
-    "city": "Orlando",
-    "state": "FL",
-    "zip": "32805",
-    "phone": "(407) 431-2453",
-    "hours": "",
-    "lat": 28.5400295,
-    "lng": -81.3890228,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-181283",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-181854",
-    "name": "Attitude Baptist Church of Orlando",
+    "id": "fa-219521",
+    "name": "NTTAC Community Outreach",
     "category": "Food",
-    "description": "Food distribution location at Attitude Baptist Church of Orlando",
-    "address": "3750 W. East Colonial",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "901 Mack Ave",
     "city": "Orlando",
     "state": "FL",
-    "zip": "32803",
-    "phone": "",
+    "zip": "32805",
+    "phone": "(407) 925-3228",
     "hours": "",
-    "lat": 28.5531628,
-    "lng": -81.3497501,
+    "lat": 28.5310154,
+    "lng": -81.4002457,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-orlando-shelter",

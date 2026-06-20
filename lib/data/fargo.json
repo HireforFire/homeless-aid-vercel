@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-222998",
+    "name": "McCarty Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "630 7th Ave N",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "(701) 318-0853",
+    "hours": "",
+    "lat": 46.8827943,
+    "lng": -96.7889402,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-181517",
     "name": "Gladys Ray Shelter",
     "category": "Food",
@@ -74,25 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-222998",
-    "name": "McCarty Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "630 7th Ave N",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "58102",
-    "phone": "(701) 318-0853",
-    "hours": "",
-    "lat": 46.8827943,
-    "lng": -96.7889402,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-183159",
@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-191223",
-    "name": "The Neighborhood Church & Community Center",
-    "category": "Food",
-    "description": "Main location for food distribution services",
-    "address": "730 27th St N",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "58102",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8844798,
-    "lng": -96.8230026,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-221786",
     "name": "Madison Resource Center/FHRA",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 46.8587532,
     "lng": -96.8094406,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225139",
+    "name": "Tri City Haitian minstry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "730 27 street N",
+    "city": "Fargoi",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "(701) 540-1383",
+    "hours": "",
+    "lat": 46.8844566,
+    "lng": -96.8225327,
     "tags": [
       "food pantry",
       "walk-in"

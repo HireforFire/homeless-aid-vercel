@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-219267",
+    "name": "Bay Area Christian Connection",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "810 Clay Street",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94605",
+    "phone": "(510) 301-2164",
+    "hours": "",
+    "lat": 37.8012619,
+    "lng": -122.2758026,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-182125",
     "name": "St. Paul's Episcopal Church",
     "category": "Food",
@@ -55,25 +74,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-219267",
-    "name": "Bay Area Christian Connection",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "810 Clay Street",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "94605",
-    "phone": "(510) 301-2164",
-    "hours": "",
-    "lat": 37.8012619,
-    "lng": -122.2758026,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-180619",

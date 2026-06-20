@@ -19,44 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-175804",
-    "name": "St. Paul Farmers Market",
-    "category": "Food",
-    "description": "Winter Farmers Market location",
-    "address": "290 5th St E",
-    "city": "St Paul",
-    "state": "MN",
-    "zip": "55101",
-    "phone": "",
-    "hours": "",
-    "lat": 44.949792923848,
-    "lng": -93.085508101194,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177560",
-    "name": "FOCUS House",
-    "category": "Food",
-    "description": "FOCUS House food shelf location",
-    "address": "550 Rice Street",
-    "city": "Saint Paul",
-    "state": "MN",
-    "zip": "55103",
-    "phone": "",
-    "hours": "",
-    "lat": 44.958091594725,
-    "lng": -93.105682755404,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-220378",
     "name": "Dorothy Day",
     "category": "Food",
@@ -95,37 +57,37 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-175954",
-    "name": "Shobis Table @ Frogtown – Faith Lutheran",
+    "id": "fa-175804",
+    "name": "St. Paul Farmers Market",
     "category": "Food",
-    "description": "Pay-as-you-can food truck location serving fresh cooked lunches in St Paul",
-    "address": "499 Charles Avenue",
-    "city": "Saint Paul",
+    "description": "Winter Farmers Market location",
+    "address": "290 5th St E",
+    "city": "St Paul",
     "state": "MN",
     "zip": "55101",
     "phone": "",
     "hours": "",
-    "lat": 44.957819476238,
-    "lng": -93.120366927758,
+    "lat": 44.949792923848,
+    "lng": -93.085508101194,
     "tags": [
-      "food pantry",
+      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-183456",
-    "name": "Loaves & Fishes at St. Matthews",
+    "id": "fa-177560",
+    "name": "FOCUS House",
     "category": "Food",
-    "description": "Free meal service location at St. Matthews Catholic Church",
-    "address": "510 Hall Ave",
-    "city": "St. Paul",
+    "description": "FOCUS House food shelf location",
+    "address": "550 Rice Street",
+    "city": "Saint Paul",
     "state": "MN",
-    "zip": "55107",
+    "zip": "55103",
     "phone": "",
     "hours": "",
-    "lat": 44.9306464,
-    "lng": -93.086366,
+    "lat": 44.958091594725,
+    "lng": -93.105682755404,
     "tags": [
       "food pantry",
       "walk-in"
@@ -209,18 +171,56 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-187217",
-    "name": "Fruit of the Vine St. Paul Food Shelf",
+    "id": "fa-134117",
+    "name": "Salvation Army East St Paul",
     "category": "Food",
-    "description": "Food pantry location at 1280 Arcade St in St Paul, MN.",
-    "address": "1280 Arcade St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1019 Payne Avenue",
     "city": "St Paul",
     "state": "MN",
-    "zip": "55106",
+    "zip": "55101",
+    "phone": "(651) 776-2653",
+    "hours": "",
+    "lat": 44.95111,
+    "lng": -93.08739,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-02-12"
+  },
+  {
+    "id": "fa-134140",
+    "name": "Union Gospel Mission",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "435 East University Avenue",
+    "city": "St Paul",
+    "state": "MN",
+    "zip": "55101",
+    "phone": "(651) 292-1721",
+    "hours": "",
+    "lat": 44.95111,
+    "lng": -93.08739,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-02-12"
+  },
+  {
+    "id": "fa-175954",
+    "name": "Shobis Table @ Frogtown – Faith Lutheran",
+    "category": "Food",
+    "description": "Pay-as-you-can food truck location serving fresh cooked lunches in St Paul",
+    "address": "499 Charles Avenue",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55101",
     "phone": "",
     "hours": "",
-    "lat": 44.9798231,
-    "lng": -93.0653229,
+    "lat": 44.957819476238,
+    "lng": -93.120366927758,
     "tags": [
       "food pantry",
       "walk-in"

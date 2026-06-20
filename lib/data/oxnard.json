@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-128647",
+    "name": "Oxnard School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1051 SOUTH A ST",
+    "city": "OXNARD",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "(805) 385-1501",
+    "hours": "",
+    "lat": 34.212205,
+    "lng": -119.179441,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-178871",
     "name": "Bread of Life - All Saints Episcopal Church",
     "category": "Food",
@@ -93,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-128647",
-    "name": "Oxnard School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1051 SOUTH A ST",
-    "city": "OXNARD",
-    "state": "CA",
-    "zip": "93030",
-    "phone": "(805) 385-1501",
-    "hours": "",
-    "lat": 34.212205,
-    "lng": -119.179441,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-177611",

@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-183073",
-    "name": "Perkins Community Center",
-    "category": "Food",
-    "description": "Food distribution location at Perkins Community Center in Amarillo.",
-    "address": "1515 S Buchanan St",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79101",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1968875,
-    "lng": -101.8336374,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218541",
     "name": "The Salvation Army - S Harrison St",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-183073",
+    "name": "Perkins Community Center",
+    "category": "Food",
+    "description": "Food distribution location at Perkins Community Center in Amarillo.",
+    "address": "1515 S Buchanan St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1968875,
+    "lng": -101.8336374,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-210",

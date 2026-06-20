@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-190015",
-    "name": "SDA Modesto Central - Church Office",
-    "category": "Food",
-    "description": "Church office address for SDA Modesto Central",
-    "address": "1614 H Street",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "95354",
-    "phone": "",
-    "hours": "",
-    "lat": 37.64307,
-    "lng": -120.99173,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-190257",
-    "name": "Salvation Army Social Services - Modesto",
-    "category": "Food",
-    "description": "Food pantry location providing emergency food assistance",
-    "address": "601 Ninth Street",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "95354",
-    "phone": "",
-    "hours": "",
-    "lat": 37.635915,
-    "lng": -120.9966779,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-128609",
     "name": "Modesto City Elementary School District",
     "category": "Food",
@@ -74,6 +36,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-190015",
+    "name": "SDA Modesto Central - Church Office",
+    "category": "Food",
+    "description": "Church office address for SDA Modesto Central",
+    "address": "1614 H Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.64307,
+    "lng": -120.99173,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190257",
+    "name": "Salvation Army Social Services - Modesto",
+    "category": "Food",
+    "description": "Food pantry location providing emergency food assistance",
+    "address": "601 Ninth Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.635915,
+    "lng": -120.9966779,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-453",
@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-178777",
-    "name": "Second Baptist Church",
-    "category": "Food",
-    "description": "Second Baptist Church food distribution location",
-    "address": "529 B California Ave.",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "95351",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6317822,
-    "lng": -121.0145606,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-175238",
     "name": "Ceres Partnership",
     "category": "Food",
@@ -209,23 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-183058",
-    "name": "Modesto Love Center",
+    "id": "fa-218549",
+    "name": "The Salvation Army - 9Th Street",
     "category": "Food",
-    "description": "Main food pantry location in Modesto offering walk-up food distribution services.",
-    "address": "617 Winmoore Way F",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "320 9th Street",
     "city": "Modesto",
     "state": "CA",
-    "zip": "95358",
-    "phone": "",
+    "zip": "95351",
+    "phone": "(209) 525-8954",
     "hours": "",
-    "lat": 37.60599,
-    "lng": -120.9853121,
+    "lat": 37.6236,
+    "lng": -120.99828,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223862",
+    "name": "MJC Pirates' Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2201 Blue Gum Ave",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95358",
+    "phone": "(209) 575-7902",
+    "hours": "",
+    "lat": 37.6627211,
+    "lng": -121.0354933,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-modesto-shelter",

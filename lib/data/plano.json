@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-195927",
-    "name": "Minnie's Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location serving the Dallas/Fort Worth area.",
-    "address": "661 18th St.",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "75074",
-    "phone": "",
-    "hours": "",
-    "lat": 33.024704,
-    "lng": -96.7066229,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-225910",
     "name": "A Christian Food Pantry",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-195927",
+    "name": "Minnie's Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location serving the Dallas/Fort Worth area.",
+    "address": "661 18th St.",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75074",
+    "phone": "",
+    "hours": "",
+    "lat": 33.024704,
+    "lng": -96.7066229,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-195435",

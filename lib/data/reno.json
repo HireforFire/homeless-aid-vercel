@@ -57,63 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-171242",
-    "name": "Downtown Library School",
-    "category": "Food",
-    "description": "SNAP assistance and Kid's Cafe services location",
-    "address": "301 S Center Street",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89501",
-    "phone": "",
-    "hours": "",
-    "lat": 39.5226301,
-    "lng": -119.8105822,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-171300",
-    "name": "Renown Health Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location providing food distribution services.",
-    "address": "1095 E 2nd St",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89502",
-    "phone": "",
-    "hours": "",
-    "lat": 39.5279287,
-    "lng": -119.7969703,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-171483",
-    "name": "Voice in the Wilderness",
-    "category": "Food",
-    "description": "Food pantry location in Reno serving Washoe County residents.",
-    "address": "513 E 2nd St.",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89502",
-    "phone": "",
-    "hours": "",
-    "lat": 39.5274744,
-    "lng": -119.8052003,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-130171",
     "name": "Washoe County SD",
     "category": "Food",
@@ -169,6 +112,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-171242",
+    "name": "Downtown Library School",
+    "category": "Food",
+    "description": "SNAP assistance and Kid's Cafe services location",
+    "address": "301 S Center Street",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89501",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5226301,
+    "lng": -119.8105822,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171300",
+    "name": "Renown Health Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location providing food distribution services.",
+    "address": "1095 E 2nd St",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89502",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5279287,
+    "lng": -119.7969703,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171483",
+    "name": "Voice in the Wilderness",
+    "category": "Food",
+    "description": "Food pantry location in Reno serving Washoe County residents.",
+    "address": "513 E 2nd St.",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89502",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5274744,
+    "lng": -119.8052003,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-170665",

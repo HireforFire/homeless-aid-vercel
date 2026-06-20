@@ -19,158 +19,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-181363",
-    "name": "MSU Denver Student Food Bank- Rowdy's Corner",
-    "category": "Food",
-    "description": "Student food bank located in the Tivoli Room at MSU Denver's Auraria Parkway campus.",
-    "address": "900 Auraria Pwky.",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7450774,
-    "lng": -105.005976,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-181935",
-    "name": "Senior Support Services- Volunteers of America",
-    "category": "Food",
-    "description": "Senior Congregate Meals facility providing daily breakfast and lunch services.",
-    "address": "846 E. 18th Ave.",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80218",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7447138,
-    "lng": -104.9765733,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-184472",
-    "name": "Sunset Park Senior Center",
-    "category": "Food",
-    "description": "Senior meal distribution location",
-    "address": "1865 Larimer St.",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80202",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7516994,
-    "lng": -104.9944101,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-185147",
-    "name": "St. Elizabeth's of Hungary Catholic Church",
-    "category": "Food",
-    "description": "Catholic church location providing meal services",
-    "address": "1060 St. Francis Way",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7426122,
-    "lng": -105.0021696,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-199078",
-    "name": "His Love Fellowship",
-    "category": "Food",
-    "description": "Food pantry location",
-    "address": "910 Kalamath St.",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7307388,
-    "lng": -104.9997207,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-207984",
-    "name": "Haven of Hope: Jay Gould Center",
-    "category": "Food",
-    "description": "Haven of Hope: Jay Gould Center provides hot and cold meal services in Denver.",
-    "address": "1101 W. 7th Ave.",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7275176,
-    "lng": -105.0020727,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-210138",
-    "name": "Capitol Hill Comm Serv",
-    "category": "Food",
-    "description": "Food pantry and hot meals distribution location",
-    "address": "1820 Broadway",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80202",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7451214,
-    "lng": -104.9870291,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214700",
-    "name": "Metropolitan Community Church",
-    "category": "Food",
-    "description": "Food pantry location offering TEFAP Program services.",
-    "address": "980 N Clarkson St",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80218",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7318392,
-    "lng": -104.9773133,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-216042",
     "name": "We Don't Waste - Mobile Food Market - La Alma Recreation Center",
     "category": "Food",
@@ -226,6 +74,158 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-128818",
+    "name": "COLO SCHOOL F/T DEAF AND THE BLIND",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "201 EAST COLFAX AVE",
+    "city": "DENVER",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(303) 866-6600",
+    "hours": "",
+    "lat": 39.740087,
+    "lng": -104.985237,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-576699",
+    "name": "CCD Swooper Market",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "900 Auraria Parkway",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 352-6532",
+    "hours": "",
+    "lat": 39.7449753,
+    "lng": -105.0055096,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-220735",
+    "name": "Wishing Well",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1075 Galapago Street",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 504-6804",
+    "hours": "",
+    "lat": 39.7332993,
+    "lng": -104.9970016,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220818",
+    "name": "Food For Thought - Denver",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1190 Auraria Pkwy",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 817-4672",
+    "hours": "",
+    "lat": 39.7474976,
+    "lng": -105.0038681,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221684",
+    "name": "The Salvation Army - Harbor Light",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2136 Champa Street",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80205",
+    "phone": "(720) 305-4656",
+    "hours": "",
+    "lat": 39.7514725,
+    "lng": -104.9870453,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224115",
+    "name": "Metro Caring",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1100 East 18th Ave.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80218",
+    "phone": "(303) 350-3631",
+    "hours": "",
+    "lat": 39.7446556,
+    "lng": -104.9729767,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-181363",
+    "name": "MSU Denver Student Food Bank- Rowdy's Corner",
+    "category": "Food",
+    "description": "Student food bank located in the Tivoli Room at MSU Denver's Auraria Parkway campus.",
+    "address": "900 Auraria Pwky.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7450774,
+    "lng": -105.005976,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181935",
+    "name": "Senior Support Services- Volunteers of America",
+    "category": "Food",
+    "description": "Senior Congregate Meals facility providing daily breakfast and lunch services.",
+    "address": "846 E. 18th Ave.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80218",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7447138,
+    "lng": -104.9765733,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-denver-shelter",

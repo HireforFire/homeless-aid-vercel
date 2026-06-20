@@ -38,6 +38,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-216491",
+    "name": "The Salvation Army - 722736W Main Street Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "722-736-W. Main Street",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "(859) 252-7706",
+    "hours": "",
+    "lat": 38.05004,
+    "lng": -84.50018,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-206685",
     "name": "Central Church Apartments CSFP",
     "category": "Food",
@@ -93,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-216491",
-    "name": "The Salvation Army - 722736W Main Street Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "722-736-W. Main Street",
-    "city": "Lexington",
-    "state": "KY",
-    "zip": "40508",
-    "phone": "(859) 252-7706",
-    "hours": "",
-    "lat": 38.05004,
-    "lng": -84.50018,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-179407",

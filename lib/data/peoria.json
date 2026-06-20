@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-222980",
+    "name": "The Salvation Army Peoria",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "414 NE Jefferson St",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61603",
+    "phone": "(309) 655-7272",
+    "hours": "",
+    "lat": 40.6953599,
+    "lng": -89.5860596,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-190698",
     "name": "Bethel UMC",
     "category": "Food",
@@ -74,25 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-222980",
-    "name": "The Salvation Army Peoria",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "414 NE Jefferson St",
-    "city": "Peoria",
-    "state": "IL",
-    "zip": "61603",
-    "phone": "(309) 655-7272",
-    "hours": "",
-    "lat": 40.6953599,
-    "lng": -89.5860596,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-187458",
@@ -171,61 +171,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-185448",
-    "name": "West Mark Food Pantry",
+    "id": "fa-218526",
+    "name": "The Salvation Army - Ne Jefferson 1",
     "category": "Food",
-    "description": "Food pantry location in Peoria",
-    "address": "1420 W. Moss Ave.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "417 NE Jefferson",
     "city": "Peoria",
     "state": "IL",
-    "zip": "61606",
-    "phone": "",
+    "zip": "61603",
+    "phone": "(309) 655-7272",
     "hours": "",
-    "lat": 40.6930831,
-    "lng": -89.615354,
+    "lat": 40.7122,
+    "lng": -89.57465,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-188761",
-    "name": "Neighborhood House",
+    "id": "fa-218815",
+    "name": "The Salvation Army - Spalding Avenue",
     "category": "Food",
-    "description": "Food pantry, soup kitchen, and meal service location",
-    "address": "1020 S. Matthew St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "210 Spalding Avenue",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61603",
+    "phone": "(309) 655-7283",
+    "hours": "",
+    "lat": 40.7122,
+    "lng": -89.57465,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221507",
+    "name": "COMMON PLACE",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "514 S. Shelley Street",
     "city": "Peoria",
     "state": "IL",
     "zip": "61605",
-    "phone": "",
+    "phone": "(309) 674-3315",
     "hours": "",
-    "lat": 40.6768007,
-    "lng": -89.6190249,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-192620",
-    "name": "Franklin Primary School Little Free Pantry",
-    "category": "Food",
-    "description": "Free outdoor mini pantry located at Franklin Primary School",
-    "address": "807 W. Columbia Ter.",
-    "city": "Peoria",
-    "state": "IL",
-    "zip": "61606",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7035777,
-    "lng": -89.6054379,
+    "lat": 40.6830101,
+    "lng": -89.6169434,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-peoria-shelter",

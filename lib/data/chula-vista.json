@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-193307",
-    "name": "Salvation Army Chula Vista",
-    "category": "Food",
-    "description": "Main food pantry and emergency food box distribution location.",
-    "address": "648 3rd Avenue",
-    "city": "Chula Vista",
-    "state": "CA",
-    "zip": "91910",
-    "phone": "",
-    "hours": "",
-    "lat": 32.6290576,
-    "lng": -117.0757098,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-208730",
-    "name": "Sister Dolores Social Outreach at St. Rosa of Lima Catholic Parish",
-    "category": "Food",
-    "description": "Main distribution location at St. Rosa of Lima Catholic Parish",
-    "address": "278 Alvarado Street",
-    "city": "Chula Vista",
-    "state": "CA",
-    "zip": "91910",
-    "phone": "",
-    "hours": "",
-    "lat": 32.6358167,
-    "lng": -117.0769592,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218928",
     "name": "FBCCV",
     "category": "Food",
@@ -93,6 +55,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-193307",
+    "name": "Salvation Army Chula Vista",
+    "category": "Food",
+    "description": "Main food pantry and emergency food box distribution location.",
+    "address": "648 3rd Avenue",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "",
+    "hours": "",
+    "lat": 32.6290576,
+    "lng": -117.0757098,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208730",
+    "name": "Sister Dolores Social Outreach at St. Rosa of Lima Catholic Parish",
+    "category": "Food",
+    "description": "Main distribution location at St. Rosa of Lima Catholic Parish",
+    "address": "278 Alvarado Street",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "",
+    "hours": "",
+    "lat": 32.6358167,
+    "lng": -117.0769592,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-435",

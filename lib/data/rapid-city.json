@@ -171,6 +171,44 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-912",
+    "name": "Cornerstone Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "30 Main Street",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "(605) 341-2401",
+    "hours": "",
+    "lat": 44.0817,
+    "lng": -103.2317,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
+    "id": "fa-224952",
+    "name": "Feeding South Dakota Statewide Mobile Food Distribution Program",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1111 N. Creek Dr.",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "(605) 348-2689",
+    "hours": "",
+    "lat": 44.0896454,
+    "lng": -103.1848984,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-175679",
     "name": "Oaye Luta Okolakiciye Pantry",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 44.086509535129,
     "lng": -103.195638509093,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175835",
-    "name": "South Middle School",
-    "category": "Food",
-    "description": "Summer BackPack distribution location at South Middle School",
-    "address": "South Middle School, 2 Indiana Street",
-    "city": "Rapid City",
-    "state": "SD",
-    "zip": "57701",
-    "phone": "",
-    "hours": "",
-    "lat": 44.0627916,
-    "lng": -103.2184686,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176676",
-    "name": "Woyaton Lutheran Church",
-    "category": "Food",
-    "description": "Food pantry, hot meal site, and youth services location",
-    "address": "522 Anamosa St.",
-    "city": "Rapid City",
-    "state": "SD",
-    "zip": "57701",
-    "phone": "",
-    "hours": "",
-    "lat": 44.096975766168,
-    "lng": -103.223063761007,
     "tags": [
       "food pantry",
       "walk-in"

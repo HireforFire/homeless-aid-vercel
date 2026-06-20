@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-224334",
+    "name": "Rock River Valley Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "421 S. Rockton",
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "61102",
+    "phone": "(815) 965-2466",
+    "hours": "",
+    "lat": 42.2702866,
+    "lng": -89.1023941,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-194215",
     "name": "Cornucopia Food Pantry",
     "category": "Food",
@@ -55,25 +74,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-224334",
-    "name": "Rock River Valley Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "421 S. Rockton",
-    "city": "Rockford",
-    "state": "IL",
-    "zip": "61102",
-    "phone": "(815) 965-2466",
-    "hours": "",
-    "lat": 42.2702866,
-    "lng": -89.1023941,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-183239",
@@ -152,6 +152,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-217278",
+    "name": "The Salvation Army - 18Th Avenue",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1720 18th Avenue",
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "61104",
+    "phone": "(815) 397-0440",
+    "hours": "",
+    "lat": 42.25186,
+    "lng": -89.07911,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-180796",
     "name": "The Salvation Army Rockford/Winnebago County Office",
     "category": "Food",
@@ -188,25 +207,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-217278",
-    "name": "The Salvation Army - 18Th Avenue",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1720 18th Avenue",
-    "city": "Rockford",
-    "state": "IL",
-    "zip": "61104",
-    "phone": "(815) 397-0440",
-    "hours": "",
-    "lat": 42.25186,
-    "lng": -89.07911,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-658",

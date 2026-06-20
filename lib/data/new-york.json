@@ -38,6 +38,101 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-215857",
+    "name": "Primitive Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "207-209 East Broadway",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "(646) 831-6653",
+    "hours": "",
+    "lat": 40.714176,
+    "lng": -73.989761,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-221412",
+    "name": "Sea of Galilee Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "166 Eldridge Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "(347) 949-6078",
+    "hours": "",
+    "lat": 40.7199936,
+    "lng": -73.9907532,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-226032",
+    "name": "New York Temple",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "132 West 14 Street (1 Fl)",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10011",
+    "phone": "(212) 337-7469",
+    "hours": "",
+    "lat": 40.7143517,
+    "lng": -74.0059738,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-521",
+    "name": "Bowery Mission",
+    "category": "Food",
+    "description": "No ID required",
+    "address": "227 Bowery",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "(212) 674-3456",
+    "hours": "",
+    "lat": 40.7233,
+    "lng": -73.9936,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-523",
+    "name": "Coalition for the Homeless",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "129 Fulton Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10038",
+    "phone": "(212) 776-2000",
+    "hours": "",
+    "lat": 40.7083,
+    "lng": -74.0058,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-173812",
     "name": "Project Hospitality - Canal Street",
     "category": "Food",
@@ -126,101 +221,6 @@
     "hours": "",
     "lat": 40.7085735,
     "lng": -74.0149887,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-203961",
-    "name": "WCK Bowery Mission",
-    "category": "Food",
-    "description": "World Central Kitchen food distribution location at the Bowery Mission",
-    "address": "227 Bowery",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10002",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7220889,
-    "lng": -73.9931083,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-205707",
-    "name": "City Relief Lower East Side",
-    "category": "Food",
-    "description": "DELANCEY ST. (BTWN CHRYSTIE & FORSYTH ST)",
-    "address": "29 Delancey Street",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10002",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7196743,
-    "lng": -73.9926266,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-205733",
-    "name": "Salvation Army Astoria Corps.",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "45-18 Broadway",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10001",
-    "phone": "",
-    "hours": "",
-    "lat": 40.70654,
-    "lng": -74.01329,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-211109",
-    "name": "Chinatown Community Fridge & Pantry",
-    "category": "Food",
-    "description": "Free, outdoor community fridge/pantry operated by local volunteers. Open 24/7.",
-    "address": "96 Baxter Street",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10013",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7171701,
-    "lng": -73.9997547,
-    "tags": [
-      "community fridge",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-211839",
-    "name": "Food Pantry at Pace University",
-    "category": "Food",
-    "description": "Pace University food pantry located at the main campus in lower Manhattan",
-    "address": "1 Pace Plaza",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10038",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7113533,
-    "lng": -74.00504269999999,
     "tags": [
       "food pantry",
       "walk-in"

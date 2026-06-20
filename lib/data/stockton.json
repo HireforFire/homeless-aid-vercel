@@ -1,100 +1,5 @@
 [
   {
-    "id": "fa-179297",
-    "name": "First Presbyterian Church",
-    "category": "Food",
-    "description": "First Presbyterian Church located in Stockton",
-    "address": "31 E Vine St",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95202",
-    "phone": "",
-    "hours": "",
-    "lat": 37.9655567,
-    "lng": -121.29416889999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-186082",
-    "name": "SDA Stockton",
-    "category": "Food",
-    "description": "SDA Stockton clothing assistance location in Stockton, California.",
-    "address": "135 W. Vine St.",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95204",
-    "phone": "",
-    "hours": "",
-    "lat": 37.9652684,
-    "lng": -121.2967009,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-191952",
-    "name": "Catholic Charities of Stockton",
-    "category": "Food",
-    "description": "Food pantry location at 1106 N. Eldorado St., Stockton, CA",
-    "address": "1106 N. Eldorado St.",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95202",
-    "phone": "",
-    "hours": "",
-    "lat": 37.9637803,
-    "lng": -121.2924531,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-201663",
-    "name": "St Paul's United Methodist Church",
-    "category": "Food",
-    "description": "Food distribution location at St Paul's United Methodist Church",
-    "address": "1625 N Lincoln St",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95204",
-    "phone": "",
-    "hours": "",
-    "lat": 37.967357299999996,
-    "lng": -121.3026668,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214267",
-    "name": "Good Samaritan Training Center",
-    "category": "Food",
-    "description": "Food distribution and clothing assistance location in Stockton.",
-    "address": "1331 E. Fremont Street",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95205",
-    "phone": "",
-    "hours": "",
-    "lat": 37.9606082,
-    "lng": -121.2746784,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-216294",
     "name": "Plymouth Place",
     "category": "Food",
@@ -207,6 +112,101 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-179297",
+    "name": "First Presbyterian Church",
+    "category": "Food",
+    "description": "First Presbyterian Church located in Stockton",
+    "address": "31 E Vine St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9655567,
+    "lng": -121.29416889999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186082",
+    "name": "SDA Stockton",
+    "category": "Food",
+    "description": "SDA Stockton clothing assistance location in Stockton, California.",
+    "address": "135 W. Vine St.",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95204",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9652684,
+    "lng": -121.2967009,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191952",
+    "name": "Catholic Charities of Stockton",
+    "category": "Food",
+    "description": "Food pantry location at 1106 N. Eldorado St., Stockton, CA",
+    "address": "1106 N. Eldorado St.",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9637803,
+    "lng": -121.2924531,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201663",
+    "name": "St Paul's United Methodist Church",
+    "category": "Food",
+    "description": "Food distribution location at St Paul's United Methodist Church",
+    "address": "1625 N Lincoln St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95204",
+    "phone": "",
+    "hours": "",
+    "lat": 37.967357299999996,
+    "lng": -121.3026668,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214267",
+    "name": "Good Samaritan Training Center",
+    "category": "Food",
+    "description": "Food distribution and clothing assistance location in Stockton.",
+    "address": "1331 E. Fremont Street",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95205",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9606082,
+    "lng": -121.2746784,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-451",

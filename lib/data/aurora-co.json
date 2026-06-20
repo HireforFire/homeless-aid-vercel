@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-172141",
-    "name": "Food Connect Colorado",
-    "category": "Food",
-    "description": "Food Connect Colorado food pantry location in Aurora, Colorado. Shopping is by appointment only with reservations made online at foodconnectcolorado.org.",
-    "address": "12455 E Mississippi Ave Suite 101",
-    "city": "Aurora",
-    "state": "CO",
-    "zip": "80012",
-    "phone": "",
-    "hours": "",
-    "lat": 39.6979375,
-    "lng": -104.8442336,
-    "tags": [
-      "food pantry",
-      "appointment"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-173017",
     "name": "Aurora Interfaith Task Force",
     "category": "Food",
@@ -69,120 +50,6 @@
     "hours": "",
     "lat": 39.741211,
     "lng": -104.8779197,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-180721",
-    "name": "Centro Nueva Iglesia Apostolic",
-    "category": "Food",
-    "description": "Food pantry location",
-    "address": "242 Havana St unit a",
-    "city": "Aurora",
-    "state": "CO",
-    "zip": "80010",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7196731,
-    "lng": -104.8643646,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-185106",
-    "name": "Catholic Charities Little Flower",
-    "category": "Food",
-    "description": "Food pantry and meal program location",
-    "address": "11149 E. 14th Ave.",
-    "city": "Aurora",
-    "state": "CO",
-    "zip": "80010",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7384753,
-    "lng": -104.8579355,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-185366",
-    "name": "Restoration Christian Fellowship",
-    "category": "Food",
-    "description": "Food Bank of the Rockies Mobile Pantry distribution site at Restoration Christian Fellowship in Aurora, Colorado.",
-    "address": "15640 E 6th Ave",
-    "city": "Aurora",
-    "state": "CO",
-    "zip": "80011",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7253882,
-    "lng": -104.8050595,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-202062",
-    "name": "Operation Walker Run",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "50 S. Havana Street",
-    "city": "Aurora",
-    "state": "CO",
-    "zip": "80012",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7159957,
-    "lng": -104.8634464,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-210120",
-    "name": "Food Connect Colorado - Aurora",
-    "category": "Food",
-    "description": "Food Connect Colorado distribution location in Aurora, Colorado",
-    "address": "12455 E Mississippi Ave #101",
-    "city": "Aurora",
-    "state": "CO",
-    "zip": "80012",
-    "phone": "",
-    "hours": "",
-    "lat": 39.697804,
-    "lng": -104.8442367,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-210624",
-    "name": "St. Therese Catholic Church - SVDP",
-    "category": "Food",
-    "description": "St. Therese Catholic Church's Society of St. Vincent de Paul food pantry location in Aurora, Colorado.",
-    "address": "1243 Kingston St.",
-    "city": "Aurora",
-    "state": "CO",
-    "zip": "80010",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7361138,
-    "lng": -104.859554,
     "tags": [
       "food pantry",
       "walk-in"
@@ -226,6 +93,139 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216049",
+    "name": "Village Exchange Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1609 Havana St",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "(720) 668-9968",
+    "hours": "",
+    "lat": 39.742138,
+    "lng": -104.86628,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216102",
+    "name": "Jewish Family Services- Lowry Health Clinic",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1001 Yosemite St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80230",
+    "phone": "(303) 597-5000",
+    "hours": "",
+    "lat": 39.730499,
+    "lng": -104.885872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216105",
+    "name": "Jewish Family Services- Altura Plaza (WIC)",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "15400 E 14th Pl",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80011",
+    "phone": "(720) 248-4701",
+    "hours": "",
+    "lat": 39.738632,
+    "lng": -104.810005,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216162",
+    "name": "FBR - Lowry Campus",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1070 Alton Way",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80230",
+    "phone": "(303) 371-9250",
+    "hours": "",
+    "lat": 39.727493,
+    "lng": -104.879784,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220125",
+    "name": "Aurora Cares",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1300 S Potomac",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80012",
+    "phone": "(303) 337-2431",
+    "hours": "",
+    "lat": 39.6932716,
+    "lng": -104.8313293,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223589",
+    "name": "Restoration Outreach Programs",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1540 Boston",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "(720) 628-1256",
+    "hours": "",
+    "lat": 39.7409515,
+    "lng": -104.8795929,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225016",
+    "name": "Aurora Interchurch Task Force, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1553 Clinton Street",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "(303) 360-0260",
+    "hours": "",
+    "lat": 39.741188,
+    "lng": -104.8778992,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-aurora-co-shelter",

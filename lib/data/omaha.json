@@ -38,6 +38,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-224949",
+    "name": "Youth Street Outreach",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2062 Harney St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "(402) 502-1636",
+    "hours": "",
+    "lat": 41.2568912,
+    "lng": -95.9430326,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-179113",
     "name": "Kountze Memorial Lutheran Church Food Pantry",
     "category": "Food",
@@ -112,25 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-224949",
-    "name": "Youth Street Outreach",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2062 Harney St",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68102",
-    "phone": "(402) 502-1636",
-    "hours": "",
-    "lat": 41.2568912,
-    "lng": -95.9430326,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-183906",

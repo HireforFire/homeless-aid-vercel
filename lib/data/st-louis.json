@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-200194",
-    "name": "FOCUS Gateway City",
-    "category": "Food",
-    "description": "FOCUS Gateway City food distribution location at 1901 Ann Ave in St. Louis, MO",
-    "address": "1901 Ann Ave.",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63104",
-    "phone": "",
-    "hours": "",
-    "lat": 38.6082574,
-    "lng": -90.2143266,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-576404",
     "name": "St. Nicholas Church",
     "category": "Food",
@@ -152,80 +133,99 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-187498",
-    "name": "Sts Teresa & Bridget St. Vincent de Paul Food Pantry",
+    "id": "fa-8175",
+    "name": "Central Baptist Food Pantry St Louis",
     "category": "Food",
-    "description": "Food pantry located at 3636 N. Market St.",
-    "address": "3636 N. Market St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2842 Washington Blvd",
     "city": "St Louis",
     "state": "MO",
-    "zip": "63113",
-    "phone": "",
+    "zip": "63103",
+    "phone": "(314) 533-0747",
     "hours": "",
-    "lat": 38.6516008,
-    "lng": -90.2252173,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-193574",
-    "name": "New Horizons United Methodist Church",
-    "category": "Food",
-    "description": "Church sponsored food pantry located in Central West End area offering pre-packed food bags and clothing ministry",
-    "address": "4234 Washington Blvd.",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63108",
-    "phone": "",
-    "hours": "",
-    "lat": 38.645631,
-    "lng": -90.2467412,
+    "lat": 38.62986,
+    "lng": -90.217,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-198390",
-    "name": "Wilhelmina Hardin Food Pantry",
+    "id": "fa-8179",
+    "name": "Third Baptist Church",
     "category": "Food",
-    "description": "Food pantry located in the gym, which is in the rear of the building just off of Cook.",
-    "address": "1118 N. Grand Blvd.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "620 N Grand Blvd",
     "city": "St Louis",
     "state": "MO",
-    "zip": "63106",
-    "phone": "",
+    "zip": "63103",
+    "phone": "(314) 533-7340",
     "hours": "",
-    "lat": 38.6439561,
-    "lng": -90.2277273,
+    "lat": 38.62986,
+    "lng": -90.217,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-206305",
-    "name": "Trinity Lutheran Church",
+    "id": "fa-8244",
+    "name": "Food Outreach",
     "category": "Food",
-    "description": "Trinity Lutheran Church food pantry location",
-    "address": "812 Soulard St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3117 Olive Street",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63103",
+    "phone": "(314) 652-3663",
+    "hours": "",
+    "lat": 38.62986,
+    "lng": -90.217,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-200194",
+    "name": "FOCUS Gateway City",
+    "category": "Food",
+    "description": "FOCUS Gateway City food distribution location at 1901 Ann Ave in St. Louis, MO",
+    "address": "1901 Ann Ave.",
     "city": "St Louis",
     "state": "MO",
     "zip": "63104",
     "phone": "",
     "hours": "",
-    "lat": 38.6092193,
-    "lng": -90.2028189,
+    "lat": 38.6082574,
+    "lng": -90.2143266,
     "tags": [
       "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-219916",
+    "name": "joint neighborhood ministry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2911 McNair",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63118",
+    "phone": "(314) 771-3987",
+    "hours": "",
+    "lat": 38.5996704,
+    "lng": -90.2207184,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-st-louis-shelter",

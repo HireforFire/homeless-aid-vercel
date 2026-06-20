@@ -95,6 +95,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-222493",
+    "name": "Changing Direction Outreach Ministry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1431 E. Charleston Blvd suite 17",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89104",
+    "phone": "(702) 444-6862",
+    "hours": "",
+    "lat": 36.15942,
+    "lng": -115.1329117,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-171263",
     "name": "Mt. Liberty Missionary Baptist Church",
     "category": "Food",
@@ -150,25 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-222493",
-    "name": "Changing Direction Outreach Ministry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1431 E. Charleston Blvd suite 17",
-    "city": "Las Vegas",
-    "state": "NV",
-    "zip": "89104",
-    "phone": "(702) 444-6862",
-    "hours": "",
-    "lat": 36.15942,
-    "lng": -115.1329117,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-150525",

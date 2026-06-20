@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-216989",
+    "name": "The Salvation Army - McCallie Ave Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 McCallie Ave",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37403",
+    "phone": "(423) 756-1023",
+    "hours": "",
+    "lat": 35.0476,
+    "lng": -85.29448,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-212535",
     "name": "Wauhatchie United Methodist Church",
     "category": "Food",
@@ -38,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-216989",
-    "name": "The Salvation Army - McCallie Ave Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "800 McCallie Ave",
-    "city": "Chattanooga",
-    "state": "TN",
-    "zip": "37403",
-    "phone": "(423) 756-1023",
-    "hours": "",
-    "lat": 35.0476,
-    "lng": -85.29448,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-174741",
     "name": "The Bethlehem Center's Partnership Pantry",
     "category": "Food",
@@ -74,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226369",
+    "name": "Chattanooga Diaper Hub",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Chattanooga, TN",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37401",
+    "phone": "",
+    "hours": "",
+    "lat": 35.03852,
+    "lng": -85.30885,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-181005",
@@ -131,25 +150,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-226369",
-    "name": "Chattanooga Diaper Hub",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Chattanooga, TN",
-    "city": "Chattanooga",
-    "state": "TN",
-    "zip": "37401",
-    "phone": "",
-    "hours": "",
-    "lat": 35.03852,
-    "lng": -85.30885,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-181077",

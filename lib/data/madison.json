@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-200865",
-    "name": "Saint Mark's Lutheran Church - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located at Saint Mark's Lutheran Church in Madison.",
-    "address": "605 Spruce St",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53715",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0526336,
-    "lng": -89.39257889999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-220266",
     "name": "Madison Food Not Bombs",
     "category": "Food",
@@ -150,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-200865",
+    "name": "Saint Mark's Lutheran Church - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located at Saint Mark's Lutheran Church in Madison.",
+    "address": "605 Spruce St",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53715",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0526336,
+    "lng": -89.39257889999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-175573",

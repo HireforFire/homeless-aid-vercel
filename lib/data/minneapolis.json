@@ -1,100 +1,5 @@
 [
   {
-    "id": "fa-176691",
-    "name": "Sharing and Caring Hands",
-    "category": "Food",
-    "description": "Main facility providing free meal services",
-    "address": "525 North 7th Street",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55405",
-    "phone": "",
-    "hours": "",
-    "lat": 44.983155664514,
-    "lng": -93.282451142223,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177904",
-    "name": "Mill City Farmers Market",
-    "category": "Food",
-    "description": "Winter Farmers Market location",
-    "address": "704 South 2nd Street",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55401",
-    "phone": "",
-    "hours": "",
-    "lat": 44.978705921666,
-    "lng": -93.25732504635,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-199018",
-    "name": "Sharing & Caring Hands - 525 North 7th St",
-    "category": "Food",
-    "description": "Main location for food shelf and meal services in Minneapolis.",
-    "address": "525 North 7th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55405",
-    "phone": "",
-    "hours": "",
-    "lat": 44.9833027,
-    "lng": -93.2825953,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-211153",
-    "name": "Working Partnerships - Minneapolis Office",
-    "category": "Food",
-    "description": "Main office location for Working Partnerships employment and support services.",
-    "address": "312 Central Avenue SE",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55414",
-    "phone": "",
-    "hours": "",
-    "lat": 44.9869205,
-    "lng": -93.2543919,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214634",
-    "name": "P.U.C. Brian Coyle Center Food Shelf",
-    "category": "Food",
-    "description": "Food shelf location at the Brian Coyle Center in Minneapolis.",
-    "address": "420 15th Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55454",
-    "phone": "",
-    "hours": "",
-    "lat": 44.9707032,
-    "lng": -93.2506039,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-576947",
     "name": "Community Emergency Service",
     "category": "Food",
@@ -207,6 +112,101 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-176691",
+    "name": "Sharing and Caring Hands",
+    "category": "Food",
+    "description": "Main facility providing free meal services",
+    "address": "525 North 7th Street",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55405",
+    "phone": "",
+    "hours": "",
+    "lat": 44.983155664514,
+    "lng": -93.282451142223,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177904",
+    "name": "Mill City Farmers Market",
+    "category": "Food",
+    "description": "Winter Farmers Market location",
+    "address": "704 South 2nd Street",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55401",
+    "phone": "",
+    "hours": "",
+    "lat": 44.978705921666,
+    "lng": -93.25732504635,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199018",
+    "name": "Sharing & Caring Hands - 525 North 7th St",
+    "category": "Food",
+    "description": "Main location for food shelf and meal services in Minneapolis.",
+    "address": "525 North 7th St",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55405",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9833027,
+    "lng": -93.2825953,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211153",
+    "name": "Working Partnerships - Minneapolis Office",
+    "category": "Food",
+    "description": "Main office location for Working Partnerships employment and support services.",
+    "address": "312 Central Avenue SE",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55414",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9869205,
+    "lng": -93.2543919,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214634",
+    "name": "P.U.C. Brian Coyle Center Food Shelf",
+    "category": "Food",
+    "description": "Food shelf location at the Brian Coyle Center in Minneapolis.",
+    "address": "420 15th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55454",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9707032,
+    "lng": -93.2506039,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-176279",

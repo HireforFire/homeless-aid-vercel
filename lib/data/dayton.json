@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-185732",
-    "name": "Expressions of Life, Inc.",
-    "category": "Food",
-    "description": "Food pantry location at 160 Salem Avenue in Dayton, Ohio.",
-    "address": "160 Salem Avenue",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "45417",
-    "phone": "",
-    "hours": "",
-    "lat": 39.76373,
-    "lng": -84.206834,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-130542",
     "name": "City Day Community School",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-185732",
+    "name": "Expressions of Life, Inc.",
+    "category": "Food",
+    "description": "Food pantry location at 160 Salem Avenue in Dayton, Ohio.",
+    "address": "160 Salem Avenue",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45417",
+    "phone": "",
+    "hours": "",
+    "lat": 39.76373,
+    "lng": -84.206834,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-181213",

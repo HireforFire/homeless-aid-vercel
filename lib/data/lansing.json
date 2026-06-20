@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-189774",
-    "name": "The Salvation Army - Lansing Distribution Center",
+    "id": "fa-129624",
+    "name": "El-Hajj Malik El-Shabazz Academy",
     "category": "Food",
-    "description": "Main distribution center location for The Salvation Army in Lansing.",
-    "address": "3305 S Pennsylvania Ave",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1028 WEST BARNES AVE",
+    "city": "LANSING",
+    "state": "MI",
+    "zip": "48910",
+    "phone": "(517) 267-8474",
+    "hours": "",
+    "lat": 42.715535,
+    "lng": -84.566679,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-224591",
+    "name": "Bethlehem Temple Bread House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1518 S. Washington",
     "city": "Lansing",
     "state": "MI",
     "zip": "48910",
-    "phone": "",
+    "phone": "(517) 485-4209",
     "hours": "",
-    "lat": 42.6983849,
-    "lng": -84.5375045,
+    "lat": 42.7164078,
+    "lng": -84.5535202,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200700",
-    "name": "Give or Take Center",
-    "category": "Food",
-    "description": "Give or Take Center located in East Lansing, Michigan",
-    "address": "1460 Middlevale Rd. Suite 54",
-    "city": "East Lansing",
-    "state": "MI",
-    "zip": "48823",
-    "phone": "",
-    "hours": "",
-    "lat": 42.717372,
-    "lng": -84.499104,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-lansing-shelter",

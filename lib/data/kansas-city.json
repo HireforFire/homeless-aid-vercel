@@ -95,25 +95,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-213547",
-    "name": "Central Presbyterian Church",
-    "category": "Food",
-    "description": "Central Presbyterian Church food pantry location",
-    "address": "3501 Campbell St",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64109",
-    "phone": "",
-    "hours": "",
-    "lat": 39.062979299999995,
-    "lng": -94.57377369999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-173756",
     "name": "Morning Star Missionary Baptist Church/LINC",
     "category": "Food",
@@ -126,6 +107,44 @@
     "hours": "",
     "lat": 39.0769471,
     "lng": -94.5541616,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-221076",
+    "name": "Heart of America Indian Center d/b/a Kansas City Indian Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "600 W 39th Street",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64111",
+    "phone": "(816) 421-7608",
+    "hours": "",
+    "lat": 39.0570679,
+    "lng": -94.5932922,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-213547",
+    "name": "Central Presbyterian Church",
+    "category": "Food",
+    "description": "Central Presbyterian Church food pantry location",
+    "address": "3501 Campbell St",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64109",
+    "phone": "",
+    "hours": "",
+    "lat": 39.062979299999995,
+    "lng": -94.57377369999999,
     "tags": [
       "food pantry",
       "walk-in"
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 39.105697683574,
     "lng": -94.546384557405,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177769",
-    "name": "Mountaintop Inc",
-    "category": "Food",
-    "description": "Food pantry location",
-    "address": "1700 E Linwood Boulevard",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64109",
-    "phone": "",
-    "hours": "",
-    "lat": 39.0691766837,
-    "lng": -94.562733543367,
     "tags": [
       "food pantry",
       "walk-in"

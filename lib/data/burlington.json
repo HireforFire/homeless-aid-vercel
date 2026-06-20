@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-225446",
+    "name": "Friendly Pantry- Salvation Army Burlington Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "64 Main St",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05402",
+    "phone": "(802) 864-6991",
+    "hours": "",
+    "lat": 44.4760704,
+    "lng": -73.2168427,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-183882",
     "name": "Joint Urban Ministry Project",
     "category": "Food",
@@ -38,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-225446",
-    "name": "Friendly Pantry- Salvation Army Burlington Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "64 Main St",
-    "city": "Burlington",
-    "state": "VT",
-    "zip": "05402",
-    "phone": "(802) 864-6991",
-    "hours": "",
-    "lat": 44.4760704,
-    "lng": -73.2168427,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-14327",
     "name": "Salvation Army Burlington",
     "category": "Food",
@@ -74,63 +74,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-182578",
-    "name": "Winooski Food Shelf",
-    "category": "Food",
-    "description": "Main food distribution location near public transit",
-    "address": "24 West Allen Street",
-    "city": "Winooski",
-    "state": "VT",
-    "zip": "05404",
-    "phone": "",
-    "hours": "",
-    "lat": 44.49569,
-    "lng": -73.19344,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200619",
-    "name": "Heineberg Community Senior Center - North End Food Pantry",
-    "category": "Food",
-    "description": "North End Food Pantry location at Heineberg Community Senior Center. Handicapped accessible.",
-    "address": "14 Heineberg Rd.",
-    "city": "Burlington",
-    "state": "VT",
-    "zip": "05401",
-    "phone": "",
-    "hours": "",
-    "lat": 44.5101166,
-    "lng": -73.2479883,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-212505",
-    "name": "Hunger Free Vermont - South Burlington",
-    "category": "Food",
-    "description": "Main office location of Hunger Free Vermont",
-    "address": "38 Eastwood Dr",
-    "city": "South Burlington",
-    "state": "VT",
-    "zip": "05403",
-    "phone": "",
-    "hours": "",
-    "lat": 44.4499413,
-    "lng": -73.2031128,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-14329",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2025-01-01"
+  },
+  {
+    "id": "fa-182578",
+    "name": "Winooski Food Shelf",
+    "category": "Food",
+    "description": "Main food distribution location near public transit",
+    "address": "24 West Allen Street",
+    "city": "Winooski",
+    "state": "VT",
+    "zip": "05404",
+    "phone": "",
+    "hours": "",
+    "lat": 44.49569,
+    "lng": -73.19344,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200619",
+    "name": "Heineberg Community Senior Center - North End Food Pantry",
+    "category": "Food",
+    "description": "North End Food Pantry location at Heineberg Community Senior Center. Handicapped accessible.",
+    "address": "14 Heineberg Rd.",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "",
+    "hours": "",
+    "lat": 44.5101166,
+    "lng": -73.2479883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212505",
+    "name": "Hunger Free Vermont - South Burlington",
+    "category": "Food",
+    "description": "Main office location of Hunger Free Vermont",
+    "address": "38 Eastwood Dr",
+    "city": "South Burlington",
+    "state": "VT",
+    "zip": "05403",
+    "phone": "",
+    "hours": "",
+    "lat": 44.4499413,
+    "lng": -73.2031128,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-burlington-shelter",

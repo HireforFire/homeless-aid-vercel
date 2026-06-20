@@ -133,44 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-193589",
-    "name": "Families Forward Bidwell Pantry",
-    "category": "Food",
-    "description": "Food Bank of Iowa member pantry location in Des Moines",
-    "address": "1203 Hartford Ave",
-    "city": "Des Moines",
-    "state": "IA",
-    "zip": "50315",
-    "phone": "",
-    "hours": "",
-    "lat": 41.5694962,
-    "lng": -93.5980629,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200660",
-    "name": "St. Vincent de Paul - North",
-    "category": "Food",
-    "description": "Food pantry location in Des Moines",
-    "address": "1426 6th Ave",
-    "city": "Des Moines",
-    "state": "IA",
-    "zip": "50314",
-    "phone": "",
-    "hours": "",
-    "lat": 41.6049929,
-    "lng": -93.6261735,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-4469",
     "name": "Central Iowa Shelter and Services",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-217224",
+    "name": "The Salvation Army - Se 14Th St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "4620 SE 14th St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50315",
+    "phone": "(515) 953-7451",
+    "hours": "",
+    "lat": 41.5449,
+    "lng": -93.62063,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-576726",
+    "name": "MovetheFood - Food Distribution Center",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1435 Mulberry Street",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5828913,
+    "lng": -93.6354325,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fallback-des-moines-shelter",

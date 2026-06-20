@@ -114,63 +114,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-182092",
-    "name": "Fort Lauderdale Seventh-Day Adventist Church",
-    "category": "Food",
-    "description": "Food pantry located at the eastern side of the church building.",
-    "address": "850 SW 12th St.",
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "zip": "33315",
-    "phone": "",
-    "hours": "",
-    "lat": 26.1066732,
-    "lng": -80.1515664,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-187247",
-    "name": "Prevention Central",
-    "category": "Food",
-    "description": "Prevention Central food distribution location",
-    "address": "1100 W Sunrise Blvd",
-    "city": "Ft. Lauderdale",
-    "state": "FL",
-    "zip": "33311",
-    "phone": "",
-    "hours": "",
-    "lat": 26.1356488,
-    "lng": -80.156857,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-210015",
-    "name": "Arthur Hall Memorial",
-    "category": "Food",
-    "description": "Food distribution location operated as part of Feeding South Florida network",
-    "address": "744 NW 12th Ave.",
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "zip": "33311",
-    "phone": "",
-    "hours": "",
-    "lat": 26.132743,
-    "lng": -80.1571187,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-248",
     "name": "Cooperative Feeding Program",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225531",
+    "name": "Greater Love Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1218 NW 13th ct",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33311",
+    "phone": "(954) 678-8925",
+    "hours": "",
+    "lat": 26.1423721,
+    "lng": -80.158783,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-182092",
+    "name": "Fort Lauderdale Seventh-Day Adventist Church",
+    "category": "Food",
+    "description": "Food pantry located at the eastern side of the church building.",
+    "address": "850 SW 12th St.",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33315",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1066732,
+    "lng": -80.1515664,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187247",
+    "name": "Prevention Central",
+    "category": "Food",
+    "description": "Prevention Central food distribution location",
+    "address": "1100 W Sunrise Blvd",
+    "city": "Ft. Lauderdale",
+    "state": "FL",
+    "zip": "33311",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1356488,
+    "lng": -80.156857,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-fort-lauderdale-shelter",

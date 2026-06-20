@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-178047",
-    "name": "Wade Harris Outreach Ministries",
+    "id": "fa-218837",
+    "name": "The Salvation Army - Bill Frey Dr Ne",
     "category": "Food",
-    "description": "Food distribution location for Wade Harris Outreach Ministries",
-    "address": "865 Medical Center Drive NE",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1865 Bill Frey Dr. N.E.",
     "city": "Salem",
     "state": "OR",
     "zip": "97301",
-    "phone": "",
+    "phone": "(503) 566-5762",
     "hours": "",
-    "lat": 44.94293401248,
-    "lng": -123.007766354367,
+    "lat": 44.94948,
+    "lng": -123.00439,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-salem-or-shelter",

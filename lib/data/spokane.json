@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-192501",
-    "name": "City Gate Fellowship",
-    "category": "Food",
-    "description": "City Gate Fellowship food distribution location",
-    "address": "170 S Madison St",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99201",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6548297,
-    "lng": -117.4282556,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-131309",
     "name": "Spokane School District",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-192501",
+    "name": "City Gate Fellowship",
+    "category": "Food",
+    "description": "City Gate Fellowship food distribution location",
+    "address": "170 S Madison St",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99201",
+    "phone": "",
+    "hours": "",
+    "lat": 47.6548297,
+    "lng": -117.4282556,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-184033",
@@ -107,63 +107,6 @@
     "hours": "",
     "lat": 47.670551499999995,
     "lng": -117.41688979999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-178922",
-    "name": "Mending Fences Fellowship",
-    "category": "Food",
-    "description": "Food pantry location",
-    "address": "1906 E Sprague Ave",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99202",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6570183,
-    "lng": -117.3824993,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-193157",
-    "name": "Dr. Martin Luther King Jr. Food Bank",
-    "category": "Food",
-    "description": "Main food pantry location in Spokane",
-    "address": "500 S Stone St",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99202",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6513274,
-    "lng": -117.3777413,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-211567",
-    "name": "St. Ann's Catholic Church",
-    "category": "Food",
-    "description": "St. Ann's Sunday Lunch distribution location",
-    "address": "2120 E 1st Ave",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99202",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6560016,
-    "lng": -117.3784288,
     "tags": [
       "food pantry",
       "walk-in"
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218625",
+    "name": "The Salvation Army - E Nora",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "127 E. Nora",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99207",
+    "phone": "(509) 326-7290",
+    "hours": "",
+    "lat": 47.68941,
+    "lng": -117.38911,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219222",
+    "name": "Fourth Memorial Gleaners Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2000 N. Standard",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99207",
+    "phone": "(509) 209-0755",
+    "hours": "",
+    "lat": 47.6760712,
+    "lng": -117.400589,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-178922",
+    "name": "Mending Fences Fellowship",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "1906 E Sprague Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "",
+    "hours": "",
+    "lat": 47.6570183,
+    "lng": -117.3824993,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-spokane-shelter",

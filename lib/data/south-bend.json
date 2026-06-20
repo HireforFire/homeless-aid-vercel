@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-182777",
-    "name": "Hope Ministries - South Bend",
-    "category": "Food",
-    "description": "Hope Ministries location in South Bend, Indiana",
-    "address": "432 S Lafayette Blvd",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "46601",
-    "phone": "",
-    "hours": "",
-    "lat": 41.671150399999995,
-    "lng": -86.2530665,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-128961",
     "name": "South Bend Community School Corp",
     "category": "Food",
@@ -131,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-182777",
+    "name": "Hope Ministries - South Bend",
+    "category": "Food",
+    "description": "Hope Ministries location in South Bend, Indiana",
+    "address": "432 S Lafayette Blvd",
+    "city": "South Bend",
+    "state": "IN",
+    "zip": "46601",
+    "phone": "",
+    "hours": "",
+    "lat": 41.671150399999995,
+    "lng": -86.2530665,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-886",

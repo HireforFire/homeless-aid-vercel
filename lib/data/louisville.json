@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-210240",
-    "name": "Franciscan Kitchen",
-    "category": "Food",
-    "description": "Franciscan Kitchen lunch program location",
-    "address": "748 S. Prestion St.",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40203",
-    "phone": "",
-    "hours": "",
-    "lat": 38.243301,
-    "lng": -85.7481781,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-217750",
     "name": "The Salvation Army - S Brook St Corps",
     "category": "Food",
@@ -114,6 +95,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-210240",
+    "name": "Franciscan Kitchen",
+    "category": "Food",
+    "description": "Franciscan Kitchen lunch program location",
+    "address": "748 S. Prestion St.",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "",
+    "hours": "",
+    "lat": 38.243301,
+    "lng": -85.7481781,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-179025",
     "name": "Wayside Christian Mission - Main Location",
     "category": "Food",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-193251",
-    "name": "West End Baptist Church",
+    "id": "fa-5743",
+    "name": "Dare To Care Food Bank at First Lutheran Church",
     "category": "Food",
-    "description": "Food distribution location at West End Baptist Church",
-    "address": "1400 South Fourth Street",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "417 E Broadway",
     "city": "Louisville",
     "state": "KY",
-    "zip": "40208",
-    "phone": "",
+    "zip": "40202",
+    "phone": "(502) 584-4926",
     "hours": "",
-    "lat": 38.2288776,
-    "lng": -85.7618182,
+    "lat": 38.25288,
+    "lng": -85.75205,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-201501",
-    "name": "Centennial Olivet Baptist Church",
+    "id": "fa-5746",
+    "name": "Hands of God Outreach Ministry",
     "category": "Food",
-    "description": "Food pantry location at Centennial Olivet Baptist Church",
-    "address": "1541 B W. Oak St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1942 Magazine Street",
     "city": "Louisville",
     "state": "KY",
-    "zip": "40210",
-    "phone": "",
+    "zip": "40203",
+    "phone": "(502) 776-7173",
     "hours": "",
-    "lat": 38.2371934,
-    "lng": -85.7802398,
+    "lat": 38.24722,
+    "lng": -85.765,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-louisville-shelter",

@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-187695",
-    "name": "Raleigh Rescue Mission",
-    "category": "Food",
-    "description": "Downtown Raleigh location providing 24/7 food assistance",
-    "address": "314 East Hargett Street",
-    "city": "Downtown",
-    "state": "NC",
-    "zip": "27601",
-    "phone": "",
-    "hours": "",
-    "lat": 35.7778233,
-    "lng": -78.6342883,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-577013",
     "name": "Wake Relief",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-187695",
+    "name": "Raleigh Rescue Mission",
+    "category": "Food",
+    "description": "Downtown Raleigh location providing 24/7 food assistance",
+    "address": "314 East Hargett Street",
+    "city": "Downtown",
+    "state": "NC",
+    "zip": "27601",
+    "phone": "",
+    "hours": "",
+    "lat": 35.7778233,
+    "lng": -78.6342883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-176937",

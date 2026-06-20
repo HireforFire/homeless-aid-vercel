@@ -1,81 +1,5 @@
 [
   {
-    "id": "fa-180351",
-    "name": "New Beginnings Family Services - San Jose",
-    "category": "Food",
-    "description": "Main food distribution location in San Jose.",
-    "address": "441 Park Ave",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95110",
-    "phone": "",
-    "hours": "",
-    "lat": 37.3283541,
-    "lng": -121.8979942,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-192517",
-    "name": "African American Community Services",
-    "category": "Food",
-    "description": "Food distribution location at 304 North 6th Street, San Jose.",
-    "address": "304 North 6th Street",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95112",
-    "phone": "",
-    "hours": "",
-    "lat": 37.3434135,
-    "lng": -121.8883905,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-193123",
-    "name": "Front Door Communities - South Tenth Street",
-    "category": "Food",
-    "description": "Main distribution location for ready-to-eat meals",
-    "address": "405 South Tenth Street",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95112",
-    "phone": "",
-    "hours": "",
-    "lat": 37.3338114,
-    "lng": -121.8777551,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-215398",
-    "name": "The Salvation Army - San Jose",
-    "category": "Food",
-    "description": "Food distribution site offering free groceries through drive-thru and walk-up service.",
-    "address": "359 N. 4th Street",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95112",
-    "phone": "",
-    "hours": "",
-    "lat": 37.343224,
-    "lng": -121.892192,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-219680",
     "name": "First Christian Church",
     "category": "Food",
@@ -169,6 +93,82 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-180351",
+    "name": "New Beginnings Family Services - San Jose",
+    "category": "Food",
+    "description": "Main food distribution location in San Jose.",
+    "address": "441 Park Ave",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95110",
+    "phone": "",
+    "hours": "",
+    "lat": 37.3283541,
+    "lng": -121.8979942,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192517",
+    "name": "African American Community Services",
+    "category": "Food",
+    "description": "Food distribution location at 304 North 6th Street, San Jose.",
+    "address": "304 North 6th Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "",
+    "hours": "",
+    "lat": 37.3434135,
+    "lng": -121.8883905,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193123",
+    "name": "Front Door Communities - South Tenth Street",
+    "category": "Food",
+    "description": "Main distribution location for ready-to-eat meals",
+    "address": "405 South Tenth Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "",
+    "hours": "",
+    "lat": 37.3338114,
+    "lng": -121.8777551,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-215398",
+    "name": "The Salvation Army - San Jose",
+    "category": "Food",
+    "description": "Food distribution site offering free groceries through drive-thru and walk-up service.",
+    "address": "359 N. 4th Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "",
+    "hours": "",
+    "lat": 37.343224,
+    "lng": -121.892192,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-205209",

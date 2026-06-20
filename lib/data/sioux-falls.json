@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-176382",
-    "name": "Feeding SD at Faith Lutheran Church",
+    "id": "fa-130579",
+    "name": "SIOUX FALLS SCHOOL DISTRICT 49-5",
     "category": "Food",
-    "description": "Mobile food distribution site at Faith Lutheran Church",
-    "address": "601 N Cliff Ave.",
-    "city": "Sioux Falls",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "201 EAST 38TH ST",
+    "city": "SIOUX FALLS",
     "state": "SD",
-    "zip": "57103",
-    "phone": "",
+    "zip": "57104",
+    "phone": "(605) 367-7900",
     "hours": "",
-    "lat": 43.554349124224,
-    "lng": -96.712297758419,
+    "lat": 43.517575,
+    "lng": -96.725228,
     "tags": [
-      "mobile pantry",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fallback-sioux-falls-shelter",

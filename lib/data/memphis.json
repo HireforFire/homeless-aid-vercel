@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-216762",
+    "name": "The Salvation Army - Jackson Ave Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "696 Jackson Ave",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38105",
+    "phone": "(901) 365-6128",
+    "hours": "",
+    "lat": 35.1512,
+    "lng": -90.03541,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-174990",
     "name": "St. Mary's Catholic Church",
     "category": "Food",
@@ -76,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-216762",
-    "name": "The Salvation Army - Jackson Ave Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "696 Jackson Ave",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38105",
-    "phone": "(901) 365-6128",
-    "hours": "",
-    "lat": 35.1512,
-    "lng": -90.03541,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-197596",
     "name": "Constance Abbey Inc.",
     "category": "Food",
@@ -107,82 +107,6 @@
     "hours": "",
     "lat": 35.1476219,
     "lng": -90.0388092,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-179192",
-    "name": "Grace-St. Luke's Episcopal Church",
-    "category": "Food",
-    "description": "Main location of Grace-St. Luke's Episcopal Church providing food pantry and prepared meal services.",
-    "address": "1720 Peabody Ave.",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38104",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1331523,
-    "lng": -90.0044444,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-201843",
-    "name": "St. John Baptist Church",
-    "category": "Food",
-    "description": "St. John Baptist Church food pantry distribution location",
-    "address": "640 Vance Ave.",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38126",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1348302,
-    "lng": -90.040432,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-206818",
-    "name": "MIFA Food Pantry Vouchers Office",
-    "category": "Food",
-    "description": "MIFA office location providing food pantry voucher services",
-    "address": "910 Vance Avenue",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38216",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1345234,
-    "lng": -90.0315594,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-209023",
-    "name": "Society of St. Vincent de Paul - Memphis",
-    "category": "Food",
-    "description": "Main location for prepared meal distribution services.",
-    "address": "1306 Monroe Ave.",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38104",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1381696,
-    "lng": -90.0177413,
     "tags": [
       "food pantry",
       "walk-in"
@@ -226,6 +150,82 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220720",
+    "name": "El Shaddai Mission Outreach",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "992 Thomas St",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38107",
+    "phone": "(901) 287-1715",
+    "hours": "",
+    "lat": 35.1684151,
+    "lng": -90.0357285,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223558",
+    "name": "Nancy Fletcher Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "43 North Cleveland Street",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104",
+    "phone": "(901) 272-0855",
+    "hours": "",
+    "lat": 35.1401634,
+    "lng": -90.0163727,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224287",
+    "name": "Fishes & Loaves",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "494 S. Parkaway E",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38106",
+    "phone": "(901) 948-9786",
+    "hours": "",
+    "lat": 35.1076736,
+    "lng": -90.0460968,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-179192",
+    "name": "Grace-St. Luke's Episcopal Church",
+    "category": "Food",
+    "description": "Main location of Grace-St. Luke's Episcopal Church providing food pantry and prepared meal services.",
+    "address": "1720 Peabody Ave.",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1331523,
+    "lng": -90.0044444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-memphis-shelter",

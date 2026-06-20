@@ -133,44 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-170948",
-    "name": "The Salvation Army - Helena Corps",
-    "category": "Food",
-    "description": "Food pantry location in Helena, Montana. Handicapped accessible facility.",
-    "address": "1905 Henderson St",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "59601",
-    "phone": "",
-    "hours": "",
-    "lat": 46.6078894,
-    "lng": -112.05123,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-171208",
-    "name": "Office of Public Assistance- Helena",
-    "category": "Food",
-    "description": "Montana Office of Public Assistance location providing SNAP application assistance",
-    "address": "111 N. Sanders Avenue Room 109",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "59601",
-    "phone": "",
-    "hours": "",
-    "lat": 46.5855985,
-    "lng": -112.0141122,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-8522",
     "name": "The Salvation Army of Helena",
     "category": "Food",
@@ -207,6 +169,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-170948",
+    "name": "The Salvation Army - Helena Corps",
+    "category": "Food",
+    "description": "Food pantry location in Helena, Montana. Handicapped accessible facility.",
+    "address": "1905 Henderson St",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "59601",
+    "phone": "",
+    "hours": "",
+    "lat": 46.6078894,
+    "lng": -112.05123,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171208",
+    "name": "Office of Public Assistance- Helena",
+    "category": "Food",
+    "description": "Montana Office of Public Assistance location providing SNAP application assistance",
+    "address": "111 N. Sanders Avenue Room 109",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "59601",
+    "phone": "",
+    "hours": "",
+    "lat": 46.5855985,
+    "lng": -112.0141122,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-171109",

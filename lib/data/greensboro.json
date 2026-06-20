@@ -76,6 +76,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-225672",
+    "name": "Positive Direction for Youth and Families, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1523 Barto Place Suite E",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27405",
+    "phone": "(336) 273-8895",
+    "hours": "",
+    "lat": 36.0967293,
+    "lng": -79.7512512,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-177703",
     "name": "Mount Zion Baptist Church",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 36.0985692,
     "lng": -79.7624232,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-212472",
-    "name": "Bread of Life Food Pantry - Greensboro",
-    "category": "Food",
-    "description": "Food pantry location in Greensboro",
-    "address": "1606 Phillips Avenue",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "27405",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0985649,
-    "lng": -79.7625491,
     "tags": [
       "food pantry",
       "walk-in"

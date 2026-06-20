@@ -1,62 +1,5 @@
 [
   {
-    "id": "fa-186573",
-    "name": "Hissom Inner City Mission",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "1305 Penn Avenue",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25302",
-    "phone": "",
-    "hours": "",
-    "lat": 38.35997,
-    "lng": -81.6271,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-186661",
-    "name": "St. Johns Episcopal Church",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "1105 Quarrier Street",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25301",
-    "phone": "",
-    "hours": "",
-    "lat": 38.347028,
-    "lng": -81.631824,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-206349",
-    "name": "Bream Memorial Presbyterian Church",
-    "category": "Food",
-    "description": "Food distribution location at Bream Memorial Presbyterian Church.",
-    "address": "317 Washington St. W",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25302",
-    "phone": "",
-    "hours": "",
-    "lat": 38.3617227,
-    "lng": -81.6416388,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-222708",
     "name": "The Salvation Army",
     "category": "Food",
@@ -114,6 +57,63 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-186573",
+    "name": "Hissom Inner City Mission",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1305 Penn Avenue",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25302",
+    "phone": "",
+    "hours": "",
+    "lat": 38.35997,
+    "lng": -81.6271,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186661",
+    "name": "St. Johns Episcopal Church",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "1105 Quarrier Street",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25301",
+    "phone": "",
+    "hours": "",
+    "lat": 38.347028,
+    "lng": -81.631824,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206349",
+    "name": "Bream Memorial Presbyterian Church",
+    "category": "Food",
+    "description": "Food distribution location at Bream Memorial Presbyterian Church.",
+    "address": "317 Washington St. W",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25302",
+    "phone": "",
+    "hours": "",
+    "lat": 38.3617227,
+    "lng": -81.6416388,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-174257",
     "name": "West Side Food Pantry",
     "category": "Food",
@@ -131,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-221550",
+    "name": "Trinity's Table",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1600 Kanawha Blvd",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25311",
+    "phone": "(304) 539-4345",
+    "hours": "",
+    "lat": 38.3377151,
+    "lng": -81.6185303,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-178122",
@@ -188,25 +207,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-221550",
-    "name": "Trinity's Table",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1600 Kanawha Blvd",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25311",
-    "phone": "(304) 539-4345",
-    "hours": "",
-    "lat": 38.3377151,
-    "lng": -81.6185303,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-178747",

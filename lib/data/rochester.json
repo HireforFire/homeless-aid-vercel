@@ -19,6 +19,158 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-130412",
+    "name": "Rochester City SD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "131 WEST BROAD ST",
+    "city": "ROCHESTER",
+    "state": "NY",
+    "zip": "14621",
+    "phone": "(585) 262-8378",
+    "hours": "",
+    "lat": 43.154062,
+    "lng": -77.616123,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-218865",
+    "name": "The Salvation Army - Franklin Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "10 Franklin Street",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14604",
+    "phone": "(585) 987-9500",
+    "hours": "",
+    "lat": 43.1569,
+    "lng": -77.60536,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219420",
+    "name": "Dimitri House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "102 N. Union St.",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14607",
+    "phone": "(585) 325-1796",
+    "hours": "",
+    "lat": 43.1589012,
+    "lng": -77.5948334,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219423",
+    "name": "Alternatives for Battered Woman",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "50 Chestnut St.",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14604",
+    "phone": "(585) 232-7353",
+    "hours": "",
+    "lat": 43.1561203,
+    "lng": -77.6024704,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219434",
+    "name": "Andrew Gibson Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "546 Clarissa Street",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14608",
+    "phone": "(585) 319-1359",
+    "hours": "",
+    "lat": 43.1455383,
+    "lng": -77.6182556,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224563",
+    "name": "The Salvation Army- EFS",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "70 Liberty Pole Way",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14604",
+    "phone": "(585) 987-9540",
+    "hours": "",
+    "lat": 43.1587448,
+    "lng": -77.6038437,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224565",
+    "name": "Third Presbyterian Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "4 Meigs St.",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14617",
+    "phone": "(585) 544-9022",
+    "hours": "",
+    "lat": 43.1537094,
+    "lng": -77.5909195,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225175",
+    "name": "HIP/SHIP",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "175 Ward Street",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14605",
+    "phone": "(585) 402-7416",
+    "hours": "",
+    "lat": 43.1646461,
+    "lng": -77.6082382,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-185849",
     "name": "Beyond the Sanctuary- Memorial AME Zion Church",
     "category": "Food",
@@ -69,158 +221,6 @@
     "hours": "",
     "lat": 43.153539,
     "lng": -77.590331,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-192984",
-    "name": "Baden Street Settlement Emergency",
-    "category": "Food",
-    "description": "Food pantry location on Vienna Street in Rochester, NY",
-    "address": "13 Vienna Street",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "14605",
-    "phone": "",
-    "hours": "",
-    "lat": 43.16917,
-    "lng": -77.60635,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-193055",
-    "name": "Salem Nutrition Center",
-    "category": "Food",
-    "description": "Community meal and soup kitchen location",
-    "address": "60 Bittner Street",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "14604",
-    "phone": "",
-    "hours": "",
-    "lat": 43.161102,
-    "lng": -77.609478,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-196529",
-    "name": "Central Church of Christ SKT",
-    "category": "Food",
-    "description": "Community meal and soup kitchen location",
-    "address": "101 S. Plymouth Ave",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "14608",
-    "phone": "",
-    "hours": "",
-    "lat": 43.15291,
-    "lng": -77.614957,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-199462",
-    "name": "Antioch Missionary Baptist Church",
-    "category": "Food",
-    "description": "Community meal and soup kitchen location",
-    "address": "304 Joseph Avenue",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "14605",
-    "phone": "",
-    "hours": "",
-    "lat": 43.168812,
-    "lng": -77.607097,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-203146",
-    "name": "The Hamilton Apartments",
-    "category": "Food",
-    "description": "Food distribution site at The Hamilton Apartments in Rochester, NY.",
-    "address": "185 Mt. Hope Ave",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "14620",
-    "phone": "",
-    "hours": "",
-    "lat": 43.1457565,
-    "lng": -77.6103812,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-203650",
-    "name": "James Dobson Apartments",
-    "category": "Food",
-    "description": "Food distribution location at James Dobson Apartments in front of main building.",
-    "address": "150 Van Auker St",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "14608",
-    "phone": "",
-    "hours": "",
-    "lat": 43.149935,
-    "lng": -77.6211693,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-204180",
-    "name": "Food for the Soul/Chestnut Cafe",
-    "category": "Food",
-    "description": "Community meal and soup kitchen location",
-    "address": "111 North Chestnut Street",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "14604",
-    "phone": "",
-    "hours": "",
-    "lat": 43.159258,
-    "lng": -77.603276,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-204723",
-    "name": "Refugees Helping Refugees",
-    "category": "Food",
-    "description": "Food distribution location operated by Refugees Helping Refugees in partnership with Foodlink, Inc.",
-    "address": "228 S Plymouth Ave",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "14608",
-    "phone": "",
-    "hours": "",
-    "lat": 43.1505162,
-    "lng": -77.6134859,
     "tags": [
       "food pantry",
       "walk-in"

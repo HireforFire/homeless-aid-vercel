@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-181528",
-    "name": "Ebenezer Spanish SDA Church",
+    "id": "fa-217978",
+    "name": "The Salvation Army - E Abram St",
     "category": "Food",
-    "description": "Food pantry location at Ebenezer Spanish SDA Church in Arlington, Texas.",
-    "address": "133 Luttrell St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1301 E Abram St",
     "city": "Arlington",
     "state": "TX",
     "zip": "76010",
-    "phone": "",
+    "phone": "(817) 834-0322",
     "hours": "",
-    "lat": 32.7361725,
-    "lng": -97.0862789,
+    "lat": 32.72271,
+    "lng": -97.08065,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-arlington-tx-shelter",

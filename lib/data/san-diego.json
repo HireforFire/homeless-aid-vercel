@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-191011",
-    "name": "San Diego Rescue Mission",
-    "category": "Food",
-    "description": "Main food distribution location",
-    "address": "120 Elm Street",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7243519,
-    "lng": -117.163483,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218915",
     "name": "Ladle Fellowship",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-191011",
+    "name": "San Diego Rescue Mission",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "120 Elm Street",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7243519,
+    "lng": -117.163483,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-432",

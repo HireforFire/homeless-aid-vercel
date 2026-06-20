@@ -1,81 +1,5 @@
 [
   {
-    "id": "fa-185513",
-    "name": "Table Of Hope - Wichita",
-    "category": "Food",
-    "description": "Main location for Table Of Hope food distribution services",
-    "address": "156 S Kansas St",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67211",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6846958,
-    "lng": -97.3157562,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-198582",
-    "name": "United Methodist Open Door",
-    "category": "Food",
-    "description": "Food pantry location at 402 E 2nd St N, Wichita, Kansas.",
-    "address": "402 E 2nd St N",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67202",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6899765,
-    "lng": -97.33402099999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200121",
-    "name": "Baptist Homeless Ministries",
-    "category": "Food",
-    "description": "Food distribution location for Baptist Homeless Ministries",
-    "address": "417 S. Hydraulic Avenue",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67201",
-    "phone": "",
-    "hours": "",
-    "lat": 37.680326,
-    "lng": -97.317564,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-207117",
-    "name": "Living Water Ministry",
-    "category": "Food",
-    "description": "Living Water Ministry food distribution location",
-    "address": "1400 Kellogg Dr",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67211",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6792391,
-    "lng": -97.3208073,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-129103",
     "name": "Wichita",
     "category": "Food",
@@ -169,6 +93,82 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-185513",
+    "name": "Table Of Hope - Wichita",
+    "category": "Food",
+    "description": "Main location for Table Of Hope food distribution services",
+    "address": "156 S Kansas St",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67211",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6846958,
+    "lng": -97.3157562,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198582",
+    "name": "United Methodist Open Door",
+    "category": "Food",
+    "description": "Food pantry location at 402 E 2nd St N, Wichita, Kansas.",
+    "address": "402 E 2nd St N",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67202",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6899765,
+    "lng": -97.33402099999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200121",
+    "name": "Baptist Homeless Ministries",
+    "category": "Food",
+    "description": "Food distribution location for Baptist Homeless Ministries",
+    "address": "417 S. Hydraulic Avenue",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67201",
+    "phone": "",
+    "hours": "",
+    "lat": 37.680326,
+    "lng": -97.317564,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207117",
+    "name": "Living Water Ministry",
+    "category": "Food",
+    "description": "Living Water Ministry food distribution location",
+    "address": "1400 Kellogg Dr",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67211",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6792391,
+    "lng": -97.3208073,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-191073",

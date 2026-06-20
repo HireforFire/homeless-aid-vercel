@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-214189",
-    "name": "The Salvation Army - Montgomery",
-    "category": "Food",
-    "description": "The Salvation Army location providing food pantry and soup kitchen services.",
-    "address": "3460 Carter Hill Rd.",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36111",
-    "phone": "",
-    "hours": "",
-    "lat": 32.3787742,
-    "lng": -86.3266235,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-845",
     "name": "Salvation Army - Montgomery",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-214189",
+    "name": "The Salvation Army - Montgomery",
+    "category": "Food",
+    "description": "The Salvation Army location providing food pantry and soup kitchen services.",
+    "address": "3460 Carter Hill Rd.",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36111",
+    "phone": "",
+    "hours": "",
+    "lat": 32.3787742,
+    "lng": -86.3266235,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-181515",

@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-197078",
-    "name": "Volunteers of America Youth Resource Center",
-    "category": "Food",
-    "description": "Youth Resource Center providing meal services for homeless and at-risk youth. Handicapped accessible.",
-    "address": "888 S. 400 W.",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84101",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7500854,
-    "lng": -111.9031027,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-131019",
     "name": "ALIANZA ACADEMY",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-197078",
+    "name": "Volunteers of America Youth Resource Center",
+    "category": "Food",
+    "description": "Youth Resource Center providing meal services for homeless and at-risk youth. Handicapped accessible.",
+    "address": "888 S. 400 W.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7500854,
+    "lng": -111.9031027,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-189173",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-182762",
-    "name": "Tenth East Senior Center",
+    "id": "fa-13897",
+    "name": "Rescue Mission Of Salt Lake",
     "category": "Food",
-    "description": "Senior meal site serving lunch to seniors 60 years and older. Handicapped accessible facility.",
-    "address": "237 S. 1000 E.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "463 South 400 West",
     "city": "Salt Lake City",
     "state": "UT",
-    "zip": "84102",
-    "phone": "",
+    "zip": "84101",
+    "phone": "(801) 355-1302",
     "hours": "",
-    "lat": 40.7639553,
-    "lng": -111.8618424,
+    "lat": 40.75628,
+    "lng": -111.89996,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-184203",
-    "name": "St. Paul's Episcopal Church Food Pantry",
+    "id": "fa-13899",
+    "name": "CCS Salt Lake City",
     "category": "Food",
-    "description": "Food pantry location at St. Paul's Episcopal Church",
-    "address": "261 S 900 E",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "437 W. 200 S.",
     "city": "Salt Lake City",
     "state": "UT",
-    "zip": "84102",
-    "phone": "",
+    "zip": "84101",
+    "phone": "(801) 363-7710",
     "hours": "",
-    "lat": 40.7634864,
-    "lng": -111.8653408,
+    "lat": 40.75628,
+    "lng": -111.89996,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-salt-lake-city-shelter",

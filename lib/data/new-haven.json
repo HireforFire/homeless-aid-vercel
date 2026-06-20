@@ -1,5 +1,62 @@
 [
   {
+    "id": "fa-128923",
+    "name": "New Haven School Lunch",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "140 DEWITT ST",
+    "city": "NEW HAVEN",
+    "state": "CT",
+    "zip": "06513",
+    "phone": "(203) 946-8888",
+    "hours": "",
+    "lat": 41.295397,
+    "lng": -72.935747,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-220262",
+    "name": "Immanuel Baptist Church Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1324 Chapel Street",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "(203) 777-8744",
+    "hours": "",
+    "lat": 41.3100357,
+    "lng": -72.9390106,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221193",
+    "name": "Ed LeDuc Memorial Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1302 Chapel Street",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "phone": "(203) 624-0947",
+    "hours": "",
+    "lat": 41.3099289,
+    "lng": -72.9382782,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-192312",
     "name": "Women Of the Village Food Pantry",
     "category": "Food",
@@ -112,63 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-128923",
-    "name": "New Haven School Lunch",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "140 DEWITT ST",
-    "city": "NEW HAVEN",
-    "state": "CT",
-    "zip": "06513",
-    "phone": "(203) 946-8888",
-    "hours": "",
-    "lat": 41.295397,
-    "lng": -72.935747,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-220262",
-    "name": "Immanuel Baptist Church Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1324 Chapel Street",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "06511",
-    "phone": "(203) 777-8744",
-    "hours": "",
-    "lat": 41.3100357,
-    "lng": -72.9390106,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-221193",
-    "name": "Ed LeDuc Memorial Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1302 Chapel Street",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "06511",
-    "phone": "(203) 624-0947",
-    "hours": "",
-    "lat": 41.3099289,
-    "lng": -72.9382782,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-3021",

@@ -1,119 +1,5 @@
 [
   {
-    "id": "fa-185052",
-    "name": "Central City Neighborhood Partners - Main Location",
-    "category": "Food",
-    "description": "Food pantry location in Westlake North neighborhood with separate service lines for elderly and disabled individuals.",
-    "address": "501 S. Bixel Street",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90017",
-    "phone": "",
-    "hours": "",
-    "lat": 34.05484199712744,
-    "lng": -118.26168903068718,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-190737",
-    "name": "Emmanuel Baptist Rescue Mission",
-    "category": "Food",
-    "description": "Main location providing free meals service",
-    "address": "530 E. 5th St.",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90013",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0433945,
-    "lng": -118.2431155,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-191109",
-    "name": "Fred Jordan Missions - Main Location",
-    "category": "Food",
-    "description": "Fred Jordan Missions main facility located in Downtown Los Angeles providing hot meals, food bags, snacks, beverages, and clothing/hygiene items.",
-    "address": "445 Towne Avenue",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90013",
-    "phone": "",
-    "hours": "",
-    "lat": 34.043347013203,
-    "lng": -118.241997006462,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-193424",
-    "name": "The Sidewalk Project",
-    "category": "Food",
-    "description": "Gender-specific drop-in center providing food pantry and meal program services. There may be limited access at times.",
-    "address": "768 Stanford Av",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90021",
-    "phone": "",
-    "hours": "",
-    "lat": 34.037228014337,
-    "lng": -118.245870032462,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-201061",
-    "name": "Cardinal Manning Center",
-    "category": "Food",
-    "description": "St. Vincent de Paul's homeless shelter in downtown Los Angeles' Skid Row area offering comprehensive transitional housing program for adult men experiencing homelessness. The program utilizes Housing First and Harm Reduction evidence-based approaches to transition residents off the streets and into housing.",
-    "address": "231 Winston St.",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90013",
-    "phone": "",
-    "hours": "",
-    "lat": 34.046006004347475,
-    "lng": -118.24612500995683,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-211349",
-    "name": "Our Lady Queen of Angels Catholic Church",
-    "category": "Food",
-    "description": "Food pantry distribution location at the church.",
-    "address": "535 N. Main Street",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90012",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0568912,
-    "lng": -118.2393901,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-128589",
     "name": "Los Angeles Unified School District",
     "category": "Food",
@@ -226,6 +112,120 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-169813",
+    "name": "Journey of Love",
+    "category": "Food",
+    "description": "2nd Tuesday 6 pm - 7 pm",
+    "address": "423 S San Pedro",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "(562) 547-9821",
+    "hours": "",
+    "lat": 34.045303,
+    "lng": -118.243532,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-169939",
+    "name": "Open Door Skidrow Ministries",
+    "category": "Food",
+    "description": "Sunday 11 am - 12 pm",
+    "address": "419 E. 6th Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90014",
+    "phone": "(661) 208-2143",
+    "hours": "",
+    "lat": 34.042545,
+    "lng": -118.245461,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-170066",
+    "name": "St. Francis Center- Homeboy Industries",
+    "category": "Food",
+    "description": "Fridays 4/24, 5/8, 6/5, 6/19 10:30 am - 12 pm",
+    "address": "130 W. Bruno St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90012",
+    "phone": "(323) 526-1254",
+    "hours": "",
+    "lat": 34.062388,
+    "lng": -118.2357,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-170106",
+    "name": "The Dream Center",
+    "category": "Food",
+    "description": "Tuesday 10:30 am - 11:30 am",
+    "address": "500 S. Bixel St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90017",
+    "phone": "(213) 273-7029",
+    "hours": "",
+    "lat": 34.054705,
+    "lng": -118.261345,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-185052",
+    "name": "Central City Neighborhood Partners - Main Location",
+    "category": "Food",
+    "description": "Food pantry location in Westlake North neighborhood with separate service lines for elderly and disabled individuals.",
+    "address": "501 S. Bixel Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90017",
+    "phone": "",
+    "hours": "",
+    "lat": 34.05484199712744,
+    "lng": -118.26168903068718,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190737",
+    "name": "Emmanuel Baptist Rescue Mission",
+    "category": "Food",
+    "description": "Main location providing free meals service",
+    "address": "530 E. 5th St.",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0433945,
+    "lng": -118.2431155,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-los-angeles-shelter",

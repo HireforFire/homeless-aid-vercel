@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-130206",
+    "name": "Buffalo City SD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "712 CITY HALL",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip": "14215",
+    "phone": "(716) 816-3575",
+    "hours": "",
+    "lat": 42.886458,
+    "lng": -78.878558,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-223759",
+    "name": "First Shiloh Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "15 Pine Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "(716) 847-6555",
+    "hours": "",
+    "lat": 42.8804512,
+    "lng": -78.8648758,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-192203",
     "name": "EVERGREEN HEALTH SERVICES - Buffalo",
     "category": "Food",
@@ -55,44 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-130206",
-    "name": "Buffalo City SD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "712 CITY HALL",
-    "city": "BUFFALO",
-    "state": "NY",
-    "zip": "14215",
-    "phone": "(716) 816-3575",
-    "hours": "",
-    "lat": 42.886458,
-    "lng": -78.878558,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-223759",
-    "name": "First Shiloh Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "15 Pine Street",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14204",
-    "phone": "(716) 847-6555",
-    "hours": "",
-    "lat": 42.8804512,
-    "lng": -78.8648758,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-190561",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-179659",
-    "name": "B.L.E.S. Food Pantry",
+    "id": "fa-10633",
+    "name": "Los Tainos Seniors Food Pantry",
     "category": "Food",
-    "description": "Food pantry location in Buffalo providing emergency food assistance.",
-    "address": "900 GENESEE STREET",
-    "city": "BUFFALO",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "333 Trenton Avenue",
+    "city": "Buffalo",
     "state": "NY",
-    "zip": "14211",
-    "phone": "",
+    "zip": "14201",
+    "phone": "(716) 842-0172",
     "hours": "",
-    "lat": 42.900688,
-    "lng": -78.844179,
+    "lat": 42.89706,
+    "lng": -78.88752,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-buffalo-shelter",

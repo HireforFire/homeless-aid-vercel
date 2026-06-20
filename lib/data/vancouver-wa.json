@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-223204",
+    "name": "Angels of God Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2410 Grand ave",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98661",
+    "phone": "(360) 936-5197",
+    "hours": "",
+    "lat": 45.6390381,
+    "lng": -122.6417923,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-176823",
     "name": "One Life - Vancouver",
     "category": "Food",
@@ -74,25 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-223204",
-    "name": "Angels of God Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2410 Grand ave",
-    "city": "Vancouver",
-    "state": "WA",
-    "zip": "98661",
-    "phone": "(360) 936-5197",
-    "hours": "",
-    "lat": 45.6390381,
-    "lng": -122.6417923,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-177332",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-176637",
-    "name": "Martha's Pantry",
+    "id": "fa-131320",
+    "name": "Vancouver School District",
     "category": "Food",
-    "description": "Food pantry location",
-    "address": "1220 NE 68th Street",
-    "city": "Vancouver",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2901 FALK RD",
+    "city": "VANCOUVER",
     "state": "WA",
-    "zip": "98665",
-    "phone": "",
+    "zip": "98661",
+    "phone": "(360) 313-1000",
     "hours": "",
-    "lat": 45.672248814102,
-    "lng": -122.658828814821,
+    "lat": 45.643039,
+    "lng": -122.627608,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fallback-vancouver-wa-shelter",

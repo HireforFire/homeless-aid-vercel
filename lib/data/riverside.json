@@ -152,80 +152,80 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-200090",
-    "name": "Hope Lutheran Church",
+    "id": "fa-225888",
+    "name": "TKRC PANTRY",
     "category": "Food",
-    "description": "Food pantry location at Hope Lutheran Church",
-    "address": "2882 Arlington Ave",
-    "city": "Riverside",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3850 WALLACE ST",
+    "city": "Rubidoux",
     "state": "CA",
-    "zip": "92506",
-    "phone": "",
+    "zip": "92509",
+    "phone": "(951) 684-0336",
     "hours": "",
-    "lat": 33.9459521,
-    "lng": -117.3740875,
+    "lat": 33.9938087,
+    "lng": -117.4024124,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-207615",
-    "name": "Wesley United Methodist Church",
+    "id": "fa-219926",
+    "name": "Path of Life Ministries",
     "category": "Food",
-    "description": "Food pantry location at Wesley United Methodist Church",
-    "address": "5770 Arlington Avenue",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2350 Third Street",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92507",
+    "phone": "(951) 275-8755",
+    "hours": "",
+    "lat": 33.9827499,
+    "lng": -117.3605728,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222439",
+    "name": "OLPH food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "5250 Central Ave",
     "city": "Riverside",
     "state": "CA",
     "zip": "92504",
-    "phone": "",
+    "phone": "(951) 687-8146",
     "hours": "",
-    "lat": 33.9452856,
-    "lng": -117.42852,
+    "lat": 33.9529419,
+    "lng": -117.4179153,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-210714",
-    "name": "Calvary Presbyterian Church",
+    "id": "fa-225228",
+    "name": "Arlington SDA Community Service",
     "category": "Food",
-    "description": "Main location of Calvary Presbyterian Church providing meal services",
-    "address": "4495 Magnolia Avenue",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "8778 Magnolia Avenue",
     "city": "Riverside",
     "state": "CA",
-    "zip": "92501",
-    "phone": "",
+    "zip": "92503",
+    "phone": "(951) 688-6632",
     "hours": "",
-    "lat": 33.9757637,
-    "lng": -117.3824415,
+    "lat": 33.9271278,
+    "lng": -117.4322891,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-215029",
-    "name": "Casa Blanca Home of Neighborly Services",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "7680 Casa Blanca St",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "92504",
-    "phone": "",
-    "hours": "",
-    "lat": 33.9320414,
-    "lng": -117.4067901,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-riverside-shelter",

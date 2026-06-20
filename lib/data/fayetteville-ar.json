@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-187501",
-    "name": "Fayetteville Senior Center",
-    "category": "Food",
-    "description": "Senior center located in Fayetteville, Washington County, Arkansas.",
-    "address": "945 S. College Ave.",
-    "city": "Fayetteville",
-    "state": "AR",
-    "zip": "72701",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0529825,
-    "lng": -94.1596146,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-128226",
     "name": "Fayetteville",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-187501",
+    "name": "Fayetteville Senior Center",
+    "category": "Food",
+    "description": "Senior center located in Fayetteville, Washington County, Arkansas.",
+    "address": "945 S. College Ave.",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0529825,
+    "lng": -94.1596146,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-186627",
@@ -152,6 +152,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-219643",
+    "name": "faith at the park",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "962s. Silverado Dr # 205",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "(479) 935-7717",
+    "hours": "",
+    "lat": 36.0537148,
+    "lng": -94.1400223,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-192466",
     "name": "Salvation Army - Fayetteville",
     "category": "Food",
@@ -188,25 +207,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-219643",
-    "name": "faith at the park",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "962s. Silverado Dr # 205",
-    "city": "Fayetteville",
-    "state": "AR",
-    "zip": "72701",
-    "phone": "(479) 935-7717",
-    "hours": "",
-    "lat": 36.0537148,
-    "lng": -94.1400223,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-189194",

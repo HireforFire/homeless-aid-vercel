@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-218697",
+    "name": "The Salvation Army - 19Th Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200 19th Street",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "(661) 325-8626",
+    "hours": "",
+    "lat": 35.38428,
+    "lng": -119.02057,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-175589",
     "name": "Catholic Charities, Northeast-Commodity",
     "category": "Food",
@@ -55,25 +74,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-218697",
-    "name": "The Salvation Army - 19Th Street",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200 19th Street",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "93301",
-    "phone": "(661) 325-8626",
-    "hours": "",
-    "lat": 35.38428,
-    "lng": -119.02057,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-454",

@@ -171,6 +171,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-223836",
+    "name": "Wyoming Food For Thought Project",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "420 West First Street",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 267-2421",
+    "hours": "",
+    "lat": 42.8503523,
+    "lng": -106.3299155,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225648",
+    "name": "Oasis",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1927 S Walnut",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 224-4111",
+    "hours": "",
+    "lat": 42.8311729,
+    "lng": -106.3332825,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-170935",
     "name": "The Salvation Army Goodstein Hope Center",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 42.846025399999995,
     "lng": -106.3248816,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-171045",
-    "name": "Community Action Partnership - Casper",
-    "category": "Food",
-    "description": "Main food pantry location in Casper, Wyoming. Walk-up access available.",
-    "address": "606 S David St",
-    "city": "Casper",
-    "state": "WY",
-    "zip": "82601",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8444333,
-    "lng": -106.3269265,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-171190",
-    "name": "Grace Bible Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location at Grace Bible Baptist Church",
-    "address": "405 S Park St",
-    "city": "Casper",
-    "state": "WY",
-    "zip": "82601",
-    "phone": "",
-    "hours": "",
-    "lat": 42.8464824,
-    "lng": -106.3177596,
     "tags": [
       "food pantry",
       "walk-in"

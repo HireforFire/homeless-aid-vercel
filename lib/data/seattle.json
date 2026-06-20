@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-198703",
-    "name": "Northwest Harvest - Cherry Street",
-    "category": "Food",
-    "description": "Main food bank distribution location on Cherry Street in Seattle",
-    "address": "711 Cherry St",
-    "city": "Seattle",
-    "state": "WA",
-    "zip": "98104",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6054179,
-    "lng": -122.3271594,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218469",
     "name": "The Salvation Army - Pike St 1",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-198703",
+    "name": "Northwest Harvest - Cherry Street",
+    "category": "Food",
+    "description": "Main food bank distribution location on Cherry Street in Seattle",
+    "address": "711 Cherry St",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98104",
+    "phone": "",
+    "hours": "",
+    "lat": 47.6054179,
+    "lng": -122.3271594,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-179931",

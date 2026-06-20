@@ -19,82 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-181756",
-    "name": "Tucson Indian Center",
-    "category": "Food",
-    "description": "Main office location of Tucson Indian Center",
-    "address": "97 E. Congress, Ste. 101",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85701",
-    "phone": "",
-    "hours": "",
-    "lat": 32.2221241,
-    "lng": -110.9695244,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-188539",
-    "name": "Armory Parks and Rec",
-    "category": "Food",
-    "description": "Food distribution and dinner service location",
-    "address": "220 S. 5th Ave.",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85701",
-    "phone": "",
-    "hours": "",
-    "lat": 32.2191918,
-    "lng": -110.9673821,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-203923",
-    "name": "The Salvation Army - Hospitality House",
-    "category": "Food",
-    "description": "The Salvation Army - Hospitality House hospitality services location",
-    "address": "1002 N. 11th Ave.",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85705",
-    "phone": "",
-    "hours": "",
-    "lat": 32.2343925,
-    "lng": -110.9760675,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-208807",
-    "name": "Sharon Seventh-Day Adventist Church",
-    "category": "Food",
-    "description": "Food distribution location at Sharon Seventh-Day Adventist Church, affiliated with Community Food Bank of Southern Arizona.",
-    "address": "955 N. 10th Ave.",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85705",
-    "phone": "",
-    "hours": "",
-    "lat": 32.23385,
-    "lng": -110.97524,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-128302",
     "name": "CPLC Community Schools dba Hiaki High School",
     "category": "Food",
@@ -169,6 +93,82 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-181756",
+    "name": "Tucson Indian Center",
+    "category": "Food",
+    "description": "Main office location of Tucson Indian Center",
+    "address": "97 E. Congress, Ste. 101",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2221241,
+    "lng": -110.9695244,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188539",
+    "name": "Armory Parks and Rec",
+    "category": "Food",
+    "description": "Food distribution and dinner service location",
+    "address": "220 S. 5th Ave.",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2191918,
+    "lng": -110.9673821,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203923",
+    "name": "The Salvation Army - Hospitality House",
+    "category": "Food",
+    "description": "The Salvation Army - Hospitality House hospitality services location",
+    "address": "1002 N. 11th Ave.",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85705",
+    "phone": "",
+    "hours": "",
+    "lat": 32.2343925,
+    "lng": -110.9760675,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208807",
+    "name": "Sharon Seventh-Day Adventist Church",
+    "category": "Food",
+    "description": "Food distribution location at Sharon Seventh-Day Adventist Church, affiliated with Community Food Bank of Southern Arizona.",
+    "address": "955 N. 10th Ave.",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85705",
+    "phone": "",
+    "hours": "",
+    "lat": 32.23385,
+    "lng": -110.97524,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-739",

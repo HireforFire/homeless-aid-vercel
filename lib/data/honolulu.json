@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-223262",
+    "name": "FoodBasket Program",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200 North Vineyard Blvd. A310",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96817",
+    "phone": "(808) 592-9022",
+    "hours": "",
+    "lat": 21.3173599,
+    "lng": -157.859375,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-178013",
     "name": "Cedar Assembly of God",
     "category": "Food",
@@ -36,25 +55,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-223262",
-    "name": "FoodBasket Program",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200 North Vineyard Blvd. A310",
-    "city": "Honolulu",
-    "state": "HI",
-    "zip": "96817",
-    "phone": "(808) 592-9022",
-    "hours": "",
-    "lat": 21.3173599,
-    "lng": -157.859375,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-175683",
@@ -107,44 +107,6 @@
     "hours": "",
     "lat": 21.317885243948,
     "lng": -157.859956965717,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175355",
-    "name": "St. Elizabeth's Episcopal Church",
-    "category": "Food",
-    "description": "Food pantry distribution location at St. Elizabeth's Episcopal Church",
-    "address": "720 North King St.",
-    "city": "Honolulu",
-    "state": "HI",
-    "zip": "96817",
-    "phone": "",
-    "hours": "",
-    "lat": 21.320953188148,
-    "lng": -157.865988164146,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176064",
-    "name": "Hawaiian Humane Society - Distribution Center",
-    "category": "Food",
-    "description": "Pet food distribution location",
-    "address": "2700 Waialae Ave.",
-    "city": "Honolulu",
-    "state": "HI",
-    "zip": "96826",
-    "phone": "",
-    "hours": "",
-    "lat": 21.290471391422,
-    "lng": -157.818255404857,
     "tags": [
       "food pantry",
       "walk-in"
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-175355",
+    "name": "St. Elizabeth's Episcopal Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at St. Elizabeth's Episcopal Church",
+    "address": "720 North King St.",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96817",
+    "phone": "",
+    "hours": "",
+    "lat": 21.320953188148,
+    "lng": -157.865988164146,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176064",
+    "name": "Hawaiian Humane Society - Distribution Center",
+    "category": "Food",
+    "description": "Pet food distribution location",
+    "address": "2700 Waialae Ave.",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96826",
+    "phone": "",
+    "hours": "",
+    "lat": 21.290471391422,
+    "lng": -157.818255404857,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-honolulu-shelter",

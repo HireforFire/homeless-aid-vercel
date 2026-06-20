@@ -76,82 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-202336",
-    "name": "Riverwest Food Pantry - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located in the Riverwest neighborhood of Milwaukee.",
-    "address": "924 E Clarke St",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53212",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0658884,
-    "lng": -87.8995303,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-204036",
-    "name": "Mt Vernon Family Community Center",
-    "category": "Food",
-    "description": "Mt Vernon Family Community Center located in Milwaukee",
-    "address": "2345 N 18th St",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53206",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0611585,
-    "lng": -87.9354412,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-207464",
-    "name": "Jewish Community Pantry",
-    "category": "Food",
-    "description": "Food pantry location serving the Milwaukee Jewish community.",
-    "address": "2900 W Center St",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53210",
-    "phone": "",
-    "hours": "",
-    "lat": 43.068382899999996,
-    "lng": -87.9506001,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-209008",
-    "name": "Nourish MKE Vliet",
-    "category": "Food",
-    "description": "Food pantry location at 1220 W Vliet St in Milwaukee, Wisconsin.",
-    "address": "1220 W Vliet St",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53205",
-    "phone": "",
-    "hours": "",
-    "lat": 43.0490262,
-    "lng": -87.9281843,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-226309",
     "name": "Milwaukee Diaper Mission",
     "category": "Food",
@@ -221,6 +145,82 @@
     "hours": "",
     "lat": 43.0702553,
     "lng": -87.9411392,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221568",
+    "name": "The Jewish Community Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2900 W Center Street",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53226",
+    "phone": "(414) 967-8353",
+    "hours": "",
+    "lat": 43.0683823,
+    "lng": -87.9505997,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221647",
+    "name": "All Peoples Church Food Pantry and Isaiah 55 Food Ministry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2600 North 2nd Street.",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53212",
+    "phone": "(414) 264-1616",
+    "hours": "",
+    "lat": 43.0658684,
+    "lng": -87.9125824,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222180",
+    "name": "Marquette University Neighborhood Kitchen",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1926 W. Wisconsin Ave.",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53233",
+    "phone": "(414) 288-0342",
+    "hours": "",
+    "lat": 43.0389481,
+    "lng": -87.9373779,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222402",
+    "name": "Friedens Community Ministries",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1220 West Vliet Street",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53205",
+    "phone": "(414) 289-6030",
+    "hours": "",
+    "lat": 43.0488243,
+    "lng": -87.927887,
     "tags": [
       "food pantry",
       "walk-in"

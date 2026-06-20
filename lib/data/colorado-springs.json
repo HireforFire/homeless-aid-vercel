@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-176269",
-    "name": "Unitarian Church of All Souls",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "Unitarian Church of All Souls",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "",
-    "hours": "",
-    "lat": 38.844868,
-    "lng": -104.823359,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-216220",
     "name": "More Than a Meal",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-176269",
+    "name": "Unitarian Church of All Souls",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "Unitarian Church of All Souls",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "",
+    "hours": "",
+    "lat": 38.844868,
+    "lng": -104.823359,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-193978",

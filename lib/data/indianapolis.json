@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-186278",
-    "name": "Metro Baptist Center",
-    "category": "Food",
-    "description": "Main facility for food pantry and clothing services at 952 N. Pennsylvania St. in Indianapolis.",
-    "address": "952 N. Pennsylvania St.",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46204",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7805033,
-    "lng": -86.1561387,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-223973",
     "name": "Second Helpings",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-186278",
+    "name": "Metro Baptist Center",
+    "category": "Food",
+    "description": "Main facility for food pantry and clothing services at 952 N. Pennsylvania St. in Indianapolis.",
+    "address": "952 N. Pennsylvania St.",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46204",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7805033,
+    "lng": -86.1561387,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-176061",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-174502",
-    "name": "Saints Peter and Paul Cathedral",
+    "id": "fa-5709",
+    "name": "Central Christian Church Food Pantry",
     "category": "Food",
-    "description": "Saints Peter and Paul Cathedral food pantry and soup kitchen location.",
-    "address": "1347 N. Meridian St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "701 N Delaware Street",
     "city": "Indianapolis",
     "state": "IN",
-    "zip": "46202",
-    "phone": "",
+    "zip": "46204",
+    "phone": "(317) 635-6397",
     "hours": "",
-    "lat": 39.7854004,
-    "lng": -86.1568281,
+    "lat": 39.77134,
+    "lng": -86.15703,
     "tags": [
-      "soup kitchen",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-indianapolis-shelter",

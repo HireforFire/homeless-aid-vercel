@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-190335",
-    "name": "River City Ministry",
+    "id": "fa-1862",
+    "name": "Litas House",
     "category": "Food",
-    "description": "Food distribution and meal program location",
-    "address": "1021 E. Washington Ave.",
-    "city": "North Little Rock",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1008 Wildrose",
+    "city": "Mcalmont",
     "state": "AR",
-    "zip": "72114",
-    "phone": "",
+    "zip": "72231",
+    "phone": "(501) 563-0169",
     "hours": "",
-    "lat": 34.754067,
-    "lng": -92.25623,
+    "lat": 34.74626,
+    "lng": -92.27666,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-192893",
-    "name": "Pilgrim Progress Baptist Church",
+    "id": "fa-224950",
+    "name": "Our House",
     "category": "Food",
-    "description": "Main food distribution and meal service location",
-    "address": "1401 N. Magnolia St.",
-    "city": "North Little Rock",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "302 E. Roosevelt",
+    "city": "Little Rock",
     "state": "AR",
-    "zip": "72114",
-    "phone": "",
+    "zip": "72206",
+    "phone": "(501) 374-7383",
     "hours": "",
-    "lat": 34.7672933,
-    "lng": -92.2651951,
+    "lat": 34.7244987,
+    "lng": -92.2691345,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-little-rock-shelter",

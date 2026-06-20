@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-194944",
-    "name": "St. Benedict's Chapel",
-    "category": "Food",
-    "description": "Soup kitchen location at St. Benedict's Chapel",
-    "address": "1615 28th St.",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79411",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5689153,
-    "lng": -101.8547361,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-130864",
     "name": "LUBBOCK ISD",
     "category": "Food",
@@ -57,6 +38,25 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-194944",
+    "name": "St. Benedict's Chapel",
+    "category": "Food",
+    "description": "Soup kitchen location at St. Benedict's Chapel",
+    "address": "1615 28th St.",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79411",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5689153,
+    "lng": -101.8547361,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-202",
     "name": "Catholic Charities - Lubbock",
     "category": "Food",
@@ -93,44 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
-  },
-  {
-    "id": "fa-207704",
-    "name": "Susie's Closet",
-    "category": "Food",
-    "description": "Food pantry location in Lubbock, TX",
-    "address": "1701 Parkway Dr.",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79403",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5947042,
-    "lng": -101.8167588,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-181794",
-    "name": "East Lubbock Art House",
-    "category": "Food",
-    "description": "Free outdoor food pantry location in East Lubbock",
-    "address": "405 M.L.K. Jr Blvd. Suite B",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79403",
-    "phone": "",
-    "hours": "",
-    "lat": 33.6027843,
-    "lng": -101.8192136,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-13717",
@@ -207,6 +169,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-207704",
+    "name": "Susie's Closet",
+    "category": "Food",
+    "description": "Food pantry location in Lubbock, TX",
+    "address": "1701 Parkway Dr.",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79403",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5947042,
+    "lng": -101.8167588,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181794",
+    "name": "East Lubbock Art House",
+    "category": "Food",
+    "description": "Free outdoor food pantry location in East Lubbock",
+    "address": "405 M.L.K. Jr Blvd. Suite B",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79403",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6027843,
+    "lng": -101.8192136,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-625",

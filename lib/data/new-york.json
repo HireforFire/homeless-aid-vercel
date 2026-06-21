@@ -228,40 +228,22 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-2629371810",
-    "name": "The Bentley Hotel",
+    "id": "fallback-new-york-shelter",
+    "name": "New York Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "East 62nd Street 500",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
     "city": "New York",
     "state": "NY",
     "zip": "",
-    "phone": "(212) 644-6000",
-    "hours": "",
-    "lat": 40.7602216,
-    "lng": -73.9581709,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 40.7128,
+    "lng": -74.006,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2765578547",
-    "name": "The Salvation Army Manhattan Citadel Corps Community Center",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "East 125th Street 145",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10035",
-    "phone": "",
-    "hours": "",
-    "lat": 40.8044048,
-    "lng": -73.9370707,
-    "tags": [
-      "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

@@ -209,23 +209,23 @@
     "lastUpdated": "2026-02-12"
   },
   {
-    "id": "fa-175954",
-    "name": "Shobis Table @ Frogtown – Faith Lutheran",
+    "id": "fa-218931",
+    "name": "Liberty Plaza",
     "category": "Food",
-    "description": "Pay-as-you-can food truck location serving fresh cooked lunches in St Paul",
-    "address": "499 Charles Avenue",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "290 Arundel St",
     "city": "Saint Paul",
     "state": "MN",
-    "zip": "55101",
-    "phone": "",
+    "zip": "55103",
+    "phone": "(651) 224-5303",
     "hours": "",
-    "lat": 44.957819476238,
-    "lng": -93.120366927758,
+    "lat": 44.9494629,
+    "lng": -93.1186447,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-st-paul-shelter",

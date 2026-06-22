@@ -95,6 +95,25 @@
     "lastUpdated": "2026-01-18"
   },
   {
+    "id": "fa-223576",
+    "name": "Heart of Downtown Food Co-Op",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "223 E Wilshire Ave.",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92832",
+    "phone": "(714) 526-2265",
+    "hours": "",
+    "lat": 33.8728116,
+    "lng": -117.9209297,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-185490",
     "name": "Neighborhood Services - Main Location",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 33.8723907,
     "lng": -117.9216995,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222257",
-    "name": "Mercy Housing Anaheim",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2240 West Lincoln Avenue",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "92801",
-    "phone": "(714) 956-8390",
-    "hours": "",
-    "lat": 33.8319473,
-    "lng": -117.9609146,
     "tags": [
       "food pantry",
       "walk-in"

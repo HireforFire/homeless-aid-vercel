@@ -19,6 +19,25 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-225338",
+    "name": "Volunteers of America",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "430 N. Larch",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48912",
+    "phone": "(517) 484-4414",
+    "hours": "",
+    "lat": 42.7382545,
+    "lng": -84.5440826,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-220203",
     "name": "Loaves and Fishes Ministries",
     "category": "Food",
@@ -88,25 +107,6 @@
     "hours": "",
     "lat": 42.7304649,
     "lng": -84.5711441,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225338",
-    "name": "Volunteers of America",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "430 N. Larch",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "48912",
-    "phone": "(517) 484-4414",
-    "hours": "",
-    "lat": 42.7382545,
-    "lng": -84.5440826,
     "tags": [
       "food pantry",
       "walk-in"

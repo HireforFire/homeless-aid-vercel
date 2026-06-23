@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-213513",
-    "name": "Veterans not Forgotten",
-    "category": "Food",
-    "description": "Food distribution location providing pre-packed boxes and bags. Deliveries only.",
-    "address": "6476 Riverside Ave",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "92506",
-    "phone": "",
-    "hours": "",
-    "lat": 33.9490566,
-    "lng": -117.3871692,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-192948",
     "name": "Walden Family Services",
     "category": "Food",
@@ -50,6 +31,25 @@
     "hours": "",
     "lat": 33.9406455,
     "lng": -117.3949317,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-213513",
+    "name": "Veterans not Forgotten",
+    "category": "Food",
+    "description": "Food distribution location providing pre-packed boxes and bags. Deliveries only.",
+    "address": "6476 Riverside Ave",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92506",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9490566,
+    "lng": -117.3871692,
     "tags": [
       "food pantry",
       "walk-in"

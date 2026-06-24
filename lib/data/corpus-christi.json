@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-174475",
+    "name": "Brooks Worship Center",
+    "category": "Food",
+    "description": "Food pantry distribution location at Brooks Worship Center.",
+    "address": "2101 N. Port Ave.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "(361) 452-6864",
+    "hours": "",
+    "lat": 27.8048196,
+    "lng": -97.4102119,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-177311",
     "name": "CC Metro Ministries – Loaves & Fishes Sign Up Location",
     "category": "Food",
@@ -74,25 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-25"
-  },
-  {
-    "id": "fa-174475",
-    "name": "Brooks Worship Center",
-    "category": "Food",
-    "description": "Food pantry distribution location at Brooks Worship Center.",
-    "address": "2101 N. Port Ave.",
-    "city": "Corpus Christi",
-    "state": "TX",
-    "zip": "78401",
-    "phone": "(361) 452-6864",
-    "hours": "",
-    "lat": 27.8048196,
-    "lng": -97.4102119,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-130732",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-25"
   },
   {
-    "id": "fa-173071",
-    "name": "Del Mar College Viking Food Pantry",
+    "id": "fa-197",
+    "name": "Salvation Army - Corpus Christi",
     "category": "Food",
-    "description": "On-campus food pantry location at Del Mar College's main campus in Corpus Christi, Texas.",
-    "address": "101 Baldwin Blvd.",
+    "description": "Nueces County residents",
+    "address": "1224 Comanche St",
     "city": "Corpus Christi",
     "state": "TX",
-    "zip": "78404",
-    "phone": "(361) 882-3245",
+    "zip": "78401",
+    "phone": "(361) 883-8671",
     "hours": "",
-    "lat": 27.7645002,
-    "lng": -97.4058828,
+    "lat": 27.7933,
+    "lng": -97.4033,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-25"
+    "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-185794",
-    "name": "Zavala Senior Center",
+    "id": "fa-173206",
+    "name": "CrossBridge Fellowship",
     "category": "Food",
-    "description": "Senior activity center providing congregate meals and lunch services",
-    "address": "510 Osage St.",
+    "description": "Food pantry location at CrossBridge Fellowship",
+    "address": "3002 Buffalo St.",
     "city": "Corpus Christi",
     "state": "TX",
-    "zip": "78405",
-    "phone": "(361) 882-3245",
+    "zip": "78408",
+    "phone": "(361) 882-3613",
     "hours": "",
-    "lat": 27.7787151,
-    "lng": -97.427404,
+    "lat": 27.7989882,
+    "lng": -97.4234119,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-25"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-corpus-christi-shelter",

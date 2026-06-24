@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-181552",
-    "name": "Corazon Ministries Day Center",
-    "category": "Food",
-    "description": "Day center facility located in San Antonio providing meals, showers, ID recovery, respite, and case management services.",
-    "address": "504 Ave E",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78215",
-    "phone": "(210) 227-2347",
-    "hours": "",
-    "lat": 29.4291843,
-    "lng": -98.482746,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-25"
-  },
-  {
-    "id": "fa-194643",
-    "name": "Beryl's Food Pantry (The Salvation Army)",
-    "category": "Food",
-    "description": "Food pantry location in San Antonio operated by The Salvation Army.",
-    "address": "910 N. Flores St.",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78212",
-    "phone": "(210) 227-2347",
-    "hours": "",
-    "lat": 29.4344632,
-    "lng": -98.4989373,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-25"
-  },
-  {
     "id": "fa-173583",
     "name": "St. Stephen's CARE Center",
     "category": "Food",
@@ -74,6 +36,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181552",
+    "name": "Corazon Ministries Day Center",
+    "category": "Food",
+    "description": "Day center facility located in San Antonio providing meals, showers, ID recovery, respite, and case management services.",
+    "address": "504 Ave E",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78215",
+    "phone": "(210) 227-2347",
+    "hours": "",
+    "lat": 29.4291843,
+    "lng": -98.482746,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-194643",
+    "name": "Beryl's Food Pantry (The Salvation Army)",
+    "category": "Food",
+    "description": "Food pantry location in San Antonio operated by The Salvation Army.",
+    "address": "910 N. Flores St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78212",
+    "phone": "(210) 227-2347",
+    "hours": "",
+    "lat": 29.4344632,
+    "lng": -98.4989373,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
   },
   {
     "id": "fa-130944",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-174252",
-    "name": "Free Little Pantry SA",
+    "id": "fa-182",
+    "name": "Christian Assistance Ministry",
     "category": "Food",
-    "description": "Free outdoor food pantry located at 1802 E. Commerce St.",
-    "address": "1802 E. Commerce St.",
+    "description": "South side residents",
+    "address": "602 Nogalitos St",
     "city": "San Antonio",
     "state": "TX",
-    "zip": "78203",
-    "phone": "(210) 227-2347",
+    "zip": "78204",
+    "phone": "(210) 226-2555",
     "hours": "",
-    "lat": 29.4192792,
-    "lng": -98.467817,
+    "lat": 29.4183,
+    "lng": -98.5033,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-25"
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fallback-san-antonio-shelter",

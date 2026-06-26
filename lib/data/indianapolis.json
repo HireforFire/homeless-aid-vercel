@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-223973",
-    "name": "Second Helpings",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1121 Southeastern Ave",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46202",
-    "phone": "(317) 632-2664",
-    "hours": "",
-    "lat": 39.7657166,
-    "lng": -86.1394882,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-218539",
     "name": "The Salvation Army - N Alabama",
     "category": "Food",
@@ -50,6 +31,25 @@
     "hours": "",
     "lat": 39.77134,
     "lng": -86.15703,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223973",
+    "name": "Second Helpings",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1121 Southeastern Ave",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46202",
+    "phone": "(317) 632-2664",
+    "hours": "",
+    "lat": 39.7657166,
+    "lng": -86.1394882,
     "tags": [
       "food pantry",
       "walk-in"

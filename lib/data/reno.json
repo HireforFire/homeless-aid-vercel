@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-130171",
-    "name": "Washoe County SD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "425 EAST NINTH",
-    "city": "RENO",
-    "state": "NV",
-    "zip": "89431",
-    "phone": "(775) 348-0200",
-    "hours": "",
-    "lat": 39.536611,
-    "lng": -119.810925,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-219755",
     "name": "Safe Harbors of Nevada",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130171",
+    "name": "Washoe County SD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "425 EAST NINTH",
+    "city": "RENO",
+    "state": "NV",
+    "zip": "89431",
+    "phone": "(775) 348-0200",
+    "hours": "",
+    "lat": 39.536611,
+    "lng": -119.810925,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-170665",

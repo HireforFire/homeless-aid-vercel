@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-131278",
-    "name": "Olympia School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1113 LEGION WAY SE",
-    "city": "OLYMPIA",
-    "state": "WA",
-    "zip": "98501",
-    "phone": "(360) 596-6100",
-    "hours": "",
-    "lat": 47.043419,
-    "lng": -122.88815,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-223580",
     "name": "Thurston County Food Bank",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-131278",
+    "name": "Olympia School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1113 LEGION WAY SE",
+    "city": "OLYMPIA",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "(360) 596-6100",
+    "hours": "",
+    "lat": 47.043419,
+    "lng": -122.88815,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-829",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-131319",
-    "name": "Tumwater School District",
+    "id": "fa-191845",
+    "name": "Hidden Creek Community Church",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "621 LINWOOD AVE SW",
-    "city": "TUMWATER",
+    "description": "Thurston County Food Bank distribution location at Hidden Creek Community Church",
+    "address": "1807 9th Ave SW",
+    "city": "Olympia",
     "state": "WA",
     "zip": "98502",
-    "phone": "(360) 709-7000",
+    "phone": "",
     "hours": "",
-    "lat": 47.007019,
-    "lng": -122.913251,
+    "lat": 47.0395198,
+    "lng": -122.9241721,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-olympia-shelter",

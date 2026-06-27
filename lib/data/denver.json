@@ -57,44 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-128816",
-    "name": "CHARTER SCHOOL INSTITUTE",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1580 LOGAN ST",
-    "city": "DENVER",
-    "state": "CO",
-    "zip": "80203",
-    "phone": "(303) 662-1220",
-    "hours": "",
-    "lat": 39.741487,
-    "lng": -104.982837,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-128818",
-    "name": "COLO SCHOOL F/T DEAF AND THE BLIND",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "201 EAST COLFAX AVE",
-    "city": "DENVER",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(303) 866-6600",
-    "hours": "",
-    "lat": 39.740087,
-    "lng": -104.985237,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-576699",
     "name": "CCD Swooper Market",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 39.7447138,
     "lng": -104.9765733,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184472",
+    "name": "Sunset Park Senior Center",
+    "category": "Food",
+    "description": "Senior meal distribution location",
+    "address": "1865 Larimer St.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7516994,
+    "lng": -104.9944101,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185147",
+    "name": "St. Elizabeth's of Hungary Catholic Church",
+    "category": "Food",
+    "description": "Catholic church location providing meal services",
+    "address": "1060 St. Francis Way",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7426122,
+    "lng": -105.0021696,
     "tags": [
       "food pantry",
       "walk-in"

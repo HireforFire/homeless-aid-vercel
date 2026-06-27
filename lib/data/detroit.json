@@ -152,80 +152,80 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-129611",
-    "name": "Detroit Academy of Arts and Sciences",
+    "id": "fa-218823",
+    "name": "The Salvation Army - Lawton St",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2985 EAST JEFFERSON AVE",
-    "city": "DETROIT",
+    "address": "3737 Lawton St",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48208",
+    "phone": "(313) 361-6136",
+    "hours": "",
+    "lat": 42.34844,
+    "lng": -83.09173,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219377",
+    "name": "ksc",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "404 east grand blvd",
+    "city": "Detroit",
     "state": "MI",
     "zip": "48207",
-    "phone": "(313) 259-1744",
+    "phone": "(313) 478-1537",
     "hours": "",
-    "lat": 42.340538,
-    "lng": -83.01842,
+    "lat": 42.3550377,
+    "lng": -83.0063553,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-129613",
-    "name": "Detroit City School District",
+    "id": "fa-179974",
+    "name": "Franklin Wright Settlements - Emergency Assistance",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3011 WEST GRAND BLVD",
-    "city": "DETROIT",
-    "state": "MI",
-    "zip": "48202",
-    "phone": "(313) 873-6205",
-    "hours": "",
-    "lat": 42.369037,
-    "lng": -83.076922,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-129649",
-    "name": "George Crockett Academy",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "4851 14TH ST",
-    "city": "DETROIT",
-    "state": "MI",
-    "zip": "48205",
-    "phone": "(313) 896-6078",
-    "hours": "",
-    "lat": 42.349138,
-    "lng": -83.087022,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-129780",
-    "name": "Plymouth Educational Center Charter School",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1460 EAST FOREST AVE",
-    "city": "DETROIT",
+    "description": "Emergency food assistance distribution location",
+    "address": "3360 Charlevoix Street",
+    "city": "McDougall-Hunt",
     "state": "MI",
     "zip": "48207",
-    "phone": "(313) 831-3280",
+    "phone": "",
     "hours": "",
-    "lat": 42.360338,
-    "lng": -83.046721,
+    "lat": 42.355093,
+    "lng": -83.023355,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183865",
+    "name": "In The Trenches",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "304 South Morrell Street",
+    "city": "Delray",
+    "state": "MI",
+    "zip": "48209",
+    "phone": "",
+    "hours": "",
+    "lat": 42.304879,
+    "lng": -83.09129,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-detroit-shelter",

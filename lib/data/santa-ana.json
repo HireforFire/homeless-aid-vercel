@@ -152,44 +152,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-128742",
-    "name": "ST ANNE SCHOOL",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1601 EAST CHESTNUT AVE",
-    "city": "SANTA ANA",
-    "state": "CA",
-    "zip": "92707",
-    "phone": "(714) 558-5501",
-    "hours": "",
-    "lat": 33.742618,
-    "lng": -117.847589,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-128762",
-    "name": "TUSTIN UNIFIED SCHOOL DISTRICT",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "300 SOUTH C ST",
-    "city": "TUSTIN",
-    "state": "CA",
-    "zip": "92780",
-    "phone": "(714) 730-7301",
-    "hours": "",
-    "lat": 33.743118,
-    "lng": -117.825788,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-465",
     "name": "Orange County Rescue Mission",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 33.74853,
     "lng": -117.90621,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224492",
+    "name": "Tustin Area Senior Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200  South C Street",
+    "city": "Tustin",
+    "state": "CA",
+    "zip": "92780",
+    "phone": "(714) 573-3352",
+    "hours": "",
+    "lat": 33.7439916,
+    "lng": -117.8257393,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224624",
+    "name": "Mitzvah Meals at Temple Beth Sholom",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2625 North Tustin Avenue",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92705",
+    "phone": "(714) 400-7088",
+    "hours": "",
+    "lat": 33.7731743,
+    "lng": -117.8356552,
     "tags": [
       "food pantry",
       "walk-in"

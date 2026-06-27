@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-131128",
-    "name": "Richmond City",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "301 NORTH 9TH ST",
-    "city": "RICHMOND",
-    "state": "VA",
-    "zip": "23223",
-    "phone": "(804) 780-7700",
-    "hours": "",
-    "lat": 37.541446,
-    "lng": -77.433005,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-181977",
     "name": "CAPUP North Food Pantry",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-131128",
+    "name": "Richmond City",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "301 NORTH 9TH ST",
+    "city": "RICHMOND",
+    "state": "VA",
+    "zip": "23223",
+    "phone": "(804) 780-7700",
+    "hours": "",
+    "lat": 37.541446,
+    "lng": -77.433005,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-207457",

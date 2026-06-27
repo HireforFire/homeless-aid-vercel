@@ -152,25 +152,6 @@
     "lastUpdated": "2026-05-10"
   },
   {
-    "id": "fa-130775",
-    "name": "FORT WORTH ISD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "100 NORTH UNIVERSITY DR",
-    "city": "FORT WORTH",
-    "state": "TX",
-    "zip": "76164",
-    "phone": "(817) 815-2000",
-    "hours": "",
-    "lat": 32.76033,
-    "lng": -97.360695,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-117",
     "name": "Fort Worth Community Food Pantry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 32.7784119,
     "lng": -97.3536224,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225411",
+    "name": "world missionary baptist church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1200 e bessie st",
+    "city": "Ft.Worth",
+    "state": "TX",
+    "zip": "76104",
+    "phone": "(817) 332-1202",
+    "hours": "",
+    "lat": 32.7399712,
+    "lng": -97.3118744,
     "tags": [
       "food pantry",
       "walk-in"

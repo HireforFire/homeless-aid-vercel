@@ -95,44 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-150553",
-    "name": "Comea Shelter",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1504 Stinson Ave",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "(307) 632-3174",
-    "hours": "",
-    "lat": 41.14,
-    "lng": -104.8202,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-150554",
-    "name": "Feed a Family",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "601 E. 20th Street",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "(307) 632-2331",
-    "hours": "",
-    "lat": 41.14,
-    "lng": -104.8202,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-171794",
     "name": "Little Free Food Pantry Cheyenne WY",
     "category": "Food",
@@ -150,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-150518",
-    "name": "Food Bank of Wyoming",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "2248 Reed Avenue",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "(307) 265-2172",
-    "hours": "",
-    "lat": 41.14,
-    "lng": -104.8202,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-170442",
@@ -207,6 +150,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-150553",
+    "name": "Comea Shelter",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1504 Stinson Ave",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 632-3174",
+    "hours": "",
+    "lat": 41.14,
+    "lng": -104.8202,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-150554",
+    "name": "Feed a Family",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "601 E. 20th Street",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 632-2331",
+    "hours": "",
+    "lat": 41.14,
+    "lng": -104.8202,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-150518",
+    "name": "Food Bank of Wyoming",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "2248 Reed Avenue",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 265-2172",
+    "hours": "",
+    "lat": 41.14,
+    "lng": -104.8202,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-225277",

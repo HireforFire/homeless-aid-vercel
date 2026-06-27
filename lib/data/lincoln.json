@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-129832",
-    "name": "Lincoln Public Schools",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "5905 O ST",
-    "city": "LINCOLN",
-    "state": "NE",
-    "zip": "68510",
-    "phone": "(402) 436-1000",
-    "hours": "",
-    "lat": 40.817002,
-    "lng": -96.710994,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-224896",
     "name": "Catholic Social Services - Food Market",
     "category": "Food",
@@ -131,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-129832",
+    "name": "Lincoln Public Schools",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "5905 O ST",
+    "city": "LINCOLN",
+    "state": "NE",
+    "zip": "68510",
+    "phone": "(402) 436-1000",
+    "hours": "",
+    "lat": 40.817002,
+    "lng": -96.710994,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-178824",

@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-131115",
-    "name": "Norfolk City",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "800 EAST CITY HALL AVE",
-    "city": "NORFOLK",
-    "state": "VA",
-    "zip": "23504",
-    "phone": "(757) 628-3830",
-    "hours": "",
-    "lat": 36.846948,
-    "lng": -76.284663,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-577505",
     "name": "Foodbank of Southeastern Virginia and the Eastern Shore",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-131115",
+    "name": "Norfolk City",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 EAST CITY HALL AVE",
+    "city": "NORFOLK",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "(757) 628-3830",
+    "hours": "",
+    "lat": 36.846948,
+    "lng": -76.284663,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-717",

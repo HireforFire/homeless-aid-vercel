@@ -266,41 +266,223 @@
     "lastUpdated": "2026-05-14"
   },
   {
-    "id": "fallback-new-york-hygiene",
-    "name": "New York Public Restroom Information",
-    "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "New York",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "Varies",
-    "lat": 40.7128,
-    "lng": -74.006,
-    "tags": [
-      "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-new-york-library",
-    "name": "New York Public Library System",
+    "id": "osm-node-367691855",
+    "name": "East Rutherford Memorial Library",
     "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "description": "library",
     "address": "",
     "city": "New York",
-    "state": "NY",
+    "state": "NJ",
     "zip": "",
     "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 40.7128,
-    "lng": -74.006,
+    "hours": "",
+    "lat": 40.8328779,
+    "lng": -74.0984755,
     "tags": [
       "library",
       "wifi",
       "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367691965",
+    "name": "William E Dermody Free Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New York",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.8381556,
+    "lng": -74.091253,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692219",
+    "name": "Reid Memorial Branch Passaic Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New York",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.8640509,
+    "lng": -74.1153039,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692684",
+    "name": "Garfield Free Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New York",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.88073,
+    "lng": -74.1009383,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692691",
+    "name": "Maywood Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New York",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.9011907,
+    "lng": -74.0632986,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692704",
+    "name": "Rochelle Park Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New York",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.9122222,
+    "lng": -74.0783333,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692747",
+    "name": "Elmwood Park Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New York",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.9086111,
+    "lng": -74.1197222,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367692762",
+    "name": "Bogota Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New York",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.8794462,
+    "lng": -74.0299971,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367693098",
+    "name": "Ampere Branch East Orange Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New York",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7657093,
+    "lng": -74.1949787,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367693333",
+    "name": "South Paterson Branch Paterson Free Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "New York",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.8956546,
+    "lng": -74.1604217,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-new-york-hygiene",
+    "name": "East Rutherford Memorial Library - Restroom Access",
+    "category": "Hygiene",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "",
+    "city": "New York",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "During library hours",
+    "lat": 40.8328779,
+    "lng": -74.0984755,
+    "tags": [
+      "restroom",
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

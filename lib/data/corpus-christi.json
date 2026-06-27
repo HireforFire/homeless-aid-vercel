@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-25"
   },
   {
-    "id": "fa-130732",
-    "name": "CORPUS CHRISTI ISD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "801 LEOPARD ST",
-    "city": "CORPUS CHRISTI",
-    "state": "TX",
-    "zip": "78408",
-    "phone": "(361) 695-7405",
-    "hours": "",
-    "lat": 27.796005,
-    "lng": -97.39947,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-186692",
     "name": "Oveal Williams Senior Center",
     "category": "Food",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-130732",
+    "name": "CORPUS CHRISTI ISD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "801 LEOPARD ST",
+    "city": "CORPUS CHRISTI",
+    "state": "TX",
+    "zip": "78408",
+    "phone": "(361) 695-7405",
+    "hours": "",
+    "lat": 27.796005,
+    "lng": -97.39947,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-197",

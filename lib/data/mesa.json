@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-128301",
-    "name": "Concordia Charter School, Inc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "142 NORTH DATE",
-    "city": "MESA",
-    "state": "AZ",
-    "zip": "85201",
-    "phone": "(480) 461-0555",
-    "hours": "",
-    "lat": 33.417946,
-    "lng": -111.844896,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-128334",
-    "name": "Mesa Unified District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "63 EAST MAIN ST",
-    "city": "MESA",
-    "state": "AZ",
-    "zip": "85210",
-    "phone": "(480) 472-0200",
-    "hours": "",
-    "lat": 33.415046,
-    "lng": -111.829996,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-221319",
     "name": "A New Leaf: Autumn House",
     "category": "Food",
@@ -131,6 +93,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-128301",
+    "name": "Concordia Charter School, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "142 NORTH DATE",
+    "city": "MESA",
+    "state": "AZ",
+    "zip": "85201",
+    "phone": "(480) 461-0555",
+    "hours": "",
+    "lat": 33.417946,
+    "lng": -111.844896,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-128334",
+    "name": "Mesa Unified District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "63 EAST MAIN ST",
+    "city": "MESA",
+    "state": "AZ",
+    "zip": "85210",
+    "phone": "(480) 472-0200",
+    "hours": "",
+    "lat": 33.415046,
+    "lng": -111.829996,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-833",

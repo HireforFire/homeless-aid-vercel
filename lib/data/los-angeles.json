@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-128589",
-    "name": "Los Angeles Unified School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "333 SOUTH BEAUDRY AVE",
-    "city": "LOS ANGELES",
-    "state": "CA",
-    "zip": "90017",
-    "phone": "(213) 241-1000",
-    "hours": "",
-    "lat": 34.056312,
-    "lng": -118.258308,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-401",
     "name": "Los Angeles Mission",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 34.0433945,
     "lng": -118.2431155,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191109",
+    "name": "Fred Jordan Missions - Main Location",
+    "category": "Food",
+    "description": "Fred Jordan Missions main facility located in Downtown Los Angeles providing hot meals, food bags, snacks, beverages, and clothing/hygiene items.",
+    "address": "445 Towne Avenue",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "",
+    "hours": "",
+    "lat": 34.043347013203,
+    "lng": -118.241997006462,
     "tags": [
       "food pantry",
       "walk-in"

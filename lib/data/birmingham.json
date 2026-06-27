@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-128137",
-    "name": "Birmingham City Board of Education",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2015 PARK PLACE",
-    "city": "BIRMINGHAM",
-    "state": "AL",
-    "zip": "35022",
-    "phone": "(205) 231-4220",
-    "hours": "",
-    "lat": 33.520105,
-    "lng": -86.80909,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-220356",
     "name": "YWCA Central Alabama",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-128137",
+    "name": "Birmingham City Board of Education",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2015 PARK PLACE",
+    "city": "BIRMINGHAM",
+    "state": "AL",
+    "zip": "35022",
+    "phone": "(205) 231-4220",
+    "hours": "",
+    "lat": 33.520105,
+    "lng": -86.80909,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-172537",

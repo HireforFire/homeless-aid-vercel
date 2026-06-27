@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-128163",
-    "name": "Huntsville City Board of Education",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200 WHITE ST",
-    "city": "HUNTSVILLE",
-    "state": "AL",
-    "zip": "35801",
-    "phone": "(256) 428-6810",
-    "hours": "",
-    "lat": 34.734291,
-    "lng": -86.577792,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-188569",
     "name": "Holmes Street UMC",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-128163",
+    "name": "Huntsville City Board of Education",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200 WHITE ST",
+    "city": "HUNTSVILLE",
+    "state": "AL",
+    "zip": "35801",
+    "phone": "(256) 428-6810",
+    "hours": "",
+    "lat": 34.734291,
+    "lng": -86.577792,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-173905",

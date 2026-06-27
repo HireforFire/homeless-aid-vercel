@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-130163",
-    "name": "Carson City SD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1402 WEST KING",
-    "city": "CARSON CITY",
-    "state": "NV",
-    "zip": "89702",
-    "phone": "(775) 283-2100",
-    "hours": "",
-    "lat": 39.164909,
-    "lng": -119.779415,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-224113",
     "name": "FISH Food Bank",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-130163",
+    "name": "Carson City SD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1402 WEST KING",
+    "city": "CARSON CITY",
+    "state": "NV",
+    "zip": "89702",
+    "phone": "(775) 283-2100",
+    "hours": "",
+    "lat": 39.164909,
+    "lng": -119.779415,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-170802",

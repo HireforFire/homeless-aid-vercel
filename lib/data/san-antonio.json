@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-25"
   },
   {
-    "id": "fa-130944",
-    "name": "SAN ANTONIO ISD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "141 LAVACA ST",
-    "city": "SAN ANTONIO",
-    "state": "TX",
-    "zip": "78225",
-    "phone": "(210) 554-2200",
-    "hours": "",
-    "lat": 29.417933,
-    "lng": -98.487295,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-183955",
     "name": "Rana Sullivan Ministries - The Lamb's Storehouse",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-130944",
+    "name": "SAN ANTONIO ISD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "141 LAVACA ST",
+    "city": "SAN ANTONIO",
+    "state": "TX",
+    "zip": "78225",
+    "phone": "(210) 554-2200",
+    "hours": "",
+    "lat": 29.417933,
+    "lng": -98.487295,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-182",

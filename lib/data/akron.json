@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-130498",
-    "name": "AKRON CITY SCHOOLS",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "70 NORTH BROADWAY ST",
-    "city": "AKRON",
-    "state": "OH",
-    "zip": "44308",
-    "phone": "(330) 761-1661",
-    "hours": "",
-    "lat": 41.085756,
-    "lng": -81.513738,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-224599",
     "name": "Salvation Army Red Shield Community Choice Pantry",
     "category": "Food",
@@ -150,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130498",
+    "name": "AKRON CITY SCHOOLS",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "70 NORTH BROADWAY ST",
+    "city": "AKRON",
+    "state": "OH",
+    "zip": "44308",
+    "phone": "(330) 761-1661",
+    "hours": "",
+    "lat": 41.085756,
+    "lng": -81.513738,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-179060",

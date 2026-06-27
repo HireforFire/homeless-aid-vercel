@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-130412",
-    "name": "Rochester City SD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "131 WEST BROAD ST",
-    "city": "ROCHESTER",
-    "state": "NY",
-    "zip": "14621",
-    "phone": "(585) 262-8378",
-    "hours": "",
-    "lat": 43.154062,
-    "lng": -77.616123,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-218865",
     "name": "The Salvation Army - Franklin Street",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 43.153539,
     "lng": -77.590331,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192984",
+    "name": "Baden Street Settlement Emergency",
+    "category": "Food",
+    "description": "Food pantry location on Vienna Street in Rochester, NY",
+    "address": "13 Vienna Street",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14605",
+    "phone": "",
+    "hours": "",
+    "lat": 43.16917,
+    "lng": -77.60635,
     "tags": [
       "food pantry",
       "walk-in"

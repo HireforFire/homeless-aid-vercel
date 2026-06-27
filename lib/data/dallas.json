@@ -152,44 +152,6 @@
     "lastUpdated": "2026-05-10"
   },
   {
-    "id": "fa-130740",
-    "name": "DALLAS ISD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3700 ROSS AVE",
-    "city": "DALLAS",
-    "state": "TX",
-    "zip": "75215",
-    "phone": "(972) 925-3700",
-    "hours": "",
-    "lat": 32.797429,
-    "lng": -96.787079,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-130986",
-    "name": "TEXANS CAN ACADEMIES",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "325 WEST 12TH",
-    "city": "DALLAS",
-    "state": "TX",
-    "zip": "75208",
-    "phone": "(214) 943-2244",
-    "hours": "",
-    "lat": 32.741731,
-    "lng": -96.82768,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-220228",
     "name": "Oak Cliff United Methodist Church",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 32.7441254,
     "lng": -96.8232498,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222291",
+    "name": "SoupMobile",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2423 S Good Latimer Expressway",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75215",
+    "phone": "(214) 655-6396",
+    "hours": "",
+    "lat": 32.7703018,
+    "lng": -96.7774048,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225457",
+    "name": "Bibleway Family Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3322 Navaro St",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75115",
+    "phone": "(214) 630-3195",
+    "hours": "",
+    "lat": 32.782547,
+    "lng": -96.8463821,
     "tags": [
       "food pantry",
       "walk-in"

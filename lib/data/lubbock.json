@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-130864",
-    "name": "LUBBOCK ISD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1628 19TH ST",
-    "city": "LUBBOCK",
-    "state": "TX",
-    "zip": "79401",
-    "phone": "(806) 766-1000",
-    "hours": "",
-    "lat": 33.578285,
-    "lng": -101.855044,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-216940",
     "name": "The Salvation Army - 16Th St Corps",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130864",
+    "name": "LUBBOCK ISD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1628 19TH ST",
+    "city": "LUBBOCK",
+    "state": "TX",
+    "zip": "79401",
+    "phone": "(806) 766-1000",
+    "hours": "",
+    "lat": 33.578285,
+    "lng": -101.855044,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-202",

@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-130452",
-    "name": "Syracuse City SD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "725 HARRISON ST",
-    "city": "SYRACUSE",
-    "state": "NY",
-    "zip": "13208",
-    "phone": "(315) 435-4161",
-    "hours": "",
-    "lat": 43.044467,
-    "lng": -76.140446,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-219008",
     "name": "The Salvation Army of Syracuse Emergency Practical Assistance",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 43.04633,
     "lng": -76.14948,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204062",
+    "name": "Prince of Peace Missionary Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location in Syracuse",
+    "address": "317 E. Jefferson Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13201",
+    "phone": "",
+    "hours": "",
+    "lat": 43.047285,
+    "lng": -76.147715,
     "tags": [
       "food pantry",
       "walk-in"

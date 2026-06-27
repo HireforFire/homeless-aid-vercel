@@ -133,25 +133,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-128286",
-    "name": "Ball Charter Schools (Dobson)",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2207 NORTH DOBSON RD",
-    "city": "CHANDLER",
-    "state": "AZ",
-    "zip": "85224",
-    "phone": "(480) 855-6325",
-    "hours": "",
-    "lat": 33.339248,
-    "lng": -111.876296,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-222662",
     "name": "cornerstone",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-128286",
+    "name": "Ball Charter Schools (Dobson)",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2207 NORTH DOBSON RD",
+    "city": "CHANDLER",
+    "state": "AZ",
+    "zip": "85224",
+    "phone": "(480) 855-6325",
+    "hours": "",
+    "lat": 33.339248,
+    "lng": -111.876296,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fallback-chandler-shelter",

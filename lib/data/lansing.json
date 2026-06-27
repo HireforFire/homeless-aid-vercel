@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-129705",
-    "name": "Lansing Public School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "519 WEST KALAMAZOO ST",
-    "city": "LANSING",
-    "state": "MI",
-    "zip": "48911",
-    "phone": "(517) 755-1010",
-    "hours": "",
-    "lat": 42.730035,
-    "lng": -84.559279,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-225338",
     "name": "Volunteers of America",
     "category": "Food",
@@ -190,18 +171,18 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-129624",
-    "name": "El-Hajj Malik El-Shabazz Academy",
+    "id": "fa-129705",
+    "name": "Lansing Public School District",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1028 WEST BARNES AVE",
+    "address": "519 WEST KALAMAZOO ST",
     "city": "LANSING",
     "state": "MI",
-    "zip": "48910",
-    "phone": "(517) 267-8474",
+    "zip": "48911",
+    "phone": "(517) 755-1010",
     "hours": "",
-    "lat": 42.715535,
-    "lng": -84.566679,
+    "lat": 42.730035,
+    "lng": -84.559279,
     "tags": [
       "food pantry",
       "walk-in"
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 42.7164078,
     "lng": -84.5535202,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225328",
+    "name": "Cristo Rey Community Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1717 N. High",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48906",
+    "phone": "(517) 372-4700",
+    "hours": "",
+    "lat": 42.753727,
+    "lng": -84.5395203,
     "tags": [
       "food pantry",
       "walk-in"

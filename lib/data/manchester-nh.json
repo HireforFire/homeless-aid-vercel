@@ -76,25 +76,6 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "fa-129876",
-    "name": "1063 Making Community Connections Charter",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "60 ROGERS ST",
-    "city": "MANCHESTER",
-    "state": "NH",
-    "zip": "03103",
-    "phone": "(603) 935-7488",
-    "hours": "",
-    "lat": 42.978984,
-    "lng": -71.449011,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-577030",
     "name": "Liberty House",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-129876",
+    "name": "1063 Making Community Connections Charter",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "60 ROGERS ST",
+    "city": "MANCHESTER",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 935-7488",
+    "hours": "",
+    "lat": 42.978984,
+    "lng": -71.449011,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-183401",

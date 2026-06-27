@@ -95,63 +95,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-131154",
-    "name": "Burlington School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "52 INSTITUTE RD",
-    "city": "BURLINGTON",
-    "state": "VT",
-    "zip": "05401",
-    "phone": "(802) 864-8426",
-    "hours": "",
-    "lat": 44.497049,
-    "lng": -73.235473,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-131180",
-    "name": "South Burlington Town School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "500 DORSET ST",
-    "city": "SOUTH BURLINGTON",
-    "state": "VT",
-    "zip": "05403",
-    "phone": "(802) 652-7100",
-    "hours": "",
-    "lat": 44.45565,
-    "lng": -73.174271,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-131192",
-    "name": "Winooski School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "80 NORMAND ST",
-    "city": "WINOOSKI",
-    "state": "VT",
-    "zip": "05404",
-    "phone": "(802) 655-3530",
-    "hours": "",
-    "lat": 44.501249,
-    "lng": -73.180572,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-937",
     "name": "Chittenden Emergency Food Shelf",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-131154",
+    "name": "Burlington School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "52 INSTITUTE RD",
+    "city": "BURLINGTON",
+    "state": "VT",
+    "zip": "05401",
+    "phone": "(802) 864-8426",
+    "hours": "",
+    "lat": 44.497049,
+    "lng": -73.235473,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-131180",
+    "name": "South Burlington Town School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "500 DORSET ST",
+    "city": "SOUTH BURLINGTON",
+    "state": "VT",
+    "zip": "05403",
+    "phone": "(802) 652-7100",
+    "hours": "",
+    "lat": 44.45565,
+    "lng": -73.174271,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-131192",
+    "name": "Winooski School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "80 NORMAND ST",
+    "city": "WINOOSKI",
+    "state": "VT",
+    "zip": "05404",
+    "phone": "(802) 655-3530",
+    "hours": "",
+    "lat": 44.501249,
+    "lng": -73.180572,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fallback-burlington-shelter",

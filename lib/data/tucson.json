@@ -19,44 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-128302",
-    "name": "CPLC Community Schools dba Hiaki High School",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200 NORTH STONE AVE",
-    "city": "TUCSON",
-    "state": "AZ",
-    "zip": "85714",
-    "phone": "(520) 324-3673",
-    "hours": "",
-    "lat": 32.224576,
-    "lng": -110.972247,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-128374",
-    "name": "Tucson Small School Project",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "48 EAST PENNINGTON ST",
-    "city": "TUCSON",
-    "state": "AZ",
-    "zip": "85701",
-    "phone": "(520) 623-7223",
-    "hours": "",
-    "lat": 32.223476,
-    "lng": -110.971247,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-221584",
     "name": "Southern Arizona AIDS Foundation (SAAF)",
     "category": "Food",
@@ -150,6 +112,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-128302",
+    "name": "CPLC Community Schools dba Hiaki High School",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200 NORTH STONE AVE",
+    "city": "TUCSON",
+    "state": "AZ",
+    "zip": "85714",
+    "phone": "(520) 324-3673",
+    "hours": "",
+    "lat": 32.224576,
+    "lng": -110.972247,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-128374",
+    "name": "Tucson Small School Project",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "48 EAST PENNINGTON ST",
+    "city": "TUCSON",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "(520) 623-7223",
+    "hours": "",
+    "lat": 32.223476,
+    "lng": -110.971247,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-739",

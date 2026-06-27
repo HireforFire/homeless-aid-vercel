@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-131309",
-    "name": "Spokane School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200 NORTH BERNARD ST",
-    "city": "SPOKANE",
-    "state": "WA",
-    "zip": "99201",
-    "phone": "(509) 354-5900",
-    "hours": "",
-    "lat": 47.659292,
-    "lng": -117.416646,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-223521",
     "name": "The Campus Kitchen at Gonzaga University",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-131309",
+    "name": "Spokane School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200 NORTH BERNARD ST",
+    "city": "SPOKANE",
+    "state": "WA",
+    "zip": "99201",
+    "phone": "(509) 354-5900",
+    "hours": "",
+    "lat": 47.659292,
+    "lng": -117.416646,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-184033",

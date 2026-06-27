@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-128226",
-    "name": "Fayetteville",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1000 WEST STONE ST",
-    "city": "FAYETTEVILLE",
-    "state": "AR",
-    "zip": "72701",
-    "phone": "(479) 444-3000",
-    "hours": "",
-    "lat": 36.05988,
-    "lng": -94.174305,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-223302",
     "name": "Jane B. Gearhart Full Circle Food Pantry",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-128226",
+    "name": "Fayetteville",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1000 WEST STONE ST",
+    "city": "FAYETTEVILLE",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "(479) 444-3000",
+    "hours": "",
+    "lat": 36.05988,
+    "lng": -94.174305,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-186627",

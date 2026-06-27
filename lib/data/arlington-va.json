@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-131066",
-    "name": "Arlington County",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1426 NORTH QUINCY ST",
-    "city": "ARLINGTON",
-    "state": "VA",
-    "zip": "22204",
-    "phone": "(703) 228-6010",
-    "hours": "",
-    "lat": 38.888512,
-    "lng": -77.108001,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-220999",
     "name": "La Cocina VA",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-131066",
+    "name": "Arlington County",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1426 NORTH QUINCY ST",
+    "city": "ARLINGTON",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "(703) 228-6010",
+    "hours": "",
+    "lat": 38.888512,
+    "lng": -77.108001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-715",

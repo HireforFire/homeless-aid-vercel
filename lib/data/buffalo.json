@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-130206",
-    "name": "Buffalo City SD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "712 CITY HALL",
-    "city": "BUFFALO",
-    "state": "NY",
-    "zip": "14215",
-    "phone": "(716) 816-3575",
-    "hours": "",
-    "lat": 42.886458,
-    "lng": -78.878558,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-223759",
     "name": "First Shiloh Food Pantry",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130206",
+    "name": "Buffalo City SD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "712 CITY HALL",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip": "14215",
+    "phone": "(716) 816-3575",
+    "hours": "",
+    "lat": 42.886458,
+    "lng": -78.878558,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-190561",

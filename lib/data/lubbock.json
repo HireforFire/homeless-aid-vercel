@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-207704",
-    "name": "Susie's Closet",
-    "category": "Food",
-    "description": "Food pantry location in Lubbock, TX",
-    "address": "1701 Parkway Dr.",
-    "city": "Lubbock",
-    "state": "TX",
-    "zip": "79403",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5947042,
-    "lng": -101.8167588,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-181794",
     "name": "East Lubbock Art House",
     "category": "Food",
@@ -202,6 +183,25 @@
     "hours": "",
     "lat": 33.6027843,
     "lng": -101.8192136,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207704",
+    "name": "Susie's Closet",
+    "category": "Food",
+    "description": "Food pantry location in Lubbock, TX",
+    "address": "1701 Parkway Dr.",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79403",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5947042,
+    "lng": -101.8167588,
     "tags": [
       "food pantry",
       "walk-in"

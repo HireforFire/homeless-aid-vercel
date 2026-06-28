@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-213547",
-    "name": "Central Presbyterian Church",
-    "category": "Food",
-    "description": "Central Presbyterian Church food pantry location",
-    "address": "3501 Campbell St",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64109",
-    "phone": "",
-    "hours": "",
-    "lat": 39.062979299999995,
-    "lng": -94.57377369999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-175540",
     "name": "North Kansas City YMCA",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 39.105697683574,
     "lng": -94.546384557405,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177769",
+    "name": "Mountaintop Inc",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "1700 E Linwood Boulevard",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64109",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0691766837,
+    "lng": -94.562733543367,
     "tags": [
       "food pantry",
       "walk-in"

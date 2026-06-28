@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-170512",
-    "name": "Church on the Street",
-    "category": "Food",
-    "description": "Food pantry location serving Clark County residents",
-    "address": "919 E Ogden Ave.",
-    "city": "Las Vegas",
-    "state": "NV",
-    "zip": "89101",
-    "phone": "(702) 474-4439",
-    "hours": "",
-    "lat": 36.1681776,
-    "lng": -115.1343731,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-170379",
     "name": "Veteran's Village",
     "category": "Food",
@@ -50,6 +31,25 @@
     "hours": "",
     "lat": 36.1591135,
     "lng": -115.1280498,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170512",
+    "name": "Church on the Street",
+    "category": "Food",
+    "description": "Food pantry location serving Clark County residents",
+    "address": "919 E Ogden Ave.",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89101",
+    "phone": "(702) 474-4439",
+    "hours": "",
+    "lat": 36.1681776,
+    "lng": -115.1343731,
     "tags": [
       "food pantry",
       "walk-in"

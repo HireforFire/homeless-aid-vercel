@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-212535",
-    "name": "Wauhatchie United Methodist Church",
-    "category": "Food",
-    "description": "Food distribution location at Wauhatchie United Methodist Church",
-    "address": "11304 First St.",
-    "city": "Chattanooga",
-    "state": "TN",
-    "zip": "37402",
-    "phone": "",
-    "hours": "",
-    "lat": 35.0556986,
-    "lng": -85.3092872,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-172256",
     "name": "La Paz Chattanooga",
     "category": "Food",
@@ -53,6 +34,25 @@
     "tags": [
       "food pantry",
       "appointment"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212535",
+    "name": "Wauhatchie United Methodist Church",
+    "category": "Food",
+    "description": "Food distribution location at Wauhatchie United Methodist Church",
+    "address": "11304 First St.",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37402",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0556986,
+    "lng": -85.3092872,
+    "tags": [
+      "food pantry",
+      "walk-in"
     ],
     "lastUpdated": "2026-04-21"
   },

@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-224388",
-    "name": "THE FOOD INITATIVE",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "120 Kerr Ave",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "95354",
-    "phone": "(209) 572-3117",
-    "hours": "",
-    "lat": 37.6375559,
-    "lng": -120.9708268,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-218549",
     "name": "The Salvation Army - 9Th Street",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 37.6236,
     "lng": -120.99828,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223862",
+    "name": "MJC Pirates' Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2201 Blue Gum Ave",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95358",
+    "phone": "(209) 575-7902",
+    "hours": "",
+    "lat": 37.6627211,
+    "lng": -121.0354933,
     "tags": [
       "food pantry",
       "walk-in"

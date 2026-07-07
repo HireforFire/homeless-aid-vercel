@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-211153",
+    "name": "Working Partnerships - Minneapolis Office",
+    "category": "Food",
+    "description": "Main office location for Working Partnerships employment and support services.",
+    "address": "312 Central Avenue SE",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55414",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9869205,
+    "lng": -93.2543919,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-176691",
     "name": "Sharing and Caring Hands",
     "category": "Food",
@@ -164,25 +183,6 @@
     "hours": "",
     "lat": 44.9833027,
     "lng": -93.2825953,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-211153",
-    "name": "Working Partnerships - Minneapolis Office",
-    "category": "Food",
-    "description": "Main office location for Working Partnerships employment and support services.",
-    "address": "312 Central Avenue SE",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55414",
-    "phone": "",
-    "hours": "",
-    "lat": 44.9869205,
-    "lng": -93.2543919,
     "tags": [
       "food pantry",
       "walk-in"

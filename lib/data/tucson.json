@@ -152,44 +152,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-739",
-    "name": "Gospel Rescue Mission Tucson",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "707 S 2nd Ave",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85701",
-    "phone": "(520) 740-1501",
-    "hours": "",
-    "lat": 32.2114,
-    "lng": -110.9714,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-837",
-    "name": "Tucson Community Food Bank",
-    "category": "Food",
-    "description": "Downtown Tucson",
-    "address": "217 S 6th Ave",
-    "city": "Tucson",
-    "state": "AZ",
-    "zip": "85701",
-    "phone": "(520) 622-1545",
-    "hours": "",
-    "lat": 32.2214,
-    "lng": -110.9614,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-186328",
     "name": "Neighbors Feeding Neighbors - Kitchen Location",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-2154",
+    "name": "Primavera Foundation Food Distribution Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "702 S 6th Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "(520) 882-9668",
+    "hours": "",
+    "lat": 32.21702,
+    "lng": -110.97138,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-739",
+    "name": "Gospel Rescue Mission Tucson",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "707 S 2nd Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701",
+    "phone": "(520) 740-1501",
+    "hours": "",
+    "lat": 32.2114,
+    "lng": -110.9714,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-tucson-shelter",

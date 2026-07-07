@@ -152,63 +152,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-536",
-    "name": "Msgr. Carr Institute",
-    "category": "Food",
-    "description": "Buffalo area",
-    "address": "402 Swan Street",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14204",
-    "phone": "(716) 854-0288",
-    "hours": "",
-    "lat": 42.8889,
-    "lng": -78.8689,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-588",
-    "name": "Catholic Charities Buffalo",
-    "category": "Food",
-    "description": "Buffalo area",
-    "address": "525 Washington Street",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14203",
-    "phone": "(716) 856-4494",
-    "hours": "",
-    "lat": 42.8889,
-    "lng": -78.8689,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-589",
-    "name": "Buffalo City Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "100 E Tupper Street",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14203",
-    "phone": "(716) 854-8181",
-    "hours": "",
-    "lat": 42.8939,
-    "lng": -78.8689,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-10633",
     "name": "Los Tainos Seniors Food Pantry",
     "category": "Food",
@@ -218,6 +161,63 @@
     "state": "NY",
     "zip": "14201",
     "phone": "(716) 842-0172",
+    "hours": "",
+    "lat": 42.89706,
+    "lng": -78.88752,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-10634",
+    "name": "Urban Christian Ministries",
+    "category": "Food",
+    "description": "referral",
+    "address": "967 Jefferson Avenue",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "(716) 882-9472",
+    "hours": "",
+    "lat": 42.882,
+    "lng": -78.8614,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-10657",
+    "name": "Buffalo Urban League Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "86 Pine St",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "(716) 854-7625",
+    "hours": "",
+    "lat": 42.882,
+    "lng": -78.8614,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-10663",
+    "name": "Belle Center Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "104 Maryland Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14201",
+    "phone": "(716) 845-0485",
     "hours": "",
     "lat": 42.89706,
     "lng": -78.88752,

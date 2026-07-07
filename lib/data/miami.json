@@ -152,25 +152,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-628",
-    "name": "Miami Rescue Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "2200 NW 1st Avenue",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33127",
-    "phone": "(305) 571-5603",
-    "hours": "",
-    "lat": 25.7943,
-    "lng": -80.1997,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-3571",
     "name": "Missionaries of Charity",
     "category": "Food",
@@ -218,6 +199,25 @@
     "state": "FL",
     "zip": "33136",
     "phone": "(305) 371-3212",
+    "hours": "",
+    "lat": 25.78703,
+    "lng": -80.20444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-3876",
+    "name": "Comm Partnership for Homeless",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1550 N Miami Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33136",
+    "phone": "(305) 329-3003",
     "hours": "",
     "lat": 25.78703,
     "lng": -80.20444,

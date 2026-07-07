@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-623",
-    "name": "El Paso Community Action",
-    "category": "Food",
-    "description": "El Paso area",
-    "address": "303 N Oregon Street",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "79901",
-    "phone": "(915) 577-0050",
-    "hours": "",
-    "lat": 31.7584,
-    "lng": -106.4883,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-13580",
     "name": "Dame La Mano Crisis Center",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-623",
+    "name": "El Paso Community Action",
+    "category": "Food",
+    "description": "El Paso area",
+    "address": "303 N Oregon Street",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "(915) 577-0050",
+    "hours": "",
+    "lat": 31.7584,
+    "lng": -106.4883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-226337",

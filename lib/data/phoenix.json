@@ -133,63 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-734",
-    "name": "Association of Arizona Food Banks",
-    "category": "Food",
-    "description": "Statewide",
-    "address": "340 E Jefferson St",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85004",
-    "phone": "(602) 528-3434",
-    "hours": "",
-    "lat": 33.4514,
-    "lng": -112.0614,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-736",
-    "name": "Society of St Vincent de Paul",
-    "category": "Food",
-    "description": "Maricopa County",
-    "address": "420 W Watkins Rd",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85003",
-    "phone": "(602) 261-6565",
-    "hours": "",
-    "lat": 33.4514,
-    "lng": -112.0814,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-831",
-    "name": "St Vincent de Paul Phoenix Central",
-    "category": "Food",
-    "description": "Central Phoenix",
-    "address": "1075 W Jackson St",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85007",
-    "phone": "(602) 261-6011",
-    "hours": "",
-    "lat": 33.4514,
-    "lng": -112.0914,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-182512",
     "name": "Justa Center Inc",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189209",
+    "name": "Friendly House Inc",
+    "category": "Food",
+    "description": "Main office location for Friendly House Inc",
+    "address": "723 S 1st Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85003",
+    "phone": "",
+    "hours": "",
+    "lat": 33.44038,
+    "lng": -112.0748,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-734",
+    "name": "Association of Arizona Food Banks",
+    "category": "Food",
+    "description": "Statewide",
+    "address": "340 E Jefferson St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85004",
+    "phone": "(602) 528-3434",
+    "hours": "",
+    "lat": 33.4514,
+    "lng": -112.0614,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-736",
+    "name": "Society of St Vincent de Paul",
+    "category": "Food",
+    "description": "Maricopa County",
+    "address": "420 W Watkins Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85003",
+    "phone": "(602) 261-6565",
+    "hours": "",
+    "lat": 33.4514,
+    "lng": -112.0814,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-phoenix-shelter",

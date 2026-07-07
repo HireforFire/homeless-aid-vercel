@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-781",
-    "name": "Loaves and Fishes Charlotte",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "648 E 10th St",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "28202",
-    "phone": "(704) 523-4333",
-    "hours": "",
-    "lat": 35.2214,
-    "lng": -80.8364,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-183346",
     "name": "CAM - Crisis Assistance Ministry of Charlotte",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 35.220198,
     "lng": -80.85815869999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204907",
+    "name": "WFNZ Dog House",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "401 West Morehead Street",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2236656,
+    "lng": -80.8543005,
     "tags": [
       "food pantry",
       "walk-in"

@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-783",
-    "name": "Greensboro Urban Ministry",
-    "category": "Food",
-    "description": "Guilford County",
-    "address": "305 W Gate City Blvd",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "27406",
-    "phone": "(336) 271-5959",
-    "hours": "",
-    "lat": 36.0614,
-    "lng": -79.7914,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-187920",
     "name": "Room at the Inn of the Carolinas",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-783",
+    "name": "Greensboro Urban Ministry",
+    "category": "Food",
+    "description": "Guilford County",
+    "address": "305 W Gate City Blvd",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27406",
+    "phone": "(336) 271-5959",
+    "hours": "",
+    "lat": 36.0614,
+    "lng": -79.7914,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-225672",

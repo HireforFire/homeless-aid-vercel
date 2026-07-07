@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-630",
-    "name": "Orlando Union Rescue Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "600 W Central Boulevard",
-    "city": "Orlando",
-    "state": "FL",
-    "zip": "32805",
-    "phone": "(407) 422-4855",
-    "hours": "",
-    "lat": 28.5502,
-    "lng": -81.3845,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-172104",
     "name": "Heart 2 Heart at Shepherd Vision Missionary, Inc.",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-630",
+    "name": "Orlando Union Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "600 W Central Boulevard",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "(407) 422-4855",
+    "hours": "",
+    "lat": 28.5502,
+    "lng": -81.3845,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-219521",

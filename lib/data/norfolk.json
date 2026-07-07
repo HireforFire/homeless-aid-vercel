@@ -114,25 +114,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-717",
-    "name": "YWCA Norfolk Food Pantry",
-    "category": "Food",
-    "description": "Norfolk area",
-    "address": "624 E Freemason St",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "23510",
-    "phone": "(757) 625-4248",
-    "hours": "",
-    "lat": 36.8514,
-    "lng": -76.2814,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-188908",
     "name": "Soup Kitchen-Norfolk Soup",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-717",
+    "name": "YWCA Norfolk Food Pantry",
+    "category": "Food",
+    "description": "Norfolk area",
+    "address": "624 E Freemason St",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23510",
+    "phone": "(757) 625-4248",
+    "hours": "",
+    "lat": 36.8514,
+    "lng": -76.2814,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-173552",

@@ -152,44 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-663",
-    "name": "Freestore Foodbank",
-    "category": "Food",
-    "description": "Southwest OH",
-    "address": "1141 Central Pkwy",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45202",
-    "phone": "(513) 482-7550",
-    "hours": "",
-    "lat": 39.1114,
-    "lng": -84.5214,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-763",
-    "name": "Over the Rhine Community Food Pantry",
-    "category": "Food",
-    "description": "Downtown",
-    "address": "1435 Vine St",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45202",
-    "phone": "(513) 241-4135",
-    "hours": "",
-    "lat": 39.1114,
-    "lng": -84.5164,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-178157",
     "name": "POAH Communities - Cincinnati",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 39.100925069815,
     "lng": -84.507446766136,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176897",
+    "name": "Freestore Foodbank: Liberty Street Market",
+    "category": "Food",
+    "description": "Food distribution location at Liberty Street Market",
+    "address": "112 East Liberty Street",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.112963913527,
+    "lng": -84.513676783309,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177301",
+    "name": "Pop-Up: Hamilton County PO",
+    "category": "Food",
+    "description": "Pop-up food assistance location in Cincinnati, Hamilton County, Ohio.",
+    "address": "800 Broadway",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.105869,
+    "lng": -84.50675,
     "tags": [
       "food pantry",
       "walk-in"

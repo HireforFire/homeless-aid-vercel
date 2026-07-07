@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-725",
-    "name": "Tacoma Rescue Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "425 S Tacoma Way",
-    "city": "Tacoma",
-    "state": "WA",
-    "zip": "98402",
-    "phone": "(253) 383-4493",
-    "hours": "",
-    "lat": 47.2514,
-    "lng": -122.4414,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-184815",
     "name": "Tacoma Empowerment Consortium - Food Distribution Center",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-725",
+    "name": "Tacoma Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "425 S Tacoma Way",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98402",
+    "phone": "(253) 383-4493",
+    "hours": "",
+    "lat": 47.2514,
+    "lng": -122.4414,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-14530",

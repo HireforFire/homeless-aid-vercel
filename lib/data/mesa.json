@@ -133,25 +133,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-833",
-    "name": "Mesa United Way Food Bank",
-    "category": "Food",
-    "description": "Mesa area",
-    "address": "537 S Mesa Dr",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85210",
-    "phone": "(480) 969-4558",
-    "hours": "",
-    "lat": 33.4014,
-    "lng": -111.8314,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-172314",
     "name": "Eisenhower Center for Innovation",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-833",
+    "name": "Mesa United Way Food Bank",
+    "category": "Food",
+    "description": "Mesa area",
+    "address": "537 S Mesa Dr",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85210",
+    "phone": "(480) 969-4558",
+    "hours": "",
+    "lat": 33.4014,
+    "lng": -111.8314,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-218648",

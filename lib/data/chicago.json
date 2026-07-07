@@ -76,44 +76,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-654",
-    "name": "Pacific Garden Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "1458 S Canal St",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60607",
-    "phone": "(312) 492-9410",
-    "hours": "",
-    "lat": 41.8614,
-    "lng": -87.6414,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-754",
-    "name": "Pilsen Food Pantry",
-    "category": "Food",
-    "description": "Pilsen",
-    "address": "1850 S Throop St",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60608",
-    "phone": "(312) 666-3130",
-    "hours": "",
-    "lat": 41.8564,
-    "lng": -87.6564,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-186777",
     "name": "Our Lady of the Holy Family",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 41.9009038,
     "lng": -87.6376575,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197272",
+    "name": "Northwestern University Settlement Association",
+    "category": "Food",
+    "description": "Main food pantry and grocery distribution location",
+    "address": "1400 W Augusta Blvd",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60622",
+    "phone": "",
+    "hours": "",
+    "lat": 41.9000176,
+    "lng": -87.6627352,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199597",
+    "name": "Chicago Lights",
+    "category": "Food",
+    "description": "Chicago Lights food pantry and grocery distribution location",
+    "address": "126 E Chestnut St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60611",
+    "phone": "",
+    "hours": "",
+    "lat": 41.89871,
+    "lng": -87.62544,
     "tags": [
       "food pantry",
       "walk-in"

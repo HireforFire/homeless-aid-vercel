@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-802",
-    "name": "Jersey City Rescue Mission",
-    "category": "Food",
-    "description": "Hudson County",
-    "address": "436 State St",
-    "city": "Jersey City",
-    "state": "NJ",
-    "zip": "07302",
-    "phone": "(201) 434-3344",
-    "hours": "",
-    "lat": 40.7214,
-    "lng": -74.0614,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-176965",
     "name": "Riverside Assembly Of God",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -74.059135,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203636",
+    "name": "Team Walker Farmers Market - Main Location",
+    "category": "Food",
+    "description": "Main farmers market location",
+    "address": "293 Pine Street",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07304",
+    "phone": "",
+    "hours": "",
+    "lat": 40.71289609999999,
+    "lng": -74.058195,
+    "tags": [
+      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

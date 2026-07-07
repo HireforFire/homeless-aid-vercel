@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-690",
-    "name": "Urban Ministries Durham",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "410 Liberty St",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "(919) 682-0538",
-    "hours": "",
-    "lat": 35.9914,
-    "lng": -78.9014,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-184874",
     "name": "Durham Rescue Mission",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 35.988676,
     "lng": -78.881496,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206371",
+    "name": "Fisher Memorial",
+    "category": "Food",
+    "description": "Fisher Memorial food assistance location in Durham, NC",
+    "address": "420 East Piedmont Avenue",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27707",
+    "phone": "",
+    "hours": "",
+    "lat": 35.9839037,
+    "lng": -78.8996894,
     "tags": [
       "food pantry",
       "walk-in"

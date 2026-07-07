@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-658",
-    "name": "River Bend Food Bank",
+    "id": "fa-4985",
+    "name": "The Salvation Army Social Service Office and Food Pantry",
     "category": "Food",
-    "description": "Northern IL",
-    "address": "4010 11th St",
+    "description": "appointment",
+    "address": "520 Hollister Avenue",
     "city": "Rockford",
     "state": "IL",
-    "zip": "61109",
-    "phone": "(815) 964-2663",
+    "zip": "61104",
+    "phone": "(815) 972-1135",
     "hours": "",
-    "lat": 42.2614,
-    "lng": -89.0614,
+    "lat": 42.25186,
+    "lng": -89.07911,
     "tags": [
-      "food bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-01-08"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-rockford-shelter",

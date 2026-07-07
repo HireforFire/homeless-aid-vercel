@@ -95,44 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-667",
-    "name": "West Side Catholic Center",
-    "category": "Food",
-    "description": "West Side",
-    "address": "3135 Lorain Ave",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44113",
-    "phone": "(216) 631-4741",
-    "hours": "",
-    "lat": 41.4814,
-    "lng": -81.7214,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-762",
-    "name": "East Side Catholic Community",
-    "category": "Food",
-    "description": "East Cleveland",
-    "address": "1860 E 30th St",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44114",
-    "phone": "(216) 881-8888",
-    "hours": "",
-    "lat": 41.4914,
-    "lng": -81.6514,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-175542",
     "name": "Iglesia Sinai",
     "category": "Food",
@@ -223,6 +185,44 @@
     "lng": -81.671254309673,
     "tags": [
       "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176814",
+    "name": "MetroHealth Mobile Pantry",
+    "category": "Food",
+    "description": "Mobile pantry distribution location",
+    "address": "2500 Metro Health Dr",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44109",
+    "phone": "",
+    "hours": "",
+    "lat": 41.462452780205,
+    "lng": -81.697325548947,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177684",
+    "name": "St. Andrew's Episcopal Church",
+    "category": "Food",
+    "description": "St. Andrew's Episcopal Church location providing hot meals distribution.",
+    "address": "2171 E 49th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44103",
+    "phone": "",
+    "hours": "",
+    "lat": 41.499539013719,
+    "lng": -81.653000368575,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-696",
-    "name": "Food Gatherers",
-    "category": "Food",
-    "description": "Washtenaw County",
-    "address": "1 Carrot Way",
-    "city": "Ann Arbor",
-    "state": "MI",
-    "zip": "48105",
-    "phone": "(734) 761-2796",
-    "hours": "",
-    "lat": 42.2414,
-    "lng": -83.7814,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-183436",
     "name": "Interfaith Hospitality Network - Ann Arbor",
     "category": "Food",
@@ -131,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-696",
+    "name": "Food Gatherers",
+    "category": "Food",
+    "description": "Washtenaw County",
+    "address": "1 Carrot Way",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48105",
+    "phone": "(734) 761-2796",
+    "hours": "",
+    "lat": 42.2414,
+    "lng": -83.7814,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-7316",

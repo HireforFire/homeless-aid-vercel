@@ -228,22 +228,116 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fallback-indianapolis-shelter",
-    "name": "Indianapolis Homeless Services Hotline",
+    "id": "osm-node-1688056819",
+    "name": "Shelter 5",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Indianapolis",
     "state": "IN",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 39.7684,
-    "lng": -86.1581,
+    "phone": "",
+    "hours": "",
+    "lat": 39.6861941,
+    "lng": -85.9610601,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1688056916",
+    "name": "Shelter 6",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.6844929,
+    "lng": -85.9609632,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1688057598",
+    "name": "Shelter 4",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.6862726,
+    "lng": -85.9607489,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1688057609",
+    "name": "Shelter 3",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.6863303,
+    "lng": -85.9598585,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1688057610",
+    "name": "Shelter 2",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.6864191,
+    "lng": -85.9586946,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1692244974",
+    "name": "Shelter C",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.8713838,
+    "lng": -86.2863151,
+    "tags": [
+      "shelter",
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

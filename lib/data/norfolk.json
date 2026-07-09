@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-577505",
-    "name": "Foodbank of Southeastern Virginia and the Eastern Shore",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "800 Tidewater Drive",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "23504",
-    "phone": "+1-757-627-6599;+1-877-486-4379",
-    "hours": "",
-    "lat": 36.8520447,
-    "lng": -76.2744762,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-211350",
     "name": "Queen Street Baptist Church",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-577505",
+    "name": "Foodbank of Southeastern Virginia and the Eastern Shore",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "800 Tidewater Drive",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "+1-757-627-6599;+1-877-486-4379",
+    "hours": "",
+    "lat": 36.8520447,
+    "lng": -76.2744762,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-192262",

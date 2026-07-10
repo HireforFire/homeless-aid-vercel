@@ -152,25 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-225888",
-    "name": "TKRC PANTRY",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3850 WALLACE ST",
-    "city": "Rubidoux",
-    "state": "CA",
-    "zip": "92509",
-    "phone": "(951) 684-0336",
-    "hours": "",
-    "lat": 33.9938087,
-    "lng": -117.4024124,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-219926",
     "name": "Path of Life Ministries",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 33.9271278,
     "lng": -117.4322891,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225888",
+    "name": "TKRC PANTRY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3850 WALLACE ST",
+    "city": "Rubidoux",
+    "state": "CA",
+    "zip": "92509",
+    "phone": "(951) 684-0336",
+    "hours": "",
+    "lat": 33.9938087,
+    "lng": -117.4024124,
     "tags": [
       "food pantry",
       "walk-in"

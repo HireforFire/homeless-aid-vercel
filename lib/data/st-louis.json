@@ -190,25 +190,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-200194",
-    "name": "FOCUS Gateway City",
-    "category": "Food",
-    "description": "FOCUS Gateway City food distribution location at 1901 Ann Ave in St. Louis, MO",
-    "address": "1901 Ann Ave.",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63104",
-    "phone": "",
-    "hours": "",
-    "lat": 38.6082574,
-    "lng": -90.2143266,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-219916",
     "name": "joint neighborhood ministry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 38.5996704,
     "lng": -90.2207184,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220241",
+    "name": "Society of St. Vincent de Paul Conference @ St. Francis de Sales Oratory",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2653 Ohio Avenue",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63118",
+    "phone": "(314) 289-6101",
+    "hours": "",
+    "lat": 38.6040154,
+    "lng": -90.2257156,
     "tags": [
       "food pantry",
       "walk-in"

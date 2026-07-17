@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-2193",
-    "name": "Anaheim Spanish Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1457 E. Romneya Dr.",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "92805",
-    "phone": "(714) 956-2726",
-    "hours": "",
-    "lat": 33.83003,
-    "lng": -117.90568,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-175006",
     "name": "Project Access - Hermosa Village",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-2193",
+    "name": "Anaheim Spanish Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1457 E. Romneya Dr.",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92805",
+    "phone": "(714) 956-2726",
+    "hours": "",
+    "lat": 33.83003,
+    "lng": -117.90568,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-2188",
@@ -112,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-185490",
-    "name": "Neighborhood Services - Main Location",
-    "category": "Food",
-    "description": "Neighborhood Services food distribution center in Placentia",
-    "address": "900 South Melrose Street",
-    "city": "Placentia",
-    "state": "CA",
-    "zip": "92870",
-    "phone": "",
-    "hours": "",
-    "lat": 33.8601968981324,
-    "lng": -117.874101526717,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-217912",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 33.8723907,
     "lng": -117.9216995,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222257",
+    "name": "Mercy Housing Anaheim",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2240 West Lincoln Avenue",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92801",
+    "phone": "(714) 956-8390",
+    "hours": "",
+    "lat": 33.8319473,
+    "lng": -117.9609146,
     "tags": [
       "food pantry",
       "walk-in"

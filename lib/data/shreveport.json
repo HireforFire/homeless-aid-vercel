@@ -76,6 +76,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-871",
+    "name": "Food Bank of Northwest Louisiana",
+    "category": "Food",
+    "description": "Serves Northwest Louisiana",
+    "address": "2307 Texas Avenue",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71103",
+    "phone": "(318) 675-2400",
+    "hours": "",
+    "lat": 32.5117,
+    "lng": -93.7817,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-6171",
     "name": "Christian Services Program",
     "category": "Food",
@@ -95,23 +114,23 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-871",
-    "name": "Food Bank of Northwest Louisiana",
+    "id": "fa-226312",
+    "name": "Basic Necessities",
     "category": "Food",
-    "description": "Serves Northwest Louisiana",
-    "address": "2307 Texas Avenue",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Shreveport, LA",
     "city": "Shreveport",
     "state": "LA",
-    "zip": "71103",
-    "phone": "(318) 675-2400",
+    "zip": "71101",
+    "phone": "",
     "hours": "",
-    "lat": 32.5117,
-    "lng": -93.7817,
+    "lat": 32.5062,
+    "lng": -93.74822,
     "tags": [
-      "food bank",
+      "diaper bank",
       "walk-in"
     ],
-    "lastUpdated": "2025-01-01"
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-6172",
@@ -169,25 +188,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-226312",
-    "name": "Basic Necessities",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Shreveport, LA",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "71101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.5062,
-    "lng": -93.74822,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-225800",

@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-14795",
-    "name": "Interchange Food Pantry",
-    "category": "Food",
-    "description": "proof of address",
-    "address": "130 E Juneau Avenue",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53202",
-    "phone": "(414) 551-2184",
-    "hours": "",
-    "lat": 43.04561,
-    "lng": -87.89893,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-173382",
     "name": "All Peoples Church - Food Distribution Center",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-14795",
+    "name": "Interchange Food Pantry",
+    "category": "Food",
+    "description": "proof of address",
+    "address": "130 E Juneau Avenue",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53202",
+    "phone": "(414) 551-2184",
+    "hours": "",
+    "lat": 43.04561,
+    "lng": -87.89893,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-226309",

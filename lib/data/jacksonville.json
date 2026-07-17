@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-3817",
-    "name": "Downtown Ecumenical Services Council  DESC Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "215 N Ocean Street",
-    "city": "Jacksonville",
-    "state": "FL",
-    "zip": "32202",
-    "phone": "(904) 358-7955",
-    "hours": "",
-    "lat": 30.32505,
-    "lng": -81.64786,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-171949",
     "name": "The Well Church",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-3817",
+    "name": "Downtown Ecumenical Services Council  DESC Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "215 N Ocean Street",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32202",
+    "phone": "(904) 358-7955",
+    "hours": "",
+    "lat": 30.32505,
+    "lng": -81.64786,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-632",

@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-7317",
-    "name": "Ann Arbor Department Of Parks And Recreationbryant Community",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3 W Eden Ct.",
-    "city": "Ann Arbor",
-    "state": "MI",
-    "zip": "48108",
-    "phone": "(734) 477-0292",
-    "hours": "",
-    "lat": 42.22206,
-    "lng": -83.7317,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-696",
     "name": "Food Gatherers",
     "category": "Food",
@@ -131,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-7317",
+    "name": "Ann Arbor Department Of Parks And Recreationbryant Community",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3 W Eden Ct.",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48108",
+    "phone": "(734) 477-0292",
+    "hours": "",
+    "lat": 42.22206,
+    "lng": -83.7317,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-7316",

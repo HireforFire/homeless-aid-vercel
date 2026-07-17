@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-13548",
-    "name": "The Stewpot",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1835 Young Street",
-    "city": "Dallas",
-    "state": "TX",
-    "zip": "75201",
-    "phone": "(214) 746-2785",
-    "hours": "",
-    "lat": 32.78826,
-    "lng": -96.79953,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-226197",
     "name": "Hope Supply Co.",
     "category": "Food",
@@ -150,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-13548",
+    "name": "The Stewpot",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1835 Young Street",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201",
+    "phone": "(214) 746-2785",
+    "hours": "",
+    "lat": 32.78826,
+    "lng": -96.79953,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-220228",

@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-2363",
-    "name": "PEACE Center Food Pantry at  Saddleback Church Irvine South",
-    "category": "Food",
-    "description": "income verification",
-    "address": "18842 Teller Avenue",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92612",
-    "phone": "(949) 609-8210",
-    "hours": "",
-    "lat": 33.65984,
-    "lng": -117.82457,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-397",
     "name": "Second Harvest Food Bank Orange County",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-221924",
+    "name": "Boys Hope Girls Hope of Southern California",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "17701 Cowan Ave",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92614",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6954346,
+    "lng": -117.8576965,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-irvine-shelter",

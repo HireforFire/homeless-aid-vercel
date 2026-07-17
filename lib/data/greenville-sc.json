@@ -209,18 +209,18 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-185185",
-    "name": "The Way of Holiness Mission",
+    "id": "fa-203689",
+    "name": "First Christian Fellowship",
     "category": "Food",
-    "description": "Food distribution location",
-    "address": "228 Honour St.",
+    "description": "Food pantry location at First Christian Fellowship church",
+    "address": "110 Montana St.",
     "city": "Greenville",
     "state": "SC",
     "zip": "29611",
     "phone": "",
     "hours": "",
-    "lat": 34.8329391,
-    "lng": -82.4245954,
+    "lat": 34.8625907,
+    "lng": -82.4295275,
     "tags": [
       "food pantry",
       "walk-in"

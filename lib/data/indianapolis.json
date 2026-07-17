@@ -152,25 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-5717",
-    "name": "Metropolitan Baptist Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "952 N Pennsylvania Street",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46204",
-    "phone": "(317) 687-0075",
-    "hours": "",
-    "lat": 39.77134,
-    "lng": -86.15703,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-173701",
     "name": "Christamore House",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-5717",
+    "name": "Metropolitan Baptist Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "952 N Pennsylvania Street",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46204",
+    "phone": "(317) 687-0075",
+    "hours": "",
+    "lat": 39.77134,
+    "lng": -86.15703,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-5709",

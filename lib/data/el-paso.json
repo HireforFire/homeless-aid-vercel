@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-13580",
-    "name": "Dame La Mano Crisis Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1014 S. Virginia Street",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "79901",
-    "phone": "(915) 546-4040",
-    "hours": "",
-    "lat": 31.7597,
-    "lng": -106.48049,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-623",
     "name": "El Paso Community Action",
     "category": "Food",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-13580",
+    "name": "Dame La Mano Crisis Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1014 S. Virginia Street",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "(915) 546-4040",
+    "hours": "",
+    "lat": 31.7597,
+    "lng": -106.48049,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-193",

@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-8354",
-    "name": "Deliver Me Senior Support Services",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1405 S Gallatin St",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "39201",
-    "phone": "(601) 354-4646",
-    "hours": "",
-    "lat": 32.28981,
-    "lng": -90.18398,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-226365",
     "name": "Magnolia medical Foundation",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-8354",
+    "name": "Deliver Me Senior Support Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1405 S Gallatin St",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39201",
+    "phone": "(601) 354-4646",
+    "hours": "",
+    "lat": 32.28981,
+    "lng": -90.18398,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-219231",

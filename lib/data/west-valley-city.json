@@ -38,6 +38,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-172384",
+    "name": "Comunidades Unidas - West Valley City",
+    "category": "Food",
+    "description": "Food assistance distribution location",
+    "address": "1750 Research Way",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84119",
+    "phone": "(385) 415-9785",
+    "hours": "",
+    "lat": 40.7113899,
+    "lng": -111.9399689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173566",
+    "name": "Bible Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Bible Baptist Church in Taylorsville",
+    "address": "3769 West 4700 South",
+    "city": "Taylorsville",
+    "state": "UT",
+    "zip": "84118",
+    "phone": "(801) 964-2888",
+    "hours": "",
+    "lat": 40.666948,
+    "lng": -111.9810883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-13883",
     "name": "Utah Food Bank - Salt Lake",
     "category": "Food",
@@ -95,42 +133,23 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-172384",
-    "name": "Comunidades Unidas - West Valley City",
+    "id": "fa-577499",
+    "name": "Green Urban Lunchbox Community Fridge",
     "category": "Food",
-    "description": "Food assistance distribution location",
-    "address": "1750 Research Way",
-    "city": "West Valley City",
+    "description": "Free community fridge providing food assistance. Open to all.",
+    "address": "3188 South 1100 West",
+    "city": "South Salt Lake",
     "state": "UT",
     "zip": "84119",
-    "phone": "(385) 415-9785",
+    "phone": "",
     "hours": "",
-    "lat": 40.7113899,
-    "lng": -111.9399689,
+    "lat": 40.701734,
+    "lng": -111.9228923,
     "tags": [
-      "food pantry",
+      "community fridge",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173566",
-    "name": "Bible Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location at Bible Baptist Church in Taylorsville",
-    "address": "3769 West 4700 South",
-    "city": "Taylorsville",
-    "state": "UT",
-    "zip": "84118",
-    "phone": "(801) 964-2888",
-    "hours": "",
-    "lat": 40.666948,
-    "lng": -111.9810883,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-13914",
@@ -150,25 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-577499",
-    "name": "Green Urban Lunchbox Community Fridge",
-    "category": "Food",
-    "description": "Free community fridge providing food assistance. Open to all.",
-    "address": "3188 South 1100 West",
-    "city": "South Salt Lake",
-    "state": "UT",
-    "zip": "84119",
-    "phone": "",
-    "hours": "",
-    "lat": 40.701734,
-    "lng": -111.9228923,
-    "tags": [
-      "community fridge",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-577488",

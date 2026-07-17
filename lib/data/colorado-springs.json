@@ -133,63 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-2793",
-    "name": "St. Johns Baptist Church Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "902 S. Prospect St.",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(388) 634-5687",
-    "hours": "",
-    "lat": 38.83249,
-    "lng": -104.81342,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-2801",
-    "name": "Springs Rescue Mission",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "5 W Las Vegas Street",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(719) 632-1822",
-    "hours": "",
-    "lat": 38.83249,
-    "lng": -104.81342,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-2807",
-    "name": "Marian House Kitchen and Marketplace Food Pantry",
-    "category": "Food",
-    "description": "appointment",
-    "address": "14 W Bijou Street",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(719) 475-7314",
-    "hours": "",
-    "lat": 38.83249,
-    "lng": -104.81342,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-216200",
     "name": "Trinity United Methodist Church",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-216227",
+    "name": "Food to Power",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1090 S Institute St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(719) 470-2737",
+    "hours": "",
+    "lat": 38.817623,
+    "lng": -104.809013,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-172247",
+    "name": "Colorado Springs Senior Center",
+    "category": "Food",
+    "description": "Senior center providing congregate meals for seniors in the Colorado Springs area.",
+    "address": "1514 N. Hancock Ave.",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(719) 955-3400",
+    "hours": "",
+    "lat": 38.8547476,
+    "lng": -104.8035731,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216182",
+    "name": "Action In Action",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "930 S Prospect St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(719) 619-9412",
+    "hours": "",
+    "lat": 38.819721,
+    "lng": -104.811226,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-colorado-springs-shelter",

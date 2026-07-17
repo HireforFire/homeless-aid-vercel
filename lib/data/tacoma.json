@@ -171,25 +171,6 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-14530",
-    "name": "My Sister's Food and Clothing Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "621 Tacoma Avenue S",
-    "city": "Tacoma",
-    "state": "WA",
-    "zip": "98402",
-    "phone": "(253) 627-1186",
-    "hours": "",
-    "lat": 47.25021,
-    "lng": -122.44056,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-226311",
     "name": "Pierce County Early Childhood Network",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-14530",
+    "name": "My Sister's Food and Clothing Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "621 Tacoma Avenue S",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98402",
+    "phone": "(253) 627-1186",
+    "hours": "",
+    "lat": 47.25021,
+    "lng": -122.44056,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-222060",

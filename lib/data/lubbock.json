@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-13723",
-    "name": "Trinity Outreach Center - Food Vouchers",
+    "id": "fa-625",
+    "name": "Lubbock Impact",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "7002 Canton Ave",
+    "description": "Lubbock area",
+    "address": "3511 Avenue A",
     "city": "Lubbock",
     "state": "TX",
-    "zip": "79410",
-    "phone": "(806) 792-3363",
+    "zip": "79404",
+    "phone": "(806) 740-1909",
     "hours": "",
-    "lat": 33.56962,
-    "lng": -101.89124,
+    "lat": 33.576,
+    "lng": -101.8333,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-01-18"
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-lubbock-shelter",

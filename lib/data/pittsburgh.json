@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-12665",
-    "name": "Bethel AME Church Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2720 Webster Avenue",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "15219",
-    "phone": "(412) 683-2160",
-    "hours": "",
-    "lat": 40.44304,
-    "lng": -79.98443,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-172739",
     "name": "Lighthouse Memorial Christian Center",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-12665",
+    "name": "Bethel AME Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2720 Webster Avenue",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15219",
+    "phone": "(412) 683-2160",
+    "hours": "",
+    "lat": 40.44304,
+    "lng": -79.98443,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-225715",
@@ -228,59 +228,22 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-2703786865",
-    "name": "Westinghouse Shelter",
+    "id": "fallback-pittsburgh-shelter",
+    "name": "Pittsburgh Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Pittsburgh",
     "state": "PA",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.4382152,
-    "lng": -79.9443311,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 40.4406,
+    "lng": -79.9959,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2713700239",
-    "name": "Oval Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.4312271,
-    "lng": -79.9444459,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2713700314",
-    "name": "Prospect Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 40.431178,
-    "lng": -79.9352311,
-    "tags": [
-      "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

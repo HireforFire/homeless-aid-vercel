@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-9275",
-    "name": "Cedar Street Salvation Army",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "121 Cedar Street",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "03101",
-    "phone": "(603) 627-7013",
-    "hours": "",
-    "lat": 42.98881,
-    "lng": -71.4659,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-577028",
     "name": "New Horizons",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-9275",
+    "name": "Cedar Street Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "121 Cedar Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03101",
+    "phone": "(603) 627-7013",
+    "hours": "",
+    "lat": 42.98881,
+    "lng": -71.4659,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-577030",
@@ -131,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-935",
+    "name": "New Hampshire Food Bank",
+    "category": "Food",
+    "description": "Serves all of New Hampshire",
+    "address": "700 East Industrial Park Drive",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03109",
+    "phone": "(603) 669-9725",
+    "hours": "",
+    "lat": 42.9617,
+    "lng": -71.4217,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fa-9272",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 42.95536,
     "lng": -71.44463,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-9300",
-    "name": "St Vincent de Paul - Ste Marie's Church Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "378 Notre Dame Ave.",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "03102",
-    "phone": "(603) 622-4615",
-    "hours": "",
-    "lat": 43.00797,
-    "lng": -71.49134,
     "tags": [
       "food pantry",
       "walk-in"

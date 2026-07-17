@@ -152,25 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-13342",
-    "name": "Caritas of Austin",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "611 Neches Street",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78701",
-    "phone": "(512) 479-4610",
-    "hours": "",
-    "lat": 30.27022,
-    "lng": -97.74248,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-172237",
     "name": "Pathways at Goodrich Place",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13342",
+    "name": "Caritas of Austin",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "611 Neches Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 479-4610",
+    "hours": "",
+    "lat": 30.27022,
+    "lng": -97.74248,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-622",

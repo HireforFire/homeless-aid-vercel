@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-3567",
-    "name": "Holy Comforter Episcopal Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "150 SW 13 Ave",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33135",
-    "phone": "(305) 643-2711",
-    "hours": "",
-    "lat": 25.76657,
-    "lng": -80.23495,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-628",
     "name": "Miami Rescue Mission",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-3567",
+    "name": "Holy Comforter Episcopal Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "150 SW 13 Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33135",
+    "phone": "(305) 643-2711",
+    "hours": "",
+    "lat": 25.76657,
+    "lng": -80.23495,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-226216",

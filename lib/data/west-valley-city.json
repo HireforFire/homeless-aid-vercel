@@ -19,63 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-179431",
-    "name": "Maverik Center (In the overflow parking lot)",
-    "category": "Food",
-    "description": "Mobile pantry distribution location at Maverik Center overflow parking lot",
-    "address": "3100 S 2050 W",
-    "city": "West Valley City",
-    "state": "UT",
-    "zip": "84119",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7039364,
-    "lng": -111.9455338,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172384",
-    "name": "Comunidades Unidas - West Valley City",
-    "category": "Food",
-    "description": "Food assistance distribution location",
-    "address": "1750 Research Way",
-    "city": "West Valley City",
-    "state": "UT",
-    "zip": "84119",
-    "phone": "(385) 415-9785",
-    "hours": "",
-    "lat": 40.7113899,
-    "lng": -111.9399689,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173566",
-    "name": "Bible Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location at Bible Baptist Church in Taylorsville",
-    "address": "3769 West 4700 South",
-    "city": "Taylorsville",
-    "state": "UT",
-    "zip": "84118",
-    "phone": "(801) 964-2888",
-    "hours": "",
-    "lat": 40.666948,
-    "lng": -111.9810883,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-13883",
     "name": "Utah Food Bank - Salt Lake",
     "category": "Food",
@@ -152,6 +95,25 @@
     "lastUpdated": "2026-05-15"
   },
   {
+    "id": "fa-179431",
+    "name": "Maverik Center (In the overflow parking lot)",
+    "category": "Food",
+    "description": "Mobile pantry distribution location at Maverik Center overflow parking lot",
+    "address": "3100 S 2050 W",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84119",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7039364,
+    "lng": -111.9455338,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-13914",
     "name": "Utah Community Action",
     "category": "Food",
@@ -209,23 +171,61 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "fa-184605",
-    "name": "Sunnyvale Park",
+    "id": "fa-172384",
+    "name": "Comunidades Unidas - West Valley City",
     "category": "Food",
-    "description": "Mobile pantry distribution location at Sunnyvale Park",
-    "address": "4013 S 700 W",
-    "city": "Salt Lake City",
+    "description": "Food assistance distribution location",
+    "address": "1750 Research Way",
+    "city": "West Valley City",
     "state": "UT",
-    "zip": "84123",
-    "phone": "",
+    "zip": "84119",
+    "phone": "(385) 415-9785",
     "hours": "",
-    "lat": 40.68462,
-    "lng": -111.91022,
+    "lat": 40.7113899,
+    "lng": -111.9399689,
     "tags": [
-      "mobile pantry",
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173566",
+    "name": "Bible Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Bible Baptist Church in Taylorsville",
+    "address": "3769 West 4700 South",
+    "city": "Taylorsville",
+    "state": "UT",
+    "zip": "84118",
+    "phone": "(801) 964-2888",
+    "hours": "",
+    "lat": 40.666948,
+    "lng": -111.9810883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-973",
+    "name": "Utah Food Bank",
+    "category": "Food",
+    "description": "Serves all of Utah",
+    "address": "3150 South 900 West",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84119",
+    "phone": "(801) 978-2452",
+    "hours": "",
+    "lat": 40.7017,
+    "lng": -111.9117,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fallback-west-valley-city-shelter",

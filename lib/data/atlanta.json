@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-771",
+    "name": "Central Outreach and Advocacy",
+    "category": "Food",
+    "description": "Downtown Atlanta",
+    "address": "65 Luckie St NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30303",
+    "phone": "(404) 614-5605",
+    "hours": "",
+    "lat": 33.7614,
+    "lng": -84.3914,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-185103",
     "name": "Summerhill Neighborhood Development Corporation",
     "category": "Food",
@@ -114,6 +133,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-4038",
+    "name": "Butler Street CME",
+    "category": "Food",
+    "description": "referral",
+    "address": "23 Jesse Hill Dr. SE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30303",
+    "phone": "(404) 659-8745",
+    "hours": "",
+    "lat": 33.75284,
+    "lng": -84.39028,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-181859",
     "name": "SafeHouse Outreach - Peachtree Center",
     "category": "Food",
@@ -185,44 +223,6 @@
     "lng": -84.3961714,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-192999",
-    "name": "Blessed Divas Corporation - Main Location",
-    "category": "Food",
-    "description": "Main food distribution center providing food bank services with grocery/client choice options for walk-in clients.",
-    "address": "477 Windsor St SW",
-    "city": "Atlanta",
-    "state": "GA",
-    "zip": "30312",
-    "phone": "",
-    "hours": "",
-    "lat": 33.7412294,
-    "lng": -84.3996946,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-197374",
-    "name": "Our Lady of Lourdes",
-    "category": "Food",
-    "description": "Hot/Cold Meal Program location affiliated with Atlanta Community Food Bank",
-    "address": "25 Boulevard NE",
-    "city": "Atlanta",
-    "state": "GA",
-    "zip": "30312",
-    "phone": "",
-    "hours": "",
-    "lat": 33.7547224,
-    "lng": -84.3717973,
-    "tags": [
-      "food bank",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

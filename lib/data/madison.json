@@ -152,6 +152,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-14867",
+    "name": "Wil-Mar Neighborhood Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "953 Jenifer Street",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53703",
+    "phone": "(608) 257-4576",
+    "hours": "",
+    "lat": 43.07981,
+    "lng": -89.37734,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226226",
+    "name": "Pregnancy Helpline, Inc. of Madison",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Madison, WI",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53701",
+    "phone": "",
+    "hours": "",
+    "lat": 43.07284,
+    "lng": -89.37928,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-175573",
     "name": "Boys & Girls Club Taft Community",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 43.099447355186,
     "lng": -89.36445103463,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176338",
-    "name": "Catholic Multicultural Center (CMC) Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location at the Catholic Multicultural Center.",
-    "address": "1862 Beld St.",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53713",
-    "phone": "",
-    "hours": "",
-    "lat": 43.045932884815,
-    "lng": -89.393535400458,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177516",
-    "name": "Catholic Charities – The Beacon 10907",
-    "category": "Food",
-    "description": "Catholic Charities facility located in Madison, Wisconsin",
-    "address": "615 E. Washington Ave",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53703",
-    "phone": "",
-    "hours": "",
-    "lat": 43.078680184241,
-    "lng": -89.377894266219,
     "tags": [
       "food pantry",
       "walk-in"

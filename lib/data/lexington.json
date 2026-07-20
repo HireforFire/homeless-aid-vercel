@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-175185",
-    "name": "Ballard/Griffith Towers CSFP",
-    "category": "Food",
-    "description": "Senior food distribution location at Ballard/Griffith Towers for eligible residents.",
-    "address": "650 Tower Plaza",
-    "city": "Lexington",
-    "state": "KY",
-    "zip": "40508",
-    "phone": "(859) 281-5048",
-    "hours": "",
-    "lat": 38.0542347,
-    "lng": -84.5019266,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-216491",
     "name": "The Salvation Army - 722736W Main Street Corps",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-175185",
+    "name": "Ballard/Griffith Towers CSFP",
+    "category": "Food",
+    "description": "Senior food distribution location at Ballard/Griffith Towers for eligible residents.",
+    "address": "650 Tower Plaza",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "(859) 281-5048",
+    "hours": "",
+    "lat": 38.0542347,
+    "lng": -84.5019266,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-206685",

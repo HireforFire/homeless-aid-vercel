@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-198623",
-    "name": "Mesa Salvation Army",
-    "category": "Food",
-    "description": "Salvation Army food pantry location in Mesa",
-    "address": "241 E. 6th St., Bldg. 3",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85201",
-    "phone": "",
-    "hours": "",
-    "lat": 33.4246342,
-    "lng": -111.8252844,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-128301",
     "name": "Concordia Charter School, Inc.",
     "category": "Food",
@@ -131,6 +112,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-833",
+    "name": "Mesa United Way Food Bank",
+    "category": "Food",
+    "description": "Mesa area",
+    "address": "537 S Mesa Dr",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85210",
+    "phone": "(480) 969-4558",
+    "hours": "",
+    "lat": 33.4014,
+    "lng": -111.8314,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-198623",
+    "name": "Mesa Salvation Army",
+    "category": "Food",
+    "description": "Salvation Army food pantry location in Mesa",
+    "address": "241 E. 6th St., Bldg. 3",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85201",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4246342,
+    "lng": -111.8252844,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-172314",
@@ -188,25 +207,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-833",
-    "name": "Mesa United Way Food Bank",
-    "category": "Food",
-    "description": "Mesa area",
-    "address": "537 S Mesa Dr",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85210",
-    "phone": "(480) 969-4558",
-    "hours": "",
-    "lat": 33.4014,
-    "lng": -111.8314,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-218648",

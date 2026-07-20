@@ -114,25 +114,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-201351",
-    "name": "St. John Institutional MB Church",
-    "category": "Food",
-    "description": "Food pantry location at St. John Institutional MB Church",
-    "address": "1328 NW 3rd Ave.",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33136",
-    "phone": "",
-    "hours": "",
-    "lat": 25.7873258,
-    "lng": -80.2001904,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-628",
     "name": "Miami Rescue Mission",
     "category": "Food",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-201351",
+    "name": "St. John Institutional MB Church",
+    "category": "Food",
+    "description": "Food pantry location at St. John Institutional MB Church",
+    "address": "1328 NW 3rd Ave.",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33136",
+    "phone": "",
+    "hours": "",
+    "lat": 25.7873258,
+    "lng": -80.2001904,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-3571",

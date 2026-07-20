@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-176279",
-    "name": "Loring Nicollet Meals on Wheels",
+    "id": "fa-134076",
+    "name": "People Serving People",
     "category": "Food",
-    "description": "Senior Meals on Wheels distribution location",
-    "address": "618 E 17th Street",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "614 3rd Street South",
     "city": "Minneapolis",
     "state": "MN",
-    "zip": "55404",
-    "phone": "",
+    "zip": "55415",
+    "phone": "(612) 332-4500",
     "hours": "",
-    "lat": 44.966354013871,
-    "lng": -93.267146960491,
+    "lat": 44.97463,
+    "lng": -93.2578,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "fallback-minneapolis-shelter",

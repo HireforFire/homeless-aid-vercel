@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-577505",
+    "name": "Foodbank of Southeastern Virginia and the Eastern Shore",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "800 Tidewater Drive",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "+1-757-627-6599;+1-877-486-4379",
+    "hours": "",
+    "lat": 36.8520447,
+    "lng": -76.2744762,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-131115",
+    "name": "Norfolk City",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 EAST CITY HALL AVE",
+    "city": "NORFOLK",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "(757) 628-3830",
+    "hours": "",
+    "lat": 36.846948,
+    "lng": -76.284663,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-211350",
     "name": "Queen Street Baptist Church",
     "category": "Food",
@@ -19,23 +57,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-577505",
-    "name": "Foodbank of Southeastern Virginia and the Eastern Shore",
+    "id": "fa-717",
+    "name": "YWCA Norfolk Food Pantry",
     "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "800 Tidewater Drive",
+    "description": "Norfolk area",
+    "address": "624 E Freemason St",
     "city": "Norfolk",
     "state": "VA",
-    "zip": "23504",
-    "phone": "+1-757-627-6599;+1-877-486-4379",
+    "zip": "23510",
+    "phone": "(757) 625-4248",
     "hours": "",
-    "lat": 36.8520447,
-    "lng": -76.2744762,
+    "lat": 36.8514,
+    "lng": -76.2814,
     "tags": [
-      "food bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-15"
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-192262",
@@ -93,25 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-131115",
-    "name": "Norfolk City",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "800 EAST CITY HALL AVE",
-    "city": "NORFOLK",
-    "state": "VA",
-    "zip": "23504",
-    "phone": "(757) 628-3830",
-    "hours": "",
-    "lat": 36.846948,
-    "lng": -76.284663,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-188908",
@@ -190,42 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-717",
-    "name": "YWCA Norfolk Food Pantry",
+    "id": "fa-217503",
+    "name": "The Salvation Army - Ballentine Blvd",
     "category": "Food",
-    "description": "Norfolk area",
-    "address": "624 E Freemason St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1401 Ballentine Blvd",
     "city": "Norfolk",
     "state": "VA",
-    "zip": "23510",
-    "phone": "(757) 625-4248",
+    "zip": "23504",
+    "phone": "(757) 622-5762",
     "hours": "",
-    "lat": 36.8514,
-    "lng": -76.2814,
+    "lat": 36.85677,
+    "lng": -76.26568,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-173552",
-    "name": "Wesley Community Service Center",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "1701 Elm Ave.",
-    "city": "Portsmouth",
-    "state": "VA",
-    "zip": "23704",
-    "phone": "(757) 399-0541",
-    "hours": "",
-    "lat": 36.8255774,
-    "lng": -76.3120659,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-norfolk-shelter",

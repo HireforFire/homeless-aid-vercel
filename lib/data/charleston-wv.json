@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-174257",
-    "name": "West Side Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location serving the West Side community in Charleston.",
-    "address": "1455 4th Avenue",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25312",
-    "phone": "(304) 984-3202",
-    "hours": "",
-    "lat": 38.3675,
-    "lng": -81.662,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-221550",
     "name": "Trinity's Table",
     "category": "Food",
@@ -150,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-174257",
+    "name": "West Side Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location serving the West Side community in Charleston.",
+    "address": "1455 4th Avenue",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25312",
+    "phone": "(304) 984-3202",
+    "hours": "",
+    "lat": 38.3675,
+    "lng": -81.662,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-178122",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-178747",
-    "name": "A More Excellent Way Life Center",
+    "id": "fa-14980",
+    "name": "Heart and Hand House Food Pantry",
     "category": "Food",
-    "description": "Main food distribution location",
-    "address": "519 CENTRAL AVE",
-    "city": "CHARLESTON",
+    "description": "proof of address",
+    "address": "212 D Street",
+    "city": "South Charleston",
     "state": "WV",
-    "zip": "25302",
-    "phone": "",
+    "zip": "25303",
+    "phone": "(304) 744-6741",
     "hours": "",
-    "lat": 38.362036458385,
-    "lng": -81.649668310606,
+    "lat": 38.36033,
+    "lng": -81.68679,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-charleston-wv-shelter",

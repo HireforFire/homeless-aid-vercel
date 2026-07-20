@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-173888",
-    "name": "Good Neighbor House",
-    "category": "Food",
-    "description": "Main food pantry location in Dayton, Ohio.",
-    "address": "627 East First Street",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "45402",
-    "phone": "(937) 224-3003",
-    "hours": "",
-    "lat": 39.7646663,
-    "lng": -84.1813859,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-221582",
     "name": "YWCA Dayton Pantry",
     "category": "Food",
@@ -38,18 +19,18 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-185732",
-    "name": "Expressions of Life, Inc.",
+    "id": "fa-173888",
+    "name": "Good Neighbor House",
     "category": "Food",
-    "description": "Food pantry location at 160 Salem Avenue in Dayton, Ohio.",
-    "address": "160 Salem Avenue",
+    "description": "Main food pantry location in Dayton, Ohio.",
+    "address": "627 East First Street",
     "city": "Dayton",
     "state": "OH",
-    "zip": "45417",
-    "phone": "",
+    "zip": "45402",
+    "phone": "(937) 224-3003",
     "hours": "",
-    "lat": 39.76373,
-    "lng": -84.206834,
+    "lat": 39.7646663,
+    "lng": -84.1813859,
     "tags": [
       "food pantry",
       "walk-in"
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-185732",
+    "name": "Expressions of Life, Inc.",
+    "category": "Food",
+    "description": "Food pantry location at 160 Salem Avenue in Dayton, Ohio.",
+    "address": "160 Salem Avenue",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45417",
+    "phone": "",
+    "hours": "",
+    "lat": 39.76373,
+    "lng": -84.206834,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-181213",

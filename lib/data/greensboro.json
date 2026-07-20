@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-187920",
-    "name": "Room at the Inn of the Carolinas",
-    "category": "Food",
-    "description": "Food distribution location in Greensboro",
-    "address": "736 Park Ave.",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "27405",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0807861,
-    "lng": -79.7777789,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-783",
     "name": "Greensboro Urban Ministry",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-187920",
+    "name": "Room at the Inn of the Carolinas",
+    "category": "Food",
+    "description": "Food distribution location in Greensboro",
+    "address": "736 Park Ave.",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27405",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0807861,
+    "lng": -79.7777789,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-225672",

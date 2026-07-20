@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-170783",
-    "name": "Carson City Senior Center",
-    "category": "Food",
-    "description": "Senior center facility providing food distribution services",
-    "address": "911 Beverly Dr.",
-    "city": "Carson City",
-    "state": "NV",
-    "zip": "89706",
-    "phone": "(775) 883-0703",
-    "hours": "",
-    "lat": 39.1748901,
-    "lng": -119.7593205,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-224113",
     "name": "FISH Food Bank",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-170783",
+    "name": "Carson City Senior Center",
+    "category": "Food",
+    "description": "Senior center facility providing food distribution services",
+    "address": "911 Beverly Dr.",
+    "city": "Carson City",
+    "state": "NV",
+    "zip": "89706",
+    "phone": "(775) 883-0703",
+    "hours": "",
+    "lat": 39.1748901,
+    "lng": -119.7593205,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-130163",
@@ -152,6 +152,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-217089",
+    "name": "The Salvation Army - E Second Street Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "911 E. Second Street",
+    "city": "Carson City",
+    "state": "NV",
+    "zip": "89701",
+    "phone": "(775) 887-9120",
+    "hours": "",
+    "lat": 39.13944,
+    "lng": -119.72087,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-170383",
     "name": "Rural Center for Independent Living - Carson City",
     "category": "Food",
@@ -188,25 +207,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-217089",
-    "name": "The Salvation Army - E Second Street Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "911 E. Second Street",
-    "city": "Carson City",
-    "state": "NV",
-    "zip": "89701",
-    "phone": "(775) 887-9120",
-    "hours": "",
-    "lat": 39.13944,
-    "lng": -119.72087,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-171003",

@@ -95,63 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172434",
-    "name": "SDA Mount Rubidoux Church",
-    "category": "Food",
-    "description": "Food distribution location with air conditioning. Part of Feeding America Riverside and San Bernardino Counties network.",
-    "address": "5320 Victoria Ave.",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "92506",
-    "phone": "(951) 276-8374",
-    "hours": "",
-    "lat": 33.9550052,
-    "lng": -117.3695174,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172664",
-    "name": "The Salvation Army Riverside",
-    "category": "Food",
-    "description": "Food pantry location in Riverside",
-    "address": "3695 First Street",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "92501",
-    "phone": "(951) 784-4490",
-    "hours": "",
-    "lat": 33.9888127,
-    "lng": -117.3686709,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173875",
-    "name": "SDA Riverside Spanish Church",
-    "category": "Food",
-    "description": "Food distribution location affiliated with Feeding America Riverside and San Bernardino Counties",
-    "address": "3625 Ottawa Ave",
-    "city": "Riverside",
-    "state": "CA",
-    "zip": "92507",
-    "phone": "(951) 902-5616",
-    "hours": "",
-    "lat": 33.9772771,
-    "lng": -117.3532115,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-219926",
     "name": "Path of Life Ministries",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-226143",
+    "name": "Casa Blanca Home of Neighborly Service",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "7680 Casa Blanca Street",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92504",
+    "phone": "(951) 688-3043",
+    "hours": "",
+    "lat": 33.9320412,
+    "lng": -117.4067917,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172434",
+    "name": "SDA Mount Rubidoux Church",
+    "category": "Food",
+    "description": "Food distribution location with air conditioning. Part of Feeding America Riverside and San Bernardino Counties network.",
+    "address": "5320 Victoria Ave.",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92506",
+    "phone": "(951) 276-8374",
+    "hours": "",
+    "lat": 33.9550052,
+    "lng": -117.3695174,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172664",
+    "name": "The Salvation Army Riverside",
+    "category": "Food",
+    "description": "Food pantry location in Riverside",
+    "address": "3695 First Street",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92501",
+    "phone": "(951) 784-4490",
+    "hours": "",
+    "lat": 33.9888127,
+    "lng": -117.3686709,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-riverside-shelter",

@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-128163",
+    "name": "Huntsville City Board of Education",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200 WHITE ST",
+    "city": "HUNTSVILLE",
+    "state": "AL",
+    "zip": "35801",
+    "phone": "(256) 428-6810",
+    "hours": "",
+    "lat": 34.734291,
+    "lng": -86.577792,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-188569",
     "name": "Holmes Street UMC",
     "category": "Food",
@@ -57,23 +76,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-128163",
-    "name": "Huntsville City Board of Education",
+    "id": "fa-220015",
+    "name": "Adventist Community Service",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200 WHITE ST",
-    "city": "HUNTSVILLE",
+    "address": "1705 Pulaski Pike",
+    "city": "Huntsville",
     "state": "AL",
-    "zip": "35801",
-    "phone": "(256) 428-6810",
+    "zip": "35816",
+    "phone": "(265) 539-3626",
     "hours": "",
-    "lat": 34.734291,
-    "lng": -86.577792,
+    "lat": 34.7433662,
+    "lng": -86.6068649,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225285",
+    "name": "Freedom house hope pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "403 treymore Avenue",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35811",
+    "phone": "(256) 293-7826",
+    "hours": "",
+    "lat": 34.7632599,
+    "lng": -86.5783463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-173905",
@@ -133,42 +171,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-220015",
-    "name": "Adventist Community Service",
+    "id": "fa-842",
+    "name": "Food Bank of North Alabama",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1705 Pulaski Pike",
+    "description": "Serves North Alabama",
+    "address": "2702 Artie Street SW",
     "city": "Huntsville",
     "state": "AL",
-    "zip": "35816",
-    "phone": "(265) 539-3626",
+    "zip": "35805",
+    "phone": "(256) 539-2256",
     "hours": "",
-    "lat": 34.7433662,
-    "lng": -86.6068649,
+    "lat": 34.6983,
+    "lng": -86.61,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225285",
-    "name": "Freedom house hope pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "403 treymore Avenue",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35811",
-    "phone": "(256) 293-7826",
-    "hours": "",
-    "lat": 34.7632599,
-    "lng": -86.5783463,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fa-191684",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 34.7355666,
     "lng": -86.6140969,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-206394",
-    "name": "First Stop Day Center",
-    "category": "Food",
-    "description": "Day center providing meals and support services for homeless individuals.",
-    "address": "206 Stokes St. NW",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35805",
-    "phone": "",
-    "hours": "",
-    "lat": 34.7242807,
-    "lng": -86.604166,
     "tags": [
       "food pantry",
       "walk-in"

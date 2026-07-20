@@ -152,25 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172677",
-    "name": "YWCA Shelter of Cass-Clay",
-    "category": "Food",
-    "description": "YWCA Shelter of Cass-Clay food pantry location. Handicapped accessible. Call ahead to make an appointment.",
-    "address": "3000 S University Dr",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "58103",
-    "phone": "(701) 232-3449",
-    "hours": "",
-    "lat": 46.8343486,
-    "lng": -96.7978258,
-    "tags": [
-      "food pantry",
-      "appointment"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-221786",
     "name": "Madison Resource Center/FHRA",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172677",
+    "name": "YWCA Shelter of Cass-Clay",
+    "category": "Food",
+    "description": "YWCA Shelter of Cass-Clay food pantry location. Handicapped accessible. Call ahead to make an appointment.",
+    "address": "3000 S University Dr",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103",
+    "phone": "(701) 232-3449",
+    "hours": "",
+    "lat": 46.8343486,
+    "lng": -96.7978258,
+    "tags": [
+      "food pantry",
+      "appointment"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-fargo-shelter",

@@ -76,6 +76,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-150537",
+    "name": "Cornerstone Rescue Mission",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "30 Main St",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "(605) 341-2678",
+    "hours": "",
+    "lat": 44.0799,
+    "lng": -103.231,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-912",
+    "name": "Cornerstone Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "30 Main Street",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "(605) 341-2401",
+    "hours": "",
+    "lat": 44.0817,
+    "lng": -103.2317,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-176059",
     "name": "Wilson Elementary",
     "category": "Food",
@@ -131,44 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-150537",
-    "name": "Cornerstone Rescue Mission",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "30 Main St",
-    "city": "Rapid City",
-    "state": "SD",
-    "zip": "57701",
-    "phone": "(605) 341-2678",
-    "hours": "",
-    "lat": 44.0799,
-    "lng": -103.231,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-912",
-    "name": "Cornerstone Rescue Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "30 Main Street",
-    "city": "Rapid City",
-    "state": "SD",
-    "zip": "57701",
-    "phone": "(605) 341-2401",
-    "hours": "",
-    "lat": 44.0817,
-    "lng": -103.2317,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fa-150534",

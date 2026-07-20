@@ -19,6 +19,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-13107",
+    "name": "Kayne Ave. Missionary Baptist Church",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "1025 12Th Ave. S.",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37203",
+    "phone": "(615) 255-5528",
+    "hours": "",
+    "lat": 36.14937,
+    "lng": -86.78986,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226220",
+    "name": "Nashville Diaper Connection",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Nashville, TN",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37201",
+    "phone": "",
+    "hours": "",
+    "lat": 36.16662,
+    "lng": -86.77799,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-182826",
     "name": "Room In The Inn",
     "category": "Food",
@@ -112,44 +150,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-13107",
-    "name": "Kayne Ave. Missionary Baptist Church",
-    "category": "Food",
-    "description": "Free soup kitchen providing food assistance. Open to all.",
-    "address": "1025 12Th Ave. S.",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "37203",
-    "phone": "(615) 255-5528",
-    "hours": "",
-    "lat": 36.14937,
-    "lng": -86.78986,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-226220",
-    "name": "Nashville Diaper Connection",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Nashville, TN",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "37201",
-    "phone": "",
-    "hours": "",
-    "lat": 36.16662,
-    "lng": -86.77799,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-219036",

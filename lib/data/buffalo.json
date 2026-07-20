@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-130206",
+    "name": "Buffalo City SD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "712 CITY HALL",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip": "14215",
+    "phone": "(716) 816-3575",
+    "hours": "",
+    "lat": 42.886458,
+    "lng": -78.878558,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-192203",
     "name": "EVERGREEN HEALTH SERVICES - Buffalo",
     "category": "Food",
@@ -71,44 +90,6 @@
     "lng": -78.86886439999999,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-130206",
-    "name": "Buffalo City SD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "712 CITY HALL",
-    "city": "BUFFALO",
-    "state": "NY",
-    "zip": "14215",
-    "phone": "(716) 816-3575",
-    "hours": "",
-    "lat": 42.886458,
-    "lng": -78.878558,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-190561",
-    "name": "CITIZENS COMMUNITY DEVELOPMENT - Buffalo",
-    "category": "Food",
-    "description": "Mobile food pantry distribution location",
-    "address": "134 WILLIAM STREET",
-    "city": "BUFFALO",
-    "state": "NY",
-    "zip": "14204",
-    "phone": "",
-    "hours": "",
-    "lat": 42.88517,
-    "lng": -78.866788,
-    "tags": [
-      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-190561",
+    "name": "CITIZENS COMMUNITY DEVELOPMENT - Buffalo",
+    "category": "Food",
+    "description": "Mobile food pantry distribution location",
+    "address": "134 WILLIAM STREET",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "",
+    "hours": "",
+    "lat": 42.88517,
+    "lng": -78.866788,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-buffalo-shelter",

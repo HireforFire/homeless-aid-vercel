@@ -19,44 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-181038",
-    "name": "Triune Mercy Center",
-    "category": "Food",
-    "description": "Main food distribution location",
-    "address": "222 Rutherford St.",
-    "city": "Greenville",
-    "state": "SC",
-    "zip": "29609",
-    "phone": "",
-    "hours": "",
-    "lat": 34.8620157,
-    "lng": -82.4041859,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-187816",
-    "name": "Eastside Baptist Center",
-    "category": "Food",
-    "description": "Main food distribution location",
-    "address": "12 Ebaugh Ave.",
-    "city": "Greenville",
-    "state": "SC",
-    "zip": "29615",
-    "phone": "",
-    "hours": "",
-    "lat": 34.8513262,
-    "lng": -82.3809956,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-12987",
     "name": "Project Host",
     "category": "Food",
@@ -76,6 +38,25 @@
     "lastUpdated": "2026-01-18"
   },
   {
+    "id": "fa-181038",
+    "name": "Triune Mercy Center",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "222 Rutherford St.",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29609",
+    "phone": "",
+    "hours": "",
+    "lat": 34.8620157,
+    "lng": -82.4041859,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-219504",
     "name": "FCF (MVP) FOOD PANTRY",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-187816",
+    "name": "Eastside Baptist Center",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "12 Ebaugh Ave.",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29615",
+    "phone": "",
+    "hours": "",
+    "lat": 34.8513262,
+    "lng": -82.3809956,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-222786",

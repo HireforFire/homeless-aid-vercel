@@ -76,6 +76,63 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-802",
+    "name": "Jersey City Rescue Mission",
+    "category": "Food",
+    "description": "Hudson County",
+    "address": "436 State St",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07302",
+    "phone": "(201) 434-3344",
+    "hours": "",
+    "lat": 40.7214,
+    "lng": -74.0614,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-216320",
+    "name": "HOPES CAP, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "532 Jackson St",
+    "city": "Hoboken",
+    "state": "NJ",
+    "zip": "07030",
+    "phone": "(201) 683-2792",
+    "hours": "",
+    "lat": 40.745064,
+    "lng": -74.039444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-216382",
+    "name": "Mercy for My Neighbor",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "145 Linden Ave",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07305",
+    "phone": "(201) 205-3890",
+    "hours": "",
+    "lat": 40.696255,
+    "lng": -74.092644,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-193234",
     "name": "Regional Day School",
     "category": "Food",
@@ -166,63 +223,6 @@
     "lng": -74.0515702,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-196366",
-    "name": "York Street Project (St Joseph's Home)",
-    "category": "Food",
-    "description": "Food distribution location at St Joseph's Home",
-    "address": "89 York Street",
-    "city": "Jersey City",
-    "state": "NJ",
-    "zip": "07302",
-    "phone": "",
-    "hours": "",
-    "lat": 40.715882,
-    "lng": -74.037311,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-198103",
-    "name": "BETTER TOMORROWS - Jersey City",
-    "category": "Food",
-    "description": "Main food distribution location",
-    "address": "471 Pacific Avenue",
-    "city": "Jersey City",
-    "state": "NJ",
-    "zip": "07304",
-    "phone": "",
-    "hours": "",
-    "lat": 40.715779,
-    "lng": -74.059135,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-203636",
-    "name": "Team Walker Farmers Market - Main Location",
-    "category": "Food",
-    "description": "Main farmers market location",
-    "address": "293 Pine Street",
-    "city": "Jersey City",
-    "state": "NJ",
-    "zip": "07304",
-    "phone": "",
-    "hours": "",
-    "lat": 40.71289609999999,
-    "lng": -74.058195,
-    "tags": [
-      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

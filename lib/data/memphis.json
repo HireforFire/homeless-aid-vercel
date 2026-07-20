@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-179192",
-    "name": "Grace-St. Luke's Episcopal Church",
+    "id": "fa-860",
+    "name": "Mid-South Food Bank",
     "category": "Food",
-    "description": "Main location of Grace-St. Luke's Episcopal Church providing food pantry and prepared meal services.",
-    "address": "1720 Peabody Ave.",
+    "description": "Serves Memphis metro and surrounding area",
+    "address": "239 South Dudley Street",
     "city": "Memphis",
     "state": "TN",
     "zip": "38104",
-    "phone": "",
+    "phone": "(901) 527-0841",
     "hours": "",
-    "lat": 35.1331523,
-    "lng": -90.0044444,
+    "lat": 35.13,
+    "lng": -90.0417,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fallback-memphis-shelter",

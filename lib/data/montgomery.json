@@ -19,6 +19,25 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-845",
+    "name": "Salvation Army - Montgomery",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "911 South Ripley Street",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36104",
+    "phone": "(334) 265-5438",
+    "hours": "",
+    "lat": 32.3683,
+    "lng": -86.3083,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-180718",
     "name": "Bethany SDA Church",
     "category": "Food",
@@ -95,44 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173321",
-    "name": "MBA Love Loud Matthew 25 Ministries",
-    "category": "Food",
-    "description": "Food pantry location providing food assistance.",
-    "address": "1551 E. Ann St.",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36107",
-    "phone": "(334) 269-5726",
-    "hours": "",
-    "lat": 32.3621978,
-    "lng": -86.270493,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-845",
-    "name": "Salvation Army - Montgomery",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "911 South Ripley Street",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36104",
-    "phone": "(334) 265-5438",
-    "hours": "",
-    "lat": 32.3683,
-    "lng": -86.3083,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-01-01"
-  },
-  {
     "id": "fa-218443",
     "name": "The Salvation Army - Crawford St",
     "category": "Food",
@@ -190,6 +171,25 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-173321",
+    "name": "MBA Love Loud Matthew 25 Ministries",
+    "category": "Food",
+    "description": "Food pantry location providing food assistance.",
+    "address": "1551 E. Ann St.",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36107",
+    "phone": "(334) 269-5726",
+    "hours": "",
+    "lat": 32.3621978,
+    "lng": -86.270493,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-214189",
     "name": "The Salvation Army - Montgomery",
     "category": "Food",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-181515",
-    "name": "Holt Street Church of Christ",
+    "id": "fa-1417",
+    "name": "First Baptist Church Community Ministries",
     "category": "Food",
-    "description": "Food pantry location at Holt Street Church of Christ in Montgomery.",
-    "address": "945 S. Holt St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "52 Adams Avenue",
     "city": "Montgomery",
     "state": "AL",
-    "zip": "36108",
-    "phone": "",
+    "zip": "36104",
+    "phone": "(334) 262-2273",
     "hours": "",
-    "lat": 32.3639618,
-    "lng": -86.3202945,
+    "lat": 32.39889,
+    "lng": -86.31593,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-montgomery-shelter",

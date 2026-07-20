@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-186349",
-    "name": "Smokey's Pantry at UTK",
-    "category": "Food",
-    "description": "Smokey's Pantry: A FISH Hospitality Pantry located at the University of Tennessee, Knoxville campus on Melrose Pl.",
-    "address": "Melrose Pl",
-    "city": "Knoxville",
-    "state": "TN",
-    "zip": "37916",
-    "phone": "",
-    "hours": "",
-    "lat": 35.955755499999995,
-    "lng": -83.931671,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-130624",
     "name": "Knox County",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-186349",
+    "name": "Smokey's Pantry at UTK",
+    "category": "Food",
+    "description": "Smokey's Pantry: A FISH Hospitality Pantry located at the University of Tennessee, Knoxville campus on Melrose Pl.",
+    "address": "Melrose Pl",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37916",
+    "phone": "",
+    "hours": "",
+    "lat": 35.955755499999995,
+    "lng": -83.931671,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-178872",

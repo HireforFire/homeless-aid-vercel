@@ -133,63 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172477",
-    "name": "Baxter Avenue Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location at Baxter Avenue Baptist Church",
-    "address": "522 Baxter Ave.",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40204",
-    "phone": "(502) 583-4123",
-    "hours": "",
-    "lat": 38.246878,
-    "lng": -85.7299457,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173230",
-    "name": "Walnut Street Baptist Church",
-    "category": "Food",
-    "description": "Food pantry location at Walnut Street Baptist Church",
-    "address": "220 W. St. Catherine",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40203",
-    "phone": "(502) 589-3454",
-    "hours": "",
-    "lat": 38.2370182,
-    "lng": -85.7577243,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175081",
-    "name": "Generation Church",
-    "category": "Food",
-    "description": "Food distribution location at Generation Church",
-    "address": "334 E. Oak Street",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40203",
-    "phone": "(502) 930-3050",
-    "hours": "",
-    "lat": 38.2338758,
-    "lng": -85.7498007,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-5743",
     "name": "Dare To Care Food Bank at First Lutheran Church",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-223466",
+    "name": "Family Scholar House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "403 Reg Smith Circle",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40208",
+    "phone": "(502) 584-8090",
+    "hours": "",
+    "lat": 38.2230453,
+    "lng": -85.7637024,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224443",
+    "name": "Neighborhood House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "201 N.25th Street",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40212",
+    "phone": "(502) 774-2322",
+    "hours": "",
+    "lat": 38.2620641,
+    "lng": -85.7906244,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224497",
+    "name": "Catholic Enrichment Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3146 West Broadway",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40211",
+    "phone": "(502) 776-0262",
+    "hours": "",
+    "lat": 38.2493286,
+    "lng": -85.8054962,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-louisville-shelter",

@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-174070",
-    "name": "Historic Church of Saint Patrick",
-    "category": "Food",
-    "description": "Main food distribution location",
-    "address": "130 Avondale Avenue",
-    "city": "Center City",
-    "state": "OH",
-    "zip": "43604",
-    "phone": "(419) 243-6452",
-    "hours": "",
-    "lat": 41.6490517,
-    "lng": -83.5460454,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-174343",
-    "name": "Islamic Center of Greater Toledo At Toledo Masjid Al-Islam - Mobile Pantry Stop",
-    "category": "Food",
-    "description": "Mobile pantry distribution location at Toledo Masjid Al-Islam.",
-    "address": "722 East Bancroft Street",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "43608",
-    "phone": "(419) 241-9522",
-    "hours": "",
-    "lat": 41.66445239999999,
-    "lng": -83.5370568,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-219060",
     "name": "Central Residents Council",
     "category": "Food",
@@ -93,6 +55,101 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-174070",
+    "name": "Historic Church of Saint Patrick",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "130 Avondale Avenue",
+    "city": "Center City",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "(419) 243-6452",
+    "hours": "",
+    "lat": 41.6490517,
+    "lng": -83.5460454,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174343",
+    "name": "Islamic Center of Greater Toledo At Toledo Masjid Al-Islam - Mobile Pantry Stop",
+    "category": "Food",
+    "description": "Mobile pantry distribution location at Toledo Masjid Al-Islam.",
+    "address": "722 East Bancroft Street",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43608",
+    "phone": "(419) 241-9522",
+    "hours": "",
+    "lat": 41.66445239999999,
+    "lng": -83.5370568,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130496",
+    "name": "Achieve Career Preparatory Academy",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "301 COLLINGWOOD BLVD",
+    "city": "TOLEDO",
+    "state": "OH",
+    "zip": "43064",
+    "phone": "(419) 243-8559",
+    "hours": "",
+    "lat": 41.64225,
+    "lng": -83.552434,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-764",
+    "name": "Cherry Street Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "157 Cherry St",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43604",
+    "phone": "(419) 242-0424",
+    "hours": "",
+    "lat": 41.6514,
+    "lng": -83.5314,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-880",
+    "name": "Toledo Northwestern Ohio Food Bank",
+    "category": "Food",
+    "description": "Serves Northwest Ohio",
+    "address": "2447 Front Street",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43605",
+    "phone": "(419) 242-5000",
+    "hours": "",
+    "lat": 41.6483,
+    "lng": -83.5383,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fa-190057",
@@ -169,63 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-212124",
-    "name": "Friendly Center - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center in Toledo, Ohio",
-    "address": "1324 North Superior Street",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "43604",
-    "phone": "",
-    "hours": "",
-    "lat": 41.6605182,
-    "lng": -83.52070909999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-215295",
-    "name": "Salem Lutheran Church",
-    "category": "Food",
-    "description": "Salem Lutheran Church Feed Your Neighbor Program distribution location",
-    "address": "1127 North Huron Street",
-    "city": "Toledo",
-    "state": "OH",
-    "zip": "43604",
-    "phone": "",
-    "hours": "",
-    "lat": 41.6602822,
-    "lng": -83.5252156,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-130496",
-    "name": "Achieve Career Preparatory Academy",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "301 COLLINGWOOD BLVD",
-    "city": "TOLEDO",
-    "state": "OH",
-    "zip": "43064",
-    "phone": "(419) 243-8559",
-    "hours": "",
-    "lat": 41.64225,
-    "lng": -83.552434,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fallback-toledo-shelter",

@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-128887",
+    "name": "CREC",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "111 CHARTER OAK AVE",
+    "city": "HARTFORD",
+    "state": "CT",
+    "zip": "06106",
+    "phone": "(860) 524-4063",
+    "hours": "",
+    "lat": 41.7585,
+    "lng": -72.667837,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-175411",
     "name": "Cathedral of St. Joseph",
     "category": "Food",
@@ -171,23 +190,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-128887",
-    "name": "CREC",
+    "id": "fa-3178",
+    "name": "Sacred Heart Food Bank",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "111 CHARTER OAK AVE",
-    "city": "HARTFORD",
+    "address": "49 Winthrop Street",
+    "city": "Hartford",
     "state": "CT",
-    "zip": "06106",
-    "phone": "(860) 524-4063",
+    "zip": "06103",
+    "phone": "(860) 527-6459",
     "hours": "",
-    "lat": 41.7585,
-    "lng": -72.667837,
+    "lat": 41.76477,
+    "lng": -72.67012,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-180146",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 41.761249899999996,
     "lng": -72.6909981,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-181922",
-    "name": "Hartford Food System Inc",
-    "category": "Food",
-    "description": "Main food distribution location",
-    "address": "190 Wethersfield Ave",
-    "city": "Hartford",
-    "state": "CT",
-    "zip": "06114",
-    "phone": "",
-    "hours": "",
-    "lat": 41.7506761,
-    "lng": -72.6735176,
     "tags": [
       "food pantry",
       "walk-in"

@@ -95,6 +95,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-12918",
+    "name": "Our Lady of Mercy Community Outreach - Neighborhood House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "77 America Street",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29403",
+    "phone": "(843) 805-8064",
+    "hours": "",
+    "lat": 32.80347,
+    "lng": -79.94561,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-854",
+    "name": "One80 Place",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "35 Walnut Street",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29403",
+    "phone": "(843) 723-9477",
+    "hours": "",
+    "lat": 32.7917,
+    "lng": -79.9433,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-184166",
     "name": "St. Barnabas Lutheran Church",
     "category": "Food",
@@ -188,44 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-211056",
-    "name": "Line Street Church of God",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "192 Line St.",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29403",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7920564,
-    "lng": -79.950921,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-12918",
-    "name": "Our Lady of Mercy Community Outreach - Neighborhood House",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "77 America Street",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29403",
-    "phone": "(843) 805-8064",
-    "hours": "",
-    "lat": 32.80347,
-    "lng": -79.94561,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-charleston-sc-shelter",

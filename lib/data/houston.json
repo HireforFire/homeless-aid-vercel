@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-46",
+    "name": "Loaves and Fishes Community Kitchen",
+    "category": "Food",
+    "description": "Open to all, no requirements",
+    "address": "307 E 8th St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77007",
+    "phone": "(713) 861-3663",
+    "hours": "",
+    "lat": 29.7733,
+    "lng": -95.3683,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-81",
+    "name": "Christ Church Cathedral Food Pantry",
+    "category": "Food",
+    "description": "Downtown Houston residents",
+    "address": "1117 Texas Ave",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002",
+    "phone": "(713) 222-2593",
+    "hours": "",
+    "lat": 29.7583,
+    "lng": -95.3683,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-190681",
     "name": "Allies In Hope (Fannin Campus)",
     "category": "Food",
@@ -76,44 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-46",
-    "name": "Loaves and Fishes Community Kitchen",
-    "category": "Food",
-    "description": "Open to all, no requirements",
-    "address": "307 E 8th St",
-    "city": "Houston",
-    "state": "TX",
-    "zip": "77007",
-    "phone": "(713) 861-3663",
-    "hours": "",
-    "lat": 29.7733,
-    "lng": -95.3683,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
-  },
-  {
-    "id": "fa-81",
-    "name": "Christ Church Cathedral Food Pantry",
-    "category": "Food",
-    "description": "Downtown Houston residents",
-    "address": "1117 Texas Ave",
-    "city": "Houston",
-    "state": "TX",
-    "zip": "77002",
-    "phone": "(713) 222-2593",
-    "hours": "",
-    "lat": 29.7583,
-    "lng": -95.3683,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
-  },
-  {
     "id": "fa-185557",
     "name": "Co-Cathedral of Sacred Heart",
     "category": "Food",
@@ -126,25 +126,6 @@
     "hours": "",
     "lat": 29.7500855,
     "lng": -95.3673142,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173051",
-    "name": "Christian Hope Baptist Church",
-    "category": "Food",
-    "description": "Food pantry distribution location at the church facility",
-    "address": "3418 Anita St.",
-    "city": "Houston",
-    "state": "TX",
-    "zip": "77004",
-    "phone": "(832) 530-7038",
-    "hours": "",
-    "lat": 29.7305166,
-    "lng": -95.3520467,
     "tags": [
       "food pantry",
       "walk-in"
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 29.7428875,
     "lng": -95.3620911,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220225",
+    "name": "Boynton Chapel UMC",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2812 Milby Street",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77004",
+    "phone": "(713) 392-2337",
+    "hours": "",
+    "lat": 29.7303371,
+    "lng": -95.3476868,
     "tags": [
       "food pantry",
       "walk-in"

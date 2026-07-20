@@ -38,63 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-183467",
-    "name": "Everyone Eats - Brush Park",
-    "category": "Food",
-    "description": "Everyone Eats location in Brush Park, Michigan",
-    "address": "2930 Woodward Avenue",
-    "city": "Brush Park",
-    "state": "MI",
-    "zip": "48201",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3441585,
-    "lng": -83.0550571,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-184219",
-    "name": "Mariner's Inn",
-    "category": "Food",
-    "description": "Main location of Mariner's Inn food service",
-    "address": "445 Ledyard Street",
-    "city": "Midtown",
-    "state": "MI",
-    "zip": "48201",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3398304,
-    "lng": -83.0581787,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-201065",
-    "name": "United Way Downtown Detroit",
-    "category": "Food",
-    "description": "United Way office located in Downtown Detroit",
-    "address": "300 Michigan Avenue",
-    "city": "Downtown Detroit",
-    "state": "MI",
-    "zip": "48226",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3318248,
-    "lng": -83.0512555,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-7685",
     "name": "Central United Methodist Church",
     "category": "Food",
@@ -152,6 +95,63 @@
     "lastUpdated": "2026-01-18"
   },
   {
+    "id": "fa-183467",
+    "name": "Everyone Eats - Brush Park",
+    "category": "Food",
+    "description": "Everyone Eats location in Brush Park, Michigan",
+    "address": "2930 Woodward Avenue",
+    "city": "Brush Park",
+    "state": "MI",
+    "zip": "48201",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3441585,
+    "lng": -83.0550571,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184219",
+    "name": "Mariner's Inn",
+    "category": "Food",
+    "description": "Main location of Mariner's Inn food service",
+    "address": "445 Ledyard Street",
+    "city": "Midtown",
+    "state": "MI",
+    "zip": "48201",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3398304,
+    "lng": -83.0581787,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201065",
+    "name": "United Way Downtown Detroit",
+    "category": "Food",
+    "description": "United Way office located in Downtown Detroit",
+    "address": "300 Michigan Avenue",
+    "city": "Downtown Detroit",
+    "state": "MI",
+    "zip": "48226",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3318248,
+    "lng": -83.0512555,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-218823",
     "name": "The Salvation Army - Lawton St",
     "category": "Food",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-179974",
-    "name": "Franklin Wright Settlements - Emergency Assistance",
+    "id": "fa-129611",
+    "name": "Detroit Academy of Arts and Sciences",
     "category": "Food",
-    "description": "Emergency food assistance distribution location",
-    "address": "3360 Charlevoix Street",
-    "city": "McDougall-Hunt",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2985 EAST JEFFERSON AVE",
+    "city": "DETROIT",
     "state": "MI",
     "zip": "48207",
-    "phone": "",
+    "phone": "(313) 259-1744",
     "hours": "",
-    "lat": 42.355093,
-    "lng": -83.023355,
+    "lat": 42.340538,
+    "lng": -83.01842,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-183865",
-    "name": "In The Trenches",
+    "id": "fa-129613",
+    "name": "Detroit City School District",
     "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "304 South Morrell Street",
-    "city": "Delray",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3011 WEST GRAND BLVD",
+    "city": "DETROIT",
     "state": "MI",
-    "zip": "48209",
-    "phone": "",
+    "zip": "48202",
+    "phone": "(313) 873-6205",
     "hours": "",
-    "lat": 42.304879,
-    "lng": -83.09129,
+    "lat": 42.369037,
+    "lng": -83.076922,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fallback-detroit-shelter",

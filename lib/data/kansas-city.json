@@ -38,6 +38,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-8136",
+    "name": "Della Lamb Community Center Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "500 Woodland Avenue",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64106",
+    "phone": "(816) 842-8040",
+    "hours": "",
+    "lat": 39.10526,
+    "lng": -94.57013,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-172504",
     "name": "Grace United Community Ministries - Food Pantry",
     "category": "Food",
@@ -76,44 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173756",
-    "name": "Morning Star Missionary Baptist Church/LINC",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "2411 E. 27th St.",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64127",
-    "phone": "(816) 923-3559",
-    "hours": "",
-    "lat": 39.0769471,
-    "lng": -94.5541616,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-8136",
-    "name": "Della Lamb Community Center Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "500 Woodland Avenue",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64106",
-    "phone": "(816) 842-8040",
-    "hours": "",
-    "lat": 39.10526,
-    "lng": -94.57013,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-221076",
     "name": "Heart of America Indian Center d/b/a Kansas City Indian Center",
     "category": "Food",
@@ -133,6 +114,101 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-173756",
+    "name": "Morning Star Missionary Baptist Church/LINC",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "2411 E. 27th St.",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64127",
+    "phone": "(816) 923-3559",
+    "hours": "",
+    "lat": 39.0769471,
+    "lng": -94.5541616,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-576351",
+    "name": "Guadalupe Center, Inc.",
+    "category": "Food",
+    "description": "Missouri food pantry distributing free groceries to families in need. Tues 9:00-1:00 Most pantries do not require ID or proof of income.",
+    "address": "2600 Belleview",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64108",
+    "phone": "(816) 561-6885",
+    "hours": "",
+    "lat": 39.080481,
+    "lng": -94.596401,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-576431",
+    "name": "Metro Lutheran Ministries Central",
+    "category": "Food",
+    "description": "Missouri food pantry distributing free groceries to families in need. Mon-Fri 8:30-11:00 Most pantries do not require ID or proof of income.",
+    "address": "3031 Holmes",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64109",
+    "phone": "(816) 931-0027",
+    "hours": "",
+    "lat": 39.071942,
+    "lng": -94.576491,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-576490",
+    "name": "Seton Center",
+    "category": "Food",
+    "description": "Missouri food pantry distributing free groceries to families in need. Mon-Fri 9:00-11:45 & 12:30 - 3:30 Most pantries do not require ID or proof of income.",
+    "address": "2816 East 23rd",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64127",
+    "phone": "(816) 231-3955",
+    "hours": "",
+    "lat": 39.084528,
+    "lng": -94.54964,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-576512",
+    "name": "Grace United Church",
+    "category": "Food",
+    "description": "Missouri food pantry distributing free groceries to families in need. Mon-Thurs 10:00-2:00 Most pantries do not require ID or proof of income.",
+    "address": "801 Benton Boulevard",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64124",
+    "phone": "(816) 231-5745",
+    "hours": "",
+    "lat": 39.102994,
+    "lng": -94.544235,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
     "id": "fa-175540",
     "name": "North Kansas City YMCA",
     "category": "Food",
@@ -145,82 +221,6 @@
     "hours": "",
     "lat": 39.142449856336,
     "lng": -94.57039284267,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175961",
-    "name": "Calvary Community Outreach Network",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "2940 Holmes Street",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64109",
-    "phone": "",
-    "hours": "",
-    "lat": 39.072880604804,
-    "lng": -94.576777505957,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176566",
-    "name": "Catch Up With Jesus",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "2327 Indiana Avenue",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64127",
-    "phone": "",
-    "hours": "",
-    "lat": 39.083139719015,
-    "lng": -94.542603732339,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177483",
-    "name": "Micah Ministries",
-    "category": "Food",
-    "description": "Food distribution location in Kansas City.",
-    "address": "606 Gladstone Avenue",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64124",
-    "phone": "",
-    "hours": "",
-    "lat": 39.105697683574,
-    "lng": -94.546384557405,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177769",
-    "name": "Mountaintop Inc",
-    "category": "Food",
-    "description": "Food pantry location",
-    "address": "1700 E Linwood Boulevard",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64109",
-    "phone": "",
-    "hours": "",
-    "lat": 39.0691766837,
-    "lng": -94.562733543367,
     "tags": [
       "food pantry",
       "walk-in"

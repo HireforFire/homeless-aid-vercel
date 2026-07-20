@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-174243",
-    "name": "Project Open Hand - San Francisco",
-    "category": "Food",
-    "description": "Main food distribution location in San Francisco.",
-    "address": "730 Polk St",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94109",
-    "phone": "(415) 447-2300",
-    "hours": "",
-    "lat": 37.7836801,
-    "lng": -122.4190203,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-415",
     "name": "Glide Memorial Church",
     "category": "Food",
@@ -152,6 +133,63 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-174243",
+    "name": "Project Open Hand - San Francisco",
+    "category": "Food",
+    "description": "Main food distribution location in San Francisco.",
+    "address": "730 Polk St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94109",
+    "phone": "(415) 447-2300",
+    "hours": "",
+    "lat": 37.7836801,
+    "lng": -122.4190203,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-416",
+    "name": "St. Anthony Foundation",
+    "category": "Food",
+    "description": "SF residents",
+    "address": "150 Golden Gate Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94102",
+    "phone": "(415) 241-2600",
+    "hours": "",
+    "lat": 37.7811,
+    "lng": -122.4161,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-418",
+    "name": "Martin de Porres House",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "225 Potrero Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94103",
+    "phone": "(415) 552-0240",
+    "hours": "",
+    "lat": 37.7711,
+    "lng": -122.4061,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-174239",
     "name": "GLIDE Daily Free Meals Program",
     "category": "Food",
@@ -185,44 +223,6 @@
     "lng": -122.4201615,
     "tags": [
       "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-178799",
-    "name": "Grace Fellowship Community Church",
-    "category": "Food",
-    "description": "Food pantry distribution location at Grace Fellowship Community Church",
-    "address": "3265 16th St",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94103",
-    "phone": "",
-    "hours": "",
-    "lat": 37.76445,
-    "lng": -122.42546,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-189093",
-    "name": "Economic Opportunity Council of San Francisco - Fillmore Street",
-    "category": "Food",
-    "description": "Main location of Economic Opportunity Council of San Francisco providing food assistance services.",
-    "address": "1426 Fillmore Street",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94115",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7828241,
-    "lng": -122.4323695,
-    "tags": [
-      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-174250",
-    "name": "Women's Health Center at Albany Medical College - WIC Office",
-    "category": "Food",
-    "description": "WIC Office location at Albany Medical College providing Women, Infants, and Children program services",
-    "address": "220 Green St",
-    "city": "Albany",
-    "state": "NY",
-    "zip": "12202",
-    "phone": "(518) 432-4033",
-    "hours": "",
-    "lat": 42.6397931,
-    "lng": -73.7553505,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-220982",
     "name": "Food4Life",
     "category": "Food",
@@ -131,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-174250",
+    "name": "Women's Health Center at Albany Medical College - WIC Office",
+    "category": "Food",
+    "description": "WIC Office location at Albany Medical College providing Women, Infants, and Children program services",
+    "address": "220 Green St",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12202",
+    "phone": "(518) 432-4033",
+    "hours": "",
+    "lat": 42.6397931,
+    "lng": -73.7553505,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-181472",

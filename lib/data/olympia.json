@@ -19,6 +19,44 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-131278",
+    "name": "Olympia School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1113 LEGION WAY SE",
+    "city": "OLYMPIA",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "(360) 596-6100",
+    "hours": "",
+    "lat": 47.043419,
+    "lng": -122.88815,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-829",
+    "name": "Olympia Union Gospel Mission",
+    "category": "Food",
+    "description": "Thurston County",
+    "address": "413 Franklin St NE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98506",
+    "phone": "(360) 357-9419",
+    "hours": "",
+    "lat": 47.0514,
+    "lng": -122.8914,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-181835",
     "name": "Catholic Community Services: The Community Kitchen - Food Distribution Center",
     "category": "Food",
@@ -93,25 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-131278",
-    "name": "Olympia School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1113 LEGION WAY SE",
-    "city": "OLYMPIA",
-    "state": "WA",
-    "zip": "98501",
-    "phone": "(360) 596-6100",
-    "hours": "",
-    "lat": 47.043419,
-    "lng": -122.88815,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-181173",
@@ -190,42 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-829",
-    "name": "Olympia Union Gospel Mission",
+    "id": "fa-131319",
+    "name": "Tumwater School District",
     "category": "Food",
-    "description": "Thurston County",
-    "address": "413 Franklin St NE",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "98506",
-    "phone": "(360) 357-9419",
-    "hours": "",
-    "lat": 47.0514,
-    "lng": -122.8914,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-191845",
-    "name": "Hidden Creek Community Church",
-    "category": "Food",
-    "description": "Thurston County Food Bank distribution location at Hidden Creek Community Church",
-    "address": "1807 9th Ave SW",
-    "city": "Olympia",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "621 LINWOOD AVE SW",
+    "city": "TUMWATER",
     "state": "WA",
     "zip": "98502",
-    "phone": "",
+    "phone": "(360) 709-7000",
     "hours": "",
-    "lat": 47.0395198,
-    "lng": -122.9241721,
+    "lat": 47.007019,
+    "lng": -122.913251,
     "tags": [
-      "food bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fallback-olympia-shelter",

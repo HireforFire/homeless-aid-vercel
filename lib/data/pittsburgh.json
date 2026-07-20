@@ -57,6 +57,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-12665",
+    "name": "Bethel AME Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2720 Webster Avenue",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15219",
+    "phone": "(412) 683-2160",
+    "hours": "",
+    "lat": 40.44304,
+    "lng": -79.98443,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-225715",
+    "name": "The Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "44 S. Ninth Street",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15203",
+    "phone": "",
+    "hours": "",
+    "lat": 40.4288368,
+    "lng": -79.9900513,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-172026",
     "name": "Shepherd's Heart",
     "category": "Food",
@@ -133,63 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172739",
-    "name": "Lighthouse Memorial Christian Center",
-    "category": "Food",
-    "description": "Food pantry location at Lighthouse Memorial Christian Center",
-    "address": "810 Fisher St.",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "15210",
-    "phone": "(412) 431-2230",
-    "hours": "",
-    "lat": 40.4102095,
-    "lng": -79.974959,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-12665",
-    "name": "Bethel AME Church Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2720 Webster Avenue",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "15219",
-    "phone": "(412) 683-2160",
-    "hours": "",
-    "lat": 40.44304,
-    "lng": -79.98443,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-225715",
-    "name": "The Salvation Army",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "44 S. Ninth Street",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "15203",
-    "phone": "",
-    "hours": "",
-    "lat": 40.4288368,
-    "lng": -79.9900513,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-217439",
     "name": "The Salvation Army - E Carson Street",
     "category": "Food",
@@ -228,22 +209,78 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fallback-pittsburgh-shelter",
-    "name": "Pittsburgh Homeless Services Hotline",
+    "id": "fa-218825",
+    "name": "The Salvation Army - West North Avenue 1",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "865 West North Avenue",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15233",
+    "phone": "(412) 231-0500",
+    "hours": "",
+    "lat": 40.45985,
+    "lng": -80.03387,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-2703786865",
+    "name": "Westinghouse Shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Pittsburgh",
     "state": "PA",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 40.4406,
-    "lng": -79.9959,
+    "phone": "",
+    "hours": "",
+    "lat": 40.4382152,
+    "lng": -79.9443311,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2713700239",
+    "name": "Oval Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.4312271,
+    "lng": -79.9444459,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2713700314",
+    "name": "Prospect Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.431178,
+    "lng": -79.9352311,
+    "tags": [
+      "shelter",
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

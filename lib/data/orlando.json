@@ -133,6 +133,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-630",
+    "name": "Orlando Union Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "600 W Central Boulevard",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "(407) 422-4855",
+    "hours": "",
+    "lat": 28.5502,
+    "lng": -81.3845,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-181283",
     "name": "Shiloh Baptist Church of Orlando",
     "category": "Food",
@@ -171,44 +190,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172104",
-    "name": "Heart 2 Heart at Shepherd Vision Missionary, Inc.",
-    "category": "Food",
-    "description": "Food pantry location at Shepherd Vision Missionary, Inc. Entrance to pantry is at Rio Grande.",
-    "address": "1415 W. Central Blvd.",
-    "city": "Orlando",
-    "state": "FL",
-    "zip": "32805",
-    "phone": "(407) 402-6568",
-    "hours": "",
-    "lat": 28.5421599,
-    "lng": -81.4001866,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-630",
-    "name": "Orlando Union Rescue Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "600 W Central Boulevard",
-    "city": "Orlando",
-    "state": "FL",
-    "zip": "32805",
-    "phone": "(407) 422-4855",
-    "hours": "",
-    "lat": 28.5502,
-    "lng": -81.3845,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-219521",
     "name": "NTTAC Community Outreach",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 28.5310154,
     "lng": -81.4002457,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221327",
+    "name": "The First Community Christian Pentecostal Church of God inc",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1877 South Orange Blossom TRL",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "(407) 860-8807",
+    "hours": "",
+    "lat": 28.5221252,
+    "lng": -81.3967133,
     "tags": [
       "food pantry",
       "walk-in"

@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-176014",
-    "name": "Catholic Community Services (CCS) – Eugene",
+    "id": "fa-966",
+    "name": "FOOD For Lane County",
     "category": "Food",
-    "description": "Food pantry distribution location in Eugene, Oregon.",
-    "address": "1464 W 6th Avenue",
+    "description": "Serves Lane County",
+    "address": "770 Bailey Hill Road",
     "city": "Eugene",
     "state": "OR",
     "zip": "97402",
-    "phone": "",
+    "phone": "(541) 343-2822",
     "hours": "",
-    "lat": 44.052986197198,
-    "lng": -123.114888585692,
+    "lat": 44.0317,
+    "lng": -123.1217,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fallback-eugene-shelter",

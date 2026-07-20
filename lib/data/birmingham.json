@@ -38,6 +38,25 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-226157",
+    "name": "Bundles of Hope Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Birmingham, AL",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35201",
+    "phone": "",
+    "hours": "",
+    "lat": 33.51856,
+    "lng": -86.80842,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-172537",
     "name": "Urban Ministry, Inc.",
     "category": "Food",
@@ -133,99 +152,80 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172347",
-    "name": "South Highland Presbyterian Church",
+    "id": "fa-1107",
+    "name": "Bread of Life Food Pantry",
     "category": "Food",
-    "description": "Food pantry location at South Highland Presbyterian Church",
-    "address": "2035 Highland Ave.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "538 7th Street North",
     "city": "Birmingham",
     "state": "AL",
-    "zip": "35205",
-    "phone": "(205) 933-0790",
+    "zip": "35203",
+    "phone": "(205) 320-2111",
     "hours": "",
-    "lat": 33.4993448,
-    "lng": -86.7943734,
+    "lat": 33.51847,
+    "lng": -86.80999,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-172376",
-    "name": "Grace Klein Community - Jefferson County Family Court House",
+    "id": "fa-1214",
+    "name": "Baptist Church of the Covenant - Sack Lunches",
     "category": "Food",
-    "description": "Mobile food pantry distribution location at Jefferson County Family Court House",
-    "address": "120 2nd Ct. N.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2117 University Boulevard",
     "city": "Birmingham",
     "state": "AL",
-    "zip": "35204",
-    "phone": "(205) 490-7516",
+    "zip": "35233",
+    "phone": "(205) 328-0644",
     "hours": "",
-    "lat": 33.5049423,
-    "lng": -86.8339309,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173863",
-    "name": "St. Andrew's Episcopal Church",
-    "category": "Food",
-    "description": "St. Andy's Pantry food distribution location",
-    "address": "1024 12th Street South",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35205",
-    "phone": "(205) 639-9652",
-    "hours": "",
-    "lat": 33.49555,
-    "lng": -86.80812,
+    "lat": 33.50916,
+    "lng": -86.80132,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-174336",
-    "name": "Community Kitchens at Eleventh Avenue COGIC",
+    "id": "fa-1222",
+    "name": "23rd Street Baptist Church - South",
     "category": "Food",
-    "description": "Soup kitchen location at Eleventh Avenue COGIC in Birmingham, Alabama.",
-    "address": "4408 10th Ave. N.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "311 23rd Street S",
     "city": "Birmingham",
     "state": "AL",
-    "zip": "35212",
-    "phone": "(205) 251-3569",
+    "zip": "35233",
+    "phone": "(205) 251-1752",
     "hours": "",
-    "lat": 33.5424554,
-    "lng": -86.770757,
+    "lat": 33.50916,
+    "lng": -86.80132,
     "tags": [
-      "soup kitchen",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-174809",
-    "name": "The Salvation Army - Birmingham Center of Hope",
+    "id": "fa-218788",
+    "name": "The Salvation Army - Fl Shuttlesworth Dr",
     "category": "Food",
-    "description": "Main location providing food pantry and soup kitchen services in Birmingham.",
-    "address": "2015 26th Ave. N.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1401 Fl Shuttlesworth Dr",
     "city": "Birmingham",
     "state": "AL",
     "zip": "35234",
-    "phone": "(205) 328-2420",
+    "phone": "(205) 252-8151",
     "hours": "",
-    "lat": 33.544802,
-    "lng": -86.8243215,
+    "lat": 33.54005,
+    "lng": -86.80382,
     "tags": [
-      "soup kitchen",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-birmingham-shelter",

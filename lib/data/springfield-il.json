@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-185452",
-    "name": "Helping Hands of Springfield",
+    "id": "fa-891",
+    "name": "Central Illinois Foodbank",
     "category": "Food",
-    "description": "Main location providing shelter support and sit-down meal services with air conditioning.",
-    "address": "2200 Shale St.",
+    "description": "Serves Central Illinois",
+    "address": "1937 East Cook Street",
     "city": "Springfield",
     "state": "IL",
     "zip": "62703",
-    "phone": "",
+    "phone": "(217) 522-4022",
     "hours": "",
-    "lat": 39.7788885,
-    "lng": -89.610296,
+    "lat": 39.7783,
+    "lng": -89.6183,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fallback-springfield-il-shelter",

@@ -19,44 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-189811",
-    "name": "Boys & Girls Clubs Of Greater Milwaukee - Food Distribution Center",
-    "category": "Food",
-    "description": "Food Distribution Center located in Milwaukee",
-    "address": "1558 N 6th St",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53212",
-    "phone": "",
-    "hours": "",
-    "lat": 43.051011599999995,
-    "lng": -87.918159,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173382",
-    "name": "All Peoples Church - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located at All Peoples Church",
-    "address": "2600 N 2nd St",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53212",
-    "phone": "(414) 264-1616",
-    "hours": "",
-    "lat": 43.0659126,
-    "lng": -87.9121181,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-14795",
     "name": "Interchange Food Pantry",
     "category": "Food",
@@ -93,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-189811",
+    "name": "Boys & Girls Clubs Of Greater Milwaukee - Food Distribution Center",
+    "category": "Food",
+    "description": "Food Distribution Center located in Milwaukee",
+    "address": "1558 N 6th St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53212",
+    "phone": "",
+    "hours": "",
+    "lat": 43.051011599999995,
+    "lng": -87.918159,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-218537",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 43.0488243,
     "lng": -87.927887,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225990",
+    "name": "Milwaukee Community Crossroads",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "807 S 14th St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53204",
+    "phone": "(414) 902-5391",
+    "hours": "",
+    "lat": 43.023016249104,
+    "lng": -87.929417910976,
     "tags": [
       "food pantry",
       "walk-in"

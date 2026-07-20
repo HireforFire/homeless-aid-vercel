@@ -57,6 +57,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-435",
+    "name": "South Bay Community Services",
+    "category": "Food",
+    "description": "South Bay residents",
+    "address": "700 E St",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "(619) 420-3620",
+    "hours": "",
+    "lat": 32.6361,
+    "lng": -117.0861,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-193307",
     "name": "Salvation Army Chula Vista",
     "category": "Food",
@@ -93,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-435",
-    "name": "South Bay Community Services",
-    "category": "Food",
-    "description": "South Bay residents",
-    "address": "700 E St",
-    "city": "Chula Vista",
-    "state": "CA",
-    "zip": "91910",
-    "phone": "(619) 420-3620",
-    "hours": "",
-    "lat": 32.6361,
-    "lng": -117.0861,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-187195",

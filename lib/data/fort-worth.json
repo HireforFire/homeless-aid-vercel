@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-226294",
+    "name": "Junior League of Fort Worth Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Fort Worth, TX",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.75944,
+    "lng": -97.32912,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-173441",
     "name": "The Salvation Army - Lancaster (Mabee Social Services Center)",
     "category": "Food",
@@ -95,44 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173495",
-    "name": "All Saints Catholic Church",
-    "category": "Food",
-    "description": "All Saints Catholic Church food distribution location affiliated with Tarrant Area Food Bank.",
-    "address": "214 NW 20th St.",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76164",
-    "phone": "(817) 626-3055",
-    "hours": "",
-    "lat": 32.7813777,
-    "lng": -97.3514097,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-226294",
-    "name": "Junior League of Fort Worth Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Fort Worth, TX",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.75944,
-    "lng": -97.32912,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-13606",
     "name": "First Presbyterian Church Of Ft. Worth",
     "category": "Food",
@@ -171,25 +152,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-182084",
-    "name": "United Community Center - Bethlehem",
-    "category": "Food",
-    "description": "Food pantry location at United Community Center - Bethlehem in Fort Worth.",
-    "address": "951 Evans Ave.",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76104",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7345351,
-    "lng": -97.318028,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218796",
     "name": "The Salvation Army - Ne 28Th St",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225411",
+    "name": "world missionary baptist church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1200 e bessie st",
+    "city": "Ft.Worth",
+    "state": "TX",
+    "zip": "76104",
+    "phone": "(817) 332-1202",
+    "hours": "",
+    "lat": 32.7399712,
+    "lng": -97.3118744,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-173495",
+    "name": "All Saints Catholic Church",
+    "category": "Food",
+    "description": "All Saints Catholic Church food distribution location affiliated with Tarrant Area Food Bank.",
+    "address": "214 NW 20th St.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76164",
+    "phone": "(817) 626-3055",
+    "hours": "",
+    "lat": 32.7813777,
+    "lng": -97.3514097,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-fort-worth-shelter",

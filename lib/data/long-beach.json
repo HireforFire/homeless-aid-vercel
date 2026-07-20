@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-180381",
-    "name": "Christian Outreach in Action - Main Location",
-    "category": "Food",
-    "description": "Main facility for food pantry, warm meals, clothing bank, and diaper bank services.",
-    "address": "515 E. 3rd Street",
-    "city": "Long Beach",
-    "state": "CA",
-    "zip": "90802",
-    "phone": "",
-    "hours": "",
-    "lat": 33.770711991829,
-    "lng": -118.186049982061,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-407",
     "name": "Long Beach Rescue Mission",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-180381",
+    "name": "Christian Outreach in Action - Main Location",
+    "category": "Food",
+    "description": "Main facility for food pantry, warm meals, clothing bank, and diaper bank services.",
+    "address": "515 E. 3rd Street",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90802",
+    "phone": "",
+    "hours": "",
+    "lat": 33.770711991829,
+    "lng": -118.186049982061,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-2520",

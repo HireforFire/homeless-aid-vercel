@@ -1,100 +1,5 @@
 [
   {
-    "id": "fa-172081",
-    "name": "Oliver Street School",
-    "category": "Food",
-    "description": "Food distribution location at Oliver Street School",
-    "address": "86 Oliver Street",
-    "city": "North Ironbound",
-    "state": "NJ",
-    "zip": "07105",
-    "phone": "(973) 465-4870",
-    "hours": "",
-    "lat": 40.72630580000001,
-    "lng": -74.17032809999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172119",
-    "name": "FP Youth Outcry Foundation (The Hubb) - Springfield/Belmont",
-    "category": "Food",
-    "description": "Main distribution location",
-    "address": "135 Prince Street",
-    "city": "Springfield/Belmont",
-    "state": "NJ",
-    "zip": "07103",
-    "phone": "(973) 900-6454",
-    "hours": "",
-    "lat": 40.7325839,
-    "lng": -74.1872684,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172254",
-    "name": "Mend @ Newark WIC Office",
-    "category": "Food",
-    "description": "Fresh produce distribution location at the Newark WIC Office",
-    "address": "110 William Street",
-    "city": "Springfield/Belmont",
-    "state": "NJ",
-    "zip": "07102",
-    "phone": "(862) 250-5216",
-    "hours": "",
-    "lat": 40.7345228,
-    "lng": -74.1789974,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-174284",
-    "name": "Springfield Branch Library",
-    "category": "Food",
-    "description": "Food distribution location at Springfield Branch Library",
-    "address": "50 Hayes Street",
-    "city": "Springfield/Belmont",
-    "state": "NJ",
-    "zip": "07103",
-    "phone": "(973) 733-7736",
-    "hours": "",
-    "lat": 40.73605559999999,
-    "lng": -74.1889035,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175169",
-    "name": "NJIT Junior Police Academy",
-    "category": "Food",
-    "description": "Location for Junior Police Academy program",
-    "address": "154 Summit Street",
-    "city": "University Heights",
-    "state": "NJ",
-    "zip": "07103",
-    "phone": "(973) 596-3120",
-    "hours": "",
-    "lat": 40.7432906,
-    "lng": -74.17717189999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-220136",
     "name": "canaan evangelical church",
     "category": "Food",
@@ -226,6 +131,101 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172081",
+    "name": "Oliver Street School",
+    "category": "Food",
+    "description": "Food distribution location at Oliver Street School",
+    "address": "86 Oliver Street",
+    "city": "North Ironbound",
+    "state": "NJ",
+    "zip": "07105",
+    "phone": "(973) 465-4870",
+    "hours": "",
+    "lat": 40.72630580000001,
+    "lng": -74.17032809999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172119",
+    "name": "FP Youth Outcry Foundation (The Hubb) - Springfield/Belmont",
+    "category": "Food",
+    "description": "Main distribution location",
+    "address": "135 Prince Street",
+    "city": "Springfield/Belmont",
+    "state": "NJ",
+    "zip": "07103",
+    "phone": "(973) 900-6454",
+    "hours": "",
+    "lat": 40.7325839,
+    "lng": -74.1872684,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172254",
+    "name": "Mend @ Newark WIC Office",
+    "category": "Food",
+    "description": "Fresh produce distribution location at the Newark WIC Office",
+    "address": "110 William Street",
+    "city": "Springfield/Belmont",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(862) 250-5216",
+    "hours": "",
+    "lat": 40.7345228,
+    "lng": -74.1789974,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174284",
+    "name": "Springfield Branch Library",
+    "category": "Food",
+    "description": "Food distribution location at Springfield Branch Library",
+    "address": "50 Hayes Street",
+    "city": "Springfield/Belmont",
+    "state": "NJ",
+    "zip": "07103",
+    "phone": "(973) 733-7736",
+    "hours": "",
+    "lat": 40.73605559999999,
+    "lng": -74.1889035,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175169",
+    "name": "NJIT Junior Police Academy",
+    "category": "Food",
+    "description": "Location for Junior Police Academy program",
+    "address": "154 Summit Street",
+    "city": "University Heights",
+    "state": "NJ",
+    "zip": "07103",
+    "phone": "(973) 596-3120",
+    "hours": "",
+    "lat": 40.7432906,
+    "lng": -74.17717189999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-newark-shelter",

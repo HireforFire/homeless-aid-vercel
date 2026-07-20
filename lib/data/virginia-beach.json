@@ -57,6 +57,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-14234",
+    "name": "Judeo-Christian Outreach Center Food Pantry",
+    "category": "Food",
+    "description": "appointment",
+    "address": "1053 Virginia Beach Blvd",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "(757) 491-2846",
+    "hours": "",
+    "lat": 36.87175,
+    "lng": -76.00689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-178303",
     "name": "Creating Legacies Inc.",
     "category": "Food",
@@ -93,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-14234",
-    "name": "Judeo-Christian Outreach Center Food Pantry",
-    "category": "Food",
-    "description": "appointment",
-    "address": "1053 Virginia Beach Blvd",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23451",
-    "phone": "(757) 491-2846",
-    "hours": "",
-    "lat": 36.87175,
-    "lng": -76.00689,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-14235",

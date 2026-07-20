@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-131128",
+    "name": "Richmond City",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "301 NORTH 9TH ST",
+    "city": "RICHMOND",
+    "state": "VA",
+    "zip": "23223",
+    "phone": "(804) 780-7700",
+    "hours": "",
+    "lat": 37.541446,
+    "lng": -77.433005,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-181977",
     "name": "CAPUP North Food Pantry",
     "category": "Food",
@@ -74,25 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-131128",
-    "name": "Richmond City",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "301 NORTH 9TH ST",
-    "city": "RICHMOND",
-    "state": "VA",
-    "zip": "23223",
-    "phone": "(804) 780-7700",
-    "hours": "",
-    "lat": 37.541446,
-    "lng": -77.433005,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-207457",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "fa-176682",
-    "name": "Second Baptist Church Pantry",
+    "id": "fa-711",
+    "name": "FeedMore Food Bank",
     "category": "Food",
-    "description": "Food pantry location at Second Baptist Church",
-    "address": "1400 Idlewood Avenue",
+    "description": "Central VA",
+    "address": "1415 Rhoadmiller St",
     "city": "Richmond",
     "state": "VA",
     "zip": "23220",
-    "phone": "",
+    "phone": "(804) 521-2500",
     "hours": "",
-    "lat": 37.543143586974,
-    "lng": -77.459900582889,
+    "lat": 37.5614,
+    "lng": -77.4714,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-177115",
-    "name": "United Nations Church",
+    "id": "fa-716",
+    "name": "CARITAS Richmond",
     "category": "Food",
-    "description": "Food pantry distribution site at United Nations Church in Swansboro, Richmond.",
-    "address": "214 Cowardin Avenue",
+    "description": "Richmond area",
+    "address": "205 E Belt Blvd",
     "city": "Richmond",
     "state": "VA",
     "zip": "23224",
-    "phone": "",
+    "phone": "(804) 231-2427",
     "hours": "",
-    "lat": 37.520761013739,
-    "lng": -77.450426853006,
+    "lat": 37.5114,
+    "lng": -77.4514,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-richmond-shelter",

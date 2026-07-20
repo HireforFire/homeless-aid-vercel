@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-222493",
+    "name": "Changing Direction Outreach Ministry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1431 E. Charleston Blvd suite 17",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89104",
+    "phone": "(702) 444-6862",
+    "hours": "",
+    "lat": 36.15942,
+    "lng": -115.1329117,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-170379",
     "name": "Veteran's Village",
     "category": "Food",
@@ -95,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-222493",
-    "name": "Changing Direction Outreach Ministry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1431 E. Charleston Blvd suite 17",
-    "city": "Las Vegas",
-    "state": "NV",
-    "zip": "89104",
-    "phone": "(702) 444-6862",
-    "hours": "",
-    "lat": 36.15942,
-    "lng": -115.1329117,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-171263",
     "name": "Mt. Liberty Missionary Baptist Church",
     "category": "Food",
@@ -171,61 +171,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-170350",
-    "name": "Consulate of Mexico - Las Vegas",
+    "id": "fa-150525",
+    "name": "Catholic Charities of Southern Nevada",
     "category": "Food",
-    "description": "Food pantry location offering drive-thru service",
-    "address": "823 S 6th St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1501 Las Vegas Blvd N",
     "city": "Las Vegas",
     "state": "NV",
     "zip": "89101",
-    "phone": "",
+    "phone": "(702) 385-2662",
     "hours": "",
-    "lat": 36.1594884,
-    "lng": -115.1453636,
+    "lat": 36.1837,
+    "lng": -115.1353,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-170996",
-    "name": "Iglesia Beraca USA",
+    "id": "fa-150566",
+    "name": "Catholic Charities - Hands of Hope",
     "category": "Food",
-    "description": "Food pantry location in Las Vegas",
-    "address": "1203 E Charleston Blvd.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1511 Las Vegas Blvd. N",
     "city": "Las Vegas",
     "state": "NV",
-    "zip": "89104",
-    "phone": "",
+    "zip": "89101",
+    "phone": "(702) 387-2291",
     "hours": "",
-    "lat": 36.159636,
-    "lng": -115.1363883,
+    "lat": 36.17279,
+    "lng": -115.12234,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-171582",
-    "name": "Reconciliation Apostolic Ministries",
+    "id": "fa-150571",
+    "name": "Grapevine Fellowship",
     "category": "Food",
-    "description": "Food pantry location serving Clark County residents",
-    "address": "911 G St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 N Bruce Street",
     "city": "Las Vegas",
     "state": "NV",
-    "zip": "89106",
-    "phone": "",
+    "zip": "89101",
+    "phone": "(702) 431-8463",
     "hours": "",
-    "lat": 36.181048,
-    "lng": -115.1509907,
+    "lat": 36.17279,
+    "lng": -115.12234,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fallback-las-vegas-shelter",

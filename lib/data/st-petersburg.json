@@ -38,6 +38,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-334",
+    "name": "St. Vincent de Paul - St. Petersburg",
+    "category": "Food",
+    "description": "Pinellas County",
+    "address": "1055 4th St N",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "(727) 823-2516",
+    "hours": "",
+    "lat": 27.7733,
+    "lng": -82.6433,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-180170",
     "name": "Pinellas Community Law Program - St. Petersburg Office",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-334",
-    "name": "St. Vincent de Paul - St. Petersburg",
-    "category": "Food",
-    "description": "Pinellas County",
-    "address": "1055 4th St N",
-    "city": "St. Petersburg",
-    "state": "FL",
-    "zip": "33701",
-    "phone": "(727) 823-2516",
-    "hours": "",
-    "lat": 27.7733,
-    "lng": -82.6433,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fallback-st-petersburg-shelter",

@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-173341",
-    "name": "Frenchtown Neighborhood Improvement Association",
-    "category": "Food",
-    "description": "Hot/Cold Meal Program distribution location",
-    "address": "524 N MLK Blvd.",
-    "city": "Tallahassee",
-    "state": "FL",
-    "zip": "32301",
-    "phone": "(850) 577-1615",
-    "hours": "",
-    "lat": 30.4477499,
-    "lng": -84.2858738,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-221051",
     "name": "ECHO",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-173341",
+    "name": "Frenchtown Neighborhood Improvement Association",
+    "category": "Food",
+    "description": "Hot/Cold Meal Program distribution location",
+    "address": "524 N MLK Blvd.",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 577-1615",
+    "hours": "",
+    "lat": 30.4477499,
+    "lng": -84.2858738,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-200038",
@@ -107,25 +107,6 @@
     "hours": "",
     "lat": 30.4381828,
     "lng": -84.2806235,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172567",
-    "name": "Salvation Army - Tallahassee",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "2410 Allen Rd",
-    "city": "Tallahassee",
-    "state": "FL",
-    "zip": "32302",
-    "phone": "(850) 222-0304",
-    "hours": "",
-    "lat": 30.47649066,
-    "lng": -84.29489346,
     "tags": [
       "food pantry",
       "walk-in"
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172567",
+    "name": "Salvation Army - Tallahassee",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "2410 Allen Rd",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32302",
+    "phone": "(850) 222-0304",
+    "hours": "",
+    "lat": 30.47649066,
+    "lng": -84.29489346,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-tallahassee-shelter",

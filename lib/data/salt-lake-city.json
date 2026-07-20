@@ -19,25 +19,6 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "fa-197078",
-    "name": "Volunteers of America Youth Resource Center",
-    "category": "Food",
-    "description": "Youth Resource Center providing meal services for homeless and at-risk youth. Handicapped accessible.",
-    "address": "888 S. 400 W.",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84101",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7500854,
-    "lng": -111.9031027,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-131019",
     "name": "ALIANZA ACADEMY",
     "category": "Food",
@@ -95,56 +76,18 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-189173",
-    "name": "Justice Economic Dignity: Independence For Women - Food Distribution Center",
+    "id": "fa-197078",
+    "name": "Volunteers of America Youth Resource Center",
     "category": "Food",
-    "description": "Food distribution center location",
-    "address": "352 Denver St Suite 100",
+    "description": "Youth Resource Center providing meal services for homeless and at-risk youth. Handicapped accessible.",
+    "address": "888 S. 400 W.",
     "city": "Salt Lake City",
     "state": "UT",
-    "zip": "84111",
+    "zip": "84101",
     "phone": "",
     "hours": "",
-    "lat": 40.7615342,
-    "lng": -111.8785367,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-201259",
-    "name": "Ebenezer Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location providing food distribution services",
-    "address": "820 S 300 E",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84111",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7513268,
-    "lng": -111.8828576,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-202156",
-    "name": "Liberty Senior Center",
-    "category": "Food",
-    "description": "Senior center location providing food distribution services.",
-    "address": "251 East 700 South",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84111",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7545444,
-    "lng": -111.8837659,
+    "lat": 40.7500854,
+    "lng": -111.9031027,
     "tags": [
       "food pantry",
       "walk-in"
@@ -207,6 +150,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-189173",
+    "name": "Justice Economic Dignity: Independence For Women - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center location",
+    "address": "352 Denver St Suite 100",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7615342,
+    "lng": -111.8785367,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201259",
+    "name": "Ebenezer Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location providing food distribution services",
+    "address": "820 S 300 E",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7513268,
+    "lng": -111.8828576,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202156",
+    "name": "Liberty Senior Center",
+    "category": "Food",
+    "description": "Senior center location providing food distribution services.",
+    "address": "251 East 700 South",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7545444,
+    "lng": -111.8837659,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-13897",

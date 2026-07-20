@@ -38,6 +38,25 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-690",
+    "name": "Urban Ministries Durham",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "410 Liberty St",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "(919) 682-0538",
+    "hours": "",
+    "lat": 35.9914,
+    "lng": -78.9014,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-183717",
     "name": "Fisher Memorial United Holy Church",
     "category": "Food",
@@ -74,6 +93,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-858",
+    "name": "Urban Ministries of Durham",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "410 Liberty Street",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "(919) 682-0538",
+    "hours": "",
+    "lat": 35.9917,
+    "lng": -78.8983,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
+    "id": "fa-226174",
+    "name": "Diaper Bank of NC Triangle",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Durham, NC",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "",
+    "hours": "",
+    "lat": 35.99858,
+    "lng": -78.89872,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-184874",
@@ -164,63 +221,6 @@
     "hours": "",
     "lat": 35.9891571,
     "lng": -78.9035691,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-196599",
-    "name": "CAARE, Inc. - Downtown Location",
-    "category": "Food",
-    "description": "Main location of CAARE, Inc. at 205 Broadway Street",
-    "address": "205 Broadway Street",
-    "city": "Downtown",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0007623,
-    "lng": -78.8980795,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-201334",
-    "name": "St. James of Durham",
-    "category": "Food",
-    "description": "Main location of St. James of Durham",
-    "address": "314 North Hyde Park Avenue",
-    "city": "East Durham",
-    "state": "NC",
-    "zip": "27703",
-    "phone": "",
-    "hours": "",
-    "lat": 35.988676,
-    "lng": -78.881496,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-206371",
-    "name": "Fisher Memorial",
-    "category": "Food",
-    "description": "Fisher Memorial food assistance location in Durham, NC",
-    "address": "420 East Piedmont Avenue",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27707",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9839037,
-    "lng": -78.8996894,
     "tags": [
       "food pantry",
       "walk-in"

@@ -38,6 +38,25 @@
     "lastUpdated": "2026-05-11"
   },
   {
+    "id": "fa-5274",
+    "name": "St Patrick Center - Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 North Tucker",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63101",
+    "phone": "(314) 802-0700",
+    "hours": "",
+    "lat": 38.63127,
+    "lng": -90.19275,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-197803",
     "name": "St Patrick Center",
     "category": "Food",
@@ -74,63 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172845",
-    "name": "St. Cronan Church Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location at St. Cronan Church",
-    "address": "1202 S. Boyle Ave.",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63110",
-    "phone": "(314) 533-0651",
-    "hours": "",
-    "lat": 38.6263646,
-    "lng": -90.2537731,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173588",
-    "name": "Pcac-St Louis",
-    "category": "Food",
-    "description": "Food pantry location",
-    "address": "4236 Lindell Blvd.",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63108",
-    "phone": "(314) 862-6270",
-    "hours": "",
-    "lat": 38.6401833,
-    "lng": -90.2497564,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-5274",
-    "name": "St Patrick Center - Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "800 North Tucker",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63101",
-    "phone": "(314) 802-0700",
-    "hours": "",
-    "lat": 38.63127,
-    "lng": -90.19275,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-8175",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172845",
+    "name": "St. Cronan Church Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at St. Cronan Church",
+    "address": "1202 S. Boyle Ave.",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63110",
+    "phone": "(314) 533-0651",
+    "hours": "",
+    "lat": 38.6263646,
+    "lng": -90.2537731,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173588",
+    "name": "Pcac-St Louis",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "4236 Lindell Blvd.",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63108",
+    "phone": "(314) 862-6270",
+    "hours": "",
+    "lat": 38.6401833,
+    "lng": -90.2497564,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-st-louis-shelter",

@@ -76,6 +76,101 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-654",
+    "name": "Pacific Garden Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1458 S Canal St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60607",
+    "phone": "(312) 492-9410",
+    "hours": "",
+    "lat": 41.8614,
+    "lng": -87.6414,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-754",
+    "name": "Pilsen Food Pantry",
+    "category": "Food",
+    "description": "Pilsen",
+    "address": "1850 S Throop St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(312) 666-3130",
+    "hours": "",
+    "lat": 41.8564,
+    "lng": -87.6564,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-5059",
+    "name": "Marillac Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2859 W. Jackson Ave.",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60612",
+    "phone": "(773) 584-4539",
+    "hours": "",
+    "lat": 41.8805,
+    "lng": -87.68783,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-5071",
+    "name": "Benton House Over 21 Committee Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3052 S Gratten Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(773) 927-6420",
+    "hours": "",
+    "lat": 41.84887,
+    "lng": -87.67139,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226172",
+    "name": "Cradles to Crayons - Chicago",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Chicago, IL",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60601",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8970272,
+    "lng": -87.6716833,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-186777",
     "name": "Our Lady of the Holy Family",
     "category": "Food",
@@ -126,101 +221,6 @@
     "hours": "",
     "lat": 41.8816901,
     "lng": -87.6652387,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-190530",
-    "name": "Life Changers International Church",
-    "category": "Food",
-    "description": "Main entrance. Bring ID.",
-    "address": "1337 W 15th Street",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60608",
-    "phone": "",
-    "hours": "",
-    "lat": 41.8612408,
-    "lng": -87.66087,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-191287",
-    "name": "Midwest Asian Health Association",
-    "category": "Food",
-    "description": "Main location for Midwest Asian Health Association pantry and grocery distribution services.",
-    "address": "218 W 26th St",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60616",
-    "phone": "",
-    "hours": "",
-    "lat": 41.8458143,
-    "lng": -87.6327103,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-193351",
-    "name": "St Matthew Child Advocate",
-    "category": "Food",
-    "description": "Pantry location with wheelchair accessible entrance at Wendell and Orleans St.",
-    "address": "1000 N Orleans St",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60610",
-    "phone": "",
-    "hours": "",
-    "lat": 41.9009038,
-    "lng": -87.6376575,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-197272",
-    "name": "Northwestern University Settlement Association",
-    "category": "Food",
-    "description": "Main food pantry and grocery distribution location",
-    "address": "1400 W Augusta Blvd",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60622",
-    "phone": "",
-    "hours": "",
-    "lat": 41.9000176,
-    "lng": -87.6627352,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-199597",
-    "name": "Chicago Lights",
-    "category": "Food",
-    "description": "Chicago Lights food pantry and grocery distribution location",
-    "address": "126 E Chestnut St",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60611",
-    "phone": "",
-    "hours": "",
-    "lat": 41.89871,
-    "lng": -87.62544,
     "tags": [
       "food pantry",
       "walk-in"

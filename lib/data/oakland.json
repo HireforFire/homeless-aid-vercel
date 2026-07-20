@@ -76,6 +76,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-2181",
+    "name": "CID Project of the East Bay- Oakland",
+    "category": "Food",
+    "description": "referral",
+    "address": "1320 Webster Street",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94612",
+    "phone": "(510) 663-7979",
+    "hours": "",
+    "lat": 37.80789,
+    "lng": -122.2662,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-180619",
     "name": "Saint Augustine's Episcopal Church - Food Distribution Center",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 37.8133806,
     "lng": -122.2844843,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-195931",
-    "name": "Taylor Memorial Church - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located in Oakland",
-    "address": "1188 12th St",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "94607",
-    "phone": "",
-    "hours": "",
-    "lat": 37.8085181,
-    "lng": -122.2872309,
     "tags": [
       "food pantry",
       "walk-in"

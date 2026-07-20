@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-173583",
-    "name": "St. Stephen's CARE Center",
-    "category": "Food",
-    "description": "Food pantry location at St. Stephen's CARE Center",
-    "address": "2127 S. Zarzamora St.",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78207",
-    "phone": "(210) 226-6178",
-    "hours": "",
-    "lat": 29.4229831,
-    "lng": -98.5030273,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172645",
-    "name": "Little Church of La Villita",
-    "category": "Food",
-    "description": "Food pantry location at Little Church of La Villita in San Antonio, TX.",
-    "address": "508 Villita St.",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78205",
-    "phone": "(210) 226-3593",
-    "hours": "",
-    "lat": 29.4216327,
-    "lng": -98.4885983,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-181552",
     "name": "Corazon Ministries Day Center",
     "category": "Food",
@@ -74,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-173583",
+    "name": "St. Stephen's CARE Center",
+    "category": "Food",
+    "description": "Food pantry location at St. Stephen's CARE Center",
+    "address": "2127 S. Zarzamora St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78207",
+    "phone": "(210) 226-6178",
+    "hours": "",
+    "lat": 29.4229831,
+    "lng": -98.5030273,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-183955",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172645",
+    "name": "Little Church of La Villita",
+    "category": "Food",
+    "description": "Food pantry location at Little Church of La Villita in San Antonio, TX.",
+    "address": "508 Villita St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78205",
+    "phone": "(210) 226-3593",
+    "hours": "",
+    "lat": 29.4216327,
+    "lng": -98.4885983,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-130944",

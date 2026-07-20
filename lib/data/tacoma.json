@@ -19,6 +19,25 @@
     "lastUpdated": "2026-05-15"
   },
   {
+    "id": "fa-725",
+    "name": "Tacoma Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "425 S Tacoma Way",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98402",
+    "phone": "(253) 383-4493",
+    "hours": "",
+    "lat": 47.2514,
+    "lng": -122.4414,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-183307",
     "name": "New Jerusalem Church of God In Christ",
     "category": "Food",
@@ -133,44 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-184815",
-    "name": "Tacoma Empowerment Consortium - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located in downtown Tacoma",
-    "address": "950 Pacific Ave",
-    "city": "Tacoma",
-    "state": "WA",
-    "zip": "98402",
-    "phone": "",
-    "hours": "",
-    "lat": 47.2535664,
-    "lng": -122.43911759999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-725",
-    "name": "Tacoma Rescue Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "425 S Tacoma Way",
-    "city": "Tacoma",
-    "state": "WA",
-    "zip": "98402",
-    "phone": "(253) 383-4493",
-    "hours": "",
-    "lat": 47.2514,
-    "lng": -122.4414,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-226311",
     "name": "Pierce County Early Childhood Network",
     "category": "Food",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-184815",
+    "name": "Tacoma Empowerment Consortium - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in downtown Tacoma",
+    "address": "950 Pacific Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98402",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2535664,
+    "lng": -122.43911759999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-14530",

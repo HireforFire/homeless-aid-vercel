@@ -114,25 +114,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-183401",
-    "name": "St. Anthony Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location in Manchester, New Hampshire.",
-    "address": "61 W Baker St",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "03103",
-    "phone": "",
-    "hours": "",
-    "lat": 42.972586299999996,
-    "lng": -71.4647055,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-935",
     "name": "New Hampshire Food Bank",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 42.95536,
     "lng": -71.44463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9300",
+    "name": "St Vincent de Paul - Ste Marie's Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "378 Notre Dame Ave.",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102",
+    "phone": "(603) 622-4615",
+    "hours": "",
+    "lat": 43.00797,
+    "lng": -71.49134,
     "tags": [
       "food pantry",
       "walk-in"

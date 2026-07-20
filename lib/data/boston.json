@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-223948",
+    "name": "Boston Rescue Mission",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "39 Kingston St.",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02111",
+    "phone": "(617) 338-9000",
+    "hours": "",
+    "lat": 42.35355,
+    "lng": -71.0594559,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-174363",
     "name": "Boston Common (near Park Street T)",
     "category": "Food",
@@ -36,25 +55,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-223948",
-    "name": "Boston Rescue Mission",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "39 Kingston St.",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "02111",
-    "phone": "(617) 338-9000",
-    "hours": "",
-    "lat": 42.35355,
-    "lng": -71.0594559,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-188875",
@@ -171,44 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172387",
-    "name": "ICNA Relief Boston - Roxbury",
-    "category": "Food",
-    "description": "Main food distribution location in Roxbury offering halal food and baby essentials.",
-    "address": "1234 Columbus Avenue",
-    "city": "Roxbury",
-    "state": "MA",
-    "zip": "02119",
-    "phone": "(857) 302-4958",
-    "hours": "",
-    "lat": 42.3302303,
-    "lng": -71.0952279,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173575",
-    "name": "Liberty Plaza Mobile Market",
-    "category": "Food",
-    "description": "Mobile market distribution location at Liberty Plaza",
-    "address": "216 Border Street",
-    "city": "Central Square",
-    "state": "MA",
-    "zip": "02128",
-    "phone": "(617) 567-8857",
-    "hours": "",
-    "lat": 42.3756473,
-    "lng": -71.0406127,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-6440",
     "name": "Combined Jewish Philanthropies",
     "category": "Food",
@@ -218,6 +180,44 @@
     "state": "MA",
     "zip": "02110",
     "phone": "(617) 457-8500",
+    "hours": "",
+    "lat": 42.35797,
+    "lng": -71.05189,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-6443",
+    "name": "The Paulist Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "5 Park Street",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02108",
+    "phone": "(617) 742-4460",
+    "hours": "",
+    "lat": 42.35657,
+    "lng": -71.06516,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-6445",
+    "name": "St Anthony Shrine/Franciscan Food Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "100 Arch Street",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02110",
+    "phone": "(617) 542-6440",
     "hours": "",
     "lat": 42.35797,
     "lng": -71.05189,

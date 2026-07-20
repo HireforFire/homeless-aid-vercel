@@ -38,6 +38,44 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-667",
+    "name": "West Side Catholic Center",
+    "category": "Food",
+    "description": "West Side",
+    "address": "3135 Lorain Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44113",
+    "phone": "(216) 631-4741",
+    "hours": "",
+    "lat": 41.4814,
+    "lng": -81.7214,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-762",
+    "name": "East Side Catholic Community",
+    "category": "Food",
+    "description": "East Cleveland",
+    "address": "1860 E 30th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44114",
+    "phone": "(216) 881-8888",
+    "hours": "",
+    "lat": 41.4914,
+    "lng": -81.6514,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-175818",
     "name": "Hunger Network",
     "category": "Food",
@@ -95,137 +133,99 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-175542",
-    "name": "Iglesia Sinai",
+    "id": "fa-11541",
+    "name": "Calvary Presbyterian Church",
     "category": "Food",
-    "description": "Food pantry distribution location at Iglesia Sinai.",
-    "address": "2806 Daisy Ave",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44109",
-    "phone": "",
-    "hours": "",
-    "lat": 41.459361366676,
-    "lng": -81.702341615084,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175738",
-    "name": "CPL - South",
-    "category": "Food",
-    "description": "Mobile pantry distribution location",
-    "address": "3096 Scranton Rd",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44113",
-    "phone": "",
-    "hours": "",
-    "lat": 41.470220289878,
-    "lng": -81.697207531751,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176024",
-    "name": "West 58th Street Church of God",
-    "category": "Food",
-    "description": "Food pantry location at West 58th Street Church of God",
-    "address": "3150 W 58th St",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44102",
-    "phone": "",
-    "hours": "",
-    "lat": 41.468084790496,
-    "lng": -81.726792045742,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176257",
-    "name": "Cleveland Hope Exchange - Fulton",
-    "category": "Food",
-    "description": "Mobile pantry distribution location at Fulton site",
-    "address": "3185 W 41st St",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44109",
-    "phone": "",
-    "hours": "",
-    "lat": 41.467150711206,
-    "lng": -81.712884540536,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176731",
-    "name": "St. Vincent Charity Med Ctr FAM MP",
-    "category": "Food",
-    "description": "Mobile food pantry distribution site at St. Vincent Charity Medical Center.",
-    "address": "2421 Community College Ave",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44115",
-    "phone": "",
-    "hours": "",
-    "lat": 41.495603626359,
-    "lng": -81.671254309673,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176814",
-    "name": "MetroHealth Mobile Pantry",
-    "category": "Food",
-    "description": "Mobile pantry distribution location",
-    "address": "2500 Metro Health Dr",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44109",
-    "phone": "",
-    "hours": "",
-    "lat": 41.462452780205,
-    "lng": -81.697325548947,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177684",
-    "name": "St. Andrew's Episcopal Church",
-    "category": "Food",
-    "description": "St. Andrew's Episcopal Church location providing hot meals distribution.",
-    "address": "2171 E 49th St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2020 E 79th St.",
     "city": "Cleveland",
     "state": "OH",
     "zip": "44103",
-    "phone": "",
+    "phone": "(216) 391-8448",
     "hours": "",
-    "lat": 41.499539013719,
-    "lng": -81.653000368575,
+    "lat": 41.51559,
+    "lng": -81.64301,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-11567",
+    "name": "Pilgrim Congregational United Church of Christ",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2592 W 14th Street",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44113",
+    "phone": "(216) 861-7388",
+    "hours": "",
+    "lat": 41.48343,
+    "lng": -81.69638,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-11569",
+    "name": "Old Stone Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "91 Public Sq.",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44113",
+    "phone": "(216) 241-6145",
+    "hours": "",
+    "lat": 41.48343,
+    "lng": -81.69638,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-11577",
+    "name": "Manna House Recovery and Resource Center",
+    "category": "Food",
+    "description": "proof of address",
+    "address": "8019 Cedar Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44103",
+    "phone": "(216) 432-2598",
+    "hours": "",
+    "lat": 41.51559,
+    "lng": -81.64301,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226296",
+    "name": "The Diaper Bank of Greater Cleveland",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Cleveland, OH",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44101",
+    "phone": "",
+    "hours": "",
+    "lat": 41.48988,
+    "lng": -81.6717,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fallback-cleveland-shelter",

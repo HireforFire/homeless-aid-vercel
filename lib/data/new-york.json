@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-215857",
-    "name": "Primitive Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "207-209 East Broadway",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10002",
-    "phone": "(646) 831-6653",
-    "hours": "",
-    "lat": 40.714176,
-    "lng": -73.989761,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-221412",
     "name": "Sea of Galilee Food Pantry",
     "category": "Food",
@@ -95,6 +76,120 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-215857",
+    "name": "Primitive Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "207-209 East Broadway",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "(646) 831-6653",
+    "hours": "",
+    "lat": 40.714176,
+    "lng": -73.989761,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-521",
+    "name": "Bowery Mission",
+    "category": "Food",
+    "description": "No ID required",
+    "address": "227 Bowery",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "(212) 674-3456",
+    "hours": "",
+    "lat": 40.7233,
+    "lng": -73.9936,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-523",
+    "name": "Coalition for the Homeless",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "129 Fulton Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10038",
+    "phone": "(212) 776-2000",
+    "hours": "",
+    "lat": 40.7083,
+    "lng": -74.0058,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-215768",
+    "name": "Trinity's Services And Food for the Homeless, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "602 E. 9th St.",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10009",
+    "phone": "(212) 228-5254",
+    "hours": "",
+    "lat": 40.726089,
+    "lng": -73.980125,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-215901",
+    "name": "Educational Alliance - Center for Recovery and Wellness",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "25-29 Avenue D",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10009",
+    "phone": "(646) 395-4414",
+    "hours": "",
+    "lat": 40.721058,
+    "lng": -73.978134,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-216112",
+    "name": "Grand Street Settlement Pop Up Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "72 Columbia St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "(646) 439-3187",
+    "hours": "",
+    "lat": 40.717007,
+    "lng": -73.979118,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-173812",
     "name": "Project Hospitality - Canal Street",
     "category": "Food",
@@ -126,101 +221,6 @@
     "hours": "",
     "lat": 40.724195493722,
     "lng": -74.004876489753,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-186941",
-    "name": "New York City Rescue Mission",
-    "category": "Food",
-    "description": "Community meal and soup kitchen location in downtown Manhattan",
-    "address": "90 Lafayette Street",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10013",
-    "phone": "",
-    "hours": "",
-    "lat": 40.717518,
-    "lng": -74.001561,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-191656",
-    "name": "Public Health Solutions - WIC Office",
-    "category": "Food",
-    "description": "WIC Office/Sign Up Location. Please call the site as many are working remotely. Do not go to the site unless directed by a WIC employee.",
-    "address": "40 Worth St - Fifth Floor",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10013",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7171693,
-    "lng": -74.0068524,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-196116",
-    "name": "MCNY Community Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location",
-    "address": "60 West St",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10006",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7085735,
-    "lng": -74.0149887,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-203961",
-    "name": "WCK Bowery Mission",
-    "category": "Food",
-    "description": "World Central Kitchen food distribution location at the Bowery Mission",
-    "address": "227 Bowery",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10002",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7220889,
-    "lng": -73.9931083,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-205707",
-    "name": "City Relief Lower East Side",
-    "category": "Food",
-    "description": "DELANCEY ST. (BTWN CHRYSTIE & FORSYTH ST)",
-    "address": "29 Delancey Street",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10002",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7196743,
-    "lng": -73.9926266,
     "tags": [
       "food pantry",
       "walk-in"

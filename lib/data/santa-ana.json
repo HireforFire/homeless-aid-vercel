@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-468",
+    "name": "St. Vincent de Paul Orange",
+    "category": "Food",
+    "description": "Orange County",
+    "address": "1200 N Main St",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92701",
+    "phone": "(714) 547-9952",
+    "hours": "",
+    "lat": 33.7561,
+    "lng": -117.8661,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-193261",
     "name": "Veterans First - Santa Ana",
     "category": "Food",
@@ -38,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-468",
-    "name": "St. Vincent de Paul Orange",
-    "category": "Food",
-    "description": "Orange County",
-    "address": "1200 N Main St",
-    "city": "Santa Ana",
-    "state": "CA",
-    "zip": "92701",
-    "phone": "(714) 547-9952",
-    "hours": "",
-    "lat": 33.7561,
-    "lng": -117.8661,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
-  },
-  {
     "id": "fa-191610",
     "name": "Iglesia Vida Abundante",
     "category": "Food",
@@ -88,25 +88,6 @@
     "hours": "",
     "lat": 33.7501027,
     "lng": -117.8683219,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172374",
-    "name": "Companerismo Rey de Reyes",
-    "category": "Food",
-    "description": "Food pantry location at 940 W. Wilshire Ave., Santa Ana, CA 92707",
-    "address": "940 W. Wilshire Ave.",
-    "city": "Santa Ana",
-    "state": "CA",
-    "zip": "92707",
-    "phone": "(714) 850-1952",
-    "hours": "",
-    "lat": 33.7304236,
-    "lng": -117.8785311,
     "tags": [
       "food pantry",
       "walk-in"
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 33.7731743,
     "lng": -117.8356552,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225300",
+    "name": "mental health assoc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2416 S. Main St",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92707",
+    "phone": "(714) 668-1530",
+    "hours": "",
+    "lat": 33.7141474,
+    "lng": -117.8683677,
     "tags": [
       "food pantry",
       "walk-in"

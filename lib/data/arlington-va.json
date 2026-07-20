@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-187246",
-    "name": "Arlington Food Assistance Center at Gates of Ballston CC",
-    "category": "Food",
-    "description": "Food distribution location at Gates of Ballston Community Center",
-    "address": "4108 N. 4th St.",
-    "city": "Arlington",
-    "state": "VA",
-    "zip": "22203",
-    "phone": "",
-    "hours": "",
-    "lat": 38.8748348,
-    "lng": -77.1074802,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-131066",
     "name": "Arlington County",
     "category": "Food",
@@ -76,56 +57,18 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-172049",
-    "name": "Arlington Presbyterian Church",
+    "id": "fa-187246",
+    "name": "Arlington Food Assistance Center at Gates of Ballston CC",
     "category": "Food",
-    "description": "Arlington Presbyterian Church located on South Lincoln Street in Alcova Heights, Virginia.",
-    "address": "918 South Lincoln Street",
-    "city": "Alcova Heights",
+    "description": "Food distribution location at Gates of Ballston Community Center",
+    "address": "4108 N. 4th St.",
+    "city": "Arlington",
     "state": "VA",
-    "zip": "22204",
-    "phone": "(703) 920-5660",
+    "zip": "22203",
+    "phone": "",
     "hours": "",
-    "lat": 38.8615365,
-    "lng": -77.0932588,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172317",
-    "name": "Park Shirlington Apartments",
-    "category": "Food",
-    "description": "Food distribution location at Park Shirlington Apartments",
-    "address": "4510 31st Street South",
-    "city": "Shirlington",
-    "state": "VA",
-    "zip": "22206",
-    "phone": "(202) 210-7025",
-    "hours": "",
-    "lat": 38.8375063,
-    "lng": -77.09320910000001,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173159",
-    "name": "Willston Multicultural Center",
-    "category": "Food",
-    "description": "Willston Multicultural Center located in Falls Church, VA.",
-    "address": "6131 Willston Drive",
-    "city": "Falls Church",
-    "state": "VA",
-    "zip": "22044",
-    "phone": "(703) 239-3575",
-    "hours": "",
-    "lat": 38.8703797,
-    "lng": -77.14884579999999,
+    "lat": 38.8748348,
+    "lng": -77.1074802,
     "tags": [
       "food pantry",
       "walk-in"
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223443",
+    "name": "Our Lady Queen of Peace",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2700 S 19th St",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "(703) 979-5580",
+    "hours": "",
+    "lat": 38.8541489,
+    "lng": -77.0827713,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224304",
+    "name": "Safe Haven",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "6165 Leesburg Pike",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22044",
+    "phone": "(703) 532-8220",
+    "hours": "",
+    "lat": 38.8635176,
+    "lng": -77.1499993,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-216973",
+    "name": "The Salvation Army - S Glebe Rd Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "518 S Glebe Rd",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "(703) 979-3380",
+    "hours": "",
+    "lat": 38.86076,
+    "lng": -77.09894,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fallback-arlington-va-shelter",

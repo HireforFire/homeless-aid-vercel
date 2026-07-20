@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173435",
-    "name": "Montana Meadows Apartments",
-    "category": "Food",
-    "description": "Pop-up food distribution location at Montana Meadows Apartments.",
-    "address": "201 E Montana Ave",
-    "city": "Las Cruces",
-    "state": "NM",
-    "zip": "88005",
-    "phone": "(575) 524-1873",
-    "hours": "",
-    "lat": 32.29337649,
-    "lng": -106.7746666,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-217869",
     "name": "The Salvation Army - E Idaho",
     "category": "Food",
@@ -171,6 +152,44 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-173435",
+    "name": "Montana Meadows Apartments",
+    "category": "Food",
+    "description": "Pop-up food distribution location at Montana Meadows Apartments.",
+    "address": "201 E Montana Ave",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88005",
+    "phone": "(575) 524-1873",
+    "hours": "",
+    "lat": 32.29337649,
+    "lng": -106.7746666,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130121",
+    "name": "ALMA D ARTE CHARTER SCHOOL",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "402 WEST COURT AVE",
+    "city": "LAS CRUCES",
+    "state": "NM",
+    "zip": "88005",
+    "phone": "(575) 541-0145",
+    "hours": "",
+    "lat": 32.311493,
+    "lng": -106.78366,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-179521",
     "name": "Lynn Community Middle School",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 32.27704,
     "lng": -106.75465,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-182635",
-    "name": "DACC East Mesa",
-    "category": "Food",
-    "description": "Pop-up/mobile food distribution location at DACC East Mesa in Las Cruces.",
-    "address": "2800 Sonoma Ranch Blvd",
-    "city": "Las Cruces",
-    "state": "NM",
-    "zip": "88011",
-    "phone": "",
-    "hours": "",
-    "lat": 32.35398,
-    "lng": -106.73798,
     "tags": [
       "mobile pantry",
       "walk-in"

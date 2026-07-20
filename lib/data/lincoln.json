@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-224896",
+    "name": "Catholic Social Services - Food Market",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2241 O Street",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68510",
+    "phone": "(531) 510-0193",
+    "hours": "",
+    "lat": 40.8131094,
+    "lng": -96.6887198,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-173136",
     "name": "Mission Distribution Center",
     "category": "Food",
@@ -38,23 +57,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-224896",
-    "name": "Catholic Social Services - Food Market",
+    "id": "fa-129832",
+    "name": "Lincoln Public Schools",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2241 O Street",
-    "city": "Lincoln",
+    "address": "5905 O ST",
+    "city": "LINCOLN",
     "state": "NE",
     "zip": "68510",
-    "phone": "(531) 510-0193",
+    "phone": "(402) 436-1000",
     "hours": "",
-    "lat": 40.8131094,
-    "lng": -96.6887198,
+    "lat": 40.817002,
+    "lng": -96.710994,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-180512",
@@ -114,23 +133,61 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-129832",
-    "name": "Lincoln Public Schools",
+    "id": "fa-9177",
+    "name": "First Presbyterian Church Mobile Food Pantry",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "5905 O ST",
-    "city": "LINCOLN",
+    "address": "840 S. 17th St",
+    "city": "Lincoln",
     "state": "NE",
-    "zip": "68510",
-    "phone": "(402) 436-1000",
+    "zip": "68508",
+    "phone": "(402) 730-6339",
     "hours": "",
-    "lat": 40.817002,
-    "lng": -96.710994,
+    "lat": 40.81831,
+    "lng": -96.70621,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9192",
+    "name": "Foodnet - St Mary's Catholic Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1420 K St",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68508",
+    "phone": "(402) 416-6197",
+    "hours": "",
+    "lat": 40.81831,
+    "lng": -96.70621,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9201",
+    "name": "Indian Center, Inc",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1100 Military Rd",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68508",
+    "phone": "(402) 438-5231",
+    "hours": "",
+    "lat": 40.81831,
+    "lng": -96.70621,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-178824",
@@ -164,63 +221,6 @@
     "hours": "",
     "lat": 40.8088863,
     "lng": -96.6945249,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-186844",
-    "name": "St. Mary's Catholic Church",
-    "category": "Food",
-    "description": "Food pantry distribution site at St. Mary's Catholic Church",
-    "address": "1420 K St.",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68508",
-    "phone": "",
-    "hours": "",
-    "lat": 40.8095032,
-    "lng": -96.7008246,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-191228",
-    "name": "Lincoln Fresh at Community Action Head Start",
-    "category": "Food",
-    "description": "Community Action Head Start location for Lincoln Fresh produce distribution",
-    "address": "2615 O Street",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68501",
-    "phone": "",
-    "hours": "",
-    "lat": 40.813262,
-    "lng": -96.6832124,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-192017",
-    "name": "Food Fort",
-    "category": "Food",
-    "description": "Food Fort location in Lincoln, Nebraska",
-    "address": "2124 Y St #130",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68503",
-    "phone": "",
-    "hours": "",
-    "lat": 40.824751899999995,
-    "lng": -96.69046499999999,
     "tags": [
       "food pantry",
       "walk-in"

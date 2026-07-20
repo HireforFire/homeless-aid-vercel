@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-187501",
-    "name": "Fayetteville Senior Center",
-    "category": "Food",
-    "description": "Senior center located in Fayetteville, Washington County, Arkansas.",
-    "address": "945 S. College Ave.",
-    "city": "Fayetteville",
-    "state": "AR",
-    "zip": "72701",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0529825,
-    "lng": -94.1596146,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-128226",
     "name": "Fayetteville",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-187501",
+    "name": "Fayetteville Senior Center",
+    "category": "Food",
+    "description": "Senior center located in Fayetteville, Washington County, Arkansas.",
+    "address": "945 S. College Ave.",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0529825,
+    "lng": -94.1596146,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-186627",
@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172994",
-    "name": "Fayetteville Mobile Pantry",
-    "category": "Food",
-    "description": "Mobile pantry distribution location in Fayetteville offering curbside pickup and drive-through food distribution.",
-    "address": "2801 W McMillan Dr",
-    "city": "Fayetteville",
-    "state": "AR",
-    "zip": "72701",
-    "phone": "(479) 872-8774",
-    "hours": "",
-    "lat": 36.0755188,
-    "lng": -94.1993038,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-219643",
     "name": "faith at the park",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172994",
+    "name": "Fayetteville Mobile Pantry",
+    "category": "Food",
+    "description": "Mobile pantry distribution location in Fayetteville offering curbside pickup and drive-through food distribution.",
+    "address": "2801 W McMillan Dr",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "(479) 872-8774",
+    "hours": "",
+    "lat": 36.0755188,
+    "lng": -94.1993038,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-192466",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-189194",
-    "name": "Fayetteville Christian School",
+    "id": "fa-220845",
+    "name": "The Salvation Army",
     "category": "Food",
-    "description": "Food distribution location in Northeast Fayetteville.",
-    "address": "2006 E. Mission Blvd.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "219 W 15th St",
     "city": "Fayetteville",
     "state": "AR",
-    "zip": "72703",
+    "zip": "72701",
     "phone": "",
     "hours": "",
-    "lat": 36.0888331,
-    "lng": -94.1307468,
+    "lat": 36.0474663,
+    "lng": -94.1623001,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-fayetteville-ar-shelter",

@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-173666",
-    "name": "Let's Help Inc. - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located in Topeka, Kansas.",
-    "address": "200 S Kansas Ave",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66603",
-    "phone": "(785) 270-5238",
-    "hours": "",
-    "lat": 39.0569638,
-    "lng": -95.67075489999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-222440",
     "name": "New Hope Food Pantry",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-173666",
+    "name": "Let's Help Inc. - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Topeka, Kansas.",
+    "address": "200 S Kansas Ave",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66603",
+    "phone": "(785) 270-5238",
+    "hours": "",
+    "lat": 39.0569638,
+    "lng": -95.67075489999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-175370",
@@ -190,6 +190,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-226207",
+    "name": "Community Action, Inc.",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Topeka, KS",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66601",
+    "phone": "",
+    "hours": "",
+    "lat": 39.05711,
+    "lng": -95.67655,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fa-174071",
     "name": "Fellowship and Faith",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 39.0457141,
     "lng": -95.6581608,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177840",
-    "name": "New Life Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "Topeka Turnaround Team",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66603",
-    "phone": "",
-    "hours": "",
-    "lat": 39.050976,
-    "lng": -95.670433,
     "tags": [
       "food pantry",
       "walk-in"

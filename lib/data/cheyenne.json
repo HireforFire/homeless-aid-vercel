@@ -95,63 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-171794",
-    "name": "Little Free Food Pantry Cheyenne WY",
-    "category": "Food",
-    "description": "Little free food pantry with walk-up access to food items.",
-    "address": "218 E 19th St",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "",
-    "hours": "",
-    "lat": 41.136794599999995,
-    "lng": -104.81419369999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-170442",
-    "name": "True Vine Community Church",
-    "category": "Food",
-    "description": "Food distribution location at True Vine Community Church. Currently operating with limited capacity.",
-    "address": "110 Central Ave",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82007",
-    "phone": "(307) 220-1824",
-    "hours": "",
-    "lat": 41.11925,
-    "lng": -104.80923,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-170626",
-    "name": "St. Joseph's Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location in Cheyenne, Wyoming. Walk-up access available.",
-    "address": "206 Van Lennen Ave",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82007",
-    "phone": "(307) 275-0567",
-    "hours": "",
-    "lat": 41.1225573,
-    "lng": -104.80207829999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-150553",
     "name": "Comea Shelter",
     "category": "Food",
@@ -190,6 +133,25 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-171794",
+    "name": "Little Free Food Pantry Cheyenne WY",
+    "category": "Food",
+    "description": "Little free food pantry with walk-up access to food items.",
+    "address": "218 E 19th St",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "",
+    "hours": "",
+    "lat": 41.136794599999995,
+    "lng": -104.81419369999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-150518",
     "name": "Food Bank of Wyoming",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-170442",
+    "name": "True Vine Community Church",
+    "category": "Food",
+    "description": "Food distribution location at True Vine Community Church. Currently operating with limited capacity.",
+    "address": "110 Central Ave",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82007",
+    "phone": "(307) 220-1824",
+    "hours": "",
+    "lat": 41.11925,
+    "lng": -104.80923,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170626",
+    "name": "St. Joseph's Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location in Cheyenne, Wyoming. Walk-up access available.",
+    "address": "206 Van Lennen Ave",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82007",
+    "phone": "(307) 275-0567",
+    "hours": "",
+    "lat": 41.1225573,
+    "lng": -104.80207829999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-cheyenne-shelter",

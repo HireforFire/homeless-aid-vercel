@@ -171,6 +171,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-658",
+    "name": "River Bend Food Bank",
+    "category": "Food",
+    "description": "Northern IL",
+    "address": "4010 11th St",
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "61109",
+    "phone": "(815) 964-2663",
+    "hours": "",
+    "lat": 42.2614,
+    "lng": -89.0614,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-180796",
     "name": "The Salvation Army Rockford/Winnebago County Office",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-658",
-    "name": "River Bend Food Bank",
-    "category": "Food",
-    "description": "Northern IL",
-    "address": "4010 11th St",
-    "city": "Rockford",
-    "state": "IL",
-    "zip": "61109",
-    "phone": "(815) 964-2663",
-    "hours": "",
-    "lat": 42.2614,
-    "lng": -89.0614,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-rockford-shelter",

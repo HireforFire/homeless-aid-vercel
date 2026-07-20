@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-174475",
-    "name": "Brooks Worship Center",
-    "category": "Food",
-    "description": "Food pantry distribution location at Brooks Worship Center.",
-    "address": "2101 N. Port Ave.",
-    "city": "Corpus Christi",
-    "state": "TX",
-    "zip": "78401",
-    "phone": "(361) 452-6864",
-    "hours": "",
-    "lat": 27.8048196,
-    "lng": -97.4102119,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-177311",
     "name": "CC Metro Ministries – Loaves & Fishes Sign Up Location",
     "category": "Food",
@@ -171,6 +152,25 @@
     "lastUpdated": "2026-04-25"
   },
   {
+    "id": "fa-174475",
+    "name": "Brooks Worship Center",
+    "category": "Food",
+    "description": "Food pantry distribution location at Brooks Worship Center.",
+    "address": "2101 N. Port Ave.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "(361) 452-6864",
+    "hours": "",
+    "lat": 27.8048196,
+    "lng": -97.4102119,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-130732",
     "name": "CORPUS CHRISTI ISD",
     "category": "Food",
@@ -209,23 +209,23 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-173206",
-    "name": "CrossBridge Fellowship",
+    "id": "fa-173071",
+    "name": "Del Mar College Viking Food Pantry",
     "category": "Food",
-    "description": "Food pantry location at CrossBridge Fellowship",
-    "address": "3002 Buffalo St.",
+    "description": "On-campus food pantry location at Del Mar College's main campus in Corpus Christi, Texas.",
+    "address": "101 Baldwin Blvd.",
     "city": "Corpus Christi",
     "state": "TX",
-    "zip": "78408",
-    "phone": "(361) 882-3613",
+    "zip": "78404",
+    "phone": "(361) 882-3245",
     "hours": "",
-    "lat": 27.7989882,
-    "lng": -97.4234119,
+    "lat": 27.7645002,
+    "lng": -97.4058828,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-25"
   },
   {
     "id": "fallback-corpus-christi-shelter",

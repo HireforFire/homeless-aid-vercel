@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-174158",
-    "name": "Chosen 300 - Center City",
-    "category": "Food",
-    "description": "Chosen 300 food distribution location in Center City, PA",
-    "address": "1116 Spring Garden Street",
-    "city": "Center City",
-    "state": "PA",
-    "zip": "19123",
-    "phone": "(215) 765-9806",
-    "hours": "",
-    "lat": 39.96141739999999,
-    "lng": -75.1569069,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218595",
     "name": "The Salvation Army - N Broad Street 1",
     "category": "Food",
@@ -133,6 +114,44 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-174158",
+    "name": "Chosen 300 - Center City",
+    "category": "Food",
+    "description": "Chosen 300 food distribution location in Center City, PA",
+    "address": "1116 Spring Garden Street",
+    "city": "Center City",
+    "state": "PA",
+    "zip": "19123",
+    "phone": "(215) 765-9806",
+    "hours": "",
+    "lat": 39.96141739999999,
+    "lng": -75.1569069,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-647",
+    "name": "St Johns Hospice",
+    "category": "Food",
+    "description": "Center City",
+    "address": "1221 Race St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19107",
+    "phone": "(215) 563-7763",
+    "hours": "",
+    "lat": 39.9576,
+    "lng": -75.1552,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-184249",
     "name": "Tindley Temple Soup Kitchen",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 39.9551008,
     "lng": -75.1647867,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194892",
-    "name": "The Welcome Church",
-    "category": "Food",
-    "description": "General meal sites offer ready-to-eat meals. Site details are subject to change. Before you go, contact the site to confirm their hours and services.",
-    "address": "2111 Sansom Street",
-    "city": "Center City West",
-    "state": "PA",
-    "zip": "19103",
-    "phone": "",
-    "hours": "",
-    "lat": 39.9519188,
-    "lng": -75.1763883,
     "tags": [
       "food pantry",
       "walk-in"

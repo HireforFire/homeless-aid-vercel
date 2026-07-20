@@ -152,44 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-194188",
-    "name": "St. Elizabeth Ann Seton SVDP",
-    "category": "Food",
-    "description": "St. Vincent de Paul Society food assistance location in Irvine",
-    "address": "9 Hillgaten'a",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92612",
-    "phone": "",
-    "hours": "",
-    "lat": 33.6505114,
-    "lng": -117.818458,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-195880",
-    "name": "Radiant Health",
-    "category": "Food",
-    "description": "Main location for Radiant Health food pantry services",
-    "address": "17982 Sky Park Circle",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92614",
-    "phone": "",
-    "hours": "",
-    "lat": 33.6897114,
-    "lng": -117.8594399,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-397",
     "name": "Second Harvest Food Bank Orange County",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-194188",
+    "name": "St. Elizabeth Ann Seton SVDP",
+    "category": "Food",
+    "description": "St. Vincent de Paul Society food assistance location in Irvine",
+    "address": "9 Hillgaten'a",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92612",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6505114,
+    "lng": -117.818458,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195880",
+    "name": "Radiant Health",
+    "category": "Food",
+    "description": "Main location for Radiant Health food pantry services",
+    "address": "17982 Sky Park Circle",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92614",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6897114,
+    "lng": -117.8594399,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-irvine-shelter",

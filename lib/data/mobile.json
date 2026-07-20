@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-174425",
-    "name": "New Hope Outreach Ministry",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "308 S. Dearborn St.",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36603",
-    "phone": "(251) 472-5134",
-    "hours": "",
-    "lat": 30.690609,
-    "lng": -88.059105,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-223536",
     "name": "The Service Center of Catholic Social Services",
     "category": "Food",
@@ -38,6 +19,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-174425",
+    "name": "New Hope Outreach Ministry",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "308 S. Dearborn St.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36603",
+    "phone": "(251) 472-5134",
+    "hours": "",
+    "lat": 30.690609,
+    "lng": -88.059105,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-186557",
     "name": "Waterfront Rescue Mission",
     "category": "Food",
@@ -55,6 +55,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-1201",
+    "name": "Catholic Social Services - Mobile Service Center",
+    "category": "Food",
+    "description": "proof of address",
+    "address": "555 Dauphin Street",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "(251) 434-1501",
+    "hours": "",
+    "lat": 30.69834,
+    "lng": -88.03815,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226351",
+    "name": "Junior League of Mobile Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Mobile, AL",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36601",
+    "phone": "",
+    "hours": "",
+    "lat": 30.69745,
+    "lng": -88.04988,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-176806",
@@ -114,44 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-1201",
-    "name": "Catholic Social Services - Mobile Service Center",
-    "category": "Food",
-    "description": "proof of address",
-    "address": "555 Dauphin Street",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36602",
-    "phone": "(251) 434-1501",
-    "hours": "",
-    "lat": 30.69834,
-    "lng": -88.03815,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-226351",
-    "name": "Junior League of Mobile Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Mobile, AL",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36601",
-    "phone": "",
-    "hours": "",
-    "lat": 30.69745,
-    "lng": -88.04988,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-218559",
     "name": "The Salvation Army - Dauphin St",
     "category": "Food",
@@ -169,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-1284",
+    "name": "Love All Pantry at Central Presbyterian Church",
+    "category": "Food",
+    "description": "appointment",
+    "address": "1260 Dauphin Street",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36604",
+    "phone": "(251) 432-0591",
+    "hours": "",
+    "lat": 30.68229,
+    "lng": -88.06837,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-187235",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 30.7133917,
     "lng": -88.0792968,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-204015",
-    "name": "First Baptist Church of Baltimore Street",
-    "category": "Food",
-    "description": "Food pantry location at First Baptist Church of Baltimore Street",
-    "address": "1200 Baltimore St.",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36605",
-    "phone": "",
-    "hours": "",
-    "lat": 30.6668081,
-    "lng": -88.0652244,
     "tags": [
       "food pantry",
       "walk-in"

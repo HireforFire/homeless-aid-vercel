@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-174168",
-    "name": "St. Mark the Evangelist Catholic Church",
-    "category": "Food",
-    "description": "Catholic Charities food pantry operating location",
-    "address": "1100 W. 15th St.",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "75075",
-    "phone": "(972) 282-8077",
-    "hours": "",
-    "lat": 33.018947,
-    "lng": -96.7175415,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-217994",
     "name": "The Salvation Army - K Ave",
     "category": "Food",
@@ -114,37 +95,18 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-187274",
-    "name": "God's Pantry",
+    "id": "fa-174168",
+    "name": "St. Mark the Evangelist Catholic Church",
     "category": "Food",
-    "description": "Main food distribution location",
-    "address": "3420 EAST 14TH STREET STE 100",
-    "city": "Arlington",
+    "description": "Catholic Charities food pantry operating location",
+    "address": "1100 W. 15th St.",
+    "city": "Plano",
     "state": "TX",
-    "zip": "75074",
-    "phone": "",
+    "zip": "75075",
+    "phone": "(972) 282-8077",
     "hours": "",
-    "lat": 33.0357,
-    "lng": -96.67572,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214502",
-    "name": "SALVATION ARMY PLANO CORPS",
-    "category": "Food",
-    "description": "Salvation Army corps location providing food distribution and SNAP application assistance.",
-    "address": "3528 14TH ST",
-    "city": "PLANO",
-    "state": "TX",
-    "zip": "75074",
-    "phone": "",
-    "hours": "",
-    "lat": 33.014645,
-    "lng": -96.667328,
+    "lat": 33.018947,
+    "lng": -96.7175415,
     "tags": [
       "food pantry",
       "walk-in"
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-187274",
+    "name": "God's Pantry",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "3420 EAST 14TH STREET STE 100",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "75074",
+    "phone": "",
+    "hours": "",
+    "lat": 33.0357,
+    "lng": -96.67572,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214502",
+    "name": "SALVATION ARMY PLANO CORPS",
+    "category": "Food",
+    "description": "Salvation Army corps location providing food distribution and SNAP application assistance.",
+    "address": "3528 14TH ST",
+    "city": "PLANO",
+    "state": "TX",
+    "zip": "75074",
+    "phone": "",
+    "hours": "",
+    "lat": 33.014645,
+    "lng": -96.667328,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-plano-shelter",

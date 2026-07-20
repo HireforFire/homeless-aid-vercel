@@ -38,6 +38,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-129224",
+    "name": "International School of Louisiana",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1400 CAMP ST",
+    "city": "NEW ORLEANS",
+    "state": "LA",
+    "zip": "70130",
+    "phone": "(504) 654-1088",
+    "hours": "",
+    "lat": 29.936504,
+    "lng": -90.072972,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-201337",
     "name": "St. Jude Community Center",
     "category": "Food",
@@ -95,23 +114,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-129224",
-    "name": "International School of Louisiana",
+    "id": "fa-226205",
+    "name": "Junior League of New Orleans",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1400 CAMP ST",
-    "city": "NEW ORLEANS",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "New Orleans, LA",
+    "city": "New Orleans",
     "state": "LA",
-    "zip": "70130",
-    "phone": "(504) 654-1088",
+    "zip": "70112",
+    "phone": "",
     "hours": "",
-    "lat": 29.936504,
-    "lng": -90.072972,
+    "lat": 29.95608,
+    "lng": -90.07733,
     "tags": [
-      "food pantry",
+      "diaper bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-179460",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 29.938964,
     "lng": -90.076599,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-202695",
-    "name": "Peoples Community Organization",
-    "category": "Food",
-    "description": "Main location of Peoples Community Organization",
-    "address": "709 N. Robertson St.",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip": "70116",
-    "phone": "",
-    "hours": "",
-    "lat": 29.9633287,
-    "lng": -90.0723043,
     "tags": [
       "food pantry",
       "walk-in"

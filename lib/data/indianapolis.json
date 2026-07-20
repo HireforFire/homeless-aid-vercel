@@ -76,6 +76,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-5717",
+    "name": "Metropolitan Baptist Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "952 N Pennsylvania Street",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46204",
+    "phone": "(317) 687-0075",
+    "hours": "",
+    "lat": 39.77134,
+    "lng": -86.15703,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-176061",
     "name": "Marion County Agency on Aging",
     "category": "Food",
@@ -152,63 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173701",
-    "name": "Christamore House",
-    "category": "Food",
-    "description": "Food pantry location",
-    "address": "502 N. Tremont St.",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46222",
-    "phone": "(317) 635-7211",
-    "hours": "",
-    "lat": 39.7753796,
-    "lng": -86.2013808,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-174265",
-    "name": "Lincoln Veteran Apartments",
-    "category": "Food",
-    "description": "Food pantry distribution location at Lincoln Veteran Apartments",
-    "address": "530 N. Holmes Ave.",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46222",
-    "phone": "(317) 650-5358",
-    "hours": "",
-    "lat": 39.7760029,
-    "lng": -86.2058043,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-5717",
-    "name": "Metropolitan Baptist Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "952 N Pennsylvania Street",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46204",
-    "phone": "(317) 687-0075",
-    "hours": "",
-    "lat": 39.77134,
-    "lng": -86.15703,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-5709",
     "name": "Central Christian Church Food Pantry",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-5730",
+    "name": "HVAF – Helping Veterans And Families",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "964 N. Pennsylvania Street",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46204",
+    "phone": "(317) 951-0688",
+    "hours": "",
+    "lat": 39.77134,
+    "lng": -86.15703,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-219174",
+    "name": "Mount Olive Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1003 w 16th St.",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46202",
+    "phone": "(317) 634-9178",
+    "hours": "",
+    "lat": 39.7879753,
+    "lng": -86.179306,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-indianapolis-shelter",

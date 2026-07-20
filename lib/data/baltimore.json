@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-219652",
+    "name": "My Sister's Place Lodge",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "111 West Mulberry Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "(410) 528-9002",
+    "hours": "",
+    "lat": 39.293766,
+    "lng": -76.6174774,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-226088",
+    "name": "Earl’s Place",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1400 E.  Lombard Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21231",
+    "phone": "(410) 522-0225",
+    "hours": "",
+    "lat": 39.2903294,
+    "lng": -76.5984185,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-172958",
     "name": "Redemporist Fathers",
     "category": "Food",
@@ -38,42 +76,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-219652",
-    "name": "My Sister's Place Lodge",
+    "id": "fa-576867",
+    "name": "Waters AME - Food Distribution Center",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "111 West Mulberry Street",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "417 Aisquith Street",
     "city": "Baltimore",
     "state": "MD",
-    "zip": "21201",
-    "phone": "(410) 528-9002",
+    "zip": "21202",
+    "phone": "(410) 675-2640",
     "hours": "",
-    "lat": 39.293766,
-    "lng": -76.6174774,
+    "lat": 39.2954122,
+    "lng": -76.6014962,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-226088",
-    "name": "Earl’s Place",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1400 E.  Lombard Street",
-    "city": "Baltimore",
-    "state": "MD",
-    "zip": "21231",
-    "phone": "(410) 522-0225",
-    "hours": "",
-    "lat": 39.2903294,
-    "lng": -76.5984185,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-177013",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 39.28986099999999,
     "lng": -76.6287026,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-205636",
-    "name": "Land of Kush - Bromo Arts District",
-    "category": "Food",
-    "description": "Food distribution location in Bromo Arts District",
-    "address": "840 North Eutaw Street",
-    "city": "Bromo Arts District",
-    "state": "MD",
-    "zip": "21201",
-    "phone": "",
-    "hours": "",
-    "lat": 39.3001979,
-    "lng": -76.6215814,
     "tags": [
       "food pantry",
       "walk-in"

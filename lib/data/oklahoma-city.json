@@ -57,63 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172469",
-    "name": "Springing Families Forward - Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location at 310 NE 28th St.",
-    "address": "310 NE 28th St. #206",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73105",
-    "phone": "405-601-4565 ext. 102",
-    "hours": "",
-    "lat": 35.4983758,
-    "lng": -97.5064454,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173098",
-    "name": "Seventh-day Adventist Church South",
-    "category": "Food",
-    "description": "Corner of Binkley and Kentucky Ave. Parking available.",
-    "address": "3215 S. Kentucky Ave.",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73119",
-    "phone": "(405) 642-4481",
-    "hours": "",
-    "lat": 35.4329373,
-    "lng": -97.5437018,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173564",
-    "name": "Christian Service Center",
-    "category": "Food",
-    "description": "Christian Service Center location providing food distribution and clothing services",
-    "address": "115 SW 24th St.",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73109",
-    "phone": "(405) 236-5956",
-    "hours": "",
-    "lat": 35.4408045,
-    "lng": -97.515054,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-12014",
     "name": "City Care Inc.",
     "category": "Food",
@@ -188,6 +131,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172469",
+    "name": "Springing Families Forward - Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at 310 NE 28th St.",
+    "address": "310 NE 28th St. #206",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73105",
+    "phone": "405-601-4565 ext. 102",
+    "hours": "",
+    "lat": 35.4983758,
+    "lng": -97.5064454,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173098",
+    "name": "Seventh-day Adventist Church South",
+    "category": "Food",
+    "description": "Corner of Binkley and Kentucky Ave. Parking available.",
+    "address": "3215 S. Kentucky Ave.",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73119",
+    "phone": "(405) 642-4481",
+    "hours": "",
+    "lat": 35.4329373,
+    "lng": -97.5437018,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173564",
+    "name": "Christian Service Center",
+    "category": "Food",
+    "description": "Christian Service Center location providing food distribution and clothing services",
+    "address": "115 SW 24th St.",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73109",
+    "phone": "(405) 236-5956",
+    "hours": "",
+    "lat": 35.4408045,
+    "lng": -97.515054,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-185258",

@@ -19,44 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-181828",
-    "name": "VFW Post 3173",
-    "category": "Food",
-    "description": "Mobile food pantry distribution location at VFW Post 3173",
-    "address": "805 E. Sycamore Street",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "92805",
-    "phone": "",
-    "hours": "",
-    "lat": 33.8419133,
-    "lng": -117.9078279,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175006",
-    "name": "Project Access - Hermosa Village",
-    "category": "Food",
-    "description": "Kid's Cafe meal service location in Anaheim serving Orange County.",
-    "address": "1515 Calle Del Mar",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "92802",
-    "phone": "(714) 254-7216",
-    "hours": "",
-    "lat": 33.8085345,
-    "lng": -117.9300261,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-2193",
     "name": "Anaheim Spanish Church",
     "category": "Food",
@@ -74,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-181828",
+    "name": "VFW Post 3173",
+    "category": "Food",
+    "description": "Mobile food pantry distribution location at VFW Post 3173",
+    "address": "805 E. Sycamore Street",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92805",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8419133,
+    "lng": -117.9078279,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-2188",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-175006",
+    "name": "Project Access - Hermosa Village",
+    "category": "Food",
+    "description": "Kid's Cafe meal service location in Anaheim serving Orange County.",
+    "address": "1515 Calle Del Mar",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92802",
+    "phone": "(714) 254-7216",
+    "hours": "",
+    "lat": 33.8085345,
+    "lng": -117.9300261,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-anaheim-shelter",

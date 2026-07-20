@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-174514",
-    "name": "One Life",
-    "category": "Food",
-    "description": "One Life food distribution location",
-    "address": "1801 Daniels St",
-    "city": "Vancouver",
-    "state": "WA",
-    "zip": "98660",
-    "phone": "(360) 904-1273",
-    "hours": "",
-    "lat": 45.635375564748,
-    "lng": -122.674473218003,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-223204",
     "name": "Angels of God Food Pantry",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-174514",
+    "name": "One Life",
+    "category": "Food",
+    "description": "One Life food distribution location",
+    "address": "1801 Daniels St",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98660",
+    "phone": "(360) 904-1273",
+    "hours": "",
+    "lat": 45.635375564748,
+    "lng": -122.674473218003,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-176823",

@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-198450",
-    "name": "Opportunity Center for the Homeless",
-    "category": "Food",
-    "description": "Main facility providing meals and services for homeless individuals",
-    "address": "1208 Myrtle Ave.",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "79901",
-    "phone": "",
-    "hours": "",
-    "lat": 31.7640523,
-    "lng": -106.4766163,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-130762",
     "name": "EL PASO LEADERSHIP ACADEMY",
     "category": "Food",
@@ -74,6 +55,63 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-198450",
+    "name": "Opportunity Center for the Homeless",
+    "category": "Food",
+    "description": "Main facility providing meals and services for homeless individuals",
+    "address": "1208 Myrtle Ave.",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "",
+    "hours": "",
+    "lat": 31.7640523,
+    "lng": -106.4766163,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-623",
+    "name": "El Paso Community Action",
+    "category": "Food",
+    "description": "El Paso area",
+    "address": "303 N Oregon Street",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "(915) 577-0050",
+    "hours": "",
+    "lat": 31.7584,
+    "lng": -106.4883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-226337",
+    "name": "Her Pantry Ministries",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "El Paso, TX",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "",
+    "hours": "",
+    "lat": 31.7597,
+    "lng": -106.48049,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-177313",
@@ -131,44 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-623",
-    "name": "El Paso Community Action",
-    "category": "Food",
-    "description": "El Paso area",
-    "address": "303 N Oregon Street",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "79901",
-    "phone": "(915) 577-0050",
-    "hours": "",
-    "lat": 31.7584,
-    "lng": -106.4883,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-226337",
-    "name": "Her Pantry Ministries",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "El Paso, TX",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "79901",
-    "phone": "",
-    "hours": "",
-    "lat": 31.7597,
-    "lng": -106.48049,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-13580",

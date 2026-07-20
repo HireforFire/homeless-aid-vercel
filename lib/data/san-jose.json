@@ -95,6 +95,44 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-205209",
+    "name": "LifeSTEPS",
+    "category": "Food",
+    "description": "Main food distribution site for LifeSTEPS",
+    "address": "99 N. 1st St",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95113",
+    "phone": "",
+    "hours": "",
+    "lat": 37.337363,
+    "lng": -121.891868,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-206807",
+    "name": "C.O.M.E.",
+    "category": "Food",
+    "description": "C.O.M.E. food distribution site",
+    "address": "121 East San Salvador St.",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "",
+    "hours": "",
+    "lat": 37.331259,
+    "lng": -121.883716,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-180351",
     "name": "New Beginnings Family Services - San Jose",
     "category": "Food",
@@ -171,61 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-205209",
-    "name": "LifeSTEPS",
+    "id": "fa-219610",
+    "name": "InnVision... The Way Home",
     "category": "Food",
-    "description": "Main food distribution site for LifeSTEPS",
-    "address": "99 N. 1st St",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "546 W Julian St",
     "city": "San Jose",
     "state": "CA",
-    "zip": "95113",
+    "zip": "95110",
     "phone": "",
     "hours": "",
-    "lat": 37.337363,
-    "lng": -121.891868,
+    "lat": 37.3354301,
+    "lng": -121.9029999,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-206807",
-    "name": "C.O.M.E.",
-    "category": "Food",
-    "description": "C.O.M.E. food distribution site",
-    "address": "121 East San Salvador St.",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95112",
-    "phone": "",
-    "hours": "",
-    "lat": 37.331259,
-    "lng": -121.883716,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-180385",
-    "name": "African Amer Comm Srvcs Agcy",
-    "category": "Food",
-    "description": "Main distribution site for free groceries program",
-    "address": "304 North 6th Street",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95112",
-    "phone": "",
-    "hours": "",
-    "lat": 37.343239,
-    "lng": -121.888434,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-san-jose-shelter",

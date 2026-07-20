@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172472",
-    "name": "Mel Trotter",
+    "id": "fa-7565",
+    "name": "East Leonard CRC Food Pantry",
     "category": "Food",
-    "description": "Mel Trotter food pantry location in Grand Rapids, Michigan.",
-    "address": "225 Commerce Ave SW",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1027 Leonard St NE",
     "city": "Grand Rapids",
     "state": "MI",
     "zip": "49503",
-    "phone": "",
+    "phone": "(616) 454-4444",
     "hours": "",
-    "lat": 42.9590409,
-    "lng": -85.6692398,
+    "lat": 42.96282,
+    "lng": -85.65872,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-188916",
-    "name": "Innovation Central High School - Bus Lane off College Ave.",
+    "id": "fa-7831",
+    "name": "Westminster Food Pantry",
     "category": "Food",
-    "description": "Mobile pantry distribution location at Innovation Central High School, bus lane off College Avenue.",
-    "address": "421 Fountain Street",
+    "description": "once per month",
+    "address": "47 Jefferson SE",
     "city": "Grand Rapids",
     "state": "MI",
     "zip": "49503",
-    "phone": "",
+    "phone": "(616) 456-6115",
     "hours": "",
-    "lat": 42.9659845,
-    "lng": -85.6586273,
+    "lat": 42.96282,
+    "lng": -85.65872,
     "tags": [
-      "mobile pantry",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-grand-rapids-shelter",

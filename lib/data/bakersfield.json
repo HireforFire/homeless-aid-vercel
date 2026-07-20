@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-172788",
-    "name": "First Presbyterian Church - Bakersfield",
-    "category": "Food",
-    "description": "Food distribution location at First Presbyterian Church",
-    "address": "1705 17th Street",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "93301",
-    "phone": "(661) 325-9419",
-    "hours": "",
-    "lat": 35.3740889,
-    "lng": -119.0220112,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-218697",
     "name": "The Salvation Army - 19Th Street",
     "category": "Food",
@@ -38,37 +19,18 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-175589",
-    "name": "Catholic Charities, Northeast-Commodity",
+    "id": "fa-172788",
+    "name": "First Presbyterian Church - Bakersfield",
     "category": "Food",
-    "description": "Catholic Charities commodity food distribution location in Northeast Bakersfield.",
-    "address": "809 Chester Ave.",
+    "description": "Food distribution location at First Presbyterian Church",
+    "address": "1705 17th Street",
     "city": "Bakersfield",
     "state": "CA",
     "zip": "93301",
-    "phone": "",
+    "phone": "(661) 325-9419",
     "hours": "",
-    "lat": 35.365025706294,
-    "lng": -119.019270920669,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-208061",
-    "name": "Village Park Place",
-    "category": "Food",
-    "description": "Senior food distribution location in Bakersfield",
-    "address": "2300 R Street",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "93301",
-    "phone": "",
-    "hours": "",
-    "lat": 35.3806672,
-    "lng": -119.0091665,
+    "lat": 35.3740889,
+    "lng": -119.0220112,
     "tags": [
       "food pantry",
       "walk-in"
@@ -112,6 +74,44 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-175589",
+    "name": "Catholic Charities, Northeast-Commodity",
+    "category": "Food",
+    "description": "Catholic Charities commodity food distribution location in Northeast Bakersfield.",
+    "address": "809 Chester Ave.",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "",
+    "hours": "",
+    "lat": 35.365025706294,
+    "lng": -119.019270920669,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208061",
+    "name": "Village Park Place",
+    "category": "Food",
+    "description": "Senior food distribution location in Bakersfield",
+    "address": "2300 R Street",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "",
+    "hours": "",
+    "lat": 35.3806672,
+    "lng": -119.0091665,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-175337",

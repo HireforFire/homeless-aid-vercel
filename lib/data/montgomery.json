@@ -152,25 +152,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-216972",
-    "name": "The Salvation Army - Highland Ave Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2840 Highland Ave",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36107",
-    "phone": "(334) 265-0281",
-    "hours": "",
-    "lat": 32.38434,
-    "lng": -86.2795,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-173321",
     "name": "MBA Love Loud Matthew 25 Ministries",
     "category": "Food",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216972",
+    "name": "The Salvation Army - Highland Ave Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2840 Highland Ave",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36107",
+    "phone": "(334) 265-0281",
+    "hours": "",
+    "lat": 32.38434,
+    "lng": -86.2795,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-214189",

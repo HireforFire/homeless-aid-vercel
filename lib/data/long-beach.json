@@ -57,6 +57,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-407",
+    "name": "Long Beach Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1335 Pacific Ave",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90813",
+    "phone": "(562) 591-1292",
+    "hours": "",
+    "lat": 33.7761,
+    "lng": -118.1861,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-169554",
     "name": "Adventures to Dreams Enrichment",
     "category": "Food",
@@ -169,25 +188,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-407",
-    "name": "Long Beach Rescue Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "1335 Pacific Ave",
-    "city": "Long Beach",
-    "state": "CA",
-    "zip": "90813",
-    "phone": "(562) 591-1292",
-    "hours": "",
-    "lat": 33.7761,
-    "lng": -118.1861,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-180381",

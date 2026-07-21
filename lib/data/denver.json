@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-216087",
-    "name": "Denver Inner City Parish",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1212 Mariposa St",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "phone": "(303) 629-0636",
-    "hours": "",
-    "lat": 39.735558,
-    "lng": -105.002464,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-576699",
     "name": "CCD Swooper Market",
     "category": "Food",
@@ -114,6 +95,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-216087",
+    "name": "Denver Inner City Parish",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1212 Mariposa St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 629-0636",
+    "hours": "",
+    "lat": 39.735558,
+    "lng": -105.002464,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-216042",
     "name": "We Don't Waste - Mobile Food Market - La Alma Recreation Center",
     "category": "Food",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-216038",
-    "name": "We Don't Waste - Barnum Recreation Center",
+    "id": "fa-181363",
+    "name": "MSU Denver Student Food Bank- Rowdy's Corner",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "360 Hooker St",
+    "description": "Student food bank located in the Tivoli Room at MSU Denver's Auraria Parkway campus.",
+    "address": "900 Auraria Pwky.",
     "city": "Denver",
     "state": "CO",
-    "zip": "80219",
-    "phone": "(720) 943-2699",
+    "zip": "80204",
+    "phone": "",
     "hours": "",
-    "lat": 39.722603,
-    "lng": -105.02813,
+    "lat": 39.7450774,
+    "lng": -105.005976,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-22"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-216091",
-    "name": "SAME Café Denver- Pay What You Can",
+    "id": "fa-181935",
+    "name": "Senior Support Services- Volunteers of America",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2023 E Colfax Ave",
+    "description": "Senior Congregate Meals facility providing daily breakfast and lunch services.",
+    "address": "846 E. 18th Ave.",
     "city": "Denver",
     "state": "CO",
-    "zip": "80206",
-    "phone": "(720) 530-6853",
+    "zip": "80218",
+    "phone": "",
     "hours": "",
-    "lat": 39.740154,
-    "lng": -104.9627,
+    "lat": 39.7447138,
+    "lng": -104.9765733,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-22"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-denver-shelter",

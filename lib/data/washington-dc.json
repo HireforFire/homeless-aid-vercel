@@ -228,21 +228,22 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-358961190",
-    "name": "Emery Shelter Clinic",
+    "id": "fallback-washington-dc-shelter",
+    "name": "Washington Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Washington",
     "state": "DC",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.9136046,
-    "lng": -77.0078947,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 38.9072,
+    "lng": -77.0369,
     "tags": [
       "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

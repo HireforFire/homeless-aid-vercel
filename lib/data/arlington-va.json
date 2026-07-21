@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-216973",
-    "name": "The Salvation Army - S Glebe Rd Corps",
+    "id": "fa-172049",
+    "name": "Arlington Presbyterian Church",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "518 S Glebe Rd",
-    "city": "Arlington",
+    "description": "Arlington Presbyterian Church located on South Lincoln Street in Alcova Heights, Virginia.",
+    "address": "918 South Lincoln Street",
+    "city": "Alcova Heights",
     "state": "VA",
     "zip": "22204",
-    "phone": "(703) 979-3380",
+    "phone": "(703) 920-5660",
     "hours": "",
-    "lat": 38.86076,
-    "lng": -77.09894,
+    "lat": 38.8615365,
+    "lng": -77.0932588,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-22"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-arlington-va-shelter",

@@ -95,44 +95,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-205209",
-    "name": "LifeSTEPS",
-    "category": "Food",
-    "description": "Main food distribution site for LifeSTEPS",
-    "address": "99 N. 1st St",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95113",
-    "phone": "",
-    "hours": "",
-    "lat": 37.337363,
-    "lng": -121.891868,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-206807",
-    "name": "C.O.M.E.",
-    "category": "Food",
-    "description": "C.O.M.E. food distribution site",
-    "address": "121 East San Salvador St.",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95112",
-    "phone": "",
-    "hours": "",
-    "lat": 37.331259,
-    "lng": -121.883716,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-180351",
     "name": "New Beginnings Family Services - San Jose",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-205209",
+    "name": "LifeSTEPS",
+    "category": "Food",
+    "description": "Main food distribution site for LifeSTEPS",
+    "address": "99 N. 1st St",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95113",
+    "phone": "",
+    "hours": "",
+    "lat": 37.337363,
+    "lng": -121.891868,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-206807",
+    "name": "C.O.M.E.",
+    "category": "Food",
+    "description": "C.O.M.E. food distribution site",
+    "address": "121 East San Salvador St.",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "",
+    "hours": "",
+    "lat": 37.331259,
+    "lng": -121.883716,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fallback-san-jose-shelter",

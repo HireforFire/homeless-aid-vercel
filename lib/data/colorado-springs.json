@@ -57,63 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-216200",
-    "name": "Trinity United Methodist Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "701 N 20th St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80909",
-    "phone": "(941) 625-3372",
-    "hours": "",
-    "lat": 38.84914,
-    "lng": -104.851433,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-216219",
-    "name": "Pike’s Peak Biker’s Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1505 E Monument St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80909",
-    "phone": "(719) 600-9894",
-    "hours": "",
-    "lat": 38.842571,
-    "lng": -104.798286,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-216227",
-    "name": "Food to Power",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1090 S Institute St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(719) 470-2737",
-    "hours": "",
-    "lat": 38.817623,
-    "lng": -104.809013,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-176269",
     "name": "Unitarian Church of All Souls",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200504",
+    "name": "Marian House Kitchen",
+    "category": "Food",
+    "description": "Hot/Cold Meal Program location",
+    "address": "14 W Bijou St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8374423,
+    "lng": -104.8263552,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-2784",
+    "name": "Charity's Hope Food & Clothing Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "201 North Chelton Road",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(719) 332-2360",
+    "hours": "",
+    "lat": 38.83249,
+    "lng": -104.81342,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-220122",
+    "name": "Living Faith Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2120 King St.",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80904",
+    "phone": "(719) 217-9551",
+    "hours": "",
+    "lat": 38.857151,
+    "lng": -104.853035,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-colorado-springs-shelter",

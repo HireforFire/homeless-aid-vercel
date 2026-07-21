@@ -133,25 +133,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-216308",
-    "name": "Casa Manana",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3700 N Sutter St",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95204",
-    "phone": "(209) 937-7350",
-    "hours": "",
-    "lat": 37.98476,
-    "lng": -121.296272,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-179297",
     "name": "First Presbyterian Church",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 37.967357299999996,
     "lng": -121.3026668,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214267",
+    "name": "Good Samaritan Training Center",
+    "category": "Food",
+    "description": "Food distribution and clothing assistance location in Stockton.",
+    "address": "1331 E. Fremont Street",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95205",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9606082,
+    "lng": -121.2746784,
     "tags": [
       "food pantry",
       "walk-in"

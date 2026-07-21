@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-217224",
-    "name": "The Salvation Army - Se 14Th St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "4620 SE 14th St",
-    "city": "Des Moines",
-    "state": "IA",
-    "zip": "50315",
-    "phone": "(515) 953-7451",
-    "hours": "",
-    "lat": 41.5449,
-    "lng": -93.62063,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-576726",
     "name": "MovetheFood - Food Distribution Center",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-217224",
+    "name": "The Salvation Army - Se 14Th St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "4620 SE 14th St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50315",
+    "phone": "(515) 953-7451",
+    "hours": "",
+    "lat": 41.5449,
+    "lng": -93.62063,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fallback-des-moines-shelter",

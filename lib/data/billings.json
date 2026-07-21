@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-171945",
-    "name": "Chinook Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "112 6th St W",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "59101",
-    "phone": "(406) 357-3805",
-    "hours": "",
-    "lat": 45.771549,
-    "lng": -108.530655,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-171000",
     "name": "Friendship House of Christian Service",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -108.4925636,
     "tags": [
       "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171804",
+    "name": "Billings First Congregational Church",
+    "category": "Food",
+    "description": "Food pantry and meal program distribution site",
+    "address": "310 North 27th Street",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7845897,
+    "lng": -108.5070151,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

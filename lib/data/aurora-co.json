@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-216147",
-    "name": "Project Worthmore",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1666 Elmira St.",
-    "city": "Aurora",
-    "state": "CO",
-    "zip": "80010",
-    "phone": "(720) 460-1393",
-    "hours": "",
-    "lat": 39.743534,
-    "lng": -104.872696,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-182596",
     "name": "Aurora Center for Active Adults",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-216147",
+    "name": "Project Worthmore",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1666 Elmira St.",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010",
+    "phone": "(720) 460-1393",
+    "hours": "",
+    "lat": 39.743534,
+    "lng": -104.872696,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-173017",

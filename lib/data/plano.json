@@ -57,6 +57,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-174168",
+    "name": "St. Mark the Evangelist Catholic Church",
+    "category": "Food",
+    "description": "Catholic Charities food pantry operating location",
+    "address": "1100 W. 15th St.",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75075",
+    "phone": "(972) 282-8077",
+    "hours": "",
+    "lat": 33.018947,
+    "lng": -96.7175415,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-217994",
     "name": "The Salvation Army - K Ave",
     "category": "Food",
@@ -93,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-174168",
-    "name": "St. Mark the Evangelist Catholic Church",
-    "category": "Food",
-    "description": "Catholic Charities food pantry operating location",
-    "address": "1100 W. 15th St.",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "75075",
-    "phone": "(972) 282-8077",
-    "hours": "",
-    "lat": 33.018947,
-    "lng": -96.7175415,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-13311",

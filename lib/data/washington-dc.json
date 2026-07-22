@@ -1,62 +1,5 @@
 [
   {
-    "id": "fa-218493",
-    "name": "The Salvation Army - Harvard St Nw",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1434 Harvard St NW",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "20009",
-    "phone": "(202) 332-5000",
-    "hours": "",
-    "lat": 38.91986,
-    "lng": -77.03749,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222933",
-    "name": "Bread for the City",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1525 Seventh Street",
-    "city": "NW, Washington",
-    "state": "DC",
-    "zip": "20001",
-    "phone": "(202) 386-7601",
-    "hours": "",
-    "lat": 38.9103106,
-    "lng": -77.021587,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222944",
-    "name": "Marthas Table",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2114 14th Street NW",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "20009",
-    "phone": "(202) 328-6608",
-    "hours": "",
-    "lat": 38.9185075,
-    "lng": -77.0323833,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-170215",
     "name": "James Apartments",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170746",
+    "name": "Ayuda, Inc. Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location offering TEFAP services",
+    "address": "1101 Vermont Avenue Northwest",
+    "city": "Northwest Washington",
+    "state": "DC",
+    "zip": "20005",
+    "phone": "(202) 387-4848",
+    "hours": "",
+    "lat": 38.9039824,
+    "lng": -77.03238329999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170756",
+    "name": "DC University Food Pantry GWU",
+    "category": "Food",
+    "description": "GWU Food Pantry located in Military and Veteran Services office on the ground floor",
+    "address": "800 21st Street NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20052",
+    "phone": "(202) 438-5340",
+    "hours": "",
+    "lat": 38.899902,
+    "lng": -77.047201,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218493",
+    "name": "The Salvation Army - Harvard St Nw",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1434 Harvard St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20009",
+    "phone": "(202) 332-5000",
+    "hours": "",
+    "lat": 38.91986,
+    "lng": -77.03749,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-washington-dc-shelter",

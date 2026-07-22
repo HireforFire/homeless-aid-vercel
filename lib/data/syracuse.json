@@ -1,62 +1,5 @@
 [
   {
-    "id": "fa-219008",
-    "name": "The Salvation Army of Syracuse Emergency Practical Assistance",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "677 South Salina St",
-    "city": "Syracuse",
-    "state": "NY",
-    "zip": "13202",
-    "phone": "(315) 479-1144",
-    "hours": "",
-    "lat": 43.0409279,
-    "lng": -76.1501846,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219931",
-    "name": "Liberty Resources at The Living Room",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "316 Catherine Street",
-    "city": "Syracuse",
-    "state": "NY",
-    "zip": "13203",
-    "phone": "(315) 701-0293",
-    "hours": "",
-    "lat": 43.0541916,
-    "lng": -76.1424713,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222871",
-    "name": "University United Methodist Church Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1085 E Genesee St",
-    "city": "Syracuse",
-    "state": "NY",
-    "zip": "12321",
-    "phone": "(315) 472-1715",
-    "hours": "",
-    "lat": 43.0468941,
-    "lng": -76.1346207,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172956",
     "name": "Samaritan Center",
     "category": "Food",
@@ -169,6 +112,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-219008",
+    "name": "The Salvation Army of Syracuse Emergency Practical Assistance",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "677 South Salina St",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13202",
+    "phone": "(315) 479-1144",
+    "hours": "",
+    "lat": 43.0409279,
+    "lng": -76.1501846,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219931",
+    "name": "Liberty Resources at The Living Room",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "316 Catherine Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13203",
+    "phone": "(315) 701-0293",
+    "hours": "",
+    "lat": 43.0541916,
+    "lng": -76.1424713,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222871",
+    "name": "University United Methodist Church Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1085 E Genesee St",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "12321",
+    "phone": "(315) 472-1715",
+    "hours": "",
+    "lat": 43.0468941,
+    "lng": -76.1346207,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-194342",

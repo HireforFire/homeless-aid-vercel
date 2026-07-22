@@ -209,23 +209,23 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-219766",
-    "name": "Second Harvest of North Florida",
+    "id": "fa-171949",
+    "name": "The Well Church",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1502 Jessie Street",
+    "description": "Food distribution location",
+    "address": "2001 Ernest St.",
     "city": "Jacksonville",
     "state": "FL",
-    "zip": "32206",
-    "phone": "(904) 517-5562",
+    "zip": "32204",
+    "phone": "(904) 800-9350",
     "hours": "",
-    "lat": 30.3333263,
-    "lng": -81.6359634,
+    "lat": 30.3192587,
+    "lng": -81.6833278,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-jacksonville-shelter",

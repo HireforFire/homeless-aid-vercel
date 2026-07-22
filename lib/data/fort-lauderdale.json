@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-219031",
-    "name": "The Pantry of Broward, Inc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "610 NW 3rd Ave.",
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "zip": "33311",
-    "phone": "(954) 358-1481",
-    "hours": "",
-    "lat": 26.1301403,
-    "lng": -80.1465607,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219623",
-    "name": "Shadowood II, Inc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "307 SW 5th Street",
-    "city": "Fort Lauderdale,",
-    "state": "FL",
-    "zip": "33315",
-    "phone": "(954) 462-3719",
-    "hours": "",
-    "lat": 26.116188,
-    "lng": -80.1465607,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-216368",
     "name": "Fort Lauderdale Food Not Bombs",
     "category": "Food",
@@ -74,6 +36,44 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-219031",
+    "name": "The Pantry of Broward, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "610 NW 3rd Ave.",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33311",
+    "phone": "(954) 358-1481",
+    "hours": "",
+    "lat": 26.1301403,
+    "lng": -80.1465607,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219623",
+    "name": "Shadowood II, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "307 SW 5th Street",
+    "city": "Fort Lauderdale,",
+    "state": "FL",
+    "zip": "33315",
+    "phone": "(954) 462-3719",
+    "hours": "",
+    "lat": 26.116188,
+    "lng": -80.1465607,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-3681",
@@ -128,6 +128,25 @@
     "lng": -80.1383,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-247",
+    "name": "Broward Partnership",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1717 N Andrews Ave",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33311",
+    "phone": "(954) 563-2185",
+    "hours": "",
+    "lat": 26.1473,
+    "lng": -80.1461,
+    "tags": [
+      "soup kitchen",
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
@@ -188,25 +207,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-247",
-    "name": "Broward Partnership",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "1717 N Andrews Ave",
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "zip": "33311",
-    "phone": "(954) 563-2185",
-    "hours": "",
-    "lat": 26.1473,
-    "lng": -80.1461,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-182092",

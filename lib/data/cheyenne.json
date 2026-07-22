@@ -171,25 +171,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-225277",
-    "name": "God's Cupboard",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2602 Deming Blvd",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "(307) 632-4488",
-    "hours": "",
-    "lat": 41.1453171,
-    "lng": -104.7848206,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-170442",
     "name": "True Vine Community Church",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-225277",
+    "name": "God's Cupboard",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2602 Deming Blvd",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 632-4488",
+    "hours": "",
+    "lat": 41.1453171,
+    "lng": -104.7848206,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-cheyenne-shelter",

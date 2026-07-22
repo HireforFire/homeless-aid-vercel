@@ -1,138 +1,5 @@
 [
   {
-    "id": "fa-220136",
-    "name": "canaan evangelical church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "205 thomas st",
-    "city": "Newark",
-    "state": "NJ",
-    "zip": "07114",
-    "phone": "(973) 465-0226",
-    "hours": "",
-    "lat": 40.7214165,
-    "lng": -74.1717072,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220185",
-    "name": "Newark Emergency Services for Families, Inc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "982 Broad Street",
-    "city": "Newark",
-    "state": "NJ",
-    "zip": "07102",
-    "phone": "(973) 639-2100",
-    "hours": "",
-    "lat": 40.7297516,
-    "lng": -74.1753311,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220708",
-    "name": "New Community",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "220 Bruce St",
-    "city": "Newark",
-    "state": "NJ",
-    "zip": "07103",
-    "phone": "(973) 623-6114",
-    "hours": "",
-    "lat": 40.7360954,
-    "lng": -74.1912689,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-221002",
-    "name": "St. Clares Social Services",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "77 Academy Street",
-    "city": "Newark",
-    "state": "NJ",
-    "zip": "07102",
-    "phone": "(973) 643-0400",
-    "hours": "",
-    "lat": 40.7382812,
-    "lng": -74.1745911,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222822",
-    "name": "Covenant House",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "330 Washington Street",
-    "city": "Newark",
-    "state": "NJ",
-    "zip": "07102",
-    "phone": "(973) 286-3552",
-    "hours": "",
-    "lat": 40.7334137,
-    "lng": -74.17659,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223745",
-    "name": "St. James Social Service Emergency Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "604 Martin Luther King Jr  Blvd",
-    "city": "Newark",
-    "state": "NJ",
-    "zip": "07102",
-    "phone": "(973) 624-4007",
-    "hours": "",
-    "lat": 40.7322239,
-    "lng": -74.180992,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225649",
-    "name": "Hispanic Development Corporation",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "441 Broad St.",
-    "city": "Newark",
-    "state": "NJ",
-    "zip": "07102",
-    "phone": "(973) 268-1236",
-    "hours": "",
-    "lat": 40.7464943,
-    "lng": -74.1706696,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172081",
     "name": "Oliver Street School",
     "category": "Food",
@@ -226,6 +93,139 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-129977",
+    "name": "ESSEX CO VOC BD OF ED",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "60 NELSON PLACE 1 NORTH",
+    "city": "NEWARK",
+    "state": "NJ",
+    "zip": "07901",
+    "phone": "(973) 412-2050",
+    "hours": "",
+    "lat": 40.738301,
+    "lng": -74.180389,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-130043",
+    "name": "Newark Educators Charter School",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "911 HILL ST",
+    "city": "NEWARK",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 732-3848",
+    "hours": "",
+    "lat": 40.731801,
+    "lng": -74.174489,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-130059",
+    "name": "Paulo Freire Charter School",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "28 BURNET ST",
+    "city": "NEWARK",
+    "state": "NJ",
+    "zip": "07012",
+    "phone": "(973) 733-9393",
+    "hours": "",
+    "lat": 40.745701,
+    "lng": -74.172889,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-130096",
+    "name": "TEAM ACADEMY CHARTER",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "60 PARK PLACE",
+    "city": "NEWARK",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 622-0905",
+    "hours": "",
+    "lat": 40.738501,
+    "lng": -74.168689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-220136",
+    "name": "canaan evangelical church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "205 thomas st",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07114",
+    "phone": "(973) 465-0226",
+    "hours": "",
+    "lat": 40.7214165,
+    "lng": -74.1717072,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220185",
+    "name": "Newark Emergency Services for Families, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "982 Broad Street",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 639-2100",
+    "hours": "",
+    "lat": 40.7297516,
+    "lng": -74.1753311,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220708",
+    "name": "New Community",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "220 Bruce St",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07103",
+    "phone": "(973) 623-6114",
+    "hours": "",
+    "lat": 40.7360954,
+    "lng": -74.1912689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-newark-shelter",

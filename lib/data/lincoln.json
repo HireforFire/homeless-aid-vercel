@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-224896",
-    "name": "Catholic Social Services - Food Market",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2241 O Street",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68510",
-    "phone": "(531) 510-0193",
-    "hours": "",
-    "lat": 40.8131094,
-    "lng": -96.6887198,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-173136",
     "name": "Mission Distribution Center",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-224896",
+    "name": "Catholic Social Services - Food Market",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2241 O Street",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68510",
+    "phone": "(531) 510-0193",
+    "hours": "",
+    "lat": 40.8131094,
+    "lng": -96.6887198,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-180512",

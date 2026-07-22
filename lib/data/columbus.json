@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-172035",
+    "name": "Holy Family Soup Kitchen - Main Location",
+    "category": "Food",
+    "description": "Temporarily located at 588 W. Scott St., Columbus, Ohio. Provides to-go meal distribution.",
+    "address": "588 Scott Street",
+    "city": "Franklinton",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "(614) 221-4323",
+    "hours": "",
+    "lat": 39.9618141,
+    "lng": -83.0167173,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-220473",
     "name": "YWCA Pantry",
     "category": "Food",
@@ -55,25 +74,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-172035",
-    "name": "Holy Family Soup Kitchen - Main Location",
-    "category": "Food",
-    "description": "Temporarily located at 588 W. Scott St., Columbus, Ohio. Provides to-go meal distribution.",
-    "address": "588 Scott Street",
-    "city": "Franklinton",
-    "state": "OH",
-    "zip": "43215",
-    "phone": "(614) 221-4323",
-    "hours": "",
-    "lat": 39.9618141,
-    "lng": -83.0167173,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-190995",

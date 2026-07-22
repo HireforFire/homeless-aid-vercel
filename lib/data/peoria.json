@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-222980",
-    "name": "The Salvation Army Peoria",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "414 NE Jefferson St",
-    "city": "Peoria",
-    "state": "IL",
-    "zip": "61603",
-    "phone": "(309) 655-7272",
-    "hours": "",
-    "lat": 40.6953599,
-    "lng": -89.5860596,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-174798",
     "name": "Peoria Friendship House",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-222980",
+    "name": "The Salvation Army Peoria",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "414 NE Jefferson St",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61603",
+    "phone": "(309) 655-7272",
+    "hours": "",
+    "lat": 40.6953599,
+    "lng": -89.5860596,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-190698",
@@ -133,6 +133,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-172022",
+    "name": "House of Hope Peoria, Inc.",
+    "category": "Food",
+    "description": "Main food pantry distribution location",
+    "address": "514 S. Shelley St.",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61605",
+    "phone": "(309) 922-9390",
+    "hours": "",
+    "lat": 40.682452,
+    "lng": -89.6170393,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172438",
+    "name": "Mt. Zion Baptist Church",
+    "category": "Food",
+    "description": "Mt. Zion Baptist Church food pantry location",
+    "address": "305 S. Madison Park Terrace",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61605",
+    "phone": "(309) 674-4379",
+    "hours": "",
+    "lat": 40.6855823,
+    "lng": -89.626599,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-218526",
     "name": "The Salvation Army - Ne Jefferson 1",
     "category": "Food",
@@ -188,44 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-172022",
-    "name": "House of Hope Peoria, Inc.",
-    "category": "Food",
-    "description": "Main food pantry distribution location",
-    "address": "514 S. Shelley St.",
-    "city": "Peoria",
-    "state": "IL",
-    "zip": "61605",
-    "phone": "(309) 922-9390",
-    "hours": "",
-    "lat": 40.682452,
-    "lng": -89.6170393,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172438",
-    "name": "Mt. Zion Baptist Church",
-    "category": "Food",
-    "description": "Mt. Zion Baptist Church food pantry location",
-    "address": "305 S. Madison Park Terrace",
-    "city": "Peoria",
-    "state": "IL",
-    "zip": "61605",
-    "phone": "(309) 674-4379",
-    "hours": "",
-    "lat": 40.6855823,
-    "lng": -89.626599,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-peoria-shelter",

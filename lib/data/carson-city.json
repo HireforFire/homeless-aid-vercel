@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-224113",
-    "name": "FISH Food Bank",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "138 E. Long St",
-    "city": "Carson City",
-    "state": "NV",
-    "zip": "89706",
-    "phone": "(775) 882-3474",
-    "hours": "",
-    "lat": 39.1740875,
-    "lng": -119.7661667,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-170783",
     "name": "Carson City Senior Center",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-224113",
+    "name": "FISH Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "138 E. Long St",
+    "city": "Carson City",
+    "state": "NV",
+    "zip": "89706",
+    "phone": "(775) 882-3474",
+    "hours": "",
+    "lat": 39.1740875,
+    "lng": -119.7661667,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-170802",

@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-221412",
-    "name": "Sea of Galilee Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "166 Eldridge Street",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10002",
-    "phone": "(347) 949-6078",
-    "hours": "",
-    "lat": 40.7199936,
-    "lng": -73.9907532,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-226032",
-    "name": "New York Temple",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "132 West 14 Street (1 Fl)",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10011",
-    "phone": "(212) 337-7469",
-    "hours": "",
-    "lat": 40.7143517,
-    "lng": -74.0059738,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-215887",
     "name": "Compassion Market at Trinity Church NYC",
     "category": "Food",
@@ -131,6 +93,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-221412",
+    "name": "Sea of Galilee Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "166 Eldridge Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "(347) 949-6078",
+    "hours": "",
+    "lat": 40.7199936,
+    "lng": -73.9907532,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-226032",
+    "name": "New York Temple",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "132 West 14 Street (1 Fl)",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10011",
+    "phone": "(212) 337-7469",
+    "hours": "",
+    "lat": 40.7143517,
+    "lng": -74.0059738,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-173812",

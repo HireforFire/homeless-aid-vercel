@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-221415",
-    "name": "Faith In Action",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "821 S. Cloudas Ave.",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57103",
-    "phone": "(605) 338-7596",
-    "hours": "",
-    "lat": 43.5406036,
-    "lng": -96.6891327,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-173314",
     "name": "The Community Outreach",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130579",
+    "name": "SIOUX FALLS SCHOOL DISTRICT 49-5",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "201 EAST 38TH ST",
+    "city": "SIOUX FALLS",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "(605) 367-7900",
+    "hours": "",
+    "lat": 43.517575,
+    "lng": -96.725228,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fallback-sioux-falls-shelter",

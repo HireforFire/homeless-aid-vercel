@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-221051",
-    "name": "ECHO",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1707 South Gadsden Street",
-    "city": "Tallahassee",
-    "state": "FL",
-    "zip": "32301",
-    "phone": "(850) 224-3246",
-    "hours": "",
-    "lat": 30.4257984,
-    "lng": -84.2779312,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-173341",
     "name": "Frenchtown Neighborhood Improvement Association",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-221051",
+    "name": "ECHO",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1707 South Gadsden Street",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 224-3246",
+    "hours": "",
+    "lat": 30.4257984,
+    "lng": -84.2779312,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-200038",
@@ -133,6 +133,25 @@
     "lastUpdated": "2025-12-02"
   },
   {
+    "id": "fa-172567",
+    "name": "Salvation Army - Tallahassee",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "2410 Allen Rd",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32302",
+    "phone": "(850) 222-0304",
+    "hours": "",
+    "lat": 30.47649066,
+    "lng": -84.29489346,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-219212",
     "name": "America's Second Harvest of the Big Bend",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-172567",
-    "name": "Salvation Army - Tallahassee",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "2410 Allen Rd",
-    "city": "Tallahassee",
-    "state": "FL",
-    "zip": "32302",
-    "phone": "(850) 222-0304",
-    "hours": "",
-    "lat": 30.47649066,
-    "lng": -84.29489346,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-tallahassee-shelter",

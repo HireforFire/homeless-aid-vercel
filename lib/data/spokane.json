@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-223521",
-    "name": "The Campus Kitchen at Gonzaga University",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "508 E. Boone MSC 2472",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99258",
-    "phone": "(509) 313-6939",
-    "hours": "",
-    "lat": 47.6587791,
-    "lng": -117.4260483,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-131309",
     "name": "Spokane School District",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-223521",
+    "name": "The Campus Kitchen at Gonzaga University",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "508 E. Boone MSC 2472",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99258",
+    "phone": "(509) 313-6939",
+    "hours": "",
+    "lat": 47.6587791,
+    "lng": -117.4260483,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-192501",

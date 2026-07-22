@@ -38,44 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-223836",
-    "name": "Wyoming Food For Thought Project",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "420 West First Street",
-    "city": "Casper",
-    "state": "WY",
-    "zip": "82601",
-    "phone": "(307) 267-2421",
-    "hours": "",
-    "lat": 42.8503523,
-    "lng": -106.3299155,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225648",
-    "name": "Oasis",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1927 S Walnut",
-    "city": "Casper",
-    "state": "WY",
-    "zip": "82601",
-    "phone": "(307) 224-4111",
-    "hours": "",
-    "lat": 42.8311729,
-    "lng": -106.3332825,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-170390",
     "name": "Strong Tower Family Church",
     "category": "Food",
@@ -207,6 +169,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-223836",
+    "name": "Wyoming Food For Thought Project",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "420 West First Street",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 267-2421",
+    "hours": "",
+    "lat": 42.8503523,
+    "lng": -106.3299155,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225648",
+    "name": "Oasis",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1927 S Walnut",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 224-4111",
+    "hours": "",
+    "lat": 42.8311729,
+    "lng": -106.3332825,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-170935",

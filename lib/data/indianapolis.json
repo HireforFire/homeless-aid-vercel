@@ -209,23 +209,23 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-219174",
-    "name": "Mount Olive Food Pantry",
+    "id": "fa-173701",
+    "name": "Christamore House",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1003 w 16th St.",
+    "description": "Food pantry location",
+    "address": "502 N. Tremont St.",
     "city": "Indianapolis",
     "state": "IN",
-    "zip": "46202",
-    "phone": "(317) 634-9178",
+    "zip": "46222",
+    "phone": "(317) 635-7211",
     "hours": "",
-    "lat": 39.7879753,
-    "lng": -86.179306,
+    "lat": 39.7753796,
+    "lng": -86.2013808,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-indianapolis-shelter",

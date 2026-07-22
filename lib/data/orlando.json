@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-219521",
-    "name": "NTTAC Community Outreach",
+    "id": "fa-172104",
+    "name": "Heart 2 Heart at Shepherd Vision Missionary, Inc.",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "901 Mack Ave",
+    "description": "Food pantry location at Shepherd Vision Missionary, Inc. Entrance to pantry is at Rio Grande.",
+    "address": "1415 W. Central Blvd.",
     "city": "Orlando",
     "state": "FL",
     "zip": "32805",
-    "phone": "(407) 925-3228",
+    "phone": "(407) 402-6568",
     "hours": "",
-    "lat": 28.5310154,
-    "lng": -81.4002457,
+    "lat": 28.5421599,
+    "lng": -81.4001866,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-221327",
-    "name": "The First Community Christian Pentecostal Church of God inc",
+    "id": "fa-279",
+    "name": "Coalition for the Homeless",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1877 South Orange Blossom TRL",
+    "description": "Open to all",
+    "address": "639 W Central Blvd",
     "city": "Orlando",
     "state": "FL",
     "zip": "32805",
-    "phone": "(407) 860-8807",
+    "phone": "(407) 425-2523",
     "hours": "",
-    "lat": 28.5221252,
-    "lng": -81.3967133,
+    "lat": 28.5533,
+    "lng": -81.3833,
     "tags": [
-      "food pantry",
+      "soup kitchen",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fallback-orlando-shelter",

@@ -210,23 +210,23 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-220677",
-    "name": "H.A.N.D. Food Pantry",
+    "id": "fa-172237",
+    "name": "Pathways at Goodrich Place",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1640B East 2nd St. Ste 200",
+    "description": "Senior food distribution site (Seniors Only)",
+    "address": "2126 Goodrich Ave.",
     "city": "Austin",
     "state": "TX",
-    "zip": "78702",
-    "phone": "(512) 477-3796",
+    "zip": "78704",
+    "phone": "(855) 366-3401",
     "hours": "",
-    "lat": 30.25914,
-    "lng": -97.7264481,
+    "lat": 30.2484012,
+    "lng": -97.7750068,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-austin-shelter",

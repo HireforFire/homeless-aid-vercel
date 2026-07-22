@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-173743",
+    "name": "Reformation Lutheran Church/Loop Ministries",
+    "category": "Food",
+    "description": "Food pantry location at Reformation Lutheran Church",
+    "address": "597 East Avenue",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14607",
+    "phone": "(585) 454-3367",
+    "hours": "",
+    "lat": 43.15321,
+    "lng": -77.58873,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130412",
+    "name": "Rochester City SD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "131 WEST BROAD ST",
+    "city": "ROCHESTER",
+    "state": "NY",
+    "zip": "14621",
+    "phone": "(585) 262-8378",
+    "hours": "",
+    "lat": 43.154062,
+    "lng": -77.616123,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-218865",
     "name": "The Salvation Army - Franklin Street",
     "category": "Food",
@@ -131,44 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-173743",
-    "name": "Reformation Lutheran Church/Loop Ministries",
-    "category": "Food",
-    "description": "Food pantry location at Reformation Lutheran Church",
-    "address": "597 East Avenue",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "14607",
-    "phone": "(585) 454-3367",
-    "hours": "",
-    "lat": 43.15321,
-    "lng": -77.58873,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-130412",
-    "name": "Rochester City SD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "131 WEST BROAD ST",
-    "city": "ROCHESTER",
-    "state": "NY",
-    "zip": "14621",
-    "phone": "(585) 262-8378",
-    "hours": "",
-    "lat": 43.154062,
-    "lng": -77.616123,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-185849",

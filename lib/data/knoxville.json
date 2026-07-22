@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-225508",
-    "name": "FBC Knox Food Co-Op",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "510 Main St.",
-    "city": "Knoxville",
-    "state": "TN",
-    "zip": "37921",
-    "phone": "(865) 246-4661",
-    "hours": "",
-    "lat": 35.9603996,
-    "lng": -83.918396,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-130624",
     "name": "Knox County",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-225508",
+    "name": "FBC Knox Food Co-Op",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "510 Main St.",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37921",
+    "phone": "(865) 246-4661",
+    "hours": "",
+    "lat": 35.9603996,
+    "lng": -83.918396,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-186349",

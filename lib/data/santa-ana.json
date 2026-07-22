@@ -152,80 +152,80 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-217946",
-    "name": "The Salvation Army - W 1St St",
+    "id": "fa-172374",
+    "name": "Companerismo Rey de Reyes",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2603 W. 1st St.",
-    "city": "Santa Ana",
-    "state": "CA",
-    "zip": "92703",
-    "phone": "(714) 541-6726",
-    "hours": "",
-    "lat": 33.74853,
-    "lng": -117.90621,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224492",
-    "name": "Tustin Area Senior Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200  South C Street",
-    "city": "Tustin",
-    "state": "CA",
-    "zip": "92780",
-    "phone": "(714) 573-3352",
-    "hours": "",
-    "lat": 33.7439916,
-    "lng": -117.8257393,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224624",
-    "name": "Mitzvah Meals at Temple Beth Sholom",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2625 North Tustin Avenue",
-    "city": "Santa Ana",
-    "state": "CA",
-    "zip": "92705",
-    "phone": "(714) 400-7088",
-    "hours": "",
-    "lat": 33.7731743,
-    "lng": -117.8356552,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225300",
-    "name": "mental health assoc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2416 S. Main St",
+    "description": "Food pantry location at 940 W. Wilshire Ave., Santa Ana, CA 92707",
+    "address": "940 W. Wilshire Ave.",
     "city": "Santa Ana",
     "state": "CA",
     "zip": "92707",
-    "phone": "(714) 668-1530",
+    "phone": "(714) 850-1952",
     "hours": "",
-    "lat": 33.7141474,
-    "lng": -117.8683677,
+    "lat": 33.7304236,
+    "lng": -117.8785311,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-439093",
+    "name": "SNYP Restaurants - DBA Subway 26294",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "220 N Broadway Street",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92807",
+    "phone": "",
+    "hours": "",
+    "lat": 33.74662,
+    "lng": -117.8701,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-439562",
+    "name": "SNYP Restaurants - DBA Subway 41951",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "122 E 17th Street",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92701",
+    "phone": "",
+    "hours": "",
+    "lat": 33.75981,
+    "lng": -117.8667,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-439586",
+    "name": "SNYP Restaurants DBA Subway 63685",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "700 N Main Street",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92701",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7508,
+    "lng": -117.8679,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fallback-santa-ana-shelter",

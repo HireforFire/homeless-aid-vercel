@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-216220",
+    "name": "More Than a Meal",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "502 N Walnut St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80905",
+    "phone": "(719) 447-5009",
+    "hours": "",
+    "lat": 38.841,
+    "lng": -104.834183,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-220075",
     "name": "Care and Share Food Bank, Inc",
     "category": "Food",
@@ -36,25 +55,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-216220",
-    "name": "More Than a Meal",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "502 N Walnut St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80905",
-    "phone": "(719) 447-5009",
-    "hours": "",
-    "lat": 38.841,
-    "lng": -104.834183,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-176269",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-220122",
-    "name": "Living Faith Food Pantry",
+    "id": "fa-216200",
+    "name": "Trinity United Methodist Church",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2120 King St.",
+    "address": "701 N 20th St",
     "city": "Colorado Springs",
     "state": "CO",
-    "zip": "80904",
-    "phone": "(719) 217-9551",
+    "zip": "80909",
+    "phone": "(941) 625-3372",
     "hours": "",
-    "lat": 38.857151,
-    "lng": -104.853035,
+    "lat": 38.84914,
+    "lng": -104.851433,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fallback-colorado-springs-shelter",

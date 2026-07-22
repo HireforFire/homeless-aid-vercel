@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-221076",
-    "name": "Heart of America Indian Center d/b/a Kansas City Indian Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "600 W 39th Street",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64111",
-    "phone": "(816) 421-7608",
-    "hours": "",
-    "lat": 39.0570679,
-    "lng": -94.5932922,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-173756",
     "name": "Morning Star Missionary Baptist Church/LINC",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-221076",
+    "name": "Heart of America Indian Center d/b/a Kansas City Indian Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "600 W 39th Street",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64111",
+    "phone": "(816) 421-7608",
+    "hours": "",
+    "lat": 39.0570679,
+    "lng": -94.5932922,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-175540",

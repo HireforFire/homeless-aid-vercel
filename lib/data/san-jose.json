@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-219610",
-    "name": "InnVision... The Way Home",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "546 W Julian St",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95110",
-    "phone": "",
-    "hours": "",
-    "lat": 37.3354301,
-    "lng": -121.9029999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-205209",
     "name": "LifeSTEPS",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-180385",
+    "name": "African Amer Comm Srvcs Agcy",
+    "category": "Food",
+    "description": "Main distribution site for free groceries program",
+    "address": "304 North 6th Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "",
+    "hours": "",
+    "lat": 37.343239,
+    "lng": -121.888434,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-san-jose-shelter",

@@ -57,25 +57,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-224955",
-    "name": "MDC WOLFSON SHARK PANTRY",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "300 NE 2nd Ave",
-    "city": "suite 3108, Miami",
-    "state": "FL",
-    "zip": "33132",
-    "phone": "(305) 237-3007",
-    "hours": "",
-    "lat": 25.7776199,
-    "lng": -80.1909088,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-226",
     "name": "Catholic Charities - Miami",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-224955",
+    "name": "MDC WOLFSON SHARK PANTRY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "300 NE 2nd Ave",
+    "city": "suite 3108, Miami",
+    "state": "FL",
+    "zip": "33132",
+    "phone": "(305) 237-3007",
+    "hours": "",
+    "lat": 25.7776199,
+    "lng": -80.1909088,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-628",

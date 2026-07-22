@@ -152,25 +152,6 @@
     "lastUpdated": "2026-05-10"
   },
   {
-    "id": "fa-225779",
-    "name": "Young Parent Program",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "22 Park Ave",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6575508,
-    "lng": -70.2670441,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-180940",
     "name": "Sacred Heart / St. Dominic Food Pantry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 43.6588139,
     "lng": -70.2620405,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184683",
+    "name": "Maine Needs - Portland",
+    "category": "Food",
+    "description": "Main location for food assistance services",
+    "address": "332 Forest Ave",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6631218,
+    "lng": -70.2730504,
     "tags": [
       "food pantry",
       "walk-in"

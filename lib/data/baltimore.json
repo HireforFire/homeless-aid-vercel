@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-219652",
-    "name": "My Sister's Place Lodge",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "111 West Mulberry Street",
-    "city": "Baltimore",
-    "state": "MD",
-    "zip": "21201",
-    "phone": "(410) 528-9002",
-    "hours": "",
-    "lat": 39.293766,
-    "lng": -76.6174774,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-226088",
-    "name": "Earl’s Place",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1400 E.  Lombard Street",
-    "city": "Baltimore",
-    "state": "MD",
-    "zip": "21231",
-    "phone": "(410) 522-0225",
-    "hours": "",
-    "lat": 39.2903294,
-    "lng": -76.5984185,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172958",
     "name": "Redemporist Fathers",
     "category": "Food",
@@ -93,6 +55,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-219652",
+    "name": "My Sister's Place Lodge",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "111 West Mulberry Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "(410) 528-9002",
+    "hours": "",
+    "lat": 39.293766,
+    "lng": -76.6174774,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-226088",
+    "name": "Earl’s Place",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1400 E.  Lombard Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21231",
+    "phone": "(410) 522-0225",
+    "hours": "",
+    "lat": 39.2903294,
+    "lng": -76.5984185,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-177013",

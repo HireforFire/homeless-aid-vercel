@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-128301",
+    "name": "Concordia Charter School, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "142 NORTH DATE",
+    "city": "MESA",
+    "state": "AZ",
+    "zip": "85201",
+    "phone": "(480) 461-0555",
+    "hours": "",
+    "lat": 33.417946,
+    "lng": -111.844896,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-128334",
+    "name": "Mesa Unified District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "63 EAST MAIN ST",
+    "city": "MESA",
+    "state": "AZ",
+    "zip": "85210",
+    "phone": "(480) 472-0200",
+    "hours": "",
+    "lat": 33.415046,
+    "lng": -111.829996,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-221319",
     "name": "A New Leaf: Autumn House",
     "category": "Food",
@@ -74,44 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-128301",
-    "name": "Concordia Charter School, Inc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "142 NORTH DATE",
-    "city": "MESA",
-    "state": "AZ",
-    "zip": "85201",
-    "phone": "(480) 461-0555",
-    "hours": "",
-    "lat": 33.417946,
-    "lng": -111.844896,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-128334",
-    "name": "Mesa Unified District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "63 EAST MAIN ST",
-    "city": "MESA",
-    "state": "AZ",
-    "zip": "85210",
-    "phone": "(480) 472-0200",
-    "hours": "",
-    "lat": 33.415046,
-    "lng": -111.829996,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-833",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218648",
-    "name": "The Salvation Army - E 6Th Street 1",
+    "id": "fa-576543",
+    "name": "Society of St Vincent de Paul - Food Distribution Center",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "255 E. 6th Street",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "49 West Broadway Road",
     "city": "Mesa",
     "state": "AZ",
-    "zip": "85201",
-    "phone": "(480) 649-9117",
+    "zip": "85210",
+    "phone": "",
     "hours": "",
-    "lat": 33.4336,
-    "lng": -111.84929,
+    "lat": 33.4074533,
+    "lng": -111.8336038,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fallback-mesa-shelter",

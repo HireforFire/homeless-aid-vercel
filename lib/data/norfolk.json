@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-217503",
-    "name": "The Salvation Army - Ballentine Blvd",
+    "id": "fa-173552",
+    "name": "Wesley Community Service Center",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1401 Ballentine Blvd",
-    "city": "Norfolk",
+    "description": "Food pantry distribution location",
+    "address": "1701 Elm Ave.",
+    "city": "Portsmouth",
     "state": "VA",
-    "zip": "23504",
-    "phone": "(757) 622-5762",
+    "zip": "23704",
+    "phone": "(757) 399-0541",
     "hours": "",
-    "lat": 36.85677,
-    "lng": -76.26568,
+    "lat": 36.8255774,
+    "lng": -76.3120659,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-norfolk-shelter",

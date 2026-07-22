@@ -152,63 +152,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-218796",
-    "name": "The Salvation Army - Ne 28Th St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2901 NE 28th St",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76111",
-    "phone": "(817) 834-6271",
-    "hours": "",
-    "lat": 32.7804,
-    "lng": -97.30116,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-221729",
-    "name": "Northside Inter-Community Agency",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1600 Circle Park Blvd.",
-    "city": "Fort Worth",
-    "state": "TX",
-    "zip": "76164",
-    "phone": "(817) 626-1102",
-    "hours": "",
-    "lat": 32.7784119,
-    "lng": -97.3536224,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225411",
-    "name": "world missionary baptist church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1200 e bessie st",
-    "city": "Ft.Worth",
-    "state": "TX",
-    "zip": "76104",
-    "phone": "(817) 332-1202",
-    "hours": "",
-    "lat": 32.7399712,
-    "lng": -97.3118744,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-173495",
     "name": "All Saints Catholic Church",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130775",
+    "name": "FORT WORTH ISD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "100 NORTH UNIVERSITY DR",
+    "city": "FORT WORTH",
+    "state": "TX",
+    "zip": "76164",
+    "phone": "(817) 815-2000",
+    "hours": "",
+    "lat": 32.76033,
+    "lng": -97.360695,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-118",
+    "name": "Union Gospel Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1331 E Lancaster Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76102",
+    "phone": "(817) 332-6612",
+    "hours": "",
+    "lat": 32.7283,
+    "lng": -97.3083,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-121",
+    "name": "Northside Community Center",
+    "category": "Food",
+    "description": "North Fort Worth",
+    "address": "1100 NW 18th St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76164",
+    "phone": "(817) 625-4291",
+    "hours": "",
+    "lat": 32.7833,
+    "lng": -97.3483,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fallback-fort-worth-shelter",

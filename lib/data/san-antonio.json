@@ -76,6 +76,63 @@
     "lastUpdated": "2026-04-25"
   },
   {
+    "id": "fa-172645",
+    "name": "Little Church of La Villita",
+    "category": "Food",
+    "description": "Food pantry location at Little Church of La Villita in San Antonio, TX.",
+    "address": "508 Villita St.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78205",
+    "phone": "(210) 226-3593",
+    "hours": "",
+    "lat": 29.4216327,
+    "lng": -98.4885983,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130944",
+    "name": "SAN ANTONIO ISD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "141 LAVACA ST",
+    "city": "SAN ANTONIO",
+    "state": "TX",
+    "zip": "78225",
+    "phone": "(210) 554-2200",
+    "hours": "",
+    "lat": 29.417933,
+    "lng": -98.487295,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-182",
+    "name": "Christian Assistance Ministry",
+    "category": "Food",
+    "description": "South side residents",
+    "address": "602 Nogalitos St",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78204",
+    "phone": "(210) 226-2555",
+    "hours": "",
+    "lat": 29.4183,
+    "lng": -98.5033,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-219418",
     "name": "The Salvation Army ARC",
     "category": "Food",
@@ -169,63 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-172645",
-    "name": "Little Church of La Villita",
-    "category": "Food",
-    "description": "Food pantry location at Little Church of La Villita in San Antonio, TX.",
-    "address": "508 Villita St.",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78205",
-    "phone": "(210) 226-3593",
-    "hours": "",
-    "lat": 29.4216327,
-    "lng": -98.4885983,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-130944",
-    "name": "SAN ANTONIO ISD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "141 LAVACA ST",
-    "city": "SAN ANTONIO",
-    "state": "TX",
-    "zip": "78225",
-    "phone": "(210) 554-2200",
-    "hours": "",
-    "lat": 29.417933,
-    "lng": -98.487295,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-182",
-    "name": "Christian Assistance Ministry",
-    "category": "Food",
-    "description": "South side residents",
-    "address": "602 Nogalitos St",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78204",
-    "phone": "(210) 226-2555",
-    "hours": "",
-    "lat": 29.4183,
-    "lng": -98.5033,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fallback-san-antonio-shelter",

@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-174158",
+    "name": "Chosen 300 - Center City",
+    "category": "Food",
+    "description": "Chosen 300 food distribution location in Center City, PA",
+    "address": "1116 Spring Garden Street",
+    "city": "Center City",
+    "state": "PA",
+    "zip": "19123",
+    "phone": "(215) 765-9806",
+    "hours": "",
+    "lat": 39.96141739999999,
+    "lng": -75.1569069,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-218595",
     "name": "The Salvation Army - N Broad Street 1",
     "category": "Food",
@@ -112,25 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-174158",
-    "name": "Chosen 300 - Center City",
-    "category": "Food",
-    "description": "Chosen 300 food distribution location in Center City, PA",
-    "address": "1116 Spring Garden Street",
-    "city": "Center City",
-    "state": "PA",
-    "zip": "19123",
-    "phone": "(215) 765-9806",
-    "hours": "",
-    "lat": 39.96141739999999,
-    "lng": -75.1569069,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-647",

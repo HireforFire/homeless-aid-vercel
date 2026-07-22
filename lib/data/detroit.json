@@ -152,44 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218823",
-    "name": "The Salvation Army - Lawton St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3737 Lawton St",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "48208",
-    "phone": "(313) 361-6136",
-    "hours": "",
-    "lat": 42.34844,
-    "lng": -83.09173,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219377",
-    "name": "ksc",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "404 east grand blvd",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "48207",
-    "phone": "(313) 478-1537",
-    "hours": "",
-    "lat": 42.3550377,
-    "lng": -83.0063553,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-129611",
     "name": "Detroit Academy of Arts and Sciences",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 42.369037,
     "lng": -83.076922,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-129649",
+    "name": "George Crockett Academy",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "4851 14TH ST",
+    "city": "DETROIT",
+    "state": "MI",
+    "zip": "48205",
+    "phone": "(313) 896-6078",
+    "hours": "",
+    "lat": 42.349138,
+    "lng": -83.087022,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-129780",
+    "name": "Plymouth Educational Center Charter School",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1460 EAST FOREST AVE",
+    "city": "DETROIT",
+    "state": "MI",
+    "zip": "48207",
+    "phone": "(313) 831-3280",
+    "hours": "",
+    "lat": 42.360338,
+    "lng": -83.046721,
     "tags": [
       "food pantry",
       "walk-in"

@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-221550",
-    "name": "Trinity's Table",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1600 Kanawha Blvd",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "25311",
-    "phone": "(304) 539-4345",
-    "hours": "",
-    "lat": 38.3377151,
-    "lng": -81.6185303,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-174257",
     "name": "West Side Food Pantry",
     "category": "Food",
@@ -150,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-221550",
+    "name": "Trinity's Table",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1600 Kanawha Blvd",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25311",
+    "phone": "(304) 539-4345",
+    "hours": "",
+    "lat": 38.3377151,
+    "lng": -81.6185303,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-178122",

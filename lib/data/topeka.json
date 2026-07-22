@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-222440",
-    "name": "New Hope Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "404 SW Polk",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66603",
-    "phone": "(785) 249-8283",
-    "hours": "",
-    "lat": 39.0563316,
-    "lng": -95.6803131,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-173666",
     "name": "Let's Help Inc. - Food Distribution Center",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-222440",
+    "name": "New Hope Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "404 SW Polk",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66603",
+    "phone": "(785) 249-8283",
+    "hours": "",
+    "lat": 39.0563316,
+    "lng": -95.6803131,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-216525",

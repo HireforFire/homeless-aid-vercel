@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-220356",
-    "name": "YWCA Central Alabama",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "309 North 23rd Street",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35203",
-    "phone": "(205) 322-9922",
-    "hours": "",
-    "lat": 33.5185738,
-    "lng": -86.8028336,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-128137",
     "name": "Birmingham City Board of Education",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-220356",
+    "name": "YWCA Central Alabama",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "309 North 23rd Street",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35203",
+    "phone": "(205) 322-9922",
+    "hours": "",
+    "lat": 33.5185738,
+    "lng": -86.8028336,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-226157",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-218788",
-    "name": "The Salvation Army - Fl Shuttlesworth Dr",
+    "id": "fa-172347",
+    "name": "South Highland Presbyterian Church",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1401 Fl Shuttlesworth Dr",
+    "description": "Food pantry location at South Highland Presbyterian Church",
+    "address": "2035 Highland Ave.",
     "city": "Birmingham",
     "state": "AL",
-    "zip": "35234",
-    "phone": "(205) 252-8151",
+    "zip": "35205",
+    "phone": "(205) 933-0790",
     "hours": "",
-    "lat": 33.54005,
-    "lng": -86.80382,
+    "lat": 33.4993448,
+    "lng": -86.7943734,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-birmingham-shelter",

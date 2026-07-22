@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-173321",
+    "name": "MBA Love Loud Matthew 25 Ministries",
+    "category": "Food",
+    "description": "Food pantry location providing food assistance.",
+    "address": "1551 E. Ann St.",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36107",
+    "phone": "(334) 269-5726",
+    "hours": "",
+    "lat": 32.3621978,
+    "lng": -86.270493,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-218443",
     "name": "The Salvation Army - Crawford St",
     "category": "Food",
@@ -150,25 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-173321",
-    "name": "MBA Love Loud Matthew 25 Ministries",
-    "category": "Food",
-    "description": "Food pantry location providing food assistance.",
-    "address": "1551 E. Ann St.",
-    "city": "Montgomery",
-    "state": "AL",
-    "zip": "36107",
-    "phone": "(334) 269-5726",
-    "hours": "",
-    "lat": 32.3621978,
-    "lng": -86.270493,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-216972",

@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-223204",
-    "name": "Angels of God Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2410 Grand ave",
-    "city": "Vancouver",
-    "state": "WA",
-    "zip": "98661",
-    "phone": "(360) 936-5197",
-    "hours": "",
-    "lat": 45.6390381,
-    "lng": -122.6417923,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-174514",
     "name": "One Life",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-223204",
+    "name": "Angels of God Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2410 Grand ave",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98661",
+    "phone": "(360) 936-5197",
+    "hours": "",
+    "lat": 45.6390381,
+    "lng": -122.6417923,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-176823",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-221727",
-    "name": "Clark County Food Bank",
+    "id": "fa-131320",
+    "name": "Vancouver School District",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "6502 NE 47th Ave",
-    "city": "Vancouver",
+    "address": "2901 FALK RD",
+    "city": "VANCOUVER",
     "state": "WA",
     "zip": "98661",
-    "phone": "(360) 693-0939",
+    "phone": "(360) 313-1000",
     "hours": "",
-    "lat": 45.6694717,
-    "lng": -122.6233215,
+    "lat": 45.643039,
+    "lng": -122.627608,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fallback-vancouver-wa-shelter",

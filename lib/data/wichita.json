@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-129103",
+    "name": "Wichita",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "201 NORTH WATER",
+    "city": "WICHITA",
+    "state": "KS",
+    "zip": "67219",
+    "phone": "(316) 973-4000",
+    "hours": "",
+    "lat": 37.688314,
+    "lng": -97.339923,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fa-218609",
     "name": "The Salvation Army - N Market",
     "category": "Food",
@@ -74,25 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-129103",
-    "name": "Wichita",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "201 NORTH WATER",
-    "city": "WICHITA",
-    "state": "KS",
-    "zip": "67219",
-    "phone": "(316) 973-4000",
-    "hours": "",
-    "lat": 37.688314,
-    "lng": -97.339923,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-905",

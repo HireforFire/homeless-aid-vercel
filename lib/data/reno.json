@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-219755",
-    "name": "Safe Harbors of Nevada",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "469 E 9th Street",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89512",
-    "phone": "(775) 337-6777",
-    "hours": "",
-    "lat": 39.5368309,
-    "lng": -119.8091354,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-221524",
-    "name": "Destiny Christian Community Center of Reno",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "255 Bell St.",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89503",
-    "phone": "(775) 287-3711",
-    "hours": "",
-    "lat": 39.526104,
-    "lng": -119.8217392,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-170428",
     "name": "Washoe County Health District - Mobile Harvest",
     "category": "Food",
@@ -112,6 +74,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-219755",
+    "name": "Safe Harbors of Nevada",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "469 E 9th Street",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89512",
+    "phone": "(775) 337-6777",
+    "hours": "",
+    "lat": 39.5368309,
+    "lng": -119.8091354,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221524",
+    "name": "Destiny Christian Community Center of Reno",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "255 Bell St.",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89503",
+    "phone": "(775) 287-3711",
+    "hours": "",
+    "lat": 39.526104,
+    "lng": -119.8217392,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-171242",

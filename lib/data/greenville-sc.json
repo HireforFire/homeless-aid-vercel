@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-219504",
-    "name": "FCF (MVP) FOOD PANTRY",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "23 CRESTMORE DRIVE",
-    "city": "Greenville",
-    "state": "SC",
-    "zip": "29611",
-    "phone": "(864) 213-7345",
-    "hours": "",
-    "lat": 34.8419075,
-    "lng": -82.4410858,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-187816",
     "name": "Eastside Baptist Center",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-219504",
+    "name": "FCF (MVP) FOOD PANTRY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "23 CRESTMORE DRIVE",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29611",
+    "phone": "(864) 213-7345",
+    "hours": "",
+    "lat": 34.8419075,
+    "lng": -82.4410858,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-222786",

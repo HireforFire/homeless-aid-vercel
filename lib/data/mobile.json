@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-223536",
-    "name": "The Service Center of Catholic Social Services",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "555 Dauphin St",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36602",
-    "phone": "(251) 434-1500",
-    "hours": "",
-    "lat": 30.6891328,
-    "lng": -88.04905,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-174425",
     "name": "New Hope Outreach Ministry",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-223536",
+    "name": "The Service Center of Catholic Social Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "555 Dauphin St",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "(251) 434-1500",
+    "hours": "",
+    "lat": 30.6891328,
+    "lng": -88.04905,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-186557",

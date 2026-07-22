@@ -19,82 +19,6 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "fa-220735",
-    "name": "Wishing Well",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1075 Galapago Street",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "phone": "(303) 504-6804",
-    "hours": "",
-    "lat": 39.7332993,
-    "lng": -104.9970016,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220818",
-    "name": "Food For Thought - Denver",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1190 Auraria Pkwy",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "phone": "(303) 817-4672",
-    "hours": "",
-    "lat": 39.7474976,
-    "lng": -105.0038681,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-221684",
-    "name": "The Salvation Army - Harbor Light",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2136 Champa Street",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80205",
-    "phone": "(720) 305-4656",
-    "hours": "",
-    "lat": 39.7514725,
-    "lng": -104.9870453,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224115",
-    "name": "Metro Caring",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1100 East 18th Ave.",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80218",
-    "phone": "(303) 350-3631",
-    "hours": "",
-    "lat": 39.7446556,
-    "lng": -104.9729767,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-216087",
     "name": "Denver Inner City Parish",
     "category": "Food",
@@ -188,6 +112,82 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-220735",
+    "name": "Wishing Well",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1075 Galapago Street",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 504-6804",
+    "hours": "",
+    "lat": 39.7332993,
+    "lng": -104.9970016,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220818",
+    "name": "Food For Thought - Denver",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1190 Auraria Pkwy",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 817-4672",
+    "hours": "",
+    "lat": 39.7474976,
+    "lng": -105.0038681,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221684",
+    "name": "The Salvation Army - Harbor Light",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2136 Champa Street",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80205",
+    "phone": "(720) 305-4656",
+    "hours": "",
+    "lat": 39.7514725,
+    "lng": -104.9870453,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224115",
+    "name": "Metro Caring",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1100 East 18th Ave.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80218",
+    "phone": "(303) 350-3631",
+    "hours": "",
+    "lat": 39.7446556,
+    "lng": -104.9729767,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-181363",

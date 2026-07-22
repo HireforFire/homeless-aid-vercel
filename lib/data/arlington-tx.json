@@ -152,44 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-217978",
-    "name": "The Salvation Army - E Abram St",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1301 E Abram St",
-    "city": "Arlington",
-    "state": "TX",
-    "zip": "76010",
-    "phone": "(817) 834-0322",
-    "hours": "",
-    "lat": 32.72271,
-    "lng": -97.08065,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223505",
-    "name": "Ebenezer SDA",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "133 Luttrell Street",
-    "city": "Arlington",
-    "state": "TX",
-    "zip": "76010",
-    "phone": "(817) 271-0400",
-    "hours": "",
-    "lat": 32.7361664,
-    "lng": -97.0862774,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172228",
     "name": "Iglesia Cafe Mobile - 2200 E Park Row Dr",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175258",
+    "name": "Arlington Charities",
+    "category": "Food",
+    "description": "Food distribution location affiliated with Tarrant Area Food Bank.",
+    "address": "1500 California Ln.",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76015",
+    "phone": "(817) 275-1511",
+    "hours": "",
+    "lat": 32.7033061,
+    "lng": -97.1178101,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-577456",
+    "name": "The Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "520 West 1st Street",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7319769,
+    "lng": -97.1075501,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fallback-arlington-tx-shelter",

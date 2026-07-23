@@ -38,25 +38,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-211350",
-    "name": "Queen Street Baptist Church",
-    "category": "Food",
-    "description": "Food pantry location at Queen Street Baptist Church",
-    "address": "413 E Brambleton Ave",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "23510",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8533563,
-    "lng": -76.283844,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-717",
     "name": "YWCA Norfolk Food Pantry",
     "category": "Food",
@@ -109,6 +90,25 @@
     "lng": -76.27452939999999,
     "tags": [
       "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211350",
+    "name": "Queen Street Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Queen Street Baptist Church",
+    "address": "413 E Brambleton Ave",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23510",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8533563,
+    "lng": -76.283844,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

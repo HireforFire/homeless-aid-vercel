@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-175586",
+    "name": "FEED Salem",
+    "category": "Food",
+    "description": "Food distribution location in Salem, Oregon",
+    "address": "1268 Broadway St. NE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "",
+    "hours": "",
+    "lat": 44.951662884537,
+    "lng": -123.030748694684,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191033",
+    "name": "Jason Lee Food Bank",
+    "category": "Food",
+    "description": "Main food bank location in Salem, Oregon.",
+    "address": "820 Jefferson Street NE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "",
+    "hours": "",
+    "lat": 44.953668,
+    "lng": -123.0239788,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196761",
+    "name": "ARCHES Community Meal Location",
+    "category": "Food",
+    "description": "ARCHES (Community Action Agency) community meal distribution site",
+    "address": "615 Commercial Street NE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9465505,
+    "lng": -123.0381132,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207101",
+    "name": "Family Promise of the Mid-Williamette Valley - Main Office",
+    "category": "Food",
+    "description": "Main office and food assistance service location",
+    "address": "1055 Edgewater St NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9420346747307,
+    "lng": -123.055460630587,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210111",
+    "name": "Jason Lee United Methodist",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "820 Jefferson Street Northeast",
+    "city": "Grant",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9538559,
+    "lng": -123.0242353,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211884",
+    "name": "New Life Community Church Pantry",
+    "category": "Food",
+    "description": "Food pantry location at New Life Community Church",
+    "address": "410 14th Street Southeast",
+    "city": "Southeast Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "",
+    "hours": "",
+    "lat": 44.93241,
+    "lng": -123.02543,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175369",
+    "name": "HOAP Services (NW Human Services)",
+    "category": "Food",
+    "description": "Free meal distribution location",
+    "address": "694 Church St. NE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "",
+    "hours": "",
+    "lat": 44.945567355,
+    "lng": -123.031990557458,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177941",
+    "name": "Union Gospel Mission - Men's Mission",
+    "category": "Food",
+    "description": "Free meals distribution location",
+    "address": "777 Commercial St. NE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "",
+    "hours": "",
+    "lat": 44.947845975378,
+    "lng": -123.037306360452,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194154",
+    "name": "MPFS After Hours Boxes - Salem Location",
+    "category": "Food",
+    "description": "After-hours food box pickup location",
+    "address": "1660 Salem Industrial Dr NE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97303",
+    "phone": "",
+    "hours": "",
+    "lat": 44.942367,
+    "lng": -123.032466,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174617",
+    "name": "Capital Park Food Pantry",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "410 19th Street Southeast",
+    "city": "Southeast Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "(503) 362-6626",
+    "hours": "",
+    "lat": 44.9311577,
+    "lng": -123.019648,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175289",
+    "name": "Life Essentials at Life Church",
+    "category": "Food",
+    "description": "Food pantry location at Life Church",
+    "address": "255 College Drive Northwest",
+    "city": "West Salem",
+    "state": "OR",
+    "zip": "97304",
+    "phone": "(503) 362-0362",
+    "hours": "",
+    "lat": 44.9330882,
+    "lng": -123.0798554,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218837",
+    "name": "The Salvation Army - Bill Frey Dr Ne",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1865 Bill Frey Dr. N.E.",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "(503) 566-5762",
+    "hours": "",
+    "lat": 44.94948,
+    "lng": -123.00439,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fallback-salem-or-shelter",
     "name": "Salem Homeless Services Hotline",
     "category": "Shelter",

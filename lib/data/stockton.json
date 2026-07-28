@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-216294",
+    "name": "Plymouth Place",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1320 N Monroe St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95203",
+    "phone": "(209) 466-4345",
+    "hours": "",
+    "lat": 37.965023,
+    "lng": -121.298386,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216296",
+    "name": "Salvation Army Corps Community",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1305 E Weber Ave",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95205",
+    "phone": "(209) 948-8955",
+    "hours": "",
+    "lat": 37.956676,
+    "lng": -121.274368,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-128744",
+    "name": "Stockton Unified School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "701 NORTH MADISON ST",
+    "city": "STOCKTON",
+    "state": "CA",
+    "zip": "95205",
+    "phone": "(209) 933-7000",
+    "hours": "",
+    "lat": 37.959024,
+    "lng": -121.296758,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-451",
+    "name": "Stockton Shelter",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "640 W Oak St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95203",
+    "phone": "(209) 466-8664",
+    "hours": "",
+    "lat": 37.9611,
+    "lng": -121.3061,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-218639",
+    "name": "The Salvation Army - N Stanislaus Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "123 N. Stanislaus Street",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "(209) 463-4960",
+    "hours": "",
+    "lat": 37.95968,
+    "lng": -121.28772,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220294",
+    "name": "Emergency Food Bank of Stockton",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "7 West Scotts Avenue",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95203",
+    "phone": "(209) 464-7369",
+    "hours": "",
+    "lat": 37.9455147,
+    "lng": -121.2896042,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223280",
+    "name": "Emergenyc Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "7  W. Scotts Avenue",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95203",
+    "phone": "(209) 464-7369",
+    "hours": "",
+    "lat": 37.9455921,
+    "lng": -121.2895478,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-179297",
+    "name": "First Presbyterian Church",
+    "category": "Food",
+    "description": "First Presbyterian Church located in Stockton",
+    "address": "31 E Vine St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9655567,
+    "lng": -121.29416889999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186082",
+    "name": "SDA Stockton",
+    "category": "Food",
+    "description": "SDA Stockton clothing assistance location in Stockton, California.",
+    "address": "135 W. Vine St.",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95204",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9652684,
+    "lng": -121.2967009,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191952",
+    "name": "Catholic Charities of Stockton",
+    "category": "Food",
+    "description": "Food pantry location at 1106 N. Eldorado St., Stockton, CA",
+    "address": "1106 N. Eldorado St.",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9637803,
+    "lng": -121.2924531,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201663",
+    "name": "St Paul's United Methodist Church",
+    "category": "Food",
+    "description": "Food distribution location at St Paul's United Methodist Church",
+    "address": "1625 N Lincoln St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95204",
+    "phone": "",
+    "hours": "",
+    "lat": 37.967357299999996,
+    "lng": -121.3026668,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214267",
+    "name": "Good Samaritan Training Center",
+    "category": "Food",
+    "description": "Food distribution and clothing assistance location in Stockton.",
+    "address": "1331 E. Fremont Street",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95205",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9606082,
+    "lng": -121.2746784,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-stockton-shelter",
     "name": "Stockton Homeless Services Hotline",
     "category": "Shelter",

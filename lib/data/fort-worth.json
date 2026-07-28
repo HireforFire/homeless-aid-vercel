@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-226294",
+    "name": "Junior League of Fort Worth Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Fort Worth, TX",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76101",
+    "phone": "",
+    "hours": "",
+    "lat": 32.75944,
+    "lng": -97.32912,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-173441",
+    "name": "The Salvation Army - Lancaster (Mabee Social Services Center)",
+    "category": "Food",
+    "description": "Mabee Social Services Center location providing food pantry and daily meals for homeless.",
+    "address": "1855 E. Lancaster Ave.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76103",
+    "phone": "(817) 344-1800",
+    "hours": "",
+    "lat": 32.7467667,
+    "lng": -97.3012881,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184535",
+    "name": "Bread Basket",
+    "category": "Food",
+    "description": "Bread Basket food distribution location",
+    "address": "2809 Mansfield Hwy",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76119",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7465982,
+    "lng": -97.3291991,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192759",
+    "name": "First Street Methodist Mission",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "801 W 1st Street",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76102",
+    "phone": "",
+    "hours": "",
+    "lat": 32.75234,
+    "lng": -97.33632,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196565",
+    "name": "New Hope Fellowship Mobile - 6410 South Fwy",
+    "category": "Food",
+    "description": "Mobile food pantry location operated by New Hope Fellowship in collaboration with Iglesia Centro Familiar Cristiano",
+    "address": "4928 Miller Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76119",
+    "phone": "",
+    "hours": "",
+    "lat": 32.75549,
+    "lng": -97.33077,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-213760",
+    "name": "Broadway Baptist Church",
+    "category": "Food",
+    "description": "Main location of Broadway Baptist Church providing food distribution and meal programs with air conditioning and accessibility support.",
+    "address": "305 W. Broadway Ave.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7408844,
+    "lng": -97.3287041,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13606",
+    "name": "First Presbyterian Church Of Ft. Worth",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1000 Penn St.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76102",
+    "phone": "(817) 335-1231",
+    "hours": "",
+    "lat": 32.75799,
+    "lng": -97.32858,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-117",
+    "name": "Fort Worth Community Food Pantry",
+    "category": "Food",
+    "description": "Fort Worth residents",
+    "address": "1625 Circle Park Blvd",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76164",
+    "phone": "(817) 496-0218",
+    "hours": "",
+    "lat": 32.7633,
+    "lng": -97.3283,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-173495",
+    "name": "All Saints Catholic Church",
+    "category": "Food",
+    "description": "All Saints Catholic Church food distribution location affiliated with Tarrant Area Food Bank.",
+    "address": "214 NW 20th St.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76164",
+    "phone": "(817) 626-3055",
+    "hours": "",
+    "lat": 32.7813777,
+    "lng": -97.3514097,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130775",
+    "name": "FORT WORTH ISD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "100 NORTH UNIVERSITY DR",
+    "city": "FORT WORTH",
+    "state": "TX",
+    "zip": "76164",
+    "phone": "(817) 815-2000",
+    "hours": "",
+    "lat": 32.76033,
+    "lng": -97.360695,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-118",
+    "name": "Union Gospel Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1331 E Lancaster Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76102",
+    "phone": "(817) 332-6612",
+    "hours": "",
+    "lat": 32.7283,
+    "lng": -97.3083,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-121",
+    "name": "Northside Community Center",
+    "category": "Food",
+    "description": "North Fort Worth",
+    "address": "1100 NW 18th St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76164",
+    "phone": "(817) 625-4291",
+    "hours": "",
+    "lat": 32.7833,
+    "lng": -97.3483,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fallback-fort-worth-shelter",
     "name": "Fort Worth Homeless Services Hotline",
     "category": "Shelter",

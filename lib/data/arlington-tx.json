@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-125",
+    "name": "Arlington Life Shelter",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "325 W Division St",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76011",
+    "phone": "(817) 548-9885",
+    "hours": "",
+    "lat": 32.7383,
+    "lng": -97.1183,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-127",
+    "name": "First Baptist Church Arlington Pantry",
+    "category": "Food",
+    "description": "Arlington residents",
+    "address": "301 S Center St",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010",
+    "phone": "(817) 274-3387",
+    "hours": "",
+    "lat": 32.7283,
+    "lng": -97.1083,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-205871",
+    "name": "The Salvation Army - Arlington",
+    "category": "Food",
+    "description": "Food pantry location in Arlington providing emergency food assistance.",
+    "address": "712 W. Abram St.",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76013",
+    "phone": "",
+    "hours": "",
+    "lat": 32.735033,
+    "lng": -97.1155491,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182765",
+    "name": "Peer2Peer Whole Wellness - Fort Worth",
+    "category": "Food",
+    "description": "Pop-up and mobile food resource distribution location",
+    "address": "101 Randle Mill Rd.",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76011",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7504662,
+    "lng": -97.1063394,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186346",
+    "name": "Christ Resurrection Power Assembly",
+    "category": "Food",
+    "description": "Pop-up/mobile food distribution location affiliated with Tarrant Area Food Bank.",
+    "address": "215 Arnold Ave.",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7346068,
+    "lng": -97.0936758,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193545",
+    "name": "Water from the Rock",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "402 N. L. Robinson",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76011",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7402025,
+    "lng": -97.1110819,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200291",
+    "name": "Salvation Army Arlington Corps",
+    "category": "Food",
+    "description": "Food distribution and shelter services location with air conditioning, indoor service, and assistance available.",
+    "address": "712 West Abram Street",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76013",
+    "phone": "",
+    "hours": "",
+    "lat": 32.73509,
+    "lng": -97.11573,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-213875",
+    "name": "Arlington Urban Ministries - Main Location",
+    "category": "Food",
+    "description": "Arlington Urban Ministries Mobile Food Pantry distribution site",
+    "address": "701 Dugan St.",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7343136,
+    "lng": -97.1004022,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172228",
+    "name": "Iglesia Cafe Mobile - 2200 E Park Row Dr",
+    "category": "Food",
+    "description": "Mobile food distribution location in Arlington, Texas",
+    "address": "2200 E. Park Row Dr.",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010",
+    "phone": "(817) 459-3901",
+    "hours": "",
+    "lat": 32.72037,
+    "lng": -97.07089,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174797",
+    "name": "Shepherd's Pantry - Shepherd of Life Ministry Offices",
+    "category": "Food",
+    "description": "Shepherd's Pantry is located in the Shepherd of Life Ministry Offices Building at the corner of E. Lamar Blvd and Madison Dr. Patrons enter through the doors on the west side of the building. Features air conditioning.",
+    "address": "715 E Lamar Blvd",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76011",
+    "phone": "(817) 460-0631",
+    "hours": "",
+    "lat": 32.7653564,
+    "lng": -97.1007874,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175258",
+    "name": "Arlington Charities",
+    "category": "Food",
+    "description": "Food distribution location affiliated with Tarrant Area Food Bank.",
+    "address": "1500 California Ln.",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76015",
+    "phone": "(817) 275-1511",
+    "hours": "",
+    "lat": 32.7033061,
+    "lng": -97.1178101,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-577456",
+    "name": "The Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "520 West 1st Street",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7319769,
+    "lng": -97.1075501,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fallback-arlington-tx-shelter",
     "name": "Arlington Homeless Services Hotline",
     "category": "Shelter",

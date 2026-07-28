@@ -1,5 +1,119 @@
 [
   {
+    "id": "fa-223343",
+    "name": "The Salvation Army Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2019 22nd Street",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39501",
+    "phone": "(228) 868-1188",
+    "hours": "",
+    "lat": 30.3763218,
+    "lng": -89.0870438,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-191892",
+    "name": "Feed My Sheep",
+    "category": "Food",
+    "description": "Soup kitchen location in Gulfport",
+    "address": "2615 19th St.",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39501",
+    "phone": "",
+    "hours": "",
+    "lat": 30.3730813,
+    "lng": -89.0946732,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208909",
+    "name": "Gulf Coast Community Ministries",
+    "category": "Food",
+    "description": "Main food pantry location in Gulfport.",
+    "address": "3914 15th St.",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39501",
+    "phone": "",
+    "hours": "",
+    "lat": 30.3694782,
+    "lng": -89.1096933,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210296",
+    "name": "The Salvation Army Food Pantry - Gulf Port",
+    "category": "Food",
+    "description": "Food pantry location in Gulfport, Mississippi",
+    "address": "2019 22nd St.",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39501",
+    "phone": "",
+    "hours": "",
+    "lat": 30.3763159,
+    "lng": -89.0871063,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-217671",
+    "name": "The Salvation Army - Highway 49",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "8405 Highway 49",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39501",
+    "phone": "(228) 284-3220",
+    "hours": "",
+    "lat": 30.3857,
+    "lng": -89.10309,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-186414",
+    "name": "Forrest Heights Missionary Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Forrest Heights Missionary Baptist Church",
+    "address": "5215 Ohio Ave.",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39501",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4102903,
+    "lng": -89.0978039,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-gulfport-shelter",
     "name": "Gulfport Homeless Services Hotline",
     "category": "Shelter",

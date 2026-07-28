@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-218403",
+    "name": "The Salvation Army - N College St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "406 N College St",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "phone": "(704) 332-1171",
+    "hours": "",
+    "lat": 35.22773,
+    "lng": -80.8447,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222729",
+    "name": "Second Harvest Food Bank of Metrolina",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "500 Spratt St.",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28206",
+    "phone": "(794) 376-1785",
+    "hours": "",
+    "lat": 35.2385406,
+    "lng": -80.8390427,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-781",
+    "name": "Loaves and Fishes Charlotte",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "648 E 10th St",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "phone": "(704) 523-4333",
+    "hours": "",
+    "lat": 35.2214,
+    "lng": -80.8364,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-186010",
+    "name": "Catholic Charities",
+    "category": "Food",
+    "description": "Food pantry location in Mecklenburg County",
+    "address": "1123 S Church Street",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28203",
+    "phone": "",
+    "hours": "",
+    "lat": 35.22067,
+    "lng": -80.85426,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198163",
+    "name": "Urban Ministry Center",
+    "category": "Food",
+    "description": "Soup kitchen location providing daily meal service",
+    "address": "945 N. College St.",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28209",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2340722,
+    "lng": -80.8327835,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211676",
+    "name": "Roof Above",
+    "category": "Food",
+    "description": "Soup kitchen location providing hot meals",
+    "address": "945 N College Street",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28209",
+    "phone": "",
+    "hours": "",
+    "lat": 35.23381,
+    "lng": -80.833,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183346",
+    "name": "CAM - Crisis Assistance Ministry of Charlotte",
+    "category": "Food",
+    "description": "Main office and food distribution location",
+    "address": "500a Spratt Street",
+    "city": "Lockwood",
+    "state": "NC",
+    "zip": "28206",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2384169,
+    "lng": -80.8375891,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189433",
+    "name": "Optimist Hall",
+    "category": "Food",
+    "description": "Optimist Hall food distribution location",
+    "address": "1115 North Brevard Street",
+    "city": "Optimist Park",
+    "state": "NC",
+    "zip": "28206",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2337605,
+    "lng": -80.8277624,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195898",
+    "name": "Charlotte Rescue Mission - Center City Location",
+    "category": "Food",
+    "description": "Main distribution location for Charlotte Rescue Mission in Charlotte center city.",
+    "address": "915 West 1st Street",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "phone": "",
+    "hours": "",
+    "lat": 35.229507,
+    "lng": -80.8563745,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196122",
+    "name": "Greater Mount Moriah Soup Kitchen",
+    "category": "Food",
+    "description": "Soup kitchen location at 727 W. Trade St., Charlotte, NC",
+    "address": "727 West Trade Street",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "phone": "",
+    "hours": "",
+    "lat": 35.232417,
+    "lng": -80.8499309,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200878",
+    "name": "Charlotte Area Fund Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location in Charlotte",
+    "address": "901 N. Tryon St.",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28206",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2339059,
+    "lng": -80.8347946,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201634",
+    "name": "Queen City Nerve - Main Location",
+    "category": "Food",
+    "description": "Main distribution location",
+    "address": "332 West Bland Street",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28203",
+    "phone": "",
+    "hours": "",
+    "lat": 35.220198,
+    "lng": -80.85815869999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-charlotte-shelter",
     "name": "Charlotte Homeless Services Hotline",
     "category": "Shelter",

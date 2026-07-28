@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-131066",
+    "name": "Arlington County",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1426 NORTH QUINCY ST",
+    "city": "ARLINGTON",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "(703) 228-6010",
+    "hours": "",
+    "lat": 38.888512,
+    "lng": -77.108001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-220999",
+    "name": "La Cocina VA",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1500 N. Glebe Rd",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22207",
+    "phone": "(571) 435-3785",
+    "hours": "",
+    "lat": 38.8890266,
+    "lng": -77.1193542,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-715",
+    "name": "Capital Area Food Bank Arlington",
+    "category": "Food",
+    "description": "Northern VA",
+    "address": "4900 Puerto Rico Ave NE",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22203",
+    "phone": "(202) 644-9800",
+    "hours": "",
+    "lat": 38.8814,
+    "lng": -77.0914,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-187246",
+    "name": "Arlington Food Assistance Center at Gates of Ballston CC",
+    "category": "Food",
+    "description": "Food distribution location at Gates of Ballston Community Center",
+    "address": "4108 N. 4th St.",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22203",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8748348,
+    "lng": -77.1074802,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13938",
+    "name": "Corrine's Kitchen Free Meal at Arlington Assembly of God",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "4501 N. Pershing Drive",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22203",
+    "phone": "(703) 524-1667",
+    "hours": "",
+    "lat": 38.87377,
+    "lng": -77.1164,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-172049",
+    "name": "Arlington Presbyterian Church",
+    "category": "Food",
+    "description": "Arlington Presbyterian Church located on South Lincoln Street in Alcova Heights, Virginia.",
+    "address": "918 South Lincoln Street",
+    "city": "Alcova Heights",
+    "state": "VA",
+    "zip": "22204",
+    "phone": "(703) 920-5660",
+    "hours": "",
+    "lat": 38.8615365,
+    "lng": -77.0932588,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172317",
+    "name": "Park Shirlington Apartments",
+    "category": "Food",
+    "description": "Food distribution location at Park Shirlington Apartments",
+    "address": "4510 31st Street South",
+    "city": "Shirlington",
+    "state": "VA",
+    "zip": "22206",
+    "phone": "(202) 210-7025",
+    "hours": "",
+    "lat": 38.8375063,
+    "lng": -77.09320910000001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173159",
+    "name": "Willston Multicultural Center",
+    "category": "Food",
+    "description": "Willston Multicultural Center located in Falls Church, VA.",
+    "address": "6131 Willston Drive",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22044",
+    "phone": "(703) 239-3575",
+    "hours": "",
+    "lat": 38.8703797,
+    "lng": -77.14884579999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-219874",
+    "name": "Virginia Medical and food pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3534 Carlin Springs rd #11",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22041",
+    "phone": "(703) 436-1626",
+    "hours": "",
+    "lat": 38.847908,
+    "lng": -77.1246109,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220313",
+    "name": "The Pantry @ Bon Air",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 N. Illinois St",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22205",
+    "phone": "(703) 525-8079",
+    "hours": "",
+    "lat": 38.8755455,
+    "lng": -77.1269989,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222394",
+    "name": "Spend Yourself Food Pantry, Columbia Baptist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3245 Glen Carlyn Road",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22041",
+    "phone": "(703) 820-6910",
+    "hours": "",
+    "lat": 38.8578186,
+    "lng": -77.1384964,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223440",
+    "name": "Arlington Food Assistance Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2708 S. Nelson Street",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22206",
+    "phone": "(703) 845-8486",
+    "hours": "",
+    "lat": 38.8435669,
+    "lng": -77.0893631,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fallback-arlington-va-shelter",
     "name": "Arlington Homeless Services Hotline",
     "category": "Shelter",

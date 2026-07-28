@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-172179",
+    "name": "Robert Saunders Library - Metropolitan Ministries",
+    "category": "Food",
+    "description": "Food distribution location at Robert Saunders Library",
+    "address": "1505 North Nebraska Avenue",
+    "city": "Ybor City",
+    "state": "FL",
+    "zip": "33605",
+    "phone": "(813) 209-1044",
+    "hours": "",
+    "lat": 27.9581946,
+    "lng": -82.45077599999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173744",
+    "name": "HABITAT FOR HUMANITY HILLSBOROUGH - Downtown",
+    "category": "Food",
+    "description": "Main location for Habitat for Humanity Hillsborough providing affordable housing services",
+    "address": "509 East Jackson Street",
+    "city": "Downtown",
+    "state": "FL",
+    "zip": "33602",
+    "phone": "(727) 656-4141",
+    "hours": "",
+    "lat": 27.9474958,
+    "lng": -82.45520479999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-325",
+    "name": "Catholic Charities - Tampa",
+    "category": "Food",
+    "description": "Hillsborough County",
+    "address": "1625 E 7th Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33605",
+    "phone": "(813) 631-4370",
+    "hours": "",
+    "lat": 27.9633,
+    "lng": -82.4483,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-219268",
+    "name": "Revival Ministries",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3738 River Int'l Drive",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33610",
+    "phone": "(813) 464-4462",
+    "hours": "",
+    "lat": 27.9494362,
+    "lng": -82.4651413,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223241",
+    "name": "Cornerstone Kids, Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2078 North Central Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33602",
+    "phone": "(813) 293-1284",
+    "hours": "",
+    "lat": 27.9633009,
+    "lng": -82.4555427,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-206626",
+    "name": "St. Peter Claver - St. Vincent De Paul",
+    "category": "Food",
+    "description": "Food pantry location at St. Peter Claver - St. Vincent De Paul in Tampa, FL.",
+    "address": "1203 North Nebraska Avenue",
+    "city": "Ybor City",
+    "state": "FL",
+    "zip": "33602",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9553984,
+    "lng": -82.4507972,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-209787",
+    "name": "LIGHTHOUSE MINISTRIES-TAMPA",
+    "category": "Food",
+    "description": "Case Management and Resources center located in Ybor City providing case management, GED prep, career and financial management, and food distribution. Will meet based on client comfort level.",
+    "address": "1502 East 2nd Avenue",
+    "city": "Ybor City",
+    "state": "FL",
+    "zip": "33605",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9569296,
+    "lng": -82.44264989999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210134",
+    "name": "St. Andrew's Episcopal",
+    "category": "Food",
+    "description": "St. Andrew's Episcopal food distribution location in Downtown Tampa.",
+    "address": "509 East Twiggs Street",
+    "city": "Downtown",
+    "state": "FL",
+    "zip": "33602",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9496208,
+    "lng": -82.45650499999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226264",
+    "name": "Junior League of Tampa Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Tampa, FL",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33601",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9530012,
+    "lng": -82.4612975,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-178883",
+    "name": "Palm Ave Baptist Tower Inc.",
+    "category": "Food",
+    "description": "Main distribution location for Palm Ave Baptist Tower Inc.",
+    "address": "215 East Palm Avenue",
+    "city": "Tampa Heights",
+    "state": "FL",
+    "zip": "33602",
+    "phone": "",
+    "hours": "",
+    "lat": 27.961681,
+    "lng": -82.4586501,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180753",
+    "name": "Rise Tampa",
+    "category": "Food",
+    "description": "Rise Tampa food distribution location in Tampa, Florida. Affiliated with Feeding Tampa Bay.",
+    "address": "411 N Franklin St",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33602",
+    "phone": "",
+    "hours": "",
+    "lat": 27.948375,
+    "lng": -82.457779,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189098",
+    "name": "HARTPLUS PARATRANSIT",
+    "category": "Food",
+    "description": "HARTPLUS PARATRANSIT office and service location",
+    "address": "1201 East 7th Avenue",
+    "city": "Ybor City",
+    "state": "FL",
+    "zip": "33605",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9597748,
+    "lng": -82.446407,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-tampa-shelter",
     "name": "Tampa Homeless Services Hotline",
     "category": "Shelter",

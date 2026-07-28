@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-401",
+    "name": "Los Angeles Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "303 E 5th St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "(213) 629-1227",
+    "hours": "",
+    "lat": 34.0461,
+    "lng": -118.2461,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-128589",
+    "name": "Los Angeles Unified School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "333 SOUTH BEAUDRY AVE",
+    "city": "LOS ANGELES",
+    "state": "CA",
+    "zip": "90017",
+    "phone": "(213) 241-1000",
+    "hours": "",
+    "lat": 34.056312,
+    "lng": -118.258308,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-400",
+    "name": "St. Vincent de Paul Center",
+    "category": "Food",
+    "description": "LA County residents",
+    "address": "210 W 6th St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90014",
+    "phone": "(213) 629-1252",
+    "hours": "",
+    "lat": 34.0461,
+    "lng": -118.2511,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-402",
+    "name": "Midnight Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "601 S San Pedro St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90014",
+    "phone": "(213) 624-9258",
+    "hours": "",
+    "lat": 34.0411,
+    "lng": -118.2461,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-576604",
+    "name": "Our Lady Queen of Angels Catholic Church",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "535 North Main Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90012",
+    "phone": "(213) 629-3101",
+    "hours": "",
+    "lat": 34.0571561,
+    "lng": -118.2397573,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-576605",
+    "name": "Fred Jordan Mission",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "445 Towne Avenue",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "(213) 489-7763",
+    "hours": "",
+    "lat": 34.0433591,
+    "lng": -118.2420051,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-219607",
+    "name": "Fred Jordan Missions",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "445 Towne Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "(626) 712-3794",
+    "hours": "",
+    "lat": 34.0433235,
+    "lng": -118.2419052,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219894",
+    "name": "5 breads and 2 fish",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "520 e 5th st.",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "(818) 303-6443",
+    "hours": "",
+    "lat": 34.0436134,
+    "lng": -118.2434464,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223358",
+    "name": "US Vets Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "512 South Main Sreet",
+    "city": "Los Angles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "(626) 277-3457",
+    "hours": "",
+    "lat": 34.0461251,
+    "lng": -118.2486193,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225957",
+    "name": "Los Angeles Catholic Worker",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "821 E 6th St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90021",
+    "phone": "(213) 614-9615",
+    "hours": "",
+    "lat": 34.0405693,
+    "lng": -118.2420273,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-169813",
+    "name": "Journey of Love",
+    "category": "Food",
+    "description": "2nd Tuesday 6 pm - 7 pm",
+    "address": "423 S San Pedro",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "(562) 547-9821",
+    "hours": "",
+    "lat": 34.045303,
+    "lng": -118.243532,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-169939",
+    "name": "Open Door Skidrow Ministries",
+    "category": "Food",
+    "description": "Sunday 11 am - 12 pm",
+    "address": "419 E. 6th Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90014",
+    "phone": "(661) 208-2143",
+    "hours": "",
+    "lat": 34.042545,
+    "lng": -118.245461,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fallback-los-angeles-shelter",
     "name": "Los Angeles Homeless Services Hotline",
     "category": "Shelter",

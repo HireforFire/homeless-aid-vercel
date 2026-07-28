@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-128609",
+    "name": "Modesto City Elementary School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "426 LOCUST ST",
+    "city": "MODESTO",
+    "state": "CA",
+    "zip": "95356",
+    "phone": "(209) 576-4011",
+    "hours": "",
+    "lat": 37.63963,
+    "lng": -121.013645,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-453",
+    "name": "Modesto Gospel Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1400 Yosemite Blvd",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "(209) 529-8259",
+    "hours": "",
+    "lat": 37.6461,
+    "lng": -121.0061,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-223900",
+    "name": "MoPride's People's Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "400 12th Street suite 2",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "(209) 567-2124",
+    "hours": "",
+    "lat": 37.63699,
+    "lng": -120.9918443,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-190015",
+    "name": "SDA Modesto Central - Church Office",
+    "category": "Food",
+    "description": "Church office address for SDA Modesto Central",
+    "address": "1614 H Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.64307,
+    "lng": -120.99173,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190257",
+    "name": "Salvation Army Social Services - Modesto",
+    "category": "Food",
+    "description": "Food pantry location providing emergency food assistance",
+    "address": "601 Ninth Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.635915,
+    "lng": -120.9966779,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190447",
+    "name": "Victory in Praise",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "720 G Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6357893,
+    "lng": -120.9987,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196193",
+    "name": "United Pentecostal Church",
+    "category": "Food",
+    "description": "Food distribution location at United Pentecostal Church",
+    "address": "825 7th Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6369362,
+    "lng": -121.0018812,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201208",
+    "name": "Parent Resource Center",
+    "category": "Food",
+    "description": "Main location of Parent Resource Center",
+    "address": "811 5th Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95351",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6352117,
+    "lng": -121.003539,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214765",
+    "name": "The Father's House",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "346 Burney Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6431402,
+    "lng": -120.988592,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175238",
+    "name": "Ceres Partnership",
+    "category": "Food",
+    "description": "Ceres Partnership family resource center location",
+    "address": "1317 Grandview Ave",
+    "city": "Ceres",
+    "state": "CA",
+    "zip": "95307",
+    "phone": "(209) 541-0101",
+    "hours": "",
+    "lat": 37.607105,
+    "lng": -120.97354229999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218549",
+    "name": "The Salvation Army - 9Th Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "320 9th Street",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95351",
+    "phone": "(209) 525-8954",
+    "hours": "",
+    "lat": 37.6236,
+    "lng": -120.99828,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223862",
+    "name": "MJC Pirates' Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2201 Blue Gum Ave",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95358",
+    "phone": "(209) 575-7902",
+    "hours": "",
+    "lat": 37.6627211,
+    "lng": -121.0354933,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fallback-modesto-shelter",
     "name": "Modesto Homeless Services Hotline",
     "category": "Shelter",

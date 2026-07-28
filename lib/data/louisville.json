@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-217750",
+    "name": "The Salvation Army - S Brook St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "911 S Brook St",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 671-4900",
+    "hours": "",
+    "lat": 38.24722,
+    "lng": -85.765,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220443",
+    "name": "Presbyterian Community Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "701 S. Hancock Street",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 584-0201",
+    "hours": "",
+    "lat": 38.2449646,
+    "lng": -85.7435684,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223093",
+    "name": "First Lutheran Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "417 East Broadway",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40202",
+    "phone": "(502) 584-4926",
+    "hours": "",
+    "lat": 38.2452698,
+    "lng": -85.7472153,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223551",
+    "name": "JFCS Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2821 Klempner Way",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40205",
+    "phone": "(502) 452-6341",
+    "hours": "",
+    "lat": 38.2526665,
+    "lng": -85.7584534,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223554",
+    "name": "Department for Community Based Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "908 W. Broadway",
+    "city": "3 West, Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 724-6906",
+    "hours": "",
+    "lat": 38.2466993,
+    "lng": -85.7672411,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-210240",
+    "name": "Franciscan Kitchen",
+    "category": "Food",
+    "description": "Franciscan Kitchen lunch program location",
+    "address": "748 S. Prestion St.",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "",
+    "hours": "",
+    "lat": 38.243301,
+    "lng": -85.7481781,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179025",
+    "name": "Wayside Christian Mission - Main Location",
+    "category": "Food",
+    "description": "Main distribution location for Wayside Christian Mission food assistance services.",
+    "address": "432 E. Jefferson St.",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40202",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2521306,
+    "lng": -85.7449128,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-5743",
+    "name": "Dare To Care Food Bank at First Lutheran Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "417 E Broadway",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40202",
+    "phone": "(502) 584-4926",
+    "hours": "",
+    "lat": 38.25288,
+    "lng": -85.75205,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-5746",
+    "name": "Hands of God Outreach Ministry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1942 Magazine Street",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 776-7173",
+    "hours": "",
+    "lat": 38.24722,
+    "lng": -85.765,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-172477",
+    "name": "Baxter Avenue Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Baxter Avenue Baptist Church",
+    "address": "522 Baxter Ave.",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40204",
+    "phone": "(502) 583-4123",
+    "hours": "",
+    "lat": 38.246878,
+    "lng": -85.7299457,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173230",
+    "name": "Walnut Street Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Walnut Street Baptist Church",
+    "address": "220 W. St. Catherine",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 589-3454",
+    "hours": "",
+    "lat": 38.2370182,
+    "lng": -85.7577243,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175081",
+    "name": "Generation Church",
+    "category": "Food",
+    "description": "Food distribution location at Generation Church",
+    "address": "334 E. Oak Street",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 930-3050",
+    "hours": "",
+    "lat": 38.2338758,
+    "lng": -85.7498007,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-louisville-shelter",
     "name": "Louisville Homeless Services Hotline",
     "category": "Shelter",

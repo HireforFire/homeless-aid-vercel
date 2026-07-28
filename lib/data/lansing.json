@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-129705",
+    "name": "Lansing Public School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "519 WEST KALAMAZOO ST",
+    "city": "LANSING",
+    "state": "MI",
+    "zip": "48911",
+    "phone": "(517) 755-1010",
+    "hours": "",
+    "lat": 42.730035,
+    "lng": -84.559279,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-220203",
+    "name": "Loaves and Fishes Ministries",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "831 North Sycamore",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48917",
+    "phone": "(517) 482-2099",
+    "hours": "",
+    "lat": 42.7432747,
+    "lng": -84.5620651,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223666",
+    "name": "Northwest Initiative",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "510 W.  Ottawa Street 2nd floor",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48933",
+    "phone": "(517) 999-2894",
+    "hours": "",
+    "lat": 42.7350685,
+    "lng": -84.5590305,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224648",
+    "name": "NorthWest Initiative Food Distribution Program",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "510 W. Ottawa St.",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48933",
+    "phone": "(517) 999-2894",
+    "hours": "",
+    "lat": 42.7350693,
+    "lng": -84.5590286,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225336",
+    "name": "Letts Community Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1220 W. Kalamazoo St.",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48915",
+    "phone": "(517) 483-4311",
+    "hours": "",
+    "lat": 42.7304649,
+    "lng": -84.5711441,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225338",
+    "name": "Volunteers of America",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "430 N. Larch",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48912",
+    "phone": "(517) 484-4414",
+    "hours": "",
+    "lat": 42.7382545,
+    "lng": -84.5440826,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225339",
+    "name": "Advent House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "743 North Martin Luther King",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48915",
+    "phone": "(517) 485-4722",
+    "hours": "",
+    "lat": 42.7424088,
+    "lng": -84.5679016,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225354",
+    "name": "Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "525 N. Pennsylvania",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48912",
+    "phone": "(517) 484-4424",
+    "hours": "",
+    "lat": 42.7384796,
+    "lng": -84.5384445,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225355",
+    "name": "Central United Methodist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "215 N. Capitol",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48933",
+    "phone": "(517) 485-9477",
+    "hours": "",
+    "lat": 42.7348251,
+    "lng": -84.5540771,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-226019",
+    "name": "National Council on Alcoholism",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "MUST CALL FIRST",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48910",
+    "phone": "(517) 887-0226",
+    "hours": "",
+    "lat": 42.7325363,
+    "lng": -84.5555344,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-129624",
+    "name": "El-Hajj Malik El-Shabazz Academy",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1028 WEST BARNES AVE",
+    "city": "LANSING",
+    "state": "MI",
+    "zip": "48910",
+    "phone": "(517) 267-8474",
+    "hours": "",
+    "lat": 42.715535,
+    "lng": -84.566679,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-224591",
+    "name": "Bethlehem Temple Bread House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1518 S. Washington",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48910",
+    "phone": "(517) 485-4209",
+    "hours": "",
+    "lat": 42.7164078,
+    "lng": -84.5535202,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fallback-lansing-shelter",
     "name": "Lansing Homeless Services Hotline",
     "category": "Shelter",

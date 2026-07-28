@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-174271",
+    "name": "Wellspring Interfaith Social Services Food Bank",
+    "category": "Food",
+    "description": "Main food bank location providing food pantry and clothing services in Fort Wayne, Indiana.",
+    "address": "1316 Broadway",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46802",
+    "phone": "(260) 422-6618",
+    "hours": "",
+    "lat": 41.0730593,
+    "lng": -85.1481795,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178787",
+    "name": "St. Patrick's Catholic Church",
+    "category": "Food",
+    "description": "Food pantry location at St. Patrick's Catholic Church.",
+    "address": "2120 S. Harrison St.",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46802",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0657655,
+    "lng": -85.1395804,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178834",
+    "name": "Trinity UMC Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Trinity United Methodist Church",
+    "address": "609 Putnam St.",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46808",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0912639,
+    "lng": -85.1487872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180568",
+    "name": "Wayne Township Trustee Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location in Fort Wayne",
+    "address": "320 E. Superior St.",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46802",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0827637,
+    "lng": -85.1361869,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-213408",
+    "name": "East Wayne Street Center",
+    "category": "Food",
+    "description": "Main food distribution center",
+    "address": "801 E Wayne St",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46803",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0800552,
+    "lng": -85.1275558,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214563",
+    "name": "St. Mary's Soup Kitchen",
+    "category": "Food",
+    "description": "Soup kitchen location at Lafayette Street",
+    "address": "1101 Lafayette St.",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46802",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0766383,
+    "lng": -85.1333909,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184432",
+    "name": "Body of Christ 7th Day Adventist - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Fort Wayne",
+    "address": "1902 S Hanna St",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46803",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0684956,
+    "lng": -85.128802,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187057",
+    "name": "Turner Chapel AME Church",
+    "category": "Food",
+    "description": "Turner Chapel AME Church soup kitchen location",
+    "address": "836 E Jefferson Blvd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46803",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0775153,
+    "lng": -85.1262586,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189631",
+    "name": "Bright Point - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Fort Wayne.",
+    "address": "227 E Washington Blvd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46802",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0779017,
+    "lng": -85.136349,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190724",
+    "name": "Friends Of The Third World - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Fort Wayne, Indiana.",
+    "address": "611 W Wayne St",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46802",
+    "phone": "",
+    "hours": "",
+    "lat": 41.076712,
+    "lng": -85.147342,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204045",
+    "name": "Headwaters Church",
+    "category": "Food",
+    "description": "Mobile food pantry distribution location at Headwaters Church",
+    "address": "2000 N. Wells St.",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46808",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0928069,
+    "lng": -85.143718,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173199",
+    "name": "Saint Matthew Lutheran Church - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center at Saint Matthew Lutheran Church",
+    "address": "2305 Goshen Rd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46808",
+    "phone": "(260) 483-9312",
+    "hours": "",
+    "lat": 41.1094237,
+    "lng": -85.17233039999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-fort-wayne-shelter",
     "name": "Fort Wayne Homeless Services Hotline",
     "category": "Shelter",

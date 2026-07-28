@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-178715",
+    "name": "CMHA Lakeview",
+    "category": "Food",
+    "description": "Food distribution location at 2700 Washington Ave, Cleveland, OH.",
+    "address": "2700 Washington Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44113",
+    "phone": "",
+    "hours": "",
+    "lat": 41.492146636123,
+    "lng": -81.710033939085,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220980",
+    "name": "Needs Cleveland",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "7710 Lorain Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44102",
+    "phone": "(216) 400-8213",
+    "hours": "",
+    "lat": 41.4725189,
+    "lng": -81.7373581,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-667",
+    "name": "West Side Catholic Center",
+    "category": "Food",
+    "description": "West Side",
+    "address": "3135 Lorain Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44113",
+    "phone": "(216) 631-4741",
+    "hours": "",
+    "lat": 41.4814,
+    "lng": -81.7214,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-762",
+    "name": "East Side Catholic Community",
+    "category": "Food",
+    "description": "East Cleveland",
+    "address": "1860 E 30th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44114",
+    "phone": "(216) 881-8888",
+    "hours": "",
+    "lat": 41.4914,
+    "lng": -81.6514,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-175818",
+    "name": "Hunger Network",
+    "category": "Food",
+    "description": "Main food pantry location",
+    "address": "4415 Euclid Ave Suite 100",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44103",
+    "phone": "",
+    "hours": "",
+    "lat": 41.504357225031,
+    "lng": -81.656035539534,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176708",
+    "name": "Friendly Inn Settlement",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "2386 Unwin Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44104",
+    "phone": "",
+    "hours": "",
+    "lat": 41.494170027549,
+    "lng": -81.654049531396,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177984",
+    "name": "Corinthian Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Corinthian Baptist Church",
+    "address": "1643 E 55th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44103",
+    "phone": "",
+    "hours": "",
+    "lat": 41.514141085331,
+    "lng": -81.65149455967,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-11541",
+    "name": "Calvary Presbyterian Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2020 E 79th St.",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44103",
+    "phone": "(216) 391-8448",
+    "hours": "",
+    "lat": 41.51559,
+    "lng": -81.64301,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-11567",
+    "name": "Pilgrim Congregational United Church of Christ",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2592 W 14th Street",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44113",
+    "phone": "(216) 861-7388",
+    "hours": "",
+    "lat": 41.48343,
+    "lng": -81.69638,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-11569",
+    "name": "Old Stone Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "91 Public Sq.",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44113",
+    "phone": "(216) 241-6145",
+    "hours": "",
+    "lat": 41.48343,
+    "lng": -81.69638,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-11577",
+    "name": "Manna House Recovery and Resource Center",
+    "category": "Food",
+    "description": "proof of address",
+    "address": "8019 Cedar Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44103",
+    "phone": "(216) 432-2598",
+    "hours": "",
+    "lat": 41.51559,
+    "lng": -81.64301,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226296",
+    "name": "The Diaper Bank of Greater Cleveland",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Cleveland, OH",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44101",
+    "phone": "",
+    "hours": "",
+    "lat": 41.48988,
+    "lng": -81.6717,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
     "id": "fallback-cleveland-shelter",
     "name": "Cleveland Homeless Services Hotline",
     "category": "Shelter",

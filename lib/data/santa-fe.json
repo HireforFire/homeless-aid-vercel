@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-210691",
+    "name": "Soup Kitchen",
+    "category": "Food",
+    "description": "Soup kitchen location providing hot and cold prepared meals",
+    "address": "417 Agua Fria St.",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6870235,
+    "lng": -105.9458047,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180468",
+    "name": "Saint Elizabeth's Shelter- Men's Emergency Shelter",
+    "category": "Food",
+    "description": "Men's emergency shelter location providing shelter services and food programs",
+    "address": "804 Alarid St.",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87505",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6796356,
+    "lng": -105.9529336,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181465",
+    "name": "Garcia Street Club Student Pantry",
+    "category": "Food",
+    "description": "Student food pantry providing pre-packed boxes/bags and diapers",
+    "address": "569 Garcia St.",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87505",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6780178,
+    "lng": -105.9316944,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188784",
+    "name": "Gonzales Community School Student Pantry",
+    "category": "Food",
+    "description": "Student food pantry at Gonzales Community School",
+    "address": "851 W Alameda St",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6897535,
+    "lng": -105.9558615,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172355",
+    "name": "La Familia Medical Center Food Mobile",
+    "category": "Food",
+    "description": "Mobile food distribution service at La Familia Medical Center location. Parking available. Serves English and Spanish-speaking populations.",
+    "address": "1035 Alto St",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "phone": "(505) 471-1633",
+    "hours": "",
+    "lat": 35.6862379,
+    "lng": -105.9600044,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182780",
+    "name": "Bag 'n Hand Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location providing drive-thru and food distribution services",
+    "address": "1200 Old Pecos Trail",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87505",
+    "phone": "",
+    "hours": "",
+    "lat": 35.67145,
+    "lng": -105.9364,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191398",
+    "name": "Catholic Charities - Santa Fe",
+    "category": "Food",
+    "description": "Main food pantry location. Handicapped accessible facility.",
+    "address": "1234 San Felipe Ave.",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87505",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6653654,
+    "lng": -105.9748568,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195034",
+    "name": "Bienvenidos Outreach",
+    "category": "Food",
+    "description": "Indoor garden and special diet food boxes are available at this Location.",
+    "address": "1511 5th St",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87505",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6640203,
+    "lng": -105.9712271,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180572",
+    "name": "Sangre De Cristo Apartments",
+    "category": "Food",
+    "description": "Mobile food pantry distribution site at Sangre De Cristo Apartments. Location serves residents of this facility only.",
+    "address": "1801 Espinacitas St.",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87505",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6617635,
+    "lng": -105.9670042,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183033",
+    "name": "Consuelo's Place Emergency Homeless Shelter",
+    "category": "Food",
+    "description": "Midtown Shelter - emergency homeless shelter providing noncongregate shelter, case management, and food services.",
+    "address": "1600 St Michaels Dr Building 7",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87505",
+    "phone": "",
+    "hours": "",
+    "lat": 35.65546,
+    "lng": -105.97576,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183611",
+    "name": "Aspen Community School Student Pantry",
+    "category": "Food",
+    "description": "Student food pantry located at Aspen Community School serving enrolled students.",
+    "address": "450 La Madera St",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6842594,
+    "lng": -105.9625529,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191409",
+    "name": "Big Brothers Big Sisters Santa Fe",
+    "category": "Food",
+    "description": "Food pantry location in Santa Fe serving Santa Fe County residents.",
+    "address": "1229 S St. Francis Dr.",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87505",
+    "phone": "",
+    "hours": "",
+    "lat": 35.6690106,
+    "lng": -105.9548178,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-santa-fe-shelter",
     "name": "Santa Fe Homeless Services Hotline",
     "category": "Shelter",

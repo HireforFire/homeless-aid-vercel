@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-130145",
+    "name": "MEDIA ARTS COLLABORATIVE CHARTER SCHOOL",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "4401 CENTRAL AVE N.E.",
+    "city": "ALBUQUERQUE",
+    "state": "NM",
+    "zip": "87108",
+    "phone": "(505) 243-1957",
+    "hours": "",
+    "lat": 35.078847,
+    "lng": -106.59528,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-220446",
+    "name": "The Joe and Jean Travis Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "625 Truman NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87110",
+    "phone": "(505) 938-7143",
+    "hours": "",
+    "lat": 35.0888443,
+    "lng": -106.5878143,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-204189",
+    "name": "Campus Lobo Food Pantry - Advisement and Enrichment Center",
+    "category": "Food",
+    "description": "Food pantry located in the Advisement and Enrichment Center, SUB Room 1093. Handicapped accessible.",
+    "address": "Advisement and Enrichment Center, SUB Room 1093",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87131",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0842892,
+    "lng": -106.6184843,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184908",
+    "name": "Ancora Transitional Services",
+    "category": "Food",
+    "description": "Main location for Ancora Transitional Services providing hot and cold meal programs.",
+    "address": "146 Quincy St.",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87108",
+    "phone": "",
+    "hours": "",
+    "lat": 35.079836,
+    "lng": -106.5899017,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185265",
+    "name": "UNM - Lobo Food Pantry",
+    "category": "Food",
+    "description": "The University of New Mexico food pantry location.",
+    "address": "The University of New Mexico; 1",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87131",
+    "phone": "",
+    "hours": "",
+    "lat": 35.08343,
+    "lng": -106.61975,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187861",
+    "name": "Coral Community Charter School (CHI12)",
+    "category": "Food",
+    "description": "Pop-up/mobile food distribution location at Coral Community Charter School",
+    "address": "4401 Silver Ave SE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87108",
+    "phone": "",
+    "hours": "",
+    "lat": 35.077163,
+    "lng": -106.595197,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190899",
+    "name": "Highland High School",
+    "category": "Food",
+    "description": "Pop-up/mobile food distribution location",
+    "address": "4700 Coal Avenue SE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87108",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0755847,
+    "lng": -106.5914877,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198771",
+    "name": "Our Lady of Fatima Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "4020 Lomas Blvd. NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87110",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0863178,
+    "lng": -106.5994293,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201251",
+    "name": "Jefferson Middle School",
+    "category": "Food",
+    "description": "Food distribution location at Jefferson Middle School",
+    "address": "712 Girard NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.088264,
+    "lng": -106.6116375,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174722",
+    "name": "The Cathedral of St. John",
+    "category": "Food",
+    "description": "Food pantry location serving Southwest Albuquerque residents. Handicapped accessible.",
+    "address": "318 Silver Ave. SW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87102",
+    "phone": "505-247-1581 ext. 101",
+    "hours": "",
+    "lat": 35.0822185,
+    "lng": -106.6518349,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130119",
+    "name": "ALBUQUERQUE ACADEMY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "6400 UPTOWN BLVD NE",
+    "city": "ALBUQUERQUE",
+    "state": "NM",
+    "zip": "87109",
+    "phone": "(505) 855-9040",
+    "hours": "",
+    "lat": 35.102846,
+    "lng": -106.57328,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-130120",
+    "name": "ALBUQUERQUE PUBLIC SCHOOLS",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "6400 UPTOWN BLVD NE",
+    "city": "ALBUQUERQUE",
+    "state": "NM",
+    "zip": "87108",
+    "phone": "(505) 855-9040",
+    "hours": "",
+    "lat": 35.102846,
+    "lng": -106.57328,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fallback-albuquerque-shelter",
     "name": "Albuquerque Homeless Services Hotline",
     "category": "Shelter",

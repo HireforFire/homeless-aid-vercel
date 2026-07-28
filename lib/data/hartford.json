@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-576702",
+    "name": "End Hunger Connecticut",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "65 Hungerford Street",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06106",
+    "phone": "(860) 560-2100",
+    "hours": "",
+    "lat": 41.7615534,
+    "lng": -72.6856892,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-128887",
+    "name": "CREC",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "111 CHARTER OAK AVE",
+    "city": "HARTFORD",
+    "state": "CT",
+    "zip": "06106",
+    "phone": "(860) 524-4063",
+    "hours": "",
+    "lat": 41.7585,
+    "lng": -72.667837,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-219597",
+    "name": "Village Community Life Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "131 Wethersfield Av.",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06114",
+    "phone": "(860) 236-4511",
+    "hours": "",
+    "lat": 41.7522659,
+    "lng": -72.6742325,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220403",
+    "name": "The Salvation Army Hartford Citadel",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "225 Washington St",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06106",
+    "phone": "(860) 543-8413",
+    "hours": "",
+    "lat": 41.7554932,
+    "lng": -72.6826248,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222365",
+    "name": "Family Life Education Community Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "57 Charter Oak Ave - Suite A",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06106",
+    "phone": "(860) 231-7744",
+    "hours": "",
+    "lat": 41.7586594,
+    "lng": -72.6713333,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222636",
+    "name": "Latino Community Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "184 Wethersfield Avenue",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06114",
+    "phone": "(860) 296-6400",
+    "hours": "",
+    "lat": 41.750885,
+    "lng": -72.6735992,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224872",
+    "name": "VFC-Burns Family Resource Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "195 Putnam St. Rm.115",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06106",
+    "phone": "(860) 695-2994",
+    "hours": "",
+    "lat": 41.7608833,
+    "lng": -72.6915283,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-175411",
+    "name": "Cathedral of St. Joseph",
+    "category": "Food",
+    "description": "Cathedral of St. Joseph main location",
+    "address": "140 Farmington Ave",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06105",
+    "phone": "",
+    "hours": "",
+    "lat": 41.768232906129,
+    "lng": -72.691710541347,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-209309",
+    "name": "Cathedral of St. Joseph - Back Parking Lot",
+    "category": "Food",
+    "description": "Mobile food pantry distribution site at Cathedral of St. Joseph back parking lot",
+    "address": "809 Asylum Ave.",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06105",
+    "phone": "",
+    "hours": "",
+    "lat": 41.7685825,
+    "lng": -72.6922297,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212263",
+    "name": "Church of the Good Shepherd",
+    "category": "Food",
+    "description": "Mobile food pantry distribution site at Church of the Good Shepherd in Hartford, CT.",
+    "address": "155 Wyllys St",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06106",
+    "phone": "",
+    "hours": "",
+    "lat": 41.7575638,
+    "lng": -72.6685718,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-3178",
+    "name": "Sacred Heart Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "49 Winthrop Street",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06103",
+    "phone": "(860) 527-6459",
+    "hours": "",
+    "lat": 41.76477,
+    "lng": -72.67012,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-180146",
+    "name": "VFC-Burns Family Resource Center - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center",
+    "address": "195 Putnam St",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06106",
+    "phone": "",
+    "hours": "",
+    "lat": 41.761249899999996,
+    "lng": -72.6909981,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-hartford-shelter",
     "name": "Hartford Homeless Services Hotline",
     "category": "Shelter",

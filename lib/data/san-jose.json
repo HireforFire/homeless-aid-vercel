@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-219680",
+    "name": "First Christian Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "80 S. 5th St",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "(408) 666-1303",
+    "hours": "",
+    "lat": 37.337059,
+    "lng": -121.8852997,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223433",
+    "name": "San Jose First Methodist Church - Open Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "24 N 5th Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "(408) 294-7254",
+    "hours": "",
+    "lat": 37.3386053,
+    "lng": -121.8861896,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224974",
+    "name": "Lighthouse Ministries",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "309 North 17th Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "(408) 492-1323",
+    "hours": "",
+    "lat": 37.3483145,
+    "lng": -121.8779411,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225231",
+    "name": "milpitas food pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "80 s market st",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95113",
+    "phone": "(408) 843-0257",
+    "hours": "",
+    "lat": 37.3339462,
+    "lng": -121.8907547,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-217118",
+    "name": "The Salvation Army - N 4Th Street Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "359 N. 4th Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "(408) 998-2064",
+    "hours": "",
+    "lat": 37.34461,
+    "lng": -121.88346,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-180351",
+    "name": "New Beginnings Family Services - San Jose",
+    "category": "Food",
+    "description": "Main food distribution location in San Jose.",
+    "address": "441 Park Ave",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95110",
+    "phone": "",
+    "hours": "",
+    "lat": 37.3283541,
+    "lng": -121.8979942,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192517",
+    "name": "African American Community Services",
+    "category": "Food",
+    "description": "Food distribution location at 304 North 6th Street, San Jose.",
+    "address": "304 North 6th Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "",
+    "hours": "",
+    "lat": 37.3434135,
+    "lng": -121.8883905,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193123",
+    "name": "Front Door Communities - South Tenth Street",
+    "category": "Food",
+    "description": "Main distribution location for ready-to-eat meals",
+    "address": "405 South Tenth Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "",
+    "hours": "",
+    "lat": 37.3338114,
+    "lng": -121.8777551,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-215398",
+    "name": "The Salvation Army - San Jose",
+    "category": "Food",
+    "description": "Food distribution site offering free groceries through drive-thru and walk-up service.",
+    "address": "359 N. 4th Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "",
+    "hours": "",
+    "lat": 37.343224,
+    "lng": -121.892192,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205209",
+    "name": "LifeSTEPS",
+    "category": "Food",
+    "description": "Main food distribution site for LifeSTEPS",
+    "address": "99 N. 1st St",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95113",
+    "phone": "",
+    "hours": "",
+    "lat": 37.337363,
+    "lng": -121.891868,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-206807",
+    "name": "C.O.M.E.",
+    "category": "Food",
+    "description": "C.O.M.E. food distribution site",
+    "address": "121 East San Salvador St.",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "",
+    "hours": "",
+    "lat": 37.331259,
+    "lng": -121.883716,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-180385",
+    "name": "African Amer Comm Srvcs Agcy",
+    "category": "Food",
+    "description": "Main distribution site for free groceries program",
+    "address": "304 North 6th Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "",
+    "hours": "",
+    "lat": 37.343239,
+    "lng": -121.888434,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-san-jose-shelter",
     "name": "San Jose Homeless Services Hotline",
     "category": "Shelter",

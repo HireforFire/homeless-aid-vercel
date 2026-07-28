@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-174475",
+    "name": "Brooks Worship Center",
+    "category": "Food",
+    "description": "Food pantry distribution location at Brooks Worship Center.",
+    "address": "2101 N. Port Ave.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "(361) 452-6864",
+    "hours": "",
+    "lat": 27.8048196,
+    "lng": -97.4102119,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177311",
+    "name": "CC Metro Ministries – Loaves & Fishes Sign Up Location",
+    "category": "Food",
+    "description": "Sign up location for meal service before each meal service",
+    "address": "1919 Leopard",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78408",
+    "phone": "(361) 882-3245",
+    "hours": "",
+    "lat": 27.79633674668,
+    "lng": -97.41160396366,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-180036",
+    "name": "Mobile Pantry at Elliot Grant Homes",
+    "category": "Food",
+    "description": "Mobile pantry distribution location at Elliot Grant Homes",
+    "address": "901 N. Alameda St.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "(361) 882-3245",
+    "hours": "",
+    "lat": 27.7990131,
+    "lng": -97.4044997,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-195422",
+    "name": "Salvation Army - Corpus Christi",
+    "category": "Food",
+    "description": "Salvation Army food distribution location in Corpus Christi, Texas",
+    "address": "1804 Buford St.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78404",
+    "phone": "(361) 882-3245",
+    "hours": "",
+    "lat": 27.795204,
+    "lng": -97.406654,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-211674",
+    "name": "CC Metro Ministries – Loaves & Fishes",
+    "category": "Food",
+    "description": "Food distribution location for meal service",
+    "address": "1927 Leopard",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78408",
+    "phone": "(361) 882-3245",
+    "hours": "",
+    "lat": 27.796223,
+    "lng": -97.41179,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-130732",
+    "name": "CORPUS CHRISTI ISD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "801 LEOPARD ST",
+    "city": "CORPUS CHRISTI",
+    "state": "TX",
+    "zip": "78408",
+    "phone": "(361) 695-7405",
+    "hours": "",
+    "lat": 27.796005,
+    "lng": -97.39947,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-197",
+    "name": "Salvation Army - Corpus Christi",
+    "category": "Food",
+    "description": "Nueces County residents",
+    "address": "1224 Comanche St",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "(361) 883-8671",
+    "hours": "",
+    "lat": 27.7933,
+    "lng": -97.4033,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-186692",
+    "name": "Oveal Williams Senior Center",
+    "category": "Food",
+    "description": "Senior feeding distribution location",
+    "address": "1414 Martin Luther King Dr.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "(361) 882-3245",
+    "hours": "",
+    "lat": 27.798866,
+    "lng": -97.406112,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-187662",
+    "name": "Corpus Christi Senior Services",
+    "category": "Food",
+    "description": "Senior nutrition services facility providing meals on wheels.",
+    "address": "1201 Leopard St.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "(361) 882-3245",
+    "hours": "",
+    "lat": 27.7958992,
+    "lng": -97.4041731,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-196459",
+    "name": "Kelsey Memorial UMC",
+    "category": "Food",
+    "description": "Food pantry distribution location at Kelsey Memorial UMC.",
+    "address": "1610 Comanche St.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "(361) 882-3245",
+    "hours": "",
+    "lat": 27.7936369,
+    "lng": -97.4077411,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-210590",
+    "name": "Corpus Christi Metro Ministries (Loaves & Fishes)",
+    "category": "Food",
+    "description": "Free cafeteria serving nutritious dine-in meals",
+    "address": "1919 Leopard St.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78408",
+    "phone": "(361) 882-3245",
+    "hours": "",
+    "lat": 27.7962102,
+    "lng": -97.4116543,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "id": "fa-173206",
+    "name": "CrossBridge Fellowship",
+    "category": "Food",
+    "description": "Food pantry location at CrossBridge Fellowship",
+    "address": "3002 Buffalo St.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78408",
+    "phone": "(361) 882-3613",
+    "hours": "",
+    "lat": 27.7989882,
+    "lng": -97.4234119,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-corpus-christi-shelter",
     "name": "Corpus Christi Homeless Services Hotline",
     "category": "Shelter",

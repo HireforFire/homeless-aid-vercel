@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-170428",
+    "name": "Washoe County Health District - Mobile Harvest",
+    "category": "Food",
+    "description": "Mobile food pantry distribution location",
+    "address": "1001 E 9th Street",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89512",
+    "phone": "(775) 328-2003",
+    "hours": "",
+    "lat": 39.5387897,
+    "lng": -119.8024021,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170724",
+    "name": "Mill Street Care Center",
+    "category": "Food",
+    "description": "SNAP assistance service location",
+    "address": "855 Mill Street",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89502",
+    "phone": "(775) 331-3663",
+    "hours": "",
+    "lat": 39.5258284,
+    "lng": -119.7992985,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170824",
+    "name": "First United Methodist Church",
+    "category": "Food",
+    "description": "Food pantry location at First United Methodist Church. Handicapped accessible.",
+    "address": "209 W 1st St.",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89501",
+    "phone": "(775) 322-4564",
+    "hours": "",
+    "lat": 39.5253791,
+    "lng": -119.8158327,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130171",
+    "name": "Washoe County SD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "425 EAST NINTH",
+    "city": "RENO",
+    "state": "NV",
+    "zip": "89431",
+    "phone": "(775) 348-0200",
+    "hours": "",
+    "lat": 39.536611,
+    "lng": -119.810925,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-219755",
+    "name": "Safe Harbors of Nevada",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "469 E 9th Street",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89512",
+    "phone": "(775) 337-6777",
+    "hours": "",
+    "lat": 39.5368309,
+    "lng": -119.8091354,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221524",
+    "name": "Destiny Christian Community Center of Reno",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "255 Bell St.",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89503",
+    "phone": "(775) 287-3711",
+    "hours": "",
+    "lat": 39.526104,
+    "lng": -119.8217392,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-171242",
+    "name": "Downtown Library School",
+    "category": "Food",
+    "description": "SNAP assistance and Kid's Cafe services location",
+    "address": "301 S Center Street",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89501",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5226301,
+    "lng": -119.8105822,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171300",
+    "name": "Renown Health Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location providing food distribution services.",
+    "address": "1095 E 2nd St",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89502",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5279287,
+    "lng": -119.7969703,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171483",
+    "name": "Voice in the Wilderness",
+    "category": "Food",
+    "description": "Food pantry location in Reno serving Washoe County residents.",
+    "address": "513 E 2nd St.",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89502",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5274744,
+    "lng": -119.8052003,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226357",
+    "name": "Women and Children's Center of the Sierra Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Reno, NV",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89501",
+    "phone": "",
+    "hours": "",
+    "lat": 39.52602,
+    "lng": -119.81262,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-170665",
+    "name": "Children's Cabinet School",
+    "category": "Food",
+    "description": "Children's Cabinet School location providing meals and TEFAP services.",
+    "address": "777 Sinclair Street",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89501",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5187404,
+    "lng": -119.8071504,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170693",
+    "name": "Northern Nevada HOPES - Main Office",
+    "category": "Food",
+    "description": "Main office and distribution location for Northern Nevada HOPES food services",
+    "address": "580 W. 5th St",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89503",
+    "phone": "",
+    "hours": "",
+    "lat": 39.529318,
+    "lng": -119.8214944,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-reno-shelter",
     "name": "Reno Homeless Services Hotline",
     "category": "Shelter",

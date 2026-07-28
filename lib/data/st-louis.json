@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-576404",
+    "name": "St. Nicholas Church",
+    "category": "Food",
+    "description": "Missouri food pantry distributing free groceries to families in need. Mon 12:00-1:30 Most pantries do not require ID or proof of income.",
+    "address": "701 North 18th Street",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63017",
+    "phone": "(314) 231-2860",
+    "hours": "",
+    "lat": 38.634844,
+    "lng": -90.204285,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-220233",
+    "name": "St. Vincent DePaul",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1371 Hamilton (Rear)",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63112",
+    "phone": "(314) 382-5187",
+    "hours": "",
+    "lat": 38.6270027,
+    "lng": -90.1994019,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-5274",
+    "name": "St Patrick Center - Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 North Tucker",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63101",
+    "phone": "(314) 802-0700",
+    "hours": "",
+    "lat": 38.63127,
+    "lng": -90.19275,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-197803",
+    "name": "St Patrick Center",
+    "category": "Food",
+    "description": "Food Pantry distribution location",
+    "address": "800 N Tucker Blvd",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63101",
+    "phone": "",
+    "hours": "",
+    "lat": 38.63341,
+    "lng": -90.19543,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207391",
+    "name": "Orphan Grain Train - Lutheran Community Center",
+    "category": "Food",
+    "description": "Food pantry location at Lutheran Community Center",
+    "address": "1807 Biddle St.",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63106",
+    "phone": "",
+    "hours": "",
+    "lat": 38.6395383,
+    "lng": -90.2041326,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-8175",
+    "name": "Central Baptist Food Pantry St Louis",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2842 Washington Blvd",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63103",
+    "phone": "(314) 533-0747",
+    "hours": "",
+    "lat": 38.62986,
+    "lng": -90.217,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-8179",
+    "name": "Third Baptist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "620 N Grand Blvd",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63103",
+    "phone": "(314) 533-7340",
+    "hours": "",
+    "lat": 38.62986,
+    "lng": -90.217,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-8244",
+    "name": "Food Outreach",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3117 Olive Street",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63103",
+    "phone": "(314) 652-3663",
+    "hours": "",
+    "lat": 38.62986,
+    "lng": -90.217,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-172845",
+    "name": "St. Cronan Church Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at St. Cronan Church",
+    "address": "1202 S. Boyle Ave.",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63110",
+    "phone": "(314) 533-0651",
+    "hours": "",
+    "lat": 38.6263646,
+    "lng": -90.2537731,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173588",
+    "name": "Pcac-St Louis",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "4236 Lindell Blvd.",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63108",
+    "phone": "(314) 862-6270",
+    "hours": "",
+    "lat": 38.6401833,
+    "lng": -90.2497564,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-576286",
+    "name": "Urban League Metropolitan St. Louis",
+    "category": "Food",
+    "description": "Missouri food pantry distributing free groceries to families in need. Tues-Thurs 2:00-4:30 Most pantries do not require ID or proof of income.",
+    "address": "935 Vandeventer",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63108",
+    "phone": "(314) 615-3654",
+    "hours": "",
+    "lat": 38.644863,
+    "lng": -90.236693,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-576412",
+    "name": "Guardian Angel Settlement House",
+    "category": "Food",
+    "description": "Missouri food pantry distributing free groceries to families in need. Mon-Fri 9:00-3:30 Most pantries do not require ID or proof of income.",
+    "address": "3300 S Jefferson",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63118",
+    "phone": "(314) 773-9027",
+    "hours": "",
+    "lat": 38.594324,
+    "lng": -90.224802,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
     "id": "fallback-st-louis-shelter",
     "name": "St. Louis Homeless Services Hotline",
     "category": "Shelter",

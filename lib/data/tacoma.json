@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-577561",
+    "name": "St Leo Food Connection",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1323 South Yakima Avenue",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "(253) 383-5048",
+    "hours": "",
+    "lat": 47.2497242,
+    "lng": -122.4463104,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-725",
+    "name": "Tacoma Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "425 S Tacoma Way",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98402",
+    "phone": "(253) 383-4493",
+    "hours": "",
+    "lat": 47.2514,
+    "lng": -122.4414,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-183307",
+    "name": "New Jerusalem Church of God In Christ",
+    "category": "Food",
+    "description": "Food distribution location at New Jerusalem Church of God In Christ",
+    "address": "1623 South 11th Street",
+    "city": "Central Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2514314,
+    "lng": -122.4599663,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186762",
+    "name": "Hospitality Kitchen",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "702 S 14th St",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2491626,
+    "lng": -122.4459852,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202122",
+    "name": "Associated Ministries of Tacoma",
+    "category": "Food",
+    "description": "Main office and food distribution location",
+    "address": "901 S 13th St",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "",
+    "hours": "",
+    "lat": 47.250320099999996,
+    "lng": -122.44889049999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202686",
+    "name": "POWER OF TWO/ DIAPERS BANK",
+    "category": "Food",
+    "description": "Diaper bank distribution location",
+    "address": "621 Tacoma Avenue South",
+    "city": "New Tacoma",
+    "state": "WA",
+    "zip": "98402",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2572407,
+    "lng": -122.4451288,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202867",
+    "name": "Allen AME Church",
+    "category": "Food",
+    "description": "Faith Center Food Bank distribution location",
+    "address": "1223 Martin Luther King Junior Way",
+    "city": "New Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2503133,
+    "lng": -122.4508781,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211665",
+    "name": "Salvation Army - Tacoma",
+    "category": "Food",
+    "description": "Salvation Army food pantry location in Tacoma",
+    "address": "1501 6th Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2568295,
+    "lng": -122.4590446,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226311",
+    "name": "Pierce County Early Childhood Network",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Tacoma, WA",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98401",
+    "phone": "",
+    "hours": "",
+    "lat": 47.25587,
+    "lng": -122.44165,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-184815",
+    "name": "Tacoma Empowerment Consortium - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in downtown Tacoma",
+    "address": "950 Pacific Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98402",
+    "phone": "",
+    "hours": "",
+    "lat": 47.2535664,
+    "lng": -122.43911759999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-14530",
+    "name": "My Sister's Food and Clothing Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "621 Tacoma Avenue S",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98402",
+    "phone": "(253) 627-1186",
+    "hours": "",
+    "lat": 47.25021,
+    "lng": -122.44056,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-222060",
+    "name": "Eloise's Cooking Pot Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3543 E. McKinley Avenue",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98404",
+    "phone": "(253) 212-2778",
+    "hours": "",
+    "lat": 47.2288818,
+    "lng": -122.4203491,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fallback-tacoma-shelter",
     "name": "Tacoma Homeless Services Hotline",
     "category": "Shelter",

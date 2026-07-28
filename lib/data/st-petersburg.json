@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-334",
+    "name": "St. Vincent de Paul - St. Petersburg",
+    "category": "Food",
+    "description": "Pinellas County",
+    "address": "1055 4th St N",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "(727) 823-2516",
+    "hours": "",
+    "lat": 27.7733,
+    "lng": -82.6433,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-218867",
+    "name": "The Salvation Army - 14Th Ave S",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "340 14th Ave S",
+    "city": "St Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "(727) 550-8080",
+    "hours": "",
+    "lat": 27.7705,
+    "lng": -82.63566,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222929",
+    "name": "Ronald McDonald House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "401 7th Avenue South",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "(727) 767-7685",
+    "hours": "",
+    "lat": 27.7632771,
+    "lng": -82.6389999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-180170",
+    "name": "Pinellas Community Law Program - St. Petersburg Office",
+    "category": "Food",
+    "description": "Main office location for Pinellas Community Law Program",
+    "address": "501 1st Avenue North",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7725556,
+    "lng": -82.6405302,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180181",
+    "name": "Peterborough Senior Apartments (Isaiah's Place)",
+    "category": "Food",
+    "description": "Senior housing facility located in Downtown Peterborough",
+    "address": "440 4th Avenue North",
+    "city": "Downtown",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7762526,
+    "lng": -82.6395288,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184099",
+    "name": "SVDP Food Service Center",
+    "category": "Food",
+    "description": "Food Service Center location providing food distribution services.",
+    "address": "401 15th St. N.",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7767981,
+    "lng": -82.6535283,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202680",
+    "name": "Campbell Park Recreation Center",
+    "category": "Food",
+    "description": "BreakSpot Meals distribution site",
+    "address": "601 14th Street South",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7639533,
+    "lng": -82.6528644,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204123",
+    "name": "NS Club",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1035 Burlington Avenue North",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7744015,
+    "lng": -82.6493926,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205175",
+    "name": "Viridian Apartments",
+    "category": "Food",
+    "description": "Food distribution location at Viridian Apartments",
+    "address": "518 3rd Avenue South",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7682312,
+    "lng": -82.64094329999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207416",
+    "name": "John Hopkins Middle School",
+    "category": "Food",
+    "description": "Food distribution location at John Hopkins Middle School",
+    "address": "701 16th Street South",
+    "city": "Melrose-Mercy",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7635238,
+    "lng": -82.6547957,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212885",
+    "name": "Historic Bethel AME Church",
+    "category": "Food",
+    "description": "Historic Bethel AME Church food distribution location",
+    "address": "912 3rd Avenue North",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7747876,
+    "lng": -82.64750570000001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214197",
+    "name": "Unitarian Universalist Church",
+    "category": "Food",
+    "description": "Unitarian Universalist Church - location for shared meal services",
+    "address": "100 Mirror Lake Drive North",
+    "city": "Downtown",
+    "state": "FL",
+    "zip": "33701",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7728288,
+    "lng": -82.64347,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-st-petersburg-shelter",
     "name": "St. Petersburg Homeless Services Hotline",
     "category": "Shelter",

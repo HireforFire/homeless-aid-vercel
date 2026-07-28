@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-577491",
+    "name": "Crossroads Urban Center Downtown Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "347 South 400 East",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "+1 801-364-7765;+1 888-747-8482",
+    "hours": "",
+    "lat": 40.7616004,
+    "lng": -111.8792777,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-131019",
+    "name": "ALIANZA ACADEMY",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "420 EAST SOUTH TEMPLE",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 363-0946",
+    "hours": "",
+    "lat": 40.768746,
+    "lng": -111.879669,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-131046",
+    "name": "OPEN CLASSROOM",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "134 D ST",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "zip": "84103",
+    "phone": "(801) 578-8144",
+    "hours": "",
+    "lat": 40.772246,
+    "lng": -111.879069,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-131051",
+    "name": "SALT LAKE SCHOOL DISTRICT",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "440 EAST 100 SOUTH",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 578-8599",
+    "hours": "",
+    "lat": 40.766646,
+    "lng": -111.879869,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-197078",
+    "name": "Volunteers of America Youth Resource Center",
+    "category": "Food",
+    "description": "Youth Resource Center providing meal services for homeless and at-risk youth. Handicapped accessible.",
+    "address": "888 S. 400 W.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7500854,
+    "lng": -111.9031027,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13898",
+    "name": "Hildegarde's Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "231 East 100 South",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 328-2303",
+    "hours": "",
+    "lat": 40.75575,
+    "lng": -111.88431,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13905",
+    "name": "Crossroads Urban Center Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "347 S 400 East",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 364-7765",
+    "hours": "",
+    "lat": 40.75575,
+    "lng": -111.88431,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226251",
+    "name": "Utah Food Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Salt Lake City, UT",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "",
+    "hours": "",
+    "lat": 40.75628,
+    "lng": -111.89996,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-189173",
+    "name": "Justice Economic Dignity: Independence For Women - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center location",
+    "address": "352 Denver St Suite 100",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7615342,
+    "lng": -111.8785367,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201259",
+    "name": "Ebenezer Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location providing food distribution services",
+    "address": "820 S 300 E",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7513268,
+    "lng": -111.8828576,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202156",
+    "name": "Liberty Senior Center",
+    "category": "Food",
+    "description": "Senior center location providing food distribution services.",
+    "address": "251 East 700 South",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7545444,
+    "lng": -111.8837659,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13897",
+    "name": "Rescue Mission Of Salt Lake",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "463 South 400 West",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "(801) 355-1302",
+    "hours": "",
+    "lat": 40.75628,
+    "lng": -111.89996,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fallback-salt-lake-city-shelter",
     "name": "Salt Lake City Homeless Services Hotline",
     "category": "Shelter",

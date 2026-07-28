@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-130864",
+    "name": "LUBBOCK ISD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1628 19TH ST",
+    "city": "LUBBOCK",
+    "state": "TX",
+    "zip": "79401",
+    "phone": "(806) 766-1000",
+    "hours": "",
+    "lat": 33.578285,
+    "lng": -101.855044,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-202",
+    "name": "Catholic Charities - Lubbock",
+    "category": "Food",
+    "description": "Lubbock County",
+    "address": "102 N Avenue P",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79401",
+    "phone": "(806) 765-8475",
+    "hours": "",
+    "lat": 33.5783,
+    "lng": -101.8683,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-203",
+    "name": "Salvation Army - Lubbock",
+    "category": "Food",
+    "description": "Emergency assistance",
+    "address": "1603 19th St",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79401",
+    "phone": "(806) 765-6234",
+    "hours": "",
+    "lat": 33.5783,
+    "lng": -101.8483,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-216940",
+    "name": "The Salvation Army - 16Th St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1111 16th St",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79401",
+    "phone": "(806) 765-9434",
+    "hours": "",
+    "lat": 33.58683,
+    "lng": -101.85179,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-194944",
+    "name": "St. Benedict's Chapel",
+    "category": "Food",
+    "description": "Soup kitchen location at St. Benedict's Chapel",
+    "address": "1615 28th St.",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79411",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5689153,
+    "lng": -101.8547361,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13717",
+    "name": "Lubbock Dream Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1111 30th Street",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79411",
+    "phone": "(806) 793-3336",
+    "hours": "",
+    "lat": 33.57012,
+    "lng": -101.85773,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13719",
+    "name": "Hope Community of Shalom",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "2005 Avenue T",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79411",
+    "phone": "(806) 762-0829",
+    "hours": "",
+    "lat": 33.57012,
+    "lng": -101.85773,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13721",
+    "name": "Wreck Hunger Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "Texas Tech Graduate Center, Lubbock, TX 79415",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79409",
+    "phone": "(806) 553-0250",
+    "hours": "",
+    "lat": 33.58606,
+    "lng": -101.85381,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-222587",
+    "name": "South Plains Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "4612 Locust Ave.",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79404",
+    "phone": "(806) 763-3003",
+    "hours": "",
+    "lat": 33.5511322,
+    "lng": -101.8247452,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-181794",
+    "name": "East Lubbock Art House",
+    "category": "Food",
+    "description": "Free outdoor food pantry location in East Lubbock",
+    "address": "405 M.L.K. Jr Blvd. Suite B",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79403",
+    "phone": "",
+    "hours": "",
+    "lat": 33.6027843,
+    "lng": -101.8192136,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207704",
+    "name": "Susie's Closet",
+    "category": "Food",
+    "description": "Food pantry location in Lubbock, TX",
+    "address": "1701 Parkway Dr.",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79403",
+    "phone": "",
+    "hours": "",
+    "lat": 33.5947042,
+    "lng": -101.8167588,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-625",
+    "name": "Lubbock Impact",
+    "category": "Food",
+    "description": "Lubbock area",
+    "address": "3511 Avenue A",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79404",
+    "phone": "(806) 740-1909",
+    "hours": "",
+    "lat": 33.576,
+    "lng": -101.8333,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fallback-lubbock-shelter",
     "name": "Lubbock Homeless Services Hotline",
     "category": "Shelter",

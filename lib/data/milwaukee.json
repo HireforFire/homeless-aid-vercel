@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-223714",
+    "name": "Grand Avenue Club",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "210 E. Michigan Street",
+    "city": "M ilwaukee",
+    "state": "WI",
+    "zip": "53202",
+    "phone": "(414) 276-6474",
+    "hours": "",
+    "lat": 43.0375897,
+    "lng": -87.9086174,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-14795",
+    "name": "Interchange Food Pantry",
+    "category": "Food",
+    "description": "proof of address",
+    "address": "130 E Juneau Avenue",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53202",
+    "phone": "(414) 551-2184",
+    "hours": "",
+    "lat": 43.04561,
+    "lng": -87.89893,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226309",
+    "name": "Milwaukee Diaper Mission",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Milwaukee, WI",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53201",
+    "phone": "",
+    "hours": "",
+    "lat": 43.03618,
+    "lng": -87.91696,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-189811",
+    "name": "Boys & Girls Clubs Of Greater Milwaukee - Food Distribution Center",
+    "category": "Food",
+    "description": "Food Distribution Center located in Milwaukee",
+    "address": "1558 N 6th St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53212",
+    "phone": "",
+    "hours": "",
+    "lat": 43.051011599999995,
+    "lng": -87.918159,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173382",
+    "name": "All Peoples Church - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located at All Peoples Church",
+    "address": "2600 N 2nd St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53212",
+    "phone": "(414) 264-1616",
+    "hours": "",
+    "lat": 43.0659126,
+    "lng": -87.9121181,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218537",
+    "name": "The Salvation Army - N 7Th Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1730 N. 7th Street",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53205",
+    "phone": "(414) 265-6360",
+    "hours": "",
+    "lat": 43.05359,
+    "lng": -87.93363,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219861",
+    "name": "Feeding America Eastern Wisconsin",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1700 W Fond du Lac Avenue",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53205",
+    "phone": "(414) 831-6335",
+    "hours": "",
+    "lat": 43.0566711,
+    "lng": -87.9336319,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220494",
+    "name": "Emmaus Lutheran Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2818 N 23rd St.",
+    "city": "Miwaukee",
+    "state": "WI",
+    "zip": "53216",
+    "phone": "(414) 813-2585",
+    "hours": "",
+    "lat": 43.0702553,
+    "lng": -87.9411392,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221568",
+    "name": "The Jewish Community Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2900 W Center Street",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53226",
+    "phone": "(414) 967-8353",
+    "hours": "",
+    "lat": 43.0683823,
+    "lng": -87.9505997,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221647",
+    "name": "All Peoples Church Food Pantry and Isaiah 55 Food Ministry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2600 North 2nd Street.",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53212",
+    "phone": "(414) 264-1616",
+    "hours": "",
+    "lat": 43.0658684,
+    "lng": -87.9125824,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222180",
+    "name": "Marquette University Neighborhood Kitchen",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1926 W. Wisconsin Ave.",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53233",
+    "phone": "(414) 288-0342",
+    "hours": "",
+    "lat": 43.0389481,
+    "lng": -87.9373779,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222402",
+    "name": "Friedens Community Ministries",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1220 West Vliet Street",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53205",
+    "phone": "(414) 289-6030",
+    "hours": "",
+    "lat": 43.0488243,
+    "lng": -87.927887,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fallback-milwaukee-shelter",
     "name": "Milwaukee Homeless Services Hotline",
     "category": "Shelter",

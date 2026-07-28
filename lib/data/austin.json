@@ -1,5 +1,234 @@
 [
   {
+    "id": "fa-163",
+    "name": "Salvation Army - Austin",
+    "category": "Food",
+    "description": "Walk-ins welcome",
+    "address": "501 E 8th St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 476-1111",
+    "hours": "",
+    "lat": 30.2677,
+    "lng": -97.739,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-169",
+    "name": "Trinity Center",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "304 E 7th St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 472-1231",
+    "hours": "",
+    "lat": 30.2683,
+    "lng": -97.7383,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-192919",
+    "name": "Austin Baptist Chapel",
+    "category": "Food",
+    "description": "Hot/Cold Meal Program location affiliated with Central Texas Food Bank.",
+    "address": "908 E. Cesar Chavez St.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "phone": "",
+    "hours": "",
+    "lat": 30.26096,
+    "lng": -97.7348,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212890",
+    "name": "Austin Public Library- Backpack Program",
+    "category": "Food",
+    "description": "Austin Public Library location providing children's backpack program distribution.",
+    "address": "710 W. Cesar Chavez St.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2657085,
+    "lng": -97.7519092,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13342",
+    "name": "Caritas of Austin",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "611 Neches Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 479-4610",
+    "hours": "",
+    "lat": 30.27022,
+    "lng": -97.74248,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-622",
+    "name": "Austin Resource Center",
+    "category": "Food",
+    "description": "Austin area",
+    "address": "500 E 7th Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 305-4100",
+    "hours": "",
+    "lat": 30.2672,
+    "lng": -97.7361,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-178911",
+    "name": "Austin Public Library",
+    "category": "Food",
+    "description": "Food distribution location at Austin Public Library.",
+    "address": "710 West Cesar Chavez Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "",
+    "hours": "",
+    "lat": 30.265697,
+    "lng": -97.75178,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192792",
+    "name": "HACA - Lakeside",
+    "category": "Food",
+    "description": "HACA - Lakeside older adult food program location affiliated with Central Texas Food Bank.",
+    "address": "85 Trinity St.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "",
+    "hours": "",
+    "lat": 30.261563,
+    "lng": -97.740741,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196945",
+    "name": "Trinity Center",
+    "category": "Food",
+    "description": "Trinity Center meal service location in downtown Austin",
+    "address": "304 East 7th Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "",
+    "hours": "",
+    "lat": 30.268379,
+    "lng": -97.739814,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205642",
+    "name": "Our Lady of Guadalupe Catholic Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at Our Lady of Guadalupe Catholic Church",
+    "address": "1206 E. 9th St.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "phone": "",
+    "hours": "",
+    "lat": 30.266776,
+    "lng": -97.7278793,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-160",
+    "name": "Caritas of Austin - Main Campus",
+    "category": "Food",
+    "description": "Travis County, appointment required",
+    "address": "611 Neches St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 479-4610",
+    "hours": "",
+    "lat": 30.2692,
+    "lng": -97.7391,
+    "tags": [
+      "food pantry",
+      "walk-in",
+      "appointment"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-172237",
+    "name": "Pathways at Goodrich Place",
+    "category": "Food",
+    "description": "Senior food distribution site (Seniors Only)",
+    "address": "2126 Goodrich Ave.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78704",
+    "phone": "(855) 366-3401",
+    "hours": "",
+    "lat": 30.2484012,
+    "lng": -97.7750068,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-austin-shelter",
     "name": "Austin Homeless Services Hotline",
     "category": "Shelter",

@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-175113",
+    "name": "Lighthouse Ministries",
+    "category": "Food",
+    "description": "Soup kitchen location at 190 Spruce St.",
+    "address": "190 Spruce St",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "(859) 259-3434",
+    "hours": "",
+    "lat": 38.0456413,
+    "lng": -84.4911013,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175185",
+    "name": "Ballard/Griffith Towers CSFP",
+    "category": "Food",
+    "description": "Senior food distribution location at Ballard/Griffith Towers for eligible residents.",
+    "address": "650 Tower Plaza",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "(859) 281-5048",
+    "hours": "",
+    "lat": 38.0542347,
+    "lng": -84.5019266,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216491",
+    "name": "The Salvation Army - 722736W Main Street Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "722-736-W. Main Street",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "(859) 252-7706",
+    "hours": "",
+    "lat": 38.05004,
+    "lng": -84.50018,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-206685",
+    "name": "Central Church Apartments CSFP",
+    "category": "Food",
+    "description": "Senior food distribution site serving Central Church apartment residents only.",
+    "address": "249 East Short Street",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0446384,
+    "lng": -84.493007,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210768",
+    "name": "Campus Kitchen at University of Kentucky",
+    "category": "Food",
+    "description": "Soup kitchen and meal site at University of Kentucky",
+    "address": "160 Funkhouser Drive, #207",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40506",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0357394,
+    "lng": -84.5056692,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212812",
+    "name": "Second Presbyterian Church",
+    "category": "Food",
+    "description": "Second Presbyterian Church meal delivery service location.",
+    "address": "460 East Main Street",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0397463,
+    "lng": -84.49063,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179407",
+    "name": "Newman Center Holy Spirit Parish",
+    "category": "Food",
+    "description": "Newman Center Holy Spirit Parish food assistance location",
+    "address": "320 Rose Ln.",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0358167,
+    "lng": -84.5004266,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189094",
+    "name": "Big Blue Pantry - Whitehall Building",
+    "category": "Food",
+    "description": "Main food pantry location at Whitehall Building.",
+    "address": "140 Patterson Dr., Room 25 Whitehall Bldg.",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40506",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0378989,
+    "lng": -84.5040156,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190403",
+    "name": "GPFB Central Christian FP",
+    "category": "Food",
+    "description": "Central Christian food pantry location operated by God's Pantry Food Bank.",
+    "address": "219 East Short Street",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0449529,
+    "lng": -84.4934835,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195777",
+    "name": "Green Edge Kentucky - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Lexington, Kentucky.",
+    "address": "130 Clay Ave",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40502",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0350113,
+    "lng": -84.48680139999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197659",
+    "name": "Maxwell Street Presbyterian",
+    "category": "Food",
+    "description": "Maxwell Street Presbyterian food assistance location",
+    "address": "180 E. Maxwell St.",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0414214,
+    "lng": -84.49958,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214064",
+    "name": "Rose Tower Apartments CSFP",
+    "category": "Food",
+    "description": "Senior food program distribution location at Rose Tower Apartments. Only residents of Rose Tower Apartments can pick up food at this location.",
+    "address": "137 Rose St.",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0424526,
+    "lng": -84.494073,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-lexington-shelter",
     "name": "Lexington Homeless Services Hotline",
     "category": "Shelter",

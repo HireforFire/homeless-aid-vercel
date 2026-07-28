@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-172956",
+    "name": "Samaritan Center",
+    "category": "Food",
+    "description": "Main facility providing overnight shelter and meal services.",
+    "address": "215 N State St",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13203",
+    "phone": "(315) 472-0650",
+    "hours": "",
+    "lat": 43.052880699999996,
+    "lng": -76.14932379999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173393",
+    "name": "Samaritan Center Soup Kitchen",
+    "category": "Food",
+    "description": "Community meal and soup kitchen located in downtown Syracuse",
+    "address": "215 N. State Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13203",
+    "phone": "(315) 472-8156",
+    "hours": "",
+    "lat": 43.052885,
+    "lng": -76.1492,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173709",
+    "name": "Gifford Street WIC",
+    "category": "Food",
+    "description": "Onondaga County Health Dept WIC Office/Sign Up Location",
+    "address": "307 Gifford St",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13204",
+    "phone": "(315) 435-3304",
+    "hours": "",
+    "lat": 43.04318,
+    "lng": -76.15872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174195",
+    "name": "Grace Episcopal Church FP",
+    "category": "Food",
+    "description": "Grace Episcopal Church Food Pantry location in Syracuse, NY",
+    "address": "819 Madison Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "10001",
+    "phone": "(315) 481-4484",
+    "hours": "",
+    "lat": 43.045521,
+    "lng": -76.135012,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174615",
+    "name": "Syracuse Northeast Community Center Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Syracuse Northeast Community Center.",
+    "address": "716 Hawley Ave",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13203",
+    "phone": "(315) 472-6343",
+    "hours": "",
+    "lat": 43.0549399,
+    "lng": -76.1321653,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-130452",
+    "name": "Syracuse City SD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "725 HARRISON ST",
+    "city": "SYRACUSE",
+    "state": "NY",
+    "zip": "13208",
+    "phone": "(315) 435-4161",
+    "hours": "",
+    "lat": 43.044467,
+    "lng": -76.140446,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-219008",
+    "name": "The Salvation Army of Syracuse Emergency Practical Assistance",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "677 South Salina St",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13202",
+    "phone": "(315) 479-1144",
+    "hours": "",
+    "lat": 43.0409279,
+    "lng": -76.1501846,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219931",
+    "name": "Liberty Resources at The Living Room",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "316 Catherine Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13203",
+    "phone": "(315) 701-0293",
+    "hours": "",
+    "lat": 43.0541916,
+    "lng": -76.1424713,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222871",
+    "name": "University United Methodist Church Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1085 E Genesee St",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "12321",
+    "phone": "(315) 472-1715",
+    "hours": "",
+    "lat": 43.0468941,
+    "lng": -76.1346207,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-194342",
+    "name": "The Salvation Army Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location in Syracuse",
+    "address": "667 S. Salina Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13202",
+    "phone": "",
+    "hours": "",
+    "lat": 43.041355,
+    "lng": -76.150355,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180659",
+    "name": "PEACE Inc. Westside Family Resource Center",
+    "category": "Food",
+    "description": "Westside Family Resource Center providing food assistance and family resource services",
+    "address": "200 Wyoming St.",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13204",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0471072,
+    "lng": -76.1605708,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202306",
+    "name": "Cathedral Emergency Services Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location serving the Syracuse community",
+    "address": "264 East Onondaga Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13202",
+    "phone": "",
+    "hours": "",
+    "lat": 43.04633,
+    "lng": -76.14948,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-syracuse-shelter",
     "name": "Syracuse Homeless Services Hotline",
     "category": "Shelter",

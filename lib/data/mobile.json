@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-174425",
+    "name": "New Hope Outreach Ministry",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "308 S. Dearborn St.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36603",
+    "phone": "(251) 472-5134",
+    "hours": "",
+    "lat": 30.690609,
+    "lng": -88.059105,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-223536",
+    "name": "The Service Center of Catholic Social Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "555 Dauphin St",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "(251) 434-1500",
+    "hours": "",
+    "lat": 30.6891328,
+    "lng": -88.04905,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-186557",
+    "name": "Waterfront Rescue Mission",
+    "category": "Food",
+    "description": "Main facility providing soup kitchen and homeless shelter services",
+    "address": "279 N. Washington Ave.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36603",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6934177,
+    "lng": -88.0536476,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-1201",
+    "name": "Catholic Social Services - Mobile Service Center",
+    "category": "Food",
+    "description": "proof of address",
+    "address": "555 Dauphin Street",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "(251) 434-1501",
+    "hours": "",
+    "lat": 30.69834,
+    "lng": -88.03815,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226351",
+    "name": "Junior League of Mobile Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Mobile, AL",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36601",
+    "phone": "",
+    "hours": "",
+    "lat": 30.69745,
+    "lng": -88.04988,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-176806",
+    "name": "Mobile Hygiene Pantry",
+    "category": "Food",
+    "description": "Mobile hygiene pantry service operating in Sedgwick County, Kansas.",
+    "address": "Mobile Hygiene Pantry",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "",
+    "hours": "",
+    "lat": 30.688943,
+    "lng": -88.044822,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179593",
+    "name": "Mt. Zion Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Mt. Zion Baptist Church",
+    "address": "1012 Adams St.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36603",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6948448,
+    "lng": -88.0602157,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180481",
+    "name": "St. Louis Street Missionary Baptist Church",
+    "category": "Food",
+    "description": "Food pantry and soup kitchen location at St. Louis Street Missionary Baptist Church",
+    "address": "108 N. Dearborn St.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6913125,
+    "lng": -88.0511683,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218559",
+    "name": "The Salvation Army - Dauphin St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1009 Dauphin St",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36604",
+    "phone": "(251) 438-7740",
+    "hours": "",
+    "lat": 30.68229,
+    "lng": -88.06837,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-1284",
+    "name": "Love All Pantry at Central Presbyterian Church",
+    "category": "Food",
+    "description": "appointment",
+    "address": "1260 Dauphin Street",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36604",
+    "phone": "(251) 432-0591",
+    "hours": "",
+    "lat": 30.68229,
+    "lng": -88.06837,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-187235",
+    "name": "Walk by Faith Christian Ministries",
+    "category": "Food",
+    "description": "Food pantry location at Texas Street in Mobile, Alabama.",
+    "address": "1110 Texas St.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36604",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6745084,
+    "lng": -88.041436,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199812",
+    "name": "Emmanuel SDA Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at Emmanuel SDA Church.",
+    "address": "2000 N. Dr Martin L King Jr Dr.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36617",
+    "phone": "",
+    "hours": "",
+    "lat": 30.7133917,
+    "lng": -88.0792968,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-mobile-shelter",
     "name": "Mobile Homeless Services Hotline",
     "category": "Shelter",

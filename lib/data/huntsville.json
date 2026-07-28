@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-128163",
+    "name": "Huntsville City Board of Education",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200 WHITE ST",
+    "city": "HUNTSVILLE",
+    "state": "AL",
+    "zip": "35801",
+    "phone": "(256) 428-6810",
+    "hours": "",
+    "lat": 34.734291,
+    "lng": -86.577792,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-188569",
+    "name": "Holmes Street UMC",
+    "category": "Food",
+    "description": "Food pantry location at Holmes Street United Methodist Church",
+    "address": "501 Holmes Ave. NE.",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35801",
+    "phone": "",
+    "hours": "",
+    "lat": 34.736276,
+    "lng": -86.5823923,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193391",
+    "name": "FBNA Market",
+    "category": "Food",
+    "description": "FBNA Market food distribution location",
+    "address": "2000 Vernon Ave. SW.",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35805",
+    "phone": "",
+    "hours": "",
+    "lat": 34.723607,
+    "lng": -86.596482,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204910",
+    "name": "Manna House",
+    "category": "Food",
+    "description": "Soup kitchen and food distribution location",
+    "address": "2110 Memorial Pkwy. SW",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35801",
+    "phone": "",
+    "hours": "",
+    "lat": 34.718024,
+    "lng": -86.593769,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173905",
+    "name": "Huntsville Central SDA Church",
+    "category": "Food",
+    "description": "Food distribution location at Huntsville Central SDA Church. Spanish spoken at this location.",
+    "address": "403 Treymore Ave. NW.",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35811",
+    "phone": "(256) 656-2247",
+    "hours": "",
+    "lat": 34.763258,
+    "lng": -86.578369,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173928",
+    "name": "The Potter",
+    "category": "Food",
+    "description": "The Potter food distribution location",
+    "address": "3700 Bob Wallace Ave SW",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35805",
+    "phone": "(256) 513-4700",
+    "hours": "",
+    "lat": 34.7132757,
+    "lng": -86.6188448,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174426",
+    "name": "Mt. Calvary SDA Church",
+    "category": "Food",
+    "description": "Food pantry location at Mt. Calvary SDA Church",
+    "address": "1201 Meadow Dr. NW.",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35816",
+    "phone": "(256) 533-9000",
+    "hours": "",
+    "lat": 34.7334678,
+    "lng": -86.6116167,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220015",
+    "name": "Adventist Community Service",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1705 Pulaski Pike",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35816",
+    "phone": "(265) 539-3626",
+    "hours": "",
+    "lat": 34.7433662,
+    "lng": -86.6068649,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225285",
+    "name": "Freedom house hope pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "403 treymore Avenue",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35811",
+    "phone": "(256) 293-7826",
+    "hours": "",
+    "lat": 34.7632599,
+    "lng": -86.5783463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-842",
+    "name": "Food Bank of North Alabama",
+    "category": "Food",
+    "description": "Serves North Alabama",
+    "address": "2702 Artie Street SW",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35805",
+    "phone": "(256) 539-2256",
+    "hours": "",
+    "lat": 34.6983,
+    "lng": -86.61,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
+    "id": "fa-191684",
+    "name": "Rose of Sharon",
+    "category": "Food",
+    "description": "Rose of Sharon food assistance and hot meal service location",
+    "address": "723 Arcadia Cir NW",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35810",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7469849,
+    "lng": -86.5989826,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204383",
+    "name": "Ministerio Restauracion Internacional - Food Pantry",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "2998 University Dr. NW.",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35816",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7355666,
+    "lng": -86.6140969,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-huntsville-shelter",
     "name": "Huntsville Homeless Services Hotline",
     "category": "Shelter",

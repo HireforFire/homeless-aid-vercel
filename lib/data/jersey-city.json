@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-172133",
+    "name": "JCFPL Pavonia Branch",
+    "category": "Food",
+    "description": "Library branch location in Hamilton Park",
+    "address": "326 8th Street",
+    "city": "Hamilton Park",
+    "state": "NJ",
+    "zip": "07302",
+    "phone": "(201) 547-4789",
+    "hours": "",
+    "lat": 40.72730779999999,
+    "lng": -74.0479191,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172665",
+    "name": "ST. MARY'S PARISH FOOD PANTRY",
+    "category": "Food",
+    "description": "Food pantry is in the basement of church",
+    "address": "254 2nd Street & Erie",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07302",
+    "phone": "(201) 434-8500",
+    "hours": "",
+    "lat": 40.72086,
+    "lng": -74.04444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173065",
+    "name": "Hudson County Department of Family Services - Downtown Jersey City",
+    "category": "Food",
+    "description": "Main office location for Hudson County Department of Family Services",
+    "address": "257 Cornelison Avenue",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07302",
+    "phone": "(201) 420-3000",
+    "hours": "",
+    "lat": 40.7249251,
+    "lng": -74.06058039999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173579",
+    "name": "JCFPL Communipaw Branch",
+    "category": "Food",
+    "description": "Jersey City Free Public Library Communipaw Branch location providing food distribution services.",
+    "address": "295 Johnston Avenue",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07304",
+    "phone": "(201) 547-4311",
+    "hours": "",
+    "lat": 40.7116961,
+    "lng": -74.0562917,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-802",
+    "name": "Jersey City Rescue Mission",
+    "category": "Food",
+    "description": "Hudson County",
+    "address": "436 State St",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07302",
+    "phone": "(201) 434-3344",
+    "hours": "",
+    "lat": 40.7214,
+    "lng": -74.0614,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-193234",
+    "name": "Regional Day School",
+    "category": "Food",
+    "description": "Summer meal program location",
+    "address": "425 Johnston Avenue",
+    "city": "Bergen-Lafayette",
+    "state": "NJ",
+    "zip": "07304",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7156305,
+    "lng": -74.0619973,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214786",
+    "name": "Grace Community Services Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location in Downtown Jersey City",
+    "address": "39 Erie Street",
+    "city": "Downtown Jersey City",
+    "state": "NJ",
+    "zip": "07302",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7229064,
+    "lng": -74.044379,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-215349",
+    "name": "BelovED Community Charter School 1",
+    "category": "Food",
+    "description": "Food distribution location at BelovED Community Charter School 1",
+    "address": "508 Grand Street",
+    "city": "Bergen-Lafayette",
+    "state": "NJ",
+    "zip": "07302",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7175303,
+    "lng": -74.0586806,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176965",
+    "name": "Riverside Assembly Of God",
+    "category": "Food",
+    "description": "Food pantry location at Riverside Assembly Of God",
+    "address": "317 3rd St",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07302",
+    "phone": "",
+    "hours": "",
+    "lat": 40.723537053318,
+    "lng": -74.048684841976,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179558",
+    "name": "St. Boniface Church",
+    "category": "Food",
+    "description": "St. Boniface Church located in Downtown Jersey City",
+    "address": "370 Montgomery Street",
+    "city": "Downtown Jersey City",
+    "state": "NJ",
+    "zip": "07302",
+    "phone": "",
+    "hours": "",
+    "lat": 40.71995159999999,
+    "lng": -74.0515702,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196366",
+    "name": "York Street Project (St Joseph's Home)",
+    "category": "Food",
+    "description": "Food distribution location at St Joseph's Home",
+    "address": "89 York Street",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07302",
+    "phone": "",
+    "hours": "",
+    "lat": 40.715882,
+    "lng": -74.037311,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198103",
+    "name": "BETTER TOMORROWS - Jersey City",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "471 Pacific Avenue",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07304",
+    "phone": "",
+    "hours": "",
+    "lat": 40.715779,
+    "lng": -74.059135,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-jersey-city-shelter",
     "name": "Jersey City Homeless Services Hotline",
     "category": "Shelter",

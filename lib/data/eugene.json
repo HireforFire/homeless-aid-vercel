@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-577432",
+    "name": "Positive Community Kitchen",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "120 Shelton McMurphey Boulevard",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "(541) 249-4942",
+    "hours": "",
+    "lat": 44.0557234,
+    "lng": -123.0943021,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-219523",
+    "name": "Eugene Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "640 W 7th Avenue",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "(541) 343-3328",
+    "hours": "",
+    "lat": 44.0518341,
+    "lng": -123.1025085,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-176177",
+    "name": "Hearth and Table",
+    "category": "Food",
+    "description": "Food distribution location at 1857 Potter Street",
+    "address": "1857 Potter Street",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97403",
+    "phone": "",
+    "hours": "",
+    "lat": 44.039385763015,
+    "lng": -123.075814080926,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176635",
+    "name": "Free People!",
+    "category": "Food",
+    "description": "Free meal service location",
+    "address": "130 Cheshire Avenue",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "",
+    "hours": "",
+    "lat": 44.060540833404,
+    "lng": -123.095904944199,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177055",
+    "name": "Washington Jefferson Park",
+    "category": "Food",
+    "description": "Food distribution location at Washington Jefferson Park",
+    "address": "Washington Jefferson Park",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "",
+    "hours": "",
+    "lat": 44.05401,
+    "lng": -123.10092,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177723",
+    "name": "Looking Glass Station 7",
+    "category": "Food",
+    "description": "Food distribution location for youth ages 11-17 years old.",
+    "address": "931 W 7th Ave",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "",
+    "hours": "",
+    "lat": 44.05235839265,
+    "lng": -123.10686039883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177938",
+    "name": "Looking Glass New Roads",
+    "category": "Food",
+    "description": "Free meal service location",
+    "address": "941 W 7th Avenue",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97440",
+    "phone": "",
+    "hours": "",
+    "lat": 44.052299090685,
+    "lng": -123.107015966953,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178247",
+    "name": "The Dining Room",
+    "category": "Food",
+    "description": "Hot meal dining location",
+    "address": "270 W 8th Ave",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "",
+    "hours": "",
+    "lat": 44.050805686997,
+    "lng": -123.096831116405,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175995",
+    "name": "Sacred Connections Community Church",
+    "category": "Food",
+    "description": "Food distribution location at Sacred Connections Community Church",
+    "address": "810 West 3rd Ave.",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "",
+    "hours": "",
+    "lat": 44.05632320049,
+    "lng": -123.105174295188,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178237",
+    "name": "Hosea Youth Services",
+    "category": "Food",
+    "description": "Food distribution location for Hosea Youth Services",
+    "address": "834 Monroe St",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "",
+    "hours": "",
+    "lat": 44.050632013963,
+    "lng": -123.105419549674,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-220862",
+    "name": "Catholic Community Services Eugene Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1464 W 6th Ave.",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "(541) 345-3628",
+    "hours": "",
+    "lat": 44.0529671,
+    "lng": -123.1148529,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-966",
+    "name": "FOOD For Lane County",
+    "category": "Food",
+    "description": "Serves Lane County",
+    "address": "770 Bailey Hill Road",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "(541) 343-2822",
+    "hours": "",
+    "lat": 44.0317,
+    "lng": -123.1217,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fallback-eugene-shelter",
     "name": "Eugene Homeless Services Hotline",
     "category": "Shelter",

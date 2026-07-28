@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-222998",
+    "name": "McCarty Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "630 7th Ave N",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "(701) 318-0853",
+    "hours": "",
+    "lat": 46.8827943,
+    "lng": -96.7889402,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-181517",
+    "name": "Gladys Ray Shelter",
+    "category": "Food",
+    "description": "Shelter for Men and Women located in Fargo, ND",
+    "address": "1519 1st Ave. S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8743078,
+    "lng": -96.8050276,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191907",
+    "name": "McMerty Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location in Fargo, ND. Serves Cass County residents and surrounding areas.",
+    "address": "630 7th St. N",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8829958,
+    "lng": -96.7898787,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191930",
+    "name": "Myrt Armstrong Recover Center",
+    "category": "Food",
+    "description": "Food pantry location. Handicapped accessible.",
+    "address": "1419 1st Ave. S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8743867,
+    "lng": -96.8024237,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201513",
+    "name": "Peace Lutheran Church Food Pantry",
+    "category": "Food",
+    "description": "Food pantry located at Peace Lutheran Church",
+    "address": "1001 12th Ave. N",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8903724,
+    "lng": -96.793773,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183159",
+    "name": "North Dakota Coalition For Homeless People - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center in Fargo",
+    "address": "401 3rd Ave N",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "",
+    "hours": "",
+    "lat": 46.879217999999995,
+    "lng": -96.78510899999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192560",
+    "name": "Greater Refugee Tabernacle Ministries",
+    "category": "Food",
+    "description": "Food pantry location. Handicapped accessible.",
+    "address": "1344 Main Ave.",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8749335,
+    "lng": -96.8005875,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203188",
+    "name": "Native American Program - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Fargo",
+    "address": "306 4th St N",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8793534,
+    "lng": -96.7848295,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172677",
+    "name": "YWCA Shelter of Cass-Clay",
+    "category": "Food",
+    "description": "YWCA Shelter of Cass-Clay food pantry location. Handicapped accessible. Call ahead to make an appointment.",
+    "address": "3000 S University Dr",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103",
+    "phone": "(701) 232-3449",
+    "hours": "",
+    "lat": 46.8343486,
+    "lng": -96.7978258,
+    "tags": [
+      "food pantry",
+      "appointment"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-221786",
+    "name": "Madison Resource Center/FHRA",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "719 29th St. NW",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58107",
+    "phone": "(701) 232-1349",
+    "hours": "",
+    "lat": 46.8840752,
+    "lng": -96.8249741,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223675",
+    "name": "FWC(Family Worship Center) Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1419 17th St S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103",
+    "phone": "(701) 235-0115",
+    "hours": "",
+    "lat": 46.8587532,
+    "lng": -96.8094406,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225139",
+    "name": "Tri City Haitian minstry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "730 27 street N",
+    "city": "Fargoi",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "(701) 540-1383",
+    "hours": "",
+    "lat": 46.8844566,
+    "lng": -96.8225327,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fallback-fargo-shelter",
     "name": "Fargo Homeless Services Hotline",
     "category": "Shelter",

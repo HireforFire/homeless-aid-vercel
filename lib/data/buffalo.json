@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-130206",
+    "name": "Buffalo City SD",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "712 CITY HALL",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip": "14215",
+    "phone": "(716) 816-3575",
+    "hours": "",
+    "lat": 42.886458,
+    "lng": -78.878558,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-223759",
+    "name": "First Shiloh Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "15 Pine Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "(716) 847-6555",
+    "hours": "",
+    "lat": 42.8804512,
+    "lng": -78.8648758,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-192203",
+    "name": "EVERGREEN HEALTH SERVICES - Buffalo",
+    "category": "Food",
+    "description": "Food pantry location at EVERGREEN HEALTH SERVICES main office in Buffalo, NY. Appointments required.",
+    "address": "206 SOUTH ELMWOOD AVENUE, 4TH FLOOR",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip": "14201",
+    "phone": "",
+    "hours": "",
+    "lat": 42.890884,
+    "lng": -78.878863,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195672",
+    "name": "DURHAM MEMORIAL CENTRAL CITY CAFE",
+    "category": "Food",
+    "description": "Community meal and soup kitchen location",
+    "address": "200 EAST EAGLE STREET",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8833,
+    "lng": -78.8678,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198032",
+    "name": "City Mission Society Inc- Pantry - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center providing walk-up food assistance.",
+    "address": "100 E Tupper St",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14203",
+    "phone": "",
+    "hours": "",
+    "lat": 42.893200199999995,
+    "lng": -78.86886439999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-10647",
+    "name": "Fulton St Brigid Pantry",
+    "category": "Food",
+    "description": "proof of address, appointment",
+    "address": "170 Fulton Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "(716) 853-4456",
+    "hours": "",
+    "lat": 42.882,
+    "lng": -78.8614,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-10651",
+    "name": "First Presbyterian Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1 Symphony Circle",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14201",
+    "phone": "(716) 884-7250",
+    "hours": "",
+    "lat": 42.89706,
+    "lng": -78.88752,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-536",
+    "name": "Msgr. Carr Institute",
+    "category": "Food",
+    "description": "Buffalo area",
+    "address": "402 Swan Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "(716) 854-0288",
+    "hours": "",
+    "lat": 42.8889,
+    "lng": -78.8689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-588",
+    "name": "Catholic Charities Buffalo",
+    "category": "Food",
+    "description": "Buffalo area",
+    "address": "525 Washington Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14203",
+    "phone": "(716) 856-4494",
+    "hours": "",
+    "lat": 42.8889,
+    "lng": -78.8689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-589",
+    "name": "Buffalo City Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "100 E Tupper Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14203",
+    "phone": "(716) 854-8181",
+    "hours": "",
+    "lat": 42.8939,
+    "lng": -78.8689,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-226181",
+    "name": "Every Bottom Covered",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Buffalo, NY",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14201",
+    "phone": "",
+    "hours": "",
+    "lat": 42.89706,
+    "lng": -78.88752,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-190561",
+    "name": "CITIZENS COMMUNITY DEVELOPMENT - Buffalo",
+    "category": "Food",
+    "description": "Mobile food pantry distribution location",
+    "address": "134 WILLIAM STREET",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "",
+    "hours": "",
+    "lat": 42.88517,
+    "lng": -78.866788,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-buffalo-shelter",
     "name": "Buffalo Homeless Services Hotline",
     "category": "Shelter",

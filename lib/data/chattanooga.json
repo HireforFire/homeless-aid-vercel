@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-216989",
+    "name": "The Salvation Army - McCallie Ave Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 McCallie Ave",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37403",
+    "phone": "(423) 756-1023",
+    "hours": "",
+    "lat": 35.0476,
+    "lng": -85.29448,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-172256",
+    "name": "La Paz Chattanooga",
+    "category": "Food",
+    "description": "Main location providing food pantry and SNAP assistance services by appointment only.",
+    "address": "809 S Willow St",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37404",
+    "phone": "(423) 624-8414",
+    "hours": "",
+    "lat": 35.0301976,
+    "lng": -85.2747136,
+    "tags": [
+      "food pantry",
+      "appointment"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212535",
+    "name": "Wauhatchie United Methodist Church",
+    "category": "Food",
+    "description": "Food distribution location at Wauhatchie United Methodist Church",
+    "address": "11304 First St.",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37402",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0556986,
+    "lng": -85.3092872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226369",
+    "name": "Chattanooga Diaper Hub",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Chattanooga, TN",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37401",
+    "phone": "",
+    "hours": "",
+    "lat": 35.03852,
+    "lng": -85.30885,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-174741",
+    "name": "The Bethlehem Center's Partnership Pantry",
+    "category": "Food",
+    "description": "Food distribution location affiliated with Chattanooga Area Food Bank.",
+    "address": "200 W 38th St",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37410",
+    "phone": "(423) 266-1384",
+    "hours": "",
+    "lat": 35.0058202,
+    "lng": -85.3125326,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181005",
+    "name": "SETN Project Access",
+    "category": "Food",
+    "description": "Food distribution location operated by SETN Project Access in partnership with Chattanooga Area Food Bank.",
+    "address": "1917 E 3rd St",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37404",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0407813,
+    "lng": -85.2709522,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-183498",
+    "name": "Thankful Baptist Church",
+    "category": "Food",
+    "description": "Food distribution site operated by Thankful Baptist Church",
+    "address": "980 N Orchard Knob Ave",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37406",
+    "phone": "",
+    "hours": "",
+    "lat": 35.049109,
+    "lng": -85.266734,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210872",
+    "name": "Chattanooga Community of Christ",
+    "category": "Food",
+    "description": "Food assistance distribution location",
+    "address": "1512 Old Ringgold Rd.",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37404",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0208977,
+    "lng": -85.2680636,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181077",
+    "name": "Metropolitan Ministries",
+    "category": "Food",
+    "description": "Main food bank location providing food bank vouchers.",
+    "address": "1112 McCallie Avenue",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37404",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0392677,
+    "lng": -85.2845387,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184980",
+    "name": "Faith United Baptist Church",
+    "category": "Food",
+    "description": "Faith United Baptist Church located in Chattanooga, Tennessee",
+    "address": "1800 Mulberry Street",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37404",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0224086,
+    "lng": -85.2794718,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200882",
+    "name": "Cempa",
+    "category": "Food",
+    "description": "Food distribution location in Chattanooga with air conditioning.",
+    "address": "1000 E 3rd St",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37403",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0472644,
+    "lng": -85.2905001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203759",
+    "name": "Chattanooga Area Food Bank",
+    "category": "Food",
+    "description": "Main food bank facility",
+    "address": "2909 Curtain Pull Road",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37406",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0634058,
+    "lng": -85.2738969,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-chattanooga-shelter",
     "name": "Chattanooga Homeless Services Hotline",
     "category": "Shelter",

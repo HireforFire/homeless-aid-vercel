@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-174390",
+    "name": "Virginia Beach United Methodist Church",
+    "category": "Food",
+    "description": "United Methodist Church located in Virginia Beach",
+    "address": "212 19th St",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "(757) 428-7727",
+    "hours": "",
+    "lat": 36.8467139,
+    "lng": -75.9754988,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184493",
+    "name": "Star of the Sea Catholic Church",
+    "category": "Food",
+    "description": "Food assistance distribution location at Star of the Sea Catholic Church",
+    "address": "1404 Pacific Ave.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8425615,
+    "lng": -75.9756247,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207842",
+    "name": "5 Loaves 2 Fish Ministry",
+    "category": "Food",
+    "description": "Main distribution location",
+    "address": "2014 Atlantic Ave",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8488298,
+    "lng": -75.975449,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-14234",
+    "name": "Judeo-Christian Outreach Center Food Pantry",
+    "category": "Food",
+    "description": "appointment",
+    "address": "1053 Virginia Beach Blvd",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "(757) 491-2846",
+    "hours": "",
+    "lat": 36.87175,
+    "lng": -76.00689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-178303",
+    "name": "Creating Legacies Inc.",
+    "category": "Food",
+    "description": "Creating Legacies Inc. service location in Crawford County, Kansas",
+    "address": "Creating Legacies Inc.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "",
+    "hours": "",
+    "lat": 36.846505,
+    "lng": -76.004757,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194368",
+    "name": "Good Shepherd Lutheran Church",
+    "category": "Food",
+    "description": "Good Shepherd Lutheran Church food pantry location",
+    "address": "1489 Laskin Rd.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23451",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8504974,
+    "lng": -76.013305,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-14235",
+    "name": "Chapel Pantry",
+    "category": "Food",
+    "description": "once per month",
+    "address": "2020 Laskin Road",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "(757) 428-6763",
+    "hours": "",
+    "lat": 36.83216,
+    "lng": -76.02616,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-223461",
+    "name": "Foundry United Methodist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2801 Virginia Beach Boulevard",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23452",
+    "phone": "(757) 348-2221",
+    "hours": "",
+    "lat": 36.8427138,
+    "lng": -76.0672926,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223868",
+    "name": "The Chapel Pantry/Eastern Shore Chapel",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2020 Laskin Rd.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "(757) 428-6763",
+    "hours": "",
+    "lat": 36.8465195,
+    "lng": -76.0381317,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-185191",
+    "name": "Freedom Fellowship",
+    "category": "Food",
+    "description": "Freedom Fellowship location in Virginia Beach",
+    "address": "836 Regency Dr",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8539384,
+    "lng": -76.03398349999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192632",
+    "name": "Outreach for Christ",
+    "category": "Food",
+    "description": "Main location providing food pantry services.",
+    "address": "2425 Bowland Pkwy",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8254907,
+    "lng": -76.0552736,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195085",
+    "name": "Church of the Holy Family Catholic Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at Church of the Holy Family Catholic Church",
+    "address": "1279 N. Great Neck Rd.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8732758,
+    "lng": -76.0407534,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-virginia-beach-shelter",
     "name": "Virginia Beach Homeless Services Hotline",
     "category": "Shelter",

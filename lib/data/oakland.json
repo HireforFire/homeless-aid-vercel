@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-219267",
+    "name": "Bay Area Christian Connection",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "810 Clay Street",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94605",
+    "phone": "(510) 301-2164",
+    "hours": "",
+    "lat": 37.8012619,
+    "lng": -122.2758026,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-182125",
+    "name": "St. Paul's Episcopal Church",
+    "category": "Food",
+    "description": "St. Paul's Episcopal Church food pantry location in Oakland, California.",
+    "address": "114 Montecito Ave",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94610",
+    "phone": "",
+    "hours": "",
+    "lat": 37.8111069,
+    "lng": -122.2603295,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-182511",
+    "name": "St. Vincent De Paul Dining Room",
+    "category": "Food",
+    "description": "St. Vincent De Paul Dining Room located at 675 23rd St. in Oakland, CA.",
+    "address": "675 23rd St.",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94612",
+    "phone": "",
+    "hours": "",
+    "lat": 37.813421,
+    "lng": -122.2732755,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189066",
+    "name": "Lake Merritt United Methodist Church - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center at Lake Merritt United Methodist Church",
+    "address": "1330 Lakeshore Ave",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94606",
+    "phone": "",
+    "hours": "",
+    "lat": 37.799145599999996,
+    "lng": -122.2579746,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-2181",
+    "name": "CID Project of the East Bay- Oakland",
+    "category": "Food",
+    "description": "referral",
+    "address": "1320 Webster Street",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94612",
+    "phone": "(510) 663-7979",
+    "hours": "",
+    "lat": 37.80789,
+    "lng": -122.2662,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-180619",
+    "name": "Saint Augustine's Episcopal Church - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located at Saint Augustine's Episcopal Church",
+    "address": "521 29th St",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94609",
+    "phone": "",
+    "hours": "",
+    "lat": 37.818118999999996,
+    "lng": -122.2682067,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184530",
+    "name": "Joshua Christian Church",
+    "category": "Food",
+    "description": "Joshua Christian Church food distribution location.",
+    "address": "793 W Grand Ave",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94612",
+    "phone": "",
+    "hours": "",
+    "lat": 37.8131444,
+    "lng": -122.275823,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187080",
+    "name": "The National Network For Immigrant And Refugee Rights - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Oakland",
+    "address": "310 8th St",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94606",
+    "phone": "",
+    "hours": "",
+    "lat": 37.799006,
+    "lng": -122.27037419999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187922",
+    "name": "City Team Ministries - West Oakland Library",
+    "category": "Food",
+    "description": "Food distribution location at West Oakland Library",
+    "address": "1801 Adeline St",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607",
+    "phone": "",
+    "hours": "",
+    "lat": 37.812925,
+    "lng": -122.2852919,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189870",
+    "name": "City Team Ministries Oakland",
+    "category": "Food",
+    "description": "Main location serving hot meals for breakfast, lunch and dinner",
+    "address": "722 Washington St",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607",
+    "phone": "",
+    "hours": "",
+    "lat": 37.8003645,
+    "lng": -122.2749817,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194087",
+    "name": "Covenant House of California - Oakland",
+    "category": "Food",
+    "description": "Main location of Covenant House of California in Oakland",
+    "address": "200 Harrison St",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607",
+    "phone": "",
+    "hours": "",
+    "lat": 37.794714,
+    "lng": -122.27228,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194254",
+    "name": "Friendship Christian Church Gerald Agee Ministries",
+    "category": "Food",
+    "description": "Food pantry location at Friendship Christian Church Gerald Agee Ministries in Oakland.",
+    "address": "1904 Adeline Ave",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607",
+    "phone": "",
+    "hours": "",
+    "lat": 37.8133806,
+    "lng": -122.2844843,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-oakland-shelter",
     "name": "Oakland Homeless Services Hotline",
     "category": "Shelter",

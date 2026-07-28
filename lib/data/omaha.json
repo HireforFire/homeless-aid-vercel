@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-171960",
+    "name": "Freeway Ministries",
+    "category": "Food",
+    "description": "USDA/TEFAP food distribution location",
+    "address": "1030 S 24th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68108",
+    "phone": "(417) 693-5237",
+    "hours": "",
+    "lat": 41.249296,
+    "lng": -95.948062,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172303",
+    "name": "St. Peter's Food Pantry, St. Vincent De Paul (SVDP)",
+    "category": "Food",
+    "description": "St. Vincent De Paul Society food pantry location",
+    "address": "709 S. 28th St.",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68105",
+    "phone": "(402) 350-0888",
+    "hours": "",
+    "lat": 41.2530023,
+    "lng": -95.9529024,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-224949",
+    "name": "Youth Street Outreach",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2062 Harney St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "(402) 502-1636",
+    "hours": "",
+    "lat": 41.2568912,
+    "lng": -95.9430326,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-181257",
+    "name": "Salvation Army (SA) Men's Center",
+    "category": "Food",
+    "description": "Meal service location at the Salvation Army Men's Center",
+    "address": "2551 Dodge St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68131",
+    "phone": "",
+    "hours": "",
+    "lat": 41.259583,
+    "lng": -95.949638,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179113",
+    "name": "Kountze Memorial Lutheran Church Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Kountze Memorial Lutheran Church",
+    "address": "2665 Douglas St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68131",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2584315,
+    "lng": -95.9510832,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189502",
+    "name": "Together, Inc (Omaha Location)",
+    "category": "Food",
+    "description": "Food pantry location in Omaha providing food assistance services.",
+    "address": "812 S 24th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68108",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2518436,
+    "lng": -95.9473286,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194791",
+    "name": "Siena Francis House",
+    "category": "Food",
+    "description": "USDA/TEFAP meal provider location",
+    "address": "1702 Nicholas St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68101",
+    "phone": "",
+    "hours": "",
+    "lat": 41.270245,
+    "lng": -95.938784,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226209",
+    "name": "Nebraska Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Omaha, NE",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68101",
+    "phone": "",
+    "hours": "",
+    "lat": 41.26219,
+    "lng": -95.93133,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-183906",
+    "name": "Yes Street Outreach Pantry",
+    "category": "Food",
+    "description": "Main food pantry location",
+    "address": "2602 Harney St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68131",
+    "phone": "",
+    "hours": "",
+    "lat": 41.2569948,
+    "lng": -95.9507964,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191331",
+    "name": "Nebraska Urban Indian Health Coalition",
+    "category": "Food",
+    "description": "Main meal service location for Nebraska Urban Indian Health Coalition.",
+    "address": "2240 Landon Ct",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "",
+    "hours": "",
+    "lat": 41.254923,
+    "lng": -95.946353,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194288",
+    "name": "Fricke Episcopal Community Ministry",
+    "category": "Food",
+    "description": "Main food pantry location offering walk-up food assistance services",
+    "address": "113 N 18th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "",
+    "hours": "",
+    "lat": 41.260363,
+    "lng": -95.93932199999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195989",
+    "name": "Youth Street Outreach - Food Distribution Center",
+    "category": "Food",
+    "description": "Main food distribution center location",
+    "address": "2057 Harney St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102",
+    "phone": "",
+    "hours": "",
+    "lat": 41.256326699999995,
+    "lng": -95.94486769999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-omaha-shelter",
     "name": "Omaha Homeless Services Hotline",
     "category": "Shelter",

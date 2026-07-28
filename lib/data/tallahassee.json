@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-173341",
+    "name": "Frenchtown Neighborhood Improvement Association",
+    "category": "Food",
+    "description": "Hot/Cold Meal Program distribution location",
+    "address": "524 N MLK Blvd.",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 577-1615",
+    "hours": "",
+    "lat": 30.4477499,
+    "lng": -84.2858738,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-221051",
+    "name": "ECHO",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1707 South Gadsden Street",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 224-3246",
+    "hours": "",
+    "lat": 30.4257984,
+    "lng": -84.2779312,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-200038",
+    "name": "THE PLANT",
+    "category": "Food",
+    "description": "Community arts center with sidewalk food pantry and indoor free clothes and food",
+    "address": "517 West Gaines Street",
+    "city": "All Saints",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4352967,
+    "lng": -84.2892081,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204157",
+    "name": "Bond Community Health Center",
+    "category": "Food",
+    "description": "Bond Community Health Center located in Tallahassee, providing food distribution and healthcare services.",
+    "address": "1720 S Gadsden St",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4252077,
+    "lng": -84.2786559,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175259",
+    "name": "Little Sunshine Pantries",
+    "category": "Food",
+    "description": "Food distribution location affiliated with Second Harvest of the Big Bend",
+    "address": "631 W. 8th Ave",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 270-8240",
+    "hours": "",
+    "lat": 30.458382,
+    "lng": -84.2906653,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193058",
+    "name": "ALARM International Church",
+    "category": "Food",
+    "description": "ALARM International Church food pantry location",
+    "address": "2532 W. Tharpe St.",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32303",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4381828,
+    "lng": -84.2806235,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-387",
+    "name": "Grace Mission Food Pantry",
+    "category": "Food",
+    "description": "Tallahassee residents",
+    "address": "810 W Brevard St",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32304",
+    "phone": "(850) 224-0069",
+    "hours": "",
+    "lat": 30.4483,
+    "lng": -84.2933,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-172567",
+    "name": "Salvation Army - Tallahassee",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "2410 Allen Rd",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32302",
+    "phone": "(850) 222-0304",
+    "hours": "",
+    "lat": 30.47649066,
+    "lng": -84.29489346,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-219212",
+    "name": "America's Second Harvest of the Big Bend",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "110 Four Points Way",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32305",
+    "phone": "(850) 562-3033",
+    "hours": "",
+    "lat": 30.4011459,
+    "lng": -84.2837067,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224031",
+    "name": "Freedom Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2801 Thomasville Rd",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32308",
+    "phone": "(850) 386-4924",
+    "hours": "",
+    "lat": 30.478199,
+    "lng": -84.2594757,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224216",
+    "name": "Volunteers of America",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1280 Kissimmee St.",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32310",
+    "phone": "(850) 462-7729",
+    "hours": "",
+    "lat": 30.4225228,
+    "lng": -84.3017864,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224400",
+    "name": "Good News Outreach",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "606 W 4th Ave",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32303",
+    "phone": "(850) 692-3301",
+    "hours": "",
+    "lat": 30.4540169,
+    "lng": -84.2902123,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fallback-tallahassee-shelter",
     "name": "Tallahassee Homeless Services Hotline",
     "category": "Shelter",

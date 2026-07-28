@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-172958",
+    "name": "Redemporist Fathers",
+    "category": "Food",
+    "description": "Food distribution location at 901 East Eager Street in Baltimore, Maryland.",
+    "address": "901 East Eager Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21202",
+    "phone": "(202) 529-4410",
+    "hours": "",
+    "lat": 39.3011633,
+    "lng": -76.6045669,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173786",
+    "name": "Maryland Access Point (MAP) - Downtown Baltimore Office",
+    "category": "Food",
+    "description": "Main office location for Maryland Access Point (MAP) home food delivery service",
+    "address": "100 Holliday Street",
+    "city": "Downtown",
+    "state": "MD",
+    "zip": "21202",
+    "phone": "(410) 396-2273",
+    "hours": "",
+    "lat": 39.2908475,
+    "lng": -76.6105378,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-576867",
+    "name": "Waters AME - Food Distribution Center",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "417 Aisquith Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21202",
+    "phone": "(410) 675-2640",
+    "hours": "",
+    "lat": 39.2954122,
+    "lng": -76.6014962,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-219652",
+    "name": "My Sister's Place Lodge",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "111 West Mulberry Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "(410) 528-9002",
+    "hours": "",
+    "lat": 39.293766,
+    "lng": -76.6174774,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-226088",
+    "name": "Earl’s Place",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1400 E.  Lombard Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21231",
+    "phone": "(410) 522-0225",
+    "hours": "",
+    "lat": 39.2903294,
+    "lng": -76.5984185,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-177013",
+    "name": "Beans and Bread",
+    "category": "Food",
+    "description": "Food assistance facility providing breakfast and lunch services",
+    "address": "400 S Bond St",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21231",
+    "phone": "",
+    "hours": "",
+    "lat": 39.286347059201,
+    "lng": -76.595590997765,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186116",
+    "name": "The Salvation Army Food Pantry - Federal Hill",
+    "category": "Food",
+    "description": "Food pantry location in Federal Hill area of Baltimore, Maryland.",
+    "address": "814 Light Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21230",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2792439,
+    "lng": -76.6132008,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189713",
+    "name": "City Place on the Avenue",
+    "category": "Food",
+    "description": "Food distribution location in Seton Hill neighborhood",
+    "address": "610 Pennsylvania Avenue",
+    "city": "Seton Hill",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2959777,
+    "lng": -76.62634489999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199250",
+    "name": "Ebenezer Outreach",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "20 W. Montgomery",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21230",
+    "phone": "",
+    "hours": "",
+    "lat": 39.280083,
+    "lng": -76.6153098,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201954",
+    "name": "Baltimore American Indian Center",
+    "category": "Food",
+    "description": "Main location of Baltimore American Indian Center",
+    "address": "113 South Broadway",
+    "city": "Upper Fells Point",
+    "state": "MD",
+    "zip": "21231",
+    "phone": "",
+    "hours": "",
+    "lat": 39.28997409999999,
+    "lng": -76.5932531,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203006",
+    "name": "South Baltimore Emergency - Federal Hill-Montgomery",
+    "category": "Food",
+    "description": "Emergency food assistance distribution location in Federal Hill-Montgomery.",
+    "address": "110 East West Street",
+    "city": "Federal Hill-Montgomery",
+    "state": "MD",
+    "zip": "21230",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2760916,
+    "lng": -76.6123241,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204164",
+    "name": "Carter Memorial Church",
+    "category": "Food",
+    "description": "Food pantry location at Carter Memorial Church",
+    "address": "745 West Fayette Street",
+    "city": "Poppleton",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "",
+    "hours": "",
+    "lat": 39.28986099999999,
+    "lng": -76.6287026,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-baltimore-shelter",
     "name": "Baltimore Homeless Services Hotline",
     "category": "Shelter",

@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-448",
+    "name": "Poverello House",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "412 F St",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93706",
+    "phone": "(559) 498-6988",
+    "hours": "",
+    "lat": 36.7411,
+    "lng": -119.7961,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-174927",
+    "name": "Tulare Street Baptist Center",
+    "category": "Food",
+    "description": "Food assistance distribution location",
+    "address": "8179 W. Tulare St.",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93706",
+    "phone": "(559) 266-2406",
+    "hours": "",
+    "lat": 36.7324687,
+    "lng": -119.7922256,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-450",
+    "name": "Catholic Charities Fresno",
+    "category": "Food",
+    "description": "Fresno County",
+    "address": "149 N Fulton St",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93701",
+    "phone": "(559) 237-0851",
+    "hours": "",
+    "lat": 36.7461,
+    "lng": -119.7761,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-218642",
+    "name": "The Salvation Army - Fulton Street 1",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1824  Fulton Street",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93721",
+    "phone": "(559) 237-9111",
+    "hours": "",
+    "lat": 36.73282,
+    "lng": -119.78383,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218700",
+    "name": "The Salvation Army - S Parallel Avenue",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "804 S. Parallel Avenue",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93721",
+    "phone": "(559) 490-7020",
+    "hours": "",
+    "lat": 36.73282,
+    "lng": -119.78383,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224434",
+    "name": "Catholic Charities",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "149 North Fulton Street",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93701",
+    "phone": "(559) 237-0851",
+    "hours": "",
+    "lat": 36.7447641,
+    "lng": -119.8006383,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-217110",
+    "name": "The Salvation Army - Fulton Street Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1914 Fulton Street",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93721",
+    "phone": "(559) 233-0139",
+    "hours": "",
+    "lat": 36.73282,
+    "lng": -119.78383,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-172224",
+    "name": "Cornerstone Church",
+    "category": "Food",
+    "description": "Cornerstone Church food assistance location in Fresno.",
+    "address": "1545 Fulton St.",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93721",
+    "phone": "",
+    "hours": "",
+    "lat": 36.7394035,
+    "lng": -119.7966586,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174669",
+    "name": "Fellowship Missionary Baptist Church",
+    "category": "Food",
+    "description": "Fellowship Missionary Baptist Church location providing food pantry and neighborhood market services.",
+    "address": "2529 E. Belmont Ave.",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.7506369,
+    "lng": -119.7809193,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176101",
+    "name": "Catholic Charities - Pantry",
+    "category": "Food",
+    "description": "Food pantry location at 149 N. Fulton St. in Fresno, CA",
+    "address": "149 N. Fulton St.",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93704",
+    "phone": "",
+    "hours": "",
+    "lat": 36.744833736096,
+    "lng": -119.800677867513,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176365",
+    "name": "Martin Park",
+    "category": "Food",
+    "description": "Food distribution location at Martin Park",
+    "address": "345 N Glenn Ave",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.747532834647,
+    "lng": -119.794014338308,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179764",
+    "name": "Via Church",
+    "category": "Food",
+    "description": "Via Church food pantry location",
+    "address": "2120 Kern St",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93721",
+    "phone": "",
+    "hours": "",
+    "lat": 36.7339433,
+    "lng": -119.7872288,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-fresno-shelter",
     "name": "Fresno Homeless Services Hotline",
     "category": "Shelter",

@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-128226",
+    "name": "Fayetteville",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1000 WEST STONE ST",
+    "city": "FAYETTEVILLE",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "(479) 444-3000",
+    "hours": "",
+    "lat": 36.05988,
+    "lng": -94.174305,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-223302",
+    "name": "Jane B. Gearhart Full Circle Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "324 Stadium Drive",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "(479) 575-4365",
+    "hours": "",
+    "lat": 36.0675815,
+    "lng": -94.1768937,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223313",
+    "name": "LifeSource",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "600 suite 2  S. School Ave",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "(479) 521-4000",
+    "hours": "",
+    "lat": 36.0557929,
+    "lng": -94.1638881,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-187501",
+    "name": "Fayetteville Senior Center",
+    "category": "Food",
+    "description": "Senior center located in Fayetteville, Washington County, Arkansas.",
+    "address": "945 S. College Ave.",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0529825,
+    "lng": -94.1596146,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-186627",
+    "name": "St. James Food Pantry",
+    "category": "Food",
+    "description": "The St. James Food Pantry is operated at the Squire Jehegan Outreach Center.",
+    "address": "115 S. Willow Ave.",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.06139,
+    "lng": -94.15484,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200909",
+    "name": "Life Source International - Fayetteville",
+    "category": "Food",
+    "description": "Main food pantry and senior meal distribution location",
+    "address": "682 S. Lt. Col. Leroy Pond Ave.",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0556822,
+    "lng": -94.1636599,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204522",
+    "name": "Center Street Church of Christ",
+    "category": "Food",
+    "description": "Food pantry location at Center Street Church of Christ in Fayetteville.",
+    "address": "310 W. Center St.",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.062985,
+    "lng": -94.163307,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172994",
+    "name": "Fayetteville Mobile Pantry",
+    "category": "Food",
+    "description": "Mobile pantry distribution location in Fayetteville offering curbside pickup and drive-through food distribution.",
+    "address": "2801 W McMillan Dr",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "(479) 872-8774",
+    "hours": "",
+    "lat": 36.0755188,
+    "lng": -94.1993038,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-219643",
+    "name": "faith at the park",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "962s. Silverado Dr # 205",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "(479) 935-7717",
+    "hours": "",
+    "lat": 36.0537148,
+    "lng": -94.1400223,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-192466",
+    "name": "Salvation Army - Fayetteville",
+    "category": "Food",
+    "description": "Salvation Army food distribution and meal program location in Fayetteville, Arkansas.",
+    "address": "219 W 15th St",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0470435,
+    "lng": -94.1622493,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205511",
+    "name": "His Table Food Ministries",
+    "category": "Food",
+    "description": "Community meal distribution location",
+    "address": "550 E. 15th St.",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0485055,
+    "lng": -94.152936,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189194",
+    "name": "Fayetteville Christian School",
+    "category": "Food",
+    "description": "Food distribution location in Northeast Fayetteville.",
+    "address": "2006 E. Mission Blvd.",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72703",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0888331,
+    "lng": -94.1307468,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-fayetteville-ar-shelter",
     "name": "Fayetteville Homeless Services Hotline",
     "category": "Shelter",

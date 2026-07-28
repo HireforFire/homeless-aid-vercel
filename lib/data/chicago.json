@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-222029",
+    "name": "UI Health Pilsen Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1713 S Ashland St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(312) 413-4296",
+    "hours": "",
+    "lat": 41.858242,
+    "lng": -87.665741,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224634",
+    "name": "One Hope United",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3053 South Normal Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60616",
+    "phone": "(312) 842-5566",
+    "hours": "",
+    "lat": 41.8381996,
+    "lng": -87.6387405,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225421",
+    "name": "Benton House Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3052 South Gratten Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(773) 927-6420",
+    "hours": "",
+    "lat": 41.8388596,
+    "lng": -87.6541977,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-216645",
+    "name": "The Salvation Army - South Campbell Avenue Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "20 South Campbell Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60612",
+    "phone": "(312) 733-4801",
+    "hours": "",
+    "lat": 41.8805,
+    "lng": -87.68783,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-654",
+    "name": "Pacific Garden Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1458 S Canal St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60607",
+    "phone": "(312) 492-9410",
+    "hours": "",
+    "lat": 41.8614,
+    "lng": -87.6414,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-754",
+    "name": "Pilsen Food Pantry",
+    "category": "Food",
+    "description": "Pilsen",
+    "address": "1850 S Throop St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(312) 666-3130",
+    "hours": "",
+    "lat": 41.8564,
+    "lng": -87.6564,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-5059",
+    "name": "Marillac Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2859 W. Jackson Ave.",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60612",
+    "phone": "(773) 584-4539",
+    "hours": "",
+    "lat": 41.8805,
+    "lng": -87.68783,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-5071",
+    "name": "Benton House Over 21 Committee Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3052 S Gratten Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(773) 927-6420",
+    "hours": "",
+    "lat": 41.84887,
+    "lng": -87.67139,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226172",
+    "name": "Cradles to Crayons - Chicago",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Chicago, IL",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60601",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8970272,
+    "lng": -87.6716833,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-186777",
+    "name": "Our Lady of the Holy Family",
+    "category": "Food",
+    "description": "Food pantry location affiliated with Greater Chicago Food Depository",
+    "address": "1334 W. Flournoy St.",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60607",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8733681,
+    "lng": -87.6605221,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188175",
+    "name": "Pilgrim Rest MBC",
+    "category": "Food",
+    "description": "Food pantry and grocery distribution location",
+    "address": "1901 W Washington Blvd",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60612",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8829733,
+    "lng": -87.6745705,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190035",
+    "name": "Chicago Temple Corps Community Center",
+    "category": "Food",
+    "description": "Community center location providing food pantry and grocery distribution. Wheelchair accessible facility.",
+    "address": "1 N Ogden Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60607",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8816901,
+    "lng": -87.6652387,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-chicago-shelter",
     "name": "Chicago Homeless Services Hotline",
     "category": "Shelter",

@@ -1,5 +1,176 @@
 [
   {
+    "id": "fa-129542",
+    "name": "Ann Arbor Public Schools",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2555 SOUTH STATE ST",
+    "city": "ANN ARBOR",
+    "state": "MI",
+    "zip": "48103",
+    "phone": "(734) 994-2230",
+    "hours": "",
+    "lat": 42.250039,
+    "lng": -83.739341,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-129584",
+    "name": "Central Academy",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2459 SOUTH INDUSTRIAL HWY",
+    "city": "ANN ARBOR",
+    "state": "MI",
+    "zip": "48104",
+    "phone": "(734) 822-1100",
+    "hours": "",
+    "lat": 42.250339,
+    "lng": -83.73084,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-222231",
+    "name": "Jewish Family Services of Washtenaw County Nutrition Services and Specialty Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2245 S. State Street",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48104",
+    "phone": "(734) 769-0209",
+    "hours": "",
+    "lat": 42.2541962,
+    "lng": -83.739212,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218528",
+    "name": "The Salvation Army - Packard",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3660 Packard",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48108",
+    "phone": "(734) 761-7750",
+    "hours": "",
+    "lat": 42.22206,
+    "lng": -83.7317,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-696",
+    "name": "Food Gatherers",
+    "category": "Food",
+    "description": "Washtenaw County",
+    "address": "1 Carrot Way",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48105",
+    "phone": "(734) 761-2796",
+    "hours": "",
+    "lat": 42.2414,
+    "lng": -83.7814,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-7317",
+    "name": "Ann Arbor Department Of Parks And Recreationbryant Community",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3 W Eden Ct.",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48108",
+    "phone": "(734) 477-0292",
+    "hours": "",
+    "lat": 42.22206,
+    "lng": -83.7317,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-183436",
+    "name": "Interfaith Hospitality Network - Ann Arbor",
+    "category": "Food",
+    "description": "Main location of Interfaith Hospitality Network in Ann Arbor, Michigan.",
+    "address": "4290 Jackson Rd",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48103",
+    "phone": "",
+    "hours": "",
+    "lat": 42.2871445,
+    "lng": -83.81504439999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-7316",
+    "name": "Bryant Community Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3 West Eden Court",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48108",
+    "phone": "(734) 477-0292",
+    "hours": "",
+    "lat": 42.22206,
+    "lng": -83.7317,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-7318",
+    "name": "Ann Arbor Community Center",
+    "category": "Food",
+    "description": "appointment",
+    "address": "625 N Main Street",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48105",
+    "phone": "(734) 662-3128",
+    "hours": "",
+    "lat": 42.33117,
+    "lng": -83.70587,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fallback-ann-arbor-shelter",
     "name": "Ann Arbor Homeless Services Hotline",
     "category": "Shelter",

@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-131278",
+    "name": "Olympia School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1113 LEGION WAY SE",
+    "city": "OLYMPIA",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "(360) 596-6100",
+    "hours": "",
+    "lat": 47.043419,
+    "lng": -122.88815,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-223580",
+    "name": "Thurston County Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "220 Thurston Ave. NE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "(360) 352-8597",
+    "hours": "",
+    "lat": 47.0478195,
+    "lng": -122.9000403,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-829",
+    "name": "Olympia Union Gospel Mission",
+    "category": "Food",
+    "description": "Thurston County",
+    "address": "413 Franklin St NE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98506",
+    "phone": "(360) 357-9419",
+    "hours": "",
+    "lat": 47.0514,
+    "lng": -122.8914,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-181835",
+    "name": "Catholic Community Services: The Community Kitchen - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Olympia, Washington. Walk-up service available.",
+    "address": "808 5th Ave SE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98506",
+    "phone": "",
+    "hours": "",
+    "lat": 47.044860799999995,
+    "lng": -122.8920845,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204117",
+    "name": "Thurston County Food Bank - Olympia Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location in Olympia providing food distribution services.",
+    "address": "220 Thurston Ave",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "",
+    "hours": "",
+    "lat": 47.047531,
+    "lng": -122.902573,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211335",
+    "name": "Catholic Community Services - The Community Kitchen",
+    "category": "Food",
+    "description": "Food distribution location operated by Catholic Community Services.",
+    "address": "808 5th Ave SE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "",
+    "hours": "",
+    "lat": 47.04486,
+    "lng": -122.892342,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-215567",
+    "name": "Olympia Union Gospel Mission",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "413 Franklin Street NE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "",
+    "hours": "",
+    "lat": 47.048224,
+    "lng": -122.900245,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181173",
+    "name": "Olympia Senior Center",
+    "category": "Food",
+    "description": "Food distribution location at Olympia Senior Center.",
+    "address": "222 Columbia St NW",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "",
+    "hours": "",
+    "lat": 47.0462842,
+    "lng": -122.9025588,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200217",
+    "name": "Olympia Union Gospel Mission Olympia - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in downtown Olympia",
+    "address": "413 Franklin St NE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "",
+    "hours": "",
+    "lat": 47.0480569,
+    "lng": -122.89993009999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207212",
+    "name": "Dcted- Local Development Assistance - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center",
+    "address": "906 Columbia St SW",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "",
+    "hours": "",
+    "lat": 47.0403375,
+    "lng": -122.90209589999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214179",
+    "name": "Olympia First Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location in Olympia",
+    "address": "904 Washington St SE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "",
+    "hours": "",
+    "lat": 47.040489,
+    "lng": -122.899544,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-131319",
+    "name": "Tumwater School District",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "621 LINWOOD AVE SW",
+    "city": "TUMWATER",
+    "state": "WA",
+    "zip": "98502",
+    "phone": "(360) 709-7000",
+    "hours": "",
+    "lat": 47.007019,
+    "lng": -122.913251,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
     "id": "fallback-olympia-shelter",
     "name": "Olympia Homeless Services Hotline",
     "category": "Shelter",

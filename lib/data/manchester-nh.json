@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-221926",
+    "name": "New horizons of NH",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "199 Manchester Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 668-1877",
+    "hours": "",
+    "lat": 42.9899864,
+    "lng": -71.4586792,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222818",
+    "name": "Karenangela Carter Memorial Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "45 Manchester St.",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03104",
+    "phone": "(603) 668-6226",
+    "hours": "",
+    "lat": 42.9901848,
+    "lng": -71.4621277,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-577028",
+    "name": "New Horizons",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "199 Manchester Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9899981,
+    "lng": -71.4586878,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-9275",
+    "name": "Cedar Street Salvation Army",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "121 Cedar Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03101",
+    "phone": "(603) 627-7013",
+    "hours": "",
+    "lat": 42.98881,
+    "lng": -71.4659,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-577030",
+    "name": "Liberty House",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "75 West Baker Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 669-0761",
+    "hours": "",
+    "lat": 42.9724925,
+    "lng": -71.4649144,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-129876",
+    "name": "1063 Making Community Connections Charter",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "60 ROGERS ST",
+    "city": "MANCHESTER",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 935-7488",
+    "hours": "",
+    "lat": 42.978984,
+    "lng": -71.449011,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-935",
+    "name": "New Hampshire Food Bank",
+    "category": "Food",
+    "description": "Serves all of New Hampshire",
+    "address": "700 East Industrial Park Drive",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03109",
+    "phone": "(603) 669-9725",
+    "hours": "",
+    "lat": 42.9617,
+    "lng": -71.4217,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
+    "id": "fa-9272",
+    "name": "First United Methodist Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "961 Valley Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 622-8863",
+    "hours": "",
+    "lat": 42.95536,
+    "lng": -71.44463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9274",
+    "name": "Families in Transition Food Pantry",
+    "category": "Food",
+    "description": "once per month",
+    "address": "176 Lake Avenue",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 641-9441",
+    "hours": "",
+    "lat": 42.95536,
+    "lng": -71.44463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9295",
+    "name": "St Raphael's Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "103 Walker Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102",
+    "phone": "(603) 623-2604",
+    "hours": "",
+    "lat": 43.00797,
+    "lng": -71.49134,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9296",
+    "name": "Blessed Sacrament Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "14 Elm Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 622-5445",
+    "hours": "",
+    "lat": 42.95536,
+    "lng": -71.44463,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9300",
+    "name": "St Vincent de Paul - Ste Marie's Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "378 Notre Dame Ave.",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102",
+    "phone": "(603) 622-4615",
+    "hours": "",
+    "lat": 43.00797,
+    "lng": -71.49134,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fallback-manchester-nh-shelter",
     "name": "Manchester Homeless Services Hotline",
     "category": "Shelter",

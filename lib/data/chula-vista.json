@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-435",
+    "name": "South Bay Community Services",
+    "category": "Food",
+    "description": "South Bay residents",
+    "address": "700 E St",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "(619) 420-3620",
+    "hours": "",
+    "lat": 32.6361,
+    "lng": -117.0861,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-218928",
+    "name": "FBCCV",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "494 E St.",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "(619) 876-1806",
+    "hours": "",
+    "lat": 32.6422348,
+    "lng": -117.0888214,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221697",
+    "name": "Turning the Heart Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "345 5th Ave.",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "(619) 319-1704",
+    "hours": "",
+    "lat": 32.6376038,
+    "lng": -117.0866241,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222026",
+    "name": "Community Through Hope",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "465 C Street",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "(619) 915-7257",
+    "hours": "",
+    "lat": 32.6501503,
+    "lng": -117.0906677,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-193307",
+    "name": "Salvation Army Chula Vista",
+    "category": "Food",
+    "description": "Main food pantry and emergency food box distribution location.",
+    "address": "648 3rd Avenue",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "",
+    "hours": "",
+    "lat": 32.6290576,
+    "lng": -117.0757098,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208730",
+    "name": "Sister Dolores Social Outreach at St. Rosa of Lima Catholic Parish",
+    "category": "Food",
+    "description": "Main distribution location at St. Rosa of Lima Catholic Parish",
+    "address": "278 Alvarado Street",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "",
+    "hours": "",
+    "lat": 32.6358167,
+    "lng": -117.0769592,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187195",
+    "name": "Chula Vista Middle School",
+    "category": "Food",
+    "description": "Food pantry distribution location at Chula Vista Middle School.",
+    "address": "415 5th Ave",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "",
+    "hours": "",
+    "lat": 32.6351823,
+    "lng": -117.0845567,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191904",
+    "name": "South Bay Pentecostal",
+    "category": "Food",
+    "description": "Food distribution location at South Bay Pentecostal church",
+    "address": "395 D Street",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "",
+    "hours": "",
+    "lat": 32.6474751,
+    "lng": -117.086328,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203331",
+    "name": "Turning the Hearts Center",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "345 5th Avenue",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "",
+    "hours": "",
+    "lat": 32.6378961,
+    "lng": -117.0865103,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172343",
+    "name": "Oxford Terrace Apartments",
+    "category": "Food",
+    "description": "Emergency food assistance distribution site",
+    "address": "555 Oxford Street",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91911",
+    "phone": "(866) 350-3663",
+    "hours": "",
+    "lat": 32.6069971,
+    "lng": -117.0772477,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172462",
+    "name": "Us4Warriors",
+    "category": "Food",
+    "description": "Food pantry location serving Active Duty, Veterans, and their families",
+    "address": "1690 W. Frontage Road Suite 201",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91911",
+    "phone": "888-444-1415 ext. 4",
+    "hours": "",
+    "lat": 32.5974982,
+    "lng": -117.0901647,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174632",
+    "name": "Southport Christian Center",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "142 E. 16th Street",
+    "city": "National City",
+    "state": "CA",
+    "zip": "91950",
+    "phone": "(619) 474-2834",
+    "hours": "",
+    "lat": 32.6691954,
+    "lng": -117.1022536,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-chula-vista-shelter",
     "name": "Chula Vista Homeless Services Hotline",
     "category": "Shelter",

@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-218935",
+    "name": "Chandler Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "345 S. California St.",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "(480) 963-1423",
+    "hours": "",
+    "lat": 33.298111,
+    "lng": -111.8434372,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225501",
+    "name": "Society of St Vincent de Paul",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "230 w Galveston St",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "(480) 814-7778",
+    "hours": "",
+    "lat": 33.3137779,
+    "lng": -111.8479004,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-2010",
+    "name": "AZCEND",
+    "category": "Food",
+    "description": "proof of address",
+    "address": "345 S California Street",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "(480) 963-1423",
+    "hours": "",
+    "lat": 33.31748,
+    "lng": -111.83167,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-207908",
+    "name": "Restoration Community Center",
+    "category": "Food",
+    "description": "Restoration Community Center located in Chandler",
+    "address": "374 North Hamilton Street",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "",
+    "hours": "",
+    "lat": 33.3090972,
+    "lng": -111.8343029,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-2006",
+    "name": "Trinity Christian Fellowship",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "50 S. McQueen Rd.",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "(480) 963-7698",
+    "hours": "",
+    "lat": 33.31748,
+    "lng": -111.83167,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2007",
+    "name": "Salvation Army - Chandler",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "85 E. Saragosa St",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "(480) 963-2041",
+    "hours": "",
+    "lat": 33.31748,
+    "lng": -111.83167,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2008",
+    "name": "Food Bank at Matthew's Crossing",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1368 N. Arizona Ave",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "(480) 857-2296",
+    "hours": "",
+    "lat": 33.31748,
+    "lng": -111.83167,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-439299",
+    "name": "Rucker Rest Holdings LLC dba Jack in The Box 138",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "141 N Arizona Ave",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85224",
+    "phone": "",
+    "hours": "",
+    "lat": 33.30539,
+    "lng": -111.8411,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-440290",
+    "name": "McDONALD'S   11552",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "990 N. ARIZONA  AVENUE",
+    "city": "CHANDLER",
+    "state": "AZ",
+    "zip": "85224",
+    "phone": "",
+    "hours": "",
+    "lat": 33.32016,
+    "lng": -111.8424,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-128286",
+    "name": "Ball Charter Schools (Dobson)",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2207 NORTH DOBSON RD",
+    "city": "CHANDLER",
+    "state": "AZ",
+    "zip": "85224",
+    "phone": "(480) 855-6325",
+    "hours": "",
+    "lat": 33.339248,
+    "lng": -111.876296,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-222662",
+    "name": "cornerstone",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1595 so alma school rd",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85286",
+    "phone": "(480) 570-2493",
+    "hours": "",
+    "lat": 33.2834206,
+    "lng": -111.8574219,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223587",
+    "name": "Matthews Crossing",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1368 N. Arizona Avenue",
+    "city": "Suite 112, Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "(480) 857-2296",
+    "hours": "",
+    "lat": 33.3269768,
+    "lng": -111.8424911,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fallback-chandler-shelter",
     "name": "Chandler Homeless Services Hotline",
     "category": "Shelter",

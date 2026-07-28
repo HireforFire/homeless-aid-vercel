@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-219051",
+    "name": "Guild of St George",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "127 7th Street",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73102",
+    "phone": "(405) 232-2266",
+    "hours": "",
+    "lat": 35.4751663,
+    "lng": -97.5158081,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-199092",
+    "name": "City Rescue Mission",
+    "category": "Food",
+    "description": "City Rescue Mission location providing free meals and emergency shelter",
+    "address": "800 W. California Ave.",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.4648607,
+    "lng": -97.5265012,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173785",
+    "name": "Cross and Crown Mission",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1008 N. McKinley Ave.",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73106",
+    "phone": "(405) 232-7696",
+    "hours": "",
+    "lat": 35.4781282,
+    "lng": -97.5369245,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-12014",
+    "name": "City Care Inc.",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "131 NW 4th Street",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73102",
+    "phone": "(405) 609-2401",
+    "hours": "",
+    "lat": 35.47065,
+    "lng": -97.5191,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-12015",
+    "name": "Downtown Baptist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "629 W. Main",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73102",
+    "phone": "(405) 232-6977",
+    "hours": "",
+    "lat": 35.47065,
+    "lng": -97.5191,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-12016",
+    "name": "The Free Food Pantry, Inc. and Educational Center",
+    "category": "Food",
+    "description": "referral",
+    "address": "388 Park Ave",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73102",
+    "phone": "(405) 721-6763",
+    "hours": "",
+    "lat": 35.47065,
+    "lng": -97.5191,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-172469",
+    "name": "Springing Families Forward - Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at 310 NE 28th St.",
+    "address": "310 NE 28th St. #206",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73105",
+    "phone": "405-601-4565 ext. 102",
+    "hours": "",
+    "lat": 35.4983758,
+    "lng": -97.5064454,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173098",
+    "name": "Seventh-day Adventist Church South",
+    "category": "Food",
+    "description": "Corner of Binkley and Kentucky Ave. Parking available.",
+    "address": "3215 S. Kentucky Ave.",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73119",
+    "phone": "(405) 642-4481",
+    "hours": "",
+    "lat": 35.4329373,
+    "lng": -97.5437018,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173564",
+    "name": "Christian Service Center",
+    "category": "Food",
+    "description": "Christian Service Center location providing food distribution and clothing services",
+    "address": "115 SW 24th St.",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73109",
+    "phone": "(405) 236-5956",
+    "hours": "",
+    "lat": 35.4408045,
+    "lng": -97.515054,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218786",
+    "name": "The Salvation Army - Nw 7Th St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2041 NW 7th St",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73106",
+    "phone": "(405) 236-3677",
+    "hours": "",
+    "lat": 35.4823,
+    "lng": -97.53662,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-185258",
+    "name": "Salvation Army Kitchen",
+    "category": "Food",
+    "description": "Salvation Army Kitchen serving hot and cold meals",
+    "address": "1001 N Penn Ave",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73107",
+    "phone": "",
+    "hours": "",
+    "lat": 35.4776588,
+    "lng": -97.5488621,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188636",
+    "name": "TrueSky Credit Union-New Bethel Baptist Church Food Pantry",
+    "category": "Food",
+    "description": "Food distribution location at New Bethel Baptist Church",
+    "address": "1844 E Madison",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73111",
+    "phone": "",
+    "hours": "",
+    "lat": 35.4938139,
+    "lng": -97.4792426,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-oklahoma-city-shelter",
     "name": "Oklahoma City Homeless Services Hotline",
     "category": "Shelter",

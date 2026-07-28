@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-217220",
+    "name": "The Salvation Army - E Court Ave",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "211 E Court Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "(515) 243-4277",
+    "hours": "",
+    "lat": 41.58448,
+    "lng": -93.62152,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-184803",
+    "name": "Young Women's Resource Center",
+    "category": "Food",
+    "description": "Youth resource center location in Des Moines",
+    "address": "818 5th Avenue",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5926119,
+    "lng": -93.6248674,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185757",
+    "name": "YMCA Supportive Housing Campus",
+    "category": "Food",
+    "description": "YMCA Supportive Housing Campus facility",
+    "address": "2 SW 9th St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5823503,
+    "lng": -93.6279151,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188150",
+    "name": "Proteus Inc. Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Proteus Inc. in Des Moines, Iowa.",
+    "address": "1221 Center St Suite 16",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5919909,
+    "lng": -93.633457,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194310",
+    "name": "Community Kitchen",
+    "category": "Food",
+    "description": "Community Kitchen meal site located in Des Moines serving meals to the community.",
+    "address": "1420 Mulberry St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5824976,
+    "lng": -93.6343675,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194539",
+    "name": "True Vine HELPS",
+    "category": "Food",
+    "description": "True Vine HELPS food pantry location in Des Moines",
+    "address": "501 SE 4th St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5818915,
+    "lng": -93.6096512,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195273",
+    "name": "YSS - Iowa Homeless Youth Centers",
+    "category": "Food",
+    "description": "Multi-service center providing support to homeless youth in Des Moines",
+    "address": "612 Locust St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5863956,
+    "lng": -93.6256194,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-4469",
+    "name": "Central Iowa Shelter and Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1420 Mulberry Street",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "(515) 284-5719",
+    "hours": "",
+    "lat": 41.58448,
+    "lng": -93.62152,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-576726",
+    "name": "MovetheFood - Food Distribution Center",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1435 Mulberry Street",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "",
+    "hours": "",
+    "lat": 41.5828913,
+    "lng": -93.6354325,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-223624",
+    "name": "Ruth Harbor",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "534 42nd Street",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50312",
+    "phone": "(515) 279-4661",
+    "hours": "",
+    "lat": 41.5860089,
+    "lng": -93.6747232,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224653",
+    "name": "Catholic Charities St. Mary",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1815 Hubbell Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50316",
+    "phone": "(515) 262-7290",
+    "hours": "",
+    "lat": 41.5959526,
+    "lng": -93.5856766,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-217224",
+    "name": "The Salvation Army - Se 14Th St",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "4620 SE 14th St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50315",
+    "phone": "(515) 953-7451",
+    "hours": "",
+    "lat": 41.5449,
+    "lng": -93.62063,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fallback-des-moines-shelter",
     "name": "Des Moines Homeless Services Hotline",
     "category": "Shelter",

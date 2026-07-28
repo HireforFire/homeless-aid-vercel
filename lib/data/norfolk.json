@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-577505",
+    "name": "Foodbank of Southeastern Virginia and the Eastern Shore",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "800 Tidewater Drive",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "+1-757-627-6599;+1-877-486-4379",
+    "hours": "",
+    "lat": 36.8520447,
+    "lng": -76.2744762,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-131115",
+    "name": "Norfolk City",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "800 EAST CITY HALL AVE",
+    "city": "NORFOLK",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "(757) 628-3830",
+    "hours": "",
+    "lat": 36.846948,
+    "lng": -76.284663,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-717",
+    "name": "YWCA Norfolk Food Pantry",
+    "category": "Food",
+    "description": "Norfolk area",
+    "address": "624 E Freemason St",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23510",
+    "phone": "(757) 625-4248",
+    "hours": "",
+    "lat": 36.8514,
+    "lng": -76.2814,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-192262",
+    "name": "Village Family Food Pantry - First Calvary Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at First Calvary Baptist Church.",
+    "address": "813 Henry St",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8566359,
+    "lng": -76.2775722,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200441",
+    "name": "Foodbank of Southeastern Virginia and the Eastern Shore - Main Office",
+    "category": "Food",
+    "description": "Main office and distribution center for the Food Bank of Hampton Roads",
+    "address": "800 Tidewater Dr",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8520252,
+    "lng": -76.27452939999999,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211350",
+    "name": "Queen Street Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Queen Street Baptist Church",
+    "address": "413 E Brambleton Ave",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23510",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8533563,
+    "lng": -76.283844,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211404",
+    "name": "Basilica Of Saint Mary's-Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Basilica of Saint Mary's",
+    "address": "232 Chapel St",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8471276,
+    "lng": -76.2824413,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188908",
+    "name": "Soup Kitchen-Norfolk Soup",
+    "category": "Food",
+    "description": "Soup kitchen location in Norfolk, Virginia",
+    "address": "530 Raleigh Ave",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23507",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8607538,
+    "lng": -76.2961479,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199337",
+    "name": "Shiloh Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "745 Park Ave.",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8480502,
+    "lng": -76.2695447,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208329",
+    "name": "First Church of Christ Holiness",
+    "category": "Food",
+    "description": "Food pantry location at First Church of Christ Holiness",
+    "address": "862 E. Princess Anne Rd.",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8575233,
+    "lng": -76.2752314,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208667",
+    "name": "Freemason Free Pantry",
+    "category": "Food",
+    "description": "Free pantry location in Norfolk",
+    "address": "415 E Freemason St",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23510",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8500205,
+    "lng": -76.28668689999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173552",
+    "name": "Wesley Community Service Center",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "1701 Elm Ave.",
+    "city": "Portsmouth",
+    "state": "VA",
+    "zip": "23704",
+    "phone": "(757) 399-0541",
+    "hours": "",
+    "lat": 36.8255774,
+    "lng": -76.3120659,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-norfolk-shelter",
     "name": "Norfolk Homeless Services Hotline",
     "category": "Shelter",

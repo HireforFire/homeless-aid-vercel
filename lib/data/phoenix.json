@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-218641",
+    "name": "The Salvation Army - N 4Th Avenue",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "613 N. 4th Avenue",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85003",
+    "phone": "(602) 251-2000",
+    "hours": "",
+    "lat": 33.45059,
+    "lng": -112.07833,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-218704",
+    "name": "The Salvation Army - S Central Avenue",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1625 S. Central Avenue",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85004",
+    "phone": "(602) 256-4500",
+    "hours": "",
+    "lat": 33.45159,
+    "lng": -112.06988,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220694",
+    "name": "Andre House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "213 S. 11th Ave.",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85007",
+    "phone": "(602) 252-9023",
+    "hours": "",
+    "lat": 33.4453125,
+    "lng": -112.0867538,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223965",
+    "name": "NourishPhx",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "501 South 9th Avenue",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85007",
+    "phone": "(602) 775-5741",
+    "hours": "",
+    "lat": 33.442646,
+    "lng": -112.0844803,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-734",
+    "name": "Association of Arizona Food Banks",
+    "category": "Food",
+    "description": "Statewide",
+    "address": "340 E Jefferson St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85004",
+    "phone": "(602) 528-3434",
+    "hours": "",
+    "lat": 33.4514,
+    "lng": -112.0614,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-736",
+    "name": "Society of St Vincent de Paul",
+    "category": "Food",
+    "description": "Maricopa County",
+    "address": "420 W Watkins Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85003",
+    "phone": "(602) 261-6565",
+    "hours": "",
+    "lat": 33.4514,
+    "lng": -112.0814,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-831",
+    "name": "St Vincent de Paul Phoenix Central",
+    "category": "Food",
+    "description": "Central Phoenix",
+    "address": "1075 W Jackson St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85007",
+    "phone": "(602) 261-6011",
+    "hours": "",
+    "lat": 33.4514,
+    "lng": -112.0914,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-185125",
+    "name": "FIBCO Family Services Inc",
+    "category": "Food",
+    "description": "Main food distribution location. Features parking available. Affiliated with St. Mary's Food Bank.",
+    "address": "1141 E Jefferson St.",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85034",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4467484,
+    "lng": -112.0577904,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-208064",
+    "name": "Mercy Hill Church",
+    "category": "Food",
+    "description": "Food pantry location",
+    "address": "745 W. Fillmore St.",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85007",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4547413,
+    "lng": -112.083919,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210961",
+    "name": "Downtown Lincoln Family YMCA",
+    "category": "Food",
+    "description": "Downtown Lincoln Family YMCA facility",
+    "address": "350 N. 1st Ave.",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85003",
+    "phone": "",
+    "hours": "",
+    "lat": 33.4530221,
+    "lng": -112.0755178,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226173",
+    "name": "Diaper Bank of Southern Arizona",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Phoenix, AZ",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85001",
+    "phone": "",
+    "hours": "",
+    "lat": 33.44922,
+    "lng": -112.06921,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-182512",
+    "name": "Justa Center Inc",
+    "category": "Food",
+    "description": "Food distribution center with air conditioning. Indoor service available for walk-ins.",
+    "address": "1001 W Jefferson St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85007",
+    "phone": "",
+    "hours": "",
+    "lat": 33.446755,
+    "lng": -112.0861456,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-phoenix-shelter",
     "name": "Phoenix Homeless Services Hotline",
     "category": "Shelter",

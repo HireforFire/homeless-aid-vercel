@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-175360",
+    "name": "Volunteers of America Northern Rockies - Rapid City",
+    "category": "Food",
+    "description": "Main office and food pantry distribution location in Rapid City.",
+    "address": "111 New York St.",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "",
+    "hours": "",
+    "lat": 44.084600347134,
+    "lng": -103.217175222569,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175752",
+    "name": "Feeding SD at Star Village",
+    "category": "Food",
+    "description": "Mobile food distribution location at Star Village in Rapid City.",
+    "address": "27 Signal Dr.",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "",
+    "hours": "",
+    "lat": 44.072180336375,
+    "lng": -103.218795528272,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176804",
+    "name": "Rapid City Club for Boys",
+    "category": "Food",
+    "description": "Main youth center location",
+    "address": "320 N. 4th St.",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "",
+    "hours": "",
+    "lat": 44.086519593413,
+    "lng": -103.220742812017,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177089",
+    "name": "RV Ministry",
+    "category": "Food",
+    "description": "Hot meal distribution site",
+    "address": "715 Kansas City St.",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "",
+    "hours": "",
+    "lat": 44.079117911905,
+    "lng": -103.230372612938,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-150537",
+    "name": "Cornerstone Rescue Mission",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "30 Main St",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "(605) 341-2678",
+    "hours": "",
+    "lat": 44.0799,
+    "lng": -103.231,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-912",
+    "name": "Cornerstone Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "30 Main Street",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "(605) 341-2401",
+    "hours": "",
+    "lat": 44.0817,
+    "lng": -103.2317,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
+    "id": "fa-176059",
+    "name": "Wilson Elementary",
+    "category": "Food",
+    "description": "School location providing BackPack Program services",
+    "address": "827 Franklin St.",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "",
+    "hours": "",
+    "lat": 44.070313812266,
+    "lng": -103.233850432203,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176397",
+    "name": "Minneluzahan Senior Center",
+    "category": "Food",
+    "description": "Senior center location providing hot meal services",
+    "address": "315 N. 4th St.",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "",
+    "hours": "",
+    "lat": 44.086768871214,
+    "lng": -103.221872524927,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177975",
+    "name": "Trinity Lutheran Church",
+    "category": "Food",
+    "description": "Trinity Lutheran Church hot meal site location",
+    "address": "402 Kansas City St.",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "",
+    "hours": "",
+    "lat": 44.078663235567,
+    "lng": -103.224385419499,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-150534",
+    "name": "Feeding South Dakota - Rapid City",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "808 E Saint Andrew St",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "(605) 348-2689",
+    "hours": "",
+    "lat": 44.0717,
+    "lng": -103.2218,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-224952",
+    "name": "Feeding South Dakota Statewide Mobile Food Distribution Program",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1111 N. Creek Dr.",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "(605) 348-2689",
+    "hours": "",
+    "lat": 44.0896454,
+    "lng": -103.1848984,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-175679",
+    "name": "Oaye Luta Okolakiciye Pantry",
+    "category": "Food",
+    "description": "Main food pantry and hot meal site location",
+    "address": "937 E. North St. Suite 401",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701",
+    "phone": "",
+    "hours": "",
+    "lat": 44.086509535129,
+    "lng": -103.195638509093,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fallback-rapid-city-shelter",
     "name": "Rapid City Homeless Services Hotline",
     "category": "Shelter",

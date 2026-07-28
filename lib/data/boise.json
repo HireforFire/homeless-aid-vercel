@@ -1,5 +1,233 @@
 [
   {
+    "id": "fa-219107",
+    "name": "Friendship Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "950 W State St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 345-3441",
+    "hours": "",
+    "lat": 43.6198158,
+    "lng": -116.2020416,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219122",
+    "name": "Giraffe Laugh",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1191 Grand Ave.",
+    "city": "Boise,",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 424-3387",
+    "hours": "",
+    "lat": 43.6147232,
+    "lng": -116.2123947,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219360",
+    "name": "Giraffe Laugh 1",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "901 Resseguie St.",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 342-1239",
+    "hours": "",
+    "lat": 43.6263847,
+    "lng": -116.1988983,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220169",
+    "name": "Supportive Housing and Innovative Partnerships",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1405 W Grove St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 559-2612",
+    "hours": "",
+    "lat": 43.6184578,
+    "lng": -116.21138,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221092",
+    "name": "St John's Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "815 W Hays St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 345-3424",
+    "hours": "",
+    "lat": 43.6209221,
+    "lng": -116.1969452,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-221692",
+    "name": "Boise Rescue Mission Warehouse",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "308 S 24th St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 343-2389",
+    "hours": "",
+    "lat": 43.6199799,
+    "lng": -116.2192993,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-224892",
+    "name": "ALPHA Choice Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "537 W Bannock St",
+    "city": "STE 100, Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "(208) 424-7799",
+    "hours": "",
+    "lat": 43.6155586,
+    "lng": -116.1991348,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-179322",
+    "name": "Boise Rescue Mission River of Life - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Boise, Idaho.",
+    "address": "575 S 13th St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6155186,
+    "lng": -116.2144256,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210970",
+    "name": "Idaho Hunger Action Council - Food Distribution Center",
+    "category": "Food",
+    "description": "Main food distribution center location in Boise.",
+    "address": "1311 W Jefferson St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6209376,
+    "lng": -116.20782919999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-219133",
+    "name": "Salvation Army-Boise",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "4308 W State St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83703",
+    "phone": "(208) 433-4423",
+    "hours": "",
+    "lat": 43.6352997,
+    "lng": -116.2283859,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219161",
+    "name": "St Mary's Church and Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2945 W Chinden",
+    "city": "Garden City",
+    "state": "ID",
+    "zip": "83714",
+    "phone": "(208) 850-6818",
+    "hours": "",
+    "lat": 43.6197586,
+    "lng": -116.2353668,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219173",
+    "name": "Community Support Center Advocates",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "716 N Orchard",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83706",
+    "phone": "(208) 429-0330",
+    "hours": "",
+    "lat": 43.6113052,
+    "lng": -116.2430649,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fallback-boise-shelter",
     "name": "Boise Homeless Services Hotline",
     "category": "Shelter",

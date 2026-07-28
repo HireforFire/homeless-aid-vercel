@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-218669",
+    "name": "The Salvation Army - Ave Fernandez Juncos Puerto De Tierra",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "Ave Fernandez Juncos Puerto de Tierra",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "00901",
+    "phone": "(787) 722-3301",
+    "hours": "",
+    "lat": 18.46478,
+    "lng": -66.10277,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fallback-san-juan-shelter",
     "name": "San Juan Homeless Services Hotline",
     "category": "Shelter",

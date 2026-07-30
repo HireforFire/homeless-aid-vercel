@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-172256",
-    "name": "La Paz Chattanooga",
-    "category": "Food",
-    "description": "Main location providing food pantry and SNAP assistance services by appointment only.",
-    "address": "809 S Willow St",
-    "city": "Chattanooga",
-    "state": "TN",
-    "zip": "37404",
-    "phone": "(423) 624-8414",
-    "hours": "",
-    "lat": 35.0301976,
-    "lng": -85.2747136,
-    "tags": [
-      "food pantry",
-      "appointment"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-212535",
     "name": "Wauhatchie United Methodist Church",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-172256",
+    "name": "La Paz Chattanooga",
+    "category": "Food",
+    "description": "Main location providing food pantry and SNAP assistance services by appointment only.",
+    "address": "809 S Willow St",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37404",
+    "phone": "(423) 624-8414",
+    "hours": "",
+    "lat": 35.0301976,
+    "lng": -85.2747136,
+    "tags": [
+      "food pantry",
+      "appointment"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-174741",

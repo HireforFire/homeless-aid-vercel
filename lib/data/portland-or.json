@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-223452",
-    "name": "REACH Community Food Closet",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "631 South East Taylor Street",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97214",
-    "phone": "(503) 542-4881",
-    "hours": "",
-    "lat": 45.5152307,
-    "lng": -122.6590831,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-222732",
     "name": "NW Portland Ministies, Inc.",
     "category": "Food",
@@ -50,6 +31,25 @@
     "hours": "",
     "lat": 45.5175285,
     "lng": -122.6935272,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-223452",
+    "name": "REACH Community Food Closet",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "631 South East Taylor Street",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "phone": "(503) 542-4881",
+    "hours": "",
+    "lat": 45.5152307,
+    "lng": -122.6590831,
     "tags": [
       "food pantry",
       "walk-in"

@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-226201",
-    "name": "Junior League of Baton Rouge Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Baton Rouge, LA",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "70801",
-    "phone": "",
-    "hours": "",
-    "lat": 30.44954,
-    "lng": -91.18608,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-179705",
     "name": "East Baton Rouge Council on Aging",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226201",
+    "name": "Junior League of Baton Rouge Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Baton Rouge, LA",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70801",
+    "phone": "",
+    "hours": "",
+    "lat": 30.44954,
+    "lng": -91.18608,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-216796",

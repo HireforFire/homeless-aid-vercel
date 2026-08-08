@@ -209,23 +209,23 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-226236",
-    "name": "Sweet Cheeks Diaper Bank",
+    "id": "fa-178157",
+    "name": "POAH Communities - Cincinnati",
     "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Cincinnati, OH",
+    "description": "Food assistance distribution location",
+    "address": "21 W. 13th St",
     "city": "Cincinnati",
     "state": "OH",
-    "zip": "45201",
+    "zip": "45202",
     "phone": "",
     "hours": "",
-    "lat": 39.10879,
-    "lng": -84.50125,
+    "lat": 39.10919096745,
+    "lng": -84.516044084223,
     "tags": [
-      "diaper bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-10"
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fallback-cincinnati-shelter",

@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-226157",
-    "name": "Bundles of Hope Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Birmingham, AL",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35201",
-    "phone": "",
-    "hours": "",
-    "lat": 33.51856,
-    "lng": -86.80842,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-172537",
     "name": "Urban Ministry, Inc.",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -86.7943734,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172376",
+    "name": "Grace Klein Community - Jefferson County Family Court House",
+    "category": "Food",
+    "description": "Mobile food pantry distribution location at Jefferson County Family Court House",
+    "address": "120 2nd Ct. N.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35204",
+    "phone": "(205) 490-7516",
+    "hours": "",
+    "lat": 33.5049423,
+    "lng": -86.8339309,
+    "tags": [
+      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-226357",
-    "name": "Women and Children's Center of the Sierra Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Reno, NV",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89501",
-    "phone": "",
-    "hours": "",
-    "lat": 39.52602,
-    "lng": -119.81262,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-170665",
     "name": "Children's Cabinet School",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 39.529318,
     "lng": -119.8214944,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170738",
+    "name": "Evelyn Mount Northeast Community Center",
+    "category": "Food",
+    "description": "Community center location providing school break meal services for children.",
+    "address": "1301 Valley Road",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89512",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5414247,
+    "lng": -119.8083705,
     "tags": [
       "food pantry",
       "walk-in"

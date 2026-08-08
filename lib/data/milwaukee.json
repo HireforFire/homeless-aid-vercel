@@ -38,25 +38,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-226309",
-    "name": "Milwaukee Diaper Mission",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Milwaukee, WI",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53201",
-    "phone": "",
-    "hours": "",
-    "lat": 43.03618,
-    "lng": -87.91696,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-189811",
     "name": "Boys & Girls Clubs Of Greater Milwaukee - Food Distribution Center",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226309",
+    "name": "Milwaukee Diaper Mission",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Milwaukee, WI",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53201",
+    "phone": "",
+    "hours": "",
+    "lat": 43.03618,
+    "lng": -87.91696,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-218537",

@@ -133,25 +133,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-226251",
-    "name": "Utah Food Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Salt Lake City, UT",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84101",
-    "phone": "",
-    "hours": "",
-    "lat": 40.75628,
-    "lng": -111.89996,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-189173",
     "name": "Justice Economic Dignity: Independence For Women - Food Distribution Center",
     "category": "Food",
@@ -218,6 +199,25 @@
     "state": "UT",
     "zip": "84101",
     "phone": "(801) 355-1302",
+    "hours": "",
+    "lat": 40.75628,
+    "lng": -111.89996,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13899",
+    "name": "CCS Salt Lake City",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "437 W. 200 S.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "(801) 363-7710",
     "hours": "",
     "lat": 40.75628,
     "lng": -111.89996,

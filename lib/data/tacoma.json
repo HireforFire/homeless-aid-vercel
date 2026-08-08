@@ -152,25 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-226311",
-    "name": "Pierce County Early Childhood Network",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Tacoma, WA",
-    "city": "Tacoma",
-    "state": "WA",
-    "zip": "98401",
-    "phone": "",
-    "hours": "",
-    "lat": 47.25587,
-    "lng": -122.44165,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-184815",
     "name": "Tacoma Empowerment Consortium - Food Distribution Center",
     "category": "Food",
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-226311",
+    "name": "Pierce County Early Childhood Network",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Tacoma, WA",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98401",
+    "phone": "",
+    "hours": "",
+    "lat": 47.25587,
+    "lng": -122.44165,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-222060",

@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-226217",
-    "name": "Michael Klahr Jewish Family Services",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Portland, ME",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6624,
-    "lng": -70.2586,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-180940",
     "name": "Sacred Heart / St. Dominic Food Pantry",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -70.2730504,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187320",
+    "name": "Presente Maine",
+    "category": "Food",
+    "description": "Food pantry location in Portland, Maine, affiliated with Good Shepherd Food Bank.",
+    "address": "795 Congress Street",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.65401,
+    "lng": -70.272139,
+    "tags": [
+      "food bank",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

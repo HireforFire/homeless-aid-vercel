@@ -171,25 +171,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-226289",
-    "name": "Food Share's Diaper Bank",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Oxnard, CA",
-    "city": "Oxnard",
-    "state": "CA",
-    "zip": "93030",
-    "phone": "",
-    "hours": "",
-    "lat": 34.2051,
-    "lng": -119.1753,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-177611",
     "name": "Wilson Senior Center",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 34.197432,
     "lng": -119.1888939,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184920",
+    "name": "St. Johns Health Ministries @ Christ The King/Cristo El Rey",
+    "category": "Food",
+    "description": "Food pantry location at Christ The King/Cristo El Rey facility.",
+    "address": "535 Cooper Rd.",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2048171,
+    "lng": -119.1729974,
     "tags": [
       "food pantry",
       "walk-in"

@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-219757",
-    "name": "OPERATION: Sack Lunch",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "210 Alaskan Way South",
-    "city": "Seattle",
-    "state": "WA",
-    "zip": "98184",
-    "phone": "(206) 922-2015",
-    "hours": "",
-    "lat": 47.6001167,
-    "lng": -122.3359375,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-218469",
     "name": "The Salvation Army - Pike St 1",
     "category": "Food",
@@ -50,6 +31,25 @@
     "hours": "",
     "lat": 47.61119,
     "lng": -122.33454,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219757",
+    "name": "OPERATION: Sack Lunch",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "210 Alaskan Way South",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98184",
+    "phone": "(206) 922-2015",
+    "hours": "",
+    "lat": 47.6001167,
+    "lng": -122.3359375,
     "tags": [
       "food pantry",
       "walk-in"
@@ -190,25 +190,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-226257",
-    "name": "WestSide Baby",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Seattle, WA",
-    "city": "Seattle",
-    "state": "WA",
-    "zip": "98101",
-    "phone": "",
-    "hours": "",
-    "lat": 47.61119,
-    "lng": -122.33454,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-179931",
     "name": "East Village Neighbors Fridge",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -122.344353,
     "tags": [
       "community fridge",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181545",
+    "name": "City Of Seattle Dept. Of Housing And Human Services - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center providing walk-up food services",
+    "address": "618 2nd Ave",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98104",
+    "phone": "",
+    "hours": "",
+    "lat": 47.6029352,
+    "lng": -122.3327947,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

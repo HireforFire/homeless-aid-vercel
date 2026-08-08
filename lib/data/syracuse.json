@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-194342",
-    "name": "The Salvation Army Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location in Syracuse",
-    "address": "667 S. Salina Street",
-    "city": "Syracuse",
-    "state": "NY",
-    "zip": "13202",
-    "phone": "",
-    "hours": "",
-    "lat": 43.041355,
-    "lng": -76.150355,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-180659",
     "name": "PEACE Inc. Westside Family Resource Center",
     "category": "Food",
@@ -202,6 +183,25 @@
     "hours": "",
     "lat": 43.0471072,
     "lng": -76.1605708,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194342",
+    "name": "The Salvation Army Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location in Syracuse",
+    "address": "667 S. Salina Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13202",
+    "phone": "",
+    "hours": "",
+    "lat": 43.041355,
+    "lng": -76.150355,
     "tags": [
       "food pantry",
       "walk-in"

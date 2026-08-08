@@ -209,23 +209,23 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-226296",
-    "name": "The Diaper Bank of Greater Cleveland",
+    "id": "fa-175542",
+    "name": "Iglesia Sinai",
     "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Cleveland, OH",
+    "description": "Food pantry distribution location at Iglesia Sinai.",
+    "address": "2806 Daisy Ave",
     "city": "Cleveland",
     "state": "OH",
-    "zip": "44101",
+    "zip": "44109",
     "phone": "",
     "hours": "",
-    "lat": 41.48988,
-    "lng": -81.6717,
+    "lat": 41.459361366676,
+    "lng": -81.702341615084,
     "tags": [
-      "diaper bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-10"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-cleveland-shelter",

@@ -152,25 +152,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-226172",
-    "name": "Cradles to Crayons - Chicago",
-    "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Chicago, IL",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60601",
-    "phone": "",
-    "hours": "",
-    "lat": 41.8970272,
-    "lng": -87.6716833,
-    "tags": [
-      "diaper bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-10"
-  },
-  {
     "id": "fa-186777",
     "name": "Our Lady of the Holy Family",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 41.8816901,
     "lng": -87.6652387,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190530",
+    "name": "Life Changers International Church",
+    "category": "Food",
+    "description": "Main entrance. Bring ID.",
+    "address": "1337 W 15th Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8612408,
+    "lng": -87.66087,
     "tags": [
       "food pantry",
       "walk-in"

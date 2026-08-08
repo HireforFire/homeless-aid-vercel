@@ -209,23 +209,23 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-226176",
-    "name": "Diaper Bank of Southern Arizona",
+    "id": "fa-186328",
+    "name": "Neighbors Feeding Neighbors - Kitchen Location",
     "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Tucson, AZ",
+    "description": "Food is available from the kitchen, which is accessible through the gate around the corner on 16th Street. The Church campus is on the corner of 5th Avenue and 16th Street, in the Armory Park neighborhood of Tucson. Near Public Transit.",
+    "address": "545 S 5th Ave",
     "city": "Tucson",
     "state": "AZ",
     "zip": "85701",
     "phone": "",
     "hours": "",
-    "lat": 32.21702,
-    "lng": -110.97138,
+    "lat": 32.21488,
+    "lng": -110.96669,
     "tags": [
-      "diaper bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-10"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-tucson-shelter",

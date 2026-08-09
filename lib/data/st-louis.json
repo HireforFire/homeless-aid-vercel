@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-576404",
-    "name": "St. Nicholas Church",
-    "category": "Food",
-    "description": "Missouri food pantry distributing free groceries to families in need. Mon 12:00-1:30 Most pantries do not require ID or proof of income.",
-    "address": "701 North 18th Street",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "63017",
-    "phone": "(314) 231-2860",
-    "hours": "",
-    "lat": 38.634844,
-    "lng": -90.204285,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
     "id": "fa-220233",
     "name": "St. Vincent DePaul",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-576404",
+    "name": "St. Nicholas Church",
+    "category": "Food",
+    "description": "Missouri food pantry distributing free groceries to families in need. Mon 12:00-1:30 Most pantries do not require ID or proof of income.",
+    "address": "701 North 18th Street",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63017",
+    "phone": "(314) 231-2860",
+    "hours": "",
+    "lat": 38.634844,
+    "lng": -90.204285,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fa-197803",
@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-576286",
-    "name": "Urban League Metropolitan St. Louis",
+    "id": "fa-219916",
+    "name": "joint neighborhood ministry",
     "category": "Food",
-    "description": "Missouri food pantry distributing free groceries to families in need. Tues-Thurs 2:00-4:30 Most pantries do not require ID or proof of income.",
-    "address": "935 Vandeventer",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "63108",
-    "phone": "(314) 615-3654",
-    "hours": "",
-    "lat": 38.644863,
-    "lng": -90.236693,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-576412",
-    "name": "Guardian Angel Settlement House",
-    "category": "Food",
-    "description": "Missouri food pantry distributing free groceries to families in need. Mon-Fri 9:00-3:30 Most pantries do not require ID or proof of income.",
-    "address": "3300 S Jefferson",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2911 McNair",
     "city": "St. Louis",
     "state": "MO",
     "zip": "63118",
-    "phone": "(314) 773-9027",
+    "phone": "(314) 771-3987",
     "hours": "",
-    "lat": 38.594324,
-    "lng": -90.224802,
+    "lat": 38.5996704,
+    "lng": -90.2207184,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-220241",
+    "name": "Society of St. Vincent de Paul Conference @ St. Francis de Sales Oratory",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2653 Ohio Avenue",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63118",
+    "phone": "(314) 289-6101",
+    "hours": "",
+    "lat": 38.6040154,
+    "lng": -90.2257156,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-st-louis-shelter",

@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-440324",
-    "name": "Subway 18244",
+    "id": "fa-226228",
+    "name": "Sacramento Food Bank & Family Services",
     "category": "Food",
-    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
-    "address": "2029 J Street",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Sacramento, CA",
     "city": "Sacramento",
     "state": "CA",
-    "zip": "95811",
+    "zip": "94203",
     "phone": "",
     "hours": "",
-    "lat": 38.57653,
-    "lng": -121.479,
+    "lat": 38.58435,
+    "lng": -121.49376,
     "tags": [
-      "rmp restaurant",
+      "diaper bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fallback-sacramento-shelter",

@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-181257",
-    "name": "Salvation Army (SA) Men's Center",
-    "category": "Food",
-    "description": "Meal service location at the Salvation Army Men's Center",
-    "address": "2551 Dodge St",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68131",
-    "phone": "",
-    "hours": "",
-    "lat": 41.259583,
-    "lng": -95.949638,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-179113",
     "name": "Kountze Memorial Lutheran Church Food Pantry",
     "category": "Food",
@@ -88,6 +69,25 @@
     "hours": "",
     "lat": 41.2584315,
     "lng": -95.9510832,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-181257",
+    "name": "Salvation Army (SA) Men's Center",
+    "category": "Food",
+    "description": "Meal service location at the Salvation Army Men's Center",
+    "address": "2551 Dodge St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68131",
+    "phone": "",
+    "hours": "",
+    "lat": 41.259583,
+    "lng": -95.949638,
     "tags": [
       "food pantry",
       "walk-in"

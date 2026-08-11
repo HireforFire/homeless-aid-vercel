@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-134076",
-    "name": "People Serving People",
+    "id": "fa-576949",
+    "name": "Produce Distribution",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "614 3rd Street South",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "420 15th Avenue South",
     "city": "Minneapolis",
     "state": "MN",
-    "zip": "55415",
-    "phone": "(612) 332-4500",
+    "zip": "55454",
+    "phone": "",
     "hours": "",
-    "lat": 44.97463,
-    "lng": -93.2578,
+    "lat": 44.9706201,
+    "lng": -93.2503905,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fallback-minneapolis-shelter",

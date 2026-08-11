@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-133923",
-    "name": "Merrick Community Services Food Shelf / Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1669 Arcade Street North, Door 3",
-    "city": "Saint Paul",
-    "state": "MN",
-    "zip": "55101",
-    "phone": "(651) 287-2088",
-    "hours": "",
-    "lat": 44.95111,
-    "lng": -93.08739,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-02-12"
-  },
-  {
     "id": "fa-175804",
     "name": "St. Paul Farmers Market",
     "category": "Food",
@@ -114,34 +95,15 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-134117",
-    "name": "Salvation Army East St Paul",
+    "id": "fa-133923",
+    "name": "Merrick Community Services Food Shelf / Food Pantry",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1019 Payne Avenue",
-    "city": "St Paul",
+    "address": "1669 Arcade Street North, Door 3",
+    "city": "Saint Paul",
     "state": "MN",
     "zip": "55101",
-    "phone": "(651) 776-2653",
-    "hours": "",
-    "lat": 44.95111,
-    "lng": -93.08739,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-02-12"
-  },
-  {
-    "id": "fa-134140",
-    "name": "Union Gospel Mission",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "435 East University Avenue",
-    "city": "St Paul",
-    "state": "MN",
-    "zip": "55101",
-    "phone": "(651) 292-1721",
+    "phone": "(651) 287-2088",
     "hours": "",
     "lat": 44.95111,
     "lng": -93.08739,
@@ -188,6 +150,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-134117",
+    "name": "Salvation Army East St Paul",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1019 Payne Avenue",
+    "city": "St Paul",
+    "state": "MN",
+    "zip": "55101",
+    "phone": "(651) 776-2653",
+    "hours": "",
+    "lat": 44.95111,
+    "lng": -93.08739,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-02-12"
+  },
+  {
+    "id": "fa-134140",
+    "name": "Union Gospel Mission",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "435 East University Avenue",
+    "city": "St Paul",
+    "state": "MN",
+    "zip": "55101",
+    "phone": "(651) 292-1721",
+    "hours": "",
+    "lat": 44.95111,
+    "lng": -93.08739,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "fa-174710",

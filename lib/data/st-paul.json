@@ -228,6 +228,44 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "osm-node-12214814765",
+    "name": "Rainbow Wardrobe",
+    "category": "Clothing & Supplies",
+    "description": "social_facility",
+    "address": "Harmon Place 1201",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55403",
+    "phone": "",
+    "hours": "Mo,We 12:00-20:00 open \"by appointment\"; Tu,Fr 09:00-16:00 open \"by appointment\"; Th 09:00-16:00 open \"by appointment\", Th 12:00-15:00 open \"open house\"; Sa[2] 14:00-16:00 open \"open house\"",
+    "lat": 44.9732447,
+    "lng": -93.2793572,
+    "tags": [
+      "clothing",
+      "free"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-136159841",
+    "name": "Joseph's Coat",
+    "category": "Clothing & Supplies",
+    "description": "social_facility",
+    "address": "7th Street West 1107",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55102",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9251748,
+    "lng": -93.1310452,
+    "tags": [
+      "clothing",
+      "free"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-st-paul-shelter",
     "name": "St. Paul Homeless Services Hotline",
     "category": "Shelter",

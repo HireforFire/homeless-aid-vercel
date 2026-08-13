@@ -228,6 +228,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-way-1313532045",
+    "name": "Samaritan's Heart Resale Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Price Street 102",
+    "city": "Florence",
+    "state": "MS",
+    "zip": "39073",
+    "phone": "",
+    "hours": "Tu-Sa 11:00-16:00",
+    "lat": 32.1545948,
+    "lng": -90.1317357,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-jackson-ms-shelter",
     "name": "Jackson Homeless Services Hotline",
     "category": "Shelter",

@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-577028",
-    "name": "New Horizons",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "199 Manchester Street",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "03103",
-    "phone": "",
-    "hours": "",
-    "lat": 42.9899981,
-    "lng": -71.4586878,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-9275",
     "name": "Cedar Street Salvation Army",
     "category": "Food",
@@ -76,20 +57,20 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-577030",
-    "name": "Liberty House",
+    "id": "fa-577028",
+    "name": "New Horizons",
     "category": "Food",
-    "description": "Free soup kitchen providing food assistance. Open to all.",
-    "address": "75 West Baker Street",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "199 Manchester Street",
     "city": "Manchester",
     "state": "NH",
     "zip": "03103",
-    "phone": "(603) 669-0761",
+    "phone": "",
     "hours": "",
-    "lat": 42.9724925,
-    "lng": -71.4649144,
+    "lat": 42.9899981,
+    "lng": -71.4586878,
     "tags": [
-      "soup kitchen",
+      "food bank",
       "walk-in"
     ],
     "lastUpdated": "2026-05-15"
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-577030",
+    "name": "Liberty House",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "75 West Baker Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "(603) 669-0761",
+    "hours": "",
+    "lat": 42.9724925,
+    "lng": -71.4649144,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-935",

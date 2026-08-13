@@ -228,6 +228,206 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-368050275",
+    "name": "James Wheelock Clark Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.7276627,
+    "lng": -73.692566,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368050279",
+    "name": "Marvin Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6963889,
+    "lng": -73.6861111,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368050283",
+    "name": "Dietel Library & Archives",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Pawling Avenue 285",
+    "city": "Troy",
+    "state": "NY",
+    "zip": "12180",
+    "phone": "",
+    "hours": "",
+    "lat": 42.7119989,
+    "lng": -73.6625523,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051074",
+    "name": "Governor Thomas E Dewey Graduate Library for Public Affairs and Policy",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6602358,
+    "lng": -73.7705695,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051078",
+    "name": "Charles R Joy Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6616312,
+    "lng": -73.7714263,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051109",
+    "name": "John A Howe Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8176034,
+    "lng": -73.945062,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368051159",
+    "name": "Grems-Doolittle Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.8171741,
+    "lng": -73.9496411,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-373330595",
+    "name": "North Greenbush Public LIbrary",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6961022,
+    "lng": -73.6393128,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543625413",
+    "name": "Rcs Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 106",
+    "city": "Ravena",
+    "state": "NY",
+    "zip": "12143",
+    "phone": "",
+    "hours": "",
+    "lat": 42.47218,
+    "lng": -73.80939,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-543625475",
+    "name": "Voorheesville Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "School Road 51",
+    "city": "Voorheesville",
+    "state": "NY",
+    "zip": "12186",
+    "phone": "",
+    "hours": "",
+    "lat": 42.65689,
+    "lng": -73.93965,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-albany-shelter",
     "name": "Albany Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +449,22 @@
   },
   {
     "id": "fallback-albany-hygiene",
-    "name": "Albany Public Restroom Information",
+    "name": "James Wheelock Clark Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Albany",
     "state": "NY",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 42.6526,
-    "lng": -73.7562,
+    "hours": "During library hours",
+    "lat": 42.7276627,
+    "lng": -73.692566,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-albany-library",
-    "name": "Albany Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Albany",
-    "state": "NY",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 42.6526,
-    "lng": -73.7562,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -228,22 +228,135 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-amarillo-shelter",
-    "name": "Amarillo Homeless Services Hotline",
+    "id": "osm-node-13114351101",
+    "name": "Faith City Shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
+    "description": "social_facility",
+    "address": "North Tyler Street 600",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79107",
+    "phone": "",
+    "hours": "24/7",
+    "lat": 35.2197889,
+    "lng": -101.8356214,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13279243022",
+    "name": "Transformation park",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "West 5th Avenue 1501",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2104255,
+    "lng": -101.8538875,
+    "tags": [
+      "shelter",
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10744268905",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Paramount Boulevard 2626",
     "city": "Amarillo",
     "state": "TX",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 35.2072,
-    "lng": -101.8313,
+    "phone": "",
+    "hours": "",
+    "lat": 35.1850928,
+    "lng": -101.8754389,
     "tags": [
-      "shelter",
-      "hotline",
-      "211"
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10744378705",
+    "name": "America’s thrift store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Plains Boulevard 3015",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79102",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2034477,
+    "lng": -101.8705924,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13495354700",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southeast 27th Avenue 2201",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79103",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1866887,
+    "lng": -101.8109728,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13658181021",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Bell Street 1904",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "(806) 331-6890",
+    "hours": "",
+    "lat": 35.1917009,
+    "lng": -101.9030506,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13900673338",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southeast 27th Avenue 1211",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79103",
+    "phone": "(806) 379-8482",
+    "hours": "",
+    "lat": 35.185422,
+    "lng": -101.8252641,
+    "tags": [
+      "thrift",
+      "charity"
     ],
     "lastUpdated": "2026-05-14"
   },

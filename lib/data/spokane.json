@@ -228,6 +228,101 @@
     "lastUpdated": "2026-01-08"
   },
   {
+    "id": "osm-way-859919763",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.6768446,
+    "lng": -117.4103286,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-901815208",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 47.6746445,
+    "lng": -117.4071031,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-939110635",
+    "name": "Victors Vendor Mall",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Francis Avenue 1325",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "hours": "Tu-Sa 10:00-18:00",
+    "lat": 47.7153111,
+    "lng": -117.3904787,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-997978859",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Nevada Street 9832",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99218",
+    "phone": "",
+    "hours": "",
+    "lat": 47.7472231,
+    "lng": -117.393713,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1121499271",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Flight Drive 9837",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99224",
+    "phone": "(509) 279-2916",
+    "hours": "",
+    "lat": 47.6400678,
+    "lng": -117.5493999,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-spokane-shelter",
     "name": "Spokane Homeless Services Hotline",
     "category": "Shelter",

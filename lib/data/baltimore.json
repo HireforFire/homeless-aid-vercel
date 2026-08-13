@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-576867",
-    "name": "Waters AME - Food Distribution Center",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "417 Aisquith Street",
-    "city": "Baltimore",
-    "state": "MD",
-    "zip": "21202",
-    "phone": "(410) 675-2640",
-    "hours": "",
-    "lat": 39.2954122,
-    "lng": -76.6014962,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-219652",
     "name": "My Sister's Place Lodge",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 39.28986099999999,
     "lng": -76.6287026,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205636",
+    "name": "Land of Kush - Bromo Arts District",
+    "category": "Food",
+    "description": "Food distribution location in Bromo Arts District",
+    "address": "840 North Eutaw Street",
+    "city": "Bromo Arts District",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "",
+    "hours": "",
+    "lat": 39.3001979,
+    "lng": -76.6215814,
     "tags": [
       "food pantry",
       "walk-in"

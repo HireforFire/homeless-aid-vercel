@@ -228,22 +228,40 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-frankfort-ky-shelter",
-    "name": "Frankfort Homeless Services Hotline",
+    "id": "osm-node-11364198025",
+    "name": "Model Airplane Shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Frankfort",
     "state": "KY",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 38.2009,
-    "lng": -84.8733,
+    "phone": "",
+    "hours": "",
+    "lat": 38.0492667,
+    "lng": -84.7663143,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1524070680",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Wallace Avenue 315",
+    "city": "Frankfort",
+    "state": "KY",
+    "zip": "40601",
+    "phone": "(502) 227-8037",
+    "hours": "Tu 10:00-13:00, We 10:00-13:00, Sa 10:00-13:00",
+    "lat": 38.2028257,
+    "lng": -84.8658466,
+    "tags": [
+      "thrift",
+      "charity"
     ],
     "lastUpdated": "2026-05-14"
   },

@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-576699",
-    "name": "CCD Swooper Market",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "900 Auraria Parkway",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "phone": "(303) 352-6532",
-    "hours": "",
-    "lat": 39.7449753,
-    "lng": -105.0055096,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-216087",
     "name": "Denver Inner City Parish",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-576699",
+    "name": "CCD Swooper Market",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "900 Auraria Parkway",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204",
+    "phone": "(303) 352-6532",
+    "hours": "",
+    "lat": 39.7449753,
+    "lng": -105.0055096,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-220735",

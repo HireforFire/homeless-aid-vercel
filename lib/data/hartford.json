@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-576702",
-    "name": "End Hunger Connecticut",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "65 Hungerford Street",
-    "city": "Hartford",
-    "state": "CT",
-    "zip": "06106",
-    "phone": "(860) 560-2100",
-    "hours": "",
-    "lat": 41.7615534,
-    "lng": -72.6856892,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-128887",
     "name": "CREC",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-576702",
+    "name": "End Hunger Connecticut",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "65 Hungerford Street",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06106",
+    "phone": "(860) 560-2100",
+    "hours": "",
+    "lat": 41.7615534,
+    "lng": -72.6856892,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-219597",

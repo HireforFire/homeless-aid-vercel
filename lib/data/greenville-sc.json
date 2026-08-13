@@ -228,6 +228,139 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-491509306",
+    "name": "Miracle Hill Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Woodruff Road 1818",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29607",
+    "phone": "",
+    "hours": "",
+    "lat": 34.818286,
+    "lng": -82.2688739,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3281375781",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Street 915",
+    "city": "Simpsonville",
+    "state": "SC",
+    "zip": "29681",
+    "phone": "",
+    "hours": "",
+    "lat": 34.7226478,
+    "lng": -82.2546925,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3653142059",
+    "name": "Miracle Hill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Roe Center Court 552",
+    "city": "Travelers Rest",
+    "state": "SC",
+    "zip": "29690",
+    "phone": "",
+    "hours": "",
+    "lat": 34.9595839,
+    "lng": -82.4376531,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5794617063",
+    "name": "Endtime Harvest Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Wade Hampton Boulevard 740",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29609",
+    "phone": "",
+    "hours": "",
+    "lat": 34.8686884,
+    "lng": -82.3755138,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8450789523",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East North Street 2402",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29615",
+    "phone": "",
+    "hours": "",
+    "lat": 34.8680683,
+    "lng": -82.3571213,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8477273663",
+    "name": "Compass of Carolina",
+    "category": "Clothing & Supplies",
+    "description": "501.3(c) Charity specializing in domestic violence and representative payee programs",
+    "address": "Rutherford Road 1100",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29609",
+    "phone": "(864) 467-3434",
+    "hours": "Mo-Fr 09:30-12:00, 13:00-16:30",
+    "lat": 34.8829293,
+    "lng": -82.3783264,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9905096971",
+    "name": "Carol's Hope Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Wade Hampton Boulevard 3245",
+    "city": "Taylors",
+    "state": "SC",
+    "zip": "29687",
+    "phone": "",
+    "hours": "",
+    "lat": 34.9176268,
+    "lng": -82.3179498,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-greenville-sc-shelter",
     "name": "Greenville Homeless Services Hotline",
     "category": "Shelter",

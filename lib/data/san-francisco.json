@@ -19,25 +19,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-576669",
-    "name": "Project Open Hand",
-    "category": "Food",
-    "description": "Free soup kitchen providing food assistance. Open to all.",
-    "address": "730 Polk Street",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94109",
-    "phone": "(415) 447-2300",
-    "hours": "",
-    "lat": 37.7839436,
-    "lng": -122.4192113,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-174243",
     "name": "Project Open Hand - San Francisco",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-576669",
+    "name": "Project Open Hand",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "730 Polk Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94109",
+    "phone": "(415) 447-2300",
+    "hours": "",
+    "lat": 37.7839436,
+    "lng": -122.4192113,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-218838",

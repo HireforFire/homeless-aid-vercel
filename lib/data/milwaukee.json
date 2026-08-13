@@ -228,22 +228,21 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fallback-milwaukee-shelter",
-    "name": "Milwaukee Homeless Services Hotline",
+    "id": "osm-node-4379285800",
+    "name": "Center Street Park Shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Milwaukee",
     "state": "WI",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 43.0389,
-    "lng": -87.9065,
+    "phone": "",
+    "hours": "",
+    "lat": 43.0666692,
+    "lng": -87.9928497,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

@@ -228,6 +228,206 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "osm-node-772846326",
+    "name": "MSU Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.72562,
+    "lng": -84.4734601,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2308997565",
+    "name": "Capital Area District Libraries Foster",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Foster Avenue 200",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48912",
+    "phone": "(517) 485-5185",
+    "hours": "Mo,We,Fr 10:00-18:00; Tu,Th 14:00-19:00; Sa 10:00-15:00; Su off",
+    "lat": 42.7346367,
+    "lng": -84.5171392,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2349938745",
+    "name": "Mason Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.579081,
+    "lng": -84.4442949,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2894917610",
+    "name": "Holt Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Aurelius Road 2078",
+    "city": "Holt",
+    "state": "MI",
+    "zip": "48842",
+    "phone": "",
+    "hours": "",
+    "lat": 42.6426411,
+    "lng": -84.5224049,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3475063808",
+    "name": "Brennan Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Washington Square South",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "",
+    "phone": "(517) 371-5140",
+    "hours": "",
+    "lat": 42.730249,
+    "lng": -84.5525183,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3629759908",
+    "name": "Capitol Area District Library - South Lansing",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Cedar Street 3500",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "",
+    "phone": "(517) 272-9840",
+    "hours": "Mo-Th 10:00-19:00; Fr-Sa 10:00-17:00; Su 12:00-17:00",
+    "lat": 42.695644,
+    "lng": -84.5489077,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-9829515000",
+    "name": "DeWitt District Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Schavey Road 13101",
+    "city": "DeWitt",
+    "state": "MI",
+    "zip": "48820",
+    "phone": "(517) 669-3156",
+    "hours": "",
+    "lat": 42.8254803,
+    "lng": -84.5881561,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-26072753",
+    "name": "Michigan State University Main Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Circle Drive 366",
+    "city": "East Lansing",
+    "state": "MI",
+    "zip": "48824",
+    "phone": "(517) 353-8700",
+    "hours": "Mo-Th 00:00-24:00; Fr 00:00-22:00; Sa 10:00-20:00; Su 10:00-24:00",
+    "lat": 42.7308764,
+    "lng": -84.4832392,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-39660181",
+    "name": "Capital Area District Library - Downtown Lansing",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Capitol Avenue 401",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "",
+    "phone": "(517) 367-6363",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-18:00; Su 13:00-18:00",
+    "lat": 42.7295216,
+    "lng": -84.5534573,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-257038159",
+    "name": "East Lansing Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Abbot Road 950",
+    "city": "East Lansing",
+    "state": "MI",
+    "zip": "48823",
+    "phone": "(517) 351-2420",
+    "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-18:00; Su 13:00-17:00",
+    "lat": 42.7436603,
+    "lng": -84.4825479,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-lansing-shelter",
     "name": "Lansing Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +449,22 @@
   },
   {
     "id": "fallback-lansing-hygiene",
-    "name": "Lansing Public Restroom Information",
+    "name": "MSU Law Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Lansing",
     "state": "MI",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 42.7325,
-    "lng": -84.5555,
+    "hours": "During library hours",
+    "lat": 42.72562,
+    "lng": -84.4734601,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-lansing-library",
-    "name": "Lansing Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Lansing",
-    "state": "MI",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 42.7325,
-    "lng": -84.5555,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

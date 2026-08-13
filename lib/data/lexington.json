@@ -228,6 +228,101 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-2497228702",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Clays Mill Road 3101",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40503",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0026809,
+    "lng": -84.5458405,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3141073045",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Southland Drive 451 - 455A",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "We-Sa 10:00-18:00",
+    "lat": 38.019573,
+    "lng": -84.5270035,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3164035817",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Leestown Road 1441",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40511",
+    "phone": "(859) 233-0222",
+    "hours": "Mo-Sa 09:00-21:00; Su 12:00-18:00",
+    "lat": 38.0648471,
+    "lng": -84.5214971,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-242120522",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Boston Road 3640",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 37.9805401,
+    "lng": -84.5506323,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-405038052",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Hartland Parkway 4740",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Su 09:00-21:00",
+    "lat": 37.9612764,
+    "lng": -84.4804301,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-lexington-shelter",
     "name": "Lexington Homeless Services Hotline",
     "category": "Shelter",

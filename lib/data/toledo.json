@@ -228,22 +228,40 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-toledo-shelter",
-    "name": "Toledo Homeless Services Hotline",
+    "id": "osm-node-11108351308",
+    "name": "Open Air Shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Toledo",
     "state": "OH",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 41.6528,
-    "lng": -83.5379,
+    "phone": "",
+    "hours": "",
+    "lat": 41.4866153,
+    "lng": -83.7364118,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-430457172",
+    "name": "Mary Jane Gill Shelter",
+    "category": "Shelter",
+    "description": "shelter",
+    "address": "",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.6169798,
+    "lng": -83.6453893,
+    "tags": [
+      "shelter",
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

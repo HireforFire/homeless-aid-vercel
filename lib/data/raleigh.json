@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-577013",
-    "name": "Wake Relief",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "4 North Blount Street",
-    "city": "Raleigh",
-    "state": "NC",
-    "zip": "27601",
-    "phone": "(919) 307-8748",
-    "hours": "",
-    "lat": 35.7806725,
-    "lng": -78.6361168,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-226031",
     "name": "Foundation of Truth Food Bank",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-577013",
+    "name": "Wake Relief",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "4 North Blount Street",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27601",
+    "phone": "(919) 307-8748",
+    "hours": "",
+    "lat": 35.7806725,
+    "lng": -78.6361168,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "fa-220151",

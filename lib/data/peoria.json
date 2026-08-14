@@ -228,6 +228,101 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "osm-node-12805712210",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Douglas Street 931",
+    "city": "Peoria",
+    "state": "il",
+    "zip": "61606",
+    "phone": "(309) 676-6729",
+    "hours": "Tu-Sa 09:00-17:00",
+    "lat": 40.6994891,
+    "lng": -89.6053377,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13264279802",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North University Street 3905",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61614",
+    "phone": "(309) 688-4408",
+    "hours": "Mo-Sa 09:00-20:00; Su 11:00-17:00",
+    "lat": 40.7349381,
+    "lng": -89.6132128,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13583460301",
+    "name": "Forever Home Resale Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Sterling Avenue 3809",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61615",
+    "phone": "(309) 446-9721",
+    "hours": "Tu-Sa 11:00-16:00",
+    "lat": 40.73399,
+    "lng": -89.632495,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-238913761",
+    "name": "Upscale Resale",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Main Street 109",
+    "city": "Morton",
+    "state": "IL",
+    "zip": "61550",
+    "phone": "(309) 266-6089",
+    "hours": "",
+    "lat": 40.6102757,
+    "lng": -89.4622557,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-247559011",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Cummings Lane 301",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61571",
+    "phone": "(309) 444-9232",
+    "hours": "Mo-Sa 09:00-20:00; Su 11:00-17:00",
+    "lat": 40.7084349,
+    "lng": -89.4449101,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-peoria-shelter",
     "name": "Peoria Homeless Services Hotline",
     "category": "Shelter",

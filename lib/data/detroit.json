@@ -228,6 +228,158 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "osm-node-4122173323",
+    "name": "Salvation Army Family Store & Donation Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Greenfield Road 26065",
+    "city": "Southfield",
+    "state": "MI",
+    "zip": "48076",
+    "phone": "",
+    "hours": "",
+    "lat": 42.48183,
+    "lng": -83.2036686,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5961507158",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Grand River Avenue 3111",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48208",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3403816,
+    "lng": -83.0709018,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5977115987",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Eureka Road 14275",
+    "city": "Southgate",
+    "state": "MI",
+    "zip": "48195",
+    "phone": "",
+    "hours": "",
+    "lat": 42.198117,
+    "lng": -83.1971019,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8343247860",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3728785,
+    "lng": -83.1208018,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8495202133",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Dix Highway 2627",
+    "city": "Lincoln Park",
+    "state": "MI",
+    "zip": "48146",
+    "phone": "",
+    "hours": "",
+    "lat": 42.2457917,
+    "lng": -83.1946069,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8890606462",
+    "name": "STEP Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Eureka Road 13705",
+    "city": "Southgate",
+    "state": "MI",
+    "zip": "48195",
+    "phone": "",
+    "hours": "",
+    "lat": 42.1971319,
+    "lng": -83.1899108,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11011095326",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East 8 Mile Road 5600",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48234",
+    "phone": "",
+    "hours": "",
+    "lat": 42.4474771,
+    "lng": -83.0471763,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-288834464",
+    "name": "Hope for a Cure Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 42.2678662,
+    "lng": -83.025217,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-detroit-shelter",
     "name": "Detroit Homeless Services Hotline",
     "category": "Shelter",

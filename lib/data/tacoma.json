@@ -228,63 +228,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-node-4320499651",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Andover Park West 1185",
-    "city": "Tacoma",
-    "state": "WA",
-    "zip": "",
-    "phone": "(206) 957-6914",
-    "hours": "Tu-Sa 10:00-18:00",
-    "lat": 47.4440203,
-    "lng": -122.255202,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-6225435586",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "East Main Avenue 1329",
-    "city": "Tacoma",
-    "state": "WA",
-    "zip": "",
-    "phone": "(253) 841-5900",
-    "hours": "",
-    "lat": 47.1928998,
-    "lng": -122.2749159,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-52067482",
-    "name": "Life Center Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "6th Avenue 6331",
-    "city": "Tacoma",
-    "state": "WA",
-    "zip": "98406",
-    "phone": "",
-    "hours": "",
-    "lat": 47.2559023,
-    "lng": -122.5224681,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-tacoma-shelter",
     "name": "Tacoma Homeless Services Hotline",
     "category": "Shelter",

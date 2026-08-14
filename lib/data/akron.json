@@ -228,21 +228,22 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-2851910913",
-    "name": "Ledges Shelter",
+    "id": "fallback-akron-shelter",
+    "name": "Akron Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Akron",
     "state": "OH",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2240951,
-    "lng": -81.5105379,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 41.0814,
+    "lng": -81.519,
     "tags": [
       "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

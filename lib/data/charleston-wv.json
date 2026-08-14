@@ -228,154 +228,22 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-13469071117",
-    "name": "Picnic Shelter 6",
+    "id": "fallback-charleston-wv-shelter",
+    "name": "Charleston Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Charleston",
     "state": "WV",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.2427465,
-    "lng": -81.6544448,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 38.3498,
+    "lng": -81.6326,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13469071118",
-    "name": "Picnic Shelter 8",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.2425476,
-    "lng": -81.6539566,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13469071119",
-    "name": "Picnic Shelter 7",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.2421244,
-    "lng": -81.6540119,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13469071120",
-    "name": "Picnic Shelter 9",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.2433676,
-    "lng": -81.6545723,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13469071121",
-    "name": "Picnic Shelter 10",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.2438796,
-    "lng": -81.6542652,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13469218544",
-    "name": "picnic shelter 4",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.273089,
-    "lng": -81.6582527,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13469218545",
-    "name": "picnic shelter 3",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.2723265,
-    "lng": -81.6590595,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13469218548",
-    "name": "picnic shelter 5",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Charleston",
-    "state": "WV",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.264639,
-    "lng": -81.668837,
-    "tags": [
-      "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

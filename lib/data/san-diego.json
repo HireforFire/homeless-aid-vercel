@@ -228,206 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-368170942",
-    "name": "Salk Institute Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.886991,
-    "lng": -117.246147,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170945",
-    "name": "Athenaeum Music and Arts Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "1008",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8469917,
-    "lng": -117.274204,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170946",
-    "name": "Helen Palmer Geisel Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8456029,
-    "lng": -117.2778153,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170962",
-    "name": "Balboa Branch San Diego Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Mount Abernathy Avenue 4255",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92117",
-    "phone": "",
-    "hours": "Mo,Th,Fr 09:30-18:00; Tu,We 11:30-20:00; Sa 09:30-15:00",
-    "lat": 32.8223204,
-    "lng": -117.1749653,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170965",
-    "name": "Benjamin Branch San Diego Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Zion Avenue 5188",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92120",
-    "phone": "",
-    "hours": "Mo,Th,Fr 09:30-18:00; Tu,We 11:30-20:00; Sa 09:30-15:00",
-    "lat": 32.7930662,
-    "lng": -117.0814929,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170966",
-    "name": "Tierrasanta Branch San Diego Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "La Cuenta Drive 4985",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92124",
-    "phone": "",
-    "hours": "Mo,Th,Fr 09:30-18:00; Tu,We 11:30-20:00; Sa 09:30-15:00",
-    "lat": 32.8208823,
-    "lng": -117.0980871,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170967",
-    "name": "Institute for World Understanding of Peoples, Cultures and Languages Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.8464362,
-    "lng": -117.2778153,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170968",
-    "name": "Jean Farb Memorial Medical Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7514393,
-    "lng": -117.1597557,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170969",
-    "name": "University Community Branch San Diego Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Governor Drive 4155",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92122",
-    "phone": "",
-    "hours": "Mo,Th,Fr 09:30-18:00; Tu,We 11:30-20:00; Sa 09:30-15:00",
-    "lat": 32.853995,
-    "lng": -117.200979,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170970",
-    "name": "North Clairemont Branch San Diego Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Clairemont Drive 4616",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92117",
-    "phone": "",
-    "hours": "Tu 11:30-20:00; We-Sa 09:30-18:00",
-    "lat": 32.8283728,
-    "lng": -117.206457,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-san-diego-shelter",
     "name": "San Diego Homeless Services Hotline",
     "category": "Shelter",
@@ -449,22 +249,40 @@
   },
   {
     "id": "fallback-san-diego-hygiene",
-    "name": "Salk Institute Library - Restroom Access",
+    "name": "San Diego Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "San Diego",
     "state": "CA",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 32.886991,
-    "lng": -117.246147,
+    "hours": "Varies",
+    "lat": 32.7157,
+    "lng": -117.1611,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-san-diego-library",
+    "name": "San Diego Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -228,206 +228,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-367138358",
-    "name": "New Haven Free Public Library Stetson Branch",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Dixwell Avenue 197",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "06511",
-    "phone": "(203) 946-8119",
-    "hours": "",
-    "lat": 41.3181865,
-    "lng": -72.9332765,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367138360",
-    "name": "Taylor Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Broad Street 5",
-    "city": "Milford",
-    "state": "CT",
-    "zip": "06460",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2224111,
-    "lng": -73.0570803,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367138361",
-    "name": "Temple Emanuel Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2999233,
-    "lng": -73.0070873,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367138403",
-    "name": "Piantino Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2961469,
-    "lng": -72.9590822,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367138406",
-    "name": "Mary and James Dimeo Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.3667613,
-    "lng": -72.9484004,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367138571",
-    "name": "Stratford Library Association",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2134302,
-    "lng": -73.1267762,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367138598",
-    "name": "Miller Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.3832676,
-    "lng": -72.9045521,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367138600",
-    "name": "The Institute Library",
-    "category": "Public Resources",
-    "description": "The Institute Library is a membership library in New Haven, Connecticut. Founded in 1826 in the tradition of Mechanics' Institutes, it is New Haven's oldest community library and one of the few membership libraries now remaining in North America",
-    "address": "Chapel Street 847",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "06510",
-    "phone": "(203) 562-4045",
-    "hours": "",
-    "lat": 41.3058793,
-    "lng": -72.9250778,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367138603",
-    "name": "Allington Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "New Haven",
-    "state": "CT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2962241,
-    "lng": -72.9591382,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-367138608",
-    "name": "Beacon Falls Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Maple Avenue 10",
-    "city": "Beacon Falls",
-    "state": "CT",
-    "zip": "06403",
-    "phone": "(203) 729-1441",
-    "hours": "",
-    "lat": 41.4455635,
-    "lng": -73.0602213,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-new-haven-shelter",
     "name": "New Haven Homeless Services Hotline",
     "category": "Shelter",
@@ -449,22 +249,40 @@
   },
   {
     "id": "fallback-new-haven-hygiene",
-    "name": "New Haven Free Public Library Stetson Branch - Restroom Access",
+    "name": "New Haven Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Dixwell Avenue 197",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "New Haven",
     "state": "CT",
-    "zip": "06511",
+    "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 41.3181865,
-    "lng": -72.9332765,
+    "hours": "Varies",
+    "lat": 41.3083,
+    "lng": -72.9279,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-new-haven-library",
+    "name": "New Haven Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 41.3083,
+    "lng": -72.9279,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

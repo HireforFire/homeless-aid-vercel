@@ -228,6 +228,206 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-367823329",
+    "name": "Deerfield Beach Percy White Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "East Hillsboro Boulevard 837",
+    "city": "Deerfield Beach",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.3187445,
+    "lng": -80.0924526,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823337",
+    "name": "Coral Springs Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.2663889,
+    "lng": -80.2613889,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823352",
+    "name": "Hollywood Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.0172222,
+    "lng": -80.2036111,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823354",
+    "name": "Hollywood Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.0169444,
+    "lng": -80.2086111,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823373",
+    "name": "Lauderhill City Hall Complex Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1527778,
+    "lng": -80.2225,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823378",
+    "name": "Lauderhill Mall Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1405178,
+    "lng": -80.2050549,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823435",
+    "name": "African-American Research Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1291667,
+    "lng": -80.1777778,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823439",
+    "name": "South Regional/Bcc Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Pines Boulevard 7300",
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "zip": "33024;33024-7227",
+    "phone": "(954) 201-8825",
+    "hours": "",
+    "lat": 26.0069501,
+    "lng": -80.2359986,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823669",
+    "name": "Von D Mizell Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.13,
+    "lng": -80.1588889,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367823678",
+    "name": "West Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 26.1222741,
+    "lng": -80.2625941,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-fort-lauderdale-shelter",
     "name": "Fort Lauderdale Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +449,22 @@
   },
   {
     "id": "fallback-fort-lauderdale-hygiene",
-    "name": "Fort Lauderdale Public Restroom Information",
+    "name": "Deerfield Beach Percy White Branch Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Fort Lauderdale",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "East Hillsboro Boulevard 837",
+    "city": "Deerfield Beach",
     "state": "FL",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 26.1223,
-    "lng": -80.1434,
+    "hours": "During library hours",
+    "lat": 26.3187445,
+    "lng": -80.0924526,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-fort-lauderdale-library",
-    "name": "Fort Lauderdale Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 26.1223,
-    "lng": -80.1434,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

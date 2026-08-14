@@ -228,6 +228,120 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "osm-node-1722470075",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Brea Boulevard 634",
+    "city": "Brea",
+    "state": "CA",
+    "zip": "92821",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "lat": 33.9102875,
+    "lng": -117.902775,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3700666338",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Westminster Boulevard 6741",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92683",
+    "phone": "(714) 705-6584",
+    "hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "lat": 33.7612594,
+    "lng": -118.0099192,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5567919855",
+    "name": "Habitat for Humanity of Orange County ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Katella Avenue 1656",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92802",
+    "phone": "(714) 434-6266",
+    "hours": "",
+    "lat": 33.8020266,
+    "lng": -117.9395604,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5665024733",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "recycling",
+    "address": "",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8020818,
+    "lng": -117.938334,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6343747035",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "Thrift store",
+    "address": "Bristol Street 2118",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92704",
+    "phone": "(714) 444-4749",
+    "hours": "Mo-Sa 09:00-19:00; Su 11:00-19:00",
+    "lat": 33.7186859,
+    "lng": -117.886502,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7983332220",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East 1st Street 502",
+    "city": "Tustin",
+    "state": "CA",
+    "zip": "92780",
+    "phone": "(714) 716-2126",
+    "hours": "Mo-Su 10:00-20:00; Su 10:00-19:00",
+    "lat": 33.7449506,
+    "lng": -117.818227,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-anaheim-shelter",
     "name": "Anaheim Homeless Services Hotline",
     "category": "Shelter",

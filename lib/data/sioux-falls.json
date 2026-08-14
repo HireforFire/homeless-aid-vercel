@@ -228,6 +228,84 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "osm-way-403988569",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Norton Avenue 3400",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "",
+    "phone": "(605) 731-1930",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00; PH off",
+    "lat": 43.5136021,
+    "lng": -96.7342518,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1523837917",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Ellis Road 3000",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57106",
+    "phone": "",
+    "hours": "",
+    "lat": 43.5161672,
+    "lng": -96.8301794,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-sfx-goodwill",
+    "name": "Goodwill of the Great Plains Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "Affordable clothing, furniture, and household goods; proceeds fund job training.",
+    "address": "120 N Kiwanis Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "(605) 334-2028",
+    "hours": "Mon-Sat 9am-8pm, Sun 12pm-6pm",
+    "lat": 43.547,
+    "lng": -96.712,
+    "tags": [
+      "clothing",
+      "free",
+      "thrift"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "spl-sfx-salvation-army",
+    "name": "The Salvation Army Corps Community Center",
+    "category": "Clothing & Supplies",
+    "description": "Family services with clothing assistance, food pantry, and rental/utility aid.",
+    "address": "900 N Cliff Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "(605) 332-2331",
+    "hours": "Mon-Fri 1pm-4pm (appointment)",
+    "lat": 43.5538,
+    "lng": -96.7125,
+    "tags": [
+      "clothing",
+      "free",
+      "thrift"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-sioux-falls-shelter",
     "name": "Sioux Falls Homeless Services Hotline",
     "category": "Shelter",
@@ -283,46 +361,6 @@
       "library",
       "wifi",
       "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "spl-sfx-goodwill",
-    "name": "Goodwill of the Great Plains Thrift Store",
-    "category": "Clothing & Supplies",
-    "description": "Affordable clothing, furniture, and household goods; proceeds fund job training.",
-    "address": "120 N Kiwanis Ave",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57104",
-    "phone": "(605) 334-2028",
-    "hours": "Mon-Sat 9am-8pm, Sun 12pm-6pm",
-    "lat": 43.547,
-    "lng": -96.712,
-    "tags": [
-      "clothing",
-      "free",
-      "thrift"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "spl-sfx-salvation-army",
-    "name": "The Salvation Army Corps Community Center",
-    "category": "Clothing & Supplies",
-    "description": "Family services with clothing assistance, food pantry, and rental/utility aid.",
-    "address": "900 N Cliff Ave",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57103",
-    "phone": "(605) 332-2331",
-    "hours": "Mon-Fri 1pm-4pm (appointment)",
-    "lat": 43.5538,
-    "lng": -96.7125,
-    "tags": [
-      "clothing",
-      "free",
-      "thrift"
     ],
     "lastUpdated": "2026-05-14"
   }

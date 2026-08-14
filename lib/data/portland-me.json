@@ -228,6 +228,158 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-7175558360",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Sixth Street 6",
+    "city": "Old Orchard Beach",
+    "state": "ME",
+    "zip": "04064",
+    "phone": "",
+    "hours": "",
+    "lat": 43.511986,
+    "lng": -70.3859612,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7188490735",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Market Street 50",
+    "city": "South Portland",
+    "state": "ME",
+    "zip": "04106",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6352145,
+    "lng": -70.2538866,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7223560156",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Landing Road 31",
+    "city": "Windham",
+    "state": "ME",
+    "zip": "04062",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 09:00-19:00",
+    "lat": 43.8396227,
+    "lng": -70.4463741,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-394959248",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Main Street 108",
+    "city": "Gorham",
+    "state": "ME",
+    "zip": "04038",
+    "phone": "",
+    "hours": "",
+    "lat": 43.681933,
+    "lng": -70.4396195,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-414498812",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Warren Avenue 30",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6884711,
+    "lng": -70.2968916,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-465374097",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Larrabee Road 200",
+    "city": "Westbrook",
+    "state": "ME",
+    "zip": "04092",
+    "phone": "(207) 887-8330",
+    "hours": "",
+    "lat": 43.6812401,
+    "lng": -70.3333919,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-559842420",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Maine Mall Road 555",
+    "city": "South Portland",
+    "state": "ME",
+    "zip": "04106",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 43.6294057,
+    "lng": -70.3437791,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-821258867",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Warren Avenue 659",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04103",
+    "phone": "(207) 221-0047",
+    "hours": "Tu-Sa 09:00-17:00",
+    "lat": 43.6868256,
+    "lng": -70.3279902,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-portland-me-shelter",
     "name": "Portland Homeless Services Hotline",
     "category": "Shelter",

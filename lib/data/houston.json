@@ -228,6 +228,177 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "osm-node-2669391437",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Loop East Frontage Road 6161",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.6965304,
+    "lng": -95.3186806,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4227549104",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Hillcroft Avenue 14464",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77085",
+    "phone": "",
+    "hours": "",
+    "lat": 29.6166952,
+    "lng": -95.4933649,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4227633921",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Cedar Street 5236",
+    "city": "Bellaire",
+    "state": "TX",
+    "zip": "77401",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7072486,
+    "lng": -95.4719843,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5245961916",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.8037678,
+    "lng": -95.4896316,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5257171269",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9203377,
+    "lng": -95.4925633,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5257171303",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7041841,
+    "lng": -95.5160353,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5257171304",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7072138,
+    "lng": -95.4944483,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5257171330",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.870793,
+    "lng": -95.3828677,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5257171331",
+    "name": "Family Thrift Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.87054,
+    "lng": -95.3367563,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-houston-shelter",
     "name": "Houston Homeless Services Hotline",
     "category": "Shelter",

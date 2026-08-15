@@ -209,18 +209,18 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-203689",
-    "name": "First Christian Fellowship",
+    "id": "fa-173940",
+    "name": "Our Lady's Pantry of Piedmont - Greenville",
     "category": "Food",
-    "description": "Food pantry location at First Christian Fellowship church",
-    "address": "110 Montana St.",
+    "description": "Main location of Our Lady's Pantry of Piedmont in Greenville, South Carolina. Serves the Upstate region including Occonee, Pickens, Greenville, Spartanburg, Cherokee, Anderson, Laurens, Union, Abbeville, Greenwood, Newberry, and McCormick counties.",
+    "address": "2300 Old Buncombe Rd.",
     "city": "Greenville",
     "state": "SC",
-    "zip": "29611",
+    "zip": "29609",
     "phone": "",
     "hours": "",
-    "lat": 34.8625907,
-    "lng": -82.4295275,
+    "lat": 34.8754366,
+    "lng": -82.415454,
     "tags": [
       "food pantry",
       "walk-in"

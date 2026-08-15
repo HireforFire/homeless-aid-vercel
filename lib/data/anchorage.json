@@ -228,202 +228,61 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-way-221624357",
-    "name": "Henry House",
+    "id": "fallback-anchorage-shelter",
+    "name": "Anchorage Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "East 4th Avenue 545",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
     "city": "Anchorage",
     "state": "AK",
-    "zip": "99501",
-    "phone": "",
-    "hours": "",
-    "lat": 61.2188165,
-    "lng": -149.8731299,
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 61.2181,
+    "lng": -149.9003,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2649886137",
-    "name": "Alaska State Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 61.2190205,
-    "lng": -149.8884275,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10790645577",
-    "name": "Muldoon Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Muldoon Road 1251",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99504",
-    "phone": "",
-    "hours": "",
-    "lat": 61.2110027,
-    "lng": -149.7308833,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10991329066",
-    "name": "Atwood Resource Center Library and Archives",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 61.2162687,
-    "lng": -149.8855626,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10994950288",
-    "name": "Saint Paul's Corner Bookstore and Gifts",
-    "category": "Public Resources",
-    "description": "Library, Bookstore & Gifts",
-    "address": "West 5th Avenue 844",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "",
-    "phone": "(907) 646-3070",
-    "hours": "",
-    "lat": 61.2174087,
-    "lng": -149.8993393,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-211058856",
-    "name": "UAA/APU Consortium Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Providence Drive 3211",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99508",
-    "phone": "",
-    "hours": "",
-    "lat": 61.1907579,
-    "lng": -149.8180708,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-331842293",
-    "name": "Z. J. Loussac Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Denali Street 3600",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99503",
-    "phone": "(907) 343-2975",
-    "hours": "Mo-Th 10:00-20:00; Sa 10:00-18:00; Su 01:00-16:00; PH off",
-    "lat": 61.1871499,
-    "lng": -149.8786732,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-737383163",
-    "name": "Mountain View Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Bragaw Street 120",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99508",
-    "phone": "(907) 343-2818",
-    "hours": "Tu-We 11:00-19:00; Th 11:00-18:00; Fr-Sa 10:00-18:00",
-    "lat": 61.2237723,
-    "lng": -149.8091265,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1065960716",
-    "name": "The Little Leaf Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 61.1778313,
-    "lng": -149.761169,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-anchorage-hygiene",
-    "name": "Alaska State Library - Restroom Access",
+    "name": "Anchorage Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Anchorage",
     "state": "AK",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 61.2190205,
-    "lng": -149.8884275,
+    "hours": "Varies",
+    "lat": 61.2181,
+    "lng": -149.9003,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-anchorage-library",
+    "name": "Anchorage Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 61.2181,
+    "lng": -149.9003,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

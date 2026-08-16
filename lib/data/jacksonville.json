@@ -228,22 +228,21 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-jacksonville-shelter",
-    "name": "Jacksonville Homeless Services Hotline",
+    "id": "osm-way-326836858",
+    "name": "Trinity Rescue Mission",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "social_facility",
     "address": "",
     "city": "Jacksonville",
     "state": "FL",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 30.3322,
-    "lng": -81.6557,
+    "phone": "",
+    "hours": "",
+    "lat": 30.3335536,
+    "lng": -81.6596399,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

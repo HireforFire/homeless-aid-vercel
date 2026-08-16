@@ -228,6 +228,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-way-840364586",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Port Avenue 2961",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78405",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7674201,
+    "lng": -97.4207959,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-corpus-christi-shelter",
     "name": "Corpus Christi Homeless Services Hotline",
     "category": "Shelter",

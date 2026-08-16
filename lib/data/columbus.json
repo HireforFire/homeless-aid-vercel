@@ -228,22 +228,40 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-columbus-shelter",
-    "name": "Columbus Homeless Services Hotline",
+    "id": "osm-node-1604431541",
+    "name": "Tinnapple Park Shelter House",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Columbus",
     "state": "OH",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 39.9612,
-    "lng": -82.9988,
+    "phone": "",
+    "hours": "",
+    "lat": 40.0131707,
+    "lng": -83.1599962,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5789054676",
+    "name": "The Open Shelter",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "East Mound Street 61",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "24/7",
+    "lat": 39.9545545,
+    "lng": -82.9974429,
+    "tags": [
+      "shelter",
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

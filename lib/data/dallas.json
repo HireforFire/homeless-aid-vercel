@@ -228,22 +228,21 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fallback-dallas-shelter",
-    "name": "Dallas Homeless Services Hotline",
+    "id": "osm-node-368161343",
+    "name": "Safe Haven Homes",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
+    "description": "social_facility",
+    "address": "East Illinois Avenue 2816",
     "city": "Dallas",
     "state": "TX",
-    "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 32.7767,
-    "lng": -96.797,
+    "zip": "75216",
+    "phone": "(972) 375-7179",
+    "hours": "",
+    "lat": 32.716289,
+    "lng": -96.779541,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

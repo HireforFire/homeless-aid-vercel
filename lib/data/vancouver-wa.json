@@ -228,6 +228,25 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "osm-way-372268679",
+    "name": "Clothes for Kids",
+    "category": "Clothing & Supplies",
+    "description": "social_facility",
+    "address": "Southwest Merlo Road 16550",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97006",
+    "phone": "",
+    "hours": "",
+    "lat": 45.5039381,
+    "lng": -122.8488772,
+    "tags": [
+      "clothing",
+      "free"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-vancouver-wa-shelter",
     "name": "Vancouver Homeless Services Hotline",
     "category": "Shelter",

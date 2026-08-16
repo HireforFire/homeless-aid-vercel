@@ -228,6 +228,206 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-340118767",
+    "name": "Reiche Branch - Portland Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6504105,
+    "lng": -70.2673406,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794746",
+    "name": "Maine Youth Center Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6377513,
+    "lng": -70.3080865,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794749",
+    "name": "Portland Public Library - Riverton Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Forest Avenue 1600",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04103",
+    "phone": "(207) 797-2915",
+    "hours": "",
+    "lat": 43.6953169,
+    "lng": -70.3097918,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794752",
+    "name": "Peaks Island Branch Portland Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Island Avenue 129",
+    "city": "Peaks Island",
+    "state": "ME",
+    "zip": "04108",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6582073,
+    "lng": -70.1983575,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794755",
+    "name": "General Theological Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6539711,
+    "lng": -70.2644927,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794763",
+    "name": "Maine Historical Society Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6570171,
+    "lng": -70.2602694,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367794769",
+    "name": "Governor Baxter School for the Deaf Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6881373,
+    "lng": -70.2319926,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7170754030",
+    "name": "Abplanalp Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "College Street 52",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6836611,
+    "lng": -70.2962094,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7170754355",
+    "name": "Portland Library Annex",
+    "category": "Public Resources",
+    "description": "Normally not open to the public",
+    "address": "Riverside Street 1000",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.709035,
+    "lng": -70.3173274,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-150782526",
+    "name": "Merrill Memorial Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Main Street 215",
+    "city": "Yarmouth",
+    "state": "ME",
+    "zip": "04096",
+    "phone": "(207) 846-4763",
+    "hours": "",
+    "lat": 43.8012701,
+    "lng": -70.1871526,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-portland-me-shelter",
     "name": "Portland Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +449,22 @@
   },
   {
     "id": "fallback-portland-me-hygiene",
-    "name": "Portland Public Restroom Information",
+    "name": "Reiche Branch - Portland Public Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Portland",
     "state": "ME",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 43.6591,
-    "lng": -70.2568,
+    "hours": "During library hours",
+    "lat": 43.6504105,
+    "lng": -70.2673406,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-portland-me-library",
-    "name": "Portland Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 43.6591,
-    "lng": -70.2568,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

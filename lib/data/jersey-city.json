@@ -228,6 +228,120 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-2563930380",
+    "name": "Aire Ancient Baths",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "Franklin Street 88",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "10013",
+    "phone": "(917) 563-4542",
+    "hours": "Mo-Su 08:00-23:00",
+    "lat": 40.7181575,
+    "lng": -74.0048533,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6482673688",
+    "name": "Sojo Spa",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "",
+    "phone": "(201) 313-7200",
+    "hours": "Mo-Su 09:00-22:30",
+    "lat": 40.8189443,
+    "lng": -73.9791348,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7178370136",
+    "name": "Citywell",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "",
+    "phone": "(347) 294-0100",
+    "hours": "Mo-Sa 10:30-20:00; Su 10:30-17:00",
+    "lat": 40.6779503,
+    "lng": -73.9868114,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8878090309",
+    "name": "Lift Floats",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "",
+    "phone": "(718) 701-0808",
+    "hours": "",
+    "lat": 40.6832647,
+    "lng": -73.9956336,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12626760893",
+    "name": "Brooklyn Bathhouse",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "Flatbush Avenue 731",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11226",
+    "phone": "",
+    "hours": "Su-Th 09:00-23:00; Fr-Sa 09:00-24:00",
+    "lat": 40.655181,
+    "lng": -73.9595801,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12720480768",
+    "name": "Aire Ancient Baths",
+    "category": "Hygiene",
+    "description": "public_bath",
+    "address": "East 61st Street 305",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10065",
+    "phone": "(332) 244-4191",
+    "hours": "Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 08:00-23:00; Su 09:00-22:00",
+    "lat": 40.7617055,
+    "lng": -73.9628192,
+    "tags": [
+      "showers",
+      "bath"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-jersey-city-shelter",
     "name": "Jersey City Homeless Services Hotline",
     "category": "Shelter",
@@ -244,25 +358,6 @@
       "shelter",
       "hotline",
       "211"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-jersey-city-hygiene",
-    "name": "Jersey City Public Restroom Information",
-    "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Jersey City",
-    "state": "NJ",
-    "zip": "",
-    "phone": "",
-    "hours": "Varies",
-    "lat": 40.7178,
-    "lng": -74.0431,
-    "tags": [
-      "restroom",
-      "hygiene"
     ],
     "lastUpdated": "2026-05-14"
   },

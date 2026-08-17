@@ -228,25 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-way-407422627",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Virginia Beach Boulevard 5524",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23462",
-    "phone": "(757) 499-0032",
-    "hours": "Mo-Sa 09:00-19:00",
-    "lat": 36.8531505,
-    "lng": -76.1726613,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-virginia-beach-shelter",
     "name": "Virginia Beach Homeless Services Hotline",
     "category": "Shelter",

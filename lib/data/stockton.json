@@ -228,244 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-368170455",
-    "name": "Central Branch Stockton-San Joaquin County Public Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.9589382,
-    "lng": -121.2919207,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170464",
-    "name": "Petzinger Library of California",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.9604793,
-    "lng": -121.3141135,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170465",
-    "name": "Goleman Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.9951592,
-    "lng": -121.3181902,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170480",
-    "name": "Margaret K Troke Branch Stockton-San Joaquin County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.0115892,
-    "lng": -121.3177256,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-368170483",
-    "name": "Humphreys University Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.0115892,
-    "lng": -121.3168921,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2972577741",
-    "name": "San Joaquin County Law Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Sutter Street 20",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95202",
-    "phone": "",
-    "hours": "",
-    "lat": 37.9537079,
-    "lng": -121.285797,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5370774439",
-    "name": "Lodi Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 38.1368649,
-    "lng": -121.2755085,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-11637664810",
-    "name": "Lathrop Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.825514,
-    "lng": -121.2999737,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-13963337814",
-    "name": "Weston Ranch Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "West French Camp Road 1453",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95206",
-    "phone": "",
-    "hours": "",
-    "lat": 37.897726,
-    "lng": -121.3066356,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-257034331",
-    "name": "William Knox Holt Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.9798393,
-    "lng": -121.3093221,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2142093038",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7984146,
-    "lng": -121.2107208,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-287592726",
-    "name": "American Red Cross",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "West March Lane 2888",
-    "city": "Stockton",
-    "state": "CA",
-    "zip": "95219",
-    "phone": "(800) 733-2767",
-    "hours": "",
-    "lat": 37.9839757,
-    "lng": -121.3472264,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-stockton-shelter",
     "name": "Stockton Homeless Services Hotline",
     "category": "Shelter",
@@ -487,22 +249,40 @@
   },
   {
     "id": "fallback-stockton-hygiene",
-    "name": "Central Branch Stockton-San Joaquin County Public Library - Restroom Access",
+    "name": "Stockton Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Stockton",
     "state": "CA",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 37.9589382,
-    "lng": -121.2919207,
+    "hours": "Varies",
+    "lat": 37.9577,
+    "lng": -121.2908,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-stockton-library",
+    "name": "Stockton Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 37.9577,
+    "lng": -121.2908,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

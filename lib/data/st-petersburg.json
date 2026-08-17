@@ -57,6 +57,44 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-184099",
+    "name": "SVDP Food Service Center",
+    "category": "Food",
+    "description": "Food Service Center location providing food distribution services.",
+    "address": "401 15th St. N.",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7767981,
+    "lng": -82.6535283,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212885",
+    "name": "Historic Bethel AME Church",
+    "category": "Food",
+    "description": "Historic Bethel AME Church food distribution location",
+    "address": "912 3rd Avenue North",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33705",
+    "phone": "",
+    "hours": "",
+    "lat": 27.7747876,
+    "lng": -82.64750570000001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-180170",
     "name": "Pinellas Community Law Program - St. Petersburg Office",
     "category": "Food",
@@ -88,25 +126,6 @@
     "hours": "",
     "lat": 27.7762526,
     "lng": -82.6395288,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-184099",
-    "name": "SVDP Food Service Center",
-    "category": "Food",
-    "description": "Food Service Center location providing food distribution services.",
-    "address": "401 15th St. N.",
-    "city": "St. Petersburg",
-    "state": "FL",
-    "zip": "33705",
-    "phone": "",
-    "hours": "",
-    "lat": 27.7767981,
-    "lng": -82.6535283,
     "tags": [
       "food pantry",
       "walk-in"
@@ -183,25 +202,6 @@
     "hours": "",
     "lat": 27.7635238,
     "lng": -82.6547957,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-212885",
-    "name": "Historic Bethel AME Church",
-    "category": "Food",
-    "description": "Historic Bethel AME Church food distribution location",
-    "address": "912 3rd Avenue North",
-    "city": "St. Petersburg",
-    "state": "FL",
-    "zip": "33705",
-    "phone": "",
-    "hours": "",
-    "lat": 27.7747876,
-    "lng": -82.64750570000001,
     "tags": [
       "food pantry",
       "walk-in"

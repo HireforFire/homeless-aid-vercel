@@ -228,59 +228,22 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-4787359526",
-    "name": "Spectrum Drop-In Center",
+    "id": "fallback-burlington-shelter",
+    "name": "Burlington Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "Pearl Street 177",
-    "city": "Burlington",
-    "state": "VT",
-    "zip": "05401",
-    "phone": "(802) 864-7423",
-    "hours": "",
-    "lat": 44.480335,
-    "lng": -73.2119752,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5446360502",
-    "name": "Waystation Night Shelter",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "Church Street 187",
-    "city": "Burlington",
-    "state": "VT",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 44.4750325,
-    "lng": -73.2125871,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5524484235",
-    "name": "Ethan Allen Shopping Center",
-    "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Burlington",
     "state": "VT",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 44.5065187,
-    "lng": -73.2444907,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 44.4759,
+    "lng": -73.2121,
     "tags": [
       "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

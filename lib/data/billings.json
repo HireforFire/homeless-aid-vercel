@@ -228,21 +228,22 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-14016091813",
-    "name": "Montana Rescue Mission",
+    "id": "fallback-billings-shelter",
+    "name": "Billings Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Billings",
     "state": "MT",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 45.779773,
-    "lng": -108.5047471,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 45.7833,
+    "lng": -108.5007,
     "tags": [
       "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

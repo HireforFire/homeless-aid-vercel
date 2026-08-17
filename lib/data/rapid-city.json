@@ -228,44 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-way-296967322",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Lindbergh Avenue 611",
-    "city": "Rapid City",
-    "state": "SD",
-    "zip": "57701",
-    "phone": "(605) 737-3955",
-    "hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00; PH off",
-    "lat": 44.0996829,
-    "lng": -103.2243552,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-1291049748",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Timmons Boulevard 611",
-    "city": "Rapid City",
-    "state": "SD",
-    "zip": "57703",
-    "phone": "(605) 791-1071",
-    "hours": "Mo-Sa 09:00-21:00, Su 10:00-18:00",
-    "lat": 44.0779513,
-    "lng": -103.1501172,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-rapid-city-shelter",
     "name": "Rapid City Homeless Services Hotline",
     "category": "Shelter",

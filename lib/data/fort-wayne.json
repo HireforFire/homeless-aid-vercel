@@ -228,6 +228,120 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-5292831227",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Maysville Road 10540",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1301532,
+    "lng": -85.0058267,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5438578995",
+    "name": "The Franciscan Center",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Coliseum Boulevard 925",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1180683,
+    "lng": -85.1271021,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10764258606",
+    "name": "Franciscan Center Family Thrift",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.119126,
+    "lng": -85.1348614,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-314635508",
+    "name": "Salvation Army Family Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 41.1343698,
+    "lng": -85.1618083,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-475964765",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Fairfield Avenue 1021",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46802",
+    "phone": "(260) 247-2076",
+    "hours": "Mo-Sa 09:00-20:00",
+    "lat": 41.0755784,
+    "lng": -85.1447227,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-885350870",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Lofty Drive 2727",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46808",
+    "phone": "(260) 471-5081",
+    "hours": "Mo-Fr 09:00-16:30, Sa 10:00-14:00, Su closed",
+    "lat": 41.0910028,
+    "lng": -85.1763028,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-fort-wayne-shelter",
     "name": "Fort Wayne Homeless Services Hotline",
     "category": "Shelter",

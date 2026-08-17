@@ -228,6 +228,63 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-13235256796",
+    "name": "The Salvation Army",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Blackstone Avenue 6574",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93710",
+    "phone": "(559) 435-5783",
+    "hours": "",
+    "lat": 36.833087,
+    "lng": -119.7894546,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1153071810",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Shaw Avenue 239",
+    "city": "Clovis",
+    "state": "CA",
+    "zip": "93612",
+    "phone": "",
+    "hours": "",
+    "lat": 36.8107628,
+    "lng": -119.7147663,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1426684455",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Shaw Avenue 3702",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93711",
+    "phone": "(559) 274-1512",
+    "hours": "Mo-Su 10:00-20:00",
+    "lat": 36.8089952,
+    "lng": -119.8610762,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-fresno-shelter",
     "name": "Fresno Homeless Services Hotline",
     "category": "Shelter",

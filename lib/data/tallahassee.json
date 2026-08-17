@@ -228,6 +228,206 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "osm-node-367824674",
+    "name": "State Library of Florida",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Bronough Street 500",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32399",
+    "phone": "(850) 245-6688",
+    "hours": "",
+    "lat": 30.4383792,
+    "lng": -84.2849533,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2687918447",
+    "name": "Warren D. Allen Music Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "North Copeland Street 122",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32306",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4428395,
+    "lng": -84.2917205,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11990370736",
+    "name": "State Archives of Florida",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Bronough Street 500",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32399",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4378591,
+    "lng": -84.2849388,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12550200644",
+    "name": "Dirac Science Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4450146,
+    "lng": -84.2999491,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-92275332",
+    "name": "Leroy Collins Leon County Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Park Avenue 200",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "phone": "(850) 606-2665",
+    "hours": "Mo-Fr 10:00-21:00; Fr 10:00-18:00; Sa 10:00-17:00; Su 13:00-18:00",
+    "lat": 30.4426001,
+    "lng": -84.2837511,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-106455325",
+    "name": "Robert Manning Strozier Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4431544,
+    "lng": -84.295013,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-115687655",
+    "name": "Law Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4391703,
+    "lng": -84.2874872,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-127094931",
+    "name": "Claude Pepper Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Call Street 636",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32304",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4439208,
+    "lng": -84.2927787,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-145011164",
+    "name": "Woodville Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Old Woodville Road 8000",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32305-1105",
+    "phone": "(850) 606-2925",
+    "hours": "",
+    "lat": 30.3316589,
+    "lng": -84.2530083,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-180406588",
+    "name": "S.H. Coleman Library",
+    "category": "Public Resources",
+    "description": "The main library for Florida A&M University.",
+    "address": "Orr Drive 525",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4268315,
+    "lng": -84.2874259,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-tallahassee-shelter",
     "name": "Tallahassee Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +449,22 @@
   },
   {
     "id": "fallback-tallahassee-hygiene",
-    "name": "Tallahassee Public Restroom Information",
+    "name": "State Library of Florida - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "South Bronough Street 500",
     "city": "Tallahassee",
     "state": "FL",
-    "zip": "",
+    "zip": "32399",
     "phone": "",
-    "hours": "Varies",
-    "lat": 30.4383,
-    "lng": -84.2807,
+    "hours": "During library hours",
+    "lat": 30.4383792,
+    "lng": -84.2849533,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-tallahassee-library",
-    "name": "Tallahassee Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Tallahassee",
-    "state": "FL",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 30.4383,
-    "lng": -84.2807,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

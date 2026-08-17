@@ -228,6 +228,63 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-11089390524",
+    "name": "A New Leash On Life-Huntsville Thrift Store & Boutique",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Andrew Jackson Way Northeast 707",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo,Su off; Tu-Sa 10:00-16:00",
+    "lat": 34.7435898,
+    "lng": -86.5771188,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13892773747",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Jetplex Circle 119",
+    "city": "Madison",
+    "state": "AL",
+    "zip": "35758",
+    "phone": "",
+    "hours": "",
+    "lat": 34.6693602,
+    "lng": -86.7810941,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-604663573",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Whitesburg Drive South 8501",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35802",
+    "phone": "",
+    "hours": "",
+    "lat": 34.6527979,
+    "lng": -86.565617,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-huntsville-shelter",
     "name": "Huntsville Homeless Services Hotline",
     "category": "Shelter",

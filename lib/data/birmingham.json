@@ -228,40 +228,22 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-14097039198",
-    "name": "Ronald McDonald House Alabama",
+    "id": "fallback-birmingham-shelter",
+    "name": "Birmingham Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "4th Avenue South 1700",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
     "city": "Birmingham",
     "state": "AL",
-    "zip": "35233",
-    "phone": "(205) 638-7255",
-    "hours": "",
-    "lat": 33.5074509,
-    "lng": -86.8059697,
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 33.5186,
+    "lng": -86.8104,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-14097334090",
-    "name": "Brother Bryan Mission",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "2nd Avenue North 1616",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35203",
-    "phone": "(205) 322-0092",
-    "hours": "Mo-Fr 08:00-17:00",
-    "lat": 33.5134291,
-    "lng": -86.810816,
-    "tags": [
-      "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

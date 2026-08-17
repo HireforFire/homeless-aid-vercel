@@ -228,25 +228,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-12087768723",
-    "name": "Habitat for Humanity ReStore",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "South Main Street 2411",
-    "city": "South Bend",
-    "state": "IN",
-    "zip": "46613",
-    "phone": "",
-    "hours": "",
-    "lat": 41.6493331,
-    "lng": -86.2518696,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-south-bend-shelter",
     "name": "South Bend Homeless Services Hotline",
     "category": "Shelter",

@@ -38,25 +38,6 @@
     "lastUpdated": "2026-05-15"
   },
   {
-    "id": "fa-220151",
-    "name": "TOP FOOD PANTRY",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2312 Lake Wheeler Road",
-    "city": "Raleigh",
-    "state": "NC",
-    "zip": "27602",
-    "phone": "(919) 359-8159",
-    "hours": "",
-    "lat": 35.749073,
-    "lng": -78.6723633,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-07-18"
-  },
-  {
     "id": "fa-187695",
     "name": "Raleigh Rescue Mission",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 35.7917395,
     "lng": -78.6379826,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202012",
+    "name": "Judy D. Zelnak Center of Hope",
+    "category": "Food",
+    "description": "Salvation Army food pantry distribution location",
+    "address": "902 Wake Forest Road",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27604",
+    "phone": "",
+    "hours": "",
+    "lat": 35.7924542,
+    "lng": -78.6318548,
     "tags": [
       "food pantry",
       "walk-in"

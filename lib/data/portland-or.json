@@ -228,6 +228,186 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-361215845",
+    "name": "Garden Home Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southwest Oleson Road 7475",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97223",
+    "phone": "(503) 245-9932",
+    "hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00",
+    "lat": 45.4662143,
+    "lng": -122.753788,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-364169953",
+    "name": "Hollywood Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Northeast Tillamook Street 4040",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97212",
+    "phone": "(503) 988-5123",
+    "hours": "Mo-Sa 10:00-18:00; Tu 10:00-20:00; We,Th 12:00-20:00; Su 10:00-17:00; 2025 Aug 01-2026 Feb 28 \"Renovations\"",
+    "lat": 45.537627,
+    "lng": -122.6211734,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-364170016",
+    "name": "Sellwood Moreland Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southeast 13th Avenue 7860",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97202",
+    "phone": "",
+    "hours": "Mo 10:00-18:00; Tu,We 12:00-20:00; Th-Sa 10:00-18:00; Su 12:00-18:00",
+    "lat": 45.4677335,
+    "lng": -122.6527888,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-365790589",
+    "name": "Davies Family Research Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southwest Park Avenue 1200",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97205",
+    "phone": "",
+    "hours": "Tu 13:00-17:00; We-Sa 10:00-17:00",
+    "lat": 45.5157211,
+    "lng": -122.6824461,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-370457272",
+    "name": "Vancouver Mall Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Northeast Vancouver Mall Drive 8700",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98662",
+    "phone": "(360) 906-5000",
+    "hours": "Mo-Th 11:00-19:00; Fr,Su 11:00-18:00; Sa 10:00-18:00",
+    "lat": 45.6582956,
+    "lng": -122.581678,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-370457295",
+    "name": "Southwest Washington Medical Center Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Northeast Mother Joseph Place 400",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98664",
+    "phone": "",
+    "hours": "",
+    "lat": 45.6239493,
+    "lng": -122.5801199,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2233417294",
+    "name": "Cascade Park Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Northeast 136th Avenue 600",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98684",
+    "phone": "(360) 906-5000",
+    "hours": "Mo-Th 09:00-20:00; Fr, Sa 09:00-18:00",
+    "lat": 45.6251546,
+    "lng": -122.5355843,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3608240592",
+    "name": "Tin House Books",
+    "category": "Public Resources",
+    "description": "lending library",
+    "address": "",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 45.535525,
+    "lng": -122.7050948,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13335789001",
+    "name": "Multnomah County Library - Hawthorne Holds Pickup",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Southeast Hawthorne Boulevard 3557",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "phone": "",
+    "hours": "Mo,Th-Sa 10:00-18:00; Tu-We 12:00-20:00; Su 12:00-18:00; PH closed; Aug 03-Dec 31 closed; 2027+ closed",
+    "lat": 45.5123511,
+    "lng": -122.6274388,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-portland-or-shelter",
     "name": "Portland Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +429,22 @@
   },
   {
     "id": "fallback-portland-or-hygiene",
-    "name": "Portland Public Restroom Information",
+    "name": "Garden Home Community Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Southwest Oleson Road 7475",
     "city": "Portland",
     "state": "OR",
-    "zip": "",
+    "zip": "97223",
     "phone": "",
-    "hours": "Varies",
-    "lat": 45.5152,
-    "lng": -122.6784,
+    "hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00",
+    "lat": 45.4662143,
+    "lng": -122.753788,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-portland-or-library",
-    "name": "Portland Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 45.5152,
-    "lng": -122.6784,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-628",
-    "name": "Miami Rescue Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "2200 NW 1st Avenue",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "33127",
-    "phone": "(305) 571-5603",
-    "hours": "",
-    "lat": 25.7943,
-    "lng": -80.1997,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-3567",
     "name": "Holy Comforter Episcopal Church",
     "category": "Food",
@@ -150,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-628",
+    "name": "Miami Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "2200 NW 1st Avenue",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33127",
+    "phone": "(305) 571-5603",
+    "hours": "",
+    "lat": 25.7943,
+    "lng": -80.1997,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-201351",

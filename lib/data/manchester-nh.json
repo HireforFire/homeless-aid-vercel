@@ -228,6 +228,82 @@
     "lastUpdated": "2026-01-18"
   },
   {
+    "id": "osm-node-4379962142",
+    "name": "Marion Gerrish Thrift Shop",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Broadway 39",
+    "city": "Derry",
+    "state": "NH",
+    "zip": "03038",
+    "phone": "(603) 434-8866",
+    "hours": "Mo,Sa 09:00-16:00; Tu-Fr 09:00-19:00",
+    "lat": 42.8794716,
+    "lng": -71.3298686,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-85931705",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "John E. Devine Drive 165",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03103",
+    "phone": "",
+    "hours": "",
+    "lat": 42.9587053,
+    "lng": -71.4403878,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-236156359",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Hooksett Road 1292",
+    "city": "Hooksett",
+    "state": "NH",
+    "zip": "03106",
+    "phone": "(603) 622-6207",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 43.0503808,
+    "lng": -71.4389786,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-431798748",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "State Route 101A 131",
+    "city": "Amherst",
+    "state": "NH",
+    "zip": "03031",
+    "phone": "(603) 554-8288",
+    "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "lat": 42.8055797,
+    "lng": -71.567005,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-manchester-nh-shelter",
     "name": "Manchester Homeless Services Hotline",
     "category": "Shelter",

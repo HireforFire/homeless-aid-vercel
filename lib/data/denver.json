@@ -228,6 +228,177 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-1572244900",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Jewell Avenue 7677",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.6837555,
+    "lng": -105.0829795,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2925541670",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Abilene Street 1640",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80012",
+    "phone": "(720) 904-6739",
+    "hours": "Mo-Su 10:00-18:00",
+    "lat": 39.6876764,
+    "lng": -104.8278014,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3429369564",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West 120th Avenue 6650",
+    "city": "Broomfield",
+    "state": "CO",
+    "zip": "80020",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9130118,
+    "lng": -105.0713765,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3450087834",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Iliff Avenue 7485",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80231",
+    "phone": "(303) 752-2731",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.6760824,
+    "lng": -104.901202,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-3540545653",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Sable Boulevard 1070",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80012",
+    "phone": "(303) 369-5858",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.6976376,
+    "lng": -104.817289,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4168517908",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Parker Road 3106",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80014",
+    "phone": "(303) 283-0337",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.6609881,
+    "lng": -104.8525817,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4889018564",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Cortez Street 1405",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80221",
+    "phone": "",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.8316775,
+    "lng": -105.003795,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4890750423",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West 44th Avenue 5825",
+    "city": "Lakeside",
+    "state": "CO",
+    "zip": "80212",
+    "phone": "",
+    "hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00",
+    "lat": 39.7778028,
+    "lng": -105.0595859,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-5463378968",
+    "name": "arc Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "West Alameda Parkway 12039",
+    "city": "Lakewood",
+    "state": "CO",
+    "zip": "80228",
+    "phone": "(303) 984-0851",
+    "hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00",
+    "lat": 39.7096567,
+    "lng": -105.137198,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-denver-shelter",
     "name": "Denver Homeless Services Hotline",
     "category": "Shelter",

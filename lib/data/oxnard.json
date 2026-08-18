@@ -228,6 +228,63 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-13508155483",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "East Main Street 858",
+    "city": "Santa Paula",
+    "state": "CA",
+    "zip": "93060",
+    "phone": "",
+    "hours": "",
+    "lat": 34.3529147,
+    "lng": -119.0627828,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13700069039",
+    "name": "Bargain Center Thift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.202256,
+    "lng": -119.17669,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-1123794161",
+    "name": "Goodwill Wholesale Outlet",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Rice Avenue 1401",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "(805) 981-7986",
+    "hours": "Mo-Su 07:00-20:00",
+    "lat": 34.2146375,
+    "lng": -119.143038,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-oxnard-shelter",
     "name": "Oxnard Homeless Services Hotline",
     "category": "Shelter",

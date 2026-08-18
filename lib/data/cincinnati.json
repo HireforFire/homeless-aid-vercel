@@ -228,6 +228,101 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "osm-node-2875324020",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Donnermeyer Drive 15",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "41073",
+    "phone": "(859) 291-1333",
+    "hours": "Mo-Su 10:00-18:00",
+    "lat": 39.0990023,
+    "lng": -84.4839635,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-10078985779",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Alexandria Pike 3970",
+    "city": "Cold Spring",
+    "state": "KY",
+    "zip": "41076",
+    "phone": "(859) 572-2640",
+    "hours": "Mo-Sa 10:00-19:00; Su 12:00-18:00",
+    "lat": 39.0236577,
+    "lng": -84.4430074,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13048506403",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Turfway Road 7110",
+    "city": "Florence",
+    "state": "KY",
+    "zip": "41042",
+    "phone": "",
+    "hours": "Mo-Sa 10:00-19:00",
+    "lat": 39.0057442,
+    "lng": -84.6208612,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-13048529270",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Turfway Road 7102",
+    "city": "Florence",
+    "state": "KY",
+    "zip": "41042",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0053778,
+    "lng": -84.6205624,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-39242480",
+    "name": "Goodwill Montgomery Boutique",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Montgomery Road 9820",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45242",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2345968,
+    "lng": -84.3507115,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-cincinnati-shelter",
     "name": "Cincinnati Homeless Services Hotline",
     "category": "Shelter",

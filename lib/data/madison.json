@@ -228,22 +228,21 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-madison-shelter",
-    "name": "Madison Homeless Services Hotline",
+    "id": "osm-node-3800039867",
+    "name": "Velo UnderRound shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "shelter",
     "address": "",
     "city": "Madison",
     "state": "WI",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 43.0731,
-    "lng": -89.4012,
+    "phone": "",
+    "hours": "",
+    "lat": 43.023848,
+    "lng": -89.4612842,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

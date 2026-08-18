@@ -228,6 +228,120 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "osm-node-6311664527",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "North Pacific Highway 948",
+    "city": "Woodburn",
+    "state": "OR",
+    "zip": "97071",
+    "phone": "",
+    "hours": "",
+    "lat": 45.1427955,
+    "lng": -122.8382658,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-6852723644",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Lancaster Drive Northeast 445",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9349324,
+    "lng": -122.984932,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-11342735414",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Portland Road Northeast 3235",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9685653,
+    "lng": -123.0079085,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-12578207985",
+    "name": "Radness Ensues",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "River Road North 3837",
+    "city": "Keizer",
+    "state": "OR",
+    "zip": "97303",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9811677,
+    "lng": -123.0269391,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-182270736",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Crowley Avenue Southeast 1125",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "hours": "Mo-Su 10:00-20:00",
+    "lat": 44.8875558,
+    "lng": -123.0321552,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-782823701",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Edgewater Street Northwest 585",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9444342,
+    "lng": -123.050638,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-salem-or-shelter",
     "name": "Salem Homeless Services Hotline",
     "category": "Shelter",

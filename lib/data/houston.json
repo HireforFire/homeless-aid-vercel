@@ -228,6 +228,186 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "osm-node-368161957",
+    "name": "Fort Bend County Libraries - Missouri City Branch",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Texas Parkway 1530",
+    "city": "Missouri City",
+    "state": "TX",
+    "zip": "77489",
+    "phone": "",
+    "hours": "",
+    "lat": 29.6047366,
+    "lng": -95.5292139,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-368161992",
+    "name": "South Houston Public Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.666886,
+    "lng": -95.2242547,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-1975678661",
+    "name": "HAM-TMC Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "John Freeman Boulevard 1133",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77030",
+    "phone": "",
+    "hours": "",
+    "lat": 29.711878,
+    "lng": -95.3968178,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2091700208",
+    "name": "Clayton House",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7261687,
+    "lng": -95.3860786,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4259050522",
+    "name": "UTHSPH Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7051135,
+    "lng": -95.398188,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-4322627983",
+    "name": "HPL Express",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "Fr-Sa 12:00-17:00; Su 13:00-17:00",
+    "lat": 29.7534071,
+    "lng": -95.3595422,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-7161448228",
+    "name": "Williford Parish Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.9087725,
+    "lng": -95.5693909,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8436104216",
+    "name": "Woodson Research Center",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7178699,
+    "lng": -95.4002174,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-8459553385",
+    "name": "Brown Fine Arts Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7182841,
+    "lng": -95.4003778,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-houston-shelter",
     "name": "Houston Homeless Services Hotline",
     "category": "Shelter",
@@ -249,40 +429,22 @@
   },
   {
     "id": "fallback-houston-hygiene",
-    "name": "Houston Public Restroom Information",
+    "name": "Fort Bend County Libraries - Missouri City Branch - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
-    "address": "",
-    "city": "Houston",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "address": "Texas Parkway 1530",
+    "city": "Missouri City",
     "state": "TX",
-    "zip": "",
+    "zip": "77489",
     "phone": "",
-    "hours": "Varies",
-    "lat": 29.7604,
-    "lng": -95.3698,
+    "hours": "During library hours",
+    "lat": 29.6047366,
+    "lng": -95.5292139,
     "tags": [
       "restroom",
-      "hygiene"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-houston-library",
-    "name": "Houston Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Houston",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 29.7604,
-    "lng": -95.3698,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   }

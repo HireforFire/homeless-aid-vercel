@@ -228,6 +228,186 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "osm-node-367693876",
+    "name": "Greenwich Township Branch Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Philadelphia",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.8192,
+    "lng": -75.2676,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963842",
+    "name": "North Hills Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.1156,
+    "lng": -75.1728,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963850",
+    "name": "Joseph E. Coleman Northwest Regional Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "West Chelten Avenue 68",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19144",
+    "phone": "(215) 685-2150",
+    "hours": "Mo-Tu 11:00-19:00; We-Fr 10:00-17:00; Sa,Su,PH off",
+    "lat": 40.0340605,
+    "lng": -75.1760528,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963860",
+    "name": "Huntingdon Valley Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Red Lion Road 625",
+    "city": "Huntingdon Valley",
+    "state": "PA",
+    "zip": "19006",
+    "phone": "(215) 947-5138",
+    "hours": "Mo-Th 09:00-21:00; Fr-Sa 10:00-17:00; Su 13:00-17:00; PH unknown",
+    "lat": 40.1248147,
+    "lng": -75.061269,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963864",
+    "name": "Narberth Community Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Windsor Avenue 80",
+    "city": "Narberth",
+    "state": "PA",
+    "zip": "19072",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0055188,
+    "lng": -75.2654035,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963876",
+    "name": "La Mott Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 40.0673855,
+    "lng": -75.1418309,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963983",
+    "name": "Frankford Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "Frankford Avenue 4634",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19124",
+    "phone": "(215) 685-1473",
+    "hours": "Mo-Tu 10:00-18:00; We-Sa 10:00-17:00; Su off",
+    "lat": 40.0157688,
+    "lng": -75.0850782,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963995",
+    "name": "Glenolden Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 39.8996,
+    "lng": -75.293,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-367963998",
+    "name": "Glenside Library",
+    "category": "Public Resources",
+    "description": "library",
+    "address": "South Keswick Avenue 215",
+    "city": "Glenside",
+    "state": "PA",
+    "zip": "19038",
+    "phone": "(215) 885-0455",
+    "hours": "Mo,We,Fr 10:00-18:00; Tu,Th 10:00-21:00; Sa 10:00-16:00; Su off",
+    "lat": 40.0971,
+    "lng": -75.1549,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-philadelphia-shelter",
     "name": "Philadelphia Homeless Services Hotline",
     "category": "Shelter",
@@ -310,20 +490,22 @@
   },
   {
     "id": "fallback-philadelphia-hygiene",
-    "name": "Philadelphia Public Restroom Information",
+    "name": "Greenwich Township Branch Library - Restroom Access",
     "category": "Hygiene",
-    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
     "address": "",
     "city": "Philadelphia",
-    "state": "PA",
+    "state": "NJ",
     "zip": "",
     "phone": "",
-    "hours": "Varies",
-    "lat": 39.9526,
-    "lng": -75.1652,
+    "hours": "During library hours",
+    "lat": 39.8192,
+    "lng": -75.2676,
     "tags": [
       "restroom",
-      "hygiene"
+      "hygiene",
+      "public",
+      "library"
     ],
     "lastUpdated": "2026-05-14"
   },
@@ -346,26 +528,6 @@
       "clothing",
       "meals",
       "men"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "fallback-philadelphia-library",
-    "name": "Philadelphia Public Library System",
-    "category": "Public Resources",
-    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
-    "address": "",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "",
-    "phone": "",
-    "hours": "Hours vary by branch",
-    "lat": 39.9526,
-    "lng": -75.1652,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
     ],
     "lastUpdated": "2026-05-14"
   },

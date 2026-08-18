@@ -228,63 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-13782747847",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Northpoint Boulevard",
-    "city": "Hixson",
-    "state": "TN",
-    "zip": "37343",
-    "phone": "",
-    "hours": "",
-    "lat": 35.1362571,
-    "lng": -85.2420109,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-504470890",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Battlefield Parkway 518",
-    "city": "Fort Oglethorpe",
-    "state": "GA",
-    "zip": "30742",
-    "phone": "",
-    "hours": "",
-    "lat": 34.953364,
-    "lng": -85.2575901,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-703256032",
-    "name": "Goodwill",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "Nashville Street 6659",
-    "city": "Ringgold",
-    "state": "GA",
-    "zip": "30736",
-    "phone": "",
-    "hours": "",
-    "lat": 34.9202908,
-    "lng": -85.1266911,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-chattanooga-shelter",
     "name": "Chattanooga Homeless Services Hotline",
     "category": "Shelter",

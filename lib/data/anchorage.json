@@ -228,44 +228,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "osm-node-8880968978",
-    "name": "FashionPact",
-    "category": "Clothing & Supplies",
-    "description": "FashionPact is a secondhand shop in Anchorage, Alaska. Every item that sells generates a donation for a local Alaskan charity.",
-    "address": "Ingra Street 575",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99501",
-    "phone": "",
-    "hours": "Tu-Sa 11:00-18:00",
-    "lat": 61.2166983,
-    "lng": -149.8664347,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-627912792",
-    "name": "The Salvation Army",
-    "category": "Clothing & Supplies",
-    "description": "",
-    "address": "",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 61.1949896,
-    "lng": -149.8895841,
-    "tags": [
-      "thrift",
-      "charity"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-anchorage-shelter",
     "name": "Anchorage Homeless Services Hotline",
     "category": "Shelter",

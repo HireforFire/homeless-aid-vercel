@@ -228,44 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-way-372268679",
-    "name": "Clothes for Kids",
-    "category": "Clothing & Supplies",
-    "description": "social_facility",
-    "address": "Southwest Merlo Road 16550",
-    "city": "Beaverton",
-    "state": "OR",
-    "zip": "97006",
-    "phone": "",
-    "hours": "",
-    "lat": 45.5039381,
-    "lng": -122.8488772,
-    "tags": [
-      "clothing",
-      "free"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-480969136",
-    "name": "Steam PDX",
-    "category": "Hygiene",
-    "description": "public_bath",
-    "address": "Northeast Sandy Boulevard 2885",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "97232",
-    "phone": "",
-    "hours": "",
-    "lat": 45.5300237,
-    "lng": -122.6357292,
-    "tags": [
-      "showers",
-      "bath"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-portland-or-shelter",
     "name": "Portland Homeless Services Hotline",
     "category": "Shelter",
@@ -282,6 +244,25 @@
       "shelter",
       "hotline",
       "211"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-portland-or-hygiene",
+    "name": "Portland Public Restroom Information",
+    "category": "Hygiene",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "hours": "Varies",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "tags": [
+      "restroom",
+      "hygiene"
     ],
     "lastUpdated": "2026-05-14"
   },

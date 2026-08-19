@@ -228,146 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-367132693",
-    "name": "Iberville Parish Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "70764",
-    "phone": "",
-    "hours": "",
-    "lat": 30.265362,
-    "lng": -91.2476343,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-10938737992",
-    "name": "River Center Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North Boulevard 250",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "70802",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4466678,
-    "lng": -91.1879228,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-155026537",
-    "name": "Hill Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4143856,
-    "lng": -91.1815122,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-155026562",
-    "name": "Middleton Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4144305,
-    "lng": -91.1800949,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-295180930",
-    "name": "Louisiana State Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "North 4th Street 701",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "70802",
-    "phone": "",
-    "hours": "",
-    "lat": 30.453847,
-    "lng": -91.1879914,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-493768965",
-    "name": "Main Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Goodwood Boulevard 7711",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "",
-    "phone": "(225) 231-3740",
-    "hours": "",
-    "lat": 30.4438841,
-    "lng": -91.1072618,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-497449678",
-    "name": "Carver Branch Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Terrace Avenue 720",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "70802",
-    "phone": "",
-    "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-18:00; Su 14:00-18:00",
-    "lat": 30.4359509,
-    "lng": -91.1827017,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-baton-rouge-shelter",
     "name": "Baton Rouge Homeless Services Hotline",
     "category": "Shelter",
@@ -389,22 +249,40 @@
   },
   {
     "id": "fallback-baton-rouge-hygiene",
-    "name": "Iberville Parish Library - Restroom Access",
+    "name": "Baton Rouge Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Baton Rouge",
     "state": "LA",
-    "zip": "70764",
+    "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 30.265362,
-    "lng": -91.2476343,
+    "hours": "Varies",
+    "lat": 30.4515,
+    "lng": -91.1871,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-baton-rouge-library",
+    "name": "Baton Rouge Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 30.4515,
+    "lng": -91.1871,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

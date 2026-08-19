@@ -228,86 +228,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-366375642",
-    "name": "Doña Ana Branch Community College Library Media Center",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "",
-    "city": "Las Cruces",
-    "state": "NM",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.2761174,
-    "lng": -106.7553259,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-51543913",
-    "name": "Branson Hall Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Frenger Mall 1305",
-    "city": "Las Cruces",
-    "state": "NM",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.2815928,
-    "lng": -106.7520425,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-51543919",
-    "name": "Zuhl Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "McFie Circle 2911",
-    "city": "Las Cruces",
-    "state": "NM",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 32.2814764,
-    "lng": -106.7496395,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-171734945",
-    "name": "Thomas Branigan Memorial Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East Picacho Avenue 200",
-    "city": "Las Cruces",
-    "state": "NM",
-    "zip": "",
-    "phone": "(575) 528-4000",
-    "hours": "",
-    "lat": 32.3156364,
-    "lng": -106.7784009,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-las-cruces-shelter",
     "name": "Las Cruces Homeless Services Hotline",
     "category": "Shelter",
@@ -329,22 +249,40 @@
   },
   {
     "id": "fallback-las-cruces-hygiene",
-    "name": "Doña Ana Branch Community College Library Media Center - Restroom Access",
+    "name": "Las Cruces Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
     "address": "",
     "city": "Las Cruces",
     "state": "NM",
     "zip": "",
     "phone": "",
-    "hours": "During library hours",
-    "lat": 32.2761174,
-    "lng": -106.7553259,
+    "hours": "Varies",
+    "lat": 32.3199,
+    "lng": -106.7637,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-las-cruces-library",
+    "name": "Las Cruces Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 32.3199,
+    "lng": -106.7637,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   },

@@ -228,66 +228,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "osm-way-231120012",
-    "name": "Laramie County Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Pioneer Avenue 2000",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "(307) 634-3561",
-    "hours": "Mo-Th 09:00-20:00; Fr-Su 10:00-17:00",
-    "lat": 41.1374304,
-    "lng": -104.8217978,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-236023526",
-    "name": "LCCC Ludden Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "East College Drive 1400",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82007",
-    "phone": "",
-    "hours": "Mo-Th 08:00-20:00; Fr 08:00-16:00; Su 12:00-16:00",
-    "lat": 41.1042775,
-    "lng": -104.7787035,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-way-548429022",
-    "name": "Wyoming State Library",
-    "category": "Public Resources",
-    "description": "library",
-    "address": "Central Avenue 2800",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "(307) 777-6333",
-    "hours": "Mo-Fr 08:00-17:00",
-    "lat": 41.1441278,
-    "lng": -104.8220181,
-    "tags": [
-      "library",
-      "wifi",
-      "computers"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
     "id": "fallback-cheyenne-shelter",
     "name": "Cheyenne Homeless Services Hotline",
     "category": "Shelter",
@@ -309,22 +249,40 @@
   },
   {
     "id": "fallback-cheyenne-hygiene",
-    "name": "Laramie County Library - Restroom Access",
+    "name": "Cheyenne Public Restroom Information",
     "category": "Hygiene",
-    "description": "Free public restrooms, hand washing, and water fountain access. No purchase or library card required.",
-    "address": "Pioneer Avenue 2000",
+    "description": "Free public restrooms available at libraries, transit stations, and city buildings. Call 311 for locations.",
+    "address": "",
     "city": "Cheyenne",
     "state": "WY",
-    "zip": "82001",
+    "zip": "",
     "phone": "",
-    "hours": "Mo-Th 09:00-20:00; Fr-Su 10:00-17:00",
-    "lat": 41.1374304,
-    "lng": -104.8217978,
+    "hours": "Varies",
+    "lat": 41.14,
+    "lng": -104.8202,
     "tags": [
       "restroom",
-      "hygiene",
-      "public",
-      "library"
+      "hygiene"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "fallback-cheyenne-library",
+    "name": "Cheyenne Public Library System",
+    "category": "Public Resources",
+    "description": "Public library offering free WiFi, computers, printing, restrooms, and safe indoor space.",
+    "address": "",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "",
+    "phone": "",
+    "hours": "Hours vary by branch",
+    "lat": 41.14,
+    "lng": -104.8202,
+    "tags": [
+      "library",
+      "wifi",
+      "computers"
     ],
     "lastUpdated": "2026-05-14"
   }

@@ -228,21 +228,22 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-4237695952",
-    "name": "Gateway Center",
+    "id": "fallback-atlanta-shelter",
+    "name": "Atlanta Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "Pryor Street Southwest 275",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
     "city": "Atlanta",
     "state": "GA",
-    "zip": "30303",
-    "phone": "(404) 215-6600",
-    "hours": "",
-    "lat": 33.7476109,
-    "lng": -84.3945527,
+    "zip": "",
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 33.749,
+    "lng": -84.388,
     "tags": [
       "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

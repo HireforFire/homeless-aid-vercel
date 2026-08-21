@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-176745",
-    "name": "Union Gospel Mission",
-    "category": "Food",
-    "description": "Main facility providing food distribution and hot meal services in Sioux Falls.",
-    "address": "701 E 8th St",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57103",
-    "phone": "",
-    "hours": "",
-    "lat": 43.548285110643,
-    "lng": -96.718230553306,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-177580",
     "name": "Calvary Cathedral",
     "category": "Food",
@@ -31,6 +12,25 @@
     "hours": "",
     "lat": 43.542171392377,
     "lng": -96.72783579525,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176745",
+    "name": "Union Gospel Mission",
+    "category": "Food",
+    "description": "Main facility providing food distribution and hot meal services in Sioux Falls.",
+    "address": "701 E 8th St",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103",
+    "phone": "",
+    "hours": "",
+    "lat": 43.548285110643,
+    "lng": -96.718230553306,
     "tags": [
       "food pantry",
       "walk-in"

@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-217750",
-    "name": "The Salvation Army - S Brook St Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "911 S Brook St",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40203",
-    "phone": "(502) 671-4900",
-    "hours": "",
-    "lat": 38.24722,
-    "lng": -85.765,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-220443",
     "name": "Presbyterian Community Center",
     "category": "Food",
@@ -31,6 +12,25 @@
     "hours": "",
     "lat": 38.2449646,
     "lng": -85.7435684,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-217750",
+    "name": "The Salvation Army - S Brook St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "911 S Brook St",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "(502) 671-4900",
+    "hours": "",
+    "lat": 38.24722,
+    "lng": -85.765,
     "tags": [
       "food pantry",
       "walk-in"

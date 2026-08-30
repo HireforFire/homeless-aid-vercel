@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-173065",
-    "name": "Hudson County Department of Family Services - Downtown Jersey City",
-    "category": "Food",
-    "description": "Main office location for Hudson County Department of Family Services",
-    "address": "257 Cornelison Avenue",
-    "city": "Jersey City",
-    "state": "NJ",
-    "zip": "07302",
-    "phone": "(201) 420-3000",
-    "hours": "",
-    "lat": 40.7249251,
-    "lng": -74.06058039999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-172133",
     "name": "JCFPL Pavonia Branch",
     "category": "Food",
@@ -50,6 +31,25 @@
     "hours": "",
     "lat": 40.72086,
     "lng": -74.04444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173065",
+    "name": "Hudson County Department of Family Services - Downtown Jersey City",
+    "category": "Food",
+    "description": "Main office location for Hudson County Department of Family Services",
+    "address": "257 Cornelison Avenue",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07302",
+    "phone": "(201) 420-3000",
+    "hours": "",
+    "lat": 40.7249251,
+    "lng": -74.06058039999999,
     "tags": [
       "food pantry",
       "walk-in"
@@ -152,25 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172020",
-    "name": "Our Lady of Sorrows Roman Catholic Church",
-    "category": "Food",
-    "description": "Food distribution location at Our Lady of Sorrows Roman Catholic Church",
-    "address": "95 Clerk St",
-    "city": "Jersey City",
-    "state": "NJ",
-    "zip": "07305",
-    "phone": "(201) 433-0626",
-    "hours": "",
-    "lat": 40.707652599999996,
-    "lng": -74.0769123,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-176965",
     "name": "Riverside Assembly Of God",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 40.715882,
     "lng": -74.037311,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198103",
+    "name": "BETTER TOMORROWS - Jersey City",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "471 Pacific Avenue",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07304",
+    "phone": "",
+    "hours": "",
+    "lat": 40.715779,
+    "lng": -74.059135,
     "tags": [
       "food pantry",
       "walk-in"

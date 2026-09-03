@@ -95,6 +95,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-220756",
+    "name": "Distribution Center (Pathways of Hope)",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "611 S Ford Avenue",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92832",
+    "phone": "(714) 680-3691",
+    "hours": "",
+    "lat": 33.8647652,
+    "lng": -117.9298859,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-469",
     "name": "Anaheim Community Services",
     "category": "Food",
@@ -164,25 +183,6 @@
     "hours": "",
     "lat": 33.8335724,
     "lng": -117.937912,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220756",
-    "name": "Distribution Center (Pathways of Hope)",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "611 S Ford Avenue",
-    "city": "Fullerton",
-    "state": "CA",
-    "zip": "92832",
-    "phone": "(714) 680-3691",
-    "hours": "",
-    "lat": 33.8647652,
-    "lng": -117.9298859,
     "tags": [
       "food pantry",
       "walk-in"

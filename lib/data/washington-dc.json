@@ -1,21 +1,248 @@
 [
   {
-    "id": "fallback-washington-dc-shelter",
-    "name": "Washington Homeless Services Hotline",
+    "id": "fa-170215",
+    "name": "James Apartments",
+    "category": "Food",
+    "description": "James Apartments Resident Council location",
+    "address": "1425 N St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20005",
+    "phone": "(202) 803-2225",
+    "hours": "",
+    "lat": 38.907508,
+    "lng": -77.033099,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170225",
+    "name": "Walker Memorial Baptist Church",
+    "category": "Food",
+    "description": "Walker Memorial Baptist Church food distribution location",
+    "address": "2020 13th St. NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20009",
+    "phone": "(202) 431-0483",
+    "hours": "",
+    "lat": 38.917618,
+    "lng": -77.0299466,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170226",
+    "name": "Greater New Hope Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Greater New Hope Baptist Church",
+    "address": "816 8th STREET NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20001",
+    "phone": "(301) 357-4905",
+    "hours": "",
+    "lat": 38.900323,
+    "lng": -77.023292,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170253",
+    "name": "Church of the Epiphany - Welcome Table Cafe",
+    "category": "Food",
+    "description": "Location where breakfast is served every Sunday morning",
+    "address": "1317 G Street Northwest",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20005",
+    "phone": "(202) 347-2635",
+    "hours": "",
+    "lat": 38.8986682,
+    "lng": -77.03044899999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170464",
+    "name": "Ayuda, Inc.",
+    "category": "Food",
+    "description": "Main office location",
+    "address": "1990 K St. NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20006",
+    "phone": "(703) 589-4204",
+    "hours": "",
+    "lat": 38.902192,
+    "lng": -77.04455,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170490",
+    "name": "First Rising Zion Baptist Church - Food Distribution",
+    "category": "Food",
+    "description": "Food distribution location at First Rising Zion Baptist Church",
+    "address": "602 N Street Northwest",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20001",
+    "phone": "(202) 289-4480",
+    "hours": "",
+    "lat": 38.907039,
+    "lng": -77.0203274,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170678",
+    "name": "Crowder Owens Calvary Food Bank",
+    "category": "Food",
+    "description": "Main food bank location at 1608 Rhode Island Avenue Northwest",
+    "address": "1608 Rhode Island Avenue Northwest",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20036",
+    "phone": "(202) 529-2299",
+    "hours": "",
+    "lat": 38.9065623,
+    "lng": -77.0373422,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170691",
+    "name": "St. Augustine Catholic Church",
+    "category": "Food",
+    "description": "St. Augustine Catholic Church located in Northwest Washington",
+    "address": "1419 V Street Northwest",
+    "city": "Northwest Washington",
+    "state": "DC",
+    "zip": "20009",
+    "phone": "(202) 265-1470",
+    "hours": "",
+    "lat": 38.9183275,
+    "lng": -77.032923,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170696",
+    "name": "New York Avenue Presbyterian Church",
+    "category": "Food",
+    "description": "Main church location providing food distribution and community services.",
+    "address": "1313 New York Avenue Northwest",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20005",
+    "phone": "(202) 393-3700",
+    "hours": "",
+    "lat": 38.8998368,
+    "lng": -77.03127640000001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170746",
+    "name": "Ayuda, Inc. Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location offering TEFAP services",
+    "address": "1101 Vermont Avenue Northwest",
+    "city": "Northwest Washington",
+    "state": "DC",
+    "zip": "20005",
+    "phone": "(202) 387-4848",
+    "hours": "",
+    "lat": 38.9039824,
+    "lng": -77.03238329999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170756",
+    "name": "DC University Food Pantry GWU",
+    "category": "Food",
+    "description": "GWU Food Pantry located in Military and Veteran Services office on the ground floor",
+    "address": "800 21st Street NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20052",
+    "phone": "(202) 438-5340",
+    "hours": "",
+    "lat": 38.899902,
+    "lng": -77.047201,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-218493",
+    "name": "The Salvation Army - Harvard St Nw",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1434 Harvard St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20009",
+    "phone": "(202) 332-5000",
+    "hours": "",
+    "lat": 38.91986,
+    "lng": -77.03749,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "osm-node-358961190",
+    "name": "Emery Shelter Clinic",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "description": "social_facility",
     "address": "",
     "city": "Washington",
     "state": "DC",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 38.9072,
-    "lng": -77.0369,
+    "phone": "",
+    "hours": "",
+    "lat": 38.9136046,
+    "lng": -77.0078947,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

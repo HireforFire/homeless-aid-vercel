@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-198090",
+    "name": "The Beacon Day Center",
+    "category": "Food",
+    "description": "Prepared meals for people experiencing homelessness: Tuesday-Saturday, breakfast 7-9:30 am and lunch 11 am-noon. Enter the Day Center from Caroline Street at 1212 Prairie Street. Services are first come, first served and depend on capacity; availability is not guaranteed. Showers and laundry are also available.",
+    "address": "1212 Prairie St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002",
+    "phone": "(713) 220-9737",
+    "hours": "",
+    "lat": 29.7591829,
+    "lng": -95.3599932,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fa-46",
     "name": "Loaves and Fishes Community Kitchen",
     "category": "Food",
@@ -69,25 +88,6 @@
     "hours": "",
     "lat": 29.7712326,
     "lng": -95.3731086,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-198090",
-    "name": "The Beacon Day Center",
-    "category": "Food",
-    "description": "Day center providing free hot meals, shower access, and laundry services",
-    "address": "1212 Prairie St.",
-    "city": "Houston",
-    "state": "TX",
-    "zip": "77002",
-    "phone": "",
-    "hours": "",
-    "lat": 29.7591829,
-    "lng": -95.3599932,
     "tags": [
       "food pantry",
       "walk-in"
@@ -209,23 +209,22 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-217954",
-    "name": "The Salvation Army - Washington Ave",
+    "id": "fa-202858",
+    "name": "Interfaith Ministries for Greater Houston - Main Office",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2208 Washington Ave",
+    "description": "Meals on Wheels provides home-delivered meals for homebound seniors and adults with disabilities. Call (713) 533-4978 to apply and confirm eligibility, service-area ZIP code, and any cost. This address is the organization's main office; contact intake before traveling for food.",
+    "address": "3303 Main St.",
     "city": "Houston",
     "state": "TX",
-    "zip": "77007",
-    "phone": "(713) 869-3551",
+    "zip": "77002",
+    "phone": "(713) 533-4978",
     "hours": "",
-    "lat": 29.77152,
-    "lng": -95.40919,
+    "lat": 29.7880838,
+    "lng": -95.3699361,
     "tags": [
-      "food pantry",
-      "walk-in"
+      "home delivered meals"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-houston-shelter",

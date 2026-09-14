@@ -228,6 +228,63 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "osm-node-8712824503",
+    "name": "Center For Avian Adoption Rescue And Education",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8736787,
+    "lng": -96.862628,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-132426491",
+    "name": "New Life Center Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8786532,
+    "lng": -96.8110343,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-191756582",
+    "name": "Habitat for Humanity ReStore",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "11th Street North 210",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "56560",
+    "phone": "",
+    "hours": "Tu-Fr 10:00-18:00; Sa 10:00-16:00",
+    "lat": 46.8775937,
+    "lng": -96.7621297,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-fargo-shelter",
     "name": "Fargo Homeless Services Hotline",
     "category": "Shelter",

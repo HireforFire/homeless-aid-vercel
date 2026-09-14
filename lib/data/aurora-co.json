@@ -228,22 +228,21 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fallback-aurora-co-shelter",
-    "name": "Aurora Homeless Services Hotline",
+    "id": "osm-node-1705214239",
+    "name": "Samaritan House Catholic Charities",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
-    "city": "Aurora",
+    "description": "social_facility",
+    "address": "Lawrence Street 2301",
+    "city": "Denver",
     "state": "CO",
-    "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 39.7294,
-    "lng": -104.8319,
+    "zip": "80205",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7555773,
+    "lng": -104.9881964,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

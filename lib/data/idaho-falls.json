@@ -228,6 +228,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "osm-node-8816100541",
+    "name": "Saint Vincent de Paul Thrift Store",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "South Holmes Avenue",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 43.4904239,
+    "lng": -112.023574,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-idaho-falls-shelter",
     "name": "Idaho Falls Homeless Services Hotline",
     "category": "Shelter",

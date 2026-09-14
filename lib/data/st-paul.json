@@ -228,22 +228,21 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fallback-st-paul-shelter",
-    "name": "St. Paul Homeless Services Hotline",
+    "id": "osm-node-777793294",
+    "name": "Simpson Shelter (Temporary Location)",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
-    "city": "St. Paul",
+    "description": "social_facility",
+    "address": "West 33rd Street 128",
+    "city": "Minneapolis",
     "state": "MN",
-    "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 44.9537,
-    "lng": -93.09,
+    "zip": "55408",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9432571,
+    "lng": -93.2810618,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

@@ -228,6 +228,44 @@
     "lastUpdated": "2025-01-01"
   },
   {
+    "id": "osm-node-10751841306",
+    "name": "Hope Missions",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "hours": "",
+    "lat": 34.9849415,
+    "lng": -90.0182061,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-way-241070258",
+    "name": "Goodwill",
+    "category": "Clothing & Supplies",
+    "description": "",
+    "address": "Poplar Avenue 3109",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38111",
+    "phone": "",
+    "hours": "",
+    "lat": 35.1311939,
+    "lng": -89.9582633,
+    "tags": [
+      "thrift",
+      "charity"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-memphis-shelter",
     "name": "Memphis Homeless Services Hotline",
     "category": "Shelter",

@@ -228,6 +228,25 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "osm-way-53335109",
+    "name": "Mary Magdalen House",
+    "category": "Clothing & Supplies",
+    "description": "social_facility",
+    "address": "Republic Street 1629",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "(513) 721-4811",
+    "hours": "Mo-Fr 08:30-16:00; Sa 08:30-12:00",
+    "lat": 39.1137699,
+    "lng": -84.5171768,
+    "tags": [
+      "clothing",
+      "free"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
     "id": "fallback-cincinnati-shelter",
     "name": "Cincinnati Homeless Services Hotline",
     "category": "Shelter",

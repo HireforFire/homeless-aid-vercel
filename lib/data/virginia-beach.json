@@ -228,59 +228,22 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-3188922286",
-    "name": "Samaritan House",
+    "id": "fallback-virginia-beach-shelter",
+    "name": "Virginia Beach Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "Southern Boulevard 2620",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23452",
-    "phone": "(757) 763-1071",
-    "hours": "",
-    "lat": 36.8398911,
-    "lng": -76.0629964,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-4637812567",
-    "name": "Marlwood Shelter",
-    "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Virginia Beach",
     "state": "VA",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.8275257,
-    "lng": -76.1502174,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 36.8529,
+    "lng": -75.978,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5276397205",
-    "name": "Lago Mar Shelter",
-    "category": "Shelter",
-    "description": "shelter",
-    "address": "",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7528782,
-    "lng": -75.9784724,
-    "tags": [
-      "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

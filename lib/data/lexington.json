@@ -228,21 +228,22 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-way-262872599",
-    "name": "Veteran's Park Picnic Shelter",
+    "id": "fallback-lexington-shelter",
+    "name": "Lexington Homeless Services Hotline",
     "category": "Shelter",
-    "description": "shelter",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Lexington",
     "state": "KY",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 37.9561568,
-    "lng": -84.5051429,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 38.0406,
+    "lng": -84.5037,
     "tags": [
       "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

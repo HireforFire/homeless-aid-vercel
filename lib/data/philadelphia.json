@@ -19,6 +19,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-577108",
+    "name": "Mercy Hospice",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "334 South 13th Street",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19107",
+    "phone": "(215) 545-5153",
+    "hours": "",
+    "lat": 39.9456477,
+    "lng": -75.1632093,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-577111",
+    "name": "St. John's Hospice",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1221 Race Street",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19107",
+    "phone": "(215) 563-7763",
+    "hours": "",
+    "lat": 39.9560889,
+    "lng": -75.159973,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-218595",
     "name": "The Salvation Army - N Broad Street 1",
     "category": "Food",
@@ -133,25 +171,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-647",
-    "name": "St Johns Hospice",
-    "category": "Food",
-    "description": "Center City",
-    "address": "1221 Race St",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "19107",
-    "phone": "(215) 563-7763",
-    "hours": "",
-    "lat": 39.9576,
-    "lng": -75.1552,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-184249",
     "name": "Tindley Temple Soup Kitchen",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 39.96362941607725,
     "lng": -75.16080077282801,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-193339",
-    "name": "The Everywhere Project (Love Park)",
-    "category": "Food",
-    "description": "General meal site offering ready-to-eat meals",
-    "address": "North 15th Street",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "19102",
-    "phone": "",
-    "hours": "",
-    "lat": 39.9551008,
-    "lng": -75.1647867,
     "tags": [
       "food pantry",
       "walk-in"

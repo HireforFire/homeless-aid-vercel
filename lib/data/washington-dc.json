@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-218493",
-    "name": "The Salvation Army - Harvard St Nw",
+    "id": "fa-576847",
+    "name": "Bread for the City",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1434 Harvard St NW",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1525 7th Street Northwest",
     "city": "Washington",
     "state": "DC",
-    "zip": "20009",
-    "phone": "(202) 332-5000",
+    "zip": "20001",
+    "phone": "(202) 265-2400",
     "hours": "",
-    "lat": 38.91986,
-    "lng": -77.03749,
+    "lat": 38.9103,
+    "lng": -77.0217,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2026-05-15"
   },
   {
     "id": "osm-node-358961190",

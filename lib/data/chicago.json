@@ -133,25 +133,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-5071",
-    "name": "Benton House Over 21 Committee Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3052 S Gratten Avenue",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60608",
-    "phone": "(773) 927-6420",
-    "hours": "",
-    "lat": 41.84887,
-    "lng": -87.67139,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-186777",
     "name": "Our Lady of the Holy Family",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 41.8612408,
     "lng": -87.66087,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191287",
+    "name": "Midwest Asian Health Association",
+    "category": "Food",
+    "description": "Main location for Midwest Asian Health Association pantry and grocery distribution services.",
+    "address": "218 W 26th St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60616",
+    "phone": "",
+    "hours": "",
+    "lat": 41.8458143,
+    "lng": -87.6327103,
     "tags": [
       "food pantry",
       "walk-in"

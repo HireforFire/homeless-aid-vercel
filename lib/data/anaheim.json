@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-2193",
-    "name": "Anaheim Spanish Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1457 E. Romneya Dr.",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "92805",
-    "phone": "(714) 956-2726",
-    "hours": "",
-    "lat": 33.83003,
-    "lng": -117.90568,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-181828",
     "name": "VFW Post 3173",
     "category": "Food",
@@ -66,6 +47,25 @@
     "state": "CA",
     "zip": "92805",
     "phone": "(714) 535-1169",
+    "hours": "",
+    "lat": 33.83003,
+    "lng": -117.90568,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2193",
+    "name": "Anaheim Spanish Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1457 E. Romneya Dr.",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92805",
+    "phone": "(714) 956-2726",
     "hours": "",
     "lat": 33.83003,
     "lng": -117.90568,

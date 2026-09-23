@@ -76,6 +76,25 @@
     "lastUpdated": "2026-05-15"
   },
   {
+    "id": "fa-225527",
+    "name": "Crossroads Urban Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "347 South 400 East",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 364-7765",
+    "hours": "",
+    "lat": 40.7615509,
+    "lng": -111.879097,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-197078",
     "name": "Volunteers of America Youth Resource Center",
     "category": "Food",
@@ -104,25 +123,6 @@
     "state": "UT",
     "zip": "84111",
     "phone": "(801) 328-2303",
-    "hours": "",
-    "lat": 40.75575,
-    "lng": -111.88431,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-13905",
-    "name": "Crossroads Urban Center Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "347 S 400 East",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84111",
-    "phone": "(801) 364-7765",
     "hours": "",
     "lat": 40.75575,
     "lng": -111.88431,

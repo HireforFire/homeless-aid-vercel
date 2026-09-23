@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-12987",
-    "name": "Project Host",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "525 S Academy Street",
-    "city": "Greenville",
-    "state": "SC",
-    "zip": "29601",
-    "phone": "(864) 235-3403",
-    "hours": "",
-    "lat": 34.84744,
-    "lng": -82.40257,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-181038",
     "name": "Triune Mercy Center",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-12987",
+    "name": "Project Host",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "525 S Academy Street",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29601",
+    "phone": "(864) 235-3403",
+    "hours": "",
+    "lat": 34.84744,
+    "lng": -82.40257,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-219504",

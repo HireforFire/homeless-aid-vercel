@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-8136",
-    "name": "Della Lamb Community Center Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "500 Woodland Avenue",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64106",
-    "phone": "(816) 842-8040",
-    "hours": "",
-    "lat": 39.10526,
-    "lng": -94.57013,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-172504",
     "name": "Grace United Community Ministries - Food Pantry",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-8136",
+    "name": "Della Lamb Community Center Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "500 Woodland Avenue",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64106",
+    "phone": "(816) 842-8040",
+    "hours": "",
+    "lat": 39.10526,
+    "lng": -94.57013,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-173756",

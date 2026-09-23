@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-576522",
+    "name": "Saint Mary's Soup Kitchen",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "155 Market Street",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38105",
+    "phone": "(901) 522-9420",
+    "hours": "",
+    "lat": 35.15116,
+    "lng": -90.0481886,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-216762",
     "name": "The Salvation Army - Jackson Ave Corps",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-860",
-    "name": "Mid-South Food Bank",
-    "category": "Food",
-    "description": "Serves Memphis metro and surrounding area",
-    "address": "239 South Dudley Street",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38104",
-    "phone": "(901) 527-0841",
-    "hours": "",
-    "lat": 35.13,
-    "lng": -90.0417,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fallback-memphis-shelter",

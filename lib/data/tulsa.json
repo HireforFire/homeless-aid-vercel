@@ -38,6 +38,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-220817",
+    "name": "Iron Gate",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "501 South Cincinnati Ave",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74103",
+    "phone": "(918) 359-9039",
+    "hours": "",
+    "lat": 36.1520958,
+    "lng": -95.9870148,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-223350",
     "name": "Youth Services of Tulsa",
     "category": "Food",
@@ -93,25 +112,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-12056",
-    "name": "Iron Gate",
-    "category": "Food",
-    "description": "appointment",
-    "address": "501 W Archer Street",
-    "city": "Tulsa",
-    "state": "OK",
-    "zip": "74103",
-    "phone": "(918) 879-1702",
-    "hours": "",
-    "lat": 36.15617,
-    "lng": -95.9957,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-174264",
@@ -190,6 +190,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-12056",
+    "name": "Iron Gate",
+    "category": "Food",
+    "description": "appointment",
+    "address": "501 W Archer Street",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74103",
+    "phone": "(918) 879-1702",
+    "hours": "",
+    "lat": 36.15617,
+    "lng": -95.9957,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-12058",
     "name": "First Baptist Church",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-218747",
-    "name": "The Salvation Army - N Martin Luther King Jr Blvd",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3001 N Martin Luther King Jr Blvd",
-    "city": "Tulsa",
-    "state": "OK",
-    "zip": "74106",
-    "phone": "(918) 425-7534",
-    "hours": "",
-    "lat": 36.19191,
-    "lng": -95.98416,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-tulsa-shelter",

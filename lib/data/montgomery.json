@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-1417",
-    "name": "First Baptist Church Community Ministries",
+    "id": "fa-181515",
+    "name": "Holt Street Church of Christ",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "52 Adams Avenue",
+    "description": "Food pantry location at Holt Street Church of Christ in Montgomery.",
+    "address": "945 S. Holt St.",
     "city": "Montgomery",
     "state": "AL",
-    "zip": "36104",
-    "phone": "(334) 262-2273",
+    "zip": "36108",
+    "phone": "",
     "hours": "",
-    "lat": 32.39889,
-    "lng": -86.31593,
+    "lat": 32.3639618,
+    "lng": -86.3202945,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-01-18"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-montgomery-shelter",

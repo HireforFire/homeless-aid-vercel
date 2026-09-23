@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-12665",
-    "name": "Bethel AME Church Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2720 Webster Avenue",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "15219",
-    "phone": "(412) 683-2160",
-    "hours": "",
-    "lat": 40.44304,
-    "lng": -79.98443,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-172026",
     "name": "Shepherd's Heart",
     "category": "Food",
@@ -150,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-12665",
+    "name": "Bethel AME Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2720 Webster Avenue",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15219",
+    "phone": "(412) 683-2160",
+    "hours": "",
+    "lat": 40.44304,
+    "lng": -79.98443,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-172739",

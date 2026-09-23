@@ -38,44 +38,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-998",
-    "name": "New Hope Compassionate Ministry Food Pantry",
-    "category": "Food",
-    "description": "Free mobile pantry providing food assistance. Open to all.",
-    "address": "1220 E Street",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99501",
-    "phone": "(907) 274-4673",
-    "hours": "",
-    "lat": 61.22005,
-    "lng": -149.85872,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-1003",
-    "name": "Shiloh Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "855 E. 20th Ave.",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99501",
-    "phone": "(907) 276-6673",
-    "hours": "",
-    "lat": 61.22005,
-    "lng": -149.85872,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-991",
     "name": "Mobile Food Pantry  Lutheran Church Of Hope",
     "category": "Food",
@@ -152,6 +114,25 @@
     "lastUpdated": "2026-01-18"
   },
   {
+    "id": "fa-998",
+    "name": "New Hope Compassionate Ministry Food Pantry",
+    "category": "Food",
+    "description": "Free mobile pantry providing food assistance. Open to all.",
+    "address": "1220 E Street",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99501",
+    "phone": "(907) 274-4673",
+    "hours": "",
+    "lat": 61.22005,
+    "lng": -149.85872,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-999",
     "name": "Salvation Army - McKinnell House",
     "category": "Food",
@@ -190,6 +171,44 @@
     "lastUpdated": "2026-01-18"
   },
   {
+    "id": "fa-1003",
+    "name": "Shiloh Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "855 E. 20th Ave.",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99501",
+    "phone": "(907) 276-6673",
+    "hours": "",
+    "lat": 61.22005,
+    "lng": -149.85872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-1015",
+    "name": "New Hope On The Last Frontier",
+    "category": "Food",
+    "description": "Free mobile pantry providing food assistance. Open to all.",
+    "address": "1220 E Street",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99501",
+    "phone": "(907) 274-4673",
+    "hours": "",
+    "lat": 61.22005,
+    "lng": -149.85872,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-1017",
     "name": "Mobile Food Pantry - Fairview Recreation Center",
     "category": "Food",
@@ -204,25 +223,6 @@
     "lng": -149.85872,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-1020",
-    "name": "Downtown Soup Kitchen",
-    "category": "Food",
-    "description": "Free soup kitchen providing food assistance. Open to all.",
-    "address": "240 E 3rd Ave",
-    "city": "Anchorage",
-    "state": "AK",
-    "zip": "99501",
-    "phone": "(907) 277-4302",
-    "hours": "",
-    "lat": 61.22005,
-    "lng": -149.85872,
-    "tags": [
-      "soup kitchen",
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"

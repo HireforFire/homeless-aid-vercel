@@ -114,63 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-2344",
-    "name": "Morning Star Church of God in Christ Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "427 N. Harrison Ave",
-    "city": "Colonia",
-    "state": "CA",
-    "zip": "93030",
-    "phone": "(805) 486-4294",
-    "hours": "",
-    "lat": 34.2051,
-    "lng": -119.1753,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-2601",
-    "name": "Open Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "333 W. Seventh Street",
-    "city": "Oxnard",
-    "state": "CA",
-    "zip": "93030",
-    "phone": "(805) 487-6314",
-    "hours": "",
-    "lat": 34.2051,
-    "lng": -119.1753,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-2602",
-    "name": "Community Action of VC",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "621 Richmond Avenue",
-    "city": "Oxnard",
-    "state": "CA",
-    "zip": "93030",
-    "phone": "(805) 436-4030",
-    "hours": "",
-    "lat": 34.2051,
-    "lng": -119.1753,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-177611",
     "name": "Wilson Senior Center",
     "category": "Food",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 34.2048171,
     "lng": -119.1729974,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187107",
+    "name": "Mercy Housing - Villa Madera",
+    "category": "Food",
+    "description": "Food pantry location in Ventura County serving the Oxnard area.",
+    "address": "1051 North A St.",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2123427,
+    "lng": -119.178902,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-187829",
+    "name": "Church of The Nazarene",
+    "category": "Food",
+    "description": "Food pantry and senior food box distribution location",
+    "address": "1630 Saviers Rd.",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93033",
+    "phone": "",
+    "hours": "",
+    "lat": 34.1833355,
+    "lng": -119.17728,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-188529",
+    "name": "Morning Star Church",
+    "category": "Food",
+    "description": "Morning Star Church food distribution location. Currently temporarily closed.",
+    "address": "427 Harrison St.",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "",
+    "hours": "",
+    "lat": 34.2060451,
+    "lng": -119.1766084,
     "tags": [
       "food pantry",
       "walk-in"

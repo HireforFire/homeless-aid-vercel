@@ -38,25 +38,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-13912",
-    "name": "Granger Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3232 W 4100 South",
-    "city": "West Valley",
-    "state": "UT",
-    "zip": "84119",
-    "phone": "(801) 968-3301",
-    "hours": "",
-    "lat": 40.70289,
-    "lng": -111.94591,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-13913",
     "name": "Granger Community Christian Church",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13912",
+    "name": "Granger Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3232 W 4100 South",
+    "city": "West Valley",
+    "state": "UT",
+    "zip": "84119",
+    "phone": "(801) 968-3301",
+    "hours": "",
+    "lat": 40.70289,
+    "lng": -111.94591,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-13914",

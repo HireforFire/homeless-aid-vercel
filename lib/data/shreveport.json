@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-6171",
-    "name": "Christian Services Program",
-    "category": "Food",
-    "description": "Free soup kitchen providing food assistance. Open to all.",
-    "address": "2346 Levy Street",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "71103",
-    "phone": "(318) 221-4857",
-    "hours": "",
-    "lat": 32.49154,
-    "lng": -93.7717,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-191969",
     "name": "St. George Episcopal Church",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-6171",
+    "name": "Christian Services Program",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "2346 Levy Street",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71103",
+    "phone": "(318) 221-4857",
+    "hours": "",
+    "lat": 32.49154,
+    "lng": -93.7717,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-6172",

@@ -133,25 +133,6 @@
     "lastUpdated": "2025-01-01"
   },
   {
-    "id": "fa-9272",
-    "name": "First United Methodist Church Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "961 Valley Street",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "03103",
-    "phone": "(603) 622-8863",
-    "hours": "",
-    "lat": 42.95536,
-    "lng": -71.44463,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-9274",
     "name": "Families in Transition Food Pantry",
     "category": "Food",
@@ -171,34 +152,34 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-9295",
-    "name": "St Raphael's Church Food Pantry",
+    "id": "fa-183401",
+    "name": "St. Anthony Food Pantry",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "103 Walker Street",
+    "description": "Main food pantry location in Manchester, New Hampshire.",
+    "address": "61 W Baker St",
     "city": "Manchester",
     "state": "NH",
-    "zip": "03102",
-    "phone": "(603) 623-2604",
+    "zip": "03103",
+    "phone": "",
     "hours": "",
-    "lat": 43.00797,
-    "lng": -71.49134,
+    "lat": 42.972586299999996,
+    "lng": -71.4647055,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-01-18"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-9296",
-    "name": "Blessed Sacrament Food Pantry",
+    "id": "fa-9272",
+    "name": "First United Methodist Church Food Pantry",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "14 Elm Street",
+    "address": "961 Valley Street",
     "city": "Manchester",
     "state": "NH",
     "zip": "03103",
-    "phone": "(603) 622-5445",
+    "phone": "(603) 622-8863",
     "hours": "",
     "lat": 42.95536,
     "lng": -71.44463,
@@ -209,15 +190,34 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-9300",
-    "name": "St Vincent de Paul - Ste Marie's Church Food Pantry",
+    "id": "fa-9294",
+    "name": "Sacred Heart Food Pantry",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "378 Notre Dame Ave.",
+    "description": "appointment",
+    "address": "247 South Main Street",
     "city": "Manchester",
     "state": "NH",
     "zip": "03102",
-    "phone": "(603) 622-4615",
+    "phone": "(603) 668-4004",
+    "hours": "",
+    "lat": 43.00797,
+    "lng": -71.49134,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9295",
+    "name": "St Raphael's Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "103 Walker Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102",
+    "phone": "(603) 623-2604",
     "hours": "",
     "lat": 43.00797,
     "lng": -71.49134,

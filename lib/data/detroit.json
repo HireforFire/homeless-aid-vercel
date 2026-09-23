@@ -38,63 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-7685",
-    "name": "Central United Methodist Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "23 E. Adams Avenue",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "48226",
-    "phone": "(313) 965-5422",
-    "hours": "",
-    "lat": 42.33182,
-    "lng": -83.05034,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-7692",
-    "name": "Christian Gospel Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "19901 Kentucky",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "48231",
-    "phone": "(313) 345-9160",
-    "hours": "",
-    "lat": 42.33123,
-    "lng": -83.0488,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-7699",
-    "name": "Fort Street Presbyterian Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "631 W. Fort Street",
-    "city": "Detroit",
-    "state": "MI",
-    "zip": "48226",
-    "phone": "(313) 961-4533",
-    "hours": "",
-    "lat": 42.33182,
-    "lng": -83.05034,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-183467",
     "name": "Everyone Eats - Brush Park",
     "category": "Food",
@@ -150,6 +93,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-7685",
+    "name": "Central United Methodist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "23 E. Adams Avenue",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48226",
+    "phone": "(313) 965-5422",
+    "hours": "",
+    "lat": 42.33182,
+    "lng": -83.05034,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-7692",
+    "name": "Christian Gospel Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "19901 Kentucky",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48231",
+    "phone": "(313) 345-9160",
+    "hours": "",
+    "lat": 42.33123,
+    "lng": -83.0488,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-7699",
+    "name": "Fort Street Presbyterian Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "631 W. Fort Street",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48226",
+    "phone": "(313) 961-4533",
+    "hours": "",
+    "lat": 42.33182,
+    "lng": -83.05034,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-129611",

@@ -57,6 +57,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-221312",
+    "name": "Over-The-Rhine Kitchen",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1620 Vine Street",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "(513) 961-1983",
+    "hours": "",
+    "lat": 39.113678,
+    "lng": -84.5158081,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-224290",
     "name": "TSA Emergency Pantry",
     "category": "Food",
@@ -188,25 +207,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-11497",
-    "name": "Over The Rhine Kitchen",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1620 Vine Street",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45202",
-    "phone": "(513) 961-1983",
-    "hours": "",
-    "lat": 39.10885,
-    "lng": -84.50243,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-178157",

@@ -209,18 +209,18 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-5680",
-    "name": "River Park United Methodist Church",
+    "id": "fa-5466",
+    "name": "Catholic Charities Food Pantry",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "920 S 23rd Street",
+    "address": "1817 Miami Street",
     "city": "South Bend",
     "state": "IN",
-    "zip": "46615",
-    "phone": "(574) 288-6243",
+    "zip": "46613",
+    "phone": "(574) 234-3111",
     "hours": "",
-    "lat": 41.67494,
-    "lng": -86.21151,
+    "lat": 41.65389,
+    "lng": -86.264,
     "tags": [
       "food pantry",
       "walk-in"

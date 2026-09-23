@@ -95,44 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-10647",
-    "name": "Fulton St Brigid Pantry",
-    "category": "Food",
-    "description": "proof of address, appointment",
-    "address": "170 Fulton Street",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14204",
-    "phone": "(716) 853-4456",
-    "hours": "",
-    "lat": 42.882,
-    "lng": -78.8614,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-10651",
-    "name": "First Presbyterian Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1 Symphony Circle",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14201",
-    "phone": "(716) 884-7250",
-    "hours": "",
-    "lat": 42.89706,
-    "lng": -78.88752,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-536",
     "name": "Msgr. Carr Institute",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 42.89706,
     "lng": -78.88752,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-10634",
+    "name": "Urban Christian Ministries",
+    "category": "Food",
+    "description": "referral",
+    "address": "967 Jefferson Avenue",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "(716) 882-9472",
+    "hours": "",
+    "lat": 42.882,
+    "lng": -78.8614,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-10647",
+    "name": "Fulton St Brigid Pantry",
+    "category": "Food",
+    "description": "proof of address, appointment",
+    "address": "170 Fulton Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "(716) 853-4456",
+    "hours": "",
+    "lat": 42.882,
+    "lng": -78.8614,
     "tags": [
       "food pantry",
       "walk-in"

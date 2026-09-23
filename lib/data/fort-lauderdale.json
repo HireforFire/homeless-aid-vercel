@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-3681",
-    "name": "Sister Robin Street Market - Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "400 Tarpon Drive",
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "zip": "33301",
-    "phone": "(954) 592-6021",
-    "hours": "",
-    "lat": 26.12128,
-    "lng": -80.12745,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-187353",
     "name": "Fort Lauderdale Food Not Bombs - N Andrews Ave",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-3681",
+    "name": "Sister Robin Street Market - Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "400 Tarpon Drive",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33301",
+    "phone": "(954) 592-6021",
+    "hours": "",
+    "lat": 26.12128,
+    "lng": -80.12745,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-248",

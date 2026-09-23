@@ -76,6 +76,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-206388",
+    "name": "Butler Street CME Church",
+    "category": "Food",
+    "description": "Soup kitchen and food distribution service location",
+    "address": "23 Jesse Hill Junior Drive Southeast",
+    "city": "Downtown Atlanta",
+    "state": "GA",
+    "zip": "30303",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7539511,
+    "lng": -84.381134,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-208695",
     "name": "Wheat Street Baptist Church Food Pantry",
     "category": "Food",
@@ -131,25 +150,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-4038",
-    "name": "Butler Street CME",
-    "category": "Food",
-    "description": "referral",
-    "address": "23 Jesse Hill Dr. SE",
-    "city": "Atlanta",
-    "state": "GA",
-    "zip": "30303",
-    "phone": "(404) 659-8745",
-    "hours": "",
-    "lat": 33.75284,
-    "lng": -84.39028,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-181859",

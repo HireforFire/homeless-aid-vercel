@@ -114,6 +114,63 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-187274",
+    "name": "God's Pantry",
+    "category": "Food",
+    "description": "Main food distribution location",
+    "address": "3420 EAST 14TH STREET STE 100",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "75074",
+    "phone": "",
+    "hours": "",
+    "lat": 33.0357,
+    "lng": -96.67572,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214502",
+    "name": "SALVATION ARMY PLANO CORPS",
+    "category": "Food",
+    "description": "Salvation Army corps location providing food distribution and SNAP application assistance.",
+    "address": "3528 14TH ST",
+    "city": "PLANO",
+    "state": "TX",
+    "zip": "75074",
+    "phone": "",
+    "hours": "",
+    "lat": 33.014645,
+    "lng": -96.667328,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-13309",
+    "name": "AC Food Pantry & Thrift Store",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1116 Dobie Drive",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75074",
+    "phone": "(972) 578-5730",
+    "hours": "",
+    "lat": 33.03298,
+    "lng": -96.67304,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-13311",
     "name": "Salvation Army Of Collin County / Plano Corps Community Center",
     "category": "Food",
@@ -123,25 +180,6 @@
     "state": "TX",
     "zip": "75074",
     "phone": "(972) 423-8254",
-    "hours": "",
-    "lat": 33.03298,
-    "lng": -96.67304,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-13312",
-    "name": "God's Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1896 K Avenue #200",
-    "city": "Plano",
-    "state": "TX",
-    "zip": "75074",
-    "phone": "(972) 633-9777",
     "hours": "",
     "lat": 33.03298,
     "lng": -96.67304,
@@ -188,44 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-187274",
-    "name": "God's Pantry",
-    "category": "Food",
-    "description": "Main food distribution location",
-    "address": "3420 EAST 14TH STREET STE 100",
-    "city": "Arlington",
-    "state": "TX",
-    "zip": "75074",
-    "phone": "",
-    "hours": "",
-    "lat": 33.0357,
-    "lng": -96.67572,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214502",
-    "name": "SALVATION ARMY PLANO CORPS",
-    "category": "Food",
-    "description": "Salvation Army corps location providing food distribution and SNAP application assistance.",
-    "address": "3528 14TH ST",
-    "city": "PLANO",
-    "state": "TX",
-    "zip": "75074",
-    "phone": "",
-    "hours": "",
-    "lat": 33.014645,
-    "lng": -96.667328,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-plano-shelter",

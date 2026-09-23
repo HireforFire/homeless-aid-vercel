@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-223846",
+    "name": "Wil-Mar Neighborhood Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "504 S Brearly St",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53703",
+    "phone": "(608) 257-4576",
+    "hours": "",
+    "lat": 43.0798597,
+    "lng": -89.3670985,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-223927",
     "name": "St. Vincent de Paul Food Pantry",
     "category": "Food",
@@ -150,25 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-14867",
-    "name": "Wil-Mar Neighborhood Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "953 Jenifer Street",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53703",
-    "phone": "(608) 257-4576",
-    "hours": "",
-    "lat": 43.07981,
-    "lng": -89.37734,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-175573",

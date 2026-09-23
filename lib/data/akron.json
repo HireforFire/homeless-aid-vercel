@@ -152,80 +152,80 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-11172",
-    "name": "First Congregational Church",
+    "id": "fa-179060",
+    "name": "Pantry",
     "category": "Food",
-    "description": "proof of address",
-    "address": "292 East Market Street",
-    "city": "Akron",
-    "state": "OH",
-    "zip": "44308",
-    "phone": "(330) 253-5109",
-    "hours": "",
-    "lat": 41.0818,
-    "lng": -81.51751,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-11173",
-    "name": "First Presbyterian Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "647 East Market Street",
+    "description": "Food pantry distribution location.",
+    "address": "370 E Market St",
     "city": "Akron",
     "state": "OH",
     "zip": "44304",
-    "phone": "(330) 434-5183",
+    "phone": "",
     "hours": "",
-    "lat": 41.08585,
-    "lng": -81.50908,
+    "lat": 41.0802563,
+    "lng": -81.50605645,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-01-18"
+    "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-11187",
-    "name": "St Bernard - St Mary Parish",
+    "id": "fa-179076",
+    "name": "St. Bernard Parish - Akron",
     "category": "Food",
-    "description": "Free soup kitchen providing food assistance. Open to all.",
-    "address": "44 University Avenue",
+    "description": "St. Bernard Parish location in Akron providing hot meal services",
+    "address": "47 East State Street",
     "city": "Akron",
     "state": "OH",
     "zip": "44308",
-    "phone": "(330) 376-4850",
+    "phone": "",
     "hours": "",
-    "lat": 41.0818,
-    "lng": -81.51751,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-11212",
-    "name": "Zion Lutheran Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "139 South High Street",
-    "city": "Akron",
-    "state": "OH",
-    "zip": "44308",
-    "phone": "(330) 253-3136",
-    "hours": "",
-    "lat": 41.0818,
-    "lng": -81.51751,
+    "lat": 41.0783657,
+    "lng": -81.5188321,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-01-18"
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191827",
+    "name": "Church of Our Saviour Pantry",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "471 Crosby St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44302",
+    "phone": "",
+    "hours": "",
+    "lat": 41.0902537,
+    "lng": -81.5335741,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196550",
+    "name": "Sarah's House Inc - Meal Distribution",
+    "category": "Food",
+    "description": "Meal service location at 414 Pine St",
+    "address": "414 Pine St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44307",
+    "phone": "",
+    "hours": "",
+    "lat": 41.07721873,
+    "lng": -81.52934226,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-akron-shelter",

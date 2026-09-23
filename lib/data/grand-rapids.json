@@ -190,15 +190,15 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-7565",
-    "name": "East Leonard CRC Food Pantry",
+    "id": "fa-7843",
+    "name": "Belknap Commons",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1027 Leonard St NE",
+    "address": "751 Lafayette Ave NE",
     "city": "Grand Rapids",
     "state": "MI",
     "zip": "49503",
-    "phone": "(616) 454-4444",
+    "phone": "(616) 391-3916",
     "hours": "",
     "lat": 42.96282,
     "lng": -85.65872,
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-7831",
-    "name": "Westminster Food Pantry",
+    "id": "fa-172472",
+    "name": "Mel Trotter",
     "category": "Food",
-    "description": "once per month",
-    "address": "47 Jefferson SE",
+    "description": "Mel Trotter food pantry location in Grand Rapids, Michigan.",
+    "address": "225 Commerce Ave SW",
     "city": "Grand Rapids",
     "state": "MI",
     "zip": "49503",
-    "phone": "(616) 456-6115",
+    "phone": "",
     "hours": "",
-    "lat": 42.96282,
-    "lng": -85.65872,
+    "lat": 42.9590409,
+    "lng": -85.6692398,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-01-18"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-grand-rapids-shelter",

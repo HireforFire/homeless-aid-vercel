@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-576939",
+    "name": "Saint Ben's Community Meal",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "930 West State Street",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53233",
+    "phone": "(414) 271-0135",
+    "hours": "",
+    "lat": 43.043394,
+    "lng": -87.9241191,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-223714",
     "name": "Grand Avenue Club",
     "category": "Food",
@@ -114,6 +133,63 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-576909",
+    "name": "Robles FoodShare Resource Center",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "802 West Historic Mitchell Street",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53204",
+    "phone": "(414) 238-6484",
+    "hours": "",
+    "lat": 43.0124499,
+    "lng": -87.9214832,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-576917",
+    "name": "St. Rose Food Pantry",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "540 North 31st Street",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53208",
+    "phone": "(414) 342-1778",
+    "hours": "",
+    "lat": 43.0370262,
+    "lng": -87.9520972,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-576938",
+    "name": "The Gathering at Running Rebels",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "1300 West Fond du Lac Avenue",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53205",
+    "phone": "(414) 272-4122",
+    "hours": "",
+    "lat": 43.0536464,
+    "lng": -87.9285329,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-219861",
     "name": "Feeding America Eastern Wisconsin",
     "category": "Food",
@@ -145,82 +221,6 @@
     "hours": "",
     "lat": 43.0702553,
     "lng": -87.9411392,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-221568",
-    "name": "The Jewish Community Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2900 W Center Street",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53226",
-    "phone": "(414) 967-8353",
-    "hours": "",
-    "lat": 43.0683823,
-    "lng": -87.9505997,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-221647",
-    "name": "All Peoples Church Food Pantry and Isaiah 55 Food Ministry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2600 North 2nd Street.",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53212",
-    "phone": "(414) 264-1616",
-    "hours": "",
-    "lat": 43.0658684,
-    "lng": -87.9125824,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222180",
-    "name": "Marquette University Neighborhood Kitchen",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1926 W. Wisconsin Ave.",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53233",
-    "phone": "(414) 288-0342",
-    "hours": "",
-    "lat": 43.0389481,
-    "lng": -87.9373779,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-222402",
-    "name": "Friedens Community Ministries",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1220 West Vliet Street",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53205",
-    "phone": "(414) 289-6030",
-    "hours": "",
-    "lat": 43.0488243,
-    "lng": -87.927887,
     "tags": [
       "food pantry",
       "walk-in"

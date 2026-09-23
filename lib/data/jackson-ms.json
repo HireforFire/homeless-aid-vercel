@@ -190,6 +190,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-576827",
+    "name": "Food Distribution Center - Sims House",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "1010 West Capitol Street",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39203",
+    "phone": "",
+    "hours": "",
+    "lat": 32.3065646,
+    "lng": -90.199895,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-15"
+  },
+  {
     "id": "fa-180098",
     "name": "Berean Seventh Day Adventist",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 32.326703,
     "lng": -90.208447,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-180361",
-    "name": "College Hill B.C. Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location providing food distribution services.",
-    "address": "1626 Florence Ave",
-    "city": "Jackson",
-    "state": "MS",
-    "zip": "39204",
-    "phone": "",
-    "hours": "",
-    "lat": 32.293964,
-    "lng": -90.212419,
     "tags": [
       "food pantry",
       "walk-in"

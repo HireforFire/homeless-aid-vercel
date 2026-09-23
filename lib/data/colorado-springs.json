@@ -76,44 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-2793",
-    "name": "St. Johns Baptist Church Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "902 S. Prospect St.",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(388) 634-5687",
-    "hours": "",
-    "lat": 38.83249,
-    "lng": -104.81342,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-2801",
-    "name": "Springs Rescue Mission",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "5 W Las Vegas Street",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(719) 632-1822",
-    "hours": "",
-    "lat": 38.83249,
-    "lng": -104.81342,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-2807",
     "name": "Marian House Kitchen and Marketplace Food Pantry",
     "category": "Food",
@@ -199,6 +161,44 @@
     "state": "CO",
     "zip": "80903",
     "phone": "(719) 332-2360",
+    "hours": "",
+    "lat": 38.83249,
+    "lng": -104.81342,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2793",
+    "name": "St. Johns Baptist Church Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "902 S. Prospect St.",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(388) 634-5687",
+    "hours": "",
+    "lat": 38.83249,
+    "lng": -104.81342,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2801",
+    "name": "Springs Rescue Mission",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "5 W Las Vegas Street",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(719) 632-1822",
     "hours": "",
     "lat": 38.83249,
     "lng": -104.81342,

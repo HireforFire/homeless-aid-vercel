@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-131320",
-    "name": "Vancouver School District",
+    "id": "fa-221727",
+    "name": "Clark County Food Bank",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2901 FALK RD",
-    "city": "VANCOUVER",
+    "address": "6502 NE 47th Ave",
+    "city": "Vancouver",
     "state": "WA",
     "zip": "98661",
-    "phone": "(360) 313-1000",
+    "phone": "(360) 693-0939",
     "hours": "",
-    "lat": 45.643039,
-    "lng": -122.627608,
+    "lat": 45.6694717,
+    "lng": -122.6233215,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fallback-vancouver-wa-shelter",

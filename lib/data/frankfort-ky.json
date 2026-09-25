@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-129148",
-    "name": "Franklin County",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "916 EAST MAIN ST",
-    "city": "FRANKFORT",
-    "state": "KY",
-    "zip": "40601",
-    "phone": "(502) 695-6700",
-    "hours": "",
-    "lat": 38.205472,
-    "lng": -84.83825,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-225110",
     "name": "Franklin County Emeregency Food Pantry",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-129148",
+    "name": "Franklin County",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "916 EAST MAIN ST",
+    "city": "FRANKFORT",
+    "state": "KY",
+    "zip": "40601",
+    "phone": "(502) 695-6700",
+    "hours": "",
+    "lat": 38.205472,
+    "lng": -84.83825,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-183252",

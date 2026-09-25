@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-221582",
+    "name": "YWCA Dayton Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "141 W 3rd St",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45402",
+    "phone": "(937) 239-9261",
+    "hours": "",
+    "lat": 39.7594528,
+    "lng": -84.1950989,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-130542",
     "name": "City Day Community School",
     "category": "Food",
@@ -74,25 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-221582",
-    "name": "YWCA Dayton Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "141 W 3rd St",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "45402",
-    "phone": "(937) 239-9261",
-    "hours": "",
-    "lat": 39.7594528,
-    "lng": -84.1950989,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-185732",

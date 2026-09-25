@@ -95,6 +95,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-171794",
+    "name": "Little Free Food Pantry Cheyenne WY",
+    "category": "Food",
+    "description": "Little free food pantry with walk-up access to food items.",
+    "address": "218 E 19th St",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "",
+    "hours": "",
+    "lat": 41.136794599999995,
+    "lng": -104.81419369999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-150553",
     "name": "Comea Shelter",
     "category": "Food",
@@ -128,44 +147,6 @@
     "lng": -104.8202,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-171794",
-    "name": "Little Free Food Pantry Cheyenne WY",
-    "category": "Food",
-    "description": "Little free food pantry with walk-up access to food items.",
-    "address": "218 E 19th St",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "",
-    "hours": "",
-    "lat": 41.136794599999995,
-    "lng": -104.81419369999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-150518",
-    "name": "Food Bank of Wyoming",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "2248 Reed Avenue",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "(307) 265-2172",
-    "hours": "",
-    "lat": 41.14,
-    "lng": -104.8202,
-    "tags": [
-      "food bank",
       "walk-in"
     ],
     "lastUpdated": "2026-03-29"
@@ -207,6 +188,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-150518",
+    "name": "Food Bank of Wyoming",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "2248 Reed Avenue",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "phone": "(307) 265-2172",
+    "hours": "",
+    "lat": 41.14,
+    "lng": -104.8202,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-225277",

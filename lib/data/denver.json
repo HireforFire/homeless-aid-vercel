@@ -57,44 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-128816",
-    "name": "CHARTER SCHOOL INSTITUTE",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1580 LOGAN ST",
-    "city": "DENVER",
-    "state": "CO",
-    "zip": "80203",
-    "phone": "(303) 662-1220",
-    "hours": "",
-    "lat": 39.741487,
-    "lng": -104.982837,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-128818",
-    "name": "COLO SCHOOL F/T DEAF AND THE BLIND",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "201 EAST COLFAX AVE",
-    "city": "DENVER",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(303) 866-6600",
-    "hours": "",
-    "lat": 39.740087,
-    "lng": -104.985237,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-576699",
     "name": "CCD Swooper Market",
     "category": "Food",
@@ -188,6 +150,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-128816",
+    "name": "CHARTER SCHOOL INSTITUTE",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1580 LOGAN ST",
+    "city": "DENVER",
+    "state": "CO",
+    "zip": "80203",
+    "phone": "(303) 662-1220",
+    "hours": "",
+    "lat": 39.741487,
+    "lng": -104.982837,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
+  },
+  {
+    "id": "fa-128818",
+    "name": "COLO SCHOOL F/T DEAF AND THE BLIND",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "201 EAST COLFAX AVE",
+    "city": "DENVER",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(303) 866-6600",
+    "hours": "",
+    "lat": 39.740087,
+    "lng": -104.985237,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-181363",

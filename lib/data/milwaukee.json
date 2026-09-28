@@ -114,25 +114,6 @@
     "lastUpdated": "2026-05-10"
   },
   {
-    "id": "fa-218537",
-    "name": "The Salvation Army - N 7Th Street",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1730 N. 7th Street",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53205",
-    "phone": "(414) 265-6360",
-    "hours": "",
-    "lat": 43.05359,
-    "lng": -87.93363,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-576909",
     "name": "Robles FoodShare Resource Center",
     "category": "Food",
@@ -188,6 +169,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "fa-218537",
+    "name": "The Salvation Army - N 7Th Street",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1730 N. 7th Street",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53205",
+    "phone": "(414) 265-6360",
+    "hours": "",
+    "lat": 43.05359,
+    "lng": -87.93363,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-219861",

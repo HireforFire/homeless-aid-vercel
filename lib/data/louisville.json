@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-223551",
+    "name": "JFCS Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2821 Klempner Way",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40205",
+    "phone": "(502) 452-6341",
+    "hours": "",
+    "lat": 38.2526665,
+    "lng": -85.7584534,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-217750",
     "name": "The Salvation Army - S Brook St Corps",
     "category": "Food",
@@ -50,25 +69,6 @@
     "hours": "",
     "lat": 38.2452698,
     "lng": -85.7472153,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223551",
-    "name": "JFCS Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2821 Klempner Way",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40205",
-    "phone": "(502) 452-6341",
-    "hours": "",
-    "lat": 38.2526665,
-    "lng": -85.7584534,
     "tags": [
       "food pantry",
       "walk-in"

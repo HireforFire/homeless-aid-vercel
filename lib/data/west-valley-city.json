@@ -228,22 +228,21 @@
     "lastUpdated": "2025-01-01"
   },
   {
-    "id": "fallback-west-valley-city-shelter",
-    "name": "West Valley City Homeless Services Hotline",
+    "id": "osm-node-356682323",
+    "name": "Rescue Mission of Salt Lake Men's Facility",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
-    "city": "West Valley City",
+    "description": "social_facility",
+    "address": "South 400 West 363",
+    "city": "Salt Lake City",
     "state": "UT",
-    "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 40.6916,
-    "lng": -111.9373,
+    "zip": "84101",
+    "phone": "(801) 355-1302",
+    "hours": "",
+    "lat": 40.7590671,
+    "lng": -111.9022463,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

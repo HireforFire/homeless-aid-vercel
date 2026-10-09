@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-577505",
-    "name": "Foodbank of Southeastern Virginia and the Eastern Shore",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "800 Tidewater Drive",
-    "city": "Norfolk",
-    "state": "VA",
-    "zip": "23504",
-    "phone": "+1-757-627-6599;+1-877-486-4379",
-    "hours": "",
-    "lat": 36.8520447,
-    "lng": -76.2744762,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-131115",
     "name": "Norfolk City",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 36.8255774,
     "lng": -76.3120659,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174238",
+    "name": "Herald of His Coming COGIC",
+    "category": "Food",
+    "description": "Food pantry location at Herald of His Coming COGIC church",
+    "address": "727 E. 27th St.",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23504",
+    "phone": "(757) 285-4996",
+    "hours": "",
+    "lat": 36.8708004,
+    "lng": -76.2787082,
     "tags": [
       "food pantry",
       "walk-in"

@@ -76,25 +76,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-576669",
-    "name": "Project Open Hand",
-    "category": "Food",
-    "description": "Free soup kitchen providing food assistance. Open to all.",
-    "address": "730 Polk Street",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94109",
-    "phone": "(415) 447-2300",
-    "hours": "",
-    "lat": 37.7839436,
-    "lng": -122.4192113,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-218838",
     "name": "The Salvation Army - Ninth Street 1",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -122.4201615,
     "tags": [
       "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178799",
+    "name": "Grace Fellowship Community Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at Grace Fellowship Community Church",
+    "address": "3265 16th St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94103",
+    "phone": "",
+    "hours": "",
+    "lat": 37.76445,
+    "lng": -122.42546,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

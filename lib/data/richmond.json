@@ -209,23 +209,23 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-577515",
-    "name": "Downtown Community Fridge",
+    "id": "fa-176682",
+    "name": "Second Baptist Church Pantry",
     "category": "Food",
-    "description": "Free community fridge providing food assistance. Open to all.",
-    "address": "121 East Main Street",
+    "description": "Food pantry location at Second Baptist Church",
+    "address": "1400 Idlewood Avenue",
     "city": "Richmond",
     "state": "VA",
-    "zip": "23219",
+    "zip": "23220",
     "phone": "",
     "hours": "",
-    "lat": 37.5420297,
-    "lng": -77.4428681,
+    "lat": 37.543143586974,
+    "lng": -77.459900582889,
     "tags": [
-      "community fridge",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-15"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-richmond-shelter",

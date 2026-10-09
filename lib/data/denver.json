@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-576699",
-    "name": "CCD Swooper Market",
-    "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "900 Auraria Parkway",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "phone": "(303) 352-6532",
-    "hours": "",
-    "lat": 39.7449753,
-    "lng": -105.0055096,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-15"
-  },
-  {
     "id": "fa-220735",
     "name": "Wishing Well",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 39.7447138,
     "lng": -104.9765733,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184472",
+    "name": "Sunset Park Senior Center",
+    "category": "Food",
+    "description": "Senior meal distribution location",
+    "address": "1865 Larimer St.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7516994,
+    "lng": -104.9944101,
     "tags": [
       "food pantry",
       "walk-in"

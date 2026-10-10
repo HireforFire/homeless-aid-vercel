@@ -209,41 +209,40 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-576847",
-    "name": "Bread for the City",
+    "id": "fa-218493",
+    "name": "The Salvation Army - Harvard St Nw",
     "category": "Food",
-    "description": "Free food bank providing food assistance. Open to all.",
-    "address": "1525 7th Street Northwest",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1434 Harvard St NW",
     "city": "Washington",
     "state": "DC",
-    "zip": "20001",
-    "phone": "(202) 265-2400",
+    "zip": "20009",
+    "phone": "(202) 332-5000",
     "hours": "",
-    "lat": 38.9103,
-    "lng": -77.0217,
+    "lat": 38.91986,
+    "lng": -77.03749,
     "tags": [
-      "food bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-15"
+    "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fallback-washington-dc-shelter",
-    "name": "Washington Homeless Services Hotline",
+    "id": "osm-node-358961190",
+    "name": "Emery Low-Barrier Shelter",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
+    "description": "social_facility",
+    "address": "Lincoln Road Northeast 1725",
     "city": "Washington",
     "state": "DC",
-    "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 38.9072,
-    "lng": -77.0369,
+    "zip": "20002",
+    "phone": "",
+    "hours": "",
+    "lat": 38.9136046,
+    "lng": -77.0078947,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

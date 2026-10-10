@@ -209,18 +209,18 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-218796",
-    "name": "The Salvation Army - Ne 28Th St",
+    "id": "fa-225411",
+    "name": "world missionary baptist church",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2901 NE 28th St",
-    "city": "Fort Worth",
+    "address": "1200 e bessie st",
+    "city": "Ft.Worth",
     "state": "TX",
-    "zip": "76111",
-    "phone": "(817) 834-6271",
+    "zip": "76104",
+    "phone": "(817) 332-1202",
     "hours": "",
-    "lat": 32.7804,
-    "lng": -97.30116,
+    "lat": 32.7399712,
+    "lng": -97.3118744,
     "tags": [
       "food pantry",
       "walk-in"

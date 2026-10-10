@@ -133,6 +133,44 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-180372",
+    "name": "Lazarus Ministries",
+    "category": "Food",
+    "description": "Main location for Lazarus Ministries soup kitchen and clothing assistance services",
+    "address": "3151 Olive St",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64109",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0684957,
+    "lng": -94.5549478,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-190154",
+    "name": "Redemptorist Center",
+    "category": "Food",
+    "description": "Main food pantry location at Redemptorist Center in Kansas City.",
+    "address": "207 Linwood Blvd",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64111",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0673103,
+    "lng": -94.5883602,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-175540",
     "name": "North Kansas City YMCA",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 39.083139719015,
     "lng": -94.542603732339,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177483",
-    "name": "Micah Ministries",
-    "category": "Food",
-    "description": "Food distribution location in Kansas City.",
-    "address": "606 Gladstone Avenue",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64124",
-    "phone": "",
-    "hours": "",
-    "lat": 39.105697683574,
-    "lng": -94.546384557405,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177769",
-    "name": "Mountaintop Inc",
-    "category": "Food",
-    "description": "Food pantry location",
-    "address": "1700 E Linwood Boulevard",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64109",
-    "phone": "",
-    "hours": "",
-    "lat": 39.0691766837,
-    "lng": -94.562733543367,
     "tags": [
       "food pantry",
       "walk-in"

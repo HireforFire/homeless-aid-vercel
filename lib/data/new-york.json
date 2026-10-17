@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-215887",
-    "name": "Compassion Market at Trinity Church NYC",
-    "category": "Food",
-    "description": "Free mobile pantry providing food assistance. Open to all.",
-    "address": "107 Greenwich St",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10006",
-    "phone": "(917) 594-6300",
-    "hours": "",
-    "lat": 40.708572,
-    "lng": -74.012726,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-215892",
     "name": "UA3 Community First Food Pantry",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-215887",
+    "name": "Compassion Market at Trinity Church NYC",
+    "category": "Food",
+    "description": "Free mobile pantry providing food assistance. Open to all.",
+    "address": "107 Greenwich St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10006",
+    "phone": "(917) 594-6300",
+    "hours": "",
+    "lat": 40.708572,
+    "lng": -74.012726,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-521",
@@ -95,25 +95,6 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-221412",
-    "name": "Sea of Galilee Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "166 Eldridge Street",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10002",
-    "phone": "(347) 949-6078",
-    "hours": "",
-    "lat": 40.7199936,
-    "lng": -73.9907532,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-226032",
     "name": "New York Temple",
     "category": "Food",
@@ -131,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-205707",
+    "name": "City Relief Lower East Side",
+    "category": "Food",
+    "description": "DELANCEY ST. (BTWN CHRYSTIE & FORSYTH ST)",
+    "address": "29 Delancey Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7196743,
+    "lng": -73.9926266,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-173812",
@@ -228,22 +228,40 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fallback-new-york-shelter",
-    "name": "New York Homeless Services Hotline",
+    "id": "osm-node-2629371810",
+    "name": "The Bentley Hotel",
     "category": "Shelter",
-    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
-    "address": "",
+    "description": "social_facility",
+    "address": "East 62nd Street 500",
     "city": "New York",
     "state": "NY",
     "zip": "",
-    "phone": "(800) 273-8255",
-    "hours": "24 hours, 7 days a week",
-    "lat": 40.7128,
-    "lng": -74.006,
+    "phone": "(212) 644-6000",
+    "hours": "",
+    "lat": 40.7602216,
+    "lng": -73.9581709,
     "tags": [
       "shelter",
-      "hotline",
-      "211"
+      "beds"
+    ],
+    "lastUpdated": "2026-05-14"
+  },
+  {
+    "id": "osm-node-2765578547",
+    "name": "The Salvation Army Manhattan Citadel Corps Community Center",
+    "category": "Shelter",
+    "description": "social_facility",
+    "address": "East 125th Street 145",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10035",
+    "phone": "",
+    "hours": "",
+    "lat": 40.8044048,
+    "lng": -73.9370707,
+    "tags": [
+      "shelter",
+      "beds"
     ],
     "lastUpdated": "2026-05-14"
   },

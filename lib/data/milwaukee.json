@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173382",
-    "name": "All Peoples Church - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located at All Peoples Church",
-    "address": "2600 N 2nd St",
-    "city": "Milwaukee",
-    "state": "WI",
-    "zip": "53212",
-    "phone": "(414) 264-1616",
-    "hours": "",
-    "lat": 43.0659126,
-    "lng": -87.9121181,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-226309",
     "name": "Milwaukee Diaper Mission",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-173382",
+    "name": "All Peoples Church - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located at All Peoples Church",
+    "address": "2600 N 2nd St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53212",
+    "phone": "(414) 264-1616",
+    "hours": "",
+    "lat": 43.0659126,
+    "lng": -87.9121181,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-218537",

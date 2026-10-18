@@ -57,25 +57,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-207908",
-    "name": "Restoration Community Center",
-    "category": "Food",
-    "description": "Restoration Community Center located in Chandler",
-    "address": "374 North Hamilton Street",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85225",
-    "phone": "",
-    "hours": "",
-    "lat": 33.3090972,
-    "lng": -111.8343029,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-2006",
     "name": "Trinity Christian Fellowship",
     "category": "Food",
@@ -131,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-207908",
+    "name": "Restoration Community Center",
+    "category": "Food",
+    "description": "Restoration Community Center located in Chandler",
+    "address": "374 North Hamilton Street",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225",
+    "phone": "",
+    "hours": "",
+    "lat": 33.3090972,
+    "lng": -111.8343029,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-222662",

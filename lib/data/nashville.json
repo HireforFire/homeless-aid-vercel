@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-190509",
-    "name": "Nashville Rescue Mission - Lafayette Street",
-    "category": "Food",
-    "description": "Main facility providing 24/7 services",
-    "address": "639 Lafayette Street",
-    "city": "Nashville-Davidson",
-    "state": "TN",
-    "zip": "37203",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1531652,
-    "lng": -86.7775339,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-13107",
     "name": "Kayne Ave. Missionary Baptist Church",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-190509",
+    "name": "Nashville Rescue Mission - Lafayette Street",
+    "category": "Food",
+    "description": "Main facility providing 24/7 services",
+    "address": "639 Lafayette Street",
+    "city": "Nashville-Davidson",
+    "state": "TN",
+    "zip": "37203",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1531652,
+    "lng": -86.7775339,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-182826",

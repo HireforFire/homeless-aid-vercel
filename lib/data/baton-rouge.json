@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172405",
-    "name": "True Light Multi Center",
-    "category": "Food",
-    "description": "Food distribution site operated by Greater Baton Rouge Food Bank",
-    "address": "3836 N. St.",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "70806",
-    "phone": "(225) 383-3912",
-    "hours": "",
-    "lat": 30.4532577,
-    "lng": -91.1511592,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-226201",
     "name": "Junior League of Baton Rouge Diaper Bank",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-172405",
+    "name": "True Light Multi Center",
+    "category": "Food",
+    "description": "Food distribution site operated by Greater Baton Rouge Food Bank",
+    "address": "3836 N. St.",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70806",
+    "phone": "(225) 383-3912",
+    "hours": "",
+    "lat": 30.4532577,
+    "lng": -91.1511592,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-216796",

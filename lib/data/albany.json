@@ -133,6 +133,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-542",
+    "name": "Capital City Rescue Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "259 South Pearl Street",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12202",
+    "phone": "(518) 462-0459",
+    "hours": "",
+    "lat": 42.6489,
+    "lng": -73.7589,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-181472",
     "name": "St. John's/St. Ann's Center",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 42.651857,
     "lng": -73.752801,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-188970",
-    "name": "Westminster Presbyterian Church",
-    "category": "Food",
-    "description": "Community meal program location providing breakfast and bagged lunch services",
-    "address": "85 Chestnut Street",
-    "city": "Albany",
-    "state": "NY",
-    "zip": "12210",
-    "phone": "",
-    "hours": "",
-    "lat": 42.653453,
-    "lng": -73.761531,
     "tags": [
       "food pantry",
       "walk-in"

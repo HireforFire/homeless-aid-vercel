@@ -76,6 +76,25 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-13898",
+    "name": "Hildegarde's Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "231 East 100 South",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84111",
+    "phone": "(801) 328-2303",
+    "hours": "",
+    "lat": 40.75575,
+    "lng": -111.88431,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-197078",
     "name": "Volunteers of America Youth Resource Center",
     "category": "Food",
@@ -95,15 +114,53 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-13898",
-    "name": "Hildegarde's Pantry",
+    "id": "fa-13897",
+    "name": "Rescue Mission Of Salt Lake",
     "category": "Food",
     "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "231 East 100 South",
+    "address": "463 South 400 West",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "(801) 355-1302",
+    "hours": "",
+    "lat": 40.75628,
+    "lng": -111.89996,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13899",
+    "name": "CCS Salt Lake City",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "437 W. 200 S.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "phone": "(801) 363-7710",
+    "hours": "",
+    "lat": 40.75628,
+    "lng": -111.89996,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13905",
+    "name": "Crossroads Urban Center Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "347 S 400 East",
     "city": "Salt Lake City",
     "state": "UT",
     "zip": "84111",
-    "phone": "(801) 328-2303",
+    "phone": "(801) 364-7765",
     "hours": "",
     "lat": 40.75575,
     "lng": -111.88431,
@@ -169,63 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-13897",
-    "name": "Rescue Mission Of Salt Lake",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "463 South 400 West",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84101",
-    "phone": "(801) 355-1302",
-    "hours": "",
-    "lat": 40.75628,
-    "lng": -111.89996,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-13899",
-    "name": "CCS Salt Lake City",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "437 W. 200 S.",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84101",
-    "phone": "(801) 363-7710",
-    "hours": "",
-    "lat": 40.75628,
-    "lng": -111.89996,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-13905",
-    "name": "Crossroads Urban Center Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "347 S 400 East",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "zip": "84111",
-    "phone": "(801) 364-7765",
-    "hours": "",
-    "lat": 40.75575,
-    "lng": -111.88431,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-salt-lake-city-shelter",

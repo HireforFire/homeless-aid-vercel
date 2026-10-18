@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-193058",
-    "name": "ALARM International Church",
-    "category": "Food",
-    "description": "ALARM International Church food pantry location",
-    "address": "2532 W. Tharpe St.",
-    "city": "Tallahassee",
-    "state": "FL",
-    "zip": "32303",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4381828,
-    "lng": -84.2806235,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-387",
     "name": "Grace Mission Food Pantry",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-193058",
+    "name": "ALARM International Church",
+    "category": "Food",
+    "description": "ALARM International Church food pantry location",
+    "address": "2532 W. Tharpe St.",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32303",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4381828,
+    "lng": -84.2806235,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-172567",

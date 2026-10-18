@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-215857",
-    "name": "Primitive Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "207-209 East Broadway",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10002",
-    "phone": "(646) 831-6653",
-    "hours": "",
-    "lat": 40.714176,
-    "lng": -73.989761,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-215887",
     "name": "Compassion Market at Trinity Church NYC",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-215857",
+    "name": "Primitive Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "207-209 East Broadway",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "(646) 831-6653",
+    "hours": "",
+    "lat": 40.714176,
+    "lng": -73.989761,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-521",
@@ -112,6 +112,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-535",
+    "name": "Metropolitan Council on Jewish Poverty",
+    "category": "Food",
+    "description": "NYC residents",
+    "address": "80 Maiden Lane",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10038",
+    "phone": "(212) 453-9500",
+    "hours": "",
+    "lat": 40.7086,
+    "lng": -74.0058,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-205707",
@@ -209,59 +228,22 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-196116",
-    "name": "MCNY Community Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location",
-    "address": "60 West St",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10006",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7085735,
-    "lng": -74.0149887,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "osm-node-2629371810",
-    "name": "The Bentley Hotel",
+    "id": "fallback-new-york-shelter",
+    "name": "New York Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "East 62nd Street 500",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
+    "address": "",
     "city": "New York",
     "state": "NY",
     "zip": "",
-    "phone": "(212) 644-6000",
-    "hours": "",
-    "lat": 40.7602216,
-    "lng": -73.9581709,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 40.7128,
+    "lng": -74.006,
     "tags": [
       "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-2765578547",
-    "name": "The Salvation Army Manhattan Citadel Corps Community Center",
-    "category": "Shelter",
-    "description": "social_facility",
-    "address": "East 125th Street 145",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10035",
-    "phone": "",
-    "hours": "",
-    "lat": 40.8044048,
-    "lng": -73.9370707,
-    "tags": [
-      "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

@@ -38,6 +38,63 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-1107",
+    "name": "Bread of Life Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "538 7th Street North",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35203",
+    "phone": "(205) 320-2111",
+    "hours": "",
+    "lat": 33.51847,
+    "lng": -86.80999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-1214",
+    "name": "Baptist Church of the Covenant - Sack Lunches",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2117 University Boulevard",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35233",
+    "phone": "(205) 328-0644",
+    "hours": "",
+    "lat": 33.50916,
+    "lng": -86.80132,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-1222",
+    "name": "23rd Street Baptist Church - South",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "311 23rd Street S",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35233",
+    "phone": "(205) 251-1752",
+    "hours": "",
+    "lat": 33.50916,
+    "lng": -86.80132,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-172537",
     "name": "Urban Ministry, Inc.",
     "category": "Food",
@@ -133,61 +190,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-1107",
-    "name": "Bread of Life Food Pantry",
+    "id": "fa-226157",
+    "name": "Bundles of Hope Diaper Bank",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "538 7th Street North",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Birmingham, AL",
     "city": "Birmingham",
     "state": "AL",
-    "zip": "35203",
-    "phone": "(205) 320-2111",
+    "zip": "35201",
+    "phone": "",
     "hours": "",
-    "lat": 33.51847,
-    "lng": -86.80999,
+    "lat": 33.51856,
+    "lng": -86.80842,
     "tags": [
-      "food pantry",
+      "diaper bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-1214",
-    "name": "Baptist Church of the Covenant - Sack Lunches",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2117 University Boulevard",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35233",
-    "phone": "(205) 328-0644",
-    "hours": "",
-    "lat": 33.50916,
-    "lng": -86.80132,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-1222",
-    "name": "23rd Street Baptist Church - South",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "311 23rd Street S",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35233",
-    "phone": "(205) 251-1752",
-    "hours": "",
-    "lat": 33.50916,
-    "lng": -86.80132,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fa-172347",
@@ -204,25 +223,6 @@
     "lng": -86.7943734,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-172376",
-    "name": "Grace Klein Community - Jefferson County Family Court House",
-    "category": "Food",
-    "description": "Mobile food pantry distribution location at Jefferson County Family Court House",
-    "address": "120 2nd Ct. N.",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35204",
-    "phone": "(205) 490-7516",
-    "hours": "",
-    "lat": 33.5049423,
-    "lng": -86.8339309,
-    "tags": [
-      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

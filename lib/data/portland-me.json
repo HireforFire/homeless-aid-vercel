@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-7118",
+    "name": "St Luke's  Cathedral - Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "143 State Street",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 772-5434",
+    "hours": "",
+    "lat": 43.6624,
+    "lng": -70.2586,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-180940",
     "name": "Sacred Heart / St. Dominic Food Pantry",
     "category": "Food",
@@ -204,25 +223,6 @@
     "lng": -70.272139,
     "tags": [
       "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-189022",
-    "name": "Boys & Girls Club – Southern Maine",
-    "category": "Food",
-    "description": "Food pantry distribution location operated by Boys & Girls Club – Southern Maine.",
-    "address": "277 Cumberland Ave",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6597719,
-    "lng": -70.259252,
-    "tags": [
-      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

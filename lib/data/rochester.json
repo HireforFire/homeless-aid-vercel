@@ -171,61 +171,61 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-185849",
-    "name": "Beyond the Sanctuary- Memorial AME Zion Church",
+    "id": "fa-539",
+    "name": "Open Door Mission",
     "category": "Food",
-    "description": "Food pantry location at Memorial AME Zion Church",
-    "address": "549 Clarissa Street",
+    "description": "Open to all",
+    "address": "210 Fitzhugh Street South",
     "city": "Rochester",
     "state": "NY",
     "zip": "14608",
-    "phone": "",
+    "phone": "(585) 454-7765",
     "hours": "",
-    "lat": 43.145157,
-    "lng": -77.618455,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-186300",
-    "name": "Trillium Health Soup Kitchen",
-    "category": "Food",
-    "description": "Community meal and soup kitchen location in Rochester, NY",
-    "address": "259 Monroe Ave",
-    "city": "Rochester",
-    "state": "NY",
-    "zip": "14607",
-    "phone": "",
-    "hours": "",
-    "lat": 43.149485,
-    "lng": -77.599586,
+    "lat": 43.1589,
+    "lng": -77.6189,
     "tags": [
       "soup kitchen",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-186324",
-    "name": "Dining Room Ministries",
+    "id": "fa-593",
+    "name": "Catholic Family Center",
     "category": "Food",
-    "description": "Community meal service location in Rochester",
-    "address": "4 Meigs Street",
+    "description": "Rochester area",
+    "address": "87 N Clinton Avenue",
     "city": "Rochester",
     "state": "NY",
-    "zip": "14607",
-    "phone": "",
+    "zip": "14604",
+    "phone": "(585) 546-7220",
     "hours": "",
-    "lat": 43.153539,
-    "lng": -77.590331,
+    "lat": 43.1589,
+    "lng": -77.6089,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-594",
+    "name": "St. Joseph's House of Hospitality",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "402 South Avenue",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14620",
+    "phone": "(585) 232-3262",
+    "hours": "",
+    "lat": 43.1489,
+    "lng": -77.6189,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-rochester-shelter",

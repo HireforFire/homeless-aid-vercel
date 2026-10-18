@@ -171,6 +171,25 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-14346",
+    "name": "South Burlington Food Shelf",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "356 Dorset Street",
+    "city": "South Burlington",
+    "state": "VT",
+    "zip": "05403",
+    "phone": "(802) 858-5267",
+    "hours": "",
+    "lat": 44.447,
+    "lng": -73.17229,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-182578",
     "name": "Winooski Food Shelf",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 44.5101166,
     "lng": -73.2479883,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-212505",
-    "name": "Hunger Free Vermont - South Burlington",
-    "category": "Food",
-    "description": "Main office location of Hunger Free Vermont",
-    "address": "38 Eastwood Dr",
-    "city": "South Burlington",
-    "state": "VT",
-    "zip": "05403",
-    "phone": "",
-    "hours": "",
-    "lat": 44.4499413,
-    "lng": -73.2031128,
     "tags": [
       "food pantry",
       "walk-in"

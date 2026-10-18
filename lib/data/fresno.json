@@ -133,6 +133,25 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-2339",
+    "name": "Catholic Charities Dioces of Fresno",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "149 N. Fulton Street",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93701",
+    "phone": "(559) 237-0851",
+    "hours": "",
+    "lat": 36.74955,
+    "lng": -119.78772,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-172224",
     "name": "Cornerstone Church",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 36.747532834647,
     "lng": -119.794014338308,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-179764",
-    "name": "Via Church",
-    "category": "Food",
-    "description": "Via Church food pantry location",
-    "address": "2120 Kern St",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "93721",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7339433,
-    "lng": -119.7872288,
     "tags": [
       "food pantry",
       "walk-in"

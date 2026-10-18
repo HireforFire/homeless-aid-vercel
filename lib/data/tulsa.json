@@ -114,6 +114,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-12056",
+    "name": "Iron Gate",
+    "category": "Food",
+    "description": "appointment",
+    "address": "501 W Archer Street",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74103",
+    "phone": "(918) 879-1702",
+    "hours": "",
+    "lat": 36.15617,
+    "lng": -95.9957,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-12058",
+    "name": "First Baptist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "305 S Detroit Ave",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74120",
+    "phone": "(918) 587-6000",
+    "hours": "",
+    "lat": 36.1504,
+    "lng": -95.97689,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-174264",
     "name": "Restore Hope Ministries, Inc.",
     "category": "Food",
@@ -188,44 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-12056",
-    "name": "Iron Gate",
-    "category": "Food",
-    "description": "appointment",
-    "address": "501 W Archer Street",
-    "city": "Tulsa",
-    "state": "OK",
-    "zip": "74103",
-    "phone": "(918) 879-1702",
-    "hours": "",
-    "lat": 36.15617,
-    "lng": -95.9957,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-12058",
-    "name": "First Baptist Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "305 S Detroit Ave",
-    "city": "Tulsa",
-    "state": "OK",
-    "zip": "74120",
-    "phone": "(918) 587-6000",
-    "hours": "",
-    "lat": 36.1504,
-    "lng": -95.97689,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-tulsa-shelter",

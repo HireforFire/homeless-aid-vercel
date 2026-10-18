@@ -38,6 +38,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-8989",
+    "name": "Davie St Presbyterian",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "300 East Davie Street",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27601",
+    "phone": "(919) 834-8855",
+    "hours": "",
+    "lat": 35.7737,
+    "lng": -78.63453,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-176937",
     "name": "Martin Street Baptist Church",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-8989",
-    "name": "Davie St Presbyterian",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "300 East Davie Street",
-    "city": "Raleigh",
-    "state": "NC",
-    "zip": "27601",
-    "phone": "(919) 834-8855",
-    "hours": "",
-    "lat": 35.7737,
-    "lng": -78.63453,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-raleigh-shelter",

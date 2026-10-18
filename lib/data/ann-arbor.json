@@ -114,25 +114,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-183436",
-    "name": "Interfaith Hospitality Network - Ann Arbor",
-    "category": "Food",
-    "description": "Main location of Interfaith Hospitality Network in Ann Arbor, Michigan.",
-    "address": "4290 Jackson Rd",
-    "city": "Ann Arbor",
-    "state": "MI",
-    "zip": "48103",
-    "phone": "",
-    "hours": "",
-    "lat": 42.2871445,
-    "lng": -83.81504439999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-7316",
     "name": "Bryant Community Center",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-183436",
+    "name": "Interfaith Hospitality Network - Ann Arbor",
+    "category": "Food",
+    "description": "Main location of Interfaith Hospitality Network in Ann Arbor, Michigan.",
+    "address": "4290 Jackson Rd",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48103",
+    "phone": "",
+    "hours": "",
+    "lat": 42.2871445,
+    "lng": -83.81504439999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-ann-arbor-shelter",

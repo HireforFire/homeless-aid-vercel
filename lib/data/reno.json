@@ -171,6 +171,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-2686",
+    "name": "Trinity Episcopal Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200 Island Ave.",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89501",
+    "phone": "(775) 329-4279",
+    "hours": "",
+    "lat": 39.52602,
+    "lng": -119.81262,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-170665",
     "name": "Children's Cabinet School",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 39.529318,
     "lng": -119.8214944,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-170738",
-    "name": "Evelyn Mount Northeast Community Center",
-    "category": "Food",
-    "description": "Community center location providing school break meal services for children.",
-    "address": "1301 Valley Road",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89512",
-    "phone": "",
-    "hours": "",
-    "lat": 39.5414247,
-    "lng": -119.8083705,
     "tags": [
       "food pantry",
       "walk-in"

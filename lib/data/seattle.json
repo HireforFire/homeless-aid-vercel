@@ -152,25 +152,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-198703",
-    "name": "Northwest Harvest - Cherry Street",
-    "category": "Food",
-    "description": "Main food bank distribution location on Cherry Street in Seattle",
-    "address": "711 Cherry St",
-    "city": "Seattle",
-    "state": "WA",
-    "zip": "98104",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6054179,
-    "lng": -122.3271594,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-14583",
     "name": "Northwest Harvest-Cherry Street Food Bank",
     "category": "Food",
@@ -190,42 +171,61 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-179931",
-    "name": "East Village Neighbors Fridge",
+    "id": "fa-198703",
+    "name": "Northwest Harvest - Cherry Street",
     "category": "Food",
-    "description": "Open 24/7! Free, outdoor community fridge/pantry operated by local volunteers.",
-    "address": "197 1st Avenue",
-    "city": "New York",
-    "state": "WA",
-    "zip": "98121",
-    "phone": "",
-    "hours": "",
-    "lat": 47.6119136,
-    "lng": -122.344353,
-    "tags": [
-      "community fridge",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-181545",
-    "name": "City Of Seattle Dept. Of Housing And Human Services - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center providing walk-up food services",
-    "address": "618 2nd Ave",
+    "description": "Main food bank distribution location on Cherry Street in Seattle",
+    "address": "711 Cherry St",
     "city": "Seattle",
     "state": "WA",
     "zip": "98104",
     "phone": "",
     "hours": "",
-    "lat": 47.6029352,
-    "lng": -122.3327947,
+    "lat": 47.6054179,
+    "lng": -122.3271594,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-14473",
+    "name": "Davis Law Group Food Drive",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2101 4th Ave",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98121",
+    "phone": "(206) 467-7600",
+    "hours": "",
+    "lat": 47.61548,
+    "lng": -122.34668,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-14474",
+    "name": "Pike Market Senior Center & Food Bank",
+    "category": "Food",
+    "description": "Free food bank providing food assistance. Open to all.",
+    "address": "85 Pike Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98101",
+    "phone": "(206) 728-2773",
+    "hours": "",
+    "lat": 47.61119,
+    "lng": -122.33454,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-seattle-shelter",

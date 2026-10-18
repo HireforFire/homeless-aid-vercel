@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-208",
+    "name": "High Plains Food Bank",
+    "category": "Food",
+    "description": "Panhandle residents",
+    "address": "815 S Ross St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79102",
+    "phone": "(806) 374-8562",
+    "hours": "",
+    "lat": 35.1983,
+    "lng": -101.8383,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-189846",
     "name": "Acts Community",
     "category": "Food",
@@ -150,25 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-208",
-    "name": "High Plains Food Bank",
-    "category": "Food",
-    "description": "Panhandle residents",
-    "address": "815 S Ross St",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79102",
-    "phone": "(806) 374-8562",
-    "hours": "",
-    "lat": 35.1983,
-    "lng": -101.8383,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-172220",

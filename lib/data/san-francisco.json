@@ -171,6 +171,44 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-2634",
+    "name": "Salvation Army Asian American Yerba Buena",
+    "category": "Food",
+    "description": "id required",
+    "address": "360 4th Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "",
+    "phone": "(415) 777-2677",
+    "hours": "",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-504",
+    "name": "Salvation Army - SF",
+    "category": "Food",
+    "description": "Emergency services",
+    "address": "1275 Harrison Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94103",
+    "phone": "(415) 553-3400",
+    "hours": "",
+    "lat": 37.7714,
+    "lng": -122.4082,
+    "tags": [
+      "emergency",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-174239",
     "name": "GLIDE Daily Free Meals Program",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 37.785137,
     "lng": -122.4116548,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175842",
-    "name": "SF-Marin Food Bank Distribution Network",
-    "category": "Food",
-    "description": "Network of 80 food distribution locations serving San Francisco and Marin County",
-    "address": "SF-Marin Food Bank Distribution Network",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94102",
-    "phone": "",
-    "hours": "",
-    "lat": 37.7800771,
-    "lng": -122.4201615,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-178799",
-    "name": "Grace Fellowship Community Church",
-    "category": "Food",
-    "description": "Food pantry distribution location at Grace Fellowship Community Church",
-    "address": "3265 16th St",
-    "city": "San Francisco",
-    "state": "CA",
-    "zip": "94103",
-    "phone": "",
-    "hours": "",
-    "lat": 37.76445,
-    "lng": -122.42546,
     "tags": [
       "food pantry",
       "walk-in"

@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-185557",
-    "name": "Co-Cathedral of Sacred Heart",
-    "category": "Food",
-    "description": "Food distribution location at Co-Cathedral of Sacred Heart",
-    "address": "1701 San Jacinto St.",
-    "city": "Houston",
-    "state": "TX",
-    "zip": "77002",
-    "phone": "",
-    "hours": "",
-    "lat": 29.7500855,
-    "lng": -95.3673142,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-13674",
     "name": "The Beacon",
     "category": "Food",
@@ -150,6 +131,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-185557",
+    "name": "Co-Cathedral of Sacred Heart",
+    "category": "Food",
+    "description": "Food distribution location at Co-Cathedral of Sacred Heart",
+    "address": "1701 San Jacinto St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002",
+    "phone": "",
+    "hours": "",
+    "lat": 29.7500855,
+    "lng": -95.3673142,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-173051",

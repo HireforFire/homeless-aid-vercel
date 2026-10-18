@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-851",
+    "name": "Harvest Hope Food Bank",
+    "category": "Food",
+    "description": "Serves central South Carolina",
+    "address": "2220 Shop Road",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "phone": "(803) 254-4432",
+    "hours": "",
+    "lat": 33.9983,
+    "lng": -81.0283,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-172846",
     "name": "St. Vincent de Paul St. Joseph",
     "category": "Food",
@@ -131,25 +150,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-851",
-    "name": "Harvest Hope Food Bank",
-    "category": "Food",
-    "description": "Serves central South Carolina",
-    "address": "2220 Shop Road",
-    "city": "Columbia",
-    "state": "SC",
-    "zip": "29201",
-    "phone": "(803) 254-4432",
-    "hours": "",
-    "lat": 33.9983,
-    "lng": -81.0283,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fa-217687",

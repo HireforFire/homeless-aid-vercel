@@ -76,101 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-194489",
-    "name": "Greater Boston Chinese Golden Age Center",
-    "category": "Food",
-    "description": "Main office and meal preparation facility for Greater Boston Chinese Golden Age Center",
-    "address": "75 Kneeland Street",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "02111",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3500947,
-    "lng": -71.0606782,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194782",
-    "name": "Action for Boston Community Development - Downtown",
-    "category": "Food",
-    "description": "Main office location for Action for Boston Community Development providing community services and immigration support.",
-    "address": "178 Tremont Street",
-    "city": "Downtown",
-    "state": "MA",
-    "zip": "02120",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3529189,
-    "lng": -71.064123,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-196611",
-    "name": "Boston Dream Center",
-    "category": "Food",
-    "description": "Boston Dream Center main office location in Downtown Boston",
-    "address": "58 Winter Place",
-    "city": "Downtown",
-    "state": "MA",
-    "zip": "02108",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3556684,
-    "lng": -71.06131859999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-212727",
-    "name": "Saturday's/Sunday's Bread - Beacon Hill",
-    "category": "Food",
-    "description": "Church of St. John the Evangelist - Food distribution location",
-    "address": "35 Bowdoin Street",
-    "city": "Beacon Hill",
-    "state": "MA",
-    "zip": "02114",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3600355,
-    "lng": -71.0631944,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214235",
-    "name": "Ethos Café Emmanuel",
-    "category": "Food",
-    "description": "LGBT-focused café location in Back Bay",
-    "address": "15 Newbury Street",
-    "city": "Back Bay",
-    "state": "MA",
-    "zip": "02116",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3526225,
-    "lng": -71.0723869,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-6440",
     "name": "Combined Jewish Philanthropies",
     "category": "Food",
@@ -226,6 +131,101 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-6449",
+    "name": "International Institute of Boston Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1 Milk St., 4th Floor",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02109",
+    "phone": "(617) 695-9990",
+    "hours": "",
+    "lat": 42.36498,
+    "lng": -71.05277,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-6454",
+    "name": "ABCD N. End/W.End Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1 Michelangelo Street",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02113",
+    "phone": "(617) 523-8125",
+    "hours": "",
+    "lat": 42.36526,
+    "lng": -71.05524,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-6455",
+    "name": "Thursday Night Outreach",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1 Park Street",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02108",
+    "phone": "(617) 525-3383",
+    "hours": "",
+    "lat": 42.35657,
+    "lng": -71.06516,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-194489",
+    "name": "Greater Boston Chinese Golden Age Center",
+    "category": "Food",
+    "description": "Main office and meal preparation facility for Greater Boston Chinese Golden Age Center",
+    "address": "75 Kneeland Street",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02111",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3500947,
+    "lng": -71.0606782,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194782",
+    "name": "Action for Boston Community Development - Downtown",
+    "category": "Food",
+    "description": "Main office location for Action for Boston Community Development providing community services and immigration support.",
+    "address": "178 Tremont Street",
+    "city": "Downtown",
+    "state": "MA",
+    "zip": "02120",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3529189,
+    "lng": -71.064123,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "osm-node-1019015211",

@@ -57,6 +57,25 @@
     "lastUpdated": "2026-01-08"
   },
   {
+    "id": "fa-858",
+    "name": "Urban Ministries of Durham",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "410 Liberty Street",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "(919) 682-0538",
+    "hours": "",
+    "lat": 35.9917,
+    "lng": -78.8983,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-183717",
     "name": "Fisher Memorial United Holy Church",
     "category": "Food",
@@ -95,23 +114,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-858",
-    "name": "Urban Ministries of Durham",
+    "id": "fa-8788",
+    "name": "Salvation Army-Durham",
     "category": "Food",
-    "description": "Open to all",
-    "address": "410 Liberty Street",
+    "description": "appointment",
+    "address": "909 Liberty Street",
     "city": "Durham",
     "state": "NC",
     "zip": "27701",
-    "phone": "(919) 682-0538",
+    "phone": "(919) 688-7306",
     "hours": "",
-    "lat": 35.9917,
-    "lng": -78.8983,
+    "lat": 35.99858,
+    "lng": -78.89872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-8792",
+    "name": "Asbury Temple United Methodist Church",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "201 S. Alston Ave",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "(919) 688-4578",
+    "hours": "",
+    "lat": 35.99858,
+    "lng": -78.89872,
     "tags": [
       "soup kitchen",
       "walk-in"
     ],
-    "lastUpdated": "2025-01-01"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-184874",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 35.9816049,
     "lng": -78.8925971,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-195481",
-    "name": "Faith Temple House of Prayer (FTHOP)",
-    "category": "Food",
-    "description": "Food pantry location at Faith Temple House of Prayer",
-    "address": "700 S Mangum St",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "",
-    "hours": "",
-    "lat": 35.9891571,
-    "lng": -78.9035691,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-196599",
-    "name": "CAARE, Inc. - Downtown Location",
-    "category": "Food",
-    "description": "Main location of CAARE, Inc. at 205 Broadway Street",
-    "address": "205 Broadway Street",
-    "city": "Downtown",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0007623,
-    "lng": -78.8980795,
     "tags": [
       "food pantry",
       "walk-in"

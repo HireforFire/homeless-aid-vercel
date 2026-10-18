@@ -171,6 +171,44 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-596",
+    "name": "Samaritan Center",
+    "category": "Food",
+    "description": "Syracuse area",
+    "address": "240 E Onondaga Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13202",
+    "phone": "(315) 474-2489",
+    "hours": "",
+    "lat": 43.0489,
+    "lng": -76.1489,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-597",
+    "name": "Salvation Army Syracuse",
+    "category": "Food",
+    "description": "Syracuse",
+    "address": "677 S Salina Street",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13202",
+    "phone": "(315) 475-1688",
+    "hours": "",
+    "lat": 43.0389,
+    "lng": -76.1489,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-180659",
     "name": "PEACE Inc. Westside Family Resource Center",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 43.0471072,
     "lng": -76.1605708,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194342",
-    "name": "The Salvation Army Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location in Syracuse",
-    "address": "667 S. Salina Street",
-    "city": "Syracuse",
-    "state": "NY",
-    "zip": "13202",
-    "phone": "",
-    "hours": "",
-    "lat": 43.041355,
-    "lng": -76.150355,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-202306",
-    "name": "Cathedral Emergency Services Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location serving the Syracuse community",
-    "address": "264 East Onondaga Street",
-    "city": "Syracuse",
-    "state": "NY",
-    "zip": "13202",
-    "phone": "",
-    "hours": "",
-    "lat": 43.04633,
-    "lng": -76.14948,
     "tags": [
       "food pantry",
       "walk-in"

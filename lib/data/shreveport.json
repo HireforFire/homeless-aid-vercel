@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-191969",
-    "name": "St. George Episcopal Church",
-    "category": "Food",
-    "description": "St. George Episcopal Church outreach location providing hot meals and brown bag suppers.",
-    "address": "1959 Airline Dr.",
-    "city": "Bossier City",
-    "state": "LA",
-    "zip": "71112",
-    "phone": "",
-    "hours": "",
-    "lat": 32.5229063,
-    "lng": -93.6986587,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-6171",
     "name": "Christian Services Program",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-191969",
+    "name": "St. George Episcopal Church",
+    "category": "Food",
+    "description": "St. George Episcopal Church outreach location providing hot meals and brown bag suppers.",
+    "address": "1959 Airline Dr.",
+    "city": "Bossier City",
+    "state": "LA",
+    "zip": "71112",
+    "phone": "",
+    "hours": "",
+    "lat": 32.5229063,
+    "lng": -93.6986587,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-226312",

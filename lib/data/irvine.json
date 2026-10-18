@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-174163",
-    "name": "Lakeview Senior Center",
-    "category": "Food",
-    "description": "Senior center providing meals and food distribution services for homebound seniors in Irvine",
-    "address": "20 Lake Rd",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92604",
-    "phone": "(949) 724-6910",
-    "hours": "",
-    "lat": 33.6760367,
-    "lng": -117.8029787,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-465",
     "name": "Orange County Rescue Mission",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-174163",
+    "name": "Lakeview Senior Center",
+    "category": "Food",
+    "description": "Senior center providing meals and food distribution services for homebound seniors in Irvine",
+    "address": "20 Lake Rd",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92604",
+    "phone": "(949) 724-6910",
+    "hours": "",
+    "lat": 33.6760367,
+    "lng": -117.8029787,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-220199",
@@ -95,6 +95,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-397",
+    "name": "Second Harvest Food Bank Orange County",
+    "category": "Food",
+    "description": "Orange County",
+    "address": "8014 Marine Way",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92618",
+    "phone": "(949) 653-2900",
+    "hours": "",
+    "lat": 33.6711,
+    "lng": -117.8411,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-192525",
     "name": "Delhi Center",
     "category": "Food",
@@ -152,23 +171,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-397",
-    "name": "Second Harvest Food Bank Orange County",
+    "id": "fa-2363",
+    "name": "PEACE Center Food Pantry at  Saddleback Church Irvine South",
     "category": "Food",
-    "description": "Orange County",
-    "address": "8014 Marine Way",
+    "description": "income verification",
+    "address": "18842 Teller Avenue",
     "city": "Irvine",
     "state": "CA",
-    "zip": "92618",
-    "phone": "(949) 653-2900",
+    "zip": "92612",
+    "phone": "(949) 609-8210",
     "hours": "",
-    "lat": 33.6711,
-    "lng": -117.8411,
+    "lat": 33.65984,
+    "lng": -117.82457,
     "tags": [
-      "food bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2025-12-02"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-194188",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-2363",
-    "name": "PEACE Center Food Pantry at  Saddleback Church Irvine South",
-    "category": "Food",
-    "description": "income verification",
-    "address": "18842 Teller Avenue",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92612",
-    "phone": "(949) 609-8210",
-    "hours": "",
-    "lat": 33.65984,
-    "lng": -117.82457,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-irvine-shelter",

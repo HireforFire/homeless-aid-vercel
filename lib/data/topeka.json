@@ -190,42 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-174071",
-    "name": "Fellowship and Faith",
+    "id": "fa-5846",
+    "name": "Catholic Charities Food Pantry Topeka",
     "category": "Food",
-    "description": "Food distribution location in Topeka.",
-    "address": "708 SE. Lime St.",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66607",
-    "phone": "",
-    "hours": "",
-    "lat": 39.0457141,
-    "lng": -95.6581608,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177840",
-    "name": "New Life Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "Topeka Turnaround Team",
+    "description": "id required",
+    "address": "234 S Kansas Ave",
     "city": "Topeka",
     "state": "KS",
     "zip": "66603",
-    "phone": "",
+    "phone": "(785) 233-6300",
     "hours": "",
-    "lat": 39.050976,
-    "lng": -95.670433,
+    "lat": 39.05742,
+    "lng": -95.67539,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-5882",
+    "name": "Harvesters Mobile Food Pantry - YMCA",
+    "category": "Food",
+    "description": "Free mobile pantry providing food assistance. Open to all.",
+    "address": "21400 W 153rd Street",
+    "city": "Olathe",
+    "state": "KS",
+    "zip": "66601",
+    "phone": "(816) 300-0531",
+    "hours": "",
+    "lat": 39.05711,
+    "lng": -95.67655,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-topeka-shelter",

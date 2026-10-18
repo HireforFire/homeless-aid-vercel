@@ -114,25 +114,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-183401",
-    "name": "St. Anthony Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location in Manchester, New Hampshire.",
-    "address": "61 W Baker St",
-    "city": "Manchester",
-    "state": "NH",
-    "zip": "03103",
-    "phone": "",
-    "hours": "",
-    "lat": 42.972586299999996,
-    "lng": -71.4647055,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-9272",
     "name": "First United Methodist Church Food Pantry",
     "category": "Food",
@@ -218,6 +199,25 @@
     "state": "NH",
     "zip": "03102",
     "phone": "(603) 622-8632",
+    "hours": "",
+    "lat": 43.00797,
+    "lng": -71.49134,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-9298",
+    "name": "Karen Angela Carter Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "336 Kelly Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102",
+    "phone": "(603) 674-1623",
     "hours": "",
     "lat": 43.00797,
     "lng": -71.49134,

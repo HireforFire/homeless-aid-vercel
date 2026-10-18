@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-11641",
+    "name": "Wayman Chapel - AME Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3317 Hoover Ave.",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45402",
+    "phone": "(937) 268-6729",
+    "hours": "",
+    "lat": 39.75983,
+    "lng": -84.20751,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-181213",
     "name": "Emergency Foodbank - Food Distribution Center",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 39.7606136,
     "lng": -84.1877711,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-197793",
-    "name": "St. John's Lutheran Church",
-    "category": "Food",
-    "description": "Food pantry location at St. John's Lutheran Church in Dayton, Ohio.",
-    "address": "141 S Ludlow St",
-    "city": "Dayton",
-    "state": "OH",
-    "zip": "45402",
-    "phone": "",
-    "hours": "",
-    "lat": 39.7566755,
-    "lng": -84.1933182,
     "tags": [
       "food pantry",
       "walk-in"

@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-181828",
-    "name": "VFW Post 3173",
-    "category": "Food",
-    "description": "Mobile food pantry distribution location at VFW Post 3173",
-    "address": "805 E. Sycamore Street",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "92805",
-    "phone": "",
-    "hours": "",
-    "lat": 33.8419133,
-    "lng": -117.9078279,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-2188",
     "name": "Zion Lutheran Church Food Pantry",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-181828",
+    "name": "VFW Post 3173",
+    "category": "Food",
+    "description": "Mobile food pantry distribution location at VFW Post 3173",
+    "address": "805 E. Sycamore Street",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92805",
+    "phone": "",
+    "hours": "",
+    "lat": 33.8419133,
+    "lng": -117.9078279,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-175006",

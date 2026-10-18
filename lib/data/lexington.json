@@ -114,6 +114,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-6071",
+    "name": "Salvation Army, The Central Kentucky Area Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "736 West Main Street",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "(859) 252-7706",
+    "hours": "",
+    "lat": 38.05004,
+    "lng": -84.50018,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-6072",
+    "name": "Hope Center of Kentucky",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "360 W Loudon Ave.",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40508",
+    "phone": "(859) 252-7881",
+    "hours": "",
+    "lat": 38.05004,
+    "lng": -84.50018,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-179407",
     "name": "Newman Center Holy Spirit Parish",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 38.0350113,
     "lng": -84.48680139999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-197659",
-    "name": "Maxwell Street Presbyterian",
-    "category": "Food",
-    "description": "Maxwell Street Presbyterian food assistance location",
-    "address": "180 E. Maxwell St.",
-    "city": "Lexington",
-    "state": "KY",
-    "zip": "40508",
-    "phone": "",
-    "hours": "",
-    "lat": 38.0414214,
-    "lng": -84.49958,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214064",
-    "name": "Rose Tower Apartments CSFP",
-    "category": "Food",
-    "description": "Senior food program distribution location at Rose Tower Apartments. Only residents of Rose Tower Apartments can pick up food at this location.",
-    "address": "137 Rose St.",
-    "city": "Lexington",
-    "state": "KY",
-    "zip": "40507",
-    "phone": "",
-    "hours": "",
-    "lat": 38.0424526,
-    "lng": -84.494073,
     "tags": [
       "food pantry",
       "walk-in"

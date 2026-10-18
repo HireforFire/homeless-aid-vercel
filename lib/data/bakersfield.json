@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-2223",
+    "name": "Golden Empire Gleaners",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1326 30th Street",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "(661) 324-2767",
+    "hours": "",
+    "lat": 35.38428,
+    "lng": -119.02057,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-175337",
     "name": "The River - Vineyard Christian",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 35.373960982717,
     "lng": -119.003483103124,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176663",
-    "name": "Bakersfield Southside SDA Church",
-    "category": "Food",
-    "description": "Bakersfield Southside SDA Church location",
-    "address": "1330 3rd St",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "93304",
-    "phone": "",
-    "hours": "",
-    "lat": 35.359171366021,
-    "lng": -119.017427321066,
     "tags": [
       "food pantry",
       "walk-in"

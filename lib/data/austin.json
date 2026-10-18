@@ -38,6 +38,25 @@
     "lastUpdated": "2025-12-02"
   },
   {
+    "id": "fa-622",
+    "name": "Austin Resource Center",
+    "category": "Food",
+    "description": "Austin area",
+    "address": "500 E 7th Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 305-4100",
+    "hours": "",
+    "lat": 30.2672,
+    "lng": -97.7361,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-192919",
     "name": "Austin Baptist Chapel",
     "category": "Food",
@@ -76,23 +95,43 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-622",
-    "name": "Austin Resource Center",
+    "id": "fa-13342",
+    "name": "Caritas of Austin",
     "category": "Food",
-    "description": "Austin area",
-    "address": "500 E 7th Street",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "611 Neches Street",
     "city": "Austin",
     "state": "TX",
     "zip": "78701",
-    "phone": "(512) 305-4100",
+    "phone": "(512) 479-4610",
     "hours": "",
-    "lat": 30.2672,
-    "lng": -97.7361,
+    "lat": 30.27022,
+    "lng": -97.74248,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-01-08"
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-160",
+    "name": "Caritas of Austin - Main Campus",
+    "category": "Food",
+    "description": "Travis County, appointment required",
+    "address": "611 Neches St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "(512) 479-4610",
+    "hours": "",
+    "lat": 30.2692,
+    "lng": -97.7391,
+    "tags": [
+      "food pantry",
+      "walk-in",
+      "appointment"
+    ],
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-178911",
@@ -169,45 +208,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-13342",
-    "name": "Caritas of Austin",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "611 Neches Street",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78701",
-    "phone": "(512) 479-4610",
-    "hours": "",
-    "lat": 30.27022,
-    "lng": -97.74248,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-160",
-    "name": "Caritas of Austin - Main Campus",
-    "category": "Food",
-    "description": "Travis County, appointment required",
-    "address": "611 Neches St",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78701",
-    "phone": "(512) 479-4610",
-    "hours": "",
-    "lat": 30.2692,
-    "lng": -97.7391,
-    "tags": [
-      "food pantry",
-      "walk-in",
-      "appointment"
-    ],
-    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-172237",

@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-176269",
-    "name": "Unitarian Church of All Souls",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "Unitarian Church of All Souls",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "",
-    "hours": "",
-    "lat": 38.844868,
-    "lng": -104.823359,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-2807",
     "name": "Marian House Kitchen and Marketplace Food Pantry",
     "category": "Food",
@@ -95,56 +76,18 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-193978",
-    "name": "Mill Street Neighborhood - Mobile Pantry Stop",
+    "id": "fa-176269",
+    "name": "Unitarian Church of All Souls",
     "category": "Food",
-    "description": "Mobile pantry distribution location serving the Mill Street Neighborhood area of Colorado Springs.",
-    "address": "1000 Sahwatch St.",
+    "description": "Food distribution location",
+    "address": "Unitarian Church of All Souls",
     "city": "Colorado Springs",
     "state": "CO",
     "zip": "80903",
     "phone": "",
     "hours": "",
-    "lat": 38.8199723,
-    "lng": -104.8279238,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-195712",
-    "name": "First Baptist Church",
-    "category": "Food",
-    "description": "Food pantry location at First Baptist Church",
-    "address": "317 E. Kiowa St.",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "",
-    "hours": "",
-    "lat": 38.8350171,
-    "lng": -104.8195809,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200504",
-    "name": "Marian House Kitchen",
-    "category": "Food",
-    "description": "Hot/Cold Meal Program location",
-    "address": "14 W Bijou St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "",
-    "hours": "",
-    "lat": 38.8374423,
-    "lng": -104.8263552,
+    "lat": 38.844868,
+    "lng": -104.823359,
     "tags": [
       "food pantry",
       "walk-in"
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-216219",
+    "name": "Pike’s Peak Biker’s Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1505 E Monument St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80909",
+    "phone": "(719) 600-9894",
+    "hours": "",
+    "lat": 38.842571,
+    "lng": -104.798286,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-216227",
+    "name": "Food to Power",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1090 S Institute St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "(719) 470-2737",
+    "hours": "",
+    "lat": 38.817623,
+    "lng": -104.809013,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-193978",
+    "name": "Mill Street Neighborhood - Mobile Pantry Stop",
+    "category": "Food",
+    "description": "Mobile pantry distribution location serving the Mill Street Neighborhood area of Colorado Springs.",
+    "address": "1000 Sahwatch St.",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8199723,
+    "lng": -104.8279238,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-colorado-springs-shelter",

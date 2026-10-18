@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-179025",
-    "name": "Wayside Christian Mission - Main Location",
-    "category": "Food",
-    "description": "Main distribution location for Wayside Christian Mission food assistance services.",
-    "address": "432 E. Jefferson St.",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40202",
-    "phone": "",
-    "hours": "",
-    "lat": 38.2521306,
-    "lng": -85.7449128,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-5743",
     "name": "Dare To Care Food Bank at First Lutheran Church",
     "category": "Food",
@@ -169,6 +150,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-179025",
+    "name": "Wayside Christian Mission - Main Location",
+    "category": "Food",
+    "description": "Main distribution location for Wayside Christian Mission food assistance services.",
+    "address": "432 E. Jefferson St.",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40202",
+    "phone": "",
+    "hours": "",
+    "lat": 38.2521306,
+    "lng": -85.7449128,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-172477",

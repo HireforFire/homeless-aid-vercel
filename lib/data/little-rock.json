@@ -57,6 +57,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-1862",
+    "name": "Litas House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1008 Wildrose",
+    "city": "Mcalmont",
+    "state": "AR",
+    "zip": "72231",
+    "phone": "(501) 563-0169",
+    "hours": "",
+    "lat": 34.74626,
+    "lng": -92.27666,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-174256",
     "name": "St John Baptist Church - LR",
     "category": "Food",
@@ -112,25 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-1862",
-    "name": "Litas House",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1008 Wildrose",
-    "city": "Mcalmont",
-    "state": "AR",
-    "zip": "72231",
-    "phone": "(501) 563-0169",
-    "hours": "",
-    "lat": 34.74626,
-    "lng": -92.27666,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-172546",

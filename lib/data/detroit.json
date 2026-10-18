@@ -38,63 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-183467",
-    "name": "Everyone Eats - Brush Park",
-    "category": "Food",
-    "description": "Everyone Eats location in Brush Park, Michigan",
-    "address": "2930 Woodward Avenue",
-    "city": "Brush Park",
-    "state": "MI",
-    "zip": "48201",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3441585,
-    "lng": -83.0550571,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-184219",
-    "name": "Mariner's Inn",
-    "category": "Food",
-    "description": "Main location of Mariner's Inn food service",
-    "address": "445 Ledyard Street",
-    "city": "Midtown",
-    "state": "MI",
-    "zip": "48201",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3398304,
-    "lng": -83.0581787,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-201065",
-    "name": "United Way Downtown Detroit",
-    "category": "Food",
-    "description": "United Way office located in Downtown Detroit",
-    "address": "300 Michigan Avenue",
-    "city": "Downtown Detroit",
-    "state": "MI",
-    "zip": "48226",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3318248,
-    "lng": -83.0512555,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-7685",
     "name": "Central United Methodist Church",
     "category": "Food",
@@ -150,6 +93,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-183467",
+    "name": "Everyone Eats - Brush Park",
+    "category": "Food",
+    "description": "Everyone Eats location in Brush Park, Michigan",
+    "address": "2930 Woodward Avenue",
+    "city": "Brush Park",
+    "state": "MI",
+    "zip": "48201",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3441585,
+    "lng": -83.0550571,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-184219",
+    "name": "Mariner's Inn",
+    "category": "Food",
+    "description": "Main location of Mariner's Inn food service",
+    "address": "445 Ledyard Street",
+    "city": "Midtown",
+    "state": "MI",
+    "zip": "48201",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3398304,
+    "lng": -83.0581787,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201065",
+    "name": "United Way Downtown Detroit",
+    "category": "Food",
+    "description": "United Way office located in Downtown Detroit",
+    "address": "300 Michigan Avenue",
+    "city": "Downtown Detroit",
+    "state": "MI",
+    "zip": "48226",
+    "phone": "",
+    "hours": "",
+    "lat": 42.3318248,
+    "lng": -83.0512555,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-218823",

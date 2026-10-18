@@ -76,6 +76,25 @@
     "lastUpdated": "2026-01-18"
   },
   {
+    "id": "fa-14235",
+    "name": "Chapel Pantry",
+    "category": "Food",
+    "description": "once per month",
+    "address": "2020 Laskin Road",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454",
+    "phone": "(757) 428-6763",
+    "hours": "",
+    "lat": 36.83216,
+    "lng": -76.02616,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-178303",
     "name": "Creating Legacies Inc.",
     "category": "Food",
@@ -112,25 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-14235",
-    "name": "Chapel Pantry",
-    "category": "Food",
-    "description": "once per month",
-    "address": "2020 Laskin Road",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23454",
-    "phone": "(757) 428-6763",
-    "hours": "",
-    "lat": 36.83216,
-    "lng": -76.02616,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-223461",

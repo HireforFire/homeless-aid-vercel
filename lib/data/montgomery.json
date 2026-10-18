@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-181515",
-    "name": "Holt Street Church of Christ",
+    "id": "fa-1364",
+    "name": "Love Center Full Gospel",
     "category": "Food",
-    "description": "Food pantry location at Holt Street Church of Christ in Montgomery.",
-    "address": "945 S. Holt St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3659 Debby Drive",
     "city": "Montgomery",
     "state": "AL",
-    "zip": "36108",
-    "phone": "",
+    "zip": "36111",
+    "phone": "(770) 907-9877",
     "hours": "",
-    "lat": 32.3639618,
-    "lng": -86.3202945,
+    "lat": 32.33755,
+    "lng": -86.27154,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-montgomery-shelter",

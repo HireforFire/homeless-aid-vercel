@@ -152,6 +152,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-3511",
+    "name": "St Peter Claver Catholic Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1203 N Nebraska Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33602",
+    "phone": "(813) 223-7098",
+    "hours": "",
+    "lat": 27.95371,
+    "lng": -82.45675,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-3987",
+    "name": "Metropolitan Ministries Family Support Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2301 North Tampa Street",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33602",
+    "phone": "(813) 209-1200",
+    "hours": "",
+    "lat": 27.95371,
+    "lng": -82.45675,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-178883",
     "name": "Palm Ave Baptist Tower Inc.",
     "category": "Food",
@@ -185,44 +223,6 @@
     "lng": -82.457779,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-189098",
-    "name": "HARTPLUS PARATRANSIT",
-    "category": "Food",
-    "description": "HARTPLUS PARATRANSIT office and service location",
-    "address": "1201 East 7th Avenue",
-    "city": "Ybor City",
-    "state": "FL",
-    "zip": "33605",
-    "phone": "",
-    "hours": "",
-    "lat": 27.9597748,
-    "lng": -82.446407,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-209789",
-    "name": "Holy Trinity Presbyterian Church",
-    "category": "Food",
-    "description": "Holy Trinity Presbyterian Church location providing soup kitchen services.",
-    "address": "350 South Hyde Park Avenue",
-    "city": "Hyde Park",
-    "state": "FL",
-    "zip": "33606",
-    "phone": "",
-    "hours": "",
-    "lat": 27.9392343,
-    "lng": -82.463549,
-    "tags": [
-      "soup kitchen",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173785",
-    "name": "Cross and Crown Mission",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "1008 N. McKinley Ave.",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73106",
-    "phone": "(405) 232-7696",
-    "hours": "",
-    "lat": 35.4781282,
-    "lng": -97.5369245,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-12014",
     "name": "City Care Inc.",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-173785",
+    "name": "Cross and Crown Mission",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1008 N. McKinley Ave.",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73106",
+    "phone": "(405) 232-7696",
+    "hours": "",
+    "lat": 35.4781282,
+    "lng": -97.5369245,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-172469",

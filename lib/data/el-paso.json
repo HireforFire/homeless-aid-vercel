@@ -57,6 +57,25 @@
     "lastUpdated": "2026-03-29"
   },
   {
+    "id": "fa-623",
+    "name": "El Paso Community Action",
+    "category": "Food",
+    "description": "El Paso area",
+    "address": "303 N Oregon Street",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "(915) 577-0050",
+    "hours": "",
+    "lat": 31.7584,
+    "lng": -106.4883,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-198450",
     "name": "Opportunity Center for the Homeless",
     "category": "Food",
@@ -76,23 +95,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-623",
-    "name": "El Paso Community Action",
+    "id": "fa-13580",
+    "name": "Dame La Mano Crisis Center",
     "category": "Food",
-    "description": "El Paso area",
-    "address": "303 N Oregon Street",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1014 S. Virginia Street",
     "city": "El Paso",
     "state": "TX",
     "zip": "79901",
-    "phone": "(915) 577-0050",
+    "phone": "(915) 546-4040",
     "hours": "",
-    "lat": 31.7584,
+    "lat": 31.7597,
+    "lng": -106.48049,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-193",
+    "name": "Proyecto Bravo",
+    "category": "Food",
+    "description": "Downtown El Paso",
+    "address": "100 N Stanton St",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "phone": "(915) 532-4021",
+    "hours": "",
+    "lat": 31.7583,
     "lng": -106.4883,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-01-08"
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-177313",
@@ -150,44 +188,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-13580",
-    "name": "Dame La Mano Crisis Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1014 S. Virginia Street",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "79901",
-    "phone": "(915) 546-4040",
-    "hours": "",
-    "lat": 31.7597,
-    "lng": -106.48049,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-193",
-    "name": "Proyecto Bravo",
-    "category": "Food",
-    "description": "Downtown El Paso",
-    "address": "100 N Stanton St",
-    "city": "El Paso",
-    "state": "TX",
-    "zip": "79901",
-    "phone": "(915) 532-4021",
-    "hours": "",
-    "lat": 31.7583,
-    "lng": -106.4883,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-226337",

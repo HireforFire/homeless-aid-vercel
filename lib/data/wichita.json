@@ -190,6 +190,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-5945",
+    "name": "Salvation Army Downtown",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "350 N Market Street",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67202",
+    "phone": "(316) 263-2769",
+    "hours": "",
+    "lat": 37.68668,
+    "lng": -97.33521,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-191073",
     "name": "Messiah's Branch - Food Distribution Center",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 37.6758938,
     "lng": -97.335331,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-200243",
-    "name": "Salvation Army ICT - Emergency Services",
-    "category": "Food",
-    "description": "Main emergency services location providing food pantry, medical, and dental services.",
-    "address": "350 North Market Street",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67202",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6911575,
-    "lng": -97.3365782,
     "tags": [
       "food pantry",
       "walk-in"

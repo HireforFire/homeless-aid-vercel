@@ -57,6 +57,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-13253",
+    "name": "Smokeys Pantry: A FISH Hospitality Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "824 Melrose Place",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37916",
+    "phone": "(865) 236-1235",
+    "hours": "",
+    "lat": 35.95309,
+    "lng": -83.9335,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-178872",
     "name": "Salvation Army - Knoxville",
     "category": "Food",
@@ -150,25 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-13253",
-    "name": "Smokeys Pantry: A FISH Hospitality Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "824 Melrose Place",
-    "city": "Knoxville",
-    "state": "TN",
-    "zip": "37916",
-    "phone": "(865) 236-1235",
-    "hours": "",
-    "lat": 35.95309,
-    "lng": -83.9335,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-217762",

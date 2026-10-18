@@ -114,44 +114,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-187274",
-    "name": "God's Pantry",
-    "category": "Food",
-    "description": "Main food distribution location",
-    "address": "3420 EAST 14TH STREET STE 100",
-    "city": "Arlington",
-    "state": "TX",
-    "zip": "75074",
-    "phone": "",
-    "hours": "",
-    "lat": 33.0357,
-    "lng": -96.67572,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214502",
-    "name": "SALVATION ARMY PLANO CORPS",
-    "category": "Food",
-    "description": "Salvation Army corps location providing food distribution and SNAP application assistance.",
-    "address": "3528 14TH ST",
-    "city": "PLANO",
-    "state": "TX",
-    "zip": "75074",
-    "phone": "",
-    "hours": "",
-    "lat": 33.014645,
-    "lng": -96.667328,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-13309",
     "name": "AC Food Pantry & Thrift Store",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-13757",
+    "name": "North Texas Food Bank",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3677 Mapleshade Lane",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75075",
+    "phone": "(214) 330-1396",
+    "hours": "",
+    "lat": 33.02163,
+    "lng": -96.74043,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-109",
+    "name": "Plano Food Pantry",
+    "category": "Food",
+    "description": "Collin County residents",
+    "address": "4024 W Plano Pkwy",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75093",
+    "phone": "(469) 814-0462",
+    "hours": "",
+    "lat": 33.0283,
+    "lng": -96.7483,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fallback-plano-shelter",

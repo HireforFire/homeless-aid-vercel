@@ -38,44 +38,6 @@
     "lastUpdated": "2026-05-11"
   },
   {
-    "id": "fa-197803",
-    "name": "St Patrick Center",
-    "category": "Food",
-    "description": "Food Pantry distribution location",
-    "address": "800 N Tucker Blvd",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63101",
-    "phone": "",
-    "hours": "",
-    "lat": 38.63341,
-    "lng": -90.19543,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-207391",
-    "name": "Orphan Grain Train - Lutheran Community Center",
-    "category": "Food",
-    "description": "Food pantry location at Lutheran Community Center",
-    "address": "1807 Biddle St.",
-    "city": "St Louis",
-    "state": "MO",
-    "zip": "63106",
-    "phone": "",
-    "hours": "",
-    "lat": 38.6395383,
-    "lng": -90.2041326,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-8175",
     "name": "Central Baptist Food Pantry St Louis",
     "category": "Food",
@@ -131,6 +93,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-197803",
+    "name": "St Patrick Center",
+    "category": "Food",
+    "description": "Food Pantry distribution location",
+    "address": "800 N Tucker Blvd",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63101",
+    "phone": "",
+    "hours": "",
+    "lat": 38.63341,
+    "lng": -90.19543,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207391",
+    "name": "Orphan Grain Train - Lutheran Community Center",
+    "category": "Food",
+    "description": "Food pantry location at Lutheran Community Center",
+    "address": "1807 Biddle St.",
+    "city": "St Louis",
+    "state": "MO",
+    "zip": "63106",
+    "phone": "",
+    "hours": "",
+    "lat": 38.6395383,
+    "lng": -90.2041326,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-172845",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-187498",
-    "name": "Sts Teresa & Bridget St. Vincent de Paul Food Pantry",
+    "id": "fa-8188",
+    "name": "St. Pius V Catholic Church Food Pantry",
     "category": "Food",
-    "description": "Food pantry located at 3636 N. Market St.",
-    "address": "3636 N. Market St.",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3310 S Grand Blvd",
     "city": "St Louis",
     "state": "MO",
-    "zip": "63113",
-    "phone": "",
+    "zip": "63118",
+    "phone": "(314) 772-1525",
     "hours": "",
-    "lat": 38.6516008,
-    "lng": -90.2252173,
+    "lat": 38.59237,
+    "lng": -90.22534,
     "tags": [
-      "mobile pantry",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-st-louis-shelter",

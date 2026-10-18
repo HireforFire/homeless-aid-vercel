@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-4469",
+    "name": "Central Iowa Shelter and Services",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1420 Mulberry Street",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309",
+    "phone": "(515) 284-5719",
+    "hours": "",
+    "lat": 41.58448,
+    "lng": -93.62152,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-184803",
     "name": "Young Women's Resource Center",
     "category": "Food",
@@ -131,25 +150,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-4469",
-    "name": "Central Iowa Shelter and Services",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1420 Mulberry Street",
-    "city": "Des Moines",
-    "state": "IA",
-    "zip": "50309",
-    "phone": "(515) 284-5719",
-    "hours": "",
-    "lat": 41.58448,
-    "lng": -93.62152,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fa-223624",

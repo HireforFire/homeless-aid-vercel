@@ -114,6 +114,101 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-6246",
+    "name": "Hope House",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "916 St Andrew Street",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70130",
+    "phone": "(504) 525-2561",
+    "hours": "",
+    "lat": 29.93671,
+    "lng": -90.06949,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-6274",
+    "name": "Total Community Action",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1420 S Jefferson Davis Pkwy",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "(504) 872-0334",
+    "hours": "",
+    "lat": 29.9422,
+    "lng": -90.08382,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-6275",
+    "name": "St. John the Baptist Community Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1920 Clio Street",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "(504) 581-4987",
+    "hours": "",
+    "lat": 29.9422,
+    "lng": -90.08382,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-6280",
+    "name": "Central City Christian Fellowship",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2201 4th Street",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "(504) 891-5721",
+    "hours": "",
+    "lat": 29.9422,
+    "lng": -90.08382,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-6281",
+    "name": "Covenant Presbyterian Urban Ministry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2128 Felicity Street",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "phone": "(504) 524-8730",
+    "hours": "",
+    "lat": 29.9422,
+    "lng": -90.08382,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
     "id": "fa-179460",
     "name": "Living Witness Ministry",
     "category": "Food",
@@ -126,101 +221,6 @@
     "hours": "",
     "lat": 29.9405337,
     "lng": -90.0793271,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-190023",
-    "name": "North Rampart Community Center",
-    "category": "Food",
-    "description": "Community center location for food distribution services.",
-    "address": "1130 N. Rampart St.",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip": "70116",
-    "phone": "",
-    "hours": "",
-    "lat": 29.9641458,
-    "lng": -90.0645679,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-192353",
-    "name": "Lantern Light, Inc.",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "1802 Tulane Ave.",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip": "70119",
-    "phone": "",
-    "hours": "",
-    "lat": 29.95709,
-    "lng": -90.0816486,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-194743",
-    "name": "Cosmopolitan Evangelistic Baptist Church",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "1929 Bienville St.",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip": "70112",
-    "phone": "",
-    "hours": "",
-    "lat": 29.9625798,
-    "lng": -90.078564,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-202416",
-    "name": "Absolute Care, Inc",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "1523 St. Charles Ave.",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip": "70130",
-    "phone": "",
-    "hours": "",
-    "lat": 29.938964,
-    "lng": -90.076599,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-202695",
-    "name": "Peoples Community Organization",
-    "category": "Food",
-    "description": "Main location of Peoples Community Organization",
-    "address": "709 N. Robertson St.",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip": "70116",
-    "phone": "",
-    "hours": "",
-    "lat": 29.9633287,
-    "lng": -90.0723043,
     "tags": [
       "food pantry",
       "walk-in"

@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-174741",
-    "name": "The Bethlehem Center's Partnership Pantry",
-    "category": "Food",
-    "description": "Food distribution location affiliated with Chattanooga Area Food Bank.",
-    "address": "200 W 38th St",
-    "city": "Chattanooga",
-    "state": "TN",
-    "zip": "37410",
-    "phone": "(423) 266-1384",
-    "hours": "",
-    "lat": 35.0058202,
-    "lng": -85.3125326,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-226369",
     "name": "Chattanooga Diaper Hub",
     "category": "Food",
@@ -93,6 +74,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-174741",
+    "name": "The Bethlehem Center's Partnership Pantry",
+    "category": "Food",
+    "description": "Food distribution location affiliated with Chattanooga Area Food Bank.",
+    "address": "200 W 38th St",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37410",
+    "phone": "(423) 266-1384",
+    "hours": "",
+    "lat": 35.0058202,
+    "lng": -85.3125326,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-181005",

@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-216645",
-    "name": "The Salvation Army - South Campbell Avenue Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "20 South Campbell Avenue",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60612",
-    "phone": "(312) 733-4801",
-    "hours": "",
-    "lat": 41.8805,
-    "lng": -87.68783,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-654",
     "name": "Pacific Garden Mission",
     "category": "Food",
@@ -112,6 +93,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-216645",
+    "name": "The Salvation Army - South Campbell Avenue Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "20 South Campbell Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60612",
+    "phone": "(312) 733-4801",
+    "hours": "",
+    "lat": 41.8805,
+    "lng": -87.68783,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-5059",

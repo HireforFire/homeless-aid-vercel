@@ -95,44 +95,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-205209",
-    "name": "LifeSTEPS",
-    "category": "Food",
-    "description": "Main food distribution site for LifeSTEPS",
-    "address": "99 N. 1st St",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95113",
-    "phone": "",
-    "hours": "",
-    "lat": 37.337363,
-    "lng": -121.891868,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-206807",
-    "name": "C.O.M.E.",
-    "category": "Food",
-    "description": "C.O.M.E. food distribution site",
-    "address": "121 East San Salvador St.",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95112",
-    "phone": "",
-    "hours": "",
-    "lat": 37.331259,
-    "lng": -121.883716,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-180351",
     "name": "New Beginnings Family Services - San Jose",
     "category": "Food",
@@ -218,6 +180,44 @@
     "state": "CA",
     "zip": "95112",
     "phone": "(408) 271-1630",
+    "hours": "",
+    "lat": 37.34461,
+    "lng": -121.88346,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2387",
+    "name": "Salvation Army",
+    "category": "Food",
+    "description": "Free soup kitchen providing food assistance. Open to all.",
+    "address": "405 N. 4th St.",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "(408) 282-1175",
+    "hours": "",
+    "lat": 37.34461,
+    "lng": -121.88346,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2548",
+    "name": "Loaves & Fishes",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1500 Berger Drive",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "(408) 922-9085",
     "hours": "",
     "lat": 37.34461,
     "lng": -121.88346,

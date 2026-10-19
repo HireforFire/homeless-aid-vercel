@@ -152,63 +152,6 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-216200",
-    "name": "Trinity United Methodist Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "701 N 20th St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80909",
-    "phone": "(941) 625-3372",
-    "hours": "",
-    "lat": 38.84914,
-    "lng": -104.851433,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-216219",
-    "name": "Pike’s Peak Biker’s Church",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1505 E Monument St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80909",
-    "phone": "(719) 600-9894",
-    "hours": "",
-    "lat": 38.842571,
-    "lng": -104.798286,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-216227",
-    "name": "Food to Power",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1090 S Institute St",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "80903",
-    "phone": "(719) 470-2737",
-    "hours": "",
-    "lat": 38.817623,
-    "lng": -104.809013,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-193978",
     "name": "Mill Street Neighborhood - Mobile Pantry Stop",
     "category": "Food",
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195712",
+    "name": "First Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at First Baptist Church",
+    "address": "317 E. Kiowa St.",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8350171,
+    "lng": -104.8195809,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200504",
+    "name": "Marian House Kitchen",
+    "category": "Food",
+    "description": "Hot/Cold Meal Program location",
+    "address": "14 W Bijou St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903",
+    "phone": "",
+    "hours": "",
+    "lat": 38.8374423,
+    "lng": -104.8263552,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-216200",
+    "name": "Trinity United Methodist Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "701 N 20th St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80909",
+    "phone": "(941) 625-3372",
+    "hours": "",
+    "lat": 38.84914,
+    "lng": -104.851433,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fallback-colorado-springs-shelter",

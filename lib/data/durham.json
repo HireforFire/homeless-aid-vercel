@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-216924",
-    "name": "The Salvation Army - Liberty St Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "909 Liberty St",
-    "city": "Durham",
-    "state": "NC",
-    "zip": "27701",
-    "phone": "(919) 688-7306",
-    "hours": "",
-    "lat": 35.99858,
-    "lng": -78.89872,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-690",
     "name": "Urban Ministries Durham",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-216924",
+    "name": "The Salvation Army - Liberty St Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "909 Liberty St",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "phone": "(919) 688-7306",
+    "hours": "",
+    "lat": 35.99858,
+    "lng": -78.89872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-858",

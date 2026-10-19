@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-216978",
-    "name": "The Salvation Army - E Stoner Ave Corps",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200 E Stoner Ave",
-    "city": "Shreveport",
-    "state": "LA",
-    "zip": "71101",
-    "phone": "(318) 424-3200",
-    "hours": "",
-    "lat": 32.5062,
-    "lng": -93.74822,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
     "id": "fa-871",
     "name": "Food Bank of Northwest Louisiana",
     "category": "Food",
@@ -55,6 +36,25 @@
       "walk-in"
     ],
     "lastUpdated": "2025-01-01"
+  },
+  {
+    "id": "fa-216978",
+    "name": "The Salvation Army - E Stoner Ave Corps",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "200 E Stoner Ave",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71101",
+    "phone": "(318) 424-3200",
+    "hours": "",
+    "lat": 32.5062,
+    "lng": -93.74822,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
   },
   {
     "id": "fa-208925",

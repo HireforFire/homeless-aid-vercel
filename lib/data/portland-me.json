@@ -57,44 +57,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-179259",
-    "name": "Catholic Charities Maine - Portland",
-    "category": "Food",
-    "description": "Main office and service location in Portland",
-    "address": "307 Congress St",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6614733,
-    "lng": -70.2540763,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-182203",
-    "name": "Sacred Heart Food Pantry - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located in Portland providing walk-up food pantry services.",
-    "address": "80 Sherman St",
-    "city": "Portland",
-    "state": "ME",
-    "zip": "04101",
-    "phone": "",
-    "hours": "",
-    "lat": 43.6554216,
-    "lng": -70.2695442,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-191401",
     "name": "Preble Street Teen Center",
     "category": "Food",
@@ -223,6 +185,44 @@
     "lng": -70.272139,
     "tags": [
       "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189032",
+    "name": "Portland Food Co-op",
+    "category": "Food",
+    "description": "Food pantry location in Portland, Maine",
+    "address": "290 Congress Street",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.661082,
+    "lng": -70.252437,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189797",
+    "name": "Wayside Mobile Food Pantry at Bayside Anchor - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center providing mobile food pantry services",
+    "address": "81 Oxford St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "",
+    "hours": "",
+    "lat": 43.663242499999996,
+    "lng": -70.2556377,
+    "tags": [
+      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

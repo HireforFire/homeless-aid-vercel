@@ -171,42 +171,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-174617",
-    "name": "Capital Park Food Pantry",
+    "id": "fa-967",
+    "name": "Marion Polk Food Share",
     "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "410 19th Street Southeast",
-    "city": "Southeast Salem",
+    "description": "Serves Marion and Polk counties",
+    "address": "1660 Salem Industrial Drive NE",
+    "city": "Salem",
     "state": "OR",
     "zip": "97301",
-    "phone": "(503) 362-6626",
+    "phone": "(503) 581-3855",
     "hours": "",
-    "lat": 44.9311577,
-    "lng": -123.019648,
+    "lat": 44.9617,
+    "lng": -123.0017,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-175289",
-    "name": "Life Essentials at Life Church",
-    "category": "Food",
-    "description": "Food pantry location at Life Church",
-    "address": "255 College Drive Northwest",
-    "city": "West Salem",
-    "state": "OR",
-    "zip": "97304",
-    "phone": "(503) 362-0362",
-    "hours": "",
-    "lat": 44.9330882,
-    "lng": -123.0798554,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fa-218837",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-174617",
+    "name": "Capital Park Food Pantry",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "410 19th Street Southeast",
+    "city": "Southeast Salem",
+    "state": "OR",
+    "zip": "97301",
+    "phone": "(503) 362-6626",
+    "hours": "",
+    "lat": 44.9311577,
+    "lng": -123.019648,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-salem-or-shelter",

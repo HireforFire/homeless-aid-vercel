@@ -95,6 +95,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-891",
+    "name": "Central Illinois Foodbank",
+    "category": "Food",
+    "description": "Serves Central Illinois",
+    "address": "1937 East Cook Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62703",
+    "phone": "(217) 522-4022",
+    "hours": "",
+    "lat": 39.7783,
+    "lng": -89.6183,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-219831",
     "name": "Mini O'Beirne Crisis Nursery",
     "category": "Food",
@@ -169,25 +188,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-891",
-    "name": "Central Illinois Foodbank",
-    "category": "Food",
-    "description": "Serves Central Illinois",
-    "address": "1937 East Cook Street",
-    "city": "Springfield",
-    "state": "IL",
-    "zip": "62703",
-    "phone": "(217) 522-4022",
-    "hours": "",
-    "lat": 39.7783,
-    "lng": -89.6183,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fa-216647",

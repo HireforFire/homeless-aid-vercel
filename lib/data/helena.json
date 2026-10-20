@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-171538",
-    "name": "Helena Indian Alliance",
-    "category": "Food",
-    "description": "Food pantry location in Helena, Montana",
-    "address": "501 Euclid Avenue",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "59601",
-    "phone": "",
-    "hours": "",
-    "lat": 46.5987884,
-    "lng": -112.0445324,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-171550",
     "name": "Helena Sodexo",
     "category": "Food",
@@ -145,6 +126,25 @@
     "hours": "",
     "lat": 46.6007207,
     "lng": -112.0386764,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171538",
+    "name": "Helena Indian Alliance",
+    "category": "Food",
+    "description": "Food pantry location in Helena, Montana",
+    "address": "501 Euclid Avenue",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "59601",
+    "phone": "",
+    "hours": "",
+    "lat": 46.5987884,
+    "lng": -112.0445324,
     "tags": [
       "food pantry",
       "walk-in"
@@ -169,25 +169,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-170948",
-    "name": "The Salvation Army - Helena Corps",
-    "category": "Food",
-    "description": "Food pantry location in Helena, Montana. Handicapped accessible facility.",
-    "address": "1905 Henderson St",
-    "city": "Helena",
-    "state": "MT",
-    "zip": "59601",
-    "phone": "",
-    "hours": "",
-    "lat": 46.6078894,
-    "lng": -112.05123,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-171208",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 46.597656,
     "lng": -112.019166,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170948",
+    "name": "The Salvation Army - Helena Corps",
+    "category": "Food",
+    "description": "Food pantry location in Helena, Montana. Handicapped accessible facility.",
+    "address": "1905 Henderson St",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "59601",
+    "phone": "",
+    "hours": "",
+    "lat": 46.6078894,
+    "lng": -112.05123,
     "tags": [
       "food pantry",
       "walk-in"

@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-174669",
-    "name": "Fellowship Missionary Baptist Church",
-    "category": "Food",
-    "description": "Fellowship Missionary Baptist Church location providing food pantry and neighborhood market services.",
-    "address": "2529 E. Belmont Ave.",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "93701",
-    "phone": "",
-    "hours": "",
-    "lat": 36.7506369,
-    "lng": -119.7809193,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-176101",
     "name": "Catholic Charities - Pantry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 36.747532834647,
     "lng": -119.794014338308,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179764",
+    "name": "Via Church",
+    "category": "Food",
+    "description": "Via Church food pantry location",
+    "address": "2120 Kern St",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93721",
+    "phone": "",
+    "hours": "",
+    "lat": 36.7339433,
+    "lng": -119.7872288,
     "tags": [
       "food pantry",
       "walk-in"

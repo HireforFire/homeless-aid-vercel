@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-214888",
-    "name": "Union Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location at Union Baptist Church",
-    "address": "1200 Trade Street Northwest",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "27101",
-    "phone": "",
-    "hours": "",
-    "lat": 36.1098466,
-    "lng": -80.247207,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-177577",
     "name": "The Dwelling",
     "category": "Food",
@@ -190,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-192957",
-    "name": "Union Baptist Church",
-    "category": "Food",
-    "description": "Union Baptist Church food pantry location",
-    "address": "1200 Trade St. NW.",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip": "27105",
-    "phone": "",
-    "hours": "",
-    "lat": 36.110533,
-    "lng": -80.2486848,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-197009",
     "name": "First Baptist of East Winston",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 36.10240599999999,
     "lng": -80.2336789,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197435",
+    "name": "Goler Institute for Development & Education",
+    "category": "Food",
+    "description": "Main location of Goler Institute for Development & Education",
+    "address": "630 N. Patterson Ave.",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27101",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1023645,
+    "lng": -80.2416284,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197700",
+    "name": "Catholic Charities Diocese",
+    "category": "Food",
+    "description": "Catholic Charities Diocese food assistance location in Winston-Salem",
+    "address": "627 W. 2nd St.",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27101",
+    "phone": "",
+    "hours": "",
+    "lat": 36.0956613,
+    "lng": -80.2506686,
     "tags": [
       "food pantry",
       "walk-in"

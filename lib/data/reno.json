@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-170724",
-    "name": "Mill Street Care Center",
-    "category": "Food",
-    "description": "SNAP assistance service location",
-    "address": "855 Mill Street",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89502",
-    "phone": "(775) 331-3663",
-    "hours": "",
-    "lat": 39.5258284,
-    "lng": -119.7992985,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-170824",
     "name": "First United Methodist Church",
     "category": "Food",
@@ -95,56 +76,18 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-130171",
-    "name": "Washoe County SD",
+    "id": "fa-170724",
+    "name": "Mill Street Care Center",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "425 EAST NINTH",
-    "city": "RENO",
-    "state": "NV",
-    "zip": "89431",
-    "phone": "(775) 348-0200",
-    "hours": "",
-    "lat": 39.536611,
-    "lng": -119.810925,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-171242",
-    "name": "Downtown Library School",
-    "category": "Food",
-    "description": "SNAP assistance and Kid's Cafe services location",
-    "address": "301 S Center Street",
-    "city": "Reno",
-    "state": "NV",
-    "zip": "89501",
-    "phone": "",
-    "hours": "",
-    "lat": 39.5226301,
-    "lng": -119.8105822,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-171300",
-    "name": "Renown Health Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location providing food distribution services.",
-    "address": "1095 E 2nd St",
+    "description": "SNAP assistance service location",
+    "address": "855 Mill Street",
     "city": "Reno",
     "state": "NV",
     "zip": "89502",
-    "phone": "",
+    "phone": "(775) 331-3663",
     "hours": "",
-    "lat": 39.5279287,
-    "lng": -119.7969703,
+    "lat": 39.5258284,
+    "lng": -119.7992985,
     "tags": [
       "food pantry",
       "walk-in"
@@ -190,18 +133,18 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-170665",
-    "name": "Children's Cabinet School",
+    "id": "fa-170738",
+    "name": "Evelyn Mount Northeast Community Center",
     "category": "Food",
-    "description": "Children's Cabinet School location providing meals and TEFAP services.",
-    "address": "777 Sinclair Street",
+    "description": "Community center location providing school break meal services for children.",
+    "address": "1301 Valley Road",
     "city": "Reno",
     "state": "NV",
-    "zip": "89501",
+    "zip": "89512",
     "phone": "",
     "hours": "",
-    "lat": 39.5187404,
-    "lng": -119.8071504,
+    "lat": 39.5414247,
+    "lng": -119.8083705,
     "tags": [
       "food pantry",
       "walk-in"
@@ -209,18 +152,75 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-170693",
-    "name": "Northern Nevada HOPES - Main Office",
+    "id": "fa-170939",
+    "name": "The Friar's Pantry at St. Thomas Aquinas Cathedral",
     "category": "Food",
-    "description": "Main office and distribution location for Northern Nevada HOPES food services",
-    "address": "580 W. 5th St",
+    "description": "Food pantry location at St. Thomas Aquinas Cathedral. Handicapped accessible. English speaking staff.",
+    "address": "310 W 2nd St.",
     "city": "Reno",
     "state": "NV",
     "zip": "89503",
     "phone": "",
     "hours": "",
-    "lat": 39.529318,
-    "lng": -119.8214944,
+    "lat": 39.5258238,
+    "lng": -119.8176764,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170998",
+    "name": "Reno-Sparks Gospel Mission",
+    "category": "Food",
+    "description": "Main location of Reno-Sparks Gospel Mission serving Washoe County residents.",
+    "address": "355 Record St.",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89512",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5302629,
+    "lng": -119.8092306,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171187",
+    "name": "Vintage at Citi Vista Apartments",
+    "category": "Food",
+    "description": "Food distribution location at Vintage at Citi Vista Apartments serving seniors 60 and older.",
+    "address": "650 Record St",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89512",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5340078,
+    "lng": -119.8094439,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171286",
+    "name": "Carriage Stone Senior Apartments",
+    "category": "Food",
+    "description": "Senior food distribution location at Carriage Stone Senior Apartments",
+    "address": "695 S. Center St.",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89501",
+    "phone": "",
+    "hours": "",
+    "lat": 39.5192721,
+    "lng": -119.8086984,
     "tags": [
       "food pantry",
       "walk-in"

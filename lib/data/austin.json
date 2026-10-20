@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-212890",
-    "name": "Austin Public Library- Backpack Program",
-    "category": "Food",
-    "description": "Austin Public Library location providing children's backpack program distribution.",
-    "address": "710 W. Cesar Chavez St.",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78701",
-    "phone": "",
-    "hours": "",
-    "lat": 30.2657085,
-    "lng": -97.7519092,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-13342",
     "name": "Caritas of Austin",
     "category": "Food",
@@ -191,20 +172,20 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-205642",
-    "name": "Our Lady of Guadalupe Catholic Church",
+    "id": "fa-206014",
+    "name": "Our Lady of Guadalupe",
     "category": "Food",
-    "description": "Food pantry distribution location at Our Lady of Guadalupe Catholic Church",
+    "description": "Food distribution site operated by Central Texas Food Bank network.",
     "address": "1206 E. 9th St.",
     "city": "Austin",
     "state": "TX",
     "zip": "78702",
     "phone": "",
     "hours": "",
-    "lat": 30.266776,
-    "lng": -97.7278793,
+    "lat": 30.26708,
+    "lng": -97.72762,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
@@ -222,6 +203,25 @@
     "hours": "",
     "lat": 30.2484012,
     "lng": -97.7750068,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-212890",
+    "name": "Austin Public Library- Backpack Program",
+    "category": "Food",
+    "description": "Austin Public Library location providing children's backpack program distribution.",
+    "address": "710 W. Cesar Chavez St.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "phone": "",
+    "hours": "",
+    "lat": 30.2657085,
+    "lng": -97.7519092,
     "tags": [
       "food pantry",
       "walk-in"

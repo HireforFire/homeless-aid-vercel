@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-174405",
+    "name": "Trinity Alliance Period Pantry",
+    "category": "Food",
+    "description": "Period pantry location providing access to period products 24/7",
+    "address": "47 Lark Street",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12210",
+    "phone": "(518) 463-1516",
+    "hours": "",
+    "lat": 42.66232376076172,
+    "lng": -73.75751081747714,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-220982",
     "name": "Food4Life",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 42.661783,
     "lng": -73.748213,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-188590",
-    "name": "St. Mary's Outreach Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location at St. Mary's Outreach. Please use Steuben St. entrance. Walk-in service with limited capacity inside the building.",
-    "address": "10 Lodge Street",
-    "city": "Albany",
-    "state": "NY",
-    "zip": "12207",
-    "phone": "",
-    "hours": "",
-    "lat": 42.651857,
-    "lng": -73.752801,
     "tags": [
       "food pantry",
       "walk-in"

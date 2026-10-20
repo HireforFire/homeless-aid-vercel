@@ -38,25 +38,6 @@
     "lastUpdated": "2025-01-01"
   },
   {
-    "id": "fa-172846",
-    "name": "St. Vincent de Paul St. Joseph",
-    "category": "Food",
-    "description": "Food pantry distribution location in Columbia, South Carolina.",
-    "address": "3600 Devine St.",
-    "city": "Columbia",
-    "state": "SC",
-    "zip": "29205",
-    "phone": "(803) 799-0761",
-    "hours": "",
-    "lat": 33.9965243,
-    "lng": -80.9889091,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-177775",
     "name": "Elmwood Church of God",
     "category": "Food",
@@ -69,25 +50,6 @@
     "hours": "",
     "lat": 34.015079128563,
     "lng": -81.034576092397,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-179224",
-    "name": "Christ Central Concessions of HOPE - Hope Plaza",
-    "category": "Food",
-    "description": "Christ Central Concessions of HOPE food distribution location at Hope Plaza in Columbia, South Carolina.",
-    "address": "2018B Main St.",
-    "city": "Columbia",
-    "state": "SC",
-    "zip": "29201",
-    "phone": "",
-    "hours": "",
-    "lat": 34.0127585,
-    "lng": -81.0378133,
     "tags": [
       "food pantry",
       "walk-in"
@@ -126,6 +88,44 @@
     "hours": "",
     "lat": 34.0088195,
     "lng": -81.0421057,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172846",
+    "name": "St. Vincent de Paul St. Joseph",
+    "category": "Food",
+    "description": "Food pantry distribution location in Columbia, South Carolina.",
+    "address": "3600 Devine St.",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29205",
+    "phone": "(803) 799-0761",
+    "hours": "",
+    "lat": 33.9965243,
+    "lng": -80.9889091,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179224",
+    "name": "Christ Central Concessions of HOPE - Hope Plaza",
+    "category": "Food",
+    "description": "Christ Central Concessions of HOPE food distribution location at Hope Plaza in Columbia, South Carolina.",
+    "address": "2018B Main St.",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "phone": "",
+    "hours": "",
+    "lat": 34.0127585,
+    "lng": -81.0378133,
     "tags": [
       "food pantry",
       "walk-in"

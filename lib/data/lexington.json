@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-175185",
-    "name": "Ballard/Griffith Towers CSFP",
-    "category": "Food",
-    "description": "Senior food distribution location at Ballard/Griffith Towers for eligible residents.",
-    "address": "650 Tower Plaza",
-    "city": "Lexington",
-    "state": "KY",
-    "zip": "40508",
-    "phone": "(859) 281-5048",
-    "hours": "",
-    "lat": 38.0542347,
-    "lng": -84.5019266,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-216491",
     "name": "The Salvation Army - 722736W Main Street Corps",
     "category": "Food",
@@ -57,18 +38,18 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-206685",
-    "name": "Central Church Apartments CSFP",
+    "id": "fa-175185",
+    "name": "Ballard/Griffith Towers CSFP",
     "category": "Food",
-    "description": "Senior food distribution site serving Central Church apartment residents only.",
-    "address": "249 East Short Street",
+    "description": "Senior food distribution location at Ballard/Griffith Towers for eligible residents.",
+    "address": "650 Tower Plaza",
     "city": "Lexington",
     "state": "KY",
-    "zip": "40507",
-    "phone": "",
+    "zip": "40508",
+    "phone": "(859) 281-5048",
     "hours": "",
-    "lat": 38.0446384,
-    "lng": -84.493007,
+    "lat": 38.0542347,
+    "lng": -84.5019266,
     "tags": [
       "food pantry",
       "walk-in"
@@ -90,25 +71,6 @@
     "lng": -84.5056692,
     "tags": [
       "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-212812",
-    "name": "Second Presbyterian Church",
-    "category": "Food",
-    "description": "Second Presbyterian Church meal delivery service location.",
-    "address": "460 East Main Street",
-    "city": "Lexington",
-    "state": "KY",
-    "zip": "40507",
-    "phone": "",
-    "hours": "",
-    "lat": 38.0397463,
-    "lng": -84.49063,
-    "tags": [
-      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 38.0350113,
     "lng": -84.48680139999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-214064",
+    "name": "Rose Tower Apartments CSFP",
+    "category": "Food",
+    "description": "Senior food program distribution location at Rose Tower Apartments. Only residents of Rose Tower Apartments can pick up food at this location.",
+    "address": "137 Rose St.",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0424526,
+    "lng": -84.494073,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-206685",
+    "name": "Central Church Apartments CSFP",
+    "category": "Food",
+    "description": "Senior food distribution site serving Central Church apartment residents only.",
+    "address": "249 East Short Street",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507",
+    "phone": "",
+    "hours": "",
+    "lat": 38.0446384,
+    "lng": -84.493007,
     "tags": [
       "food pantry",
       "walk-in"

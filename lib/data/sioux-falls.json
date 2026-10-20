@@ -76,25 +76,6 @@
     "lastUpdated": "2026-03-29"
   },
   {
-    "id": "fa-176620",
-    "name": "Feeding SD at First United Methodist Church",
-    "category": "Food",
-    "description": "Mobile food distribution location at First United Methodist Church in Sioux Falls.",
-    "address": "401 S Spring",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57104",
-    "phone": "",
-    "hours": "",
-    "lat": 43.543175125282,
-    "lng": -96.733443372293,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-177726",
     "name": "Axtell Park Middle School",
     "category": "Food",
@@ -107,25 +88,6 @@
     "hours": "",
     "lat": 43.548623488074,
     "lng": -96.747309387078,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-178191",
-    "name": "Hawthorne Elementary",
-    "category": "Food",
-    "description": "Hawthorne Elementary School location providing BackPack Program services.",
-    "address": "601 N Spring Ave",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip": "57104",
-    "phone": "",
-    "hours": "",
-    "lat": 43.553557202012,
-    "lng": -96.733290486379,
     "tags": [
       "food pantry",
       "walk-in"
@@ -202,6 +164,44 @@
     "hours": "",
     "lat": 43.5469206,
     "lng": -96.702456,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176620",
+    "name": "Feeding SD at First United Methodist Church",
+    "category": "Food",
+    "description": "Mobile food distribution location at First United Methodist Church in Sioux Falls.",
+    "address": "401 S Spring",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "",
+    "hours": "",
+    "lat": 43.543175125282,
+    "lng": -96.733443372293,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-178191",
+    "name": "Hawthorne Elementary",
+    "category": "Food",
+    "description": "Hawthorne Elementary School location providing BackPack Program services.",
+    "address": "601 N Spring Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104",
+    "phone": "",
+    "hours": "",
+    "lat": 43.553557202012,
+    "lng": -96.733290486379,
     "tags": [
       "food pantry",
       "walk-in"

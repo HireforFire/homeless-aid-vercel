@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172303",
-    "name": "St. Peter's Food Pantry, St. Vincent De Paul (SVDP)",
-    "category": "Food",
-    "description": "St. Vincent De Paul Society food pantry location",
-    "address": "709 S. 28th St.",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68105",
-    "phone": "(402) 350-0888",
-    "hours": "",
-    "lat": 41.2530023,
-    "lng": -95.9529024,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-224949",
     "name": "Youth Street Outreach",
     "category": "Food",
@@ -57,18 +38,18 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-179113",
-    "name": "Kountze Memorial Lutheran Church Food Pantry",
+    "id": "fa-172303",
+    "name": "St. Peter's Food Pantry, St. Vincent De Paul (SVDP)",
     "category": "Food",
-    "description": "Food pantry location at Kountze Memorial Lutheran Church",
-    "address": "2665 Douglas St",
+    "description": "St. Vincent De Paul Society food pantry location",
+    "address": "709 S. 28th St.",
     "city": "Omaha",
     "state": "NE",
-    "zip": "68131",
-    "phone": "",
+    "zip": "68105",
+    "phone": "(402) 350-0888",
     "hours": "",
-    "lat": 41.2584315,
-    "lng": -95.9510832,
+    "lat": 41.2530023,
+    "lng": -95.9529024,
     "tags": [
       "food pantry",
       "walk-in"
@@ -95,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-189502",
-    "name": "Together, Inc (Omaha Location)",
-    "category": "Food",
-    "description": "Food pantry location in Omaha providing food assistance services.",
-    "address": "812 S 24th St",
-    "city": "Omaha",
-    "state": "NE",
-    "zip": "68108",
-    "phone": "",
-    "hours": "",
-    "lat": 41.2518436,
-    "lng": -95.9473286,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-194791",
     "name": "Siena Francis House",
     "category": "Food",
@@ -126,6 +88,25 @@
     "hours": "",
     "lat": 41.270245,
     "lng": -95.938784,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-207525",
+    "name": "Kountze Memorial Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Douglas Street in Omaha",
+    "address": "2665 Douglas St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68131",
+    "phone": "",
+    "hours": "",
+    "lat": 41.258635,
+    "lng": -95.951478,
     "tags": [
       "food pantry",
       "walk-in"
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-226209",
+    "name": "Nebraska Diaper Bank",
+    "category": "Food",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Omaha, NE",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68101",
+    "phone": "",
+    "hours": "",
+    "lat": 41.26219,
+    "lng": -95.93133,
+    "tags": [
+      "diaper bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fallback-omaha-shelter",

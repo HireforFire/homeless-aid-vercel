@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-128137",
-    "name": "Birmingham City Board of Education",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2015 PARK PLACE",
-    "city": "BIRMINGHAM",
-    "state": "AL",
-    "zip": "35022",
-    "phone": "(205) 231-4220",
-    "hours": "",
-    "lat": 33.520105,
-    "lng": -86.80909,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-1107",
     "name": "Bread of Life Food Pantry",
     "category": "Food",
@@ -171,25 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-211499",
-    "name": "Greater Birmingham Ministries Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location serving the Birmingham area.",
-    "address": "2304 12th Ave. N.",
-    "city": "Birmingham",
-    "state": "AL",
-    "zip": "35234",
-    "phone": "",
-    "hours": "",
-    "lat": 33.5294097,
-    "lng": -86.8098083,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-226157",
     "name": "Bundles of Hope Diaper Bank",
     "category": "Food",
@@ -209,20 +171,58 @@
     "lastUpdated": "2026-05-10"
   },
   {
-    "id": "fa-172347",
-    "name": "South Highland Presbyterian Church",
+    "id": "fa-172376",
+    "name": "Grace Klein Community - Jefferson County Family Court House",
     "category": "Food",
-    "description": "Food pantry location at South Highland Presbyterian Church",
-    "address": "2035 Highland Ave.",
+    "description": "Mobile food pantry distribution location at Jefferson County Family Court House",
+    "address": "120 2nd Ct. N.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35204",
+    "phone": "(205) 490-7516",
+    "hours": "",
+    "lat": 33.5049423,
+    "lng": -86.8339309,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173863",
+    "name": "St. Andrew's Episcopal Church",
+    "category": "Food",
+    "description": "St. Andy's Pantry food distribution location",
+    "address": "1024 12th Street South",
     "city": "Birmingham",
     "state": "AL",
     "zip": "35205",
-    "phone": "(205) 933-0790",
+    "phone": "(205) 639-9652",
     "hours": "",
-    "lat": 33.4993448,
-    "lng": -86.7943734,
+    "lat": 33.49555,
+    "lng": -86.80812,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-174336",
+    "name": "Community Kitchens at Eleventh Avenue COGIC",
+    "category": "Food",
+    "description": "Soup kitchen location at Eleventh Avenue COGIC in Birmingham, Alabama.",
+    "address": "4408 10th Ave. N.",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35212",
+    "phone": "(205) 251-3569",
+    "hours": "",
+    "lat": 33.5424554,
+    "lng": -86.770757,
+    "tags": [
+      "soup kitchen",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-128744",
-    "name": "Stockton Unified School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "701 NORTH MADISON ST",
-    "city": "STOCKTON",
-    "state": "CA",
-    "zip": "95205",
-    "phone": "(209) 933-7000",
-    "hours": "",
-    "lat": 37.959024,
-    "lng": -121.296758,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-179297",
     "name": "First Presbyterian Church",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-2543",
+    "name": "Wings of Healing Christian Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "840 E. Main St.",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "(209) 948-5564",
+    "hours": "",
+    "lat": 37.95968,
+    "lng": -121.28772,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-stockton-shelter",

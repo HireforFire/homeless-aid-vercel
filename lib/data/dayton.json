@@ -38,63 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-130542",
-    "name": "City Day Community School",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "318 SOUTH MAIN ST",
-    "city": "DAYTON",
-    "state": "OH",
-    "zip": "45402",
-    "phone": "(937) 223-8130",
-    "hours": "",
-    "lat": 39.754859,
-    "lng": -84.18984,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-130557",
-    "name": "DAYTON CITY SD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "115 SOUTH LUDLOW ST",
-    "city": "DAYTON",
-    "state": "OH",
-    "zip": "45402",
-    "phone": "(937) 542-3000",
-    "hours": "",
-    "lat": 39.757659,
-    "lng": -84.19314,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-130558",
-    "name": "Dayton SMART Elementary School",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "601 SOUTH KEOWEE ST",
-    "city": "DAYTON",
-    "state": "OH",
-    "zip": "45410",
-    "phone": "(937) 546-2636",
-    "hours": "",
-    "lat": 39.753359,
-    "lng": -84.17724,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-185732",
     "name": "Expressions of Life, Inc.",
     "category": "Food",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 39.7606136,
     "lng": -84.1877711,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197793",
+    "name": "St. John's Lutheran Church",
+    "category": "Food",
+    "description": "Food pantry location at St. John's Lutheran Church in Dayton, Ohio.",
+    "address": "141 S Ludlow St",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45402",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7566755,
+    "lng": -84.1933182,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198583",
+    "name": "Dayton YWCA",
+    "category": "Food",
+    "description": "Dayton YWCA location at 141 E 3rd St",
+    "address": "141 E 3rd St",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45402",
+    "phone": "",
+    "hours": "",
+    "lat": 39.7603075,
+    "lng": -84.1886664,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172941",
+    "name": "Evangel Church of God",
+    "category": "Food",
+    "description": "Food pantry location at Evangel Church of God",
+    "address": "132 N. Smithville Rd.",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45403",
+    "phone": "(937) 253-8342",
+    "hours": "",
+    "lat": 39.7687467,
+    "lng": -84.1372872,
     "tags": [
       "food pantry",
       "walk-in"

@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-128589",
-    "name": "Los Angeles Unified School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "333 SOUTH BEAUDRY AVE",
-    "city": "LOS ANGELES",
-    "state": "CA",
-    "zip": "90017",
-    "phone": "(213) 241-1000",
-    "hours": "",
-    "lat": 34.056312,
-    "lng": -118.258308,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-169813",
     "name": "Journey of Love",
     "category": "Food",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "id": "fa-613",
+    "name": "Midnight Mission LA",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "601 S San Pedro Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90014",
+    "phone": "(213) 624-9258",
+    "hours": "",
+    "lat": 34.0411,
+    "lng": -118.2461,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-los-angeles-shelter",

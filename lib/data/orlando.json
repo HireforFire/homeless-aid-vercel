@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-185541",
-    "name": "The Salvation Army - Orlando",
-    "category": "Food",
-    "description": "Food pantry location in Orlando serving Orange County residents.",
-    "address": "400 W. Colonial Dr.",
-    "city": "Orlando",
-    "state": "FL",
-    "zip": "32804",
-    "phone": "",
-    "hours": "",
-    "lat": 28.5527631,
-    "lng": -81.384405,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-186138",
     "name": "Coalition for the Homeless of Central Florida - Main Location",
     "category": "Food",
@@ -145,25 +126,6 @@
     "hours": "",
     "lat": 28.538018,
     "lng": -81.38773,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-181283",
-    "name": "Shiloh Baptist Church of Orlando",
-    "category": "Food",
-    "description": "Food distribution location at Shiloh Baptist Church of Orlando",
-    "address": "604 W. Jackson St.",
-    "city": "Orlando",
-    "state": "FL",
-    "zip": "32805",
-    "phone": "",
-    "hours": "",
-    "lat": 28.5390071,
-    "lng": -81.3872395,
     "tags": [
       "food pantry",
       "walk-in"
@@ -209,6 +171,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-185541",
+    "name": "The Salvation Army - Orlando",
+    "category": "Food",
+    "description": "Food pantry location in Orlando serving Orange County residents.",
+    "address": "400 W. Colonial Dr.",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32804",
+    "phone": "",
+    "hours": "",
+    "lat": 28.5527631,
+    "lng": -81.384405,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-279",
     "name": "Coalition for the Homeless",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 28.5533,
     "lng": -81.3833,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
+    "id": "fa-281",
+    "name": "Bread of Life Community Kitchen",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "2020 S Rio Grande Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805",
+    "phone": "(407) 839-0404",
+    "hours": "",
+    "lat": 28.5283,
+    "lng": -81.3933,
     "tags": [
       "soup kitchen",
       "walk-in"

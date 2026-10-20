@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-210240",
-    "name": "Franciscan Kitchen",
-    "category": "Food",
-    "description": "Franciscan Kitchen lunch program location",
-    "address": "748 S. Prestion St.",
-    "city": "Louisville",
-    "state": "KY",
-    "zip": "40203",
-    "phone": "",
-    "hours": "",
-    "lat": 38.243301,
-    "lng": -85.7481781,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-5743",
     "name": "Dare To Care Food Bank at First Lutheran Church",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 38.2338758,
     "lng": -85.7498007,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210240",
+    "name": "Franciscan Kitchen",
+    "category": "Food",
+    "description": "Franciscan Kitchen lunch program location",
+    "address": "748 S. Prestion St.",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "phone": "",
+    "hours": "",
+    "lat": 38.243301,
+    "lng": -85.7481781,
     "tags": [
       "food pantry",
       "walk-in"

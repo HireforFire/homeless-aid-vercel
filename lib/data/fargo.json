@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-191907",
-    "name": "McMerty Food Pantry",
-    "category": "Food",
-    "description": "Main food pantry location in Fargo, ND. Serves Cass County residents and surrounding areas.",
-    "address": "630 7th St. N",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "58102",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8829958,
-    "lng": -96.7898787,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-191930",
     "name": "Myrt Armstrong Recover Center",
     "category": "Food",
@@ -69,25 +50,6 @@
     "hours": "",
     "lat": 46.8743867,
     "lng": -96.8024237,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-201513",
-    "name": "Peace Lutheran Church Food Pantry",
-    "category": "Food",
-    "description": "Food pantry located at Peace Lutheran Church",
-    "address": "1001 12th Ave. N",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "58102",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8903724,
-    "lng": -96.793773,
     "tags": [
       "food pantry",
       "walk-in"
@@ -171,6 +133,63 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-191907",
+    "name": "McMerty Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location in Fargo, ND. Serves Cass County residents and surrounding areas.",
+    "address": "630 7th St. N",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8829958,
+    "lng": -96.7898787,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201513",
+    "name": "Peace Lutheran Church Food Pantry",
+    "category": "Food",
+    "description": "Food pantry located at Peace Lutheran Church",
+    "address": "1001 12th Ave. N",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8903724,
+    "lng": -96.793773,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-909",
+    "name": "Great Plains Food Bank",
+    "category": "Food",
+    "description": "Serves North Dakota and Clay County MN",
+    "address": "1720 3rd Avenue North",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "(701) 232-6219",
+    "hours": "",
+    "lat": 46.8917,
+    "lng": -96.7817,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-221786",
     "name": "Madison Resource Center/FHRA",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 46.8587532,
     "lng": -96.8094406,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225139",
-    "name": "Tri City Haitian minstry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "730 27 street N",
-    "city": "Fargoi",
-    "state": "ND",
-    "zip": "58102",
-    "phone": "(701) 540-1383",
-    "hours": "",
-    "lat": 46.8844566,
-    "lng": -96.8225327,
     "tags": [
       "food pantry",
       "walk-in"

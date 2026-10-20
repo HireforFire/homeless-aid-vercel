@@ -133,6 +133,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-439299",
+    "name": "Rucker Rest Holdings LLC dba Jack in The Box 138",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "141 N Arizona Ave",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85224",
+    "phone": "",
+    "hours": "",
+    "lat": 33.30539,
+    "lng": -111.8411,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-440290",
+    "name": "McDONALD'S   11552",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "990 N. ARIZONA  AVENUE",
+    "city": "CHANDLER",
+    "state": "AZ",
+    "zip": "85224",
+    "phone": "",
+    "hours": "",
+    "lat": 33.32016,
+    "lng": -111.8424,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
     "id": "fa-222662",
     "name": "cornerstone",
     "category": "Food",
@@ -171,61 +209,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-128286",
-    "name": "Ball Charter Schools (Dobson)",
+    "id": "fa-2011",
+    "name": "Buddhist Tzu Chi Foundation",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2207 NORTH DOBSON RD",
-    "city": "CHANDLER",
+    "description": "proof of address, referral",
+    "address": "2145 W. Elliot Rd.",
+    "city": "Chandler",
     "state": "AZ",
     "zip": "85224",
-    "phone": "(480) 855-6325",
+    "phone": "(480) 838-6556",
     "hours": "",
-    "lat": 33.339248,
-    "lng": -111.876296,
+    "lat": 33.32351,
+    "lng": -111.87616,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-439299",
-    "name": "Rucker Rest Holdings LLC dba Jack in The Box 138",
-    "category": "Food",
-    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
-    "address": "141 N Arizona Ave",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85224",
-    "phone": "",
-    "hours": "",
-    "lat": 33.30539,
-    "lng": -111.8411,
-    "tags": [
-      "rmp restaurant",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
-  },
-  {
-    "id": "fa-440290",
-    "name": "McDONALD'S   11552",
-    "category": "Food",
-    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
-    "address": "990 N. ARIZONA  AVENUE",
-    "city": "CHANDLER",
-    "state": "AZ",
-    "zip": "85224",
-    "phone": "",
-    "hours": "",
-    "lat": 33.32016,
-    "lng": -111.8424,
-    "tags": [
-      "rmp restaurant",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-chandler-shelter",

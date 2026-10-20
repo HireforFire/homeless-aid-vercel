@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-3879",
-    "name": "Salvation Army Adult Rehab Ctr",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2236 NW Miami Ct",
-    "city": "Miami",
-    "state": "FL",
-    "zip": "",
-    "phone": "(513) 248-0033",
-    "hours": "",
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-18"
-  },
-  {
     "id": "fa-3882",
     "name": "Miami Peniel Church Nazarene",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 25.78703,
     "lng": -80.20444,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-3880",
+    "name": "Christ Fellowship - Downtown",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "500 NE 1 Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33132",
+    "phone": "(305) 238-1818",
+    "hours": "",
+    "lat": 25.77719,
+    "lng": -80.17395,
     "tags": [
       "food pantry",
       "walk-in"

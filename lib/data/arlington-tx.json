@@ -38,25 +38,6 @@
     "lastUpdated": "2025-12-02"
   },
   {
-    "id": "fa-205871",
-    "name": "The Salvation Army - Arlington",
-    "category": "Food",
-    "description": "Food pantry location in Arlington providing emergency food assistance.",
-    "address": "712 W. Abram St.",
-    "city": "Arlington",
-    "state": "TX",
-    "zip": "76013",
-    "phone": "",
-    "hours": "",
-    "lat": 32.735033,
-    "lng": -97.1155491,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-182765",
     "name": "Peer2Peer Whole Wellness - Fort Worth",
     "category": "Food",
@@ -204,6 +185,25 @@
     "lng": -97.1178101,
     "tags": [
       "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205871",
+    "name": "The Salvation Army - Arlington",
+    "category": "Food",
+    "description": "Food pantry location in Arlington providing emergency food assistance.",
+    "address": "712 W. Abram St.",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76013",
+    "phone": "",
+    "hours": "",
+    "lat": 32.735033,
+    "lng": -97.1155491,
+    "tags": [
+      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

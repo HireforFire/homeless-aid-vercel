@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-172035",
-    "name": "Holy Family Soup Kitchen - Main Location",
-    "category": "Food",
-    "description": "Temporarily located at 588 W. Scott St., Columbus, Ohio. Provides to-go meal distribution.",
-    "address": "588 Scott Street",
-    "city": "Franklinton",
-    "state": "OH",
-    "zip": "43215",
-    "phone": "(614) 221-4323",
-    "hours": "",
-    "lat": 39.9618141,
-    "lng": -83.0167173,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-220473",
     "name": "YWCA Pantry",
     "category": "Food",
@@ -76,6 +57,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-172035",
+    "name": "Holy Family Soup Kitchen - Main Location",
+    "category": "Food",
+    "description": "Temporarily located at 588 W. Scott St., Columbus, Ohio. Provides to-go meal distribution.",
+    "address": "588 Scott Street",
+    "city": "Franklinton",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "(614) 221-4323",
+    "hours": "",
+    "lat": 39.9618141,
+    "lng": -83.0167173,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-190995",
     "name": "Pantry",
     "category": "Food",
@@ -88,25 +88,6 @@
     "hours": "",
     "lat": 39.96062234,
     "lng": -83.01438026,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-191054",
-    "name": "Student Pantry at CSCC",
-    "category": "Food",
-    "description": "Student food pantry location at Columbus State Community College",
-    "address": "400 GROVE ST",
-    "city": "COLUMBUS",
-    "state": "OH",
-    "zip": "43215",
-    "phone": "",
-    "hours": "",
-    "lat": 39.9704974,
-    "lng": -82.9912394,
     "tags": [
       "food pantry",
       "walk-in"
@@ -171,44 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-210354",
-    "name": "Community Meal Service Location",
-    "category": "Food",
-    "description": "Location where community meals are served.",
-    "address": "428 E MAIN ST",
-    "city": "COLUMBUS",
-    "state": "OH",
-    "zip": "43215",
-    "phone": "",
-    "hours": "",
-    "lat": 39.9580166,
-    "lng": -82.9879731,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-182528",
-    "name": "OH Association of Second Harvest Foodbanks - Main Office",
-    "category": "Food",
-    "description": "Main office location. No food distribution at this location.",
-    "address": "51 North High Street",
-    "city": "Uptown District",
-    "state": "OH",
-    "zip": "43215",
-    "phone": "",
-    "hours": "",
-    "lat": 39.9633772,
-    "lng": -83.00113580000001,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-190902",
     "name": "Jeff Ruby's Steakhouse, Columbus",
     "category": "Food",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 39.9687266,
     "lng": -82.9994159,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193615",
+    "name": "Central Presbyterian Church",
+    "category": "Food",
+    "description": "Central Presbyterian Church food distribution location",
+    "address": "132 South 3rd Street",
+    "city": "Uptown District",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "",
+    "lat": 39.95972099999999,
+    "lng": -82.99693640000001,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-194394",
+    "name": "Willowbeez Soulveg",
+    "category": "Food",
+    "description": "Willowbeez Soulveg location at 59 Spruce Street in Short North Arts District",
+    "address": "59 Spruce Street",
+    "city": "Short North Arts District",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "",
+    "lat": 39.9718576,
+    "lng": -83.0043273,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197113",
+    "name": "ALP Foundation - Near East Side",
+    "category": "Food",
+    "description": "ALP Foundation main office location",
+    "address": "700 Bryden Road",
+    "city": "Near East Side",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "hours": "",
+    "lat": 39.960921,
+    "lng": -82.981118,
     "tags": [
       "food pantry",
       "walk-in"

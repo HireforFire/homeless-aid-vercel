@@ -152,25 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-187339",
-    "name": "Episcopal Church of the Holy Communion Community Outreach",
-    "category": "Food",
-    "description": "Community outreach location providing food assistance.",
-    "address": "218 Ashley Ave.",
-    "city": "Charleston",
-    "state": "SC",
-    "zip": "29403",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7889828,
-    "lng": -79.9478194,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-188239",
     "name": "Calvary Baptist Church",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 32.805313,
     "lng": -79.9512279,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-211056",
+    "name": "Line Street Church of God",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "192 Line St.",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29403",
+    "phone": "",
+    "hours": "",
+    "lat": 32.7920564,
+    "lng": -79.950921,
     "tags": [
       "food pantry",
       "walk-in"

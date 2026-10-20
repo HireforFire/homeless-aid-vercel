@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173379",
-    "name": "Mobile Harvest - Heal the City",
-    "category": "Food",
-    "description": "Mobile Food Pantry distribution location in Amarillo.",
-    "address": "609 S Carolina St.",
-    "city": "Amarillo",
-    "state": "TX",
-    "zip": "79106",
-    "phone": "(806) 231-0364",
-    "hours": "",
-    "lat": 35.2106185,
-    "lng": -101.8742852,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-173602",
     "name": "CSFP High Plains Food Bank",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 35.1870871,
     "lng": -101.81718,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173859",
+    "name": "Amarillo SDA",
+    "category": "Food",
+    "description": "Amarillo SDA food distribution location affiliated with High Plains Food Bank",
+    "address": "405 S Western",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "(806) 418-2541",
+    "hours": "",
+    "lat": 35.2115947,
+    "lng": -101.8832018,
     "tags": [
       "food bank",
       "walk-in"

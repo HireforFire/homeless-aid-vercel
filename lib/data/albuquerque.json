@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-130145",
-    "name": "MEDIA ARTS COLLABORATIVE CHARTER SCHOOL",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "4401 CENTRAL AVE N.E.",
-    "city": "ALBUQUERQUE",
-    "state": "NM",
-    "zip": "87108",
-    "phone": "(505) 243-1957",
-    "hours": "",
-    "lat": 35.078847,
-    "lng": -106.59528,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-204189",
     "name": "Campus Lobo Food Pantry - Advisement and Enrichment Center",
     "category": "Food",
@@ -152,6 +133,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-202032",
+    "name": "Jefferson Middle School",
+    "category": "Food",
+    "description": "Jefferson Middle School is located on the corner of Lomas and Girard. The mobile food bank drive is just north of the front parking lot on Girard, leading to the back parking lot. Services include indoor food distribution with lifting/carrying assistance available.",
+    "address": "712 Girard Blvd NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87106",
+    "phone": "",
+    "hours": "",
+    "lat": 35.0879061,
+    "lng": -106.6119152,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-201251",
     "name": "Jefferson Middle School",
     "category": "Food",
@@ -164,25 +164,6 @@
     "hours": "",
     "lat": 35.088264,
     "lng": -106.6116375,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-174722",
-    "name": "The Cathedral of St. John",
-    "category": "Food",
-    "description": "Food pantry location serving Southwest Albuquerque residents. Handicapped accessible.",
-    "address": "318 Silver Ave. SW",
-    "city": "Albuquerque",
-    "state": "NM",
-    "zip": "87102",
-    "phone": "505-247-1581 ext. 101",
-    "hours": "",
-    "lat": 35.0822185,
-    "lng": -106.6518349,
     "tags": [
       "food pantry",
       "walk-in"
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 35.08116,
     "lng": -106.64636,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-219252",
+    "name": "La Mesa PTA",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "7500 Copper NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87108",
+    "phone": "(505) 363-5010",
+    "hours": "",
+    "lat": 35.0795364,
+    "lng": -106.5625305,
     "tags": [
       "food pantry",
       "walk-in"

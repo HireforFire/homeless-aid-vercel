@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-170420",
-    "name": "The Manna Closet Ministry - Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location in Casper",
-    "address": "2020 S Jefferson St",
-    "city": "Casper",
-    "state": "WY",
-    "zip": "82601",
-    "phone": "(307) 234-9601",
-    "hours": "",
-    "lat": 42.828964,
-    "lng": -106.31386719999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-171406",
     "name": "Wyoming Rescue Mission - Casper",
     "category": "Food",
@@ -164,6 +145,25 @@
     "hours": "",
     "lat": 42.8410412,
     "lng": -106.3283987,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170420",
+    "name": "The Manna Closet Ministry - Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location in Casper",
+    "address": "2020 S Jefferson St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "(307) 234-9601",
+    "hours": "",
+    "lat": 42.828964,
+    "lng": -106.31386719999999,
     "tags": [
       "food pantry",
       "walk-in"

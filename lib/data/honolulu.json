@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-203655",
-    "name": "The Institute for Human Services, Inc. - Honolulu",
-    "category": "Food",
-    "description": "Main location for The Institute for Human Services, Inc. meal program services",
-    "address": "916 Kaamahu Pl #A",
-    "city": "Honolulu",
-    "state": "HI",
-    "zip": "96817",
-    "phone": "",
-    "hours": "",
-    "lat": 21.3178567229274,
-    "lng": -157.865647561381,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-175683",
     "name": "Hawaii Health & Harm Reduction Center @ Kakaako (Walk Up)",
     "category": "Food",
@@ -88,6 +69,25 @@
     "hours": "",
     "lat": 21.311744074948,
     "lng": -157.856616442025,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203655",
+    "name": "The Institute for Human Services, Inc. - Honolulu",
+    "category": "Food",
+    "description": "Main location for The Institute for Human Services, Inc. meal program services",
+    "address": "916 Kaamahu Pl #A",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96817",
+    "phone": "",
+    "hours": "",
+    "lat": 21.3178567229274,
+    "lng": -157.865647561381,
     "tags": [
       "food pantry",
       "walk-in"
@@ -209,18 +209,18 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-176064",
-    "name": "Hawaiian Humane Society - Distribution Center",
+    "id": "fa-175811",
+    "name": "Honolulu Fil-am S.D.A Church",
     "category": "Food",
-    "description": "Pet food distribution location",
-    "address": "2700 Waialae Ave.",
+    "description": "Food pantry distribution location",
+    "address": "2232 Kanealii Ave.",
     "city": "Honolulu",
     "state": "HI",
-    "zip": "96826",
+    "zip": "96813",
     "phone": "",
     "hours": "",
-    "lat": 21.290471391422,
-    "lng": -157.818255404857,
+    "lat": 21.320636016932,
+    "lng": -157.845584600161,
     "tags": [
       "food pantry",
       "walk-in"

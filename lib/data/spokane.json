@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-131309",
-    "name": "Spokane School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "200 NORTH BERNARD ST",
-    "city": "SPOKANE",
-    "state": "WA",
-    "zip": "99201",
-    "phone": "(509) 354-5900",
-    "hours": "",
-    "lat": 47.659292,
-    "lng": -117.416646,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-192501",
     "name": "City Gate Fellowship",
     "category": "Food",
@@ -152,6 +133,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-722",
+    "name": "Second Harvest Inland NW",
+    "category": "Food",
+    "description": "Eastern WA",
+    "address": "1234 E Front Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "(509) 534-6678",
+    "hours": "",
+    "lat": 47.6514,
+    "lng": -117.3914,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-963",
+    "name": "Second Harvest Inland Northwest",
+    "category": "Food",
+    "description": "Serves Eastern WA and North Idaho",
+    "address": "1234 East Front Avenue",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "(509) 534-6678",
+    "hours": "",
+    "lat": 47.6617,
+    "lng": -117.3917,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-217856",
     "name": "The Salvation Army - N Division St",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-722",
-    "name": "Second Harvest Inland NW",
-    "category": "Food",
-    "description": "Eastern WA",
-    "address": "1234 E Front Ave",
-    "city": "Spokane",
-    "state": "WA",
-    "zip": "99202",
-    "phone": "(509) 534-6678",
-    "hours": "",
-    "lat": 47.6514,
-    "lng": -117.3914,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fallback-spokane-shelter",

@@ -133,6 +133,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-210970",
+    "name": "Idaho Hunger Action Council - Food Distribution Center",
+    "category": "Food",
+    "description": "Main food distribution center location in Boise.",
+    "address": "1311 W Jefferson St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702",
+    "phone": "",
+    "hours": "",
+    "lat": 43.6209376,
+    "lng": -116.20782919999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-179322",
     "name": "Boise Rescue Mission River of Life - Food Distribution Center",
     "category": "Food",
@@ -152,23 +171,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-210970",
-    "name": "Idaho Hunger Action Council - Food Distribution Center",
+    "id": "fa-980",
+    "name": "Idaho Foodbank",
     "category": "Food",
-    "description": "Main food distribution center location in Boise.",
-    "address": "1311 W Jefferson St",
+    "description": "Serves all of Idaho",
+    "address": "3562 South TK Avenue",
     "city": "Boise",
     "state": "ID",
-    "zip": "83702",
-    "phone": "",
+    "zip": "83705",
+    "phone": "(208) 336-9643",
     "hours": "",
-    "lat": 43.6209376,
-    "lng": -116.20782919999999,
+    "lat": 43.5817,
+    "lng": -116.2117,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fa-219133",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 43.6197586,
     "lng": -116.2353668,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219173",
-    "name": "Community Support Center Advocates",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "716 N Orchard",
-    "city": "Boise",
-    "state": "ID",
-    "zip": "83706",
-    "phone": "(208) 429-0330",
-    "hours": "",
-    "lat": 43.6113052,
-    "lng": -116.2430649,
     "tags": [
       "food pantry",
       "walk-in"

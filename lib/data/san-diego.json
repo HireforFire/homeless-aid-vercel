@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-225706",
-    "name": "ethridge center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1053 10th ave.",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "",
-    "hours": "",
-    "lat": 32.7164192,
-    "lng": -117.1553192,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-172424",
     "name": "Masjidul Taqwa",
     "category": "Food",
@@ -223,6 +204,25 @@
     "lng": -117.1384702,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172897",
+    "name": "Being Alive - Daniel's Market",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1051 University Ave.",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92103",
+    "phone": "(619) 291-1400",
+    "hours": "",
+    "lat": 32.7480817,
+    "lng": -117.1540716,
+    "tags": [
+      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

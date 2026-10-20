@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-182125",
-    "name": "St. Paul's Episcopal Church",
-    "category": "Food",
-    "description": "St. Paul's Episcopal Church food pantry location in Oakland, California.",
-    "address": "114 Montecito Ave",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "94610",
-    "phone": "",
-    "hours": "",
-    "lat": 37.8111069,
-    "lng": -122.2603295,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-182511",
     "name": "St. Vincent De Paul Dining Room",
     "category": "Food",
@@ -50,25 +31,6 @@
     "hours": "",
     "lat": 37.813421,
     "lng": -122.2732755,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-189066",
-    "name": "Lake Merritt United Methodist Church - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center at Lake Merritt United Methodist Church",
-    "address": "1330 Lakeshore Ave",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "94606",
-    "phone": "",
-    "hours": "",
-    "lat": 37.799145599999996,
-    "lng": -122.2579746,
     "tags": [
       "food pantry",
       "walk-in"
@@ -93,25 +55,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
-  },
-  {
-    "id": "fa-180619",
-    "name": "Saint Augustine's Episcopal Church - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located at Saint Augustine's Episcopal Church",
-    "address": "521 29th St",
-    "city": "Oakland",
-    "state": "CA",
-    "zip": "94609",
-    "phone": "",
-    "hours": "",
-    "lat": 37.818118999999996,
-    "lng": -122.2682067,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-184530",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 37.8133806,
     "lng": -122.2844843,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195931",
+    "name": "Taylor Memorial Church - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Oakland",
+    "address": "1188 12th St",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607",
+    "phone": "",
+    "hours": "",
+    "lat": 37.8085181,
+    "lng": -122.2872309,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-196972",
+    "name": "Food 4 Hunger - Oakland",
+    "category": "Food",
+    "description": "Food 4 Hunger walkup distribution location",
+    "address": "562 14th St",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94612",
+    "phone": "",
+    "hours": "",
+    "lat": 37.805639299999996,
+    "lng": -122.27402079999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-199237",
+    "name": "Corinthian Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location at Corinthian Baptist Church",
+    "address": "928 Castro St.",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607",
+    "phone": "",
+    "hours": "",
+    "lat": 37.8034959,
+    "lng": -122.2788136,
     "tags": [
       "food pantry",
       "walk-in"

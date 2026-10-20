@@ -95,6 +95,25 @@
     "lastUpdated": "2025-01-01"
   },
   {
+    "id": "fa-226530",
+    "name": "Dept Of Public Instruction — Commodity Supplemental Food Program (CSFP) — seniors 60+",
+    "category": "Food",
+    "description": "Senior aged 60+ meeting income eligibility",
+    "address": "Bismarck, ND (call for distribution schedule)",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58505",
+    "phone": "",
+    "hours": "",
+    "lat": 46.821173,
+    "lng": -100.781654,
+    "tags": [
+      "senior commodity",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
     "id": "fa-222671",
     "name": "Open Door Community Center",
     "category": "Food",
@@ -169,25 +188,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-226530",
-    "name": "Dept Of Public Instruction — Commodity Supplemental Food Program (CSFP) — seniors 60+",
-    "category": "Food",
-    "description": "Senior aged 60+ meeting income eligibility",
-    "address": "Bismarck, ND (call for distribution schedule)",
-    "city": "Bismarck",
-    "state": "ND",
-    "zip": "58505",
-    "phone": "",
-    "hours": "",
-    "lat": 46.821173,
-    "lng": -100.781654,
-    "tags": [
-      "senior commodity",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fa-175387",

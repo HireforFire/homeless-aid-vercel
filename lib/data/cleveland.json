@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-220980",
-    "name": "Needs Cleveland",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "7710 Lorain Ave",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44102",
-    "phone": "(216) 400-8213",
-    "hours": "",
-    "lat": 41.4725189,
-    "lng": -81.7373581,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-667",
     "name": "West Side Catholic Center",
     "category": "Food",
@@ -76,6 +57,25 @@
     "lastUpdated": "2026-01-08"
   },
   {
+    "id": "fa-220980",
+    "name": "Needs Cleveland",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "7710 Lorain Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44102",
+    "phone": "(216) 400-8213",
+    "hours": "",
+    "lat": 41.4725189,
+    "lng": -81.7373581,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-175818",
     "name": "Hunger Network",
     "category": "Food",
@@ -88,25 +88,6 @@
     "hours": "",
     "lat": 41.504357225031,
     "lng": -81.656035539534,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-176708",
-    "name": "Friendly Inn Settlement",
-    "category": "Food",
-    "description": "Food pantry location",
-    "address": "2386 Unwin Rd",
-    "city": "Cleveland",
-    "state": "OH",
-    "zip": "44104",
-    "phone": "",
-    "hours": "",
-    "lat": 41.494170027549,
-    "lng": -81.654049531396,
     "tags": [
       "food pantry",
       "walk-in"
@@ -218,6 +199,25 @@
     "state": "OH",
     "zip": "44103",
     "phone": "(216) 391-0505",
+    "hours": "",
+    "lat": 41.51559,
+    "lng": -81.64301,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-11541",
+    "name": "Calvary Presbyterian Church",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2020 E 79th St.",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44103",
+    "phone": "(216) 391-8448",
     "hours": "",
     "lat": 41.51559,
     "lng": -81.64301,

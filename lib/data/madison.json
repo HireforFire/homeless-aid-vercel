@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-175311",
-    "name": "Grace Episcopal Church Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location at Grace Episcopal Church",
-    "address": "116 W Washington Ave.",
-    "city": "Madison",
-    "state": "WI",
-    "zip": "53703",
-    "phone": "",
-    "hours": "",
-    "lat": 43.074051823036,
-    "lng": -89.385880795021,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-175917",
     "name": "Bethel Lutheran Church",
     "category": "Food",
@@ -88,6 +69,25 @@
     "hours": "",
     "lat": 43.076861353161,
     "lng": -89.386162007873,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175311",
+    "name": "Grace Episcopal Church Food Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Grace Episcopal Church",
+    "address": "116 W Washington Ave.",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53703",
+    "phone": "",
+    "hours": "",
+    "lat": 43.074051823036,
+    "lng": -89.385880795021,
     "tags": [
       "food pantry",
       "walk-in"

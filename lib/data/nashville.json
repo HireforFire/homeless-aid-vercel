@@ -19,23 +19,23 @@
     "lastUpdated": "2026-01-18"
   },
   {
-    "id": "fa-190509",
-    "name": "Nashville Rescue Mission - Lafayette Street",
+    "id": "fa-862",
+    "name": "Nashville Rescue Mission",
     "category": "Food",
-    "description": "Main facility providing 24/7 services",
+    "description": "Open to all",
     "address": "639 Lafayette Street",
-    "city": "Nashville-Davidson",
+    "city": "Nashville",
     "state": "TN",
     "zip": "37203",
-    "phone": "",
+    "phone": "(615) 255-2475",
     "hours": "",
-    "lat": 36.1531652,
-    "lng": -86.7775339,
+    "lat": 36.1517,
+    "lng": -86.7733,
     "tags": [
-      "food pantry",
+      "soup kitchen",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fa-182826",
@@ -152,6 +152,44 @@
     "lastUpdated": "2026-05-10"
   },
   {
+    "id": "fa-190509",
+    "name": "Nashville Rescue Mission - Lafayette Street",
+    "category": "Food",
+    "description": "Main facility providing 24/7 services",
+    "address": "639 Lafayette Street",
+    "city": "Nashville-Davidson",
+    "state": "TN",
+    "zip": "37203",
+    "phone": "",
+    "hours": "",
+    "lat": 36.1531652,
+    "lng": -86.7775339,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-859",
+    "name": "Second Harvest Food Bank of Middle Tennessee",
+    "category": "Food",
+    "description": "Serves Middle Tennessee",
+    "address": "331 Great Circle Road",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37228",
+    "phone": "(615) 329-3491",
+    "hours": "",
+    "lat": 36.1917,
+    "lng": -86.7767,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-219036",
     "name": "East Nashville Cooperative Ministry",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 36.1470108,
     "lng": -86.7921295,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-219311",
-    "name": "Edgehill Center",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "935 Edgehill Avenue",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "37203",
-    "phone": "(615) 256-5108",
-    "hours": "",
-    "lat": 36.1418304,
-    "lng": -86.7826004,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-220264",
-    "name": "Dismas House of Nashville",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1513 16th Avenue South",
-    "city": "Nashville",
-    "state": "TN",
-    "zip": "37212",
-    "phone": "(615) 297-9287",
-    "hours": "",
-    "lat": 36.1389923,
-    "lng": -86.7943268,
     "tags": [
       "food pantry",
       "walk-in"

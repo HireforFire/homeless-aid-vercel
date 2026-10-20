@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-905",
+    "name": "Kansas Food Bank",
+    "category": "Food",
+    "description": "Serves 85 Kansas counties",
+    "address": "1919 East Douglas Avenue",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67211",
+    "phone": "(316) 265-4421",
+    "hours": "",
+    "lat": 37.6833,
+    "lng": -97.3117,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-218609",
     "name": "The Salvation Army - N Market",
     "category": "Food",
@@ -76,82 +95,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-129103",
-    "name": "Wichita",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "201 NORTH WATER",
-    "city": "WICHITA",
-    "state": "KS",
-    "zip": "67219",
-    "phone": "(316) 973-4000",
-    "hours": "",
-    "lat": 37.688314,
-    "lng": -97.339923,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-905",
-    "name": "Kansas Food Bank",
-    "category": "Food",
-    "description": "Serves 85 Kansas counties",
-    "address": "1919 East Douglas Avenue",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67211",
-    "phone": "(316) 265-4421",
-    "hours": "",
-    "lat": 37.6833,
-    "lng": -97.3117,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-01-01"
-  },
-  {
-    "id": "fa-185513",
-    "name": "Table Of Hope - Wichita",
-    "category": "Food",
-    "description": "Main location for Table Of Hope food distribution services",
-    "address": "156 S Kansas St",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67211",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6846958,
-    "lng": -97.3157562,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-198582",
-    "name": "United Methodist Open Door",
-    "category": "Food",
-    "description": "Food pantry location at 402 E 2nd St N, Wichita, Kansas.",
-    "address": "402 E 2nd St N",
-    "city": "Wichita",
-    "state": "KS",
-    "zip": "67202",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6899765,
-    "lng": -97.33402099999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-200121",
     "name": "Baptist Homeless Ministries",
     "category": "Food",
@@ -221,6 +164,63 @@
     "hours": "",
     "lat": 37.6758938,
     "lng": -97.335331,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201461",
+    "name": "Inter-Faith Inn (Ministries) - Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located in Wichita, Kansas.",
+    "address": "320 E Central Ave",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67202",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6937125,
+    "lng": -97.33482769999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173711",
+    "name": "Christian Faith Centre",
+    "category": "Food",
+    "description": "Emergency food assistance distribution location",
+    "address": "1130 S Broadway",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "66101",
+    "phone": "(316) 682-3534",
+    "hours": "",
+    "lat": 37.6723886,
+    "lng": -97.3351579,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185513",
+    "name": "Table Of Hope - Wichita",
+    "category": "Food",
+    "description": "Main location for Table Of Hope food distribution services",
+    "address": "156 S Kansas St",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67211",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6846958,
+    "lng": -97.3157562,
     "tags": [
       "food pantry",
       "walk-in"

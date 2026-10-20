@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-172956",
-    "name": "Samaritan Center",
-    "category": "Food",
-    "description": "Main facility providing overnight shelter and meal services.",
-    "address": "215 N State St",
-    "city": "Syracuse",
-    "state": "NY",
-    "zip": "13203",
-    "phone": "(315) 472-0650",
-    "hours": "",
-    "lat": 43.052880699999996,
-    "lng": -76.14932379999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-173393",
     "name": "Samaritan Center Soup Kitchen",
     "category": "Food",
@@ -152,23 +133,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-130452",
-    "name": "Syracuse City SD",
+    "id": "fa-172956",
+    "name": "Samaritan Center",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "725 HARRISON ST",
-    "city": "SYRACUSE",
+    "description": "Main facility providing overnight shelter and meal services.",
+    "address": "215 N State St",
+    "city": "Syracuse",
     "state": "NY",
-    "zip": "13208",
-    "phone": "(315) 435-4161",
+    "zip": "13203",
+    "phone": "(315) 472-0650",
     "hours": "",
-    "lat": 43.044467,
-    "lng": -76.140446,
+    "lat": 43.052880699999996,
+    "lng": -76.14932379999999,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-596",
@@ -209,18 +190,37 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-180659",
-    "name": "PEACE Inc. Westside Family Resource Center",
+    "id": "fa-202306",
+    "name": "Cathedral Emergency Services Food Pantry",
     "category": "Food",
-    "description": "Westside Family Resource Center providing food assistance and family resource services",
-    "address": "200 Wyoming St.",
+    "description": "Main food pantry location serving the Syracuse community",
+    "address": "264 East Onondaga Street",
     "city": "Syracuse",
     "state": "NY",
-    "zip": "13204",
+    "zip": "13202",
     "phone": "",
     "hours": "",
-    "lat": 43.0471072,
-    "lng": -76.1605708,
+    "lat": 43.04633,
+    "lng": -76.14948,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204116",
+    "name": "Peace Inc. - Beech Street Food Distribution Center",
+    "category": "Food",
+    "description": "Food distribution center located on Beech Street in Syracuse providing emergency food assistance.",
+    "address": "202 S Beech St",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13210",
+    "phone": "",
+    "hours": "",
+    "lat": 43.0490334,
+    "lng": -76.1280831,
     "tags": [
       "food pantry",
       "walk-in"

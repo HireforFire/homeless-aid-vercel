@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-781",
+    "name": "Loaves and Fishes Charlotte",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "648 E 10th St",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "phone": "(704) 523-4333",
+    "hours": "",
+    "lat": 35.2214,
+    "lng": -80.8364,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-218403",
     "name": "The Salvation Army - N College St",
     "category": "Food",
@@ -36,63 +55,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-781",
-    "name": "Loaves and Fishes Charlotte",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "648 E 10th St",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "28202",
-    "phone": "(704) 523-4333",
-    "hours": "",
-    "lat": 35.2214,
-    "lng": -80.8364,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-186010",
-    "name": "Catholic Charities",
-    "category": "Food",
-    "description": "Food pantry location in Mecklenburg County",
-    "address": "1123 S Church Street",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "28203",
-    "phone": "",
-    "hours": "",
-    "lat": 35.22067,
-    "lng": -80.85426,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-198163",
-    "name": "Urban Ministry Center",
-    "category": "Food",
-    "description": "Soup kitchen location providing daily meal service",
-    "address": "945 N. College St.",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "28209",
-    "phone": "",
-    "hours": "",
-    "lat": 35.2340722,
-    "lng": -80.8327835,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-211676",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 35.220198,
     "lng": -80.85815869999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-204907",
+    "name": "WFNZ Dog House",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "401 West Morehead Street",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2236656,
+    "lng": -80.8543005,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-213819",
+    "name": "Carole Hefner Center",
+    "category": "Food",
+    "description": "Food service location at Carole Hefner Center",
+    "address": "615 East 6th Street",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "phone": "",
+    "hours": "",
+    "lat": 35.2245355,
+    "lng": -80.83461969999999,
     "tags": [
       "food pantry",
       "walk-in"

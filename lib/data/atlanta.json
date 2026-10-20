@@ -57,82 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-202831",
-    "name": "Chance for a Higher Level Outreach - Mechanicsville",
-    "category": "Food",
-    "description": "Main outreach location at 477 Windsor Street Southwest",
-    "address": "477 Windsor Street Southwest",
-    "city": "Mechanicsville",
-    "state": "GA",
-    "zip": "30312",
-    "phone": "",
-    "hours": "",
-    "lat": 33.7413728,
-    "lng": -84.39971299999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-206388",
-    "name": "Butler Street CME Church",
-    "category": "Food",
-    "description": "Soup kitchen and food distribution service location",
-    "address": "23 Jesse Hill Junior Drive Southeast",
-    "city": "Downtown Atlanta",
-    "state": "GA",
-    "zip": "30303",
-    "phone": "",
-    "hours": "",
-    "lat": 33.7539511,
-    "lng": -84.381134,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-208695",
-    "name": "Wheat Street Baptist Church Food Pantry",
-    "category": "Food",
-    "description": "Food pantry location at Wheat Street Baptist Church",
-    "address": "18 William Holmes Borders Senior Drive Northeast",
-    "city": "Sweet Auburn",
-    "state": "GA",
-    "zip": "30312",
-    "phone": "",
-    "hours": "",
-    "lat": 33.7548067,
-    "lng": -84.37574269999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-213346",
-    "name": "The Love of Giving Inc. - Main Location",
-    "category": "Food",
-    "description": "Primary food pantry location",
-    "address": "501 Grant St.",
-    "city": "Atlanta",
-    "state": "GA",
-    "zip": "30312",
-    "phone": "",
-    "hours": "",
-    "lat": 33.7410006,
-    "lng": -84.3766418,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-215688",
     "name": "Ebenezer Baptist Church",
     "category": "Food",
@@ -221,6 +145,82 @@
     "hours": "",
     "lat": 33.7558503,
     "lng": -84.380344,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192999",
+    "name": "Blessed Divas Corporation - Main Location",
+    "category": "Food",
+    "description": "Main food distribution center providing food bank services with grocery/client choice options for walk-in clients.",
+    "address": "477 Windsor St SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30312",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7412294,
+    "lng": -84.3996946,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-197374",
+    "name": "Our Lady of Lourdes",
+    "category": "Food",
+    "description": "Hot/Cold Meal Program location affiliated with Atlanta Community Food Bank",
+    "address": "25 Boulevard NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30312",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7547224,
+    "lng": -84.3717973,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-201701",
+    "name": "Central United Methodist Church",
+    "category": "Food",
+    "description": "Food distribution location at Central United Methodist Church",
+    "address": "501 Martin Luther King Jr Dr SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30314",
+    "phone": "",
+    "hours": "",
+    "lat": 33.75414,
+    "lng": -84.40382,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-203187",
+    "name": "Atlanta Justice Alliance - Hotel District",
+    "category": "Food",
+    "description": "Primary service location for Atlanta Justice Alliance",
+    "address": "91 Peachtree Street",
+    "city": "Hotel District",
+    "state": "GA",
+    "zip": "30303",
+    "phone": "",
+    "hours": "",
+    "lat": 33.7560382,
+    "lng": -84.38815559999999,
     "tags": [
       "food pantry",
       "walk-in"

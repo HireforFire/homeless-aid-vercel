@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-129832",
-    "name": "Lincoln Public Schools",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "5905 O ST",
-    "city": "LINCOLN",
-    "state": "NE",
-    "zip": "68510",
-    "phone": "(402) 436-1000",
-    "hours": "",
-    "lat": 40.817002,
-    "lng": -96.710994,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-9201",
     "name": "Indian Center, Inc",
     "category": "Food",
@@ -190,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-186741",
-    "name": "Community Action Head Start",
-    "category": "Food",
-    "description": "Lincoln Fresh produce distribution location at Community Action Head Start",
-    "address": "1821 K Street",
-    "city": "Lincoln",
-    "state": "NE",
-    "zip": "68501",
-    "phone": "",
-    "hours": "",
-    "lat": 40.8088863,
-    "lng": -96.6945249,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-186844",
     "name": "St. Mary's Catholic Church",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 40.8095032,
     "lng": -96.7008246,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-191228",
+    "name": "Lincoln Fresh at Community Action Head Start",
+    "category": "Food",
+    "description": "Community Action Head Start location for Lincoln Fresh produce distribution",
+    "address": "2615 O Street",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68501",
+    "phone": "",
+    "hours": "",
+    "lat": 40.813262,
+    "lng": -96.6832124,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-192017",
+    "name": "Food Fort",
+    "category": "Food",
+    "description": "Food Fort location in Lincoln, Nebraska",
+    "address": "2124 Y St #130",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68503",
+    "phone": "",
+    "hours": "",
+    "lat": 40.824751899999995,
+    "lng": -96.69046499999999,
     "tags": [
       "food pantry",
       "walk-in"

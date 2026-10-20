@@ -114,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-192517",
-    "name": "African American Community Services",
-    "category": "Food",
-    "description": "Food distribution location at 304 North 6th Street, San Jose.",
-    "address": "304 North 6th Street",
-    "city": "San Jose",
-    "state": "CA",
-    "zip": "95112",
-    "phone": "",
-    "hours": "",
-    "lat": 37.3434135,
-    "lng": -121.8883905,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-193123",
     "name": "Front Door Communities - South Tenth Street",
     "category": "Food",
@@ -218,6 +199,25 @@
     "state": "CA",
     "zip": "95112",
     "phone": "(408) 922-9085",
+    "hours": "",
+    "lat": 37.34461,
+    "lng": -121.88346,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-2551",
+    "name": "African American Community Center",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "304 N. 6th St.",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112",
+    "phone": "(408) 292-3157",
     "hours": "",
     "lat": 37.34461,
     "lng": -121.88346,

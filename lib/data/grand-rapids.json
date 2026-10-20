@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-184700",
-    "name": "Westminster Presbyterian Church",
-    "category": "Food",
-    "description": "Westminster Presbyterian Church located in Grand Rapids",
-    "address": "47 Jefferson Ave SE",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "zip": "49503",
-    "phone": "",
-    "hours": "",
-    "lat": 42.961824299999996,
-    "lng": -85.66496939999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-192523",
     "name": "West MI Veterans Assistance Program (WMVAP)",
     "category": "Food",
@@ -218,6 +199,25 @@
     "state": "MI",
     "zip": "49503",
     "phone": "(616) 454-4444",
+    "hours": "",
+    "lat": 42.96282,
+    "lng": -85.65872,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-7831",
+    "name": "Westminster Food Pantry",
+    "category": "Food",
+    "description": "once per month",
+    "address": "47 Jefferson SE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503",
+    "phone": "(616) 456-6115",
     "hours": "",
     "lat": 42.96282,
     "lng": -85.65872,

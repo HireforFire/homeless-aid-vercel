@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-171626",
-    "name": "Tumbleweed Runaway Program - Billings",
-    "category": "Food",
-    "description": "Main location of Tumbleweed Runaway Program in Billings, Montana. Walk-up services available during operating hours.",
-    "address": "505 N 24th St",
-    "city": "Billings",
-    "state": "MT",
-    "zip": "59101",
-    "phone": "",
-    "hours": "",
-    "lat": 45.788199,
-    "lng": -108.5041868,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-171670",
     "name": "Office of Public Assistance-Billings",
     "category": "Food",
@@ -126,6 +107,25 @@
     "hours": "",
     "lat": 45.7798834,
     "lng": -108.50851820000003,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171716",
+    "name": "Tumbleweed Runaway Program Inc. - Billings",
+    "category": "Food",
+    "description": "Food pantry location in Billings",
+    "address": "505 North 24th St.",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "",
+    "hours": "",
+    "lat": 45.7884052,
+    "lng": -108.5039608,
     "tags": [
       "food pantry",
       "walk-in"

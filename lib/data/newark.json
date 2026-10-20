@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-216290",
+    "name": "Bessie Green Community, Inc. Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "510 Broad St",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 803-6015",
+    "hours": "",
+    "lat": 40.744179,
+    "lng": -74.169083,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-172081",
     "name": "Oliver Street School",
     "category": "Food",
@@ -95,6 +114,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-801",
+    "name": "Newark City of Promise Food Pantry",
+    "category": "Food",
+    "description": "Essex County",
+    "address": "60 Park Pl",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 642-8500",
+    "hours": "",
+    "lat": 40.7414,
+    "lng": -74.1714,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-220136",
     "name": "canaan evangelical church",
     "category": "Food",
@@ -183,44 +221,6 @@
     "hours": "",
     "lat": 40.7334137,
     "lng": -74.17659,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-223745",
-    "name": "St. James Social Service Emergency Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "604 Martin Luther King Jr  Blvd",
-    "city": "Newark",
-    "state": "NJ",
-    "zip": "07102",
-    "phone": "(973) 624-4007",
-    "hours": "",
-    "lat": 40.7322239,
-    "lng": -74.180992,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225649",
-    "name": "Hispanic Development Corporation",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "441 Broad St.",
-    "city": "Newark",
-    "state": "NJ",
-    "zip": "07102",
-    "phone": "(973) 268-1236",
-    "hours": "",
-    "lat": 40.7464943,
-    "lng": -74.1706696,
     "tags": [
       "food pantry",
       "walk-in"

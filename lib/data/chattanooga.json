@@ -209,20 +209,20 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-203759",
-    "name": "Chattanooga Area Food Bank",
+    "id": "fa-204960",
+    "name": "Orchard Knob Community Mobile Pantry",
     "category": "Food",
-    "description": "Main food bank facility",
-    "address": "2909 Curtain Pull Road",
+    "description": "Mobile pantry distribution point in the Orchard Knob community area.",
+    "address": "2000 E 3rd Street",
     "city": "Chattanooga",
     "state": "TN",
-    "zip": "37406",
+    "zip": "37404",
     "phone": "",
     "hours": "",
-    "lat": 35.0634058,
-    "lng": -85.2738969,
+    "lat": 35.0393839,
+    "lng": -85.2706798,
     "tags": [
-      "food bank",
+      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

@@ -152,25 +152,6 @@
     "lastUpdated": "2026-02-12"
   },
   {
-    "id": "fa-177345",
-    "name": "St Paul Opportunity Center",
-    "category": "Food",
-    "description": "Community meal service location providing free meals including breakfast, lunch, and dinner.",
-    "address": "422 Dorothy Day Place",
-    "city": "Saint Paul",
-    "state": "MN",
-    "zip": "55102",
-    "phone": "",
-    "hours": "",
-    "lat": 44.94686499934,
-    "lng": -93.101466825745,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-181039",
     "name": "Union Gospel Mission Twin Cities - St. Paul",
     "category": "Food",
@@ -202,6 +183,25 @@
     "hours": "",
     "lat": 44.9577299,
     "lng": -93.1208675,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-177345",
+    "name": "St Paul Opportunity Center",
+    "category": "Food",
+    "description": "Community meal service location providing free meals including breakfast, lunch, and dinner.",
+    "address": "422 Dorothy Day Place",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55102",
+    "phone": "",
+    "hours": "",
+    "lat": 44.94686499934,
+    "lng": -93.101466825745,
     "tags": [
       "food pantry",
       "walk-in"

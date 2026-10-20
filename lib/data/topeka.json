@@ -76,44 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-176126",
-    "name": "Boys & Girls Club Teen Center",
-    "category": "Food",
-    "description": "Food pantry distribution location at Boys & Girls Club Teen Center",
-    "address": "1112 SE 10th Ave",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66607",
-    "phone": "",
-    "hours": "",
-    "lat": 39.044757391813,
-    "lng": -95.660642159945,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177593",
-    "name": "Saint Johns African Methodist Episcopal Church",
-    "category": "Food",
-    "description": "Food distribution location operated by Saint Johns African Methodist Episcopal Church in partnership with Harvesters - The Community Food Network.",
-    "address": "701 SW Topeka Blvd",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66603",
-    "phone": "",
-    "hours": "",
-    "lat": 39.051685160516,
-    "lng": -95.680154643804,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-177604",
     "name": "Antioch Missionary Baptist Church",
     "category": "Food",
@@ -126,25 +88,6 @@
     "hours": "",
     "lat": 39.042374500559,
     "lng": -95.665350777873,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-177936",
-    "name": "Fellowship and Faith Ministry, Inc",
-    "category": "Food",
-    "description": "Main location of Fellowship and Faith Ministry, Inc",
-    "address": "708 Southeast Lime Street",
-    "city": "Topeka",
-    "state": "KS",
-    "zip": "66607",
-    "phone": "",
-    "hours": "",
-    "lat": 39.0457818,
-    "lng": -95.6583556,
     "tags": [
       "food pantry",
       "walk-in"
@@ -226,6 +169,63 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-178130",
+    "name": "Catholic Charities of NE Kansas - Topeka",
+    "category": "Food",
+    "description": "Main food assistance distribution location in Topeka",
+    "address": "Catholic Charities of NE Kansas",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66603",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0560489,
+    "lng": -95.6709811,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-195009",
+    "name": "Inward Faith Outreach Ministries",
+    "category": "Food",
+    "description": "Food distribution location in Topeka, Kansas",
+    "address": "625 Polk St.",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66603",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0530425,
+    "lng": -95.6827355,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-198239",
+    "name": "Doorstep Inc Food Bank",
+    "category": "Food",
+    "description": "Main location of Doorstep Inc Food Bank providing food pantry and clothing assistance services.",
+    "address": "1119 SW. 10th St.",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66604",
+    "phone": "",
+    "hours": "",
+    "lat": 39.0496189,
+    "lng": -95.6910533,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-topeka-shelter",

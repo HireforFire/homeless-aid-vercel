@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-194387",
-    "name": "MP-Unify Detroit/St. John Presbyterian Church",
-    "category": "Food",
-    "description": "Food distribution location at St. John Presbyterian Church",
-    "address": "1961 East Lafayette Street",
-    "city": "Elmwood Park",
-    "state": "MI",
-    "zip": "48207",
-    "phone": "",
-    "hours": "",
-    "lat": 42.340062,
-    "lng": -83.029215,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-7685",
     "name": "Central United Methodist Church",
     "category": "Food",
@@ -152,6 +133,44 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-194387",
+    "name": "MP-Unify Detroit/St. John Presbyterian Church",
+    "category": "Food",
+    "description": "Food distribution location at St. John Presbyterian Church",
+    "address": "1961 East Lafayette Street",
+    "city": "Elmwood Park",
+    "state": "MI",
+    "zip": "48207",
+    "phone": "",
+    "hours": "",
+    "lat": 42.340062,
+    "lng": -83.029215,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-691",
+    "name": "Gleaners Community Food Bank",
+    "category": "Food",
+    "description": "SE Michigan",
+    "address": "2131 Beaufait St",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48207",
+    "phone": "(313) 923-3535",
+    "hours": "",
+    "lat": 42.3514,
+    "lng": -83.0014,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-218823",
     "name": "The Salvation Army - Lawton St",
     "category": "Food",
@@ -190,42 +209,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-129611",
-    "name": "Detroit Academy of Arts and Sciences",
+    "id": "fa-183865",
+    "name": "In The Trenches",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2985 EAST JEFFERSON AVE",
-    "city": "DETROIT",
+    "description": "Food pantry distribution location",
+    "address": "304 South Morrell Street",
+    "city": "Delray",
     "state": "MI",
-    "zip": "48207",
-    "phone": "(313) 259-1744",
+    "zip": "48209",
+    "phone": "",
     "hours": "",
-    "lat": 42.340538,
-    "lng": -83.01842,
+    "lat": 42.304879,
+    "lng": -83.09129,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-129613",
-    "name": "Detroit City School District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3011 WEST GRAND BLVD",
-    "city": "DETROIT",
-    "state": "MI",
-    "zip": "48202",
-    "phone": "(313) 873-6205",
-    "hours": "",
-    "lat": 42.369037,
-    "lng": -83.076922,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-detroit-shelter",

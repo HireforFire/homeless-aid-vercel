@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-833",
+    "name": "Mesa United Way Food Bank",
+    "category": "Food",
+    "description": "Mesa area",
+    "address": "537 S Mesa Dr",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85210",
+    "phone": "(480) 969-4558",
+    "hours": "",
+    "lat": 33.4014,
+    "lng": -111.8314,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-221319",
     "name": "A New Leaf: Autumn House",
     "category": "Food",
@@ -74,63 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-128301",
-    "name": "Concordia Charter School, Inc.",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "142 NORTH DATE",
-    "city": "MESA",
-    "state": "AZ",
-    "zip": "85201",
-    "phone": "(480) 461-0555",
-    "hours": "",
-    "lat": 33.417946,
-    "lng": -111.844896,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-128334",
-    "name": "Mesa Unified District",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "63 EAST MAIN ST",
-    "city": "MESA",
-    "state": "AZ",
-    "zip": "85210",
-    "phone": "(480) 472-0200",
-    "hours": "",
-    "lat": 33.415046,
-    "lng": -111.829996,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-833",
-    "name": "Mesa United Way Food Bank",
-    "category": "Food",
-    "description": "Mesa area",
-    "address": "537 S Mesa Dr",
-    "city": "Mesa",
-    "state": "AZ",
-    "zip": "85210",
-    "phone": "(480) 969-4558",
-    "hours": "",
-    "lat": 33.4014,
-    "lng": -111.8314,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-198623",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-969",
+    "name": "United Food Bank",
+    "category": "Food",
+    "description": "Serves East Valley and Eastern Arizona",
+    "address": "245 South Nina Drive",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85210",
+    "phone": "(480) 926-4897",
+    "hours": "",
+    "lat": 33.4017,
+    "lng": -111.8217,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
+    "id": "fa-438553",
+    "name": "Subway #12346",
+    "category": "Food",
+    "description": "SNAP/EBT for hot meals — eligibility: unhoused OR aged 60+ OR disabled",
+    "address": "161 W Main St.",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85201",
+    "phone": "",
+    "hours": "",
+    "lat": 33.41504,
+    "lng": -111.8357,
+    "tags": [
+      "rmp restaurant",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
   },
   {
     "id": "fallback-mesa-shelter",

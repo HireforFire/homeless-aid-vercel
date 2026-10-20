@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-184563",
-    "name": "St. Agnes (Missionaries of Charity)",
-    "category": "Food",
-    "description": "Food distribution location at St. Agnes",
-    "address": "749 E. Blvd.",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "70802",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4413361,
-    "lng": -91.1797497,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-190880",
     "name": "St. Joseph Baptist Church Outreach Ministries",
     "category": "Food",
@@ -107,6 +88,25 @@
     "hours": "",
     "lat": 30.4484638,
     "lng": -91.1866952,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210786",
+    "name": "St. Agnes (Missionaries of Charity)",
+    "category": "Food",
+    "description": "Food distribution location operated by Missionaries of Charity in Baton Rouge.",
+    "address": "749 East Boulevard",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4413537,
+    "lng": -91.1796323,
     "tags": [
       "food pantry",
       "walk-in"
@@ -171,6 +171,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-184563",
+    "name": "St. Agnes (Missionaries of Charity)",
+    "category": "Food",
+    "description": "Food distribution location at St. Agnes",
+    "address": "749 E. Blvd.",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70802",
+    "phone": "",
+    "hours": "",
+    "lat": 30.4413361,
+    "lng": -91.1797497,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-216796",
     "name": "The Salvation Army - Airline Hwy Corps",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 30.46028,
     "lng": -91.2083,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-211214",
-    "name": "St. Paul Catholic Church",
-    "category": "Food",
-    "description": "Food distribution location at St. Paul Catholic Church in Baton Rouge.",
-    "address": "3912 Gus Young Ave.",
-    "city": "Baton Rouge",
-    "state": "LA",
-    "zip": "70802",
-    "phone": "",
-    "hours": "",
-    "lat": 30.4616512,
-    "lng": -91.150953,
     "tags": [
       "food pantry",
       "walk-in"

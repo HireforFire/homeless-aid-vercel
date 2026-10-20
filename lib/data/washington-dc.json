@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-170464",
-    "name": "Ayuda, Inc.",
-    "category": "Food",
-    "description": "Main office location",
-    "address": "1990 K St. NW",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "20006",
-    "phone": "(703) 589-4204",
-    "hours": "",
-    "lat": 38.902192,
-    "lng": -77.04455,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-170490",
     "name": "First Rising Zion Baptist Church - Food Distribution",
     "category": "Food",
@@ -152,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-170696",
-    "name": "New York Avenue Presbyterian Church",
-    "category": "Food",
-    "description": "Main church location providing food distribution and community services.",
-    "address": "1313 New York Avenue Northwest",
-    "city": "Washington",
-    "state": "DC",
-    "zip": "20005",
-    "phone": "(202) 393-3700",
-    "hours": "",
-    "lat": 38.8998368,
-    "lng": -77.03127640000001,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-170746",
     "name": "Ayuda, Inc. Food Pantry",
     "category": "Food",
@@ -221,6 +183,44 @@
     "hours": "",
     "lat": 38.91986,
     "lng": -77.03749,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222933",
+    "name": "Bread for the City",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1525 Seventh Street",
+    "city": "NW, Washington",
+    "state": "DC",
+    "zip": "20001",
+    "phone": "(202) 386-7601",
+    "hours": "",
+    "lat": 38.9103106,
+    "lng": -77.021587,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-222944",
+    "name": "Marthas Table",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "2114 14th Street NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20009",
+    "phone": "(202) 328-6608",
+    "hours": "",
+    "lat": 38.9185075,
+    "lng": -77.0323833,
     "tags": [
       "food pantry",
       "walk-in"

@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-860",
+    "name": "Mid-South Food Bank",
+    "category": "Food",
+    "description": "Serves Memphis metro and surrounding area",
+    "address": "239 South Dudley Street",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104",
+    "phone": "(901) 527-0841",
+    "hours": "",
+    "lat": 35.13,
+    "lng": -90.0417,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+  {
     "id": "fa-217495",
     "name": "The Salvation Army - E Parkway S",
     "category": "Food",
@@ -207,25 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-860",
-    "name": "Mid-South Food Bank",
-    "category": "Food",
-    "description": "Serves Memphis metro and surrounding area",
-    "address": "239 South Dudley Street",
-    "city": "Memphis",
-    "state": "TN",
-    "zip": "38104",
-    "phone": "(901) 527-0841",
-    "hours": "",
-    "lat": 35.13,
-    "lng": -90.0417,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fallback-memphis-shelter",

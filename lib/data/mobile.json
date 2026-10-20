@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-186557",
-    "name": "Waterfront Rescue Mission",
-    "category": "Food",
-    "description": "Main facility providing soup kitchen and homeless shelter services",
-    "address": "279 N. Washington Ave.",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36603",
-    "phone": "",
-    "hours": "",
-    "lat": 30.6934177,
-    "lng": -88.0536476,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-1201",
     "name": "Catholic Social Services - Mobile Service Center",
     "category": "Food",
@@ -90,25 +71,6 @@
     "lng": -88.044822,
     "tags": [
       "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-179593",
-    "name": "Mt. Zion Baptist Church",
-    "category": "Food",
-    "description": "Food pantry location at Mt. Zion Baptist Church",
-    "address": "1012 Adams St.",
-    "city": "Mobile",
-    "state": "AL",
-    "zip": "36603",
-    "phone": "",
-    "hours": "",
-    "lat": 30.6948448,
-    "lng": -88.0602157,
-    "tags": [
-      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
@@ -150,6 +112,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "fa-186557",
+    "name": "Waterfront Rescue Mission",
+    "category": "Food",
+    "description": "Main facility providing soup kitchen and homeless shelter services",
+    "address": "279 N. Washington Ave.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36603",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6934177,
+    "lng": -88.0536476,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-179593",
+    "name": "Mt. Zion Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at Mt. Zion Baptist Church",
+    "address": "1012 Adams St.",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36603",
+    "phone": "",
+    "hours": "",
+    "lat": 30.6948448,
+    "lng": -88.0602157,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-218559",

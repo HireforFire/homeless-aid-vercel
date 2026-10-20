@@ -38,6 +38,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-220372",
+    "name": "Brian Coyle Food Shelf",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "420 15th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55454",
+    "phone": "(612) 876-9366",
+    "hours": "",
+    "lat": 44.9706879,
+    "lng": -93.2504272,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-220381",
     "name": "The Salvation Army CCO",
     "category": "Food",
@@ -95,25 +114,6 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-176691",
-    "name": "Sharing and Caring Hands",
-    "category": "Food",
-    "description": "Main facility providing free meal services",
-    "address": "525 North 7th Street",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55405",
-    "phone": "",
-    "hours": "",
-    "lat": 44.983155664514,
-    "lng": -93.282451142223,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-177904",
     "name": "Mill City Farmers Market",
     "category": "Food",
@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-199018",
-    "name": "Sharing & Caring Hands - 525 North 7th St",
-    "category": "Food",
-    "description": "Main location for food shelf and meal services in Minneapolis.",
-    "address": "525 North 7th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55405",
-    "phone": "",
-    "hours": "",
-    "lat": 44.9833027,
-    "lng": -93.2825953,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-211153",
     "name": "Working Partnerships - Minneapolis Office",
     "category": "Food",
@@ -164,25 +145,6 @@
     "hours": "",
     "lat": 44.9869205,
     "lng": -93.2543919,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-214634",
-    "name": "P.U.C. Brian Coyle Center Food Shelf",
-    "category": "Food",
-    "description": "Food shelf location at the Brian Coyle Center in Minneapolis.",
-    "address": "420 15th Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55454",
-    "phone": "",
-    "hours": "",
-    "lat": 44.9707032,
-    "lng": -93.2506039,
     "tags": [
       "food pantry",
       "walk-in"
@@ -223,6 +185,44 @@
     "lng": -93.267146960491,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176557",
+    "name": "Youth Link Food Shelf",
+    "category": "Food",
+    "description": "Food shelf location serving youth ages 16-24",
+    "address": "41 North 12th Street",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55403",
+    "phone": "",
+    "hours": "",
+    "lat": 44.97644272399,
+    "lng": -93.281941103415,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-180257",
+    "name": "Holmes Park Village - High Rise Mobile Food Shelf",
+    "category": "Food",
+    "description": "Mobile food shelf distribution location at Holmes Park Village high-rise",
+    "address": "302 2nd Avenue SE",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55414",
+    "phone": "",
+    "hours": "",
+    "lat": 44.9862293,
+    "lng": -93.2527538,
+    "tags": [
+      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

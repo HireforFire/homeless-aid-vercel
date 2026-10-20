@@ -1,22 +1,22 @@
 [
   {
-    "id": "fa-174158",
-    "name": "Chosen 300 - Center City",
+    "id": "fa-647",
+    "name": "St Johns Hospice",
     "category": "Food",
-    "description": "Chosen 300 food distribution location in Center City, PA",
-    "address": "1116 Spring Garden Street",
-    "city": "Center City",
+    "description": "Center City",
+    "address": "1221 Race St",
+    "city": "Philadelphia",
     "state": "PA",
-    "zip": "19123",
-    "phone": "(215) 765-9806",
+    "zip": "19107",
+    "phone": "(215) 563-7763",
     "hours": "",
-    "lat": 39.96141739999999,
-    "lng": -75.1569069,
+    "lat": 39.9576,
+    "lng": -75.1552,
     "tags": [
       "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-218595",
@@ -133,39 +133,20 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-647",
-    "name": "St Johns Hospice",
+    "id": "fa-174158",
+    "name": "Chosen 300 - Center City",
     "category": "Food",
-    "description": "Center City",
-    "address": "1221 Race St",
-    "city": "Philadelphia",
+    "description": "Chosen 300 food distribution location in Center City, PA",
+    "address": "1116 Spring Garden Street",
+    "city": "Center City",
     "state": "PA",
-    "zip": "19107",
-    "phone": "(215) 563-7763",
+    "zip": "19123",
+    "phone": "(215) 765-9806",
     "hours": "",
-    "lat": 39.9576,
-    "lng": -75.1552,
+    "lat": 39.96141739999999,
+    "lng": -75.1569069,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-184249",
-    "name": "Tindley Temple Soup Kitchen",
-    "category": "Food",
-    "description": "General meal site offering ready-to-eat meals.",
-    "address": "750 South Broad Street",
-    "city": "Graduate Hospital",
-    "state": "PA",
-    "zip": "19146",
-    "phone": "",
-    "hours": "",
-    "lat": 39.9413227,
-    "lng": -75.1664857,
-    "tags": [
-      "soup kitchen",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
@@ -209,20 +190,39 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-193339",
-    "name": "The Everywhere Project (Love Park)",
+    "id": "fa-198790",
+    "name": "Philadelphia Legal Assistance - Center City East",
     "category": "Food",
-    "description": "General meal site offering ready-to-eat meals",
-    "address": "North 15th Street",
-    "city": "Philadelphia",
+    "description": "Main office location for Philadelphia Legal Assistance providing legal services to low income residents",
+    "address": "718 Arch Street",
+    "city": "Center City East",
     "state": "PA",
-    "zip": "19102",
+    "zip": "19106",
     "phone": "",
     "hours": "",
-    "lat": 39.9551008,
-    "lng": -75.1647867,
+    "lat": 39.952915,
+    "lng": -75.1523431,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202418",
+    "name": "Mazzoni Center Food Bank",
+    "category": "Food",
+    "description": "Food bank distribution location at Mazzoni Center",
+    "address": "1348 Bainbridge Street",
+    "city": "Hawthorne",
+    "state": "PA",
+    "zip": "19147",
+    "phone": "",
+    "hours": "",
+    "lat": 39.94263460000001,
+    "lng": -75.1650837,
+    "tags": [
+      "food bank",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

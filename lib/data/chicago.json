@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-654",
+    "name": "Pacific Garden Mission",
+    "category": "Food",
+    "description": "Open to all",
+    "address": "1458 S Canal St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60607",
+    "phone": "(312) 492-9410",
+    "hours": "",
+    "lat": 41.8614,
+    "lng": -87.6414,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-754",
+    "name": "Pilsen Food Pantry",
+    "category": "Food",
+    "description": "Pilsen",
+    "address": "1850 S Throop St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(312) 666-3130",
+    "hours": "",
+    "lat": 41.8564,
+    "lng": -87.6564,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-222029",
     "name": "UI Health Pilsen Food Pantry",
     "category": "Food",
@@ -55,44 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-654",
-    "name": "Pacific Garden Mission",
-    "category": "Food",
-    "description": "Open to all",
-    "address": "1458 S Canal St",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60607",
-    "phone": "(312) 492-9410",
-    "hours": "",
-    "lat": 41.8614,
-    "lng": -87.6414,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-754",
-    "name": "Pilsen Food Pantry",
-    "category": "Food",
-    "description": "Pilsen",
-    "address": "1850 S Throop St",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60608",
-    "phone": "(312) 666-3130",
-    "hours": "",
-    "lat": 41.8564,
-    "lng": -87.6564,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-216645",

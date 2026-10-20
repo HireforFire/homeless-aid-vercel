@@ -57,25 +57,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-171429",
-    "name": "Comea Shelter",
-    "category": "Food",
-    "description": "Main shelter facility",
-    "address": "1421 W Lincolnway",
-    "city": "Cheyenne",
-    "state": "WY",
-    "zip": "82001",
-    "phone": "",
-    "hours": "",
-    "lat": 41.1272971,
-    "lng": -104.8290887,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-171781",
     "name": "United Way-Laramie County Main Office",
     "category": "Food",
@@ -190,23 +171,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-170626",
-    "name": "St. Joseph's Food Pantry",
+    "id": "fa-983",
+    "name": "Wyoming Food Bank of the Rockies",
     "category": "Food",
-    "description": "Main food pantry location in Cheyenne, Wyoming. Walk-up access available.",
-    "address": "206 Van Lennen Ave",
+    "description": "Serves Wyoming",
+    "address": "2021 South Greeley Highway",
     "city": "Cheyenne",
     "state": "WY",
     "zip": "82007",
-    "phone": "(307) 275-0567",
+    "phone": "(307) 265-2172",
     "hours": "",
-    "lat": 41.1225573,
-    "lng": -104.80207829999999,
+    "lat": 41.1017,
+    "lng": -104.7917,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fa-225277",
@@ -226,6 +207,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-170626",
+    "name": "St. Joseph's Food Pantry",
+    "category": "Food",
+    "description": "Main food pantry location in Cheyenne, Wyoming. Walk-up access available.",
+    "address": "206 Van Lennen Ave",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82007",
+    "phone": "(307) 275-0567",
+    "hours": "",
+    "lat": 41.1225573,
+    "lng": -104.80207829999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-cheyenne-shelter",

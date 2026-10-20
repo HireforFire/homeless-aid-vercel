@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-180372",
-    "name": "Lazarus Ministries",
-    "category": "Food",
-    "description": "Main location for Lazarus Ministries soup kitchen and clothing assistance services",
-    "address": "3151 Olive St",
-    "city": "Kansas City",
-    "state": "MO",
-    "zip": "64109",
-    "phone": "",
-    "hours": "",
-    "lat": 39.0684957,
-    "lng": -94.5549478,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-190154",
     "name": "Redemptorist Center",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 39.084528,
     "lng": -94.54964,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-05-11"
+  },
+  {
+    "id": "fa-576512",
+    "name": "Grace United Church",
+    "category": "Food",
+    "description": "Missouri food pantry distributing free groceries to families in need. Mon-Thurs 10:00-2:00 Most pantries do not require ID or proof of income.",
+    "address": "801 Benton Boulevard",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64124",
+    "phone": "(816) 231-5745",
+    "hours": "",
+    "lat": 39.102994,
+    "lng": -94.544235,
     "tags": [
       "food pantry",
       "walk-in"

@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-172788",
-    "name": "First Presbyterian Church - Bakersfield",
-    "category": "Food",
-    "description": "Food distribution location at First Presbyterian Church",
-    "address": "1705 17th Street",
-    "city": "Bakersfield",
-    "state": "CA",
-    "zip": "93301",
-    "phone": "(661) 325-9419",
-    "hours": "",
-    "lat": 35.3740889,
-    "lng": -119.0220112,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-454",
     "name": "Bakersfield Homeless Center",
     "category": "Food",
@@ -74,6 +55,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-172788",
+    "name": "First Presbyterian Church - Bakersfield",
+    "category": "Food",
+    "description": "Food distribution location at First Presbyterian Church",
+    "address": "1705 17th Street",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "phone": "(661) 325-9419",
+    "hours": "",
+    "lat": 35.3740889,
+    "lng": -119.0220112,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fa-175589",

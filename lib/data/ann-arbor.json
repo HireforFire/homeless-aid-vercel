@@ -19,42 +19,23 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-129542",
-    "name": "Ann Arbor Public Schools",
+    "id": "fa-696",
+    "name": "Food Gatherers",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2555 SOUTH STATE ST",
-    "city": "ANN ARBOR",
+    "description": "Washtenaw County",
+    "address": "1 Carrot Way",
+    "city": "Ann Arbor",
     "state": "MI",
-    "zip": "48103",
-    "phone": "(734) 994-2230",
+    "zip": "48105",
+    "phone": "(734) 761-2796",
     "hours": "",
-    "lat": 42.250039,
-    "lng": -83.739341,
+    "lat": 42.2414,
+    "lng": -83.7814,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
-    "id": "fa-129584",
-    "name": "Central Academy",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "2459 SOUTH INDUSTRIAL HWY",
-    "city": "ANN ARBOR",
-    "state": "MI",
-    "zip": "48104",
-    "phone": "(734) 822-1100",
-    "hours": "",
-    "lat": 42.250339,
-    "lng": -83.73084,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-218528",
@@ -74,25 +55,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-696",
-    "name": "Food Gatherers",
-    "category": "Food",
-    "description": "Washtenaw County",
-    "address": "1 Carrot Way",
-    "city": "Ann Arbor",
-    "state": "MI",
-    "zip": "48105",
-    "phone": "(734) 761-2796",
-    "hours": "",
-    "lat": 42.2414,
-    "lng": -83.7814,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-7317",

@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-783",
+    "name": "Greensboro Urban Ministry",
+    "category": "Food",
+    "description": "Guilford County",
+    "address": "305 W Gate City Blvd",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27406",
+    "phone": "(336) 271-5959",
+    "hours": "",
+    "lat": 36.0614,
+    "lng": -79.7914,
+    "tags": [
+      "soup kitchen",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-220984",
     "name": "Spartan Open Pantry",
     "category": "Food",
@@ -36,25 +55,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-783",
-    "name": "Greensboro Urban Ministry",
-    "category": "Food",
-    "description": "Guilford County",
-    "address": "305 W Gate City Blvd",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "27406",
-    "phone": "(336) 271-5959",
-    "hours": "",
-    "lat": 36.0614,
-    "lng": -79.7914,
-    "tags": [
-      "soup kitchen",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-187920",
@@ -95,6 +95,25 @@
     "lastUpdated": "2026-04-23"
   },
   {
+    "id": "fa-176135",
+    "name": "St Paul Baptist Church",
+    "category": "Food",
+    "description": "Food pantry location at St Paul Baptist Church",
+    "address": "1309 Larkin St",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27406",
+    "phone": "",
+    "hours": "",
+    "lat": 36.055329035062,
+    "lng": -79.780515972423,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-177703",
     "name": "Mount Zion Baptist Church",
     "category": "Food",
@@ -128,44 +147,6 @@
     "lng": -79.7743931,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-184872",
-    "name": "The Salvation Army - Center of Hope",
-    "category": "Food",
-    "description": "Food pantry location in Greensboro",
-    "address": "1311 S. Eugene St.",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "27406",
-    "phone": "",
-    "hours": "",
-    "lat": 36.0573837,
-    "lng": -79.7927838,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-190450",
-    "name": "St Paul Baptist Church",
-    "category": "Food",
-    "description": "Food pantry and soup kitchen distribution location",
-    "address": "1309 Larkin St.",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "27406",
-    "phone": "",
-    "hours": "",
-    "lat": 36.055356,
-    "lng": -79.780951,
-    "tags": [
-      "soup kitchen",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
@@ -209,23 +190,42 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-212292",
-    "name": "Turning Point - Bread of Life",
+    "id": "fa-212472",
+    "name": "Bread of Life Food Pantry - Greensboro",
     "category": "Food",
-    "description": "Food pantry location providing groceries and food assistance.",
-    "address": "1606 Phillips Ave.",
+    "description": "Food pantry location in Greensboro",
+    "address": "1606 Phillips Avenue",
     "city": "Greensboro",
     "state": "NC",
     "zip": "27405",
     "phone": "",
     "hours": "",
-    "lat": 36.0985692,
-    "lng": -79.7624232,
+    "lat": 36.0985649,
+    "lng": -79.7625491,
     "tags": [
       "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-8878",
+    "name": "Manna House of Coliseum Boulevard Church of Christ",
+    "category": "Food",
+    "description": "appointment",
+    "address": "2116 Coliseum Boulevard",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27403",
+    "phone": "(336) 316-0044",
+    "hours": "",
+    "lat": 36.06406,
+    "lng": -79.82538,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
   },
   {
     "id": "fallback-greensboro-shelter",

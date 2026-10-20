@@ -152,23 +152,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172438",
-    "name": "Mt. Zion Baptist Church",
+    "id": "fa-659",
+    "name": "Peoria Area Food Bank",
     "category": "Food",
-    "description": "Mt. Zion Baptist Church food pantry location",
-    "address": "305 S. Madison Park Terrace",
+    "description": "Central IL",
+    "address": "3014 N Sheridan Rd",
     "city": "Peoria",
     "state": "IL",
-    "zip": "61605",
-    "phone": "(309) 674-4379",
+    "zip": "61604",
+    "phone": "(309) 671-3906",
     "hours": "",
-    "lat": 40.6855823,
-    "lng": -89.626599,
+    "lat": 40.7314,
+    "lng": -89.5914,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-21"
+    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-218526",

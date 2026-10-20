@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-130206",
-    "name": "Buffalo City SD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "712 CITY HALL",
-    "city": "BUFFALO",
-    "state": "NY",
-    "zip": "14215",
-    "phone": "(716) 816-3575",
-    "hours": "",
-    "lat": 42.886458,
-    "lng": -78.878558,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-536",
     "name": "Msgr. Carr Institute",
     "category": "Food",
@@ -133,25 +114,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-198032",
-    "name": "City Mission Society Inc- Pantry - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center providing walk-up food assistance.",
-    "address": "100 E Tupper St",
-    "city": "Buffalo",
-    "state": "NY",
-    "zip": "14203",
-    "phone": "",
-    "hours": "",
-    "lat": 42.893200199999995,
-    "lng": -78.86886439999999,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-10633",
     "name": "Los Tainos Seniors Food Pantry",
     "category": "Food",
@@ -218,6 +180,44 @@
     "state": "NY",
     "zip": "14201",
     "phone": "(716) 884-7250",
+    "hours": "",
+    "lat": 42.89706,
+    "lng": -78.88752,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-10657",
+    "name": "Buffalo Urban League Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "86 Pine St",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14204",
+    "phone": "(716) 854-7625",
+    "hours": "",
+    "lat": 42.882,
+    "lng": -78.8614,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-18"
+  },
+  {
+    "id": "fa-10663",
+    "name": "Belle Center Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "104 Maryland Street",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14201",
+    "phone": "(716) 845-0485",
     "hours": "",
     "lat": 42.89706,
     "lng": -78.88752,

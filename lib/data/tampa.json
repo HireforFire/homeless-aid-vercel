@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-206626",
-    "name": "St. Peter Claver - St. Vincent De Paul",
-    "category": "Food",
-    "description": "Food pantry location at St. Peter Claver - St. Vincent De Paul in Tampa, FL.",
-    "address": "1203 North Nebraska Avenue",
-    "city": "Ybor City",
-    "state": "FL",
-    "zip": "33602",
-    "phone": "",
-    "hours": "",
-    "lat": 27.9553984,
-    "lng": -82.4507972,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-209787",
     "name": "LIGHTHOUSE MINISTRIES-TAMPA",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 27.948375,
     "lng": -82.457779,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-189098",
+    "name": "HARTPLUS PARATRANSIT",
+    "category": "Food",
+    "description": "HARTPLUS PARATRANSIT office and service location",
+    "address": "1201 East 7th Avenue",
+    "city": "Ybor City",
+    "state": "FL",
+    "zip": "33605",
+    "phone": "",
+    "hours": "",
+    "lat": 27.9597748,
+    "lng": -82.446407,
     "tags": [
       "food pantry",
       "walk-in"

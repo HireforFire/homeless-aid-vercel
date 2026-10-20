@@ -38,25 +38,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-130163",
-    "name": "Carson City SD",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1402 WEST KING",
-    "city": "CARSON CITY",
-    "state": "NV",
-    "zip": "89702",
-    "phone": "(775) 283-2100",
-    "hours": "",
-    "lat": 39.164909,
-    "lng": -119.779415,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
-  },
-  {
     "id": "fa-170802",
     "name": "Salvation Army - Carson City",
     "category": "Food",
@@ -171,25 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-170602",
-    "name": "Ron Wood Family Resource Center",
-    "category": "Food",
-    "description": "Main food distribution location for Ron Wood Family Resource Center in Carson City",
-    "address": "2621 Northgate Ln.",
-    "city": "Carson City",
-    "state": "NV",
-    "zip": "89706",
-    "phone": "(775) 884-2269",
-    "hours": "",
-    "lat": 39.1838358,
-    "lng": -119.7655628,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-217089",
     "name": "The Salvation Army - E Second Street Corps",
     "category": "Food",
@@ -209,18 +171,56 @@
     "lastUpdated": "2026-04-22"
   },
   {
-    "id": "fa-171003",
-    "name": "Carson City Seventh Day Adventist Church",
+    "id": "fa-170602",
+    "name": "Ron Wood Family Resource Center",
     "category": "Food",
-    "description": "Food pantry distribution location at Carson City Seventh Day Adventist Church",
-    "address": "405 College Parkway",
+    "description": "Main food distribution location for Ron Wood Family Resource Center in Carson City",
+    "address": "2621 Northgate Ln.",
     "city": "Carson City",
     "state": "NV",
     "zip": "89706",
+    "phone": "(775) 884-2269",
+    "hours": "",
+    "lat": 39.1838358,
+    "lng": -119.7655628,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-171070",
+    "name": "Northern Nevada Dream Center",
+    "category": "Food",
+    "description": "Main food pantry location in Carson City",
+    "address": "3579 US-50 #211",
+    "city": "Carson City",
+    "state": "NV",
+    "zip": "89701",
     "phone": "",
     "hours": "",
-    "lat": 39.1901666,
-    "lng": -119.7623736,
+    "lat": 39.1763421,
+    "lng": -119.7282929,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-170537",
+    "name": "Richard's Crossing",
+    "category": "Food",
+    "description": "Senior food distribution location",
+    "address": "430 Jeanell Dr",
+    "city": "Carson City",
+    "state": "NV",
+    "zip": "89703",
+    "phone": "",
+    "hours": "",
+    "lat": 39.1801809,
+    "lng": -119.7692511,
     "tags": [
       "food pantry",
       "walk-in"

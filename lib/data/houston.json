@@ -171,6 +171,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-174486",
+    "name": "Greater Zion Missionary Baptist Church",
+    "category": "Food",
+    "description": "Food pantry distribution location at Greater Zion Missionary Baptist Church, a Houston Food Bank partner.",
+    "address": "3202 Trulley Ave",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77004",
+    "phone": "(281) 460-8889",
+    "hours": "",
+    "lat": 29.7367526,
+    "lng": -95.352548,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-43",
     "name": "Fifth Ward Enrichment Center",
     "category": "Food",
@@ -207,24 +226,6 @@
       "walk-in"
     ],
     "lastUpdated": "2025-12-02"
-  },
-  {
-    "id": "fa-202858",
-    "name": "Interfaith Ministries for Greater Houston - Main Office",
-    "category": "Food",
-    "description": "Meals on Wheels provides home-delivered meals for homebound seniors and adults with disabilities. Call (713) 533-4978 to apply and confirm eligibility, service-area ZIP code, and any cost. This address is the organization's main office; contact intake before traveling for food.",
-    "address": "3303 Main St.",
-    "city": "Houston",
-    "state": "TX",
-    "zip": "77002",
-    "phone": "(713) 533-4978",
-    "hours": "",
-    "lat": 29.7880838,
-    "lng": -95.3699361,
-    "tags": [
-      "home delivered meals"
-    ],
-    "lastUpdated": "2026-05-14"
   },
   {
     "id": "fallback-houston-shelter",

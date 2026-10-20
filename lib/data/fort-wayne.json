@@ -76,25 +76,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-213408",
-    "name": "East Wayne Street Center",
-    "category": "Food",
-    "description": "Main food distribution center",
-    "address": "801 E Wayne St",
-    "city": "Fort Wayne",
-    "state": "IN",
-    "zip": "46803",
-    "phone": "",
-    "hours": "",
-    "lat": 41.0800552,
-    "lng": -85.1275558,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-214563",
     "name": "St. Mary's Soup Kitchen",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 41.1094237,
     "lng": -85.17233039999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-173396",
+    "name": "CONNECT Allen County - Fort Wayne",
+    "category": "Food",
+    "description": "CONNECT Allen County emergency food assistance location",
+    "address": "201 E. Rudisill Blvd.",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46806",
+    "phone": "(260) 901-5480",
+    "hours": "",
+    "lat": 41.0510055,
+    "lng": -85.1352329,
     "tags": [
       "food pantry",
       "walk-in"

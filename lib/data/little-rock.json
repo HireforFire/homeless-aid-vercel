@@ -152,44 +152,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173145",
-    "name": "St Johns Baptist Church- East",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "1920 E. 6th St.",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "72202",
-    "phone": "(501) 940-7479",
-    "hours": "",
-    "lat": 34.741787,
-    "lng": -92.2491919,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-173221",
-    "name": "Holy Cross MED",
-    "category": "Food",
-    "description": "Food pantry distribution location",
-    "address": "4821 W. 11th St.",
-    "city": "Little Rock",
-    "state": "AR",
-    "zip": "72204",
-    "phone": "(501) 666-2060",
-    "hours": "",
-    "lat": 34.7412034,
-    "lng": -92.3280004,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-174419",
     "name": "Quapaw Quarter UMC",
     "category": "Food",
@@ -226,6 +188,44 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-225799",
+    "name": "The Salvation ArmyNLR",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1505 W. 18th St.",
+    "city": "North Little Rock",
+    "state": "AR",
+    "zip": "72215",
+    "phone": "(501) 758-7297",
+    "hours": "",
+    "lat": 34.772419,
+    "lng": -92.2829819,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "id": "fa-173145",
+    "name": "St Johns Baptist Church- East",
+    "category": "Food",
+    "description": "Food pantry distribution location",
+    "address": "1920 E. 6th St.",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72202",
+    "phone": "(501) 940-7479",
+    "hours": "",
+    "lat": 34.741787,
+    "lng": -92.2491919,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-little-rock-shelter",

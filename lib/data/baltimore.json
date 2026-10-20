@@ -19,25 +19,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-173786",
-    "name": "Maryland Access Point (MAP) - Downtown Baltimore Office",
-    "category": "Food",
-    "description": "Main office location for Maryland Access Point (MAP) home food delivery service",
-    "address": "100 Holliday Street",
-    "city": "Downtown",
-    "state": "MD",
-    "zip": "21202",
-    "phone": "(410) 396-2273",
-    "hours": "",
-    "lat": 39.2908475,
-    "lng": -76.6105378,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-219652",
     "name": "My Sister's Place Lodge",
     "category": "Food",
@@ -76,18 +57,18 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-177013",
-    "name": "Beans and Bread",
+    "id": "fa-173786",
+    "name": "Maryland Access Point (MAP) - Downtown Baltimore Office",
     "category": "Food",
-    "description": "Food assistance facility providing breakfast and lunch services",
-    "address": "400 S Bond St",
-    "city": "Baltimore",
+    "description": "Main office location for Maryland Access Point (MAP) home food delivery service",
+    "address": "100 Holliday Street",
+    "city": "Downtown",
     "state": "MD",
-    "zip": "21231",
-    "phone": "",
+    "zip": "21202",
+    "phone": "(410) 396-2273",
     "hours": "",
-    "lat": 39.286347059201,
-    "lng": -76.595590997765,
+    "lat": 39.2908475,
+    "lng": -76.6105378,
     "tags": [
       "food pantry",
       "walk-in"
@@ -152,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-201954",
-    "name": "Baltimore American Indian Center",
-    "category": "Food",
-    "description": "Main location of Baltimore American Indian Center",
-    "address": "113 South Broadway",
-    "city": "Upper Fells Point",
-    "state": "MD",
-    "zip": "21231",
-    "phone": "",
-    "hours": "",
-    "lat": 39.28997409999999,
-    "lng": -76.5932531,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-203006",
     "name": "South Baltimore Emergency - Federal Hill-Montgomery",
     "category": "Food",
@@ -209,18 +171,56 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-205636",
-    "name": "Land of Kush - Bromo Arts District",
+    "id": "fa-207541",
+    "name": "Lexington Poe",
     "category": "Food",
-    "description": "Food distribution location in Bromo Arts District",
-    "address": "840 North Eutaw Street",
-    "city": "Bromo Arts District",
+    "description": "Food distribution location",
+    "address": "206 North Fremont Avenue",
+    "city": "Poppleton",
     "state": "MD",
-    "zip": "21201",
+    "zip": "21202",
     "phone": "",
     "hours": "",
-    "lat": 39.3001979,
-    "lng": -76.6215814,
+    "lat": 39.2918417,
+    "lng": -76.63116699999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-209130",
+    "name": "Waters AME",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "417 Aisquith Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.2955331,
+    "lng": -76.6013591,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-210252",
+    "name": "Mary Elizabeth Lange Center",
+    "category": "Food",
+    "description": "Food distribution location for women in crisis",
+    "address": "601 East Chase Street",
+    "city": "Johnston Square",
+    "state": "MD",
+    "zip": "21202",
+    "phone": "",
+    "hours": "",
+    "lat": 39.3025112,
+    "lng": -76.60825969999999,
     "tags": [
       "food pantry",
       "walk-in"

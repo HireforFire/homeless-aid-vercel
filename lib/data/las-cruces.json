@@ -95,25 +95,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-202317",
-    "name": "Loma Heights High School",
-    "category": "Food",
-    "description": "Food pantry distribution location at Loma Heights High School",
-    "address": "1600 E Madrid Ave.",
-    "city": "Las Cruces",
-    "state": "NM",
-    "zip": "88001",
-    "phone": "",
-    "hours": "",
-    "lat": 32.3310965,
-    "lng": -106.7695168,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-173435",
     "name": "Montana Meadows Apartments",
     "category": "Food",
@@ -126,6 +107,44 @@
     "hours": "",
     "lat": 32.29337649,
     "lng": -106.7746666,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-175136",
+    "name": "Alameda Elementary",
+    "category": "Food",
+    "description": "Pop-Up/Mobile Resource distribution location at Alameda Elementary",
+    "address": "1325 N. Alameda Blvd",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88005",
+    "phone": "(575) 527-9486",
+    "hours": "",
+    "lat": 32.32086599,
+    "lng": -106.786341,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-202317",
+    "name": "Loma Heights High School",
+    "category": "Food",
+    "description": "Food pantry distribution location at Loma Heights High School",
+    "address": "1600 E Madrid Ave.",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "phone": "",
+    "hours": "",
+    "lat": 32.3310965,
+    "lng": -106.7695168,
     "tags": [
       "food pantry",
       "walk-in"
@@ -169,25 +188,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-130121",
-    "name": "ALMA D ARTE CHARTER SCHOOL",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "402 WEST COURT AVE",
-    "city": "LAS CRUCES",
-    "state": "NM",
-    "zip": "88005",
-    "phone": "(575) 541-0145",
-    "hours": "",
-    "lat": 32.311493,
-    "lng": -106.78366,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-03-29"
   },
   {
     "id": "fa-179521",

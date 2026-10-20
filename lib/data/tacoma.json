@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-223511",
-    "name": "St. Leo Food Connection",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1323 S. Yakima Ave.",
-    "city": "Tacoma",
-    "state": "WA",
-    "zip": "98405",
-    "phone": "(253) 383-5048",
-    "hours": "",
-    "lat": 47.2496681,
-    "lng": -122.4464188,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
     "id": "fa-725",
     "name": "Tacoma Rescue Mission",
     "category": "Food",
@@ -36,6 +17,25 @@
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-223511",
+    "name": "St. Leo Food Connection",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1323 S. Yakima Ave.",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "(253) 383-5048",
+    "hours": "",
+    "lat": 47.2496681,
+    "lng": -122.4464188,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
   },
   {
     "id": "fa-183307",
@@ -209,23 +209,23 @@
     "lastUpdated": "2026-05-10"
   },
   {
-    "id": "fa-222060",
-    "name": "Eloise's Cooking Pot Food Bank",
+    "id": "fa-964",
+    "name": "Emergency Food Network",
     "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3543 E. McKinley Avenue",
+    "description": "Serves Pierce County",
+    "address": "253 South 56th Street",
     "city": "Tacoma",
     "state": "WA",
-    "zip": "98404",
-    "phone": "(253) 212-2778",
+    "zip": "98408",
+    "phone": "(253) 627-2836",
     "hours": "",
-    "lat": 47.2288818,
-    "lng": -122.4203491,
+    "lat": 47.2217,
+    "lng": -122.4717,
     "tags": [
-      "food pantry",
+      "food bank",
       "walk-in"
     ],
-    "lastUpdated": "2026-04-23"
+    "lastUpdated": "2025-01-01"
   },
   {
     "id": "fallback-tacoma-shelter",

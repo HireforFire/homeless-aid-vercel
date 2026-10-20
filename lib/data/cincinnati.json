@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa-663",
+    "name": "Freestore Foodbank",
+    "category": "Food",
+    "description": "Southwest OH",
+    "address": "1141 Central Pkwy",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "(513) 482-7550",
+    "hours": "",
+    "lat": 39.1114,
+    "lng": -84.5214,
+    "tags": [
+      "food bank",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-763",
+    "name": "Over the Rhine Community Food Pantry",
+    "category": "Food",
+    "description": "Downtown",
+    "address": "1435 Vine St",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "phone": "(513) 241-4135",
+    "hours": "",
+    "lat": 39.1114,
+    "lng": -84.5164,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
     "id": "fa-218884",
     "name": "5000 Club",
     "category": "Food",
@@ -93,44 +131,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-663",
-    "name": "Freestore Foodbank",
-    "category": "Food",
-    "description": "Southwest OH",
-    "address": "1141 Central Pkwy",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45202",
-    "phone": "(513) 482-7550",
-    "hours": "",
-    "lat": 39.1114,
-    "lng": -84.5214,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
-    "id": "fa-763",
-    "name": "Over the Rhine Community Food Pantry",
-    "category": "Food",
-    "description": "Downtown",
-    "address": "1435 Vine St",
-    "city": "Cincinnati",
-    "state": "OH",
-    "zip": "45202",
-    "phone": "(513) 241-4135",
-    "hours": "",
-    "lat": 39.1114,
-    "lng": -84.5164,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
   },
   {
     "id": "fa-175693",

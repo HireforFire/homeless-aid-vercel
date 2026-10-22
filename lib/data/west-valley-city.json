@@ -171,6 +171,25 @@
     "lastUpdated": "2025-01-01"
   },
   {
+    "id": "fa-201519",
+    "name": "Life Church",
+    "category": "Food",
+    "description": "Life Church mobile pantry distribution location. Serves English and Spanish speaking community members.",
+    "address": "3818 W 4700 S",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84129",
+    "phone": "",
+    "hours": "",
+    "lat": 40.6683867,
+    "lng": -111.9821742,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-184605",
     "name": "Sunnyvale Park",
     "category": "Food",
@@ -204,25 +223,6 @@
     "lng": -111.8914381,
     "tags": [
       "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-189654",
-    "name": "Granger Food Pantry - Food Distribution Center",
-    "category": "Food",
-    "description": "Food distribution center located in West Valley City.",
-    "address": "3200 W 4100 S",
-    "city": "West Valley City",
-    "state": "UT",
-    "zip": "84119",
-    "phone": "",
-    "hours": "",
-    "lat": 40.682457,
-    "lng": -111.9678417,
-    "tags": [
-      "food pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

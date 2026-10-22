@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa-197",
+    "name": "Salvation Army - Corpus Christi",
+    "category": "Food",
+    "description": "Nueces County residents",
+    "address": "1224 Comanche St",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78401",
+    "phone": "(361) 883-8671",
+    "hours": "",
+    "lat": 27.7933,
+    "lng": -97.4033,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2025-12-02"
+  },
+  {
     "id": "fa-177311",
     "name": "CC Metro Ministries – Loaves & Fishes Sign Up Location",
     "category": "Food",
@@ -74,25 +93,6 @@
       "walk-in"
     ],
     "lastUpdated": "2026-04-25"
-  },
-  {
-    "id": "fa-197",
-    "name": "Salvation Army - Corpus Christi",
-    "category": "Food",
-    "description": "Nueces County residents",
-    "address": "1224 Comanche St",
-    "city": "Corpus Christi",
-    "state": "TX",
-    "zip": "78401",
-    "phone": "(361) 883-8671",
-    "hours": "",
-    "lat": 27.7933,
-    "lng": -97.4033,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2025-12-02"
   },
   {
     "id": "fa-186692",

@@ -152,6 +152,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-225531",
+    "name": "Greater Love Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1218 NW 13th ct",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33311",
+    "phone": "(954) 678-8925",
+    "hours": "",
+    "lat": 26.1423721,
+    "lng": -80.158783,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-220915",
     "name": "A drop of love",
     "category": "Food",
@@ -183,25 +202,6 @@
     "hours": "",
     "lat": 26.1556225,
     "lng": -80.1321945,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225531",
-    "name": "Greater Love Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1218 NW 13th ct",
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "zip": "33311",
-    "phone": "(954) 678-8925",
-    "hours": "",
-    "lat": 26.1423721,
-    "lng": -80.158783,
     "tags": [
       "food pantry",
       "walk-in"

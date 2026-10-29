@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-188305",
-    "name": "Forest Hill Presbyterian Church - Little Pantry",
-    "category": "Food",
-    "description": "24-hour little pantry walk-up located at Forest Hill Presbyterian Church.",
-    "address": "4401 Forest Hill Ave.",
-    "city": "Richmond",
-    "state": "VA",
-    "zip": "23225",
-    "phone": "",
-    "hours": "",
-    "lat": 37.5203345,
-    "lng": -77.4807446,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-176436",
     "name": "Faith Community Baptist Church",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 37.552653359041,
     "lng": -77.40937597929,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-176682",
+    "name": "Second Baptist Church Pantry",
+    "category": "Food",
+    "description": "Food pantry location at Second Baptist Church",
+    "address": "1400 Idlewood Avenue",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23220",
+    "phone": "",
+    "hours": "",
+    "lat": 37.543143586974,
+    "lng": -77.459900582889,
     "tags": [
       "food pantry",
       "walk-in"

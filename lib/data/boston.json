@@ -228,40 +228,22 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "osm-node-1019015211",
-    "name": "Pine Street Inn",
+    "id": "fallback-boston-shelter",
+    "name": "Boston Homeless Services Hotline",
     "category": "Shelter",
-    "description": "social_facility",
-    "address": "Harrison Avenue 444",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3432437,
-    "lng": -71.0644988,
-    "tags": [
-      "shelter",
-      "beds"
-    ],
-    "lastUpdated": "2026-05-14"
-  },
-  {
-    "id": "osm-node-5746096969",
-    "name": "New England Center & Home for Veterans",
-    "category": "Shelter",
-    "description": "social_facility",
+    "description": "Call 211 for emergency shelter placement and homeless services. Free, confidential, available 24/7.",
     "address": "",
     "city": "Boston",
     "state": "MA",
     "zip": "",
-    "phone": "",
-    "hours": "",
-    "lat": 42.3590324,
-    "lng": -71.0583956,
+    "phone": "(800) 273-8255",
+    "hours": "24 hours, 7 days a week",
+    "lat": 42.3601,
+    "lng": -71.0589,
     "tags": [
       "shelter",
-      "beds"
+      "hotline",
+      "211"
     ],
     "lastUpdated": "2026-05-14"
   },

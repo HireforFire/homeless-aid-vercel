@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-226176",
-    "name": "Diaper Bank of Southern Arizona",
+    "id": "fa-203923",
+    "name": "The Salvation Army - Hospitality House",
     "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Tucson, AZ",
+    "description": "The Salvation Army - Hospitality House hospitality services location",
+    "address": "1002 N. 11th Ave.",
     "city": "Tucson",
     "state": "AZ",
-    "zip": "85701",
+    "zip": "85705",
     "phone": "",
     "hours": "",
-    "lat": 32.21702,
-    "lng": -110.97138,
+    "lat": 32.2343925,
+    "lng": -110.9760675,
     "tags": [
-      "diaper bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-10"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-tucson-shelter",

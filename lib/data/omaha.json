@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-226209",
-    "name": "Nebraska Diaper Bank",
+    "id": "fa-172627",
+    "name": "Grace Evangelical Lutheran Church",
     "category": "Food",
-    "description": "Free diaper bank providing food assistance. Open to all.",
-    "address": "Omaha, NE",
+    "description": "Grace Evangelical Lutheran Church food pantry location",
+    "address": "1326 S 26th St",
     "city": "Omaha",
     "state": "NE",
-    "zip": "68101",
-    "phone": "",
+    "zip": "68105",
+    "phone": "(402) 341-7730",
     "hours": "",
-    "lat": 41.26219,
-    "lng": -95.93133,
+    "lat": 41.2461817,
+    "lng": -95.9509076,
     "tags": [
-      "diaper bank",
+      "food pantry",
       "walk-in"
     ],
-    "lastUpdated": "2026-05-10"
+    "lastUpdated": "2026-04-21"
   },
   {
     "id": "fallback-omaha-shelter",

@@ -38,6 +38,25 @@
     "lastUpdated": "2025-12-02"
   },
   {
+    "id": "fa-224969",
+    "name": "YWCA of San Diego",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1012 C Street",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "(619) 239-0355",
+    "hours": "",
+    "lat": 32.7171828,
+    "lng": -117.1553813,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-218915",
     "name": "Ladle Fellowship",
     "category": "Food",
@@ -88,25 +107,6 @@
     "hours": "",
     "lat": 32.7174911,
     "lng": -117.152771,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-224969",
-    "name": "YWCA of San Diego",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1012 C Street",
-    "city": "San Diego",
-    "state": "CA",
-    "zip": "92101",
-    "phone": "(619) 239-0355",
-    "hours": "",
-    "lat": 32.7171828,
-    "lng": -117.1553813,
     "tags": [
       "food pantry",
       "walk-in"

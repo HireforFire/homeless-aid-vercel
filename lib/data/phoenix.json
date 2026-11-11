@@ -1,24 +1,5 @@
 [
   {
-    "id": "fa-734",
-    "name": "Association of Arizona Food Banks",
-    "category": "Food",
-    "description": "Statewide",
-    "address": "340 E Jefferson St",
-    "city": "Phoenix",
-    "state": "AZ",
-    "zip": "85004",
-    "phone": "(602) 528-3434",
-    "hours": "",
-    "lat": 33.4514,
-    "lng": -112.0614,
-    "tags": [
-      "food bank",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-01-08"
-  },
-  {
     "id": "fa-736",
     "name": "Society of St Vincent de Paul",
     "category": "Food",
@@ -33,6 +14,25 @@
     "lng": -112.0814,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-01-08"
+  },
+  {
+    "id": "fa-734",
+    "name": "Association of Arizona Food Banks",
+    "category": "Food",
+    "description": "Statewide",
+    "address": "340 E Jefferson St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85004",
+    "phone": "(602) 528-3434",
+    "hours": "",
+    "lat": 33.4514,
+    "lng": -112.0614,
+    "tags": [
+      "food bank",
       "walk-in"
     ],
     "lastUpdated": "2026-01-08"

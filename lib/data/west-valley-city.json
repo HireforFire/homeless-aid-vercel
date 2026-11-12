@@ -190,6 +190,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-202014",
+    "name": "San Marcos Mobile Pantry",
+    "category": "Food",
+    "description": "Mobile food pantry distribution location in West Valley City. Drive-through operational only.",
+    "address": "3175 S. 3450 W.",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84120",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7024809,
+    "lng": -111.9729655,
+    "tags": [
+      "mobile pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-184605",
     "name": "Sunnyvale Park",
     "category": "Food",
@@ -202,25 +221,6 @@
     "hours": "",
     "lat": 40.68462,
     "lng": -111.91022,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-185766",
-    "name": "Burton Mobile Pantry - LDS Parking Lot",
-    "category": "Food",
-    "description": "Mobile pantry distribution site at LDS Parking Lot",
-    "address": "2702 S Main St.",
-    "city": "South Salt Lake",
-    "state": "UT",
-    "zip": "84115",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7120101,
-    "lng": -111.8914381,
     "tags": [
       "mobile pantry",
       "walk-in"

@@ -19,6 +19,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-216162",
+    "name": "FBR - Lowry Campus",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "1070 Alton Way",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80230",
+    "phone": "(303) 371-9250",
+    "hours": "",
+    "lat": 39.727493,
+    "lng": -104.879784,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-216147",
     "name": "Project Worthmore",
     "category": "Food",
@@ -88,25 +107,6 @@
     "hours": "",
     "lat": 39.742138,
     "lng": -104.86628,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-216162",
-    "name": "FBR - Lowry Campus",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "1070 Alton Way",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80230",
-    "phone": "(303) 371-9250",
-    "hours": "",
-    "lat": 39.727493,
-    "lng": -104.879784,
     "tags": [
       "food pantry",
       "walk-in"

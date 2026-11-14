@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-185258",
-    "name": "Salvation Army Kitchen",
-    "category": "Food",
-    "description": "Salvation Army Kitchen serving hot and cold meals",
-    "address": "1001 N Penn Ave",
-    "city": "Oklahoma City",
-    "state": "OK",
-    "zip": "73107",
-    "phone": "",
-    "hours": "",
-    "lat": 35.4776588,
-    "lng": -97.5488621,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-188636",
     "name": "TrueSky Credit Union-New Bethel Baptist Church Food Pantry",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 35.4938139,
     "lng": -97.4792426,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-185258",
+    "name": "Salvation Army Kitchen",
+    "category": "Food",
+    "description": "Salvation Army Kitchen serving hot and cold meals",
+    "address": "1001 N Penn Ave",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73107",
+    "phone": "",
+    "hours": "",
+    "lat": 35.4776588,
+    "lng": -97.5488621,
     "tags": [
       "food pantry",
       "walk-in"

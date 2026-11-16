@@ -1,43 +1,5 @@
 [
   {
-    "id": "fa-215892",
-    "name": "UA3 Community First Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "384 Grand Street",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10002",
-    "phone": "(917) 697-2842",
-    "hours": "",
-    "lat": 40.716499,
-    "lng": -73.987648,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-22"
-  },
-  {
-    "id": "fa-215857",
-    "name": "Primitive Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "207-209 East Broadway",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10002",
-    "phone": "(646) 831-6653",
-    "hours": "",
-    "lat": 40.714176,
-    "lng": -73.989761,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-215887",
     "name": "Compassion Market at Trinity Church NYC",
     "category": "Food",
@@ -57,6 +19,25 @@
     "lastUpdated": "2026-04-22"
   },
   {
+    "id": "fa-215892",
+    "name": "UA3 Community First Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "384 Grand Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "(917) 697-2842",
+    "hours": "",
+    "lat": 40.716499,
+    "lng": -73.987648,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
     "id": "fa-172486",
     "name": "The Door Manhattan Youth Center",
     "category": "Food",
@@ -69,6 +50,25 @@
     "hours": "",
     "lat": 40.7243704,
     "lng": -74.005489,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-215857",
+    "name": "Primitive Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "207-209 East Broadway",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "(646) 831-6653",
+    "hours": "",
+    "lat": 40.714176,
+    "lng": -73.989761,
     "tags": [
       "food pantry",
       "walk-in"
@@ -152,25 +152,6 @@
     "lastUpdated": "2026-01-08"
   },
   {
-    "id": "fa-205707",
-    "name": "City Relief Lower East Side",
-    "category": "Food",
-    "description": "DELANCEY ST. (BTWN CHRYSTIE & FORSYTH ST)",
-    "address": "29 Delancey Street",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10002",
-    "phone": "",
-    "hours": "",
-    "lat": 40.7196743,
-    "lng": -73.9926266,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-173812",
     "name": "Project Hospitality - Canal Street",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 40.7085735,
     "lng": -74.0149887,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-205707",
+    "name": "City Relief Lower East Side",
+    "category": "Food",
+    "description": "DELANCEY ST. (BTWN CHRYSTIE & FORSYTH ST)",
+    "address": "29 Delancey Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002",
+    "phone": "",
+    "hours": "",
+    "lat": 40.7196743,
+    "lng": -73.9926266,
     "tags": [
       "food pantry",
       "walk-in"

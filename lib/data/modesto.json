@@ -171,25 +171,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-193256",
-    "name": "Davis Park Church of Christ",
-    "category": "Food",
-    "description": "Food distribution location at Davis Park Church of Christ",
-    "address": "901 W Rumble Road",
-    "city": "Modesto",
-    "state": "CA",
-    "zip": "95350",
-    "phone": "",
-    "hours": "",
-    "lat": 37.6824247,
-    "lng": -121.0054984,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-195325",
     "name": "Saint Joseph's - Saint Vincent de Paul - Food Distribution Center",
     "category": "Food",
@@ -202,6 +183,25 @@
     "hours": "",
     "lat": 37.6702967,
     "lng": -120.95917379999999,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-193256",
+    "name": "Davis Park Church of Christ",
+    "category": "Food",
+    "description": "Food distribution location at Davis Park Church of Christ",
+    "address": "901 W Rumble Road",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95350",
+    "phone": "",
+    "hours": "",
+    "lat": 37.6824247,
+    "lng": -121.0054984,
     "tags": [
       "food pantry",
       "walk-in"

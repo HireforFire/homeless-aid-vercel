@@ -209,18 +209,18 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-176014",
-    "name": "Catholic Community Services (CCS) – Eugene",
+    "id": "fa-177824",
+    "name": "Unitarian Universalist Church",
     "category": "Food",
-    "description": "Food pantry distribution location in Eugene, Oregon.",
-    "address": "1464 W 6th Avenue",
+    "description": "Food distribution site for Trillium Produce Plus at Unitarian Universalist Church.",
+    "address": "1685 W 13th Ave",
     "city": "Eugene",
     "state": "OR",
     "zip": "97402",
     "phone": "",
     "hours": "",
-    "lat": 44.052986197198,
-    "lng": -123.114888585692,
+    "lat": 44.045886222294,
+    "lng": -123.117382620982,
     "tags": [
       "food pantry",
       "walk-in"

@@ -171,6 +171,25 @@
     "lastUpdated": "2026-02-12"
   },
   {
+    "id": "fa-176691",
+    "name": "Sharing and Caring Hands",
+    "category": "Food",
+    "description": "Main facility providing free meal services",
+    "address": "525 North 7th Street",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55405",
+    "phone": "",
+    "hours": "",
+    "lat": 44.983155664514,
+    "lng": -93.282451142223,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-176279",
     "name": "Loring Nicollet Meals on Wheels",
     "category": "Food",
@@ -204,25 +223,6 @@
     "lng": -93.281941103415,
     "tags": [
       "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-180257",
-    "name": "Holmes Park Village - High Rise Mobile Food Shelf",
-    "category": "Food",
-    "description": "Mobile food shelf distribution location at Holmes Park Village high-rise",
-    "address": "302 2nd Avenue SE",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55414",
-    "phone": "",
-    "hours": "",
-    "lat": 44.9862293,
-    "lng": -93.2527538,
-    "tags": [
-      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"

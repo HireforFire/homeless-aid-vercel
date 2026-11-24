@@ -38,6 +38,25 @@
     "lastUpdated": "2026-01-08"
   },
   {
+    "id": "fa-225421",
+    "name": "Benton House Food Pantry",
+    "category": "Food",
+    "description": "Free food pantry providing food assistance. Open to all.",
+    "address": "3052 South Gratten Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "phone": "(773) 927-6420",
+    "hours": "",
+    "lat": 41.8388596,
+    "lng": -87.6541977,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-23"
+  },
+  {
     "id": "fa-222029",
     "name": "UI Health Pilsen Food Pantry",
     "category": "Food",
@@ -69,25 +88,6 @@
     "hours": "",
     "lat": 41.8381996,
     "lng": -87.6387405,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-23"
-  },
-  {
-    "id": "fa-225421",
-    "name": "Benton House Food Pantry",
-    "category": "Food",
-    "description": "Free food pantry providing food assistance. Open to all.",
-    "address": "3052 South Gratten Avenue",
-    "city": "Chicago",
-    "state": "IL",
-    "zip": "60608",
-    "phone": "(773) 927-6420",
-    "hours": "",
-    "lat": 41.8388596,
-    "lng": -87.6541977,
     "tags": [
       "food pantry",
       "walk-in"

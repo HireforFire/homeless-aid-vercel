@@ -114,6 +114,25 @@
     "lastUpdated": "2026-04-21"
   },
   {
+    "id": "fa-201513",
+    "name": "Peace Lutheran Church Food Pantry",
+    "category": "Food",
+    "description": "Food pantry located at Peace Lutheran Church",
+    "address": "1001 12th Ave. N",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102",
+    "phone": "",
+    "hours": "",
+    "lat": 46.8903724,
+    "lng": -96.793773,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
     "id": "fa-172677",
     "name": "YWCA Shelter of Cass-Clay",
     "category": "Food",
@@ -145,25 +164,6 @@
     "hours": "",
     "lat": 46.8829958,
     "lng": -96.7898787,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
-    "id": "fa-201513",
-    "name": "Peace Lutheran Church Food Pantry",
-    "category": "Food",
-    "description": "Food pantry located at Peace Lutheran Church",
-    "address": "1001 12th Ave. N",
-    "city": "Fargo",
-    "state": "ND",
-    "zip": "58102",
-    "phone": "",
-    "hours": "",
-    "lat": 46.8903724,
-    "lng": -96.793773,
     "tags": [
       "food pantry",
       "walk-in"

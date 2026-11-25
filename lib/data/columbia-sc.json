@@ -190,25 +190,6 @@
     "lastUpdated": "2026-04-23"
   },
   {
-    "id": "fa-200912",
-    "name": "Brookland Baptist Church",
-    "category": "Food",
-    "description": "Food distribution location",
-    "address": "1066 Sunset Blvd.",
-    "city": "West Columbia",
-    "state": "SC",
-    "zip": "29169",
-    "phone": "",
-    "hours": "",
-    "lat": 33.9982315,
-    "lng": -81.0736546,
-    "tags": [
-      "food pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-172704",
     "name": "MACH-PALSS - Palmetto AIDS Life Support Services",
     "category": "Food",
@@ -221,6 +202,25 @@
     "hours": "",
     "lat": 34.0289714,
     "lng": -81.0051495,
+    "tags": [
+      "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-200912",
+    "name": "Brookland Baptist Church",
+    "category": "Food",
+    "description": "Food distribution location",
+    "address": "1066 Sunset Blvd.",
+    "city": "West Columbia",
+    "state": "SC",
+    "zip": "29169",
+    "phone": "",
+    "hours": "",
+    "lat": 33.9982315,
+    "lng": -81.0736546,
     "tags": [
       "food pantry",
       "walk-in"

@@ -209,23 +209,23 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-841",
-    "name": "Community Food Bank of Central Alabama",
+    "id": "fa-226157",
+    "name": "Bundles of Hope Diaper Bank",
     "category": "Food",
-    "description": "Serves central Alabama counties",
-    "address": "107 Walter Davis Drive",
+    "description": "Free diaper bank providing food assistance. Open to all.",
+    "address": "Birmingham, AL",
     "city": "Birmingham",
     "state": "AL",
-    "zip": "35209",
-    "phone": "(205) 942-8911",
+    "zip": "35201",
+    "phone": "",
     "hours": "",
-    "lat": 33.4817,
-    "lng": -86.81,
+    "lat": 33.51856,
+    "lng": -86.80842,
     "tags": [
-      "food bank",
+      "diaper bank",
       "walk-in"
     ],
-    "lastUpdated": "2025-01-01"
+    "lastUpdated": "2026-05-10"
   },
   {
     "id": "fallback-birmingham-shelter",

@@ -133,25 +133,6 @@
     "lastUpdated": "2026-04-21"
   },
   {
-    "id": "fa-172228",
-    "name": "Iglesia Cafe Mobile - 2200 E Park Row Dr",
-    "category": "Food",
-    "description": "Mobile food distribution location in Arlington, Texas",
-    "address": "2200 E. Park Row Dr.",
-    "city": "Arlington",
-    "state": "TX",
-    "zip": "76010",
-    "phone": "(817) 459-3901",
-    "hours": "",
-    "lat": 32.72037,
-    "lng": -97.07089,
-    "tags": [
-      "mobile pantry",
-      "walk-in"
-    ],
-    "lastUpdated": "2026-04-21"
-  },
-  {
     "id": "fa-174797",
     "name": "Shepherd's Pantry - Shepherd of Life Ministry Offices",
     "category": "Food",
@@ -166,6 +147,25 @@
     "lng": -97.1007874,
     "tags": [
       "food pantry",
+      "walk-in"
+    ],
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "id": "fa-172228",
+    "name": "Iglesia Cafe Mobile - 2200 E Park Row Dr",
+    "category": "Food",
+    "description": "Mobile food distribution location in Arlington, Texas",
+    "address": "2200 E. Park Row Dr.",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010",
+    "phone": "(817) 459-3901",
+    "hours": "",
+    "lat": 32.72037,
+    "lng": -97.07089,
+    "tags": [
+      "mobile pantry",
       "walk-in"
     ],
     "lastUpdated": "2026-04-21"
